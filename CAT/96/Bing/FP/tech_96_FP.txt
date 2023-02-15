@@ -1,0 +1,98 @@
+#6:
+By sequencing all the human genes contained in each human cell , officially completed in May 2003 , all sorts of genetic variations have been linked to increased susceptibility to a specific illness .
+通过对每个人类细胞中所含的所有人类基因进行测序，2003年5月正式完成，各种遗传变异都与对特定疾病的易感性增加有关。
+By sequencing all the human genes contained in each human cell , officially completed in April 2003 , all sorts of genetic variations have been linked to increased susceptibility to a specific illness .
+通过对每个人类细胞中包含的所有人类基因进行测序，于2003年4月正式完成，各种遗传变异都与对特定疾病的易感性增加有关。
+LCS-Wdiff:	0.9354838709677419 
+--FP--
+#25:
+Zhang and the girls trained hard , and soon , parents and students saw great improvement in the team , which attracted more students to join .
+张和女生们刻苦训练，很快，家长和学生就看到了团队的很大进步，这吸引了更多的学生加入。
+Zhang and the girls trained hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+张和女生们刻苦训练，很快，师生们看到了团队的很大进步，吸引了更多的学生加入。
+LCS-Wdiff:	0.8571428571428571 
+--FP--
+#30:
+Apple has also received scrutiny over the years for the working conditions at some of its suppliers ' facilities .
+多年来，苹果公司还因其一些供应商设施的工作条件而受到审查 。
+Apple has also faced scrutiny over the years for the working conditions at some of its suppliers ' facilities .
+多年来，苹果还因其一些供应商设施的工作条件而面临审查 。
+LCS-Wdiff:	0.9375 
+--FP--
+#41:
+In fact , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Zhang ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑开始成为头条新闻之后，从哈勒普的意外失败开始，赛后采访中经常充斥着张的名字，这是推动郑在这么小的年纪取得辉煌成功的主要原因。
+In fact , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑开始成为头条新闻之后，从哈勒普的意外失利开始，赛后采访中经常充斥着李的名字，这是推动郑在这么早的时候取得辉煌成功的主要原因。
+LCS-Wdiff:	0.925 
+--FP--
+#42:
+In fact , after Zheng started making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑开始成为头条新闻之后，从意外击败哈勒普开始，赛后采访中经常充斥着李的名字，这是推动郑在这么小的年纪取得辉煌成功的主要原因。
+In fact , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑开始成为头条新闻之后，从哈勒普的意外失利开始，赛后采访中经常充斥着李的名字，这是推动郑在这么早的时候取得辉煌成功的主要原因。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#65:
+" I was under the impression that it was only a toy for children and pets , " says Niu Xinchen who started playing frisbee in April .
+“我的印象是它只是一个儿童和宠物的玩具，”牛新臣说，他从四月份开始玩飞盘。
+" I was under the impression that it was only a toy for children and pets , " says Qu Xinchen who started playing frisbee in April .
+“我的印象是它只是一个儿童和宠物的玩具，”四月份开始玩飞盘的曲新臣说。
+LCS-Wdiff:	0.8 
+--FP--
+#74:
+In many ways , this brand new ambition is a direct descendant of the Human Genome Project .
+在许多方面，这个全新的雄心壮志是人类基因组计划的直接后代。
+In many ways , this bold new ambition is a direct descendant of the Human Genome Project .
+在许多方面，这个大胆的新野心是人类基因组计划的直接后代。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#76:
+Her solid but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她坚实但伤病缠身的职业生涯让我想起了前NBA大个子姚明，他在休斯顿火箭队效力期间，由于脚部问题，31岁时也被迫挂掉了运动鞋。
+Her stellar but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她出色但伤病困扰的职业生涯让我想起了前NBA大个子姚明，他在休斯顿火箭队效力期间，也因脚部问题被迫在31岁时挂掉了运动鞋。
+LCS-Wdiff:	0.8823529411764706 
+--FP--
+#81:
+A cluster of data points would appear with unexpected properties – implicating the discovery a new kind of cell .
+一组数据点将以意想不到的属性出现 - 暗示发现一种新型细胞 。
+A cluster of data points might appear with unexpected properties – implicating the discovery a new kind of cell .
+一组数据点可能具有意想不到的属性 - 暗示发现一种新型的细胞。
+LCS-Wdiff:	0.9230769230769231 
+--FP--
+#85:
+" All gyms were closed because of the COVID - 19 resurgence then , and indoor activities were subjected to restrictive conditions , " Qu recalls , adding that he ' s also seen many enthusiasts posting their frisbee experience on the social media platform Xiaohongshu .
+“由于COVID-19的复苏，所有健身房都关闭了，室内活动受到限制性条件，”屈回忆道，并补充说他还看到许多爱好者在社交媒体平台小红书上发布他们的飞盘体验。
+" The gyms were closed because of the COVID - 19 resurgence then , and indoor activities were subjected to restrictive conditions , " Qu recalls , adding that he ' s also seen many enthusiasts posting their frisbee experience on the social media platform Xiaohongshu .
+“由于COVID-19的复兴，健身房被关闭，室内活动受到限制性条件，”屈回忆道，并补充说，他还看到许多爱好者在社交媒体平台小红书上发布他们的飞盘体验。
+LCS-Wdiff:	0.9318181818181818 
+--FP--
+#87:
+" Having said that , it ' s impossible at this stage to find places that have the skills or the volume to be able to deliver what Apple needs . "
+“话虽如此，现阶段不可能找到有能力或数量的地方，能够提供苹果所需要的东西。
+" Having said that , it ' s impossible at this stage to find places that have the skills and the volume to be able to deliver what Apple needs . "
+“话虽如此，现阶段不可能找到具有技能和数量的地方，以便能够提供苹果所需要的东西。
+LCS-Wdiff:	0.95 
+--FP--
+#96:
+Zhang Yelin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+58岁的张冶林是毛巴的居民，他从12岁起就开始做竹制品。
+Fu Yelin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+傅冶林，58岁的茅坝居民，从12岁起就开始做竹制品。
+LCS-Wdiff:	0.7777777777777778 
+--FP--
+#97:
+" China has been becoming more expensive for many years already , but what happened in the last year is it became more volatile , " said Allon .
+“中国多年来一直在变得更加昂贵，但去年发生的事情是它变得更加不稳定，”阿隆说。
+" China has been becoming more expensive for several years already , but what happened in the last year is it became more volatile , " said Allon .
+“中国已经变得昂贵了几年，但去年发生的事情是它变得更加不稳定，”阿隆说。
+LCS-Wdiff:	0.84 
+--FP--
+#98:
+Wang Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+35岁的王洋，中国东北辽宁省沈阳市一名厨师，已经做了10年的糕点。
+Wu Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+35岁的吴洋，中国东北辽宁省沈阳市厨师，已经做了10年的糕点。
+LCS-Wdiff:	0.9473684210526315 
+--FP--

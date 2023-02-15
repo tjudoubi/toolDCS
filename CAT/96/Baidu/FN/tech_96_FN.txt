@@ -1,0 +1,63 @@
+#14:
+The scientists repeated the experiment several times , and it soon became apparent they really had stumbled upon a new type of cell in the trachea .
+科学家们重复了几次实验，很快就发现他们真的在气管中发现了一种新型细胞。
+The scientists repeated the experiment several times , and it soon became clear they really had stumbled upon a new type of cell in the trachea .
+科学家们重复了几次实验，很快就发现他们真的在气管中发现了一种新型细胞。
+LCS-Wdiff:	1.0 
+--FN--
+#17:
+Climbing over the high mountains , passing the blue lake below , both buses seem connected as they negotiated the winding plateau highway .
+爬过高山，经过下面的蓝色湖泊，两辆公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+Climbing over the high mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+爬过高山，经过下面的蓝色湖泊，公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+LCS-Wdiff:	1.0 
+--FN--
+#27:
+A part of the Dongguan - based Mingyue company with investment from Japan , it is the only factory that produces garage kit figures in Southwest China .
+它是总部位于东莞的明月公司的一部分，由日本投资，是中国西南地区唯一一家生产车库套件的工厂。
+A subsidiary of the Dongguan - based Mingyue company with investment from Japan , it is the only factory that produces garage kit figures in Southwest China .
+它是总部位于东莞的明月公司的子公司，由日本投资，是中国西南地区唯一一家生产车库套件的工厂。
+LCS-Wdiff:	1.0 
+--FN--
+#31:
+In the footage , he is seen giving tourists directions , getting water for a baby and even helping the neighbor sell yogurt .
+在视频中，他给游客指路，给婴儿打水，甚至帮助邻居卖酸奶。
+In the footage , he is seen giving tourists directions , getting water for a baby and even helping a neighbor sell yogurt .
+在视频中，他给游客指路，给婴儿打水，甚至帮助邻居卖酸奶。
+LCS-Wdiff:	1.0 
+--FN--
+#37:
+Disc - throwing sport is growing in popularity , not least because of its non - contact and social aspects , Liu Feiyue reports .
+刘飞跃报道说，掷碟运动越来越受欢迎，这不仅仅是因为它的非接触性和社会性。
+Disc - throwing sport is growing in popularity , not least because of its non - contact and social aspects , Yang Feiyue reports .
+杨飞跃报道说，掷碟运动越来越受欢迎，这不仅仅是因为它的非接触性和社会性。
+LCS-Wdiff:	1.0 
+--FN--
+#39:
+He has visited many villages throughout the country where the tradition of making bamboo items is alive .
+他参观了全国许多村庄，那里的竹子制作传统非常盛行。
+He has visited many villages across the country where the tradition of making bamboo items is alive .
+他参观了全国许多村庄，那里的竹子制作传统非常盛行。
+LCS-Wdiff:	1.0 
+--FN--
+#41:
+In fact , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Zhang ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑洁开始登上头条新闻后，从意外击败哈勒普开始，赛后采访中经常会提到张的名字，这是郑洁在这么小的时候取得巨大成功的主要原因。
+In fact , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑洁开始登上头条新闻后，从意外击败哈勒普开始，赛后采访中经常会提到李娜的名字，这是郑洁在这么小的时候取得巨大成功的主要原因。
+LCS-Wdiff:	1.0 
+--FN--
+#42:
+In fact , after Zheng started making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑洁开始登上头条之后，从意外击败哈勒普开始，赛后采访中经常会提到李娜的名字，这是郑洁在这么小的时候取得巨大成功的主要原因。
+In fact , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑洁开始登上头条新闻后，从意外击败哈勒普开始，赛后采访中经常会提到李娜的名字，这是郑洁在这么小的时候取得巨大成功的主要原因。
+LCS-Wdiff:	1.0 
+--FN--
+#46:
+A cluster of data points may appear with unexpected properties – implicating the discovery a new kind of cell .
+一组数据点可能具有意外的属性，这意味着发现了一种新的单元。
+A cluster of data points might appear with unexpected properties – implicating the discovery a new kind of cell .
+一组数据点可能具有意外的属性，这意味着发现了一种新的单元。
+LCS-Wdiff:	1.0 
+--FN--

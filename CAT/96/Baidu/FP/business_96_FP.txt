@@ -1,0 +1,112 @@
+#73:
+Crime gangs often look to steal products from stores which can easily and quickly be resold on online marketplaces such as Amazon and through other illicit markets .
+犯罪团伙经常从商店盗窃产品，这些产品可以在亚马逊等在线市场和其他非法市场上轻松快速地转售。
+Crime gangs often look to steal products from stores that can easily and quickly be resold on online marketplaces such as Amazon and through other illicit markets .
+犯罪团伙经常从商店盗窃产品，这些产品可以在亚马逊等在线市场或通过其他非法市场轻松快速地转售。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#74:
+Germany , the bloc ' s biggest economy , could lose 220 billion over the next five years in such an event , according to its top economic forecasters .
+根据德国最高经济预测机构的数据，该集团最大的经济体德国可能在未来五年内损失2200亿欧元。
+Germany , the bloc ' s biggest economy , could lose 220 billion over the next two years in such an event , according to its top economic forecasters .
+根据德国最高经济预测机构的预测，该集团最大的经济体德国可能在未来两年内损失2200亿欧元。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#76:
+State Cyberspace Administration of China said in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国国家网络空间管理局在一份声明中表示，该公司违反了国家网络安全法、数据安全法和个人信息保护法。
+The Cyberspace Administration of China said in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国网络空间管理局在一份声明中表示，该公司违反了中国的网络安全法、数据安全法和个人信息保护法。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#77:
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement on Saturday with immediate effect .
+该品牌表示，它已自愿要求其所有媒体合作伙伴在周六立即停止播放该广告的变体。
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate effect .
+该品牌表示，已自愿要求其所有媒体合作伙伴从周六起立即停止播放该广告的变体。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#78:
+So far , the bank has extended 5 . 3 billion yuan of loans to support the building of garbage and sewage treatment facilities in over 200 counties .
+到目前为止，世行已发放53亿元贷款，支持200多个县的垃圾和污水处理设施建设。
+So far , the bank has extended 100 . 3 billion yuan of loans to support the building of garbage and sewage treatment facilities in over 200 counties .
+到目前为止，世行已经发放了1003亿元贷款，支持200多个县的垃圾和污水处理设施建设。
+LCS-Wdiff:	0.95 
+--FP--
+#79:
+While having fewer workers in the store increased profits for chains in recent decades , it has left chains in some cases without as many visible personnel to deter shoplifting , crime prevention experts say .
+犯罪预防专家说，虽然近几十年来商店里的工人越来越少增加了连锁店的利润，但在某些情况下，它让连锁店没有那么多可见的人员来阻止店内盗窃。
+While having fewer workers in the store increased profits for chains in recent decades , it has left stores in some cases without as many visible personnel to deter shoplifting , crime prevention experts say .
+犯罪预防专家说，虽然近几十年来商店里的工人减少增加了连锁店的利润，但在某些情况下，它让商店里没有那么多可见的人员来阻止商店盗窃。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#81:
+" They are charged by the sea , so they can extend their lifetime almost indefinitely , " Chao said .
+“它们由海洋充电，因此它们可以几乎无限期地延长寿命，”赵说。
+" They get charged by the sea , so they can extend their lifetime almost indefinitely , " Chao said .
+“它们被海水充电，所以它们可以几乎无限期地延长寿命，”赵说。
+LCS-Wdiff:	0.9375 
+--FP--
+#82:
+Locking up a product is the final step a retailer will take before removing it altogether , and stores say they are resorting to this measure more frequently as theft continues to grow .
+锁定一个产品是零售商在将其完全移除之前的最后一步，商店表示，随着盗窃行为的持续增长，他们越来越频繁地采取这一措施。
+Locking up a product is the final step a retailer will take before removing it altogether , and stores say they are resorting to this measure more frequently as theft continues to increase .
+锁定产品是零售商在将其完全移除之前的最后一步，商店表示，随着盗窃行为的不断增加，他们越来越频繁地采取这种措施。
+LCS-Wdiff:	0.9354838709677419 
+--FP--
+#84:
+The continent has grappled with supply shortages for months amid an escalating economic dispute between Moscow and Brussels over the war in Ukraine .
+由于莫斯科和布鲁塞尔之间关于乌克兰战争的经济争端不断升级，欧洲大陆几个月来一直在与供应短缺作斗争。
+The continent has grappled with supply shortages for months amid an escalating economic conflict between Moscow and Brussels over the war in Ukraine .
+由于莫斯科和布鲁塞尔之间因乌克兰战争而发生的经济冲突不断升级，欧洲大陆几个月来一直在与供应短缺作斗争。
+LCS-Wdiff:	0.9259259259259259 
+--FP--
+#85:
+Even the swift ban on him indicates how sensitive Chinese censors might be in this environment , she said .
+她说，即使是对他的迅速禁令也表明，在这种环境下，中国的审查人员可能是多么敏感。
+But the swift ban on him indicates how sensitive Chinese censors might be in this environment , she said .
+但她说，对他的迅速禁令表明，在这种环境下，中国审查人员可能是多么敏感。
+LCS-Wdiff:	0.92 
+--FP--
+#86:
+Though there may not be many big hit films in theaters over the next few weeks , there will still be movies to go see .
+虽然在未来几周内，电影院里可能不会有很多热门电影上映，但仍然会有电影可看。
+While there may not be many big hit films in theaters over the next few weeks , there will still be movies to go see .
+虽然在未来几周，影院里可能不会有太多热门电影上映，但仍然会有电影可看。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#87:
+Boeing suspended deliveries of the 787 when the FAA raised concerns about its proposed inspection method .
+当联邦航空局对其拟议的检查方法表示担忧时，波音暂停了787飞机的交付。
+Boeing suspended deliveries of the 787 after the FAA raised concerns about its proposed inspection method .
+在联邦航空局对其拟议的检查方法提出担忧后，波音暂停了787飞机的交付。
+LCS-Wdiff:	0.9 
+--FP--
+#88:
+A television commercial for a male body spray has been taken off the air in India , after activists said it made light of gang rape .
+在印度，一则男性身体喷雾的电视广告已经停播，此前活动人士称该广告轻视了轮奸。
+A television commercial for a male body spray has been taken off the air in India , after critics said it made light of gang rape .
+一则男性身体喷雾的电视广告在印度停播，此前批评人士称该广告轻视了轮奸。
+LCS-Wdiff:	0.8888888888888888 
+--FP--
+#92:
+Because the Fed raises rates , it makes it more expensive for people and businesses to borrow money .
+由于美联储提高了利率，人们和企业借钱的成本更高。
+When the Fed raises rates , it makes it more expensive for people and businesses to borrow money .
+当美联储提高利率时，人们和企业借钱的成本会更高。
+LCS-Wdiff:	0.8461538461538461 
+--FP--
+#94:
+It makes sense , therefore , for job seekers to try finding jobs with companies that are less susceptible to the economy ' s troubles .
+因此，对于求职者来说，尝试在不易受经济问题影响的公司找到工作是有道理的。
+It makes sense , therefore , for job seekers to try finding jobs with companies that are less vulnerable to the economy ' s troubles .
+因此，对于求职者来说，尝试在不太容易受到经济问题影响的公司找到工作是有道理的。
+LCS-Wdiff:	0.8333333333333334 
+--FP--
+#98:
+It is estimated that the allocation of a combined quota of 320 billion yuan will be completed before the end of August , said an unidentified official of the CBIRC on Sunday .
+CBIRC的一位身份不明的官员周日表示，预计3200亿元的总配额分配将在8月底前完成。
+It is estimated that the allocation of a combined quota of 320 billion yuan will be completed by the end of August , said an unidentified official of the CBIRC on Sunday .
+CBIRC的一位身份不明的官员周日表示，预计到8月底将完成3200亿元的总配额分配。
+LCS-Wdiff:	0.75 
+--FP--

@@ -1,0 +1,63 @@
+#10:
+While the Respect for Marriage Act has passed the House with a Democratic majority and the support of 47 Republicans , it is likely to stall in the evenly split Senate .
+虽然《尊重婚姻法》以民主党多数和47名共和党人的支持通过了众议院，但它很可能在平均分裂的参议院停滞不前。
+While the Respect for Marriage Act easily passed the House with a Democratic majority and the support of 47 Republicans , it is likely to stall in the evenly split Senate .
+虽然《尊重婚姻法》以民主党多数和47名共和党人的支持轻松通过了众议院，但它很可能在平均分裂的参议院停滞不前。
+LCS-Wdiff:	1.0 
+--FN--
+#17:
+" This might not infuriate so many people if it had n ' t happened in Nanjing , " said netizen " Meisheng " on the social media platform Sina Weibo .
+“如果这发生在南京，这可能不会激怒这么多人，”网友“美胜”在社交媒体平台新浪微博上说。
+" It might not infuriate so many people if it had n ' t happened in Nanjing , " said netizen " Meisheng " on the social media platform Sina Weibo .
+“如果它没有发生在南京，它可能不会激怒这么多人，”网友“美胜”在社交媒体平台新浪微博上说。
+LCS-Wdiff:	0.9615384615384616 
+--FN--
+#25:
+" The only way , if we truly want to stay together , is to rebuild a new pact with courage , unselfishness and credibility , " Draghi told the senators .
+“如果我们真正想在一起，唯一的办法就是用勇气、无私和信誉重建一个新的协议，”德拉吉告诉参议员们。
+" The only way , if we still want to stay together , is to rebuild a new pact with courage , unselfishness and credibility , " Draghi told the senators .
+“如果我们仍然想在一起，唯一的方法就是用勇气、无私和信誉重建一个新的协议，”德拉吉告诉参议员们。
+LCS-Wdiff:	0.9655172413793104 
+--FN--
+#26:
+" The only way , if we still wish to stay together , is to rebuild a new pact with courage , unselfishness and credibility , " Draghi told the senators .
+“如果我们仍然希望保持在一起，唯一的办法就是用勇气、无私和信誉重建一个新的协议，”德拉吉告诉参议员们。
+" The only way , if we still want to stay together , is to rebuild a new pact with courage , unselfishness and credibility , " Draghi told the senators .
+“如果我们仍然想在一起，唯一的方法就是用勇气、无私和信誉重建一个新的协议，”德拉吉告诉参议员们。
+LCS-Wdiff:	0.9655172413793104 
+--FN--
+#31:
+In the footage , he is shown giving tourists directions , getting water for a baby and even helping a neighbor sell yogurt .
+在镜头中，他给游客指路，给婴儿取水，甚至帮助邻居卖酸奶。
+In the footage , he is seen giving tourists directions , getting water for a baby and even helping a neighbor sell yogurt .
+在镜头中，他被看到给游客指路，给婴儿取水，甚至帮助邻居卖酸奶。
+LCS-Wdiff:	1.0 
+--FN--
+#34:
+In Merauke , an Indonesian town with a population of 100 , 000 , the only store selling traditional Chinese medicine , or TCM , also takes online orders for a range of other Chinese medicinal products .
+在马劳克，一个拥有10万人口的印尼小镇，唯一一家销售中药或中药的商店，也接受一系列其他中药产品的在线订单。
+In Merauke , an Indonesian town with a population of 130 , 000 , the only store selling traditional Chinese medicine , or TCM , also takes online orders for a range of other Chinese medicinal products .
+在马劳克，一个拥有13万人口的印尼小镇，唯一一家销售中药的商店，或中医，也接受一系列其他中药产品的在线订单。
+LCS-Wdiff:	0.9655172413793104 
+--FN--
+#35:
+In a special operation launched on August 1 , Shenzhen police detained eight suspects after intercepting a smuggling ship off the coast of the city .
+在8月1日发起的一次特别行动中，深圳警方在城外拦截了一艘走私船后，拘留了八名嫌疑人。
+In a special operation launched on June 1 , Shenzhen police detained eight suspects after intercepting a smuggling ship off the coast of the city .
+在6月1日发起的一次特别行动中，深圳警方在城市沿海拦截了一艘走私船后，拘留了八名嫌疑人。
+LCS-Wdiff:	0.9615384615384616 
+--FN--
+#61:
+" The only way , if we still want to stay together , is to forge a new pact with courage , unselfishness and credibility , " Draghi told the senators .
+“如果我们仍然想在一起，唯一的办法就是用勇气、无私和信誉缔结一个新的协议，”德拉吉告诉参议员们。
+" The only way , if we still want to stay together , is to rebuild a new pact with courage , unselfishness and credibility , " Draghi told the senators .
+“如果我们仍然想在一起，唯一的方法就是用勇气、无私和信誉重建一个新的协议，”德拉吉告诉参议员们。
+LCS-Wdiff:	0.9655172413793104 
+--FN--
+#72:
+While the Respect for Marriage Act easily passed the House with a Democratic majority and the support of 47 Republicans , it is likely to stall in the heavily split Senate .
+虽然《尊重婚姻法》以民主党多数和47名共和党人的支持轻松通过了众议院，但它很可能在严重分裂的参议院停滞不前。
+While the Respect for Marriage Act easily passed the House with a Democratic majority and the support of 47 Republicans , it is likely to stall in the evenly split Senate .
+虽然《尊重婚姻法》以民主党多数和47名共和党人的支持轻松通过了众议院，但它很可能在平均分裂的参议院停滞不前。
+LCS-Wdiff:	1.0 
+--FN--

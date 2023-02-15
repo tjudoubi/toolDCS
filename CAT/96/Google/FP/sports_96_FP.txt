@@ -1,0 +1,161 @@
+#8:
+Sainz initially did well to hold Verstappen off but the Red Bull driver soon overtook and stretched into the familiar lead .
+塞恩斯最初很好地阻止了维斯塔潘，但红牛车手很快超越并进入了熟悉的领先位置。
+Sainz initially did well to hold Verstappen off but the Red Bull driver soon overtook and stretched into a familiar lead .
+塞恩斯最初很好地阻止了维斯塔潘，但这位红牛车手很快超越并拉开了熟悉的领先位置。
+LCS-Wdiff:	0.96 
+--FP--
+#9:
+The team analyzed sociodemographic data for all athletes representing Canada , the US , Great Britain and Australia in Sochi .
+该团队分析了代表加拿大、美国、英国和澳大利亚在索契的所有运动员的社会人口数据。
+The study analyzed sociodemographic data for all athletes representing Canada , the US , Great Britain and Australia in Sochi .
+该研究分析了代表加拿大、美国、英国和澳大利亚在索契的所有运动员的社会人口统计数据。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#18:
+After the race restarted , Red Bull drivers Max Verstappen and Sergio Perez sustained damage to their cars and dropped down the pecking order allowing Ferrari ' s Sainz and Charles Leclerc to establish a commanding lead .
+比赛重新开始后，红牛车手马克斯·维斯塔潘和塞尔吉奥·佩雷斯对他们的赛车造成了伤害，并降低了排名，让法拉利车队的塞恩斯和查尔斯·勒克莱尔确立了领先优势。
+After the race restarted , Red Bull drivers Max Verstappen and Sergio Perez sustained damage to their cars and dropped down the pecking order allowing Ferrari ' s Sainz and Charles Leclerc to establish a strong lead .
+比赛重新开始后，红牛车手马克斯·维斯塔潘和塞尔吉奥·佩雷斯对他们的赛车造成了损坏，并降低了排名，让法拉利车队的塞恩斯和查尔斯·勒克莱尔建立了强大的领先优势。
+LCS-Wdiff:	0.9545454545454546 
+--FP--
+#21:
+According to leading sports scientist Simon Brundish , these characteristics are established through historic performance data .
+根据领先的体育科学家西蒙·布伦迪什的说法，这些特征是通过历史表现数据确定的。
+According to leading sports scientist Simon Brundish , these characteristics are created through historic performance data .
+根据领先的体育科学家西蒙布伦迪什的说法，这些特征是通过历史表现数据创建的。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#39:
+Zhou ' s car skidded upside down around the track and then flipped over the tyre barrier before crashing into the fence .
+周 的 车 在 赛道 上 颠倒 打滑 , 然后 翻 过 轮胎 护栏 , 撞 到 了 围栏 上 .
+Zhou ' s car skidded upside down across the track and then flipped over the tyre barrier before crashing into the fence .
+周 的 车 在 赛道 上 颠倒 打滑 , 然后 翻 过 轮胎 护栏 , 撞上了 围栏 .
+LCS-Wdiff:	0.95 
+--FP--
+#44:
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for over a month with limited food and water .
+他的团队一直在 Irpin 周围分发援助物资，并找到了在地下室躲藏了一个多月但食物和水有限的平民。
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的团队一直在 Irpin 周围分发援助物资，并找到了在地下室躲藏近一个月的平民，他们的食物和水有限。
+LCS-Wdiff:	0.7586206896551724 
+--FP--
+#55:
+After the race restarted , Red Bull drivers Max Verstappen and Ricardo Perez sustained damage to their cars and dropped down the pecking order allowing Ferrari ' s Sainz and Charles Leclerc to establish a strong lead .
+比赛重新开始后，红牛车手马克斯·维斯塔潘和里卡多·佩雷斯的赛车受到了损坏，并降低了排名，让法拉利车队的塞恩斯和查尔斯·勒克莱尔建立了强大的领先优势。
+After the race restarted , Red Bull drivers Max Verstappen and Sergio Perez sustained damage to their cars and dropped down the pecking order allowing Ferrari ' s Sainz and Charles Leclerc to establish a strong lead .
+比赛重新开始后，红牛车手马克斯·维斯塔潘和塞尔吉奥·佩雷斯对他们的赛车造成了损坏，并降低了排名，让法拉利车队的塞恩斯和查尔斯·勒克莱尔建立了强大的领先优势。
+LCS-Wdiff:	0.9545454545454546 
+--FP--
+#56:
+Although his brother is the " main sports guy in the family " at a young age , Obajo is the one to take athletics seriously enough to make a professional career from of it .
+尽管他的兄弟在很小的时候就是“家庭中的主要运动员”，但奥巴霍是一个认真对待田径运动并以此为职业生涯的人。
+Although his brother was the " main sports guy in the family " at a young age , Obajo is the one to take athletics seriously enough to make a professional career from of it .
+虽然他的兄弟在年轻时是“家庭中的主要体育人”，但奥巴霍是一个认真对待田径运动并以此为职业生涯的人。
+LCS-Wdiff:	0.8275862068965517 
+--FP--
+#57:
+" Great to have so many family and friends there and also the entire Ottawa area , and lots of Canadians supporting and watching , so it ' s going to be phenomenal .
+“很高兴有这么多家人和朋友在那里，还有整个渥太华地区，还有很多加拿大人支持和观看，所以这将是非凡的。
+" Going to have so many family and friends there and also the entire Ottawa area , and lots of Canadians supporting and watching , so it ' s going to be phenomenal .
+“那里会有这么多家人和朋友，还有整个渥太华地区，还有很多加拿大人支持和观看，所以这将是非凡的。
+LCS-Wdiff:	0.9310344827586207 
+--FP--
+#58:
+" She started going and she kept saying , ' You ' ve got ta come in , it sure does help with your mental health , ' " Waters told CNN .
+“她开始走了，她一直在说，'你必须进来，这对你的心理健康确实有帮助，'”沃特斯告诉美国有线电视新闻网。
+" She started going and she kept saying , ' You ' ve got ta come in , it really does help with your mental health , ' " Waters told CNN .
+“她开始走了，她一直说，'你必须进来，这确实有助于你的心理健康，'”沃特斯告诉美国有线电视新闻网。
+LCS-Wdiff:	0.9285714285714286 
+--FP--
+#61:
+It caused a lengthy delay but the driver was eventually deemed fit after being assessed at the medical center .
+这造成了长时间的延误，但在医疗中心接受评估后，司机最终被认为是合适的。
+It caused a lengthy delay but the driver was eventually declared fit after being assessed at the medical center .
+这造成了长时间的延误，但在医疗中心接受评估后，司机最终被宣布身体健康。
+LCS-Wdiff:	0.8260869565217391 
+--FP--
+#63:
+The report analyzed sociodemographic data for all athletes representing Canada , the US , Great Britain and Australia in Sochi .
+该报告分析了代表加拿大、美国、英国和澳大利亚在索契的所有运动员的社会人口数据。
+The study analyzed sociodemographic data for all athletes representing Canada , the US , Great Britain and Australia in Sochi .
+该研究分析了代表加拿大、美国、英国和澳大利亚在索契的所有运动员的社会人口统计数据。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#66:
+That she can look at them and hear what their dreams are , what their hopes are for their life .
+她可以看着他们，听到他们的梦想是什么，他们对生活的希望是什么。
+That we can look at them and hear what their dreams are , what their hopes are for their life .
+我们可以看着他们，听听他们的梦想是什么，他们对生活的希望是什么。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#67:
+With the forecast high temperatures of close to 40 Celsius , Ferrari ' s recent frailties could be exposed again as aerodynamics chief Diego Tondi suggested in a team preview .
+由于预测的高温接近 40 摄氏度，法拉利最近的弱点可能会再次暴露出来，正如空气动力学主管 Diego Tondi 在车队预览中所暗示的那样。
+Given the forecast high temperatures of close to 40 Celsius , Ferrari ' s recent frailties could be exposed again as aerodynamics chief Diego Tondi suggested in a team preview .
+鉴于预测的接近 40 摄氏度的高温，法拉利最近的弱点可能会再次暴露出来，正如空气动力学负责人 Diego Tondi 在车队预览中所暗示的那样。
+LCS-Wdiff:	0.9375 
+--FP--
+#71:
+Before practice on Thursday , Murray held an unannounced press conference , beginning with a monologue defending how he ' s become one of the better quarterbacks in the league .
+在周四的训练之前，穆雷举行了一次未经宣布的新闻发布会，首先是一段独白，为他如何成为联盟中更好的四分卫之一辩护。
+After practice on Thursday , Murray held an unannounced press conference , beginning with a monologue defending how he ' s become one of the better quarterbacks in the league .
+周四的训练结束后，穆雷举行了一场未经宣布的新闻发布会，首先是一段独白，为他如何成为联盟中更好的四分卫之一辩护。
+LCS-Wdiff:	0.9375 
+--FP--
+#72:
+And the ironic thing is I was the most intellectual person out on the tour at the time .
+具有讽刺意味的是，我是当时巡演中最聪明的人。
+And the ironic thing is he was the most intellectual person out on the tour at the time .
+具有讽刺意味的是，他是当时巡回演出中最聪明的人。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#76:
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a year with limited food and water .
+他的团队一直在 Irpin 周围分发援助物资，并找到了在地下室躲藏了将近一年的食物和水有限的平民。
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的团队一直在 Irpin 周围分发援助物资，并找到了在地下室躲藏近一个月的平民，他们的食物和水有限。
+LCS-Wdiff:	0.7931034482758621 
+--FP--
+#78:
+After practice on Wednesday , Murray held an unannounced press conference , beginning with a monologue defending how he ' s become one of the better quarterbacks in the league .
+周三训练结束后，穆雷召开了一场未经宣布的新闻发布会，首先是一段独白，他为自己如何成为联盟中更好的四分卫之一辩护。
+After practice on Thursday , Murray held an unannounced press conference , beginning with a monologue defending how he ' s become one of the better quarterbacks in the league .
+周四的训练结束后，穆雷举行了一场未经宣布的新闻发布会，首先是一段独白，为他如何成为联盟中更好的四分卫之一辩护。
+LCS-Wdiff:	0.9354838709677419 
+--FP--
+#82:
+Videos shared online appear to show a large section of fans singing Putin ' s name shortly after Galskyi had celebrated in front of the home fans .
+在加尔斯基在主场球迷面前庆祝后不久，网上分享的视频显示，一大群球迷高唱普京的名字。
+Videos shared online appear to show a large section of fans singing Putin ' s name shortly after Buyalskyi had celebrated in front of the home fans .
+布亚尔斯基在主场球迷面前庆祝后不久，网上分享的视频似乎显示了一大群球迷高唱普京的名字。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#85:
+You want to be strong , but sometimes is difficult because of everything , because you lost your home twice .
+你想坚强，但有时因为一切而困难，因为你两次失去了你的家。
+I want to be strong , but sometimes is difficult because of everything , because you lost your home twice .
+我想坚强，但有时因为一切而变得困难，因为你两次失去了你的家。
+LCS-Wdiff:	0.95 
+--FP--
+#87:
+His group had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的小组一直在 Irpin 周围分发援助物资，并找到了在地下室藏了将近一个月的食物和水有限的平民。
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的团队一直在 Irpin 周围分发援助物资，并找到了在地下室躲藏近一个月的平民，他们的食物和水有限。
+LCS-Wdiff:	0.8148148148148148 
+--FP--
+#91:
+His men had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的手下一直在 Irpin 周围分发援助物资，并找到了在地下室藏了将近一个月的食物和水有限的平民。
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的团队一直在 Irpin 周围分发援助物资，并找到了在地下室躲藏近一个月的平民，他们的食物和水有限。
+LCS-Wdiff:	0.8148148148148148 
+--FP--
+#93:
+With the Women ' s British Open approaching in October , her form puts the prospect of a third major firmly on the horizon , but Henderson already has her eyes on another event later that month .
+随着 10 月 女子 英国 公开赛 的 临近 , 她 的 状态 将 第三场 大满贯 的 前景 坚定 地 呈现 在 地平线 上 , 但 亨德森 已经 将 目光 放在 那个 月 晚些时候 的 另一场 赛事 上 .
+With the Women ' s British Open approaching in August , her form puts the prospect of a third major firmly on the horizon , but Henderson already has her eyes on another event later that month .
+随着 8 月份英国女子公开赛的临近，她的状态让第三次大满贯的前景牢牢地出现在了地平线上，但亨德森已经将目光投向了当月晚些时候的另一场赛事。
+LCS-Wdiff:	0.6666666666666666 
+--FP--

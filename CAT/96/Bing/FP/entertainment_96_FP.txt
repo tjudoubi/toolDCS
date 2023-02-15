@@ -1,0 +1,77 @@
+#5:
+It ' s not a full album yet , but two songs from the " Black Panther : Wakanda Forever " soundtrack are now available for streaming .
+这还不是一张完整的专辑，但《黑豹：永远的瓦坎达》原声带中的两首歌现在可以流媒体播放。
+It ' s not a full album yet , but three songs from the " Black Panther : Wakanda Forever " soundtrack are now available for streaming .
+这张专辑还不是一张完整的专辑，但《黑豹：永远的瓦坎达》原声带中的三首歌现在可以流媒体播放。
+LCS-Wdiff:	0.92 
+--FP--
+#27:
+Before I even get into the actual music , the singer had something to say about it leaking days before its scheduled release .
+在我进入实际音乐之前，这位歌手在预定发行前几天就对它泄露了一些话。
+Before we even get into the actual music , the singer had something to say about it leaking days before its scheduled release .
+在我们进入实际音乐之前，这位歌手在预定发行前几天就对它泄露了些话。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#38:
+Remember that , " she said before her death in the 2018 issue " The Return of the Mighty Thor .
+请记住，“她在2018年一期的《强大的雷神归来》中说过。
+Remember that , " she said before her death in the 2018 issue " The Death of the Mighty Thor .
+请记住，“她在2018年出版的《强大的雷神之死》中说过。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#39:
+" Renaissance " is that , of course , and the Grammy winner ' s eagerly awaited second album does n ' t disappoint , if social media is to be believed .
+《文艺复兴》就是这样，当然，格莱美奖得主热切期待的第二张专辑不会让人失望，如果社交媒体是可信的。
+" Renaissance " is that , of course , and the Grammy winner ' s eagerly awaited seventh album does n ' t disappoint , if social media is to be believed .
+《文艺复兴》就是这样，当然，如果社交媒体可信的话，格莱美奖得主热切期待的第七张专辑不会让人失望。
+LCS-Wdiff:	0.7307692307692307 
+--FP--
+#40:
+" Renaissance " is that , of course , and the Grammy winner ' s eagerly awaited seventh album will n ' t disappoint , if social media is to be believed .
+《文艺复兴》就是这样，当然，如果社交媒体是可信的，那么格莱美奖得主热切期待的第七张专辑不会令人失望。
+" Renaissance " is that , of course , and the Grammy winner ' s eagerly awaited seventh album does n ' t disappoint , if social media is to be believed .
+《文艺复兴》就是这样，当然，如果社交媒体可信的话，格莱美奖得主热切期待的第七张专辑不会让人失望。
+LCS-Wdiff:	0.8888888888888888 
+--FP--
+#47:
+CNN has reached out to Lopez and reps for Desus , Mero and Showtime to comment about the allegations .
+CNN已经联系了洛佩兹和Desus，Mero和Showtime的代表，以评论这些指控。
+CNN has reached out to Lopez and reps for Desus , Mero and Showtime for comment about the allegations .
+CNN已经联系了洛佩兹和Desus，Mero和Showtime的代表，以寻求对这些指控的评论。
+LCS-Wdiff:	0.9 
+--FP--
+#57:
+A look at some of the shows and movies streaming through Netflix , Amazon , Hulu and Disney + in August .
+看看八月份通过Netflix，亚马逊，Hulu和迪士尼+流媒体播放的一些节目和电影。
+A look at some of the shows and movies streaming on Netflix , Amazon , Hulu and Disney + in August .
+看看八月份在Netflix，亚马逊，Hulu和迪士尼+上播放的一些节目和电影。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#58:
+Bronx native Mero described Lopez as a smart , " South side Jamaica , Queens kid " who graduated with honors from college and came across Mero ' s comedy writing before she became famous .
+布朗克斯本地人梅罗形容洛佩兹是一个聪明的“南边牙买加，皇后区的孩子”，她以优异的成绩从大学毕业，并在她成名之前就发现了梅罗的喜剧作品。
+Bronx native Mero described Lopez as a smart , " South side Jamaica , Queens kid " who graduated with honors from college and came across Mero ' s comedy writing before he became famous .
+布朗克斯本地人梅罗形容洛佩兹是一个聪明的“南边牙买加，皇后区的孩子”，他以优异的成绩从大学毕业，并在他成名之前偶然发现了梅罗的喜剧作品。
+LCS-Wdiff:	0.9487179487179487 
+--FP--
+#73:
+CNN later reached out to Lopez and reps for Desus , Mero and Showtime for comment about the allegations .
+CNN后来联系了洛佩兹和Desus，Mero和Showtime的代表，以寻求有关指控的评论。
+CNN has reached out to Lopez and reps for Desus , Mero and Showtime for comment about the allegations .
+CNN已经联系了洛佩兹和Desus，Mero和Showtime的代表，以寻求对这些指控的评论。
+LCS-Wdiff:	0.95 
+--FP--
+#85:
+The station employee told CNN that energy carried over to the staff and crew on the show , which operated smoothly and like a family .
+该站员工告诉CNN，能量传递给了节目中的工作人员和工作人员，他们运行顺利，像一个家庭一样。
+The former employee told CNN that energy carried over to the staff and crew on the show , which operated smoothly and like a family .
+这位前员工告诉CNN，精力在节目中传递给了工作人员和工作人员，他们运作顺利，像一个家庭。
+LCS-Wdiff:	0.782608695652174 
+--FP--
+#94:
+It ' s not a full album yet , although three songs from the " Black Panther : Wakanda Forever " soundtrack are now available for streaming .
+这还不是一张完整的专辑，尽管《黑豹：永远的瓦坎达》原声带中的三首歌现在可以流媒体播放。
+It ' s not a full album yet , but three songs from the " Black Panther : Wakanda Forever " soundtrack are now available for streaming .
+这张专辑还不是一张完整的专辑，但《黑豹：永远的瓦坎达》原声带中的三首歌现在可以流媒体播放。
+LCS-Wdiff:	0.96 
+--FP--

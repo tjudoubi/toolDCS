@@ -1,0 +1,1864 @@
+#3: If people are buying fewer products , companies wo n ' t place new orders , which will weigh on factory output .
+google: 如果 人们 购买 的 产品 减少 ， 公司 就 不 会 下 新 订单 ， 这 将 对 工厂 产出 造成 压力 。
+bing: 如果 人们 购买 的 产品 越来越 少 ， 公司 就 会 下 新 订单 ， 这 将 给 工厂 的 产量 带来 压力 。
+      companies wo n t place new orders 
+      公司就不会下新订单;-;公司就会下新订单;-;0.896327793598175
+      If people are buying fewer products 
+      如果人们购买的产品减少;-;如果人们购买的产品越来越少;-;0.8211806416511536
+      which will weigh on factory output 
+      这将对工厂产出造成压力;-;这将给工厂的产量带来压力;-;0.9159805774688721
+      samex2x3
+--sbert--
+
+#3: If people are buying fewer products , companies wo n ' t place new orders , which will weigh on factory output .
+baidu: 如果 人们 购买 的 产品 越来越 少 ， 公司 就 不 会 下 新 订单 ， 这 将 影响 工厂 产量 。
+bing: 如果 人们 购买 的 产品 越来越 少 ， 公司 就 会 下 新 订单 ， 这 将 给 工厂 的 产量 带来 压力 。
+      companies wo n t place new orders 
+      公司就不会下新订单;-;公司就会下新订单;-;0.896327793598175
+      If people are buying fewer products 
+      如果人们购买的产品越来越少;-;如果人们购买的产品越来越少;-;1.0
+      which will weigh on factory output 
+      这将影响工厂产量;-;这将给工厂的产量带来压力;-;0.7797463536262512
+      samex1x3
+--sbert--
+
+#9: The continent has grappled with supply shortages for months amid an escalating economic dispute between Moscow and Brussels over the war in Ukraine .
+google: 在 莫斯科 和 布鲁塞尔 之间 因 乌克兰 战争 而 不断 升级 的 经济 争端 中 ， 欧洲 大陆 数 月 来 一直 在 努力 解决 供应 短缺 问题 。
+bing: 几 个 月 来 ， 由于 莫斯科 和 布鲁塞尔 之间 因 乌克兰 战争 而 不断 升级 的 经济 争端 ， 非洲 大陆 一直 在 努力 解决 供应 短缺 问题 。
+      The continent has grappled with supply shortages 
+      大陆来一直在努力解决供应短缺问题;-;非洲大陆一直在努力解决供应短缺问题;-;0.8888847827911377
+      for months amid an escalating economic dispute between Moscow and Brussels over the war in Ukraine 
+      在莫斯科和布鲁塞尔之间因乌克兰战争而不断升级的经济争端中欧洲数月;-;几个月来由于莫斯科和布鲁塞尔之间因乌克兰战争而不断升级的经济争端;-;0.9028695821762085
+      samex2x3
+--sbert--
+
+#15: See here : This week , Walmart slashed its profit outlook , warning that customers were changing their shopping habits .
+google: 看 这里 ： 本周 ， 沃尔玛 大幅 下调 了 利润 预期 ， 警告 顾客 正在 改变 他们 的 购物 习惯 。
+bing: 本周 ， 沃尔玛 下调 了 利润 前景 ， 警告 顾客 正在 改变 他们 的 购物 习惯 。
+      Walmart slashed its profit outlook 
+      沃尔玛大幅下调了利润预期;-;沃尔玛下调了利润前景;-;0.8410318493843079
+      that customers were changing their shopping habits 
+      顾客正在改变他们的购物习惯;-;顾客正在改变他们的购物习惯;-;1.0
+      See here This week warning 
+      看这里本周警告;-;本周警告;-;0.819136381149292
+      samex2x3
+--sbert--
+
+#15: See here : This week , Walmart slashed its profit outlook , warning that customers were changing their shopping habits .
+baidu: 请 看 这里 ： 本周 ， 沃尔玛 大幅 下调 了 利润 预期 ， 警告 消费者 正在 改变 他们 的 购物 习惯 。
+bing: 本周 ， 沃尔玛 下调 了 利润 前景 ， 警告 顾客 正在 改变 他们 的 购物 习惯 。
+      Walmart slashed its profit outlook 
+      沃尔玛大幅下调了利润预期;-;沃尔玛下调了利润前景;-;0.8410318493843079
+      that customers were changing their shopping habits 
+      消费者正在改变他们的购物习惯;-;顾客正在改变他们的购物习惯;-;0.9268200993537903
+      See here This week warning 
+      请看这里本周警告;-;本周警告;-;0.7687064409255981
+      samex1x3
+--sbert--
+
+#21: Coming next week : The US jobs report for March will be closely scrutinized for evidence the economy is slowing faster than expected .
+baidu: 下周 即将 到来 ： 美国 3 月份 的 就业 报告 将 被 仔细 审查 ， 以 寻找 经济 放缓 速度 快 于 预期 的 证据 。
+bing: 下周 ： 美国 3 月份 的 就业 报告 将 受到 严格 审查 ， 以 证明 经济 放缓 速度 快 于 预期 。
+      The US jobs report the is slowing faster than 
+      美国的就业报告放缓速度快于;-;美国的就业报告放缓速度快于;-;1.0
+      expected 
+      预期;-;预期;-;1.0
+      economy 
+      经济;-;经济;-;1.0
+      Coming next week for March will be closely scrutinized for evidence 
+      下周即将到来3月份将被仔细审查以寻找的证据;-;下周3月份将受到严格审查以证明;-;0.7630943655967712
+      samex1x3
+--sbert--
+
+#30: But in recent months , they ' ve realized they have too much stuff , especially at an uncertain moment for manufacturers and shoppers , and become hesitant to place new orders .
+baidu: 但 近 几 个 月 来 ， 他们 意识 到 自己 的 东西 太 多 了 ， 尤其 是 在 制造商 和 消费者 不 确定 的 时刻 ， 他们 开始 犹豫 是否 下 新 订单 。
+google: 但 最 近 几 个 月 ， 他们 意识 到 自己 的 东西 太 多 了 ， 尤其 是 在 制造商 和 购物者 不 确定 的 时刻 ， 他们 开始 犹豫 是否 要 下 新 订单 。
+      they have too much stuff 
+      东西太多了;-;东西太多了;-;1.0
+      especially at an uncertain moment for manufacturers and shoppers 
+      尤其是在制造商和消费者不确定的时刻;-;尤其是在制造商和购物者不确定的时刻;-;0.8301867246627808
+      But in recent months they ve realized and become hesitant to place new orders 
+      但近几个月来他们意识到自己的他们开始犹豫是否下新订单;-;但最近几个月他们意识到自己的他们开始犹豫是否要下新订单;-;0.9806567430496216
+      samex1x2
+
+
+#41: Zhang and the girls trained hard , and soon , teachers and students noticed great improvement in the team , which attracted more students to join .
+baidu: 张 和 女孩 们 刻苦 训练 ， 很快 ， 老师 和 学生 们 注意 到 球队 有 了 很 大 的 进步 ， 吸引 了 更 多 的 学生 加入 。
+google: 张 老师 和 姑娘 们 刻苦 训练 ， 很快 ， 老师 和 同学 们 就 发现 队伍 有 了 很 大 的 进步 ， 吸引 了 更 多 的 同学 加入 。
+      Zhang and the girls trained hard 
+      张和女孩们刻苦训练;-;张老师和姑娘们刻苦训练;-;0.7794423699378967
+      which attracted more students to join 
+      吸引了更多的学生加入;-;吸引了更多的同学加入;-;0.9203043580055237
+      and soon teachers and students noticed great improvement in the team 
+      很快老师和学生们注意到球队有了很大的进步;-;很快老师和同学们就发现队伍有了很大的进步;-;0.8673576712608337
+      samex1x2
+--sbert--
+
+#41: Zhang and the girls trained hard , and soon , teachers and students noticed great improvement in the team , which attracted more students to join .
+google: 张 老师 和 姑娘 们 刻苦 训练 ， 很快 ， 老师 和 同学 们 就 发现 队伍 有 了 很 大 的 进步 ， 吸引 了 更 多 的 同学 加入 。
+bing: 张 和 女生 们 刻苦 训练 ， 很快 ， 师生 们 注意 到 团队 有 了 很 大 的 进步 ， 吸引 了 更 多 的 学生 加入 。
+      Zhang and the girls trained hard 
+      张老师和姑娘们刻苦训练;-;张和女生们刻苦训练;-;0.7616569995880127
+      which attracted more students to join 
+      吸引了更多的同学加入;-;吸引了更多的学生加入;-;0.9203043580055237
+      and soon teachers and students noticed great improvement in the team 
+      很快老师和同学们就发现队伍有了很大的进步;-;很快师生们注意到团队有了很大的进步;-;0.8484432697296143
+      samex2x3
+--sbert--
+
+#41: Zhang and the girls trained hard , and soon , teachers and students noticed great improvement in the team , which attracted more students to join .
+baidu: 张 和 女孩 们 刻苦 训练 ， 很快 ， 老师 和 学生 们 注意 到 球队 有 了 很 大 的 进步 ， 吸引 了 更 多 的 学生 加入 。
+bing: 张 和 女生 们 刻苦 训练 ， 很快 ， 师生 们 注意 到 团队 有 了 很 大 的 进步 ， 吸引 了 更 多 的 学生 加入 。
+      Zhang and the girls trained hard 
+      张和女孩们刻苦训练;-;张和女生们刻苦训练;-;0.9414893388748169
+      which attracted more students to join 
+      吸引了更多的学生加入;-;吸引了更多的学生加入;-;1.0
+      and soon teachers and students noticed great improvement in the team 
+      很快老师和学生们注意到球队有了很大的进步;-;很快师生们注意到团队有了很大的进步;-;0.8495385646820068
+      samex1x3
+--sbert--
+
+#42: Zhang and the girls trained hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+baidu: 张 和 女孩 们 刻苦 训练 ， 很快 ， 老师 和 学生 们 看到 了 球队 的 巨大 进步 ， 吸引 了 更 多 的 学生 加入 。
+google: 张 老师 和 姑娘 们 刻苦 训练 ， 很快 ， 老师 和 同学 们 的 队伍 有 了 很 大 的 进步 ， 吸引 了 更 多 的 同学 加入 。
+      Zhang and the girls trained hard 
+      张和女孩们刻苦训练;-;张老师和姑娘们刻苦训练;-;0.7794423699378967
+      which attracted more students to join 
+      吸引了更多的学生加入;-;吸引了更多的同学加入;-;0.9203043580055237
+      and soon teachers and students saw great improvement in the team 
+      很快老师和学生们看到了球队的巨大进步;-;很快老师和同学们的队伍有了很大的进步;-;0.7850804328918457
+      samex1x2
+--sbert--
+
+#42: Zhang and the girls trained hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+google: 张 老师 和 姑娘 们 刻苦 训练 ， 很快 ， 老师 和 同学 们 的 队伍 有 了 很 大 的 进步 ， 吸引 了 更 多 的 同学 加入 。
+bing: 张 和 女生 们 刻苦 训练 ， 很快 ， 师生 们 看到 了 团队 的 很 大 进步 ， 吸引 了 更 多 的 学生 加入 。
+      Zhang and the girls trained hard 
+      张老师和姑娘们刻苦训练;-;张和女生们刻苦训练;-;0.7616569995880127
+      which attracted more students to join 
+      吸引了更多的同学加入;-;吸引了更多的学生加入;-;0.9203043580055237
+      and soon teachers and students saw great improvement in the team 
+      很快老师和同学们的队伍有了很大的进步;-;很快师生们看到了团队的很大进步;-;0.8102999925613403
+      samex2x3
+--sbert--
+
+#42: Zhang and the girls trained hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+baidu: 张 和 女孩 们 刻苦 训练 ， 很快 ， 老师 和 学生 们 看到 了 球队 的 巨大 进步 ， 吸引 了 更 多 的 学生 加入 。
+bing: 张 和 女生 们 刻苦 训练 ， 很快 ， 师生 们 看到 了 团队 的 很 大 进步 ， 吸引 了 更 多 的 学生 加入 。
+      Zhang and the girls trained hard 
+      张和女孩们刻苦训练;-;张和女生们刻苦训练;-;0.9414893388748169
+      which attracted more students to join 
+      吸引了更多的学生加入;-;吸引了更多的学生加入;-;1.0
+      and soon teachers and students saw great improvement in the team 
+      很快老师和学生们看到了球队的巨大进步;-;很快师生们看到了团队的很大进步;-;0.8104082942008972
+      samex1x3
+--sbert--
+
+#48: Huang only has one student , Qin Zi , and at the end of the first school year , the leaders are set to evaluate Qin to decide whether they will keep the specialty .
+baidu: 黄光裕 只有 一 名 学生 秦子 ， 在 第一 学年 结束 时 ， 领导 们 将 对 秦子 进行 评估 ， 以 决定 是否 保留 该 专业 。
+google: 黄 只有 一个 学生 ， 秦子 ， 第一 学年 结束 时 ， 领导 要 对 秦子 进行 评估 ， 以 决定 是否 保留 该 专业 。
+      Huang has the leaders are set to evaluate Qin 
+      黄光裕只有时领导们将对秦子进行评估;-;黄只有时领导要对秦子进行评估;-;0.8256415724754333
+      whether they will keep the specialty 
+      是否保留该专业;-;是否保留该专业;-;1.0
+      to decide 
+      以决定;-;以决定;-;1.0
+      only one student Qin Zi and at the end of the first school year 
+      只有一名学生秦子在第一学年结束;-;只有一个学生秦子第一学年结束;-;0.9292130470275879
+      samex1x2
+--sbert--
+
+#48: Huang only has one student , Qin Zi , and at the end of the first school year , the leaders are set to evaluate Qin to decide whether they will keep the specialty .
+google: 黄 只有 一个 学生 ， 秦子 ， 第一 学年 结束 时 ， 领导 要 对 秦子 进行 评估 ， 以 决定 是否 保留 该 专业 。
+bing: 黄琦 只有 一个 学生 ， 秦紫 ， 在 第一 学年 结束 时 ， 领导 们 准备 对 秦 进行 评估 ， 以 决定 是否 保留 这个 专业 。
+      Huang has the leaders are set to evaluate Qin 
+      黄只有时领导要对秦子进行评估;-;黄琦只有时领导们准备对秦进行评估;-;0.8151578903198242
+      whether they will keep the specialty 
+      是否保留该专业;-;是否保留这个专业;-;0.9002407193183899
+      to decide 
+      以决定;-;以决定;-;1.0
+      only one student Qin Zi and at the end of the first school year 
+      只有一个学生秦子第一学年结束;-;只有一个学生秦紫在第一学年结束;-;0.8879773020744324
+      samex2x3
+--sbert--
+
+#53: " It may be a bit early to celebrate , but I want to take the opportunity to inspire the company ' s young choreographers . "
+baidu: “ 现在 庆祝 可能 还 为时过早 ， 但 我 想 借此机会 激励 公司 的 年轻 编舞 。 ”
+bing: “ 庆祝 可能 还 为时过早 ， 但 我 想 借此机会 激励 公司 的 年轻 编舞家 。
+      It may be a bit early to celebrate 
+      现在庆祝可能还为时过早;-;庆祝可能还为时过早;-;0.9088066220283508
+      to inspire the company s young choreographers 
+      激励公司的年轻编舞;-;激励公司的年轻编舞家;-;0.953960120677948
+      to take the opportunity 
+      借此机会;-;借此机会;-;1.0
+      I want 
+      我想;-;我想;-;1.0
+      '' but '' 
+      但;-;但;-;1.0
+      samex1x3
+--same--
+
+#65: So , the world has remained at a largely peaceful status over the past decades , but some dangerous conflicts and frictions have popped up from time to time , Xing said .
+baidu: 因此 ， 在 过去 几十 年 中 ， 世界 基本上 保持 和平 状态 ， 但 一些 危险 的 冲突 和 摩擦 不时 出现 ， 邢说 。
+google: 邢说 ， 过去 几十 年 ， 世界 基本 保持 和平 状态 ， 但 一些 危险 的 冲突 和 摩擦 时有发生 。
+      the world has remained at a peaceful status 
+      世界保持和平状态;-;世界保持和平状态;-;1.0
+      So largely over the past decades 
+      因此在过去几十年中基本上;-;过去几十年基本;-;0.8824666738510132
+      some dangerous conflicts and frictions have popped up from time to time 
+      一些危险的冲突和摩擦不时出现;-;一些危险的冲突和摩擦时有发生;-;0.9481858611106873
+      but 
+      但;-;但;-;1.0
+      Xing said 
+      邢说;-;邢说;-;1.0
+      samex1x2
+--sbert--
+
+#65: So , the world has remained at a largely peaceful status over the past decades , but some dangerous conflicts and frictions have popped up from time to time , Xing said .
+google: 邢说 ， 过去 几十 年 ， 世界 基本 保持 和平 状态 ， 但 一些 危险 的 冲突 和 摩擦 时有发生 。
+bing: 因此 ， 在 过去 的 几十 年 里 ， 世界 基本上 保持 和平 状态 ， 但 一些 危险 的 冲突 和 摩擦 不时 出现 ， 邢说 。
+      the world has remained at a peaceful status 
+      世界保持和平状态;-;世界保持和平状态;-;1.0
+      So largely over the past decades 
+      过去几十年基本;-;因此在过去的几十年里基本上;-;0.8848421573638916
+      some dangerous conflicts and frictions have popped up from time to time 
+      一些危险的冲突和摩擦时有发生;-;一些危险的冲突和摩擦不时出现;-;0.9481858611106873
+      but 
+      但;-;但;-;1.0
+      Xing said 
+      邢说;-;邢说;-;1.0
+      samex2x3
+--sbert--
+
+#68: With rigorous scientific logic , rich knowledge and a skill in storytelling , Yuan ' s articles are easy to follow .
+google: 凭借 严谨 的 科学 逻辑 、 丰富 的 知识 和 讲 故事 的 技巧 ， 袁 的 文章 很 容易 理解 。
+bing: 凭借 严谨 的 科学 逻辑 、 丰富 的 知识 和 讲 故事 的 技巧 ， 袁咏仪 的 文章 很 容易 被 理解 。
+      Yuan s articles are easy to follow 
+      袁的文章很容易理解;-;袁咏仪的文章很容易被理解;-;0.7610291838645935
+      With rigorous scientific logic rich knowledge and a skill in storytelling 
+      凭借严谨的科学逻辑丰富的知识和讲故事的技巧;-;凭借严谨的科学逻辑丰富的知识和讲故事的技巧;-;1.0
+      samex2x3
+--sbert--
+
+#71: " The idea to build a community with a shared future for humanity , proposed by the Chinese president , has become more urgent to implement and is more in line with our current needs , " he stated .
+baidu: 他 说 ： “ 中国 国家 主席 提出 的 建设 一个 人类 共同 未来 的 社区 的 想法 ， 已经 变 得 更加 迫切 需要 实施 ， 更加 符合 我们 当前 的 需要 。 ” 。
+bing: “ 中国 国家 主席 提出 的 建立 一个 人类 命运 共同体 的 想法 ， 已经 变 得 更加 迫切 需要 实施 ， 更 符合 我们 当前 的 需求 ， ” 他 说 。
+      The idea to build a community with a shared future for humanity has become more urgent 
+      建设一个人类共同未来的社区的想法已经变得更加迫切;-;的建立一个人类命运共同体的想法已经变得更加迫切;-;0.7649542093276978
+      proposed by the Chinese president 
+      中国国家主席提出;-;中国国家主席提出;-;1.0
+      '' to implement and is more in line with our current needs '' he stated 
+      他说的需要实施更加符合我们当前的需要;-;需要实施更符合我们当前的需求他说;-;0.9353318214416504
+      samex1x3
+--sbert--
+
+#72: " The idea to build a community with a shared future for humanity , proposed by the Chinese president , has become more urgent to implement and is more in line with our current needs , " he said .
+baidu: 他 说 ： “ 中国 国家 主席 提出 的 建设 一个 人类 共同 未来 的 社区 的 想法 ， 已经 变 得 更加 迫切 需要 实施 ， 更加 符合 我们 当前 的 需要 。 ” 。
+bing: “ 中国 国家 主席 提出 的 建立 一个 人类 命运 共同体 的 想法 ， 已经 变 得 更加 迫切 需要 实施 ， 更 符合 我们 当前 的 需求 ， ” 他 说 。
+      The idea to build a community with a shared future for humanity has become more urgent 
+      建设一个人类共同未来的社区的想法已经变得更加迫切;-;的建立一个人类命运共同体的想法已经变得更加迫切;-;0.7649542093276978
+      proposed by the Chinese president 
+      中国国家主席提出;-;中国国家主席提出;-;1.0
+      '' to implement and is more in line with our current needs '' he said 
+      他说的需要实施更加符合我们当前的需要;-;需要实施更符合我们当前的需求他说;-;0.9353318214416504
+      samex1x3
+--sbert--
+
+#83: As the sun set on a hot summer evening this month , a leisurely breeze wafted across Dazaihou Beach on Gulangyu Island , a short ferry ride from Xiamen , Fujian province .
+baidu: 本月 一个 炎热 的 夏夜 ， 当 太阳 落山 时 ， 一 股 悠闲 的 微风 吹 过 鼓浪屿 上 的 大 宰洲 海滩 。 鼓浪屿 是 从 福建省 厦门 出发 的 一个 短途 渡口 。
+google: 本月 一个 炎热 的 夏夜 ， 夕阳西下 ， 悠闲 的 微风 吹 过 鼓浪屿 岛 的 大 宰 后 海滩 ， 从 福建省 厦门 乘坐 渡轮 不 远 。
+      a breeze wafted across Dazaihou Beach on Gulangyu Island 
+      一股的微风吹过鼓浪屿上的大宰洲海滩;-;的微风吹过鼓浪屿岛的大宰后海滩;-;0.8898413181304932
+      As the sun set on a hot summer evening this month leisurely a short ferry ride from Xiamen Fujian province 
+      本月一个炎热的夏夜当太阳落山时悠闲鼓浪屿是从福建省厦门出发的一个短途渡口;-;本月一个炎热的夏夜夕阳西下悠闲从福建省厦门乘坐渡轮不远;-;0.7934140563011169
+      samex1x2
+--sbert--
+
+#84: As the sun set on a hot summer evening this month , a leisurely breeze wafted across Gangzaihou Beach on Gulangyu Island , a short ferry ride from Xiamen , Fujian province .
+baidu: 本月 一个 炎热 的 夏夜 ， 当 太阳 落山 时 ， 一 股 悠闲 的 微风 吹 过 鼓浪屿 的 港 仔后 海滩 。 鼓浪屿 是 从 福建省 厦门 出发 的 一个 短途 渡轮 。
+google: 本月 一个 炎热 的 夏夜 ， 夕阳西下 ， 悠闲 的 微风 吹 过 鼓浪屿 上 的 港 仔后 海滩 ， 从 福建省 厦门 乘船 不 远 。
+      a breeze wafted across Gangzaihou Beach on Gulangyu Island 
+      一股的微风吹过鼓浪屿的港仔后海滩;-;的微风吹过鼓浪屿上的港仔后海滩;-;0.9272205233573914
+      As the sun set on a hot summer evening this month leisurely a short ferry ride from Xiamen Fujian province 
+      本月一个炎热的夏夜当太阳落山时悠闲鼓浪屿是从福建省厦门出发的一个短途渡轮;-;本月一个炎热的夏夜夕阳西下悠闲从福建省厦门乘船不远;-;0.7686142921447754
+      samex1x2
+--sbert--
+
+#84: As the sun set on a hot summer evening this month , a leisurely breeze wafted across Gangzaihou Beach on Gulangyu Island , a short ferry ride from Xiamen , Fujian province .
+baidu: 本月 一个 炎热 的 夏夜 ， 当 太阳 落山 时 ， 一 股 悠闲 的 微风 吹 过 鼓浪屿 的 港 仔后 海滩 。 鼓浪屿 是 从 福建省 厦门 出发 的 一个 短途 渡轮 。
+bing: 本月 一个 炎热 的 夏夜 ， 夕阳西下 ， 一阵 悠然 的 微风 飘 过 鼓浪屿 的 岗 仔后 海滩 ， 距离 福建省 厦门市 只有 很 短 的 渡轮 车程 。
+      a breeze wafted across Gangzaihou Beach on Gulangyu Island 
+      一股的微风吹过鼓浪屿的港仔后海滩;-;一阵的微风飘过鼓浪屿的岗仔后海滩;-;0.9342194199562073
+      As the sun set on a hot summer evening this month leisurely a short ferry ride from Xiamen Fujian province 
+      本月一个炎热的夏夜当太阳落山时悠闲鼓浪屿是从福建省厦门出发的一个短途渡轮;-;本月一个炎热的夏夜夕阳西下悠然距离福建省厦门市只有很短的渡轮车程;-;0.7696936726570129
+      samex1x3
+--sbert--
+
+#91: The United States still holds the legality of hegemony though the Cold War was over .
+baidu: 冷战 结束 后 ， 美国 仍然 拥有 霸权 的 合法性 。
+google: 冷战 结束 后 ， 美国 仍然 拥有 霸权 的 合法性 。
+      The United States holds the legality of hegemony 
+      美国拥有霸权的合法性;-;美国拥有霸权的合法性;-;1.0
+      though the Cold War was over 
+      冷战结束后;-;冷战结束后;-;1.0
+      still 
+      仍然;-;仍然;-;1.0
+      samex1x2
+--same--
+
+#92: The United States still holds the mentality of hegemony though the Cold War was over .
+baidu: 冷战 结束 后 ， 美国 仍然 保持 着 霸权 心态 。
+google: 冷战 结束 后 ， 美国 仍 抱 有 霸权 心态 。
+      The United States holds the mentality of hegemony 
+      美国保持着霸权心态;-;美国抱有霸权心态;-;0.8284295797348022
+      though the Cold War was over 
+      冷战结束后;-;冷战结束后;-;1.0
+      still 
+      仍然;-;仍;-;0.7577812671661377
+      samex1x2
+--same--
+
+#92: The United States still holds the mentality of hegemony though the Cold War was over .
+google: 冷战 结束 后 ， 美国 仍 抱 有 霸权 心态 。
+bing: 冷战 结束 后 ， 美国 仍 抱 有 霸权主义 心态 。
+      The United States holds the mentality of hegemony 
+      美国抱有霸权心态;-;美国抱有霸权主义心态;-;0.9488002061843872
+      though the Cold War was over 
+      冷战结束后;-;冷战结束后;-;1.0
+      still 
+      仍;-;仍;-;1.0
+      samex2x3
+--same--
+
+#92: The United States still holds the mentality of hegemony though the Cold War was over .
+baidu: 冷战 结束 后 ， 美国 仍然 保持 着 霸权 心态 。
+bing: 冷战 结束 后 ， 美国 仍 抱 有 霸权主义 心态 。
+      The United States holds the mentality of hegemony 
+      美国保持着霸权心态;-;美国抱有霸权主义心态;-;0.7945377826690674
+      though the Cold War was over 
+      冷战结束后;-;冷战结束后;-;1.0
+      still 
+      仍然;-;仍;-;0.7577812671661377
+      samex1x3
+--same--
+
+#97: After this , they need to scale up , enrich the details , and color it until the creation is complete , according to the " Ten Sisters " .
+baidu: 根据 “ 十 姐妹 ” 的 说法 ， 在 此 之后 ， 他们 需要 扩大 规模 ， 丰富 细节 ， 并 对 其 进行 着色 ， 直到 创作 完成 。
+google: 根据 “ 十 姐妹 ” 的 说法 ， 在 这 之后 ， 他们 需要 放大 、 丰富 细节 、 上 色 ， 直到 创作 完成 。
+      they need to scale up 
+      他们需要扩大;-;他们需要放大;-;0.7005517482757568;-;1.0
+      until the creation is complete 
+      直到创作完成;-;直到创作完成;-;1.0
+      After this enrich the details and color it according to the '' Ten Sisters '' 
+      根据十姐妹的说法在此之后规模丰富细节并对其进行着色;-;根据十姐妹的说法在这之后丰富细节上色;-;0.791932225227356
+      samex1x2
+--sbert--
+
+#97: After this , they need to scale up , enrich the details , and color it until the creation is complete , according to the " Ten Sisters " .
+google: 根据 “ 十 姐妹 ” 的 说法 ， 在 这 之后 ， 他们 需要 放大 、 丰富 细节 、 上 色 ， 直到 创作 完成 。
+bing: 在 此 之后 ， 他们 需要 扩大 规模 ， 丰富 细节 ， 并 着色 直到 创作 完成 ， 根据 “ 十 姐妹 ” 。
+      they need to scale up 
+      他们需要放大;-;他们需要扩大;-;0.7005517482757568;-;1.0
+      until the creation is complete 
+      直到创作完成;-;直到创作完成;-;1.0
+      After this enrich the details and color it according to the '' Ten Sisters '' 
+      根据十姐妹的说法在这之后丰富细节上色;-;在此之后规模丰富细节并着色根据十姐妹;-;0.7582970261573792
+      samex2x3
+--sbert--
+
+#97: After this , they need to scale up , enrich the details , and color it until the creation is complete , according to the " Ten Sisters " .
+baidu: 根据 “ 十 姐妹 ” 的 说法 ， 在 此 之后 ， 他们 需要 扩大 规模 ， 丰富 细节 ， 并 对 其 进行 着色 ， 直到 创作 完成 。
+bing: 在 此 之后 ， 他们 需要 扩大 规模 ， 丰富 细节 ， 并 着色 直到 创作 完成 ， 根据 “ 十 姐妹 ” 。
+      they need to scale up 
+      他们需要扩大;-;他们需要扩大;-;1.0
+      until the creation is complete 
+      直到创作完成;-;直到创作完成;-;1.0
+      After this enrich the details and color it according to the '' Ten Sisters '' 
+      根据十姐妹的说法在此之后规模丰富细节并对其进行着色;-;在此之后规模丰富细节并着色根据十姐妹;-;0.8473398685455322
+      samex1x3
+--same--
+
+#98: After that , they need to scale up , enrich the details , and color it until the creation is complete , according to the " Ten Sisters " .
+baidu: 根据 “ 十 姐妹 ” 的 说法 ， 在 那 之后 ， 他们 需要 扩大 规模 ， 丰富 细节 ， 并 给 它 上色 ， 直到 创作 完成 。
+google: 根据 “ 十 姐妹 ” 的 说法 ， 在 那 之后 ， 他们 需要 放大 ， 丰富 细节 ， 上 色 ， 直到 创作 完成 。
+      they need to scale up 
+      他们需要扩大;-;他们需要放大;-;0.7005517482757568;-;1.0
+      until the creation is complete 
+      直到创作完成;-;直到创作完成;-;1.0
+      After that enrich the details and color it according to the '' Ten Sisters '' 
+      根据十姐妹的说法在那之后规模丰富细节并给它上色;-;根据十姐妹的说法在那之后丰富细节上色;-;0.8776469230651855
+      samex1x2
+--sbert--
+
+#98: After that , they need to scale up , enrich the details , and color it until the creation is complete , according to the " Ten Sisters " .
+google: 根据 “ 十 姐妹 ” 的 说法 ， 在 那 之后 ， 他们 需要 放大 ， 丰富 细节 ， 上 色 ， 直到 创作 完成 。
+bing: 在 那 之后 ， 他们 需要 扩大 规模 ， 丰富 细节 ， 并 着色 ， 直到 创作 完成 ， 根据 “ 十 姐妹 ” 。
+      they need to scale up 
+      他们需要放大;-;他们需要扩大;-;0.7005517482757568;-;1.0
+      until the creation is complete 
+      直到创作完成;-;直到创作完成;-;1.0
+      After that enrich the details and color it according to the '' Ten Sisters '' 
+      根据十姐妹的说法在那之后丰富细节上色;-;在那之后规模丰富细节并着色根据十姐妹;-;0.7782876491546631
+      samex2x3
+--sbert--
+
+#98: After that , they need to scale up , enrich the details , and color it until the creation is complete , according to the " Ten Sisters " .
+baidu: 根据 “ 十 姐妹 ” 的 说法 ， 在 那 之后 ， 他们 需要 扩大 规模 ， 丰富 细节 ， 并 给 它 上色 ， 直到 创作 完成 。
+bing: 在 那 之后 ， 他们 需要 扩大 规模 ， 丰富 细节 ， 并 着色 ， 直到 创作 完成 ， 根据 “ 十 姐妹 ” 。
+      they need to scale up 
+      他们需要扩大;-;他们需要扩大;-;1.0
+      until the creation is complete 
+      直到创作完成;-;直到创作完成;-;1.0
+      After that enrich the details and color it according to the '' Ten Sisters '' 
+      根据十姐妹的说法在那之后规模丰富细节并给它上色;-;在那之后规模丰富细节并着色根据十姐妹;-;0.854476273059845
+      samex1x3
+--same--
+
+#99: And one day , a security guard asked me to move faster because my audience were in the way , " he says .
+baidu: 有 一 天 ， 一 名 保安 让 我 走 得 更 快 ， 因为 我 的 观众 挡住 了 去路 ， ” 他 说 。
+google: 有 一 天 ， 一 名 保安 要求 我 行动 得 更 快 ， 因为 我 的 观众 挡住 了 路 ， ” 他 说 。
+      a security guard asked to move faster 
+      一名保安让走得更快;-;一名保安要求行动得更快;-;0.779787540435791
+      because my audience were in the way 
+      因为我的观众挡住了去路;-;因为我的观众挡住了路;-;0.9457884430885315
+      '' he says 
+      他说;-;他说;-;1.0
+      And one day me 
+      有一天我;-;有一天我;-;1.0
+      samex1x2
+--same--
+
+#99: And one day , a security guard asked me to move faster because my audience were in the way , " he says .
+google: 有 一 天 ， 一 名 保安 要求 我 行动 得 更 快 ， 因为 我 的 观众 挡住 了 路 ， ” 他 说 。
+bing: 有 一 天 ， 一 名 保安 要求 我 加快 行动 速度 ， 因为 我 的 听众 挡住 了 路 ， “ 他 说 。
+      a security guard asked to move faster 
+      一名保安要求行动得更快;-;一名保安要求加快行动速度;-;0.8209494352340698
+      because my audience were in the way 
+      因为我的观众挡住了路;-;因为我的听众挡住了路;-;0.7330116629600525;-;1.0
+      '' he says 
+      他说;-;他说;-;1.0
+      And one day me 
+      有一天我;-;有一天我;-;1.0
+      samex2x3
+--sbert--
+
+#109: The story of " Desus & Mero " marks so much more than just the estrangement of two longtime friends .
+baidu: “ Desus & Mero ” 的 故事 不仅仅 是 两 位 老朋友 的 疏远 。
+google: “ Desus & Mero ” 的 故事 不仅仅 标志 着 两 个 老朋友 的 疏远 。
+      The story of Desus Mero marks more than just the estrangement 
+      DesusMero的故事不仅仅是的疏远;-;DesusMero的故事不仅仅标志着的疏远;-;0.8386095762252808
+      '' '' so much of two longtime friends 
+      两位老朋友;-;两个老朋友;-;0.9016233682632446
+      samex1x2
+--sbert--
+
+#109: The story of " Desus & Mero " marks so much more than just the estrangement of two longtime friends .
+google: “ Desus & Mero ” 的 故事 不仅仅 标志 着 两 个 老朋友 的 疏远 。
+bing: 《 Desus & Mero 》 的 故事 所 标记 的 不仅仅 是 两 个 老朋友 的 疏远 。
+      The story of Desus Mero marks more than just the estrangement 
+      DesusMero的故事不仅仅标志着的疏远;-;DesusMero的故事所标记的不仅仅是的疏远;-;0.7976402640342712
+      '' '' so much of two longtime friends 
+      两个老朋友;-;两个老朋友;-;1.0
+      samex2x3
+
+
+#109: The story of " Desus & Mero " marks so much more than just the estrangement of two longtime friends .
+baidu: “ Desus & Mero ” 的 故事 不仅仅 是 两 位 老朋友 的 疏远 。
+bing: 《 Desus & Mero 》 的 故事 所 标记 的 不仅仅 是 两 个 老朋友 的 疏远 。
+      The story of Desus Mero marks more than just the estrangement 
+      DesusMero的故事不仅仅是的疏远;-;DesusMero的故事所标记的不仅仅是的疏远;-;0.8784153461456299
+      '' '' so much of two longtime friends 
+      两位老朋友;-;两个老朋友;-;0.9016233682632446
+      samex1x3
+--sbert--
+
+#110: The ending of " Desus & Mero " marks so much more than just the estrangement of two longtime friends .
+baidu: 《 Desus & Mero 》 的 结局 不仅仅 是 两 位 老朋友 的 疏远 。
+google: “ Desus & Mero ” 的 结局 不仅仅 是 两 个 老朋友 的 疏远 。
+      The ending of Desus Mero marks much more than just the estrangement 
+      DesusMero的结局不仅仅是的疏远;-;DesusMero的结局不仅仅是的疏远;-;1.0
+      '' '' so of two longtime friends 
+      两位老朋友;-;两个老朋友;-;0.9016233682632446
+      samex1x2
+--same--
+
+#110: The ending of " Desus & Mero " marks so much more than just the estrangement of two longtime friends .
+google: “ Desus & Mero ” 的 结局 不仅仅 是 两 个 老朋友 的 疏远 。
+bing: 《 Desus & Mero 》 的 结局 ， 不仅仅 标志 着 两 个 老朋友 的 疏远 。
+      The ending of Desus Mero marks much more than just the estrangement 
+      DesusMero的结局不仅仅是的疏远;-;DesusMero的结局不仅仅标志着的疏远;-;0.8750333786010742
+      '' '' so of two longtime friends 
+      两个老朋友;-;两个老朋友;-;1.0
+      samex2x3
+--sbert--
+
+#110: The ending of " Desus & Mero " marks so much more than just the estrangement of two longtime friends .
+baidu: 《 Desus & Mero 》 的 结局 不仅仅 是 两 位 老朋友 的 疏远 。
+bing: 《 Desus & Mero 》 的 结局 ， 不仅仅 标志 着 两 个 老朋友 的 疏远 。
+      The ending of Desus Mero marks much more than just the estrangement 
+      DesusMero的结局不仅仅是的疏远;-;DesusMero的结局不仅仅标志着的疏远;-;0.8750333786010742
+      '' '' so of two longtime friends 
+      两位老朋友;-;两个老朋友;-;0.9016233682632446
+      samex1x3
+--sbert--
+
+#113: " Well , do n ' t worry , it ' s going to be a long act , " he said , clarifying his words .
+google: “ 好 吧 ， 别 担心 ， 这 将 是 一个 漫长 的 过程 ， ” 他 说 ， 澄清 了 他 的话 。
+bing: “ 好 吧 ， 别 担心 ， 这 将 是 一个 漫长 的 行为 ， ” 他 说 ， 澄清 他 的话 。
+      it s going to be a long act 
+      这将是一个漫长的过程;-;这将是一个漫长的行为;-;0.8107935786247253
+      Well do n t worry 
+      好吧别担心;-;好吧别担心;-;1.0
+      clarifying his words 
+      澄清了他的话;-;澄清他的话;-;0.8951531052589417
+      '' '' he said 
+      他说;-;他说;-;1.0
+      samex2x3
+--sbert--
+
+#114: " Well , do n ' t worry , it ' s going to be a long act , " he said , clarifying his comments .
+baidu: “ 好 吧 ， 别 担心 ， 这 将 是 一个 漫长 的 过程 ， ” 他 说 ， 并 澄清 了 自己 的 评论 。
+google: “ 嗯 ， 别 担心 ， 这 将 是 一个 漫长 的 过程 ， ” 他 说 ， 澄清 他 的 评论 。
+      it s going to be a long act 
+      这将是一个漫长的过程;-;这将是一个漫长的过程;-;1.0
+      Well do n t worry 
+      好吧别担心;-;嗯别担心;-;0.7589017152786255
+      clarifying his comments 
+      并澄清了自己的评论;-;澄清他的评论;-;0.7010431885719299;-;1.0
+      '' '' he said 
+      他说;-;他说;-;1.0
+      samex1x2
+--same--
+
+#114: " Well , do n ' t worry , it ' s going to be a long act , " he said , clarifying his comments .
+google: “ 嗯 ， 别 担心 ， 这 将 是 一个 漫长 的 过程 ， ” 他 说 ， 澄清 他 的 评论 。
+bing: “ 好 吧 ， 别 担心 ， 这 将 是 一个 漫长 的 行为 ， ” 他 说 ， 澄清 了 他 的 评论 。
+      it s going to be a long act 
+      这将是一个漫长的过程;-;这将是一个漫长的行为;-;0.8107935786247253
+      Well do n t worry 
+      嗯别担心;-;好吧别担心;-;0.7589017152786255
+      clarifying his comments 
+      澄清他的评论;-;澄清了他的评论;-;0.9203450083732605
+      '' '' he said 
+      他说;-;他说;-;1.0
+      samex2x3
+--sbert--
+
+#114: " Well , do n ' t worry , it ' s going to be a long act , " he said , clarifying his comments .
+baidu: “ 好 吧 ， 别 担心 ， 这 将 是 一个 漫长 的 过程 ， ” 他 说 ， 并 澄清 了 自己 的 评论 。
+bing: “ 好 吧 ， 别 担心 ， 这 将 是 一个 漫长 的 行为 ， ” 他 说 ， 澄清 了 他 的 评论 。
+      it s going to be a long act 
+      这将是一个漫长的过程;-;这将是一个漫长的行为;-;0.8107935786247253
+      Well do n t worry 
+      好吧别担心;-;好吧别担心;-;1.0
+      clarifying his comments 
+      并澄清了自己的评论;-;澄清了他的评论;-;0.8227871656417847
+      '' '' he said 
+      他说;-;他说;-;1.0
+      samex1x3
+--sbert--
+
+#119: Devoted Marvel fans will have to wait and see how director Taika Waititi brings Jane Foster ' s Thor to life once the film hits theaters this weekend .
+baidu: 致力 于 漫威 的 粉丝 们 将 不得不 拭目以待 ， 看看 导演 泰卡 · 维蒂 蒂 将 简 · 福斯特 的 《 雷神 》 如何 在 本 周末 上映 。
+google: 忠实 的 漫威 迷们 将 不得不 拭目以待 ， 看看 导演 泰卡 · 维蒂 蒂 如何 将 简 · 福斯特 的 《 雷神 》 在 本 周末 上映 。
+      
+      ;-;;-;1.0
+      once the film hits theaters this weekend 
+      本周末上映;-;本周末上映;-;1.0
+      how director Taika Waititi brings Jane Foster s Thor to life 
+      导演泰卡维蒂蒂将简福斯特的雷神如何在;-;导演泰卡维蒂蒂如何将简福斯特的雷神在;-;0.9737401604652405
+      Devoted Marvel fans will have to wait and see 
+      致力于漫威的粉丝们将不得不拭目以待看看;-;忠实的漫威迷们将不得不拭目以待看看;-;0.8827997446060181
+      samex1x2
+--same--
+
+#119: Devoted Marvel fans will have to wait and see how director Taika Waititi brings Jane Foster ' s Thor to life once the film hits theaters this weekend .
+google: 忠实 的 漫威 迷们 将 不得不 拭目以待 ， 看看 导演 泰卡 · 维蒂 蒂 如何 将 简 · 福斯特 的 《 雷神 》 在 本 周末 上映 。
+bing: 忠实 的 漫威 粉丝 将 不得不 拭目以待 ， 看看 导演 塔伊 卡 · 怀蒂蒂 如何 在 本 周末 上映 后 将 简 · 福斯特 的 《 雷神 》 带入 生活 。
+      
+      ;-;;-;1.0
+      once the film hits theaters this weekend 
+      本周末上映;-;本周末上映后;-;0.9467688202857971
+      how director Taika Waititi brings Jane Foster s Thor to life 
+      导演泰卡维蒂蒂如何将简福斯特的雷神在;-;导演塔伊卡怀蒂蒂如何在将简福斯特的雷神带入生活;-;0.8842251896858215
+      Devoted Marvel fans will have to wait and see 
+      忠实的漫威迷们将不得不拭目以待看看;-;忠实的漫威粉丝将不得不拭目以待看看;-;0.951196014881134
+      samex2x3
+--sbert--
+
+#119: Devoted Marvel fans will have to wait and see how director Taika Waititi brings Jane Foster ' s Thor to life once the film hits theaters this weekend .
+baidu: 致力 于 漫威 的 粉丝 们 将 不得不 拭目以待 ， 看看 导演 泰卡 · 维蒂 蒂 将 简 · 福斯特 的 《 雷神 》 如何 在 本 周末 上映 。
+bing: 忠实 的 漫威 粉丝 将 不得不 拭目以待 ， 看看 导演 塔伊 卡 · 怀蒂蒂 如何 在 本 周末 上映 后 将 简 · 福斯特 的 《 雷神 》 带入 生活 。
+      
+      ;-;;-;1.0
+      once the film hits theaters this weekend 
+      本周末上映;-;本周末上映后;-;0.9467688202857971
+      how director Taika Waititi brings Jane Foster s Thor to life 
+      导演泰卡维蒂蒂将简福斯特的雷神如何在;-;导演塔伊卡怀蒂蒂如何在将简福斯特的雷神带入生活;-;0.8683757781982422
+      Devoted Marvel fans will have to wait and see 
+      致力于漫威的粉丝们将不得不拭目以待看看;-;忠实的漫威粉丝将不得不拭目以待看看;-;0.9160297513008118
+      samex1x3
+--sbert--
+
+#120: Devoted Marvel fans will have to wait and see how director Taika Waititi brings Jane Foster ' s Thor to life when the film hits theaters this weekend .
+google: 忠实 的 漫威 迷们 将 不得不 拭目以待 ， 看看 导演 泰卡 · 维蒂 蒂 是 如何 将 简 · 福斯特 的 《 雷神 》 带入 本 周末 上映 的 。
+bing: 忠实 的 漫威 粉丝 将 不得不 拭目以待 ， 看看 导演 塔伊 卡 · 怀蒂蒂 如何 在 本 周末 电影 上映 时 将 简 · 福斯特 的 《 雷神 》 带入 生活 。
+      Marvel fans will have to wait 
+      漫威迷们将不得不拭目以待;-;漫威粉丝将不得不拭目以待;-;0.9334115982055664
+      how director Taika Waititi brings Jane Foster s Thor to life 
+      导演泰卡维蒂蒂是如何将简福斯特的雷神带入;-;导演塔伊卡怀蒂蒂如何在将简福斯特的雷神带入生活;-;0.889676034450531
+      when the film hits theaters this weekend 
+      本周末上映的;-;本周末电影上映时;-;0.8803744316101074
+      Devoted and see 
+      忠实的看看;-;忠实的看看;-;1.0
+      samex2x3
+--sbert--
+
+#121: The boys find themselves being tormented by an unknown assailant set on making them pay for what their parents did , hence the " original sin " in the show title .
+baidu: 男孩 们 发现 自己 被 一个 不明 身份 的 袭击者 折磨 着 ， 并 打算 让 他们 为 父母 的 所作所为 付出 代价 ， 因此 在 节目 标题 中 出现 了 “ 原罪 ” 。
+bing: 男孩 们 发现 自己 被 一个 不 知名 的 袭击者 折磨 ， 他们 要 为 父母 的 所作所为 付出 代价 ， 因此 在 节目 标题 中 出现 了 “ 原罪 ” 。
+      The boys find being tormented by an assailant 
+      男孩们发现被一个的袭击者折磨;-;男孩们发现被一个的袭击者折磨;-;1.0
+      what their parents did 
+      父母的所作所为;-;父母的所作所为;-;1.0
+      themselves unknown set on making them pay for hence the '' original sin '' in the show title 
+      自己不明身份着并打算让他们为付出代价因此在节目标题中出现了原罪;-;自己不知名他们要为付出代价因此在节目标题中出现了原罪;-;0.8721580505371094
+      samex1x3
+--sbert--
+
+#122: The teens find themselves being tormented by an unknown assailant set on making them pay for what their parents did , hence the " original sin " in the show title .
+google: 青少年 们 发现 自己 被 一个 不 知名 的 袭击者 折磨 着 ， 他们 想 让 他们 为 父母 的 所作所为 付出 代价 ， 因此 节目 标题 中 出现 了 “ 原罪 ” 。
+bing: 青少年 发现 自己 被 一个 不 知名 的 袭击者 折磨 ， 他们 要 为 父母 的 所作所为 付出 代价 ， 因此 在 节目 标题 中 出现 了 “ 原罪 ” 。
+      The teens find being tormented by an assailant 
+      青少年们发现被一个的袭击者折磨;-;青少年发现被一个的袭击者折磨;-;0.9647701382637024
+      what their parents did 
+      父母的所作所为;-;父母的所作所为;-;1.0
+      themselves unknown set on making them pay for hence the '' original sin '' in the show title 
+      自己不知名着他们想让他们为付出代价因此节目标题中出现了原罪;-;自己不知名他们要为付出代价因此在节目标题中出现了原罪;-;0.9252747893333435
+      samex2x3
+--same--
+
+#135: Jennings will host as the new season begins in July , as well as act as host for the Second Chance competition and Tournament of Champions , the announcement said .
+baidu: 公告 称 ， 詹宁斯 将 在 7 月份 新 赛季 开始 时 担任 东道主 ， 并 担任 第二 次 机会 赛 和 冠军 联赛 的 东道主 。
+google: 公告 称 ， 詹宁斯 将 在 7 月 新 赛季 开始 时 担任 东道主 ， 并 担任 第二 次 机会 比赛 和 冠军赛 的 东道主 。
+      Jennings will host as the new season begins in July 
+      詹宁斯将在7月份新赛季开始时担任东道主;-;詹宁斯将在7月新赛季开始时担任东道主;-;0.9925512671470642
+      as well as act as host for the Second Chance competition and Tournament of Champions 
+      并担任第二次机会赛和冠军联赛的东道主;-;并担任第二次机会比赛和冠军赛的东道主;-;0.9523990750312805
+      the announcement said 
+      公告称;-;公告称;-;1.0
+      samex1x2
+--same--
+
+#135: Jennings will host as the new season begins in July , as well as act as host for the Second Chance competition and Tournament of Champions , the announcement said .
+google: 公告 称 ， 詹宁斯 将 在 7 月 新 赛季 开始 时 担任 东道主 ， 并 担任 第二 次 机会 比赛 和 冠军赛 的 东道主 。
+bing: 公告 称 ， 詹宁斯 将 在 7 月 新 赛季 开始 时 主持 ， 并 担任 第二 次 机会 比赛 和 冠军 锦标赛 的 主持人 。
+      Jennings will host as the new season begins in July 
+      詹宁斯将在7月新赛季开始时担任东道主;-;詹宁斯将在7月新赛季开始时主持;-;0.8544919490814209
+      as well as act as host for the Second Chance competition and Tournament of Champions 
+      并担任第二次机会比赛和冠军赛的东道主;-;并担任第二次机会比赛和冠军锦标赛的主持人;-;0.8041372895240784
+      the announcement said 
+      公告称;-;公告称的;-;1.0
+      samex2x3
+--sbert--
+
+#135: Jennings will host as the new season begins in July , as well as act as host for the Second Chance competition and Tournament of Champions , the announcement said .
+baidu: 公告 称 ， 詹宁斯 将 在 7 月份 新 赛季 开始 时 担任 东道主 ， 并 担任 第二 次 机会 赛 和 冠军 联赛 的 东道主 。
+bing: 公告 称 ， 詹宁斯 将 在 7 月 新 赛季 开始 时 主持 ， 并 担任 第二 次 机会 比赛 和 冠军 锦标赛 的 主持人 。
+      Jennings will host as the new season begins in July 
+      詹宁斯将在7月份新赛季开始时担任东道主;-;詹宁斯将在7月新赛季开始时主持;-;0.8461638689041138
+      as well as act as host for the Second Chance competition and Tournament of Champions 
+      并担任第二次机会赛和冠军联赛的东道主;-;并担任第二次机会比赛和冠军锦标赛的主持人;-;0.751489520072937
+      the announcement said 
+      公告称;-;公告称的;-;1.0
+      samex1x3
+--sbert--
+
+#136: Jennings will host as the new season begins in September , as well as act as host for the Second Chance competition and Tournament of Champions , the announcement said .
+baidu: 声明 称 ， 詹宁斯 将 在 9 月 新 赛季 开始 时 担任 东道主 ， 并 担任 第二 次 机会 赛 和 冠军 联赛 的 东道主 。
+google: 公告 称 ， 詹宁斯 将 在 9 月 新 赛季 开始 时 担任 东道主 ， 并 担任 第二 次 机会 比赛 和 冠军赛 的 东道主 。
+      Jennings will host as the new season begins 
+      詹宁斯将月新赛季开始时;-;詹宁斯将月新赛季开始时;-;1.0
+      in September as well as act as host for the Second Chance competition and Tournament of Champions 
+      在9担任东道主并担任第二次机会赛和冠军联赛的东道主;-;在9担任东道主并担任第二次机会比赛和冠军赛的东道主;-;0.96319580078125
+      the announcement said 
+      声明称;-;公告称;-;0.5938848853111267;-;1.0
+      samex1x2
+--same--
+
+#152: Half of them have come from just two families , leading the researchers to conclude that such cases are not all that rare .
+baidu: 其中 一半 来自 两 个 家庭 ， 这 使 研究 人员 得出 结论 ， 此类 病例 并 不 罕见 。
+google: 其中 一半 来自 两 个 家庭 ， 这 使 研究 人员 得出 结论 ， 这样 的 病例 并 不 罕见 。
+      such cases are not all rare 
+      此类病例并不罕见;-;这样的病例并不罕见;-;0.9353359937667847
+      that that 
+      ;-;;-;1.0
+      Half of them have come from just two families leading the researchers to conclude 
+      其中一半来自两个家庭这使研究人员得出结论;-;其中一半来自两个家庭这使研究人员得出结论;-;1.0
+      samex1x2
+--same--
+
+#152: Half of them have come from just two families , leading the researchers to conclude that such cases are not all that rare .
+google: 其中 一半 来自 两 个 家庭 ， 这 使 研究 人员 得出 结论 ， 这样 的 病例 并 不 罕见 。
+bing: 其中 一半 来自 两 个 家庭 ， 导致 研究 人员 得出 结论 ， 这种 情况 并 不 罕见 。
+      such cases are not all rare 
+      这样的病例并不罕见;-;这种情况并不罕见;-;0.7829500436782837
+      that that 
+      ;-;;-;1.0
+      Half of them have come from just two families leading the researchers to conclude 
+      其中一半来自两个家庭这使研究人员得出结论;-;其中一半来自两个家庭导致研究人员得出结论;-;0.9393132328987122
+      samex2x3
+--same--
+
+#160: In late June , vaccine makers said boosters updated to target Omicron showed a stronger immune response than the current vaccines .
+baidu: 6 月 下旬 ， 疫苗 制造商 表示 ， 针对 奥密克戎 更新 的 助推器 显示 出 比 现有 疫苗 更 强 的 免疫 反应 。
+google: 6 月 下旬 ， 疫苗 制造商 表示 ， 针对 Omicron 更新 的 增强 剂 显示 出 比 目前 的 疫苗 更 强 的 免疫 反应 。
+      boosters showed a stronger immune response 
+      助推器显示出更强的免疫反应;-;剂显示出更强的免疫反应;-;0.8697121739387512
+      updated to target Omicron than the current vaccines 
+      针对Omicron更新的比现有疫苗;-;针对Omicron更新的增强比目前的疫苗;-;0.9365035891532898
+      In late June vaccine makers said 
+      6月下旬疫苗制造商表示;-;6月下旬疫苗制造商表示;-;1.0
+      samex1x2
+--sbert--
+
+#160: In late June , vaccine makers said boosters updated to target Omicron showed a stronger immune response than the current vaccines .
+baidu: 6 月 下旬 ， 疫苗 制造商 表示 ， 针对 奥密克戎 更新 的 助推器 显示 出 比 现有 疫苗 更 强 的 免疫 反应 。
+bing: 6 月 下旬 ， 疫苗 制造商 表示 ， 更新 为 针对 Omicron 的 加强 剂 显示 出 比 当前 疫苗 更 强 的 免疫 反应 。
+      boosters showed a stronger immune response 
+      助推器显示出更强的免疫反应;-;剂显示出更强的免疫反应;-;0.8697121739387512
+      updated to target Omicron than the current vaccines 
+      针对Omicron更新的比现有疫苗;-;更新为针对Omicron的加强比当前疫苗;-;0.922725260257721
+      In late June vaccine makers said 
+      6月下旬疫苗制造商表示;-;6月下旬疫苗制造商表示;-;1.0
+      samex1x3
+--sbert--
+
+#161: Critics have also charged that the United States is not doing enough testing to monitor the spread of the virus , which is thought to be more widespread than current case counts suggest .
+baidu: 批评 人士 还 指责 美国 没有 进行 足够 的 检测 来 监测 病毒 的 传播 ， 人们 认为 病毒 的 传播 比 目前 的 病例 统计 显示 的 更为 广泛 。
+bing: 批评 人士 还 指责 美国 没有 进行 足够 的 测试 来 监测 病毒 的 传播 ， 该 病毒 被 认为 比 目前 的 病例 数 所 显示 的 更 广泛 。
+      the United States is not doing enough testing to monitor the spread of the virus 
+      美国没有进行足够的检测来监测病毒的传播;-;美国没有进行足够的测试来监测病毒的传播;-;0.9725266695022583
+      than current case counts suggest 
+      比目前的病例统计显示;-;比目前的病例数所显示;-;0.7988942861557007
+      which is thought to be more widespread 
+      人们认为病毒的传播的更为广泛;-;该病毒被认为的更广泛;-;0.8161031007766724
+      that 
+      ;-;;-;1.0
+      Critics have also charged 
+      批评人士还指责;-;批评人士还指责;-;1.0
+      samex1x3
+--sbert--
+
+#175: To get over some of this discomfort , take notice of automatic thought patterns that arise when thinking about communicating with a friend , and try to push back against them , Harmayer said .
+google: Harmayer 说 ， 要 克服 这种 不适 ， 请 注意 在 考虑 与 朋友 交流 时 出现 的 自动 思维 模式 ， 并 尝试 反击 它们 。
+bing: 为了 克服 一些 不适 ， 请 注意 在 考虑 与 朋友 交流 时 出现 的 自动 思维 模式 ， 并 试图 反击 它们 ， 哈马 耶说 。
+      thought push 
+      思维反击;-;思维反击;-;1.0
+      when thinking about communicating with a friend 
+      在考虑与朋友交流;-;在考虑与朋友交流时;-;0.928929328918457
+      that arise and try to back against them 
+      出现并尝试反击它们;-;出现并试图反击它们;-;0.9627161622047424
+      Harmayer said 
+      Harmayer说;-;Harmayer;-;0.8395645618438721
+      To get over some of this discomfort take notice of automatic patterns 
+      要克服这种不适请注意时的自动模式;-;为了克服一些不适请注意的自动模式;-;0.8595840334892273
+      samex2x3
+--same--
+
+#176: To get over some of this discomfort , take notice of automatic thought patterns that arise when thinking about communicating with a friend , and try to push back against them , Kirmayer said .
+google: Kirmayer 说 ， 要 克服 这种 不适 ， 请 注意 在 考虑 与 朋友 交流 时 出现 的 自动 思维 模式 ， 并 尝试 反击 它们 。
+bing: 为了 克服 一些 不适 ， 请 注意 在 考虑 与 朋友 交流 时 出现 的 自动 思维 模式 ， 并 试图 反击 它们 ， Kirmayer 说 。
+      thought 
+      思维;-;思维;-;1.0
+      when thinking about communicating with a friend 
+      在考虑与朋友交流;-;在考虑与朋友交流时;-;0.928929328918457
+      that arise and try to push back against them 
+      出现并尝试反击它们;-;出现并试图反击它们;-;0.9627161622047424
+      Kirmayer said 
+      Kirmayer说;-;Kirmayer说;-;1.0
+      To get over some of this discomfort take notice of automatic patterns 
+      要克服这种不适请注意时的自动模式;-;为了克服一些不适请注意的自动模式;-;0.8595840334892273
+      samex2x3
+--same--
+
+#177: The US Food and Drug Administration advised vaccine manufacturers in June to update the boosters to add an Omicron BA .
+baidu: 美国 食品 和 药物 管理局 6 月 建议 疫苗 制造商 更新 助推器 ， 添加 奥密克戎 BA 。
+google: 美国 食品 和 药物 管理局 在 6 月 建议 疫苗 制造商 更新 助推器 以 添加 Omicron BA 。
+      The US Food and Drug Administration advised vaccine manufacturers 
+      美国食品和药物管理局月建议疫苗制造商;-;美国食品和药物管理局月建议疫苗制造商;-;1.0
+      the boosters to add an Omicron BA 
+      助推器添加OmicronBA;-;助推器以添加OmicronBA;-;0.9587522149085999
+      to update 
+      更新;-;更新;-;1.0
+      in June 
+      6;-;在6;-;0.7868409752845764
+      samex1x2
+--same--
+
+#178: The US Food and Drug Administration advised vaccine makers in June to update the boosters to add an Omicron BA .
+baidu: 美国 食品 和 药物 管理局 6 月 建议 疫苗 制造商 更新 助推器 ， 添加 奥密克戎 BA 。
+google: 美国 食品 和 药物 管理局 在 6 月 建议 疫苗 制造商 更新 助推器 以 添加 Omicron BA 。
+      The US Food and Drug Administration advised vaccine makers 
+      美国食品和药物管理局月建议疫苗制造商;-;美国食品和药物管理局月建议疫苗制造商;-;1.0
+      the boosters to add an Omicron BA 
+      助推器添加OmicronBA;-;助推器以添加OmicronBA;-;0.9587522149085999
+      to update 
+      更新;-;更新;-;1.0
+      in June 
+      6;-;在6;-;0.7868409752845764
+      samex1x2
+--same--
+
+#181: In these experiments , reaching out was defined as a phone call , text , email , letter or small gift .
+google: 在 这些 实验 中 ， 伸出 援手 被 定义 为 电话 、 短信 、 电子 邮件 、 信件 或 小 礼物 。
+bing: 在 这些 实验 中 ， 伸出 援手 被 定义 为 电话 、 短信 、 电子 邮件 、 信件 或 小 礼物 。
+      reaching out was defined as a phone call 
+      伸出援手被定义为电话;-;伸出援手被定义为电话;-;1.0
+      In these experiments text email letter or small gift 
+      在这些实验中短信电子邮件信件或小礼物;-;在这些实验中短信电子邮件信件或小礼物;-;1.0
+      samex2x3
+--same--
+
+#182: In these experiments , reaching out was defined as a phone call , text , email , note or small gift .
+google: 在 这些 实验 中 ， 伸出 援手 被 定义 为 电话 、 短信 、 电子 邮件 、 便 条 或 小 礼物 。
+bing: 在 这些 实验 中 ， 伸出 援手 被 定义 为 电话 、 短信 、 电子 邮件 、 便 条 或 小 礼物 。
+      reaching out was defined as a phone call 
+      伸出援手被定义为电话;-;伸出援手被定义为电话;-;1.0
+      In these experiments text email note or small gift 
+      在这些实验中短信电子邮件便条或小礼物;-;在这些实验中短信电子邮件便条或小礼物;-;1.0
+      samex2x3
+--same--
+
+#184: The first is a newer , modern vaccine called Jynneos which is manufactured by the Danish company Bavarian Nordic .
+baidu: 第一 种 是 一 种 新 的 现代 疫苗 ， 名为 Jynneos ， 由 丹麦 巴伐利亚 北欧 公司 生产 。
+bing: 第一 种 是 一 种 较 新 的 现代 疫苗 ， 称为 Jynneos ， 由 丹麦 公司 巴伐利亚 北欧 公司 生产 。
+      The first is a modern vaccine called Jynneos 
+      第一种是一种现代疫苗名为Jynneos;-;第一种是一种现代疫苗称为Jynneos;-;0.9864725470542908
+      which is manufactured by the Danish company Bavarian Nordic 
+      由丹麦巴伐利亚北欧公司生产;-;由丹麦公司巴伐利亚北欧公司生产;-;0.9757854342460632
+      newer 
+      新;-;较新;-;0.7905016541481018
+      samex1x3
+--sbert--
+
+#185: Some people though have said it ' s now too late to stop what we had the tools to stop earlier .
+baidu: 不过 ， 有些 人 说 ， 现在 停止 我们 有 工具 可以 早 些 停止 的 事情 为时已晚 。
+google: 有些 人 虽然 说 现在 停止 我们 有 工具 更 早 停止 的 东西 为时已晚 。
+      stop we had the tools to stop 
+      停止我们有工具可以些停止的;-;停止我们有工具更停止的;-;0.8956171274185181
+      what earlier 
+      早;-;早;-;1.0
+      it s now too late to 
+      现在事情为时已晚;-;现在东西为时已晚;-;0.7085490822792053;-;1.0
+      though have said 
+      不过说;-;虽然说;-;0.5294285416603088;-;1.0
+      Some people 
+      有些人;-;有些人;-;1.0
+      samex1x2
+--same--
+
+#189: Bottom line is , we need to get ahead of it and be able to end this outbreak .
+google: 底线 是 ， 我们 需要 走 在 前面 ， 能够 结束 这 次 疫情 。
+bing: 底线 是 ， 我们 需要 走 在 前面 ， 能够 结束 这 次 疫情 。
+      we need to get ahead 
+      我们需要走前面;-;我们需要走前面;-;1.0
+      of it and be able to end this outbreak 
+      在能够结束这次疫情;-;在能够结束这次疫情;-;1.0
+      Bottom line is 
+      底线是;-;底线是;-;1.0
+      samex2x3
+--same--
+
+#190: Bottom line is , we need to stay ahead of it and be able to end this outbreak .
+baidu: 底线 是 ， 我们 需要 保持 领先 ， 并 能够 结束 这 次 疫情 。
+google: 底线 是 ， 我们 需要 保持 领先 并 能够 结束 这 次 疫情 。
+      we need to stay ahead of it 
+      我们需要保持领先;-;我们需要保持领先;-;1.0
+      and be able to end this outbreak 
+      并能够结束这次疫情;-;并能够结束这次疫情;-;1.0
+      Bottom line is 
+      底线是;-;底线是;-;1.0
+      samex1x2
+--same--
+
+#190: Bottom line is , we need to stay ahead of it and be able to end this outbreak .
+google: 底线 是 ， 我们 需要 保持 领先 并 能够 结束 这 次 疫情 。
+bing: 底线 是 ， 我们 需要 保持 领先 ， 并 能够 结束 这 次 疫情 。
+      we need to stay ahead of it 
+      我们需要保持领先;-;我们需要保持领先;-;1.0
+      and be able to end this outbreak 
+      并能够结束这次疫情;-;并能够结束这次疫情;-;1.0
+      Bottom line is 
+      底线是;-;底线是;-;1.0
+      samex2x3
+--same--
+
+#190: Bottom line is , we need to stay ahead of it and be able to end this outbreak .
+baidu: 底线 是 ， 我们 需要 保持 领先 ， 并 能够 结束 这 次 疫情 。
+bing: 底线 是 ， 我们 需要 保持 领先 ， 并 能够 结束 这 次 疫情 。
+      we need to stay ahead of it 
+      我们需要保持领先;-;我们需要保持领先;-;1.0
+      and be able to end this outbreak 
+      并能够结束这次疫情;-;并能够结束这次疫情;-;1.0
+      Bottom line is 
+      底线是;-;底线是;-;1.0
+      samex1x3
+--same--
+
+#201: " We do n ' t see anything behind this right now other than , you know , election year politics , " said Republican Senator John Thune of South Dakota .
+baidu: 南达科他州 共和党 参议员 约翰 · 图恩 说 ： “ 除了 选举 年 的 政治 ， 我们 现在 看不到 这 背后 的 任何 东西 。 ” 。
+bing: “ 除了 选举 年 的 政治 之外 ， 我们 现在 看不到 这 背后 有 什么 ， ” 南达科他州 的 共和党 参议员 约翰 · 图恩 说 。
+      We do n t see anything behind this 
+      我们看不到这背后的任何东西;-;我们看不到这背后有什么;-;0.8454144597053528
+      right now other than 
+      除了现在;-;除了之外现在;-;0.8226552605628967
+      '' you know election year politics '' said Republican Senator John Thune of South Dakota 
+      南达科他州共和党参议员约翰图恩说选举年的政治;-;选举年的政治南达科他州的共和党参议员约翰图恩说;-;0.974211573600769
+      samex1x3
+--sbert--
+
+#202: " I do n ' t see anything behind this right now other than , you know , election year politics , " said Republican Senator John Thune of South Dakota .
+google: 南达科他州 共和党 参议员 约翰 · 图恩 说 ： “ 我 现在 看 不 出 这 背后 有 什么 ， 除了 选举 年 的 政治 。 ”
+bing: “ 除了 选举 年 的 政治 之外 ， 我 现在 看不到 这 背后 有 什么 ， ” 南达科他州 共和党 参议员 约翰 · 图恩 说 。
+      I do n t see anything behind this 
+      我看不出这背后有什么;-;我看不到这背后有什么;-;0.8876103758811951
+      right now other than 
+      现在除了;-;除了之外现在;-;0.7990818023681641
+      '' you know election year politics '' said Republican Senator John Thune of South Dakota 
+      南达科他州共和党参议员约翰图恩说选举年的政治;-;选举年的政治南达科他州共和党参议员约翰图恩说;-;0.974211573600769
+      samex2x3
+--same--
+
+#202: " I do n ' t see anything behind this right now other than , you know , election year politics , " said Republican Senator John Thune of South Dakota .
+baidu: 南达科他州 共和党 参议员 约翰 · 图恩 说 ： “ 除了 选举 年 的 政治 ， 我 现在 看不到 这 背后 的 任何 东西 。 ” 。
+bing: “ 除了 选举 年 的 政治 之外 ， 我 现在 看不到 这 背后 有 什么 ， ” 南达科他州 共和党 参议员 约翰 · 图恩 说 。
+      I do n t see anything behind this 
+      我看不到这背后的任何东西;-;我看不到这背后有什么;-;0.8037101626396179
+      right now other than 
+      除了现在;-;除了之外现在;-;0.8226552605628967
+      '' you know election year politics '' said Republican Senator John Thune of South Dakota 
+      南达科他州共和党参议员约翰图恩说选举年的政治;-;选举年的政治南达科他州共和党参议员约翰图恩说;-;0.974211573600769
+      samex1x3
+--sbert--
+
+#204: " The administration will further strengthen the first line of defense in disaster prevention and mitigation , thus giving people a stronger sense of security and happiness , " he said .
+baidu: 他 说 ： “ 政府 将 进一步 加强 防灾 减灾 的 第一 道 防线 ， 从而 增强 人们 的 安全感 和 幸福感 。 ” 。
+google: “ 政府 将 进一步 加强 防灾 减灾 的 第一 道 防线 ， 增强 人民 群众 的 安全感 和 幸福感 ， ” 他 说 。
+      The administration will strengthen the first line of defense in disaster prevention 
+      政府将加强防灾的第一道防线;-;政府将加强防灾的第一道防线;-;1.0
+      thus giving people a stronger sense of security and happiness 
+      从而增强人们的安全感和幸福感;-;增强人民群众的安全感和幸福感;-;0.8085038065910339
+      further and mitigation 
+      进一步减灾;-;进一步减灾;-;1.0
+      '' '' he said 
+      他说;-;他说;-;1.0
+      samex1x2
+--same--
+
+#204: " The administration will further strengthen the first line of defense in disaster prevention and mitigation , thus giving people a stronger sense of security and happiness , " he said .
+baidu: 他 说 ： “ 政府 将 进一步 加强 防灾 减灾 的 第一 道 防线 ， 从而 增强 人们 的 安全感 和 幸福感 。 ” 。
+bing: “ 政府 将 进一步 加强 防灾 减灾 的 第一 道 防线 ， 从而 给 人们 带来 更 强 的 安全感 和 幸福感 ， ” 他 说 。
+      The administration will strengthen the first line of defense in disaster prevention 
+      政府将加强防灾的第一道防线;-;政府将加强防灾的第一道防线;-;1.0
+      thus giving people a stronger sense of security and happiness 
+      从而增强人们的安全感和幸福感;-;从而给人们带来更强的安全感和幸福感;-;0.8832781314849854
+      further and mitigation 
+      进一步减灾;-;进一步减灾;-;1.0
+      '' '' he said 
+      他说;-;他说;-;1.0
+      samex1x3
+--sbert--
+
+#205: Deng also noted consistent endeavors from the administration to bolster the construction of a national early warning system in emergency situations .
+baidu: 邓 还 指出 ， 政府 一直 在 努力 支持 紧急 情况 下 国家 预警 系统 的 建设 。
+bing: 邓小平 还 指出 ， 政府 一直 在 努力 加强 紧急 情况 下 国家 预警 系统 的 建设 。
+      Deng noted consistent endeavors to bolster the construction of a national early warning system 
+      邓指出一直在努力支持国家预警系统的建设;-;邓小平指出一直在努力加强国家预警系统的建设;-;0.8851243257522583
+      in emergency situations 
+      紧急情况下;-;紧急情况下;-;1.0
+      also from the administration 
+      还政府;-;还政府;-;1.0
+      samex1x3
+--sbert--
+
+#206: Deng also noted consistent endeavors from the administration to bolster the construction of a national early warning system for emergency situations .
+baidu: 邓 还 指出 ， 政府 一直 在 努力 加强 国家 紧急 情况 预警 系统 的 建设 。
+bing: 邓小平 还 指出 ， 政府 一直 在 努力 加强 国家 紧急 情况 预警 系统 的 建设 。
+      Deng noted consistent endeavors to bolster the construction of a national early warning system 
+      邓指出一直在努力加强国家预警系统的建设;-;邓小平指出一直在努力加强国家预警系统的建设;-;0.9615084528923035
+      for emergency situations 
+      紧急情况;-;紧急情况;-;1.0
+      also from the administration 
+      还政府;-;还政府;-;1.0
+      samex1x3
+--sbert--
+
+#211: Considering the significant progress China has made in energy conservation , an expert has called for even greater endeavors toward major climate action , considering its comparatively low cost in reducing carbon emissions .
+baidu: 考虑 到 中国 在 能源 节约 方面 取得 的 重大 进展 ， 一 位 专家 呼吁 ， 考虑 到 中国 减少 碳 排放 的 成本 相对 较 低 ， 中国 应该 更加 努力 地 采取 重大 气候 行动 。
+google: 考虑 到 中国 在 节能 方面 取得 的 显 着 进步 ， 一 位 专家 呼吁 在 重大 气候 行动 方面 做出 更 大 努力 ， 因为 其 减少 碳 排放 的 成本 相对 较 低 。
+      an expert has called for greater endeavors toward major climate action 
+      一位专家呼吁到中国中国应该更加努力地采取重大气候行动;-;一位专家呼吁在重大气候行动方面做出更大努力;-;0.8418269157409668
+      China has made in energy conservation 
+      中国在能源节约方面取得;-;中国在节能方面取得;-;0.9068299531936646
+      Considering the significant progress even considering its comparatively low cost in reducing carbon emissions 
+      考虑到的重大进展考虑减少碳排放的成本相对较低;-;考虑到的显着进步因为其减少碳排放的成本相对较低;-;0.8423218131065369
+      samex1x2
+--sbert--
+
+#211: Considering the significant progress China has made in energy conservation , an expert has called for even greater endeavors toward major climate action , considering its comparatively low cost in reducing carbon emissions .
+google: 考虑 到 中国 在 节能 方面 取得 的 显 着 进步 ， 一 位 专家 呼吁 在 重大 气候 行动 方面 做出 更 大 努力 ， 因为 其 减少 碳 排放 的 成本 相对 较 低 。
+bing: 考虑 到 中国 在 节能 方面 取得 的 重大 进展 ， 一 位 专家 呼吁 在 减少 碳 排放 方面 成本 相对 较 低 的 情况 下 ， 为 重大 气候 行动 做出 更 大 的 努力 。
+      an expert has called for greater endeavors toward major climate action 
+      一位专家呼吁在重大气候行动方面做出更大努力;-;一位专家呼吁在的情况下为重大气候行动做出更大的努力;-;0.9353694319725037
+      China has made in energy conservation 
+      中国在节能方面取得;-;中国在节能方面取得;-;1.0
+      Considering the significant progress even considering its comparatively low cost in reducing carbon emissions 
+      考虑到的显着进步因为其减少碳排放的成本相对较低;-;考虑到的重大进展减少碳排放方面成本相对较低;-;0.8639350533485413
+      samex2x3
+--same--
+
+#211: Considering the significant progress China has made in energy conservation , an expert has called for even greater endeavors toward major climate action , considering its comparatively low cost in reducing carbon emissions .
+baidu: 考虑 到 中国 在 能源 节约 方面 取得 的 重大 进展 ， 一 位 专家 呼吁 ， 考虑 到 中国 减少 碳 排放 的 成本 相对 较 低 ， 中国 应该 更加 努力 地 采取 重大 气候 行动 。
+bing: 考虑 到 中国 在 节能 方面 取得 的 重大 进展 ， 一 位 专家 呼吁 在 减少 碳 排放 方面 成本 相对 较 低 的 情况 下 ， 为 重大 气候 行动 做出 更 大 的 努力 。
+      an expert has called for greater endeavors toward major climate action 
+      一位专家呼吁到中国中国应该更加努力地采取重大气候行动;-;一位专家呼吁在的情况下为重大气候行动做出更大的努力;-;0.8197495937347412
+      China has made in energy conservation 
+      中国在能源节约方面取得;-;中国在节能方面取得;-;0.9068299531936646
+      Considering the significant progress even considering its comparatively low cost in reducing carbon emissions 
+      考虑到的重大进展考虑减少碳排放的成本相对较低;-;考虑到的重大进展减少碳排放方面成本相对较低;-;0.9436769485473633
+      samex1x3
+--sbert--
+
+#212: Despite the significant progress China has made in energy conservation , an expert has called for even greater endeavors toward major climate action , considering its comparatively low cost in reducing carbon emissions .
+baidu: 尽管 中国 在 节能 方面 取得 了 重大 进展 ， 但 考虑 到 其 在 减少 碳 排放 方面 的 成本 相对 较 低 ， 一 位 专家 呼吁 为 重大 气候 行动 做出 更 大 的 努力 。
+google: 尽管 中国 在 节能 方面 取得 了 重大 进展 ， 但 一 位 专家 呼吁 在 重大 气候 行动 方面 做出 更 大 努力 ， 因为 其 减少 碳 排放 的 成本 相对 较 低 。
+      an expert has called for greater endeavors toward major climate action 
+      一位专家呼吁为重大气候行动做出更大的努力;-;一位专家呼吁在重大气候行动方面做出更大努力;-;0.9610801339149475
+      China has made in energy conservation 
+      中国在节能方面取得;-;中国在节能方面取得;-;1.0
+      Despite the significant progress even considering its comparatively low cost in reducing carbon emissions 
+      尽管了重大进展但考虑到其在减少碳排放方面的成本相对较低;-;尽管了重大进展但因为其减少碳排放的成本相对较低;-;0.940599262714386
+      samex1x2
+--sbert--
+
+#212: Despite the significant progress China has made in energy conservation , an expert has called for even greater endeavors toward major climate action , considering its comparatively low cost in reducing carbon emissions .
+google: 尽管 中国 在 节能 方面 取得 了 重大 进展 ， 但 一 位 专家 呼吁 在 重大 气候 行动 方面 做出 更 大 努力 ， 因为 其 减少 碳 排放 的 成本 相对 较 低 。
+bing: 尽管 中国 在 节能 方面 取得 了 重大 进展 ， 但 考虑 到 其 在 减少 碳 排放 方面 相对 较 低 的 成本 ， 一 位 专家 呼吁 在 重大 气候 行动 上 做出 更 大 的 努力 。
+      an expert has called for greater endeavors toward major climate action 
+      一位专家呼吁在重大气候行动方面做出更大努力;-;一位专家呼吁在重大气候行动上做出更大的努力;-;0.9841768741607666
+      China has made in energy conservation 
+      中国在节能方面取得;-;中国在节能方面取得;-;1.0
+      Despite the significant progress even considering its comparatively low cost in reducing carbon emissions 
+      尽管了重大进展但因为其减少碳排放的成本相对较低;-;尽管了重大进展但考虑到其在减少碳排放方面相对较低的成本;-;0.9297595620155334
+      samex2x3
+--sbert--
+
+#215: Japan is seeing a coronavirus spike like never before with no end in sight , but its government is unlikely to reintroduce restriction measures this time .
+baidu: 日本 正 经历 前所未有 的 冠状 病毒 高峰 ， 而且 看不到 尽头 ， 但 日本 政府 这 次 不 太 可能 重新 推出 限制 措施 。
+google: 日本 正 目睹 前所未有 的 冠状 病毒 激增 ， 而且 看不到 尽头 ， 但 其 政府 这 次 不 太 可能 重新 引入 限制 措施 。
+      Japan is seeing a coronavirus spike 
+      日本正经历的冠状病毒;-;日本正目睹的冠状病毒;-;0.8750652074813843
+      with no end in sight but its government 
+      而且看不到尽头但日本政府;-;而且看不到尽头但其政府;-;0.8568902611732483
+      before is unlikely to reintroduce restriction measures this time 
+      前所未有高峰这次不太可能重新推出限制措施;-;前所未有激增这次不太可能重新引入限制措施;-;0.8219718337059021
+      like never 
+      前所未有;-;前所未有;-;1.0
+      samex1x2
+--sbert--
+
+#215: Japan is seeing a coronavirus spike like never before with no end in sight , but its government is unlikely to reintroduce restriction measures this time .
+baidu: 日本 正 经历 前所未有 的 冠状 病毒 高峰 ， 而且 看不到 尽头 ， 但 日本 政府 这 次 不 太 可能 重新 推出 限制 措施 。
+bing: 日本 正在 看到 前所未有 的 冠状 病毒 飙升 ， 看不到 尽头 ， 但 其 政府 这 次 不 太 可能 重新 引入 限制 措施 。
+      Japan is seeing a coronavirus spike 
+      日本正经历的冠状病毒;-;日本正在看到的冠状病毒;-;0.8307282328605652
+      with no end in sight but its government 
+      而且看不到尽头但日本政府;-;看不到尽头但其政府;-;0.751121461391449
+      before is unlikely to reintroduce restriction measures this time 
+      前所未有高峰这次不太可能重新推出限制措施;-;前所未有飙升这次不太可能重新引入限制措施;-;0.811021625995636
+      like never 
+      前所未有;-;前所未有;-;1.0
+      samex1x3
+--sbert--
+
+#216: Japan is seeing a coronavirus spike like never before with no end in sight , but the government is unlikely to reintroduce restriction measures this time .
+baidu: 日本 正 经历 前所未有 的 冠状 病毒 高峰 ， 而且 看不到 尽头 ， 但 政府 这 次 不 太 可能 重新 推出 限制 措施 。
+google: 日本 正 目睹 前所未有 的 冠状 病毒 激增 ， 而且 看不到 尽头 ， 但 政府 这 次 不 太 可能 重新 引入 限制 措施 。
+      Japan is seeing a coronavirus spike 
+      日本正经历的冠状病毒;-;日本正目睹的冠状病毒;-;0.8750652074813843
+      before with no end in sight but the government is unlikely to reintroduce restriction measures this time 
+      前所未有高峰而且看不到尽头但政府这次不太可能重新推出限制措施;-;前所未有激增而且看不到尽头但政府这次不太可能重新引入限制措施;-;0.8970087766647339
+      like never 
+      前所未有;-;前所未有;-;1.0
+      samex1x2
+--sbert--
+
+#216: Japan is seeing a coronavirus spike like never before with no end in sight , but the government is unlikely to reintroduce restriction measures this time .
+baidu: 日本 正 经历 前所未有 的 冠状 病毒 高峰 ， 而且 看不到 尽头 ， 但 政府 这 次 不 太 可能 重新 推出 限制 措施 。
+bing: 日本 正在 看到 前所未有 的 冠状 病毒 飙升 ， 看不到 尽头 ， 但 政府 这 次 不 太 可能 重新 引入 限制 措施 。
+      Japan is seeing a coronavirus spike 
+      日本正经历的冠状病毒;-;日本正在看到的冠状病毒;-;0.8307282328605652
+      before with no end in sight but the government is unlikely to reintroduce restriction measures this time 
+      前所未有高峰而且看不到尽头但政府这次不太可能重新推出限制措施;-;前所未有飙升看不到尽头但政府这次不太可能重新引入限制措施;-;0.8500859141349792
+      like never 
+      前所未有;-;前所未有;-;1.0
+      samex1x3
+--sbert--
+
+#217: " The increase was driven by rising gas and food prices ; these were only slightly off set by falling secondhand car prices , " ONS chief economist Grant Fitzner said .
+baidu: 国家 统计局 首席 经济学家 格兰特 · 菲茨 纳 表示 ： “ 油价 和 食品 价格 的 上涨 推动 了 油价 的 上涨 ； 二手车 价格 的 下跌 只是 略微 抵消 了 这 一 涨幅 。 ” 。
+google: “ 这 一 增长 是 由 汽油 和 食品 价格 上涨 推动 的 ； 二手车 价格 下跌 仅 略微 抵消 了 这些 价格 ， ” ONS 首席 经济学家 格兰特 · 菲茨 纳 说 。
+      The increase was driven by rising gas and food prices 
+      油价和食品价格的上涨推动了油价的上涨;-;这一增长是由汽油和食品价格上涨推动的;-;0.7761391997337341
+      off set by falling secondhand car prices 
+      二手车价格的下跌抵消;-;二手车价格下跌抵消价格;-;0.9509660005569458
+      '' these were only slightly '' ONS chief economist Grant Fitzner said 
+      ONS首席经济学家格兰特菲茨纳表示只是略微了这一涨幅;-;仅略微了这些ONS首席经济学家格兰特菲茨纳说;-;0.7642108798027039
+      samex1x2
+--sbert--
+
+#219: The London Fire Brigade said there had been " a huge surge " in fires around the capital , with some residents evacuated from their homes as wildfires broke out due to the intense heat , Sky News reported .
+google: 据 天空 新闻 报道 ， 伦敦 消防队 表示 ， 首都 周围 的 火灾 “ 激增 ” ， 一些 居民 因 酷热 而 发生 野火 而 从 家中 撤离 。
+bing: 据 天空 新闻 报道 ， 伦敦 消防队 表示 ， 首都 周围 的 火灾 已经 “ 大幅 增加 ” ， 一些 居民 因 高温 而 爆发 野火 ， 一些 居民 从 家中 撤离 。
+      there had been a huge surge in fires 
+      的火灾激增;-;的火灾已经大幅增加;-;0.7856300473213196
+      with some residents evacuated from their homes 
+      一些居民而从家中撤离;-;一些居民一些居民从家中撤离;-;0.9387513399124146
+      as wildfires broke out due to the intense heat Sky News reported 
+      天空新闻报道因酷热而发生野火;-;天空新闻报道因高温而爆发野火;-;0.9154357314109802
+      '' '' around the capital 
+      首都周围;-;首都周围的;-;1.0
+      The London Fire Brigade said 
+      据伦敦消防队表示;-;据伦敦消防队表示;-;1.0
+      samex2x3
+--sbert--
+
+#219: The London Fire Brigade said there had been " a huge surge " in fires around the capital , with some residents evacuated from their homes as wildfires broke out due to the intense heat , Sky News reported .
+baidu: 据 《 天空 新闻 》 报道 ， 伦敦 消防队 表示 ， 首都 周围 的 火灾 “ 激增 ” ， 由于 酷热 引发 的 野火 ， 一些 居民 从 家中 疏散 。
+bing: 据 天空 新闻 报道 ， 伦敦 消防队 表示 ， 首都 周围 的 火灾 已经 “ 大幅 增加 ” ， 一些 居民 因 高温 而 爆发 野火 ， 一些 居民 从 家中 撤离 。
+      there had been a huge surge in fires 
+      的火灾激增;-;的火灾已经大幅增加;-;0.7856300473213196
+      with some residents evacuated from their homes 
+      一些居民从家中疏散;-;一些居民一些居民从家中撤离;-;0.8682599067687988
+      as wildfires broke out due to the intense heat Sky News reported 
+      据天空新闻报道由于酷热引发的野火;-;天空新闻报道因高温而爆发野火;-;0.8587030172348022
+      '' '' around the capital 
+      首都周围;-;首都周围的;-;1.0
+      The London Fire Brigade said 
+      伦敦消防队表示;-;据伦敦消防队表示;-;0.959828794002533
+      samex1x3
+--sbert--
+
+#224: " Through the swimming lessons , I believe that I will be able to master the skills during this summer vacation , " Huang added .
+baidu: 黄 补充 道 ： “ 通过 游泳 课 ， 我 相信 我 将 能够 在 暑假 期间 掌握 游泳 技能 。 ” 。
+google: “ 通过 游泳 课 ， 我 相信 这个 暑假 我 一定 能够 掌握 游泳 技巧 ， ” 黄 补充 道 。
+      I will be able to master the skills 
+      我将能够掌握游泳技能;-;我一定能够掌握游泳技巧;-;0.8369949460029602
+      that during this summer vacation 
+      在暑假期间;-;这个暑假;-;0.8228966593742371
+      '' Through the swimming lessons I believe '' Huang added 
+      黄补充道通过游泳课我相信;-;通过游泳课我相信黄补充道;-;0.9358717203140259
+      samex1x2
+--same--
+
+#232: The film crew took them to many " amazing sites " and the staff at the resort taught them a lot about how to " incorporate modern Chinese traits while still keeping traditional customs " , Bradley said .
+google: 摄制组 带 他们 参观 了 许多 “ 令 人 惊叹 的 景点 ” ， 度假村 的 工作 人员 教 他们 很多 关于 如何 “ 在 保留 传统 习俗 的 同时 融入 现代 中国 特色 ” ， 布拉德利 说 。
+bing: 布拉德利 说 ， 摄制组 带 他们 去 了 许多 “ 令 人 惊叹 的 景点 ” ， 度假村 的 工作 人员 教 了 他们 很多 关于 如何 “ 融入 现代 中国 特征 ， 同时 仍然 保持 传统 习俗 ” 的 知识 。
+      The film crew took to amazing sites 
+      摄制组带参观了令人惊叹的景点;-;摄制组带去了令人惊叹的景点;-;0.8400663733482361
+      while still keeping traditional customs '' 
+      保留传统习俗的同时;-;同时仍然保持传统习俗的知识;-;0.806628406047821
+      about how to '' incorporate modern Chinese traits 
+      关于如何在融入现代中国;-;关于如何融入现代中国特征;-;0.8673683404922485
+      them many '' '' and the staff at the resort taught them a lot Bradley said 
+      他们许多度假村的工作人员教他们很多特色布拉德利说;-;布拉德利说他们许多度假村的工作人员教了他们很多;-;0.7645568251609802
+      samex2x3
+--sbert--
+
+#238: The Public Health Order focuses on strengthening public health institutions and its workforce , local manufacturing of therapeutics , vaccines and diagnostics , and ensuring fast response to disease threats .
+google: 公共 卫生 秩序 的 重点 是 加强 公共 卫生 机构 及其 劳动力 、 治疗剂 、 疫苗 和 诊断 剂 的 本地 制造 ， 并 确保 对 疾病 威胁 做出 快速 反应 。
+bing: 公共 卫生 秩序 的 重点 是 加强 公共 卫生 机构 及其 劳动力 ， 当地 生产 治疗 药物 ， 疫苗 和 诊断 工具 ， 并 确保 快速 应 对 疾病 威胁 。
+      The Public Health Order focuses on strengthening public health institutions 
+      公共卫生秩序的重点是加强公共卫生机构;-;公共卫生秩序的重点是加强公共卫生机构;-;1.0
+      and its workforce local manufacturing of therapeutics 
+      及其劳动力治疗剂的本地制造;-;及其劳动力当地生产治疗药物;-;0.797021210193634
+      vaccines and diagnostics and ensuring fast response to disease threats 
+      疫苗和诊断剂并确保对疾病威胁做出快速反应;-;疫苗和诊断工具并确保快速应对疾病威胁;-;0.8902403116226196
+      samex2x3
+--same--
+
+#247: Even though she relishes the opportunity to develop her physicality and test her resilience , she says that the intense media scrutiny that comes with the job is very draining .
+google: 尽管 她 很 享受 锻炼 身体 素质 和 测试 韧性 的 机会 ， 但 她 表示 ， 这 份 工作 带来 的 媒体 严格 审查 非常 耗费 精力 。
+bing: 尽管 她 很 享受 发展 身体 素质 和 测试 韧性 的 机会 ， 但 她 说 ， 这 份 工作 带来 的 媒体 严格 审查 非常 令 人 筋疲力尽 。
+      the intense media scrutiny is draining 
+      的媒体严格审查耗费精力;-;的媒体严格审查令人筋疲力尽;-;0.8161202073097229
+      Even though she relishes the opportunity to develop her physicality and test her resilience 
+      尽管她很享受锻炼身体素质和测试韧性的机会;-;尽管她很享受发展身体素质和测试韧性的机会;-;0.9304919242858887
+      that comes with the job 
+      这份工作带来;-;这份工作带来;-;1.0
+      that very 
+      非常;-;非常;-;1.0
+      she says 
+      但她表示;-;但她说;-;0.8454521298408508
+      samex2x3
+--sbert--
+
+#249: Lewis Hamilton estimated he lost " around three kilos " during the French Grand Prix after a drinks bottle malfunction rendered him unable to rehydrate .
+baidu: 刘易斯 · 汉密尔顿 估计 ， 在 法国 大奖赛 期间 ， 由于 酒瓶 故障 导致 他 无法 补充 水分 ， 他 瘦 了 “ 大约 三 公斤 ” 。
+google: 刘易斯 汉密尔顿 估计 他 在 法国 大奖赛 期间 减掉 了 “ 大约 三 公斤 ” ， 因为 饮料瓶 故障 导致 他 无法 补充 水分 。
+      he lost around three kilos during the French Grand Prix 
+      在法国大奖赛期间水分他瘦了大约三公斤;-;他在法国大奖赛期间减掉了大约三公斤;-;0.8530157804489136
+      malfunction rendered him unable to rehydrate 
+      故障导致他无法补充;-;故障导致他无法补充水分;-;0.7873916625976562
+      after a drinks bottle 
+      由于酒瓶;-;因为饮料瓶;-;0.6414674520492554;-;1.0
+      '' '' 
+      ;-;;-;1.0
+      Lewis Hamilton estimated 
+      刘易斯汉密尔顿估计;-;刘易斯汉密尔顿估计;-;1.0
+      samex1x2
+--sbert--
+
+#249: Lewis Hamilton estimated he lost " around three kilos " during the French Grand Prix after a drinks bottle malfunction rendered him unable to rehydrate .
+baidu: 刘易斯 · 汉密尔顿 估计 ， 在 法国 大奖赛 期间 ， 由于 酒瓶 故障 导致 他 无法 补充 水分 ， 他 瘦 了 “ 大约 三 公斤 ” 。
+bing: 刘易斯 · 汉密尔顿 估计 ， 在 法国 大奖赛 期间 ， 他 损失 了 “ 大约 三 公斤 ” ， 因为 饮料瓶 故障 使 他 无法 补充 水分 。
+      he lost around three kilos during the French Grand Prix 
+      在法国大奖赛期间水分他瘦了大约三公斤;-;在法国大奖赛期间他损失了大约三公斤;-;0.7882962822914124
+      malfunction rendered him unable to rehydrate 
+      故障导致他无法补充;-;故障使他无法补充水分;-;0.7527979016304016
+      after a drinks bottle 
+      由于酒瓶;-;因为饮料瓶;-;0.6414674520492554;-;1.0
+      '' '' 
+      ;-;;-;1.0
+      Lewis Hamilton estimated 
+      刘易斯汉密尔顿估计;-;刘易斯汉密尔顿估计;-;1.0
+      samex1x3
+--sbert--
+
+#250: Lewis Hamilton estimated he lost " around three kilos " during the French Grand Prix after a drinks bottle malfunction left him unable to rehydrate .
+baidu: 刘易斯 · 汉密尔顿 估计 ， 在 法国 大奖赛 期间 ， 由于 酒瓶 故障 导致 他 无法 补充 水分 ， 他 瘦 了 “ 大约 三 公斤 ” 。
+google: 刘易斯 汉密尔顿 估计 他 在 法国 大奖赛 期间 减掉 了 “ 大约 三 公斤 ” ， 因为 饮料瓶 故障 导致 他 无法 补充 水分 。
+      he lost around three kilos during the French Grand Prix 
+      在法国大奖赛期间水分他瘦了大约三公斤;-;他在法国大奖赛期间减掉了大约三公斤;-;0.8530157804489136
+      malfunction left him unable to rehydrate 
+      故障导致他无法补充;-;故障导致他无法补充水分;-;0.7873916625976562
+      after a drinks bottle 
+      由于酒瓶;-;因为饮料瓶;-;0.6414674520492554;-;1.0
+      '' '' 
+      ;-;;-;1.0
+      Lewis Hamilton estimated 
+      刘易斯汉密尔顿估计;-;刘易斯汉密尔顿估计;-;1.0
+      samex1x2
+--sbert--
+
+#250: Lewis Hamilton estimated he lost " around three kilos " during the French Grand Prix after a drinks bottle malfunction left him unable to rehydrate .
+baidu: 刘易斯 · 汉密尔顿 估计 ， 在 法国 大奖赛 期间 ， 由于 酒瓶 故障 导致 他 无法 补充 水分 ， 他 瘦 了 “ 大约 三 公斤 ” 。
+bing: 刘易斯 · 汉密尔顿 估计 ， 在 法国 大奖赛 期间 ， 他 损失 了 “ 大约 三 公斤 ” ， 因为 饮料瓶 故障 使 他 无法 补充 水分 。
+      he lost around three kilos during the French Grand Prix 
+      在法国大奖赛期间水分他瘦了大约三公斤;-;在法国大奖赛期间他损失了大约三公斤;-;0.7882962822914124
+      malfunction left him unable to rehydrate 
+      故障导致他无法补充;-;故障使他无法补充水分;-;0.7527979016304016
+      after a drinks bottle 
+      由于酒瓶;-;因为饮料瓶;-;0.6414674520492554;-;1.0
+      '' '' 
+      ;-;;-;1.0
+      Lewis Hamilton estimated 
+      刘易斯汉密尔顿估计;-;刘易斯汉密尔顿估计;-;1.0
+      samex1x3
+--sbert--
+
+#259: A representative from the men ' s side congratulated the women ' s team upon qualification to the final .
+baidu: 男子 队 的 一 名 代表 祝贺 女子 队 进入 决赛 。
+google: 男队 代表 祝贺 女队 晋级 决赛 。
+      A representative congratulated the women s team 
+      一名代表祝贺女子队;-;代表祝贺女队;-;0.8454542756080627
+      from the men s side upon qualification to the final 
+      男子队的进入决赛;-;男队晋级决赛;-;0.8910080790519714
+      samex1x2
+--same--
+
+#259: A representative from the men ' s side congratulated the women ' s team upon qualification to the final .
+google: 男队 代表 祝贺 女队 晋级 决赛 。
+bing: 男子 队 的 一 名 代表 祝贺 女子 队 获得 决赛 资格 。
+      A representative congratulated the women s team 
+      代表祝贺女队;-;一名代表祝贺女子队;-;0.8454542756080627
+      from the men s side upon qualification to the final 
+      男队晋级决赛;-;男子队的获得决赛资格;-;0.7941423654556274
+      samex2x3
+--sbert--
+
+#259: A representative from the men ' s side congratulated the women ' s team upon qualification to the final .
+baidu: 男子 队 的 一 名 代表 祝贺 女子 队 进入 决赛 。
+bing: 男子 队 的 一 名 代表 祝贺 女子 队 获得 决赛 资格 。
+      A representative congratulated the women s team 
+      一名代表祝贺女子队;-;一名代表祝贺女子队;-;1.0
+      from the men s side upon qualification to the final 
+      男子队的进入决赛;-;男子队的获得决赛资格;-;0.8385787010192871
+      samex1x3
+--sbert--
+
+#260: A legend from the men ' s side congratulated the women ' s team upon qualification to the final .
+baidu: 一 位 来自 男队 的 传奇 人物 祝贺 女队 晋级 决赛 。
+google: 男队 传奇 人物 祝贺 女队 晋级 决赛 。
+      A legend congratulated the women s team 
+      一位传奇人物祝贺女队;-;传奇人物祝贺女队;-;0.9297661185264587
+      from the men s side upon qualification to the final 
+      来自男队的晋级决赛;-;男队晋级决赛;-;0.9237827062606812
+      samex1x2
+--same--
+
+#260: A legend from the men ' s side congratulated the women ' s team upon qualification to the final .
+baidu: 一 位 来自 男队 的 传奇 人物 祝贺 女队 晋级 决赛 。
+bing: 一 位 来自 男子 的 传奇 人物 祝贺 女子 队 获得 决赛 资格 。
+      A legend congratulated the women s team 
+      一位传奇人物祝贺女队;-;一位传奇人物祝贺女子队;-;0.9528001546859741
+      from the men s side upon qualification to the final 
+      来自男队的晋级决赛;-;来自男子的获得决赛资格;-;0.7916858792304993
+      samex1x3
+--sbert--
+
+#265: Ashe loves the water as an alternative safe space from the more intimidating environment of the gym , a passion that has breathed new life into his mental health .
+google: Ashe 喜欢 将 水 作为 替代 安全 空间 ， 远离 健身房 更 令 人 生畏 的 环境 ， 这种 热情 为 他 的 心理 健康 注入 了 新 的 活力 。
+bing: 阿什 喜欢 将 水 作为 另 一 种 安全 空间 ， 从 健身房 更 令 人 生畏 的 环境 ， 这种 激情 为 他 的 心理 健康 注入 了 新 的 活力 。
+      Ashe loves the water as an safe space 
+      Ashe喜欢将水作为安全空间;-;Ashe喜欢将水作为一种安全空间;-;0.929663896560669
+      that has breathed new life into his mental health 
+      为他的心理健康注入了新的活力;-;为他的心理健康注入了新的活力;-;1.0
+      alternative from the more intimidating environment of the gym a passion 
+      替代远离健身房更令人生畏的环境这种热情;-;另从健身房更令人生畏的环境这种激情;-;0.8167765140533447
+      samex2x3
+--sbert--
+
+#267: And this was a battle that Germany will likely still be feeling come the end of the week , while France ' s players will perhaps still be wondering how it is n ' t them taking on England .
+baidu: 这 是 一 场 德国 在 本 周末 可能 仍 会 感受 到 的 战斗 ， 而 法国 的 球员 们 可能 仍 在 想 ， 他们 是 如何 与 英格兰 交手 的 。
+google: 这 是 一 场 德国 可能 在 本 周末 仍 会 感受 到 的 战斗 , 而 法国 的 球员 可能 仍 会 想 知道 他们 怎么 不 与 英格兰 较量 .
+      how it is n them taking on England 
+      他们是如何与英格兰交手的;-;他们怎么与英格兰较量;-;0.7968389391899109
+      that Germany will likely 
+      德国可能会;-;德国可能会;-;1.0
+      t 
+      ;-;不;-;0.8209270238876343
+      while France s players will perhaps still be wondering 
+      而法国的球员们可能仍在想;-;而法国的球员可能仍会想知道;-;0.8163255453109741
+      a battle still be feeling come the end of the week 
+      一场在本周末仍感受到的战斗;-;一场在本周末仍感受到的战斗;-;1.0
+      And this was 
+      这是;-;这是;-;1.0
+      samex1x2
+--sbert--
+
+#267: And this was a battle that Germany will likely still be feeling come the end of the week , while France ' s players will perhaps still be wondering how it is n ' t them taking on England .
+google: 这 是 一 场 德国 可能 在 本 周末 仍 会 感受 到 的 战斗 , 而 法国 的 球员 可能 仍 会 想 知道 他们 怎么 不 与 英格兰 较量 .
+bing: 这 是 一 场 德国 可能 会 在 本 周末 仍然 感觉 到 的 战斗 ， 而 法国 的 球员 可能 仍然 想 知道 他们 如何 与 英格兰队 交锋 。
+      how it is n them taking on England 
+      他们怎么与英格兰较量;-;他们如何与英格兰队交锋;-;0.7871434092521667
+      that Germany will likely 
+      德国可能会;-;德国可能会;-;1.0
+      t 
+      不;-;;-;0.8209270238876343
+      while France s players will perhaps still be wondering 
+      而法国的球员可能仍会想知道;-;而法国的球员可能仍然想知道;-;0.9511624574661255
+      a battle still be feeling come the end of the week 
+      一场在本周末仍感受到的战斗;-;一场在本周末仍然感觉到的战斗;-;0.9515417218208313
+      And this was 
+      这是;-;这是;-;1.0
+      samex2x3
+--sbert--
+
+#267: And this was a battle that Germany will likely still be feeling come the end of the week , while France ' s players will perhaps still be wondering how it is n ' t them taking on England .
+baidu: 这 是 一 场 德国 在 本 周末 可能 仍 会 感受 到 的 战斗 ， 而 法国 的 球员 们 可能 仍 在 想 ， 他们 是 如何 与 英格兰 交手 的 。
+bing: 这 是 一 场 德国 可能 会 在 本 周末 仍然 感觉 到 的 战斗 ， 而 法国 的 球员 可能 仍然 想 知道 他们 如何 与 英格兰队 交锋 。
+      how it is n them taking on England 
+      他们是如何与英格兰交手的;-;他们如何与英格兰队交锋;-;0.8534649014472961
+      that Germany will likely 
+      德国可能会;-;德国可能会;-;1.0
+      t 
+      ;-;;-;1.0
+      while France s players will perhaps still be wondering 
+      而法国的球员们可能仍在想;-;而法国的球员可能仍然想知道;-;0.8278212547302246
+      a battle still be feeling come the end of the week 
+      一场在本周末仍感受到的战斗;-;一场在本周末仍然感觉到的战斗;-;0.9515417218208313
+      And this was 
+      这是;-;这是;-;1.0
+      samex1x3
+--same--
+
+#275: " This should n ' t put the onus on individuals , and especially on kids , to have to get permission to play and that ' s a really important element of this Maryland rule .
+baidu: “ 这 不 应该 让 个人 ， 尤其 是 孩子 们 ， 有 责任 获得 玩 的 许可 ， 这 是 马里兰州 规则 的 一个 非常 重要 的 因素 。
+google: “ 这 不 应该 让 个人 ， 尤其 是 孩子 们 承担 必须 获得 游戏 许可 的 责任 ， 这 是 马里兰州 规则 的 一个 非常 重要 的 元素 。
+      This should n t put the onus 
+      这不应该让有责任;-;这不应该让的责任;-;0.9458655714988708
+      that s a really important element of this Maryland rule 
+      这是马里兰州规则的一个非常重要的因素;-;这是马里兰州规则的一个非常重要的元素;-;0.9337075352668762
+      '' on individuals and especially on kids to have to get permission to play and 
+      个人尤其是孩子们获得玩的许可;-;个人尤其是孩子们承担必须获得游戏许可;-;0.761855959892273
+      samex1x2
+--sbert--
+
+#276: " We should n ' t put the onus on individuals , and especially on kids , to have to get permission to play and that ' s a really important element of this Maryland rule .
+baidu: “ 我们 不 应该 把 必须 获得 游戏 许可 的 责任 推 给 个人 ， 尤其 是 孩子 ， 这 是 马里兰州 规则 中 非常 重要 的 一个 因素 。
+bing: “ 我们 不 应该 把 责任 推 给 个人 ， 特别 是 孩子 ， 必须 获得 玩耍 的 许可 ， 这 是 马里兰州 规则 的 一个 非常 重要 的 元素 。
+      We should n t put the onus 
+      我们不应该把的责任推;-;我们不应该把责任推;-;1.0
+      that s a really important element of this Maryland rule 
+      这是马里兰州规则中非常重要的一个因素;-;这是马里兰州规则的一个非常重要的元素;-;0.9107300639152527
+      '' on individuals and especially on kids to have to get permission to play and 
+      必须获得游戏许可给个人尤其是孩子;-;给个人特别是孩子必须获得玩耍的许可;-;0.8266180753707886
+      samex1x3
+--sbert--
+
+#283: I try to be strong , but sometimes is difficult because of everything , because you lost your home twice .
+baidu: 我 努力 变 得 坚强 ， 但 有时 因为 一切 都 很 困难 ， 因为 你 两 次 失去 了 家 。
+google: 我 努力 坚强 , 但 有时 因为 一切 都 困难 , 因为 你 两 次 失去 你 的 家 .
+      I try to be strong 
+      我努力变得坚强;-;我努力坚强;-;0.817445695400238
+      because you lost your home twice 
+      因为你两次失去了家;-;因为你两次失去你的家;-;0.9233267903327942
+      but sometimes is difficult because of everything 
+      但有时因为一切都很困难;-;但有时因为一切都困难;-;0.9794305562973022
+      samex1x2
+--sbert--
+
+#283: I try to be strong , but sometimes is difficult because of everything , because you lost your home twice .
+baidu: 我 努力 变 得 坚强 ， 但 有时 因为 一切 都 很 困难 ， 因为 你 两 次 失去 了 家 。
+bing: 我 努力 坚强 ， 但 有时 因为 一切 而 困难 ， 因为 你 两 次 失去 了 你 的 家 。
+      I try to be strong 
+      我努力变得坚强;-;我努力坚强;-;0.817445695400238
+      because you lost your home twice 
+      因为你两次失去了家;-;因为你两次失去了你的家;-;0.9509101510047913
+      but sometimes is difficult because of everything 
+      但有时因为一切都很困难;-;但有时因为一切而困难;-;0.9147878289222717
+      samex1x3
+--sbert--
+
+#289: Meanwhile , witnesses told local newspaper El Mundo that Real Madrid supporters were targeted by thieves and had their vehicles broken into at the match .
+baidu: 与此同时 ， 目击者 告诉 当地 报纸 《 世界 报 》 ， 皇家 马德里 的 支持者 在 比赛 中 被 窃贼 袭击 ， 他们 的 车辆 被 闯入 。
+bing: 与此同时 ， 目击者 告诉 当地 报纸 El Mundo ， 皇家 马德里 的 支持者 被 小偷 瞄准 ， 他们 的 车辆 在 比赛 中 被 闯入 。
+      Real Madrid supporters were targeted by thieves 
+      皇家马德里的支持者中被窃贼袭击;-;皇家马德里的支持者被小偷瞄准;-;0.8606834411621094
+      that 
+      ;-;;-;1.0
+      Meanwhile witnesses told local newspaper El Mundo and had their vehicles broken into at the match 
+      与此同时目击者告诉当地报纸Mundo报在比赛他们的车辆被闯入;-;与此同时目击者告诉当地报纸ElMundo他们的车辆在比赛中被闯入;-;0.9457979202270508
+      samex1x3
+--sbert--
+
+#290: Meanwhile , witnesses told Spanish newspaper El Mundo that Real Madrid supporters were targeted by thieves and had their vehicles broken into at the match .
+google: 与此同时 ， 目击者 告诉 西班牙 报纸 El Mundo ， 皇马 的 支持者 在 比赛 中 被 小偷 盯 上 了 ， 他们 的 车辆 被 闯入 。
+bing: 与此同时 ， 目击者 告诉 西班牙 报纸 El Mundo ， 皇家 马德里 的 支持者 被 小偷 瞄准 ， 并 在 比赛 中 闯入 了 他们 的 车辆 。
+      Real Madrid supporters were targeted by thieves 
+      皇马的支持者中被小偷盯;-;皇家马德里的支持者被小偷瞄准;-;0.7746639251708984
+      that 
+      ;-;;-;1.0
+      and had their vehicles broken into at the match 
+      在比赛上了他们的车辆被闯入;-;并在比赛中闯入了他们的车辆;-;0.842647910118103
+      Meanwhile witnesses told Spanish newspaper El Mundo 
+      与此同时目击者告诉西班牙报纸ElMundo;-;与此同时目击者告诉西班牙报纸ElMundo;-;1.0
+      samex2x3
+--sbert--
+
+#290: Meanwhile , witnesses told Spanish newspaper El Mundo that Real Madrid supporters were targeted by thieves and had their vehicles broken into at the match .
+baidu: 与此同时 ， 目击者 告诉 西班牙 报纸 《 世界 报 》 ， 皇家 马德里 的 支持者 在 比赛 中 被 窃贼 袭击 ， 他们 的 车辆 被 闯入 。
+bing: 与此同时 ， 目击者 告诉 西班牙 报纸 El Mundo ， 皇家 马德里 的 支持者 被 小偷 瞄准 ， 并 在 比赛 中 闯入 了 他们 的 车辆 。
+      Real Madrid supporters were targeted by thieves 
+      皇家马德里的支持者中被窃贼袭击;-;皇家马德里的支持者被小偷瞄准;-;0.8606834411621094
+      that 
+      ;-;;-;1.0
+      and had their vehicles broken into at the match 
+      在比赛他们的车辆被闯入;-;并在比赛中闯入了他们的车辆;-;0.8434239625930786
+      Meanwhile witnesses told Spanish newspaper El Mundo 
+      与此同时目击者告诉西班牙报纸Mundo报;-;与此同时目击者告诉西班牙报纸ElMundo;-;0.9556080102920532
+      samex1x3
+--sbert--
+
+#292: Instead , the immune cells we met earlier , natural killer cells , well known for killing infected cells or cancer cells , take on a completely different , more constructive job in the womb : helping build the placenta .
+baidu: 相反 ， 我们 之前 遇到 的 免疫 细胞 ， 即 以 杀死 感染 细胞 或 癌细胞 而 闻名 的 自然 杀伤 细胞 ， 在 子宫 中 承担 着 一 项 完全 不同 、 更 具 建设性 的 工作 ： 帮助 构建 胎盘 。
+google: 取而代之 的 是 ， 我们 之前 遇到 的 免疫 细胞 — — 自然 杀伤 细胞 ， 以 杀死 受 感染 的 细胞 或 癌细胞 而 闻名 ， 在 子宫 内 承担 了 完全 不同 的 、 更 具 建设性 的 工作 ： 帮助 构建 胎盘 。
+      natural killer cells take a helping build the placenta 
+      自然杀伤细胞中承担一项帮助构建胎盘;-;自然杀伤细胞内承担了的帮助构建胎盘;-;0.9482850432395935
+      we met earlier 
+      我们之前遇到;-;我们之前遇到;-;1.0
+      Instead the immune cells well known for killing infected cells or cancer cells on completely different more constructive job in the womb 
+      相反的免疫细胞即以杀死感染细胞或癌细胞而闻名的在子宫着完全不同更具建设性的工作;-;取而代之的是的免疫细胞以杀死受感染的细胞或癌细胞而闻名在子宫完全不同的更具建设性工作;-;0.9451598525047302
+      samex1x2
+--sbert--
+
+#292: Instead , the immune cells we met earlier , natural killer cells , well known for killing infected cells or cancer cells , take on a completely different , more constructive job in the womb : helping build the placenta .
+google: 取而代之 的 是 ， 我们 之前 遇到 的 免疫 细胞 — — 自然 杀伤 细胞 ， 以 杀死 受 感染 的 细胞 或 癌细胞 而 闻名 ， 在 子宫 内 承担 了 完全 不同 的 、 更 具 建设性 的 工作 ： 帮助 构建 胎盘 。
+bing: 相反 ， 我们 之前 遇到 的 免疫 细胞 ， 以 杀死 受 感染 细胞 或 癌细胞 而 闻名 的 自然 杀伤 细胞 ， 在 子宫 中 承担 着 完全 不同 的 ， 更 具 建设性 的 工作 ： 帮助 建立 胎盘 。
+      natural killer cells take a helping build the placenta 
+      自然杀伤细胞内承担了的帮助构建胎盘;-;细胞的自然杀伤细胞中承担的帮助建立胎盘;-;0.9453563094139099
+      we met earlier 
+      我们之前遇到;-;我们之前遇到;-;1.0
+      Instead the immune cells well known for killing infected cells or cancer cells on completely different more constructive job in the womb 
+      取而代之的是的免疫细胞以杀死受感染的细胞或癌细胞而闻名在子宫完全不同的更具建设性工作;-;相反的免疫细胞以杀死受感染细胞或癌细胞而闻名在子宫着完全不同的更具建设性工作;-;0.9526114463806152
+      samex2x3
+--sbert--
+
+#293: Separately , Amazon partnered with JP Morgan Chase and Berkshire Hathaway on an effort to provide better health care services and insurance at a lower cost to employees and families at the three companies , and possibly other businesses , too .
+baidu: 另外 ， 亚马逊 还 与 摩根 大通 和 伯克 希尔 哈撒韦 合作 ， 以 较 低 的 成本 为 这 三 家 公司 的 员工 和 家庭 以及 其他 企业 提供 更 好 的 医疗 服务 和 保险 。
+google: 另外 ， 亚马逊 与 摩根 大通 和 伯克 希尔 哈撒韦 公司 合作 ， 努力 以 更 低 的 成本 为 这 三 家 公司 的 员工 和 家庭 以及 可能 的 其他 企业 提供 更 好 的 医疗 保健 服务 和 保险 。
+      Amazon partnered on an effort to provide better health care services 
+      亚马逊合作提供更好的医疗服务;-;亚马逊公司合作努力更提供更好的医疗保健服务;-;0.902171790599823
+      and insurance at a lower cost to employees and families at the three companies and possibly other businesses too 
+      还以较低的成本为这三家公司的员工和家庭以及其他企业和保险;-;以低的成本为这三家公司的员工和家庭以及可能的其他企业和保险;-;0.9365196228027344
+      Separately with JP Morgan Chase and Berkshire Hathaway 
+      另外与摩根大通和伯克希尔哈撒韦;-;另外与摩根大通和伯克希尔哈撒韦;-;1.0
+      samex1x2
+--sbert--
+
+#294: Separately , Amazon partnered with JP Morgan Chase and Berkshire Hathaway on an effort to provide better health care services and insurance at a lower cost to workers and families at the three companies , and possibly other businesses , too .
+baidu: 另外 ， 亚马逊 还 与 摩根 大通 和 伯克 希尔 哈撒韦 合作 ， 以 较 低 的 成本 为 这 三 家 公司 的 员工 和 家庭 以及 其他 企业 提供 更 好 的 医疗 服务 和 保险 。
+google: 另外 ， 亚马逊 还 与 摩根 大通 和 伯克 希尔 哈撒韦 公司 合作 ， 努力 以 更 低 的 成本 为 这 三 家 公司 的 员工 和 家庭 以及 可能 的 其他 企业 提供 更 好 的 医疗 保健 服务 和 保险 。
+      Amazon partnered on an effort to provide better health care services 
+      亚马逊合作提供更好的医疗服务;-;亚马逊公司合作努力提供更好的医疗保健服务;-;0.900935173034668
+      and insurance at a lower cost to workers and families at the three companies and possibly other businesses too 
+      还以较低的成本为这三家公司的员工和家庭以及其他企业和保险;-;还以更低的成本为这三家公司的员工和家庭以及可能的其他企业和保险;-;0.9397069811820984
+      Separately with JP Morgan Chase and Berkshire Hathaway 
+      另外与摩根大通和伯克希尔哈撒韦;-;另外与摩根大通和伯克希尔哈撒韦;-;1.0
+      samex1x2
+--sbert--
+
+#309: From the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors cloaked in white personal protective gear , were hovering in the night air .
+google: 家家户户 的 窗外 ， 响起 热烈 的 掌声 和 欢呼声 ， 向 “ 大白 ” 表示 感谢 ， 身着 白色 个人 防护服 的 无处 不 在 的 健康 监测仪 ， 在 夜空 中 盘旋 。
+bing: 从 千家万户 的 橱窗 里 ， 热烈 的 掌声 和 欢呼声 向 “ 大白 ” 表示 感谢 ， 无处 不 在 的 卫生 监测仪 披 着 白色 个人 防护 装备 ， 在 夜空 中 徘徊 。
+      warm applause the were hovering in the night air 
+      热烈的掌声的在夜空中盘旋;-;热烈的掌声的在夜空中徘徊;-;0.915631890296936
+      to express gratitude toward the '' big whites 
+      向大白表示感谢;-;向大白表示感谢;-;1.0
+      From the windows of every household and cheers '' ubiquitous health monitors cloaked in white personal protective gear 
+      家家户户的窗外响起和欢呼声身着白色个人防护服无处不在的健康监测仪;-;从千家万户的橱窗里和欢呼声无处不在卫生监测仪披着白色个人防护装备;-;0.802739143371582
+      samex2x3
+--same--
+
+#310: From the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+google: 家家户户 的 窗外 ， 热烈 的 掌声 和 欢呼声 向 “ 大白 ” 表示 感谢 ， 身 穿 白色 个人 防护服 的 无处 不 在 的 健康 监测仪 ， 在 夜空 中 盘旋 。
+bing: 从 千家万户 的 橱窗 里 ， 热烈 的 掌声 和 欢呼声 向 “ 大白 ” 表示 感谢 ， 无处 不 在 的 卫生 监测员 穿 着 白色 的 个人 防护 装备 ， 在 夜空 中 徘徊 。
+      warm applause the were hovering in the night air 
+      热烈的掌声的在夜空中盘旋;-;热烈的掌声的在夜空中徘徊;-;0.915631890296936
+      to express gratitude toward the '' big whites 
+      向大白表示感谢;-;向大白表示感谢;-;1.0
+      From the windows of every household and cheers '' ubiquitous health monitors clothed in white personal protective gear 
+      家家户户的窗外和欢呼声身穿白色个人防护服无处不在的健康监测仪;-;从千家万户的橱窗里和欢呼声无处不在卫生监测员穿着白色的个人防护装备;-;0.8025177717208862
+      samex2x3
+--sbert--
+
+#312: He has visited many villages across the country where the tradition of making bamboo items is alive .
+google: 他 走访 了 全国 许多 有 制作 竹制品 传统 的 村庄 。
+bing: 他 访问 了 全国 各地 的 许多 村庄 ， 那里 保留 了 制作 竹制品 的 传统 。
+      He has visited many villages 
+      他走访了许多村庄;-;他访问了许多村庄;-;0.9372006058692932
+      where the tradition of making bamboo items is alive 
+      有制作竹制品传统;-;那里保留了制作竹制品的传统;-;0.8140113949775696
+      across the country 
+      全国的;-;全国各地的;-;0.7515245079994202
+      samex2x3
+--sbert--
+
+#322: As the clock struck noon , Cai Kaijun , an urban construction worker , boarded a free air - conditioned bus stationed outside the work site to get some rest after working all morning in the searing heat .
+baidu: 正午 钟声 敲响 时 ， 城市 建设 工人 蔡开军 在 酷热 中 工作 了 一 上午 后 ， 登 上 了 一 辆 停 在 工地 外 的 免费 空调 巴士 休息 。
+bing: 随着 钟声 敲响 正午 ， 城市 建设 工人 蔡开军 在 灼热 的 炎热 中 工作 了 一整天 ， 登 上 了 一 辆 驻扎 在 工地 外 的 免费 空调 公交车 ， 休息 了 一会儿 。
+      Cai Kaijun boarded a free bus 
+      蔡开军在登上了一辆的免费巴士;-;蔡开军在登上了一辆的免费公交车;-;0.8624964356422424
+      As the clock struck noon 
+      正午钟声敲响时;-;随着钟声敲响正午;-;0.8693141341209412
+      air conditioned stationed outside the work site to get some rest after working all morning in the searing heat 
+      酷热中工作了一上午后停在工地外空调休息;-;灼热的炎热中工作了一整天驻扎在工地外空调休息了一会儿;-;0.8874815702438354
+      an urban construction worker 
+      城市建设工人;-;城市建设工人;-;1.0
+      samex1x3
+--sbert--
+
+#327: Like other social platforms , Instagram has increasingly attempted to copy features from TikTok in an effort to compete with its ever - growing rival .
+baidu: 与 其他 社交 平台 一样 ， Instagram 越来越 多 地 试图 复制 TikTok 的 功能 ， 以 与 不断 增长 的 竞争 对手 竞争 。
+google: 与 其他 社交 平台 一样 ， Instagram 越来越 多 地 试图 复制 TikTok 的 功能 ， 以 与其 日益 壮大 的 竞争 对手 竞争 。
+      Instagram has attempted to copy features from TikTok 
+      Instagram越来越地试图复制TikTok的功能;-;Instagram越来越地试图复制TikTok的功能;-;1.0
+      to compete with its ever growing rival 
+      以与不断增长的竞争对手竞争;-;以与其日益壮大的竞争对手竞争;-;0.9214273691177368
+      in an effort 
+      以;-;以;-;1.0
+      Like other social platforms increasingly 
+      与其他社交平台一样多;-;与其他社交平台一样多;-;1.0
+      samex1x2
+--same--
+
+#328: Like other social platforms , Instagram has increasingly attempted to copy features from TikTok in an effort to compete with its fast - growing rival .
+baidu: 与 其他 社交 平台 一样 ， Instagram 越来越 多 地 试图 复制 TikTok 的 功能 ， 以 与 快速 增长 的 竞争 对手 竞争 。
+google: 与 其他 社交 平台 一样 ， Instagram 越来越 多 地 尝试 复制 TikTok 的 功能 ， 以 与其 快速 增长 的 竞争 对手 竞争 。
+      Instagram has attempted to copy features from TikTok 
+      Instagram越来越地试图复制TikTok的功能;-;Instagram越来越地尝试复制TikTok的功能;-;0.964746356010437
+      to compete with its fast growing rival 
+      以与快速增长的竞争对手竞争;-;以与其快速增长的竞争对手竞争;-;0.9787508845329285
+      in an effort 
+      以;-;以;-;1.0
+      Like other social platforms increasingly 
+      与其他社交平台一样多;-;与其他社交平台一样多;-;1.0
+      samex1x2
+--same--
+
+#331: Many designers participated in this unique fashion show , referring the digitalization would be the focus of the next development of many brands .
+google: 众多 设计师 参与 了 这 场 别具一格 的 时装秀 ， 数字化 将 是 众多 品牌 下 一 步 发展 的 重点 。
+bing: 许多 设计师 参加 了 这个 独特 的 时装秀 ， 指 的 是 数字化 将 是 许多 品牌 下 一 步 发展 的 重点 。
+      designers participated in this unique fashion show 
+      设计师参与了这场别具一格的时装秀;-;设计师参加了这个独特的时装秀;-;0.8849536180496216
+      referring the digitalization 
+      数字化;-;指的是数字化;-;0.8336586356163025
+      Many 
+      众多;-;许多;-;0.7712363004684448
+      would be the focus of the next development of many brands 
+      将是众多品牌下一步发展的重点;-;将是许多品牌下一步发展的重点;-;0.9652457237243652
+      samex2x3
+--sbert--
+
+#331: Many designers participated in this unique fashion show , referring the digitalization would be the focus of the next development of many brands .
+baidu: 许多 设计师 参加 了 这 场 独特 的 时装秀 ， 表示 数字化 将 是 许多 品牌 下 一 步 发展 的 重点 。
+bing: 许多 设计师 参加 了 这个 独特 的 时装秀 ， 指 的 是 数字化 将 是 许多 品牌 下 一 步 发展 的 重点 。
+      designers participated in this unique fashion show 
+      设计师参加了这场独特的时装秀;-;设计师参加了这个独特的时装秀;-;0.9656866192817688
+      referring the digitalization 
+      表示数字化;-;指的是数字化;-;0.6976921558380127;-;1.0
+      Many 
+      许多;-;许多;-;1.0
+      would be the focus of the next development of many brands 
+      将是许多品牌下一步发展的重点;-;将是许多品牌下一步发展的重点;-;1.0
+      samex1x3
+--same--
+
+#332: Many designers participated in this unique fashion show , referring the digitalization will be the focus of the next development of many brands .
+google: 众多 设计师 参与 了 这 场 别具一格 的 时装秀 ， 提到 数字化 将 是 众多 品牌 下 一 步 发展 的 重点 。
+bing: 许多 设计师 参加 了 这 场 独特 的 时装秀 ， 所 指 的 数字化 将 是 许多 品牌 下 一 步 发展 的 重点 。
+      designers participated in this unique fashion show 
+      设计师参与了这场别具一格的时装秀;-;设计师参加了这场独特的时装秀;-;0.9254605770111084
+      referring the digitalization 
+      提到数字化;-;所指的数字化;-;0.7658613920211792
+      Many 
+      众多;-;许多;-;0.7712363004684448
+      will be the focus of the next development of many brands 
+      将是众多品牌下一步发展的重点;-;将是许多品牌下一步发展的重点;-;0.9652457237243652
+      samex2x3
+--sbert--
+
+#332: Many designers participated in this unique fashion show , referring the digitalization will be the focus of the next development of many brands .
+baidu: 许多 设计师 参加 了 这 场 独特 的 时装秀 ， 表示 数字化 将 是 许多 品牌 下 一 步 发展 的 重点 。
+bing: 许多 设计师 参加 了 这 场 独特 的 时装秀 ， 所 指 的 数字化 将 是 许多 品牌 下 一 步 发展 的 重点 。
+      designers participated in this unique fashion show 
+      设计师参加了这场独特的时装秀;-;设计师参加了这场独特的时装秀;-;1.0
+      referring the digitalization 
+      表示数字化;-;所指的数字化;-;0.7325643301010132;-;1.0
+      Many 
+      许多;-;许多;-;1.0
+      will be the focus of the next development of many brands 
+      将是许多品牌下一步发展的重点;-;将是许多品牌下一步发展的重点;-;1.0
+      samex1x3
+--same--
+
+#349: Therefore , a wellness hotel should provide care for the guest ' s body , mind and spirit , and try to foster a harmonious relationship among nature , space , people and services , according to the article .
+baidu: 文章 指出 ， 因此 ， 一 家 健康 酒店 应该 照顾 客人 的 身体 、 心灵 和 精神 ， 并 努力 培养 自然 、 空间 、 人 和 服务 之间 的 和谐 关系 。
+google: 因此 , 康体 酒店 应该 照顾 客人 的 身体 , 心灵 和 精神 , 并 努力 促进 自然 , 空间 , 人 和 服务 之间 的 和谐 关系 , 文章 说 .
+      a wellness hotel should provide care 
+      一家健康酒店应该照顾;-;康体酒店应该照顾;-;0.8467680215835571
+      to foster a harmonious relationship among nature 
+      培养自然之间的和谐关系;-;促进自然之间的和谐关系;-;0.9039720892906189
+      Therefore for the guest s body mind and spirit and try space people and services according to the article 
+      文章指出因此客人的身体心灵和精神并努力空间人和服务;-;因此客人的身体心灵和精神并努力空间人和服务文章说;-;0.9495936632156372
+      samex1x2
+--same--
+
+#349: Therefore , a wellness hotel should provide care for the guest ' s body , mind and spirit , and try to foster a harmonious relationship among nature , space , people and services , according to the article .
+google: 因此 , 康体 酒店 应该 照顾 客人 的 身体 , 心灵 和 精神 , 并 努力 促进 自然 , 空间 , 人 和 服务 之间 的 和谐 关系 , 文章 说 .
+bing: 因此 ， 一 家 养生 酒店 应该 照顾 客人 的 身体 、 心灵 和 精神 ， 并 努力 培养 自然 、 空间 、 人 与 服务 之间 的 和谐 关系 。
+      a wellness hotel should provide care 
+      康体酒店应该照顾;-;一家养生酒店应该照顾;-;0.8289563655853271
+      to foster a harmonious relationship among nature 
+      促进自然之间的和谐关系;-;培养自然之间的和谐关系;-;0.9039720892906189
+      Therefore for the guest s body mind and spirit and try space people and services according to the article 
+      因此客人的身体心灵和精神并努力空间人和服务文章说;-;因此客人的身体心灵和精神并努力空间人与服务;-;0.9425167441368103
+      samex2x3
+--same--
+
+#349: Therefore , a wellness hotel should provide care for the guest ' s body , mind and spirit , and try to foster a harmonious relationship among nature , space , people and services , according to the article .
+baidu: 文章 指出 ， 因此 ， 一 家 健康 酒店 应该 照顾 客人 的 身体 、 心灵 和 精神 ， 并 努力 培养 自然 、 空间 、 人 和 服务 之间 的 和谐 关系 。
+bing: 因此 ， 一 家 养生 酒店 应该 照顾 客人 的 身体 、 心灵 和 精神 ， 并 努力 培养 自然 、 空间 、 人 与 服务 之间 的 和谐 关系 。
+      a wellness hotel should provide care 
+      一家健康酒店应该照顾;-;一家养生酒店应该照顾;-;0.8949220180511475
+      to foster a harmonious relationship among nature 
+      培养自然之间的和谐关系;-;培养自然之间的和谐关系;-;1.0
+      Therefore for the guest s body mind and spirit and try space people and services according to the article 
+      文章指出因此客人的身体心灵和精神并努力空间人和服务;-;因此客人的身体心灵和精神并努力空间人与服务;-;0.9111912846565247
+      samex1x3
+--sbert--
+
+#350: Moreover , a wellness hotel should provide care for the guest ' s body , mind and spirit , and try to foster a harmonious relationship among nature , space , people and services , according to the article .
+baidu: 此外 ， 文章 还 指出 ， 健康 酒店 应该 照顾 客人 的 身体 、 心灵 和 精神 ， 并 努力 培养 自然 、 空间 、 人 和 服务 之间 的 和谐 关系 。
+bing: 此外 ， 根据 文章 ， 健康 酒店 应该 照顾 客人 的 身体 ， 心灵 和 精神 ， 并 努力 培养 自然 ， 空间 ， 人 与 服务 之间 的 和谐 关系 。
+      a wellness hotel should provide care 
+      健康酒店应该照顾;-;健康酒店应该照顾;-;1.0
+      to foster a harmonious relationship among nature 
+      培养自然之间的和谐关系;-;培养自然之间的和谐关系;-;1.0
+      Moreover for the guest s body mind and spirit and try space people and services according to the article 
+      此外文章还指出客人的身体心灵和精神并努力空间人和服务;-;此外根据文章客人的身体心灵和精神并努力空间人与服务;-;0.8780192136764526
+      samex1x3
+--sbert--
+
+#356: " Because we had this magical beginning , we just felt the ability and the safety to be able to share things with each other that we would n ' t have done otherwise .
+baidu: “ 因为 我们 有 了 一个 神奇 的 开始 ， 我们 只是 觉得 有 能力 和 安全感 能够 彼此 分享 我们 原本 不 会 做 的 事情 。
+google: “ 因为 我们 有 了 这个 神奇 的 开端 ， 我们 只是 觉得 有 能力 和 安全感 能够 相互 分享 我们 本来 不 会 做 的 事情 。
+      we felt the ability and to be able to share things 
+      我们觉得有能力和能够分享的事情;-;我们觉得有能力和能够分享的事情;-;1.0
+      Because we had this magical beginning 
+      因为我们有了一个神奇的开始;-;因为我们有了这个神奇的开端;-;0.8658278584480286
+      that we would n t have done otherwise 
+      我们原本不会做;-;我们本来不会做;-;0.9453986883163452
+      '' just the safety with each other 
+      只是安全感彼此;-;只是安全感相互;-;0.9058480858802795
+      samex1x2
+--same--
+
+#363: The National Cultural Heritage Administration , the Palace Museum and museums from other provinces can attend the travel mart .
+google: 国家 文物局 、 故宫 博物院 及 外省 博物馆 均 可 参加 旅游 集市 。
+bing: 国家 文物局 、 故宫 博物院 等 省 博物馆 均 可 参加 旅游 市场 。
+      The National Cultural Heritage Administration can attend the travel mart 
+      国家文物局均可参加旅游集市;-;国家文物局均可参加旅游市场;-;0.9204027652740479
+      the Palace Museum and museums from other provinces 
+      故宫博物院及外省博物馆;-;故宫博物院等省博物馆;-;0.9234778881072998
+      samex2x3
+--same--
+
+#364: The National Cultural Heritage Administration , the Palace Museum and museums from other provinces will attend the travel mart .
+google: 国家 文物局 、 故宫 博物院 及 外省 博物馆 将 参加 旅游 集市 。
+bing: 国家 文物局 、 故宫 博物院 等 省 博物馆 将 参加 此次 旅游 市场 。
+      The National Cultural Heritage Administration will attend the travel mart 
+      国家文物局将参加旅游集市;-;国家文物局博物馆将参加此次旅游市场;-;0.8355473875999451
+      the Palace Museum and museums from other provinces 
+      故宫博物院及外省博物馆;-;故宫博物院等省;-;0.8759329915046692
+      samex2x3
+--same--
+
+#364: The National Cultural Heritage Administration , the Palace Museum and museums from other provinces will attend the travel mart .
+baidu: 国家 文化 遗产 管理局 、 故宫 博物院 和 其他 省份 的 博物馆 将 参加 此次 旅游 博览会 。
+bing: 国家 文物局 、 故宫 博物院 等 省 博物馆 将 参加 此次 旅游 市场 。
+      The National Cultural Heritage Administration will attend the travel mart 
+      国家文化遗产管理局将参加此次旅游博览会;-;国家文物局博物馆将参加此次旅游市场;-;0.7642604112625122
+      the Palace Museum and museums from other provinces 
+      故宫博物院和其他省份的博物馆;-;故宫博物院等省;-;0.7920293211936951
+      samex1x3
+--sbert--
+
+#366: Faced with the prospect of another sweltering summer in Beijing , those soothing moments of natural splendor will continue to linger in my mind .
+baidu: 面对 北京 又 一个 闷热 的 夏天 ， 那些 自然 美景 的 舒缓 时刻 将 继续 萦绕 在 我 的 脑海 中 。
+google: 面对 北京 又 一个 闷热 的 夏天 的 前景 ， 那些 自然 光辉 的 舒缓 时刻 将 继续 萦绕 在 我 的 脑海 中 。
+      those moments of natural splendor will continue to linger in my mind 
+      那些自然美景的时刻将继续萦绕在我的脑海中;-;那些自然光辉的时刻将继续萦绕在我的脑海中;-;0.8263118863105774
+      Faced with the prospect of another sweltering summer in Beijing 
+      面对北京又一个闷热的夏天;-;面对北京又一个闷热的夏天的前景;-;0.9234221577644348
+      soothing 
+      舒缓;-;舒缓;-;1.0
+      samex1x2
+--sbert--
+
+#369: Kris had spotted Carrie earlier that day , on one of the buses that ferry people around the national park .
+google: 那天 早 些 时候 ， 克里斯 在 一 辆 载人 环游 国家 公园 的 公共 汽车 上 发现 了 嘉莉 。
+bing: 那天 早 些 时候 ， 克里斯 在 一 辆 运送 人们 游览 国家 公园 的 公共 汽车 上 发现 了 凯莉 。
+      Kris had spotted Carrie 
+      克里斯上发现了嘉莉;-;克里斯上发现了凯莉;-;0.9072743058204651
+      that ferry people around the national park 
+      载人环游国家公园的;-;运送人们游览国家公园;-;0.7560691833496094
+      earlier that day on one of the buses 
+      那天早些时候在一辆的公共汽车;-;那天早些时候在一辆的公共汽车;-;1.0
+      samex2x3
+--sbert--
+
+#371: With no plaque or indication of any kind as to what this wall may be , my curiosity was peaked .
+baidu: 由于 没有 任何 关于 这 堵 墙 可能 是 什么 的 斑块 或 迹象 ， 我 的 好奇心 达到 了 顶峰 。
+bing: 由于 没有 斑块 或 迹象 表明 这 堵 墙 可能 是 什么 ， 我 的 好奇心 达到 了 顶峰 。
+      my curiosity was peaked 
+      我的好奇心达到了顶峰;-;我的好奇心达到了顶峰;-;1.0
+      what this wall may be 
+      这堵墙可能是;-;这堵墙可能是什么;-;0.8195188641548157
+      With no plaque or indication of any kind as to 
+      由于没有任何关于什么的斑块或迹象;-;由于没有斑块或迹象表明;-;0.8192376494407654
+      samex1x3
+--same--
+
+#375: With mountains rising behind serene Lake Wakatipu , Rakauri Lodge boasts a stunning setting in New Zealand ' s South Island .
+google: Rakauri Lodge 在 宁静 的 瓦 卡蒂普 湖 背后 耸立 着 群山 ， 在 新西兰 的 南岛 拥有 令 人 惊叹 的 环境 。
+bing: 随着 山脉 在 宁静 的 瓦 卡蒂普 湖 后面 升起 ， 拉 考里 小屋 在 新西兰 的 南岛 拥有 令 人 惊叹 的 环境 。
+      Rakauri Lodge boasts a stunning setting 
+      RakauriLodge拥有令人惊叹的环境;-;RakauriLodge拥有令人惊叹的环境;-;1.0
+      mountains rising behind serene Lake Wakatipu 
+      宁静的瓦卡蒂普湖背后耸立着群山;-;山脉在宁静的瓦卡蒂普湖后面升起;-;0.7490009069442749;-;1.0
+      With in New Zealand s South Island 
+      在在新西兰的南岛;-;随着在新西兰的南岛;-;0.8007739186286926
+      samex2x3
+--sbert--
+
+#380: Growing stress from life and work is one of the reasons why people are seeking more ways to rejuvenate themselves .
+google: 来自 生活 和 工作 的 压力 越来越 大 ， 是 人们 寻求 更 多 方式 来 恢复 活力 的 原因 之一 。
+bing: 生活 和 工作 压力 越来越 大 ， 这 是 人们 寻求 更 多 恢复 活力 的 方法 的 原因 之一 。
+      people are seeking more ways to rejuvenate 
+      人们寻求更多方式来恢复;-;人们寻求更多恢复活力的方法;-;0.7699951529502869
+      themselves 
+      ;-;;-;1.0
+      why 
+      ;-;;-;1.0
+      Growing stress from life and work is one of the reasons 
+      来自生活和工作的压力越来越大是活力的原因之一;-;生活和工作压力越来越大这是的原因之一;-;0.8765393495559692
+      samex2x3
+--same--
+
+#391: A " social orchard " with fresh produce has been created , drawing together groups of children for lessons on rural life , while a gastronomy school launches this year .
+baidu: 一个 有 新鲜 农产品 的 “ 社会 果园 ” 已经 建立 起来 ， 将 一 群 孩子 聚集 在 一起 学习 农村 生活 课程 ， 而 一 所 美食 学校 今年 也 将 成立 。
+google: 一个 生产 新鲜 农产品 的 “ 社会 果园 ” 已经 建成 ， 吸引 了 成群结队 的 孩子 们 学习 农村 生活 ， 而 今年 还 将 开设 一 所 美食 学校 。
+      A social orchard has been created 
+      一个社会果园已经建立起来;-;一个生产社会果园已经建成;-;0.8177670240402222
+      while a gastronomy school launches this year 
+      而一所美食学校今年也将成立;-;而今年还将开设一所美食学校;-;0.8740482926368713
+      '' '' with fresh produce drawing together groups of children for lessons on rural life 
+      有新鲜农产品的将一群孩子聚集在一起学习农村生活课程;-;新鲜农产品的吸引了成群结队的孩子们学习农村生活;-;0.8343247771263123
+      samex1x2
+--sbert--
+
+#391: A " social orchard " with fresh produce has been created , drawing together groups of children for lessons on rural life , while a gastronomy school launches this year .
+google: 一个 生产 新鲜 农产品 的 “ 社会 果园 ” 已经 建成 ， 吸引 了 成群结队 的 孩子 们 学习 农村 生活 ， 而 今年 还 将 开设 一 所 美食 学校 。
+bing: 一个 拥有 新鲜 农产品 的 “ 社会 果园 ” 已经 创建 ， 吸引 了 一 群 孩子 一起 上 农村 生活 的 课程 ， 而 一 所 美食 学校 今年 开办 。
+      A social orchard has been created 
+      一个生产社会果园已经建成;-;一个社会果园已经创建;-;0.8521401882171631
+      while a gastronomy school launches this year 
+      而今年还将开设一所美食学校;-;而一所美食学校今年开办;-;0.884728729724884
+      '' '' with fresh produce drawing together groups of children for lessons on rural life 
+      新鲜农产品的吸引了成群结队的孩子们学习农村生活;-;拥有新鲜农产品的吸引了一群孩子一起上农村生活的课程;-;0.8300156593322754
+      samex2x3
+--sbert--
+
+#396: Contributing to Young ' s popularity , her books managed to overcome the challenge of explaining the many ethereal Chinese culinary concepts in English , a feat generations of Chinese food writers and lovers are grateful for .
+baidu: 杨 的 书 成功 地 克服 了 用 英语 解释 许多 空灵 的 中国 烹饪 概念 的 挑战 ， 这 是 一个 令 几 代 中国 美食 作家 和 爱好者 感激 的 壮举 。
+google: 她 的 书 为 杨 的 知名度 做出 了 贡献 ， 她 的 书 成功 地 克服 了 用 英文 解释 许多 空灵 的 中国 烹饪 概念 的 挑战 ， 这 是 几 代 中国 美食 作家 和 爱好者 所 感激 的 壮举 。
+      her books managed to overcome the challenge of explaining the Chinese culinary concepts English 
+      书成功地克服了英语解释中国烹饪概念的挑战;-;她的书她的书成功地克服了英文解释中国烹饪概念的挑战;-;0.8854154348373413
+      Contributing to Young s popularity many ethereal in a feat generations of Chinese food writers and lovers are grateful for 
+      杨的用许多空灵的这是一个令几代中国美食作家和爱好者感激的壮举;-;为杨的知名度做出了贡献用许多空灵的这是几代中国美食作家和爱好者所感激的壮举;-;0.818426251411438
+      samex1x2
+--sbert--
+
+#396: Contributing to Young ' s popularity , her books managed to overcome the challenge of explaining the many ethereal Chinese culinary concepts in English , a feat generations of Chinese food writers and lovers are grateful for .
+google: 她 的 书 为 杨 的 知名度 做出 了 贡献 ， 她 的 书 成功 地 克服 了 用 英文 解释 许多 空灵 的 中国 烹饪 概念 的 挑战 ， 这 是 几 代 中国 美食 作家 和 爱好者 所 感激 的 壮举 。
+bing: 为了 促进 杨 的 受 欢迎 程度 ， 她 的 书 设法 克服 了 用 英语 解释 许多 空灵 的 中国 烹饪 概念 的 挑战 ， 这 是 一代 又 一代 中国 美食 作家 和 爱好者 感激 的 壮举 。
+      her books managed to overcome the challenge of explaining the Chinese culinary concepts English 
+      她的书她的书成功地克服了英文解释中国烹饪概念的挑战;-;她的书设法克服了英语解释中国烹饪概念的挑战;-;0.9202373027801514
+      Contributing to Young s popularity many ethereal in a feat generations of Chinese food writers and lovers are grateful for 
+      为杨的知名度做出了贡献用许多空灵的这是几代中国美食作家和爱好者所感激的壮举;-;为了促进杨的受欢迎程度用许多空灵的这是一代又一代中国美食作家和爱好者感激的壮举;-;0.775427520275116
+      samex2x3
+--sbert--
+
+#396: Contributing to Young ' s popularity , her books managed to overcome the challenge of explaining the many ethereal Chinese culinary concepts in English , a feat generations of Chinese food writers and lovers are grateful for .
+baidu: 杨 的 书 成功 地 克服 了 用 英语 解释 许多 空灵 的 中国 烹饪 概念 的 挑战 ， 这 是 一个 令 几 代 中国 美食 作家 和 爱好者 感激 的 壮举 。
+bing: 为了 促进 杨 的 受 欢迎 程度 ， 她 的 书 设法 克服 了 用 英语 解释 许多 空灵 的 中国 烹饪 概念 的 挑战 ， 这 是 一代 又 一代 中国 美食 作家 和 爱好者 感激 的 壮举 。
+      her books managed to overcome the challenge of explaining the Chinese culinary concepts English 
+      书成功地克服了英语解释中国烹饪概念的挑战;-;她的书设法克服了英语解释中国烹饪概念的挑战;-;0.8866701126098633
+      Contributing to Young s popularity many ethereal in a feat generations of Chinese food writers and lovers are grateful for 
+      杨的用许多空灵的这是一个令几代中国美食作家和爱好者感激的壮举;-;为了促进杨的受欢迎程度用许多空灵的这是一代又一代中国美食作家和爱好者感激的壮举;-;0.8000918030738831
+      samex1x3
+--sbert--
+

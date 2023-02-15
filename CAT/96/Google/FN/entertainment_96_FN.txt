@@ -1,0 +1,35 @@
+#11:
+Whether struggling to survive or showing her workaholic side in the flashbacks , Barrera holds up her end of the bargain , but the writing simply does n ' t .
+无论是为了生存而挣扎，还是在闪回中展现她工作狂的一面，巴雷拉都坚持了她的讨价还价，但写作根本没有。
+Whether struggling to survive or exhibiting her workaholic side in the flashbacks , Barrera holds up her end of the bargain , but the writing simply does n ' t .
+无论是为了生存而挣扎，还是在闪回中展示她工作狂的一面，巴雷拉都坚持了她的讨价还价，但写作根本没有。
+LCS-Wdiff:	1.0 
+--FN--
+#70:
+" Well , do n ' t worry , it ' s going to be a long act , " he said , clarifying his statement .
+“嗯，别担心，这将是一个漫长的过程，”他说，澄清他的声明。
+" Well , do n ' t worry , it ' s going to be a long act , " he said , clarifying his comments .
+“嗯，别担心，这将是一个漫长的过程，”他说，澄清他的评论。
+LCS-Wdiff:	1.0 
+--FN--
+#75:
+Whether fighting to survive or exhibiting her workaholic side in the flashbacks , Barrera holds up her end of the bargain , but the writing simply does n ' t .
+无论是为生存而战，还是在闪回中展示她工作狂的一面，巴雷拉都坚持了她的讨价还价，但写作根本没有。
+Whether struggling to survive or exhibiting her workaholic side in the flashbacks , Barrera holds up her end of the bargain , but the writing simply does n ' t .
+无论是为了生存而挣扎，还是在闪回中展示她工作狂的一面，巴雷拉都坚持了她的讨价还价，但写作根本没有。
+LCS-Wdiff:	0.9629629629629629 
+--FN--
+#84:
+" Thank you to all of the pioneers who originate culture , to all of the fallen angels whose deeds have gone unrecognized for far too long , " Bey wrote .
+“感谢所有开创文化的先驱者，感谢所有那些长期未被认可的堕落天使，”Bey 写道。
+" Thank you to all of the pioneers who originate culture , to all of the fallen angels whose contributions have gone unrecognized for far too long , " Bey wrote .
+“感谢所有开创文化的先驱者，感谢所有那些长期未被认可的堕落天使，”Bey 写道。
+LCS-Wdiff:	1.0 
+--FN--
+#85:
+The station employee told CNN that energy carried over to the staff and crew on the show , which operated smoothly and like a family .
+该台工作人员告诉美国有线电视新闻网，节目中的工作人员和工作人员都精力充沛，运作顺利，像一家人一样。
+The former employee told CNN that energy carried over to the staff and crew on the show , which operated smoothly and like a family .
+这位前员工告诉美国有线电视新闻网，节目中的工作人员和工作人员都精力充沛，运作顺利，像一家人一样。
+LCS-Wdiff:	1.0 
+--FN--

@@ -1,0 +1,42 @@
+#1:
+Faced with the prospect of another sweltering summer in Beijing , those soothing moments of natural splendor would continue to linger in my mind .
+面对北京又一个闷热的夏天的前景，那些自然辉煌的舒缓时刻将继续在我的脑海中徘徊。
+Faced with the prospect of another sweltering summer in Beijing , those soothing moments of natural splendor will continue to linger in my mind .
+面对北京又一个闷热的夏天的前景，那些自然辉煌的舒缓时刻将继续在我的脑海中徘徊。
+LCS-Wdiff:	1.0 
+--FN--
+#16:
+According to Italian laws dating back to the Napoleonic era , property ownership passes not to the eldest heir , but instead to every single child .
+根据可追溯到拿破仑时代的意大利法律，财产所有权不是传给长子继承人，而是传给每个孩子。
+According to Italian law dating back to the Napoleonic era , property ownership passes not to the eldest heir , but instead to every single child .
+根据可追溯到拿破仑时代的意大利法律，财产所有权不是传给长子，而是传给每个孩子。
+LCS-Wdiff:	1.0 
+--FN--
+#66:
+Of the 5 . 47 million guest rooms across the country , 35 percent were owned by chain hotels in 2021 , up 4 percentage points from 2020 , according to the report .
+在 5 .报告显示，2021年全国4700万间客房，35%为连锁酒店，比2020年上升4个百分点。
+Of the 13 . 47 million guest rooms across the country , 35 percent were owned by chain hotels in 2021 , up 4 percentage points from 2020 , according to the report .
+在13 .报告显示，2021年全国4700万间客房，35%为连锁酒店，比2020年上升4个百分点。
+LCS-Wdiff:	1.0 
+--FN--
+#72:
+Faced with the prospect of another sweltering summer in Beijing , those soothing moments of natural splendor will continue to linger in his mind .
+面对北京又一个闷热的夏天的前景，那些自然辉煌的舒缓时刻将继续在他的脑海中徘徊。
+Faced with the prospect of another sweltering summer in Beijing , those soothing moments of natural splendor will continue to linger in my mind .
+面对北京又一个闷热的夏天的前景，那些自然辉煌的舒缓时刻将继续在我的脑海中徘徊。
+LCS-Wdiff:	1.0 
+--FN--
+#76:
+Kris had spotted Carrie earlier that day , on one of the buses that ferry visitors through the national park .
+那天早些时候，克里斯在一辆运送游客穿过国家公园的公共汽车上发现了凯莉。
+Kris had spotted Carrie earlier that day , on one of the buses that ferry visitors around the national park .
+那天早些时候，克里斯在一辆运送游客游览国家公园的公共汽车上发现了凯莉。
+LCS-Wdiff:	1.0 
+--FN--
+#100:
+Zhong has adopted a local moniker , Ntieno , a common family name in western Kenya , to build a rapport with colleagues and clients .
+Zhong采用了肯尼亚西部常见的姓氏Ntieno，以建立与同事和客户的关系。
+Zhong has adopted a local moniker , Otieno , a common family name in western Kenya , to build a rapport with colleagues and clients .
+Zhong采用了肯尼亚西部常见的姓氏Otieno，以建立与同事和客户的关系。
+LCS-Wdiff:	1.0 
+--FN--

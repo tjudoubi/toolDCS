@@ -1,0 +1,42 @@
+#5:
+The majestic karst cave is 257 . 3 kilometers in length , ranks fifth in the world and first in Asia and also earns its name as Asia ' s longest cave .
+这座雄伟的喀斯特洞穴长257.3公里，居世界第五、亚洲第一，并被誉为亚洲最长的洞穴。
+The majestic karst cave is 257 . 4 kilometers in length , ranks fifth in the world and first in Asia and also earns its name as Asia ' s longest cave .
+这座雄伟的喀斯特洞穴长257.4公里，居世界第五、亚洲第一，并被誉为亚洲最长的洞穴。
+LCS-Wdiff:	1.0 
+--FN--
+#31:
+In the footage , he is shown giving tourists directions , getting water for a baby and even helping a neighbor sell yogurt .
+在视频中，他给游客指路，给婴儿打水，甚至帮助邻居卖酸奶。
+In the footage , he is seen giving tourists directions , getting water for a baby and even helping a neighbor sell yogurt .
+在视频中，他给游客指路，给婴儿打水，甚至帮助邻居卖酸奶。
+LCS-Wdiff:	1.0 
+--FN--
+#52:
+He made the remarks in a congratulatory letter to the World Youth Development Forum , which is being held from Tuesday to Saturday .
+他在致世界青年发展论坛（World Youth Development Forum）的贺信中作了上述表示。该论坛将于周二至周六举行。
+He made the remarks in a congratulatory letter to the World Youth Development Forum , which is being held from Thursday to Saturday .
+他在致世界青年发展论坛（World Youth Development Forum）的贺信中作了上述表示。该论坛将于周四至周六举行。
+LCS-Wdiff:	1.0 
+--FN--
+#60:
+President Xi Jinping called on Thursday for young people in all countries to promote shared human values and facilitate the implementation of the United Nations ' 2030 Agenda for Sustainable Development .
+ 
+President Xi Jinping called on Thursday for young people in all countries to promote common human values and facilitate the implementation of the United Nations ' 2030 Agenda for Sustainable Development .
+ 
+LCS-Wdiff:	1.0 
+--FN--
+#61:
+" The only way , if we still want to stay together , is to forge a new pact with courage , unselfishness and credibility , " Draghi told the senators .
+德拉吉告诉参议员们：“如果我们仍然想在一起，唯一的办法就是以勇气、无私和信誉缔结一项新的协议。”。
+" The only way , if we still want to stay together , is to rebuild a new pact with courage , unselfishness and credibility , " Draghi told the senators .
+德拉吉告诉参议员们：“如果我们仍然想团结在一起，唯一的办法就是以勇气、无私和信誉重建一项新的协议。”。
+LCS-Wdiff:	0.967741935483871 
+--FN--
+#64:
+He wrote the remarks in a congratulatory letter to the World Youth Development Forum , which is being held from Thursday to Saturday .
+他在致世界青年发展论坛（World Youth Development Forum）的贺信中发表了上述言论。该论坛将于周四至周六举行。
+He made the remarks in a congratulatory letter to the World Youth Development Forum , which is being held from Thursday to Saturday .
+他在致世界青年发展论坛（World Youth Development Forum）的贺信中作了上述表示。该论坛将于周四至周六举行。
+LCS-Wdiff:	0.9642857142857143 
+--FN--

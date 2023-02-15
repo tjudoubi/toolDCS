@@ -1,0 +1,700 @@
+#1:
+I do n ' t know of any other Black medalists except for those four countries , " Olympic historian Bill Mallon told CNN Sport .
+除了这四个国家，我不知道还有其他黑人获得奖牌，”奥运历史学家比尔·马隆告诉CNN体育频道。
+I do n ' t know of any other Black medalists except for those three countries , " Olympic historian Bill Mallon told CNN Sport .
+除了这三个国家，我不知道还有其他黑人获得奖牌，”奥运历史学家比尔·马隆告诉CNN体育频道。
+LCS-Wdiff:	1.0 
+--TN--
+#2:
+Afkari was one of at least 268 people who were executed in Iran in 2020 .
+阿夫卡里是2020年在伊朗被处决的至少268人之一。
+Afkari was one of at least 267 people who were executed in Iran in 2020 .
+阿夫卡里是2020年在伊朗被处决的至少267人之一。
+LCS-Wdiff:	1.0 
+--TN--
+#3:
+Afkari was one of at least 266 people who were executed in Iran in 2020 .
+阿夫卡里是2020年在伊朗被处决的至少266人之一。
+Afkari was one of at least 267 people who were executed in Iran in 2020 .
+阿夫卡里是2020年在伊朗被处决的至少267人之一。
+LCS-Wdiff:	1.0 
+--TN--
+#4:
+Ashe loves the water as an alternative safe space from the more intimidating environment of the gym , a passion that has breathed new life into his mental health .
+阿什喜欢水，因为它是一个远离更可怕的健身房环境的替代安全空间，这种激情为他的精神健康注入了新的活力。
+Ashe loves the water as an alternative safe space from the more intimidating environment of the gym , a passion that has breathed new life into her mental health .
+阿什喜欢水，因为它是一个远离更可怕的健身房环境的替代安全空间，这种激情为她的精神健康注入了新的活力。
+LCS-Wdiff:	1.0 
+--TN--
+#5:
+Given the forecast high temperatures of close to 40 Celsius , Ferrari ' s recent frailties could be exposed again as aerodynamics chief Diego Tost suggested in a team preview .
+鉴于预测的高温接近40摄氏度，法拉利最近的弱点可能会再次暴露，正如空气动力学主管迭戈·托斯特在团队预览中所建议的那样。
+Given the forecast high temperatures of close to 40 Celsius , Ferrari ' s recent frailties could be exposed again as aerodynamics chief Diego Tondi suggested in a team preview .
+鉴于预测的高温接近40摄氏度，法拉利最近的弱点可能会再次暴露，正如空气动力学主管迭戈·托迪在团队预览中所建议的那样。
+LCS-Wdiff:	1.0 
+--TN--
+#6:
+Those figures have been disputed , while UK lawmaker Ian Byrne said attributing crowds and delays to fake tickets is " utter nonsense " and an attempt from French authorities and UEFA to cover their backs .
+这些数字一直存在争议，而英国立法委员伊恩·伯恩（Ian Byrne）表示，将人群和延误归咎于假票“完全是胡说八道”，是法国当局和欧足联试图掩盖他们的事实。
+Those figures have been disputed , while UK lawmaker Ian Byrne said attributing crowds and delays to fake tickets was " utter nonsense " and an attempt from French authorities and UEFA to cover their backs .
+这些数字一直存在争议，而英国立法委员伊恩·伯恩（Ian Byrne）表示，将人群和延误归咎于假票“完全是胡说八道”，是法国当局和欧足联试图掩盖他们的事实。
+LCS-Wdiff:	1.0 
+--TN--
+#7:
+Louis , told CNN that race plays a major part in whether or how violence and abuse is reported by the media .
+路易斯告诉CNN，种族在媒体报道暴力和虐待是否或如何报道中起着重要作用。
+Louis , told CNN that race plays a significant part in whether or how violence and abuse is reported by the media .
+路易斯告诉CNN，种族在媒体报道暴力和虐待是否或如何报道中起着重要作用。
+LCS-Wdiff:	1.0 
+--TN--
+#8:
+Sainz initially did well to hold Verstappen off but the Red Bull driver soon overtook and stretched into the familiar lead .
+赛恩斯起初很好地阻止了弗斯塔彭，但红牛车手很快就超越了他，并取得了大家熟悉的领先。
+Sainz initially did well to hold Verstappen off but the Red Bull driver soon overtook and stretched into a familiar lead .
+赛恩斯一开始很好地阻止了弗斯塔彭，但红牛车手很快就超越了他，并取得了大家熟悉的领先。
+LCS-Wdiff:	1.0 
+--TN--
+#9:
+The team analyzed sociodemographic data for all athletes representing Canada , the US , Great Britain and Australia in Sochi .
+该团队分析了代表加拿大、美国、英国和澳大利亚参加索契奥运会的所有运动员的社会人口数据。
+The study analyzed sociodemographic data for all athletes representing Canada , the US , Great Britain and Australia in Sochi .
+该研究分析了代表加拿大、美国、英国和澳大利亚参加索契奥运会的所有运动员的社会人口数据。
+LCS-Wdiff:	1.0 
+--TN--
+#10:
+Since the first Women ' s World Cup in 1995 , the USA has won four tournaments , finished second in one and third in three , consistently proving itself as the world ' s best team .
+自1995年第一届女子世界杯以来，美国队已经赢得了四场比赛，在一场比赛中名列第二，在三场比赛中排名第三，不断证明自己是世界上最好的球队。
+Since the first Women ' s World Cup in 1991 , the USA has won four tournaments , finished second in one and third in three , consistently proving itself as the world ' s best team .
+自1991年第一届女子世界杯以来，美国队已经赢得了四场比赛，在一场比赛中名列第二，在三场比赛中排名第三，不断证明自己是世界上最好的球队。
+LCS-Wdiff:	1.0 
+--TN--
+#11:
+Since the first Women ' s World Cup in 1994 , the USA has won four tournaments , finished second in one and third in three , consistently proving itself as the world ' s best team .
+自1994年第一届女子世界杯以来，美国队已经赢得了四场比赛，在一场比赛中名列第二，在三场比赛中排名第三，不断证明自己是世界上最好的球队。
+Since the first Women ' s World Cup in 1991 , the USA has won four tournaments , finished second in one and third in three , consistently proving itself as the world ' s best team .
+自1991年第一届女子世界杯以来，美国队已经赢得了四场比赛，在一场比赛中名列第二，在三场比赛中排名第三，不断证明自己是世界上最好的球队。
+LCS-Wdiff:	1.0 
+--TN--
+#12:
+Since the first Women ' s World Cup in 1991 , the USA has won six tournaments , finished second in one and third in three , consistently proving itself as the world ' s best team .
+自1991年第一届女子世界杯以来，美国队已经赢得了六场比赛，在一场比赛中名列第二，在三场比赛中排名第三，不断证明自己是世界上最好的球队。
+Since the first Women ' s World Cup in 1991 , the USA has won four tournaments , finished second in one and third in three , consistently proving itself as the world ' s best team .
+自1991年第一届女子世界杯以来，美国队已经赢得了四场比赛，在一场比赛中名列第二，在三场比赛中排名第三，不断证明自己是世界上最好的球队。
+LCS-Wdiff:	1.0 
+--TN--
+#13:
+Kennedy was at the match with his son and witnessed the chaos first hand , telling CNN Sport ' s Don Riddell he got caught in the crush at the ticket turnstiles .
+肯尼迪和他的儿子在比赛中亲眼目睹了这场混乱，他告诉CNN体育频道的唐·里德尔，他在检票口被挤了进去。
+Kennedy was at the match with his son and experienced the chaos first hand , telling CNN Sport ' s Don Riddell he got caught in the crush at the ticket turnstiles .
+肯尼迪和他的儿子在比赛中亲身经历了这场混乱，他告诉CNN体育频道的唐·里德尔，他在检票口被挤了进去。
+LCS-Wdiff:	1.0 
+--FN--
+#14:
+The Kentucky Horse Racing Commission announced Monday that Medina Spirit ' s victory in the 2021 Kentucky Derby has been disqualified .
+肯塔基赛马委员会周一宣布，麦地那精神赛马会在2021肯塔基州德比中的胜利已被取消资格。
+The Kentucky Horse Racing Commission announced Monday that Medina Spirit ' s victory at the 2021 Kentucky Derby has been disqualified .
+肯塔基赛马委员会周一宣布，麦地那精神赛马会在2021肯塔基州德比中的胜利已被取消资格。
+LCS-Wdiff:	1.0 
+--TN--
+#15:
+It was only when she started to suffer injuries that Okoro began to question the way she was being coached .
+直到她开始受伤时，奥科罗才开始质疑她的教练方式。
+It was only when she started to have injuries that Okoro began to question the way she was being coached .
+直到她开始受伤时，奥科罗才开始质疑她的教练方式。
+LCS-Wdiff:	1.0 
+--TN--
+#16:
+It was only when she started to have injuries that Okoro started to question the way she was being coached .
+直到她开始受伤时，奥科罗才开始质疑她的教练方式。
+It was only when she started to have injuries that Okoro began to question the way she was being coached .
+直到她开始受伤时，奥科罗才开始质疑她的教练方式。
+LCS-Wdiff:	1.0 
+--TN--
+#17:
+However , Vos ' four bonus seconds saw her reduce her lead in the general classification to 20 seconds .
+然而，Vos的四秒奖金使她在一般分类中的领先优势降至20秒。
+However , Vos ' four bonus seconds saw her extend her lead in the general classification to 20 seconds .
+然而，Vos的四秒奖金使她在一般分类中的领先优势扩大到20秒。
+LCS-Wdiff:	1.0 
+--TN--
+#18:
+After the race restarted , Red Bull drivers Max Verstappen and Sergio Perez sustained damage to their cars and dropped down the pecking order allowing Ferrari ' s Sainz and Charles Leclerc to establish a commanding lead .
+比赛重新开始后，红牛车手Max Verstappen和Sergio Perez的赛车受到损坏，并放弃了优先顺序，使法拉利车队的Sainz和Charles Leclerc取得了领先。
+After the race restarted , Red Bull drivers Max Verstappen and Sergio Perez sustained damage to their cars and dropped down the pecking order allowing Ferrari ' s Sainz and Charles Leclerc to establish a strong lead .
+比赛重新开始后，红牛车手Max Verstappen和Sergio Perez的赛车受到损坏，并放弃了优先顺序，使法拉利车队的Sainz和Charles Leclerc取得了强劲的领先。
+LCS-Wdiff:	1.0 
+--TN--
+#19:
+Earlier this month Wimbledon organizers announced that Russian and Belarusian players will not be allowed to compete at this year ' s edition after Russia ' s invasion of Ukraine .
+本月早些时候，温网组织者宣布，在俄罗斯入侵乌克兰之后，俄罗斯和白俄罗斯选手将不被允许参加今年的温网比赛。
+Earlier this month Wimbledon organizers announced that Russian and Belarusian players will not be allowed to compete at this year ' s edition following Russia ' s invasion of Ukraine .
+本月早些时候，温网组织者宣布，在俄罗斯入侵乌克兰之后，俄罗斯和白俄罗斯选手将不被允许参加今年的温网比赛。
+LCS-Wdiff:	1.0 
+--TN--
+#20:
+One of those who holds this belief is New Zealander Simon Latimer , a former diver and judge and now a member of FINA ' s Diving Technical Committee .
+新西兰人西蒙·拉蒂默（Simon Latimer）就是持这种观点的人之一，他曾是跳水运动员和裁判，现在是国际泳联跳水技术委员会的成员。
+One of those who holds that belief is New Zealander Simon Latimer , a former diver and judge and now a member of FINA ' s Diving Technical Committee .
+新西兰人西蒙·拉蒂默（Simon Latimer）就是持这种观点的人之一，他曾是跳水运动员和裁判，现在是国际泳联跳水技术委员会的成员。
+LCS-Wdiff:	1.0 
+--FN--
+#21:
+According to leading sports scientist Simon Brundish , these characteristics are established through historic performance data .
+据著名体育科学家西蒙·布伦迪什（Simon Brundish）称，这些特征是通过历史表现数据确定的。
+According to leading sports scientist Simon Brundish , these characteristics are created through historic performance data .
+据著名体育科学家西蒙·布伦迪什（Simon Brundish）称，这些特征是通过历史表现数据创造的。
+LCS-Wdiff:	1.0 
+--TN--
+#22:
+I tried to be strong , but sometimes is difficult because of everything , because you lost your home twice .
+我试着变得坚强，但有时因为一切都很困难，因为你两次失去了家。
+I want to be strong , but sometimes is difficult because of everything , because you lost your home twice .
+我想坚强，但有时因为一切都很困难，因为你两次失去了家。
+LCS-Wdiff:	1.0 
+--TN--
+#23:
+We do n ' t talk about the rivalry between France and Germany ; we want to show how good we are and play our best game .
+我们不谈论法国和德国之间的竞争；我们想展示我们的实力，踢出我们最好的比赛。
+We do n ' t talk about the rivalry between England and Germany ; we want to show how good we are and play our best game .
+我们不谈论英国和德国之间的竞争；我们想展示我们的实力，踢出我们最好的比赛。
+LCS-Wdiff:	1.0 
+--TN--
+#24:
+We do n ' t talk about the rivalry with England and Germany ; we want to show how good we are and play our best game .
+我们不谈论与英国和德国的竞争；我们想展示我们的实力，踢出我们最好的比赛。
+We do n ' t talk about the rivalry between England and Germany ; we want to show how good we are and play our best game .
+我们不谈论英国和德国之间的竞争；我们想展示我们的实力，踢出我们最好的比赛。
+LCS-Wdiff:	1.0 
+--TN--
+#25:
+As Cody Simpson stood behind the starting blocks at his first Olympic swimming trials last year , the experience felt brand new but also strangely familiar .
+当科迪·辛普森在去年的第一次奥运会游泳选拔赛中站在起跑台后面时，这种体验感觉是全新的，但也非常熟悉。
+As Cody Simpson stood behind the starting blocks at his first Olympic swimming trials last year , the experience felt completely new but also strangely familiar .
+当科迪·辛普森在去年的第一次奥运会游泳选拔赛中站在起跑台后面时，这种体验感觉是全新的，但也非常熟悉。
+LCS-Wdiff:	1.0 
+--TN--
+#26:
+That ' s despite coming from a country where the sport of diving is small and its obstacles are many .
+尽管来自一个跳水运动规模小、障碍多的国家，但情况依然如此。
+That ' s despite coming from a country where the sport of diving is small and the obstacles are many .
+尽管来自一个跳水运动规模小、障碍多的国家，但情况依然如此。
+LCS-Wdiff:	1.0 
+--FN--
+#27:
+That ' s despite being from a country where the sport of diving is small and the obstacles are many .
+尽管来自一个跳水运动规模小、障碍多的国家，但情况依然如此。
+That ' s despite coming from a country where the sport of diving is small and the obstacles are many .
+尽管来自一个跳水运动规模小、障碍多的国家，但情况依然如此。
+LCS-Wdiff:	1.0 
+--FN--
+#28:
+It seems somewhat of an understatement to consider the Tour de France a bike race .
+将环法自行车赛视为自行车比赛似乎有些轻描淡写。
+It seems somewhat of an understatement to call the Tour de France a bike race .
+将环法自行车赛称为自行车赛似乎有些轻描淡写。
+LCS-Wdiff:	1.0 
+--TN--
+#29:
+It seems something of an understatement to call the Tour de France a bike race .
+将环法自行车赛称为自行车赛似乎有些轻描淡写。
+It seems somewhat of an understatement to call the Tour de France a bike race .
+将环法自行车赛称为自行车赛似乎有些轻描淡写。
+LCS-Wdiff:	1.0 
+--TN--
+#30:
+" This was more to do with him having to have his way and throw his dominance around , " she said .
+她说：“这更多的是因为他必须按自己的方式行事，放弃自己的主导地位。”。
+" It was more to do with him having to have his way and throw his dominance around , " she said .
+她说：“这更多的是因为他必须按自己的方式行事，放弃自己的主导地位。”。
+LCS-Wdiff:	1.0 
+--TN--
+#31:
+She went on to spearhead China ' s dominance in diving , coaching the national team from 1993 to 1997 .
+她在1993年至1997年间执教国家队，成为中国跳水运动的领头羊。
+She went on to spearhead China ' s dominance in diving , coaching the national team from 1990 to 1997 .
+她在1990年至1997年间执教国家队，成为中国跳水运动的领头羊。
+LCS-Wdiff:	1.0 
+--TN--
+#32:
+She went on to spearhead China ' s dominance in diving , coaching the national team from 1992 to 1997 .
+她在1992年至1997年间执教国家队，成为中国跳水运动的领头羊。
+She went on to spearhead China ' s dominance in diving , coaching the national team from 1990 to 1997 .
+她在1990年至1997年间执教国家队，成为中国跳水运动的领头羊。
+LCS-Wdiff:	1.0 
+--TN--
+#33:
+She went on to spearhead China ' s dominance in diving , coaching the national team from 1991 to 1997 .
+她在1991年至1997年间执教国家队，成为中国跳水运动的领头羊。
+She went on to spearhead China ' s dominance in diving , coaching the national team from 1990 to 1997 .
+她在1990年至1997年间执教国家队，成为中国跳水运动的领头羊。
+LCS-Wdiff:	1.0 
+--TN--
+#34:
+With the support from Rana , Brian and the rest of the family , it feels as though nothing is impossible when it comes to Zach Bates .
+在拉纳、布莱恩和家人的支持下，扎克·贝茨觉得没有什么是不可能的。
+With the support of Rana , Brian and the rest of the family , it feels as though nothing is impossible when it comes to Zach Bates .
+在拉纳、布莱恩和家人的支持下，扎克·贝茨觉得没有什么是不可能的。
+LCS-Wdiff:	1.0 
+--TN--
+#35:
+With the help of Rana , Brian and the rest of the family , it feels as though nothing is impossible when it comes to Zach Bates .
+在拉纳、布莱恩和家人的帮助下，扎克·贝茨觉得没有什么是不可能的。
+With the support of Rana , Brian and the rest of the family , it feels as though nothing is impossible when it comes to Zach Bates .
+在拉纳、布莱恩和家人的支持下，扎克·贝茨觉得没有什么是不可能的。
+LCS-Wdiff:	1.0 
+--TN--
+#36:
+After the two semifinal matches , a total of 317 , 683 fans have attended the games so far , more than doubling the previous record of 240 , 055 , set at Euro 2017 in the Netherlands .
+在两场半决赛之后，到目前为止，共有317683名球迷参加了比赛，比之前在荷兰创下的240055名球迷的记录翻了一番多。
+After the two semifinal matches , a total of 487 , 683 fans have attended the games so far , more than doubling the previous record of 240 , 055 , set at Euro 2017 in the Netherlands .
+在两场半决赛之后，到目前为止，共有487683名球迷参加了比赛，比之前在荷兰创下的240055名球迷的记录翻了一番多。
+LCS-Wdiff:	1.0 
+--TN--
+#37:
+Having unsuccessfully attempted the same climb in 2018 , Alharthy was " scared of failing again , " but she knew that Badar ' s moral support , coupled with her training for Everest , would put her in good stead .
+在2018年尝试同样的攀登失败后，阿尔哈蒂“害怕再次失败”，但她知道巴达尔的精神支持，加上她在珠穆朗玛峰的训练，将使她处于有利地位。
+Having unsuccessfully attempted the same climb in 2018 , Alharthy was " scared of failing again , " but she knew that Badar ' s moral support , coupled with her training for Everest , would set her in good stead .
+在2018年尝试同样的攀登失败后，阿尔哈蒂“害怕再次失败”，但她知道巴达尔的精神支持，加上她在珠穆朗玛峰的训练，将使她处于有利地位。
+LCS-Wdiff:	1.0 
+--TN--
+#38:
+Having unsuccessfully attempted the same climb in 2018 , Alharthy was " scared of failing again , " but she knew that Badar ' s moral support , combined with her training for Everest , would set her in good stead .
+在2018年尝试同样的攀登失败后，阿尔哈蒂“害怕再次失败”，但她知道巴达尔的精神支持，加上她在珠穆朗玛峰的训练，将使她处于有利地位。
+Having unsuccessfully attempted the same climb in 2018 , Alharthy was " scared of failing again , " but she knew that Badar ' s moral support , coupled with her training for Everest , would set her in good stead .
+在2018年尝试同样的攀登失败后，阿尔哈蒂“害怕再次失败”，但她知道巴达尔的精神支持，加上她在珠穆朗玛峰的训练，将使她处于有利地位。
+LCS-Wdiff:	1.0 
+--TN--
+#39:
+Zhou ' s car skidded upside down around the track and then flipped over the tyre barrier before crashing into the fence .
+周的车在赛道上上下打滑，然后翻过轮胎护栏，然后撞到围栏上。
+Zhou ' s car skidded upside down across the track and then flipped over the tyre barrier before crashing into the fence .
+周的车在赛道上打滑，然后翻过轮胎护栏，然后撞到围栏上。
+LCS-Wdiff:	1.0 
+--TN--
+#40:
+Carlos Sainz secured his first victory in F1 during a dramatic British Grand Prix on Sunday where Alfa Romeo ' s Wang Guanyu survived a huge crash on the first lap .
+卡洛斯·塞恩斯在周日举行的一场戏剧性的英国大奖赛上获得了他在F1的第一场胜利，阿尔法·罗密欧的王冠宇在第一圈的巨大碰撞中幸存下来。
+Carlos Sainz secured his first victory in F1 during a dramatic British Grand Prix on Sunday where Alfa Romeo ' s Zhou Guanyu survived a huge crash on the first lap .
+卡洛斯·塞恩斯在周日举行的一场戏剧性的英国大奖赛上获得了他在F1的第一场胜利，阿尔法·罗密欧的周冠宇在第一圈的巨大碰撞中幸存下来。
+LCS-Wdiff:	1.0 
+--TN--
+#41:
+" I really have to say I love women ' s football , it ' s outstanding , " Klopp said during a press conference on Thursday .
+克洛普在周四的新闻发布会上说：“我真的很喜欢女子足球，它非常出色。”。
+" I really have to say I love women ' s football , it ' s outstanding , " Klopp said at a press conference on Thursday .
+克洛普在周四的新闻发布会上说：“我真的很喜欢女子足球，它非常出色。”。
+LCS-Wdiff:	1.0 
+--TN--
+#42:
+" Running , for example , it ' s like your mind can go anywhere and you can still run very quickly .
+例如，跑步，你的思维可以去任何地方，你仍然可以跑得很快。
+" Running , for example , it ' s like your mind can go anywhere and you can still run quite quickly .
+例如，跑步，你的思维可以去任何地方，你仍然可以跑得很快。
+LCS-Wdiff:	1.0 
+--TN--
+#43:
+For two months of the year , skeleton athletes can train in pushing the sled , he said .
+他说，一年中有两个月，骨骼运动员可以训练推雪橇。
+For six months of the year , skeleton athletes can train in pushing the sled , he said .
+他说，一年中有六个月，骨骼运动员可以训练推雪橇。
+LCS-Wdiff:	1.0 
+--TN--
+#44:
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for over a month with limited food and water .
+他的团队一直在伊尔平周围分发援助物资，发现了在地下室藏了一个多月的平民，他们的食物和水都很有限。
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的团队一直在伊尔平周围分发援助物资，发现了在地下室藏了近一个月的平民，他们的食物和水都很有限。
+LCS-Wdiff:	1.0 
+--TN--
+#45:
+His is one of the voices welcoming the US state of Maryland ' s Inclusive Athletic Attire Act , also known as House Bill 515 , which went into legal effect on July 1 .
+他是欢迎美国马里兰州的《包容性运动服装法案》（又称众议院法案515）的声音之一，该法案于7月1日生效。
+His is one of the voices welcoming the US state of Maryland ' s Inclusive Athletic Attire Act , also known as House Bill 515 , which came into legal effect on July 1 .
+他是欢迎美国马里兰州的《包容性运动服装法案》（又称众议院法案515）的声音之一，该法案于7月1日生效。
+LCS-Wdiff:	1.0 
+--TN--
+#46:
+His is one of the voices welcoming the US state of Maryland ' s Inclusive Athletic Attire Act , also known as House Bill 515 , which came into full effect on July 1 .
+他是欢迎美国马里兰州的《包容性运动服装法案》（又称众议院法案515）的声音之一，该法案于7月1日全面生效。
+His is one of the voices welcoming the US state of Maryland ' s Inclusive Athletic Attire Act , also known as House Bill 515 , which came into legal effect on July 1 .
+他是欢迎美国马里兰州的《包容性运动服装法案》（又称众议院法案515）的声音之一，该法案于7月1日生效。
+LCS-Wdiff:	1.0 
+--TN--
+#47:
+Ever since then , he has been tough line , using a lot of violence , " said Poulin .
+从那以后，他一直采取强硬路线，使用了大量暴力，”普林说。
+And since then , he has been tough line , using a lot of violence , " said Poulin .
+从那以后，他一直采取强硬路线，使用了大量暴力，”普林说。
+LCS-Wdiff:	1.0 
+--TN--
+#48:
+Coffman , meanwhile , says she fears for the future of the sport and the potential difficulty of attracting new judges given Zhou ' s alleged behavior .
+与此同时，科夫曼说，她担心这项运动的未来，以及鉴于周小川被指控的行为，吸引新裁判的潜在困难。
+Huffman , meanwhile , says she fears for the future of the sport and the potential difficulty of attracting new judges given Zhou ' s alleged behavior .
+与此同时，霍夫曼说，她担心这项运动的未来，以及鉴于周小川被指控的行为，吸引新裁判的潜在困难。
+LCS-Wdiff:	1.0 
+--FN--
+#49:
+" However , performance enhancements are normally the central concern for ambitious athletes , as athletes themselves and by others are continually evaluating their accomplishments , " the medical commission added .
+“然而，提高成绩通常是雄心勃勃的运动员关注的中心问题，因为运动员自己和其他人都在不断评估他们的成绩，”医学委员会补充道。
+" Ultimately , performance enhancements are normally the central concern for ambitious athletes , as athletes themselves and by others are continually evaluating their accomplishments , " the medical commission added .
+“归根结底，提高成绩通常是雄心勃勃的运动员关注的中心问题，因为运动员自己和其他人都在不断评估他们的成绩，”医学委员会补充道。
+LCS-Wdiff:	1.0 
+--TN--
+#50:
+" I was cut from funding rather abruptly with no exit support or care for my welfare afterward , which is all too common for many athletes in the UK .
+“我的资金突然被切断，没有退出支持，也没有照顾我的福利，这对英国的许多运动员来说太常见了。”。
+" I was cut from funding very abruptly with no exit support or care for my welfare afterward , which is all too common for many athletes in the UK .
+“我突然被切断了资金，没有退出支持，也没有照顾我的福利，这对英国的许多运动员来说太常见了。”。
+LCS-Wdiff:	1.0 
+--TN--
+#51:
+" Once you start improving your symptoms of anxiety and depression , it can physically give you benefits as well .
+“一旦你开始改善焦虑和抑郁症状，它在身体上也会给你带来好处。
+" Once you start improving your symptoms of anxiety or depression , it can physically give you benefits as well .
+“一旦你开始改善焦虑或抑郁症状，它在身体上也会给你带来好处。
+LCS-Wdiff:	1.0 
+--TN--
+#52:
+Sabourin was aware that they may become the face for the wider community as a result .
+Sabourin意识到，他们可能因此成为更广泛社区的代言人。
+Sabourin is aware that they may become the face for the wider community as a result .
+Sabourin意识到，他们可能因此成为更广泛社区的代言人。
+LCS-Wdiff:	1.0 
+--TN--
+#53:
+2 million Ukrainian hryvnia , with around a quarter of the total already being transferred to Bakhmetov ' s foundation in Ukraine .
+200万乌克兰格里夫纳，其中约四分之一已经转移到乌克兰的巴赫梅托夫基金会。
+2 million Ukrainian hryvnia , with around a quarter of the total already being transferred to Akhmetov ' s foundation in Ukraine .
+200万乌克兰格里夫纳，其中约四分之一已经转移到乌克兰的阿克梅托夫基金会。
+LCS-Wdiff:	1.0 
+--TN--
+#54:
+1 million Ukrainian hryvnia , with around a quarter of the total already being transferred to Akhmetov ' s foundation in Ukraine .
+100万乌克兰格里夫纳，其中约四分之一已经转移到乌克兰的阿克梅托夫基金会。
+2 million Ukrainian hryvnia , with around a quarter of the total already being transferred to Akhmetov ' s foundation in Ukraine .
+200万乌克兰格里夫纳，其中约四分之一已经转移到乌克兰的阿克梅托夫基金会。
+LCS-Wdiff:	1.0 
+--TN--
+#55:
+After the race restarted , Red Bull drivers Max Verstappen and Ricardo Perez sustained damage to their cars and dropped down the pecking order allowing Ferrari ' s Sainz and Charles Leclerc to establish a strong lead .
+比赛重新开始后，红牛车手Max Verstappen和Ricardo Perez的赛车受到损坏，并放弃了优先顺序，使法拉利的Sainz和Charles Leclerc取得了强劲的领先。
+After the race restarted , Red Bull drivers Max Verstappen and Sergio Perez sustained damage to their cars and dropped down the pecking order allowing Ferrari ' s Sainz and Charles Leclerc to establish a strong lead .
+比赛重新开始后，红牛车手Max Verstappen和Sergio Perez的赛车受到损坏，并放弃了优先顺序，使法拉利车队的Sainz和Charles Leclerc取得了强劲的领先。
+LCS-Wdiff:	0.972972972972973 
+--TN--
+#56:
+Although his brother is the " main sports guy in the family " at a young age , Obajo is the one to take athletics seriously enough to make a professional career from of it .
+虽然他的弟弟在很小的时候就是“家里主要的运动家”，但奥巴乔是一个非常重视体育运动的人，可以从中获得职业生涯。
+Although his brother was the " main sports guy in the family " at a young age , Obajo is the one to take athletics seriously enough to make a professional career from of it .
+虽然他的弟弟在很小的时候就是“家里主要的运动家”，但奥巴乔是一个非常重视体育运动的人，他从中获得了职业生涯。
+LCS-Wdiff:	0.96875 
+--TN--
+#57:
+" Great to have so many family and friends there and also the entire Ottawa area , and lots of Canadians supporting and watching , so it ' s going to be phenomenal .
+很高兴在那里有这么多的家人和朋友，还有整个渥太华地区，有很多加拿大人支持和观看，所以这将是一场非凡的比赛。
+" Going to have so many family and friends there and also the entire Ottawa area , and lots of Canadians supporting and watching , so it ' s going to be phenomenal .
+在那里会有这么多的家人和朋友，还有整个渥太华地区，还有很多加拿大人支持和观看，所以这将是一场非凡的比赛。
+LCS-Wdiff:	0.967741935483871 
+--TN--
+#58:
+" She started going and she kept saying , ' You ' ve got ta come in , it sure does help with your mental health , ' " Waters told CNN .
+沃特斯告诉CNN：“她开始说，‘你有助教，这对你的心理健康确实有帮助。’”。
+" She started going and she kept saying , ' You ' ve got ta come in , it really does help with your mental health , ' " Waters told CNN .
+沃特斯告诉CNN：“她开始说，‘你有助教，这确实有助于你的心理健康。’”。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#59:
+Day three of action at the worlds also saw newly crowned 100m champion Fred Kerley fail to advance from the semifinals of the 200m .
+在世界锦标赛的第三天，新加冕的100米冠军弗雷德·凯利也未能从200米半决赛中晋级。
+Day five of action at the worlds also saw newly crowned 100m champion Fred Kerley fail to advance from the semifinals of the 200m .
+在世界杯的第五天比赛中，新加冕的100米冠军弗雷德·凯利也未能从200米半决赛中晋级。
+LCS-Wdiff:	0.9545454545454546 
+--FP--
+#60:
+" I really have to say I love women ' s football , it ' s outstanding , " Klopp said at a press conference on Friday .
+克洛普在周五的新闻发布会上说：“我真的得说我喜欢女子足球，它非常出色。”。
+" I really have to say I love women ' s football , it ' s outstanding , " Klopp said at a press conference on Thursday .
+克洛普在周四的新闻发布会上说：“我真的很喜欢女子足球，它非常出色。”。
+LCS-Wdiff:	0.9545454545454546 
+--TP--
+#61:
+It caused a lengthy delay but the driver was eventually deemed fit after being assessed at the medical center .
+这造成了长时间的延误，但在医疗中心进行评估后，司机最终被认为是健康的。
+It caused a lengthy delay but the driver was eventually declared fit after being assessed at the medical center .
+这造成了长时间的延误，但在医疗中心进行评估后，司机最终被宣布健康。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#62:
+The pair are also focused on bringing up the next generation of South African runners through programs like SIV2Run which aims to help uplift people from disadvantaged communities .
+两人还专注于通过SIV2Run等项目培养下一代南非跑步者，该项目旨在帮助提升弱势群体的地位。
+The pair are also focused on bringing up the next generation of South African runners through programs like LIV2Run which aims to help uplift people from disadvantaged communities .
+两人还致力于通过LIV2Run等项目培养下一代南非跑步者，该项目旨在帮助提升弱势群体的地位。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#63:
+The report analyzed sociodemographic data for all athletes representing Canada , the US , Great Britain and Australia in Sochi .
+该报告分析了在索契代表加拿大、美国、英国和澳大利亚的所有运动员的社会人口数据。
+The study analyzed sociodemographic data for all athletes representing Canada , the US , Great Britain and Australia in Sochi .
+该研究分析了代表加拿大、美国、英国和澳大利亚参加索契奥运会的所有运动员的社会人口数据。
+LCS-Wdiff:	0.95 
+--FP--
+#64:
+With the support of Rana , Brian and the rest of the family , it feels as though nothing is impossible when it comes to Jake Bates .
+在拉娜、布莱恩和家人的支持下，杰克·贝茨觉得没有什么是不可能的。
+With the support of Rana , Brian and the rest of the family , it feels as though nothing is impossible when it comes to Zach Bates .
+在拉纳、布莱恩和家人的支持下，扎克·贝茨觉得没有什么是不可能的。
+LCS-Wdiff:	0.95 
+--FP--
+#65:
+" For quite some time I struggled with eating disorders because I was constantly trying to keep my weight too low , to appear skinny , like these women are on magazine covers , " she says .
+她说：“有相当一段时间，我一直在与饮食失调作斗争，因为我一直试图保持体重过低，不让自己看起来像杂志封面上的这些女性一样瘦。”。
+" For quite some time I struggled with eating disorders because I was constantly trying to keep my weight really low , to appear skinny , like these women are on magazine covers , " she says .
+她说：“有相当一段时间，我一直在与饮食失调作斗争，因为我一直试图保持体重很低，看起来很瘦，就像杂志封面上的这些女性一样。”。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#66:
+That she can look at them and hear what their dreams are , what their hopes are for their life .
+她可以看着他们，听到他们的梦想是什么，他们对生活的希望是什么。
+That we can look at them and hear what their dreams are , what their hopes are for their life .
+我们可以看到他们，听到他们的梦想是什么，他们对生活的希望是什么。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#67:
+With the forecast high temperatures of close to 40 Celsius , Ferrari ' s recent frailties could be exposed again as aerodynamics chief Diego Tondi suggested in a team preview .
+随着预测高温接近40摄氏度，法拉利最近的弱点可能再次暴露，正如空气动力学主管迭戈·托迪在团队预览中所建议的那样。
+Given the forecast high temperatures of close to 40 Celsius , Ferrari ' s recent frailties could be exposed again as aerodynamics chief Diego Tondi suggested in a team preview .
+鉴于预测的高温接近40摄氏度，法拉利最近的弱点可能会再次暴露，正如空气动力学主管迭戈·托迪在团队预览中所建议的那样。
+LCS-Wdiff:	0.9375 
+--FP--
+#68:
+But Loomis ' teammates were all too quick to chime in with disparaging comments about her appearance .
+但卢米斯的队友们都很快插话对她的外貌进行了诋毁。
+Even Loomis ' teammates were all too quick to chime in with disparaging comments about her appearance .
+就连卢米斯的队友们也很快插话对她的外貌进行了诋毁。
+LCS-Wdiff:	0.9375 
+--TP--
+#69:
+" Take , for example , it ' s like your mind can go anywhere and you can still run quite quickly .
+举个例子，你的大脑可以去任何地方，你仍然可以跑得很快。
+" Running , for example , it ' s like your mind can go anywhere and you can still run quite quickly .
+例如，跑步，你的思维可以去任何地方，你仍然可以跑得很快。
+LCS-Wdiff:	0.9375 
+--FP--
+#70:
+In those conditions , removed from the technologies and problems that clutter everyday life , Jackson forged a connection with his team , their Nepali guides , and the surrounding mountains .
+在这种情况下，杰克逊摆脱了日常生活中的技术和问题，与他的团队、他们的尼泊尔向导以及周围的山脉建立了联系。
+In such conditions , removed from the technologies and problems that clutter everyday life , Jackson forged a connection with his team , their Nepali guides , and the surrounding mountains .
+在这样的条件下，远离了日常生活中的技术和问题，杰克逊与他的团队、他们的尼泊尔向导以及周围的山脉建立了联系。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#71:
+Before practice on Thursday , Murray held an unannounced press conference , beginning with a monologue defending how he ' s become one of the better quarterbacks in the league .
+在周四训练之前，穆雷举行了一次未经宣布的新闻发布会，首先是一段独白，为他如何成为联盟中最好的四分卫之一辩护。
+After practice on Thursday , Murray held an unannounced press conference , beginning with a monologue defending how he ' s become one of the better quarterbacks in the league .
+周四训练结束后，穆雷举行了一次未经宣布的记者招待会，首先是一段独白，为他如何成为联盟中最好的四分卫之一辩护。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#72:
+And the ironic thing is I was the most intellectual person out on the tour at the time .
+具有讽刺意味的是，我当时是巡回演出中最聪明的人。
+And the ironic thing is he was the most intellectual person out on the tour at the time .
+具有讽刺意味的是，他是当时巡回演出中最聪明的人。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#73:
+But the ironic thing is he was the most intellectual person out on the tour at the time .
+但讽刺的是，他是当时巡回演出中最聪明的人。
+And the ironic thing is he was the most intellectual person out on the tour at the time .
+具有讽刺意味的是，他是当时巡回演出中最聪明的人。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#74:
+And while she reflected on her body ' s evolution , Campbell was keen to stress how bodybuilding had been accompanied by a shift in her mental health .
+当她反思自己身体的演变时，坎贝尔非常想强调健美运动是如何伴随着心理健康的变化的。
+And as she reflected on her body ' s evolution , Campbell was keen to stress how bodybuilding had been accompanied by a shift in her mental health .
+当她反思自己身体的演变时，坎贝尔急切地强调，健美是如何伴随着心理健康的变化的。
+LCS-Wdiff:	0.9090909090909091 
+--TP--
+#75:
+While his brother was the " main sports guy in the family " at a young age , Obajo is the one to take athletics seriously enough to make a professional career from of it .
+虽然他的弟弟在很小的时候就是“家里主要的体育人”，但奥巴乔是一个认真对待体育运动的人，从中获得职业生涯。
+Although his brother was the " main sports guy in the family " at a young age , Obajo is the one to take athletics seriously enough to make a professional career from of it .
+虽然他的弟弟在很小的时候就是“家里主要的运动家”，但奥巴乔是一个非常重视体育运动的人，他从中获得了职业生涯。
+LCS-Wdiff:	0.9032258064516129 
+--TP--
+#76:
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a year with limited food and water .
+他的团队一直在Irpin周围分发援助物资，并发现了在地下室藏匿了近一年的平民，他们的食物和水都很有限。
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的团队一直在伊尔平周围分发援助物资，发现了在地下室藏了近一个月的平民，他们的食物和水都很有限。
+LCS-Wdiff:	0.9032258064516129 
+--FP--
+#77:
+The Kentucky Horse Racing Commission announced Monday that Medina Spirit ' s win at the 2021 Kentucky Derby has been disqualified .
+肯塔基赛马委员会周一宣布，麦地那精神赛马会在2021肯塔基州德比中获胜的资格已被取消。
+The Kentucky Horse Racing Commission announced Monday that Medina Spirit ' s victory at the 2021 Kentucky Derby has been disqualified .
+肯塔基赛马委员会周一宣布，麦地那精神赛马会在2021肯塔基州德比中的胜利已被取消资格。
+LCS-Wdiff:	0.9 
+--FP--
+#78:
+After practice on Wednesday , Murray held an unannounced press conference , beginning with a monologue defending how he ' s become one of the better quarterbacks in the league .
+周三训练结束后，穆雷举行了一次未经宣布的新闻发布会，首先是一段独白，为他如何成为联盟中一名更好的四分卫辩护。
+After practice on Thursday , Murray held an unannounced press conference , beginning with a monologue defending how he ' s become one of the better quarterbacks in the league .
+周四训练结束后，穆雷举行了一次未经宣布的记者招待会，首先是一段独白，为他如何成为联盟中最好的四分卫之一辩护。
+LCS-Wdiff:	0.9 
+--TP--
+#79:
+" I was cut from funding very abruptly with no exit support or care for my welfare afterward , which is all too common with many athletes in the UK .
+“我的资金突然被切断，没有退出支持，也没有照顾我的福利，这在英国的许多运动员中太常见了。”。
+" I was cut from funding very abruptly with no exit support or care for my welfare afterward , which is all too common for many athletes in the UK .
+“我突然被切断了资金，没有退出支持，也没有照顾我的福利，这对英国的许多运动员来说太常见了。”。
+LCS-Wdiff:	0.9 
+--FP--
+#80:
+He ' ll be ostracized from the community , so it ' s not an easy thing to do , " she said .
+他将被排斥在社区之外，所以这不是一件容易的事，”她说。
+You ' ll be ostracized from the community , so it ' s not an easy thing to do , " she said .
+你会被社区排斥，所以这不是一件容易的事，”她说。
+LCS-Wdiff:	0.8823529411764706 
+--FP--
+#81:
+Earlier this month Wimbledon organizers announced that Russian and Belarusian players will not be allowed to compete at this year ' s edition due Russia ' s invasion of Ukraine .
+本月早些时候，温布尔登的组织者宣布，由于俄罗斯入侵乌克兰，俄罗斯和白俄罗斯选手将不被允许参加今年的温布尔顿冬奥会。
+Earlier this month Wimbledon organizers announced that Russian and Belarusian players will not be allowed to compete at this year ' s edition following Russia ' s invasion of Ukraine .
+本月早些时候，温网组织者宣布，在俄罗斯入侵乌克兰之后，俄罗斯和白俄罗斯选手将不被允许参加今年的温网比赛。
+LCS-Wdiff:	0.88 
+--TP--
+#82:
+Videos shared online appear to show a large section of fans singing Putin ' s name shortly after Galskyi had celebrated in front of the home fans .
+网上分享的视频显示，在加尔斯基在本国球迷面前庆祝后不久，一大群歌迷高唱普京的名字。
+Videos shared online appear to show a large section of fans singing Putin ' s name shortly after Buyalskyi had celebrated in front of the home fans .
+网上分享的视频显示，在布亚尔斯基在本国粉丝面前庆祝后不久，一大群粉丝正在唱普京的名字。
+LCS-Wdiff:	0.8636363636363636 
+--TP--
+#83:
+The Parisian fans sensed an upset was on the cards and the chants of " Allez Les Bleus " now reververbated louder than ever around the ground .
+巴黎球迷们感觉到了一种不安的情绪，现在“祝福大家”的歌声在地面上回响得比以往任何时候都要响亮。
+The French fans sensed an upset was on the cards and the chants of " Allez Les Bleus " now reververbated louder than ever around the ground .
+法国球迷们感觉到了一种不安，而“Allez Les Bleus”的歌声现在在地面上回响得比以往任何时候都要响亮。
+LCS-Wdiff:	0.8620689655172413 
+--FP--
+#84:
+While everyone knew Lundholm was coming back from injury , serious hopes were pinned on Olympic champion Jakob Ingebrigtsen in the men ' s 1 , 500 m .
+虽然每个人都知道伦德霍尔姆正在从伤病中恢复，但奥运会男子1500米冠军雅各布·英格布里格森（Jakob Ingebrigtsen）却寄予了极大的希望。
+While everyone knew Warholm was coming back from injury , serious hopes were pinned on Olympic champion Jakob Ingebrigtsen in the men ' s 1 , 500 m .
+虽然每个人都知道沃霍姆正在从伤病中恢复，但奥运会男子1500米冠军雅各布·英格布里格森（Jakob Ingebrigtsen）却被寄予厚望。
+LCS-Wdiff:	0.8484848484848485 
+--TP--
+#85:
+You want to be strong , but sometimes is difficult because of everything , because you lost your home twice .
+你想变得坚强，但有时会因为一切而变得困难，因为你两次失去了家。
+I want to be strong , but sometimes is difficult because of everything , because you lost your home twice .
+我想坚强，但有时因为一切都很困难，因为你两次失去了家。
+LCS-Wdiff:	0.8421052631578947 
+--TP--
+#86:
+So this was a battle that Germany will likely still be feeling come the end of the week , while France ' s players will perhaps still be wondering how it is n ' t them taking on England .
+因此，德国在本周末可能仍会感受到这场战斗，而法国的球员们可能仍在纳闷，他们是如何与英格兰交手的。
+But this was a battle that Germany will likely still be feeling come the end of the week , while France ' s players will perhaps still be wondering how it is n ' t them taking on England .
+但这是一场德国在本周末可能仍会感受到的战斗，而法国的球员们可能仍在纳闷，他们如何不与英格兰交手。
+LCS-Wdiff:	0.8387096774193549 
+--TP--
+#87:
+His group had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的小组一直在伊尔平周围分发援助物资，发现一些平民已经在地下室躲藏了近一个月，食物和水都很有限。
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的团队一直在伊尔平周围分发援助物资，发现了在地下室藏了近一个月的平民，他们的食物和水都很有限。
+LCS-Wdiff:	0.8333333333333334 
+--FP--
+#88:
+Wednesday ' s match marked the first time it had reached the semifinals of a European Championship and the team had endured a bumpy journey to get there .
+周三的比赛标志着该队首次进入欧洲锦标赛的半决赛，该队经历了一段坎坷的旅程。
+Wednesday ' s match marked the first time it had reached the semifinals of a European Championship and the team had endured a bumpy road to get there .
+周三的比赛标志着该队首次进入欧洲锦标赛的半决赛，球队经历了一段坎坷的道路才得以晋级。
+LCS-Wdiff:	0.8260869565217391 
+--TP--
+#89:
+Mark Lieber reflected on the transformative impact of even brief dips in the pool on helping alleviate the weight of the previous year , literally and figuratively .
+马克·利伯（Mark Lieber）从字面上和比喻上反思了游泳池中即使是短暂的下降也会对减轻前一年的体重产生的变革性影响。
+Mark Lieber reflected on the transformative impact of even brief dips in the pool in helping alleviate the weight of the previous year , literally and figuratively .
+马克·利伯（Mark Lieber）从字面上和象征意义上反思了游泳池中即使是短暂的下跌也有助于减轻前一年的体重。
+LCS-Wdiff:	0.8125 
+--TP--
+#90:
+Even though she relishes the opportunity to develop her physicality and test her resilience , she says that the intense public scrutiny that comes with the job is emotionally draining .
+尽管她很享受有机会锻炼自己的身体，测试自己的恢复力，但她说，这份工作带来的强烈的公众监督让她情绪枯竭。
+Even though she relishes the opportunity to develop her physicality and test her resilience , she says that the intense media scrutiny that comes with the job is emotionally draining .
+尽管她很享受有机会锻炼自己的身体，测试自己的韧性，但她表示，媒体对这份工作的严格审查让她情绪枯竭。
+LCS-Wdiff:	0.8125 
+--TP--
+#91:
+His men had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的手下一直在伊尔平周围分发援助物资，发现了一些平民，他们在地下室躲藏了将近一个月，食物和水都很有限。
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的团队一直在伊尔平周围分发援助物资，发现了在地下室藏了近一个月的平民，他们的食物和水都很有限。
+LCS-Wdiff:	0.8064516129032258 
+--FP--
+#92:
+One notable fighter , Bobby Green , was so emotional that he could think of nothing else after beating Alan Patrick in Las Vegas .
+一位著名的拳手鲍比·格林（Bobby Green）在拉斯维加斯击败艾伦·帕特里克后情绪激动得什么都想不起来。
+One UFC fighter , Bobby Green , was so emotional that he could think of nothing else after beating Alan Patrick in Las Vegas .
+一名UFC拳手博比·格林在拉斯维加斯击败艾伦·帕特里克后情绪激动得什么都想不起来。
+LCS-Wdiff:	0.7727272727272727 
+--TP--
+#93:
+With the Women ' s British Open approaching in October , her form puts the prospect of a third major firmly on the horizon , but Henderson already has her eyes on another event later that month .
+随着10月份英国女子网球公开赛的临近，她的表现使第三届英国网球公开赛遥遥无期，但亨德森已经将目光投向了该月晚些时候的另一场比赛。
+With the Women ' s British Open approaching in August , her form puts the prospect of a third major firmly on the horizon , but Henderson already has her eyes on another event later that month .
+随着8月份英国女子公开赛的临近，她的表现使她有望获得第三个大满贯，但亨德森已经将目光投向了本月晚些时候的另一项赛事。
+LCS-Wdiff:	0.7272727272727273 
+--TP--
+#94:
+" There ' s been a major push to show the strength and the ability of women within cycling .
+“在自行车运动中，人们大力展示女性的力量和能力。
+" There ' s been a huge push to show the strength and the ability of women within cycling .
+“在自行车运动中，展示女性的力量和能力是一个巨大的推动力。
+LCS-Wdiff:	0.7222222222222222 
+--TP--
+#95:
+" It started going and she kept saying , ' You ' ve got ta come in , it really does help with your mental health , ' " Waters told CNN .
+沃特斯告诉美国有线电视新闻网：“它开始起作用，她不停地说，‘你有助教，它确实有助于你的心理健康。’”。
+" She started going and she kept saying , ' You ' ve got ta come in , it really does help with your mental health , ' " Waters told CNN .
+沃特斯告诉CNN：“她开始说，‘你有助教，这确实有助于你的心理健康。’”。
+LCS-Wdiff:	0.7142857142857143 
+--TP--
+#96:
+" There ' s been a huge push to show the strength and the ability of women in cycling .
+在展示女性在自行车运动中的力量和能力方面，已经有了巨大的推动。
+" There ' s been a huge push to show the strength and the ability of women within cycling .
+“在自行车运动中，展示女性的力量和能力是一个巨大的推动力。
+LCS-Wdiff:	0.6470588235294118 
+--TP--
+#97:
+Mark Reber reflected on the transformative impact of even brief dips in the pool in helping alleviate the weight of the previous year , literally and figuratively .
+马克·雷伯（Mark Reber）从字面和比喻的角度思考了游泳池中即使是短暂的下跌也会带来的变革性影响，这有助于减轻前一年的负担。
+Mark Lieber reflected on the transformative impact of even brief dips in the pool in helping alleviate the weight of the previous year , literally and figuratively .
+马克·利伯（Mark Lieber）从字面上和象征意义上反思了游泳池中即使是短暂的下跌也有助于减轻前一年的体重。
+LCS-Wdiff:	0.6111111111111112 
+--TP--
+#98:
+" We should n ' t put the onus on individuals , and especially on kids , to have to get permission to play but that ' s a really important element of this Maryland rule .
+“我们不应该让个人，尤其是孩子们，承担必须获得游戏许可的责任，但这是马里兰规则的一个非常重要的因素。
+" We should n ' t put the onus on individuals , and especially on kids , to have to get permission to play and that ' s a really important element of this Maryland rule .
+“我们不应该把必须获得游戏许可的责任推给个人，尤其是孩子，这是马里兰州规则中非常重要的一个因素。
+LCS-Wdiff:	0.6 
+--FP--
+#99:
+Afkari was one of at least 267 people who were executed in Iran by 2020 .
+到2020年，伊朗至少有267人被处决，阿夫卡里是其中之一。
+Afkari was one of at least 267 people who were executed in Iran in 2020 .
+阿夫卡里是2020年在伊朗被处决的至少267人之一。
+LCS-Wdiff:	0.47058823529411764 
+--FP--
+#100:
+The results were now coming thick and fast for France as a frustrated German side began to make mistakes .
+现在，法国队的成绩越来越糟糕，因为受挫的德国队开始犯错。
+The chances were now coming thick and fast for France as a frustrated German side began to make mistakes .
+随着沮丧的德国队开始犯错，法国队的机会越来越大。
+LCS-Wdiff:	0.35714285714285715 
+--TP--

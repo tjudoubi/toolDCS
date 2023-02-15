@@ -1,0 +1,700 @@
+#1:
+It ' s a scene playing out in public health departments and clinics throughout the country as the monkeypox outbreak spreads .
+随着猴痘疫情的蔓延，这是全国各地公共卫生部门和诊所上演的场景 。
+It ' s a scene playing out in public health departments and clinics across the country as the monkeypox outbreak spreads .
+随着猴痘疫情的蔓延，这是全国各地公共卫生部门和诊所上演的一幕。
+LCS-Wdiff:	1.0 
+--TN--
+#2:
+It ' s a scene playing out in public health departments and clinics around the country as the monkeypox outbreak spreads .
+随着猴痘疫情的蔓延，这是全国各地公共卫生部门和诊所上演的一幕。
+It ' s a scene playing out in public health departments and clinics across the country as the monkeypox outbreak spreads .
+随着猴痘疫情的蔓延，这是全国各地公共卫生部门和诊所上演的一幕。
+LCS-Wdiff:	1.0 
+--TN--
+#3:
+It ' s a scene playing out in public health departments and clinics across the country as the monkeypox epidemic spreads .
+随着猴痘疫情的蔓延，这是全国各地公共卫生部门和诊所上演的场景。
+It ' s a scene playing out in public health departments and clinics across the country as the monkeypox outbreak spreads .
+随着猴痘疫情的蔓延，这是全国各地公共卫生部门和诊所上演的一幕。
+LCS-Wdiff:	1.0 
+--TN--
+#4:
+Anand Varma , professor and director of the Cornell Center for Pandemic Prevention and Response in New York City .
+Anand Varma，纽约市康奈尔大学流行病预防和应对中心教授兼主任。
+Jay Varma , professor and director of the Cornell Center for Pandemic Prevention and Response in New York City .
+Jay Varma，纽约市康奈尔大学流行病预防和应对中心教授兼主任。
+LCS-Wdiff:	1.0 
+--TN--
+#5:
+This longitudinal study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴里说，这项纵向研究可以帮助平息人们在联系朋友时面临的焦虑。
+This new study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴里说，这项新研究可以帮助平息人们在联系朋友时面临的焦虑。
+LCS-Wdiff:	1.0 
+--TN--
+#6:
+The agency also recommends that people wear a mask for 30 days after their symptoms come back .
+该机构还建议人们在症状复发后30天内戴口罩 。
+The agency also recommends that people wear a mask for 10 days after their symptoms come back .
+该机构还建议人们在症状复发后10天内戴口罩 。
+LCS-Wdiff:	1.0 
+--TN--
+#7:
+The agency also recommends that people wear a mask for 10 days after the symptoms come back .
+该机构还建议人们在症状复发后10天内戴口罩 。
+The agency also recommends that people wear a mask for 10 days after their symptoms come back .
+该机构还建议人们在症状复发后10天内戴口罩 。
+LCS-Wdiff:	1.0 
+--TN--
+#8:
+The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests in patients who are worried about exposure or who are at high risk .
+该报告设定了“纳克”关注水平，并鼓励临床医生对担心暴露或高危的患者进行血液检查。
+The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or who are at high risk .
+该报告设定了“纳克”关注水平，并鼓励临床医生对担心暴露或高危的患者进行血液检查。
+LCS-Wdiff:	1.0 
+--FN--
+#9:
+The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure and who are at high risk .
+该报告设定了“纳克”关注水平，并鼓励临床医生对担心暴露和处于高风险的患者进行血液检查。
+The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or who are at high risk .
+该报告设定了“纳克”关注水平，并鼓励临床医生对担心暴露或高危的患者进行血液检查。
+LCS-Wdiff:	1.0 
+--FN--
+#10:
+The US Food and Drug Administration ordered vaccine makers in June to update the boosters to add an Omicron BA .
+美国食品和药物管理局于6月下令疫苗制造商更新加强剂以添加Omicron BA。
+The US Food and Drug Administration advised vaccine makers in June to update the boosters to add an Omicron BA .
+美国食品和药物管理局建议疫苗制造商在6月份更新加强剂以添加Omicron BA。
+LCS-Wdiff:	0.7142857142857143 
+--FP--
+#11:
+The bacterium that causes a rare , serious disease called melioidosis has been detected in water and soil samples in Mississippi , the US Centers for Disease Control and Prevention said Wednesday .
+美国疾病控制和预防中心周三表示，导致一种罕见的，严重的疾病称为类鼻疽病的细菌已经在密西西比州的水和土壤样本中检测到。
+The bacteria that causes a rare , serious disease called melioidosis has been detected in water and soil samples in Mississippi , the US Centers for Disease Control and Prevention said Wednesday .
+美国疾病控制和预防中心周三表示，在密西西比州的水和土壤样本中已经检测到导致一种罕见的，严重的疾病称为类鼻疽的细菌。
+LCS-Wdiff:	0.6666666666666666 
+--FP--
+#12:
+Health officials in the US have also recommended reducing sex partners but used softer language .
+美国的卫生官员也建议减少性伴侣，但使用更柔和的语言 。
+Health officials in the US have also advised reducing sex partners but used softer language .
+美国的卫生官员也建议减少性伴侣，但使用更柔和的语言。
+LCS-Wdiff:	1.0 
+--TN--
+#13:
+Symptoms of colioidosis depend on where someone is infected but may include fever , pain or swelling , ulcers , coughing , chest pain , trouble breathing , weight loss , muscle or joint pain , disorientation , headache and seizures .
+大肠杆菌病的症状取决于某人感染的位置，但可能包括发烧 ，疼痛或肿胀 ， 溃疡 ， 咳嗽 ， 胸痛 ， 呼吸困难 ， 体重减轻 ， 肌肉或关节疼痛 ， 定向障碍 ， 头痛和癫痫发作 。
+Symptoms of melioidosis depend on where someone is infected but may include fever , pain or swelling , ulcers , coughing , chest pain , trouble breathing , weight loss , muscle or joint pain , disorientation , headache and seizures .
+类鼻痣的症状取决于感染者的位置，但可能包括发烧 ，疼痛或肿胀 ， 溃疡 ， 咳嗽 ， 胸痛 ， 呼吸困难 ， 体重减轻 ， 肌肉或关节疼痛 ， 定向障碍 ， 头痛和癫痫发作 。
+LCS-Wdiff:	0.95 
+--FP--
+#14:
+Symptoms of melioidosis depend on where someone is infected and may include fever , pain or swelling , ulcers , coughing , chest pain , trouble breathing , weight loss , muscle or joint pain , disorientation , headache and seizures .
+类鼻疽的症状取决于感染者的位置，可能包括发烧 ，疼痛或肿胀 ， 溃疡 ， 咳嗽 ， 胸痛 ， 呼吸困难 ， 体重减轻 ， 肌肉或关节疼痛 ， 定向障碍 ， 头痛和癫痫发作 。
+Symptoms of melioidosis depend on where someone is infected but may include fever , pain or swelling , ulcers , coughing , chest pain , trouble breathing , weight loss , muscle or joint pain , disorientation , headache and seizures .
+类鼻痣的症状取决于感染者的位置，但可能包括发烧 ，疼痛或肿胀 ， 溃疡 ， 咳嗽 ， 胸痛 ， 呼吸困难 ， 体重减轻 ， 肌肉或关节疼痛 ， 定向障碍 ， 头痛和癫痫发作 。
+LCS-Wdiff:	0.9743589743589743 
+--TN--
+#15:
+Symptoms of melioidosis depend on where someone is infected but may include fever , pain or swelling , ulcers , coughing , chest pain , difficulty breathing , weight loss , muscle or joint pain , disorientation , headache and seizures .
+类鼻痣的症状取决于感染者的位置，但可能包括发烧 、疼痛或肿胀 、 溃疡 、 咳嗽 、 胸痛 、 呼吸困难 、 体重减轻 、 肌肉或关节疼痛 、 定向障碍 、 头痛和癫痫发作。
+Symptoms of melioidosis depend on where someone is infected but may include fever , pain or swelling , ulcers , coughing , chest pain , trouble breathing , weight loss , muscle or joint pain , disorientation , headache and seizures .
+类鼻痣的症状取决于感染者的位置，但可能包括发烧 ，疼痛或肿胀 ， 溃疡 ， 咳嗽 ， 胸痛 ， 呼吸困难 ， 体重减轻 ， 肌肉或关节疼痛 ， 定向障碍 ， 头痛和癫痫发作 。
+LCS-Wdiff:	0.7948717948717948 
+--FP--
+#16:
+The first is a newer , modern vaccine named Jynneos which is manufactured by the Danish company Bavarian Nordic .
+第一种是一种较新的现代疫苗，名为Jynneos，由丹麦公司巴伐利亚北欧公司生产。
+The first is a newer , modern vaccine called Jynneos which is manufactured by the Danish company Bavarian Nordic .
+第一种是一种较新的现代疫苗，称为Jynneos，由丹麦公司巴伐利亚北欧公司生产。
+LCS-Wdiff:	1.0 
+--TN--
+#17:
+Currently , 10 states would be considered to be on the first tier for priority in ordering vaccines .
+目前，10个州将被视为在订购疫苗方面处于优先地位的第一梯队。
+Currently , 10 states would be considered to be in the first tier for priority in ordering vaccines .
+目前，10个州将被视为优先订购疫苗的第一梯队。
+LCS-Wdiff:	0.7647058823529411 
+--TP--
+#18:
+Currently , 10 states would be considered to be at the first tier for priority in ordering vaccines .
+目前，10个州将被视为在订购疫苗方面处于第一优先地位。
+Currently , 10 states would be considered to be in the first tier for priority in ordering vaccines .
+目前，10个州将被视为优先订购疫苗的第一梯队。
+LCS-Wdiff:	0.7857142857142857 
+--TP--
+#19:
+Currently , 10 states could be considered to be in the first tier for priority in ordering vaccines .
+目前，10个州可以被认为是订购疫苗的第一梯队。
+Currently , 10 states would be considered to be in the first tier for priority in ordering vaccines .
+目前，10个州将被视为优先订购疫苗的第一梯队。
+LCS-Wdiff:	0.9166666666666666 
+--TP--
+#20:
+The CDC says that wearing a condom can help , but alone , it probably will not protect against the spread of monkeypox .
+疾病预防控制中心表示，戴避孕套可以提供帮助，但仅靠它可能无法防止猴痘的传播。
+The CDC says that wearing a condom may help , but alone , it probably will not protect against the spread of monkeypox .
+疾病预防控制中心表示，戴避孕套可能会有所帮助，但仅凭它可能无法防止猴痘的传播。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#21:
+Since the start of June , the CDC says , it has been conducting extensive education and outreach to the LGBTQ community .
+疾病预防控制中心说，自6月初以来，它一直在对LGBTQ社区进行广泛的教育和外展活动。
+Since the start of June , the CDC says , it has been doing extensive education and outreach to the LGBTQ community .
+疾病预防控制中心说，自6月初以来，它一直在对LGBTQ社区进行广泛的教育和外展活动。
+LCS-Wdiff:	1.0 
+--TN--
+#22:
+So are firefighters , workers in fluorochemical manufacturing plants and those who live near municipal airports , military bases , landfills , incinerators , wastewater treatment plants and farms where contaminated sewage sludge is used .
+消防员、氟化学制造厂的工人以及居住在市政机场、军事基地、垃圾填埋场、焚烧炉、污水处理厂和使用受污染污水污泥的农场附近的工人也是如此。
+So are firefighters , workers in fluorochemical manufacturing plants and those who live near commercial airports , military bases , landfills , incinerators , wastewater treatment plants and farms where contaminated sewage sludge is used .
+消防员、氟化学制造厂的工人以及居住在商业机场、军事基地、垃圾填埋场、焚烧炉、污水处理厂和使用受污染污水污泥的农场附近的工人也是如此。
+LCS-Wdiff:	1.0 
+--TN--
+#23:
+This ' s in addition to 105 million bivalent boosters the US government has purchased from Pfizer .
+这是美国政府从辉瑞公司购买的1.05亿个二价助推器的补充。
+That ' s in addition to 105 million bivalent boosters the US government has purchased from Pfizer .
+除此之外，美国政府还从辉瑞公司购买了1.05亿个二价助推器。
+LCS-Wdiff:	0.8181818181818182 
+--TP--
+#24:
+New York has 1 , 247 probable or confirmed monkeypox cases , according to figures from the US Centers for Disease Control and Prevention .
+根据美国疾病控制和预防中心的数据，纽约有1，247例可能或确诊的猴痘病例。
+New York has 1 , 247 probable or confirmed monkeypox cases , according to data from the US Centers for Disease Control and Prevention .
+根据美国疾病控制和预防中心的数据，纽约有1，247例可能或确诊的猴痘病例。
+LCS-Wdiff:	1.0 
+--TN--
+#25:
+As of Friday , the United States has than 5 , 000 probable or confirmed monkeypox cases , according to CDC statistics .
+根据CDC的统计数据，截至周五，美国有超过5，000例可能或确诊的猴痘病例。
+As of Friday , the United States has than 5 , 000 probable or confirmed monkeypox cases , according to CDC data .
+根据CDC的数据，截至周五，美国有超过5，000例可能或确诊的猴痘病例。
+LCS-Wdiff:	1.0 
+--TN--
+#26:
+Updated studies would need to be authorized by the FDA and recommended by the US Centers for Disease Control and Prevention .
+更新的研究需要得到FDA的授权，并由美国疾病控制和预防中心推荐。
+Updated shots would need to be authorized by the FDA and recommended by the US Centers for Disease Control and Prevention .
+更新的注射需要得到FDA的授权，并由美国疾病控制和预防中心推荐。
+LCS-Wdiff:	1.0 
+--TN--
+#27:
+Updated shots would need to be approved by the FDA and recommended by the US Centers for Disease Control and Prevention .
+更新的注射需要得到FDA的批准，并由美国疾病控制和预防中心推荐。
+Updated shots would need to be authorized by the FDA and recommended by the US Centers for Disease Control and Prevention .
+更新的注射需要得到FDA的授权，并由美国疾病控制和预防中心推荐。
+LCS-Wdiff:	1.0 
+--TN--
+#28:
+San Francisco ' s health department requested 35 , 000 doses to meet the overwhelming demand there but said it has received only 10 , 000 doses as of Thursday .
+旧金山的卫生部门要求35，000剂以满足那里的压倒性需求，但表示截至周四仅收到10，000剂。
+San Francisco ' s health department requested 35 , 000 doses to meet the overwhelming demand there but said it has received only 12 , 000 doses as of Thursday .
+旧金山的卫生部门要求35，000剂，以满足那里的压倒性需求，但表示截至周四，它只收到了12，000剂。
+LCS-Wdiff:	0.8148148148148148 
+--FP--
+#29:
+San Francisco ' s health department requested 35 , 000 doses to meet the overwhelming demand there but said it has received only 4 , 000 doses as of Thursday .
+旧金山的卫生部门要求35，000剂以满足那里的压倒性需求，但表示截至周四仅收到4，000剂。
+San Francisco ' s health department requested 35 , 000 doses to meet the overwhelming demand there but said it has received only 12 , 000 doses as of Thursday .
+旧金山的卫生部门要求35，000剂，以满足那里的压倒性需求，但表示截至周四，它只收到了12，000剂。
+LCS-Wdiff:	0.8148148148148148 
+--FP--
+#30:
+San Francisco ' s health department requested 35 , 000 doses to meet the overwhelming demand there but said it has received only 3 , 000 doses as of Thursday .
+旧金山的卫生部门要求35，000剂，以满足那里的压倒性需求，但表示截至周四，它只收到了3，000剂。
+San Francisco ' s health department requested 35 , 000 doses to meet the overwhelming demand there but said it has received only 12 , 000 doses as of Thursday .
+旧金山的卫生部门要求35，000剂，以满足那里的压倒性需求，但表示截至周四，它只收到了12，000剂。
+LCS-Wdiff:	1.0 
+--TN--
+#31:
+San Francisco became the first major US city to declare a local health emergency on monkeypox in an attempt to strengthen the city ' s preparedness and response amid high demand for the vaccine .
+旧金山成为美国第一个宣布当地猴痘卫生紧急状态的主要城市，试图在疫苗需求旺盛的情况下加强该市的防范和应对。
+San Francisco became the first major US city to declare a local health emergency on monkeypox in an effort to strengthen the city ' s preparedness and response amid high demand for the vaccine .
+旧金山成为美国第一个宣布猴痘局部卫生紧急状态的主要城市，以加强该市在疫苗需求旺盛的情况下的准备和应对能力。
+LCS-Wdiff:	0.8846153846153846 
+--TP--
+#32:
+The San Francisco Department of Public Health has confirmed 261 cases of monkeypox in the city , while California has a total of 798 cases .
+旧金山公共卫生部已经确认了该市261例猴痘病例，而加利福尼亚州共有798例。
+The San Francisco Department of Public Health has confirmed 261 cases of monkeypox in the city , while California has a total of 799 cases .
+旧金山公共卫生部已经确认该市有261例猴痘病例，而加利福尼亚州共有799例。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#33:
+The government will make 56 , 000 of those doses available to states for the first phase of the roll out .
+政府将为各州提供56， 000剂，用于推出的第一阶段。
+The government will make 56 , 000 of those doses available to states in the first phase of the roll out .
+政府将在推出的第一阶段向各州提供56， 000剂。
+LCS-Wdiff:	0.6428571428571429 
+--TP--
+#34:
+According the White House , over the past six months , filled prescriptions for Paxlovid have climbed from about 27 , 000 a week to 182 , 000 a week .
+根据白宫的数据，在过去的六个月里，Paxlovid的处方从每周约27，000个攀升至每周182，000个。
+According the White House , over the past two months , filled prescriptions for Paxlovid have climbed from about 27 , 000 a week to 182 , 000 a week .
+根据白宫的数据，在过去的两个月里，Paxlovid的处方从每周约27，000个攀升至每周182，000个。
+LCS-Wdiff:	1.0 
+--TN--
+#35:
+According the White House , during the past two months , filled prescriptions for Paxlovid have climbed from about 27 , 000 a week to 182 , 000 a week .
+根据白宫的数据，在过去的两个月里，Paxlovid的处方从每周约27，000个攀升至每周182，000个。
+According the White House , over the past two months , filled prescriptions for Paxlovid have climbed from about 27 , 000 a week to 182 , 000 a week .
+根据白宫的数据，在过去的两个月里，Paxlovid的处方从每周约27，000个攀升至每周182，000个。
+LCS-Wdiff:	1.0 
+--TN--
+#36:
+He started n ' t have any symptoms when he saw the baby , who was his grandson , but about eight hours later , he started to feel ill again .
+当他看到他的孙子这个婴儿时，他开始没有任何症状，但大约八个小时后，他又开始感到不适。
+He did n ' t have any symptoms when he saw the baby , who was his grandson , but about eight hours later , he started to feel ill again .
+当他看到他的孙子这个婴儿时，他没有任何症状，但大约八个小时后，他又开始感到不适。
+LCS-Wdiff:	1.0 
+--TN--
+#37:
+Vaccines are free when people can find them , testing costs can add up , and treatments are still hard to access .
+当人们可以找到疫苗时，疫苗是免费的，检测成本可能会增加，治疗仍然难以获得。
+Vaccines are free when people can find them , testing costs can add up , and treatments are still difficult to access .
+当人们能够找到疫苗时，疫苗是免费的，测试成本可能会增加，并且治疗仍然难以获得。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#38:
+Bottom line is , we need to stay ahead of it and be able to stop this outbreak .
+底线是，我们需要保持领先，并能够阻止这次爆发。
+Bottom line is , we need to stay ahead of it and be able to end this outbreak .
+底线是，我们需要保持领先，并能够结束这次疫情。
+LCS-Wdiff:	0.9230769230769231 
+--TP--
+#39:
+As helpful as it is , though , researchers say people should be aware the drug will not completely extinguish the infection .
+尽管它很有帮助，但研究人员说，人们应该意识到这种药物不会完全消灭感染。
+As helpful as it is , though , researchers say people should be aware the drug may not completely extinguish the infection .
+尽管如此，研究人员说，人们应该意识到这种药物可能无法完全消灭感染。
+LCS-Wdiff:	0.7142857142857143 
+--TP--
+#40:
+As dangerous as it is , though , researchers say people should be aware the drug may not completely extinguish the infection .
+尽管这很危险，但研究人员说，人们应该意识到这种药物可能无法完全消灭感染。
+As helpful as it is , though , researchers say people should be aware the drug may not completely extinguish the infection .
+尽管如此，研究人员说，人们应该意识到这种药物可能无法完全消灭感染。
+LCS-Wdiff:	0.8095238095238095 
+--TP--
+#41:
+Pennsylvania resident Hope Grasse , who was diagnosed with stage 4 cancer at age 25 after growing up near a naval base , described how her doctors laughed when she mentioned chemical exposure .
+宾夕法尼亚州居民霍普·格拉斯（Hope Grasse）在25岁时在海军基地附近长大后被诊断出患有4期癌症，他描述了当她提到化学品暴露时，她的医生是如何笑的。
+Pennsylvanian Hope Grasse , who was diagnosed with stage 4 cancer at age 25 after growing up near a naval base , described how her doctors laughed when she mentioned chemical exposure .
+宾夕法尼亚州的霍普·格拉斯（Hope Grasse）在25岁时在海军基地附近长大后被诊断出患有4期癌症，她描述了当她提到化学品暴露时，她的医生如何大笑。
+LCS-Wdiff:	0.9285714285714286 
+--TP--
+#42:
+It will release more vaccines to areas with the highest case rates , and it will scale up testing , making tests available in five commercial laboratories in addition to an existing network of public health labs .
+它将向病例率最高的地区释放更多的疫苗，并将扩大检测规模，除了现有的公共卫生实验室网络外，还在五个商业实验室提供检测。
+It will release more vaccines to areas with the highest case rates , and it will scale up testing , making tests available at five commercial laboratories in addition to an existing network of public health labs .
+它将向病例率最高的地区释放更多的疫苗，并将扩大检测规模，除了现有的公共卫生实验室网络外，还在五个商业实验室提供检测。
+LCS-Wdiff:	1.0 
+--TN--
+#43:
+Since the primary way people reach out is via private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，由于人们接触的主要方式是通过私人通信手段，可能发生的最糟糕的情况是收件人没有回应。
+Since the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，由于人们接触的主要方式是通过私人通信手段，可能发生的最糟糕的情况是收件人没有回应。
+LCS-Wdiff:	1.0 
+--FN--
+#44:
+It would feel awkward to pick up the phone and make a call , but the connection will likely be more genuine , she added .
+她补充说，拿起电话打个电话会很尴尬，但这种联系可能会更真实。
+It might feel awkward to pick up the phone and make a call , but the connection will likely be more genuine , she added .
+她补充说，拿起电话打个电话可能会感到尴尬，但这种联系可能会更加真实。
+LCS-Wdiff:	0.8095238095238095 
+--TP--
+#45:
+When focusing on the possibility of rejection , one may deprive oneself of close friendships or enjoyable experiences , she added .
+她补充说，当专注于被拒绝的可能性时，一个人可能会剥夺自己亲密的友谊或愉快的经历。
+When focusing on the possibility of rejection , one may deprive oneself of close friendships and enjoyable experiences , she added .
+她补充说，当专注于被拒绝的可能性时，一个人可能会剥夺自己亲密的友谊和愉快的经历。
+LCS-Wdiff:	1.0 
+--TN--
+#46:
+In these experiments , reaching out was defined as a phone call , text , email , letter or small gift .
+在这些实验中，伸出援手被定义为电话、短信、电子邮件、信件或小礼物。
+In these experiments , reaching out was defined as a phone call , text , email , note or small gift .
+在这些实验中，伸出援手被定义为电话、短信、电子邮件、便条或小礼物。
+LCS-Wdiff:	1.0 
+--TN--
+#47:
+In Seattle , King County health officials say they have received only 4 , 720 doses of Synneos .
+在西雅图，金县卫生官员说，他们只接受了4，720剂Synneos。
+In Seattle , King County health officials say they have received only 4 , 720 doses of Jynneos .
+在西雅图，金县卫生官员说，他们只接受了4，720剂Jynneos。
+LCS-Wdiff:	1.0 
+--TN--
+#48:
+The only complications is that the ACAM vaccine uses a live , but weakened version of a virus to inoculate a person .
+唯一的并发症是ACAM疫苗使用活的，但减弱的病毒版本来接种一个人 。
+The other complications is that the ACAM vaccine uses a live , but weakened version of a virus to inoculate a person .
+另一个并发症是ACAM疫苗使用活的，但减弱的病毒版本来接种一个人 。
+LCS-Wdiff:	1.0 
+--TN--
+#49:
+To get over some of this discomfort , take notice of automatic thought patterns that arise when thinking about communicating with a friend , and try to push back against them , Harmayer said .
+为了克服一些不适，请注意在考虑与朋友交流时出现的自动思维模式，并试图反击它们，哈马耶说。
+To get over some of this discomfort , take notice of automatic thought patterns that arise when thinking about communicating with a friend , and try to push back against them , Kirmayer said .
+为了克服一些不适，请注意在考虑与朋友交流时出现的自动思维模式，并试图反击它们，Kirmayer说。
+LCS-Wdiff:	1.0 
+--FN--
+#50:
+On Sunday , more than 100 members of Congress wrote a letter to the Biden administration urging additional funding for sexual health clinics to improve the monkeypox response effort .
+周日，超过100名国会议员致信拜登政府，敦促为性健康诊所提供额外资金，以改善猴痘应对工作。
+On Monday , more than 100 members of Congress wrote a letter to the Biden administration urging additional funding for sexual health clinics to improve the monkeypox response effort .
+周一，100多名国会议员致信拜登政府，敦促为性健康诊所提供额外资金，以改善猴痘应对工作。
+LCS-Wdiff:	0.9130434782608695 
+--FP--
+#51:
+On Wednesday , more than 100 members of Congress wrote a letter to the Biden administration urging additional funding for sexual health clinics to improve the monkeypox response effort .
+周三，超过100名国会议员致信拜登政府，敦促为性健康诊所提供额外资金，以改善猴痘应对工作。
+On Monday , more than 100 members of Congress wrote a letter to the Biden administration urging additional funding for sexual health clinics to improve the monkeypox response effort .
+周一，100多名国会议员致信拜登政府，敦促为性健康诊所提供额外资金，以改善猴痘应对工作。
+LCS-Wdiff:	0.9130434782608695 
+--FP--
+#52:
+The other complications is that the ADAM vaccine uses a live , but weakened version of a virus to inoculate a person .
+另一个并发症是ADAM疫苗使用活的，但弱化的病毒版本来接种一个人。
+The other complications is that the ACAM vaccine uses a live , but weakened version of a virus to inoculate a person .
+另一个并发症是ACAM疫苗使用活的，但减弱的病毒版本来接种一个人 。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#53:
+In Washington , the federal government is continuing to monitor the response to monkeypox and will use this to consider whether to declare the outbreak a public health emergency , HHS Secretary Xavier Becerra said Thursday .
+在华盛顿，联邦政府正在继续监测对猴痘的反应，并将利用这一点来考虑是否宣布疫情为公共卫生紧急状态，HHS秘书泽维尔·贝塞拉周四表示。
+In Washington , the federal government is continuing to monitor the response to monkeypox and will use that to consider whether to declare the outbreak a public health emergency , HHS Secretary Xavier Becerra said Thursday .
+在华盛顿，联邦政府正在继续监测对猴痘的反应，并将用它来考虑是否宣布疫情为公共卫生紧急状态，HHS秘书Xavier Becerra周四表示。
+LCS-Wdiff:	0.8787878787878788 
+--TP--
+#54:
+Cahill said his organization has been advocating for the US to declare monkeypox a national health emergency .
+卡希尔说，他的组织一直在倡导美国宣布猴痘为国家卫生紧急事件。
+Cahill said his organization has been advocating for the US to declare monkeypox a public health emergency .
+卡希尔说，他的组织一直在倡导美国宣布猴痘为突发公共卫生事件。
+LCS-Wdiff:	1.0 
+--TN--
+#55:
+Thus far in the United States , there have been 306 cases of monkeypox identified across 28 jurisdictions .
+到目前为止，在美国，在28个司法管辖区已经发现了306例猴痘病例。
+So far in the United States , there have been 306 cases of monkeypox identified across 28 jurisdictions .
+到目前为止，在美国，在28个司法管辖区内已经发现了306例猴痘病例。
+LCS-Wdiff:	1.0 
+--TN--
+#56:
+Half of them have come from only two families , leading the researchers to conclude that such cases are not all that rare .
+其中一半来自两个家庭，导致研究人员得出结论，这种情况并不罕见 。
+Half of them have come from just two families , leading the researchers to conclude that such cases are not all that rare .
+其中一半来自两个家庭，导致研究人员得出结论，这种情况并不罕见。
+LCS-Wdiff:	1.0 
+--TN--
+#57:
+But even with that education , it can be hard to detect a case of monkeypox , in part because the rash is n ' t always distinctive , Caveney said .
+但即使有这种教育，也很难发现猴痘的病例，部分原因是皮疹并不总是独特的，卡文尼说。
+But even with that education , it can be difficult to detect a case of monkeypox , in part because the rash is n ' t always distinctive , Caveney said .
+但即使有这种教育，也很难发现猴痘病例，部分原因是皮疹并不总是独特的，卡文尼说。
+LCS-Wdiff:	1.0 
+--TN--
+#58:
+But by the end of the day , we need vaccines , and we need them yesterday .
+但到了一天结束时，我们需要疫苗，我们昨天就需要它们。
+But at the end of the day , we need vaccines , and we need them yesterday .
+但是在一天结束时，我们需要疫苗，我们昨天就需要它们。
+LCS-Wdiff:	1.0 
+--TN--
+#59:
+pseudomallei is usually found in tropical regions , and US cases are usually connected to travel .
+假性马勒病通常见于热带地区，美国病例通常与旅行有关。
+pseudomallei is typically found in tropical regions , and US cases are usually connected to travel .
+假性麻疹通常见于热带地区，而美国病例通常与旅行有关。
+LCS-Wdiff:	0.9230769230769231 
+--TP--
+#60:
+pseudomallei is often found in tropical regions , and US cases are usually connected to travel .
+假性马勒病常见于热带地区，美国病例通常与旅行有关。
+pseudomallei is typically found in tropical regions , and US cases are usually connected to travel .
+假性麻疹通常见于热带地区，而美国病例通常与旅行有关。
+LCS-Wdiff:	0.9090909090909091 
+--TP--
+#61:
+pseudomallei is commonly found in tropical regions , and US cases are usually connected to travel .
+假性马莱常见于热带地区，美国病例通常与旅行有关。
+pseudomallei is typically found in tropical regions , and US cases are usually connected to travel .
+假性麻疹通常见于热带地区，而美国病例通常与旅行有关。
+LCS-Wdiff:	0.9090909090909091 
+--TP--
+#62:
+Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi , the first detection of the bacteria in the environment in the USA .
+假马勒伯克霍尔德菌被发现于墨西哥湾沿岸的密西西比州地区，是美国首次在环境中检测到这种细菌。
+Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi , the first detection of the bacteria in the environment in the US .
+假马勒伯克霍尔德菌被发现于墨西哥湾沿岸的密西西比州地区，是美国首次在环境中检测到这种细菌。
+LCS-Wdiff:	1.0 
+--TN--
+#63:
+Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi , the first detection of these bacteria in the environment in the US .
+假马勒伯克霍尔德菌被发现在墨西哥湾沿岸的密西西比州地区，在美国的这种环境中首次发现了这些细菌。
+Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi , the first detection of the bacteria in the environment in the US .
+假马勒伯克霍尔德菌被发现于墨西哥湾沿岸的密西西比州地区，是美国首次在环境中检测到这种细菌。
+LCS-Wdiff:	0.782608695652174 
+--FP--
+#64:
+His organization was one of the signers of the letter to the CDC requesting a bigger response .
+他的组织是给疾病预防控制中心的信的签署人之一，要求更大的回应 。
+His organization was one of the signers of the letter to the CDC demanding a bigger response .
+他的组织是给疾病预防控制中心的信的签署者之一，要求做出更大的回应 。
+LCS-Wdiff:	0.95 
+--FP--
+#65:
+The main complications is that the ACAM vaccine uses a live , but weakened version of a virus to inoculate a person .
+主要的并发症是ACAM疫苗使用活的，但减弱的病毒版本来接种一个人。
+The other complications is that the ACAM vaccine uses a live , but weakened version of a virus to inoculate a person .
+另一个并发症是ACAM疫苗使用活的，但减弱的病毒版本来接种一个人 。
+LCS-Wdiff:	1.0 
+--TN--
+#66:
+" It indicates that you can transmit during rebound even before you have symptoms , " Charness said .
+“这表明，即使在你有症状之前，你也可以在反弹期间传播，”Charness说。
+" It indicates that you can transmit during rebound even before you develop symptoms , " Charness said .
+“这表明，即使在你出现症状之前，你也可以在反弹期间传播，”Charness说。
+LCS-Wdiff:	1.0 
+--TN--
+#67:
+In Washington , the federal government is continuing to monitor the response to monkeypox and will use that to consider whether to declare the outbreak a public health emergency , HHS Secretary Jose Becerra said Thursday .
+在华盛顿，联邦政府正在继续监测对猴痘的反应，并将用它来考虑是否宣布疫情为公共卫生紧急状态，HHS秘书何塞·贝塞拉周四表示。
+In Washington , the federal government is continuing to monitor the response to monkeypox and will use that to consider whether to declare the outbreak a public health emergency , HHS Secretary Xavier Becerra said Thursday .
+在华盛顿，联邦政府正在继续监测对猴痘的反应，并将用它来考虑是否宣布疫情为公共卫生紧急状态，HHS秘书Xavier Becerra周四表示。
+LCS-Wdiff:	0.8857142857142857 
+--FP--
+#68:
+But , the US does n ' t have enough doses of Jynneos to vaccinate all who might want it , so public health officials are also considering whether to use a second , older type of vaccine called ADAM .
+但是，美国确实没有足够的剂量的Jynneos来为所有可能想要的人接种疫苗，因此公共卫生官员也在考虑是否使用第二种名为ADAM的较旧疫苗。
+But , the US does n ' t have enough doses of Jynneos to vaccinate all who might want it , so public health officials are also considering whether to use a second , older type of vaccine called ACAM .
+但是，美国确实没有足够的剂量的Jynneos来为所有可能想要的人接种疫苗，因此公共卫生官员也在考虑是否使用第二种称为ACAM的较旧疫苗。
+LCS-Wdiff:	1.0 
+--TN--
+#69:
+But , the US does n ' t have enough doses of Dynneos to vaccinate all who might want it , so public health officials are also considering whether to use a second , older type of vaccine called ACAM .
+但是，美国确实没有足够的剂量的Dynneos来为所有可能想要它的人接种疫苗，因此公共卫生官员也在考虑是否使用第二种称为ACAM的老式疫苗。
+But , the US does n ' t have enough doses of Jynneos to vaccinate all who might want it , so public health officials are also considering whether to use a second , older type of vaccine called ACAM .
+但是，美国确实没有足够的剂量的Jynneos来为所有可能想要的人接种疫苗，因此公共卫生官员也在考虑是否使用第二种称为ACAM的较旧疫苗。
+LCS-Wdiff:	0.9428571428571428 
+--FP--
+#70:
+While the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，虽然人们接触的主要方式是通过私人沟通方式，但可能发生的最糟糕的情况是收件人没有回应。
+Since the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，由于人们接触的主要方式是通过私人通信手段，可能发生的最糟糕的情况是收件人没有回应。
+LCS-Wdiff:	0.9259259259259259 
+--TP--
+#71:
+The US has ordered more of this vaccine , and the government plans to make 1 . 25 million more doses of the Synneos vaccine available through the summer and fall , the administration said .
+美国已经订购了更多的这种疫苗，政府计划制造1。政府表示，在夏季和秋季还有2500万剂Synneos疫苗可用。
+The US has ordered more of this vaccine , and the government plans to make 1 . 25 million more doses of the Jynneos vaccine available through the summer and fall , the administration said .
+美国已经订购了更多的这种疫苗，政府计划制造1。政府表示，在夏季和秋季还有2500万剂Jynneos疫苗可用。
+LCS-Wdiff:	1.0 
+--TN--
+#72:
+While local officials weigh a nationwide public health emergency declaration around the monkeypox outbreak , San Francisco and New York state began sounding the alarm Thursday .
+当当地官员围绕猴痘爆发在全国范围内发布公共卫生紧急声明时，旧金山和纽约州周四开始敲响警钟。
+While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak , San Francisco and New York state began sounding the alarm Thursday .
+当联邦官员围绕猴痘爆发在全国范围内发布公共卫生紧急状态声明时，旧金山和纽约州周四开始敲响警钟。
+LCS-Wdiff:	0.9545454545454546 
+--TP--
+#73:
+" Pfizer and Moderna have indicated that they anticipate the modified vaccines being available as early as September , " an FDA spokesman said .
+“辉瑞和Moderna表示，他们预计改良疫苗最早会在9月上市，”FDA发言人说。
+" Pfizer and Moderna have indicated that they anticipate the modified vaccines being available as early as September , " an FDA spokesperson said .
+“辉瑞和Moderna表示，他们预计改良疫苗最早会在9月上市，”FDA发言人说。
+LCS-Wdiff:	1.0 
+--TN--
+#74:
+In late June , vaccine makers said adapters updated to target Omicron showed a stronger immune response than the current vaccines .
+6月下旬，疫苗制造商表示，更新为靶向Omicron的适配器显示出比当前疫苗更强的免疫反应。
+In late June , vaccine makers said boosters updated to target Omicron showed a stronger immune response than the current vaccines .
+6月下旬，疫苗制造商表示，更新为针对Omicron的加强剂显示出比当前疫苗更强的免疫反应。
+LCS-Wdiff:	0.9545454545454546 
+--FP--
+#75:
+As of Friday , the United States had than 5 , 000 probable or confirmed monkeypox cases , according to CDC data .
+根据CDC的数据，截至周五，美国有超过5，000例可能或确诊的猴痘病例。
+As of Friday , the United States has than 5 , 000 probable or confirmed monkeypox cases , according to CDC data .
+根据CDC的数据，截至周五，美国有超过5，000例可能或确诊的猴痘病例。
+LCS-Wdiff:	1.0 
+--TN--
+#76:
+A new study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴里说，一项新的研究可以帮助平息人们在联系朋友时面临的焦虑。
+This new study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴里说，这项新研究可以帮助平息人们在联系朋友时面临的焦虑。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#77:
+As of Friday , New York City ' s official health department website says all available appointments for vaccines have been filled at this time .
+截至周五，纽约市卫生部门官方网站称，此时所有可用的疫苗预约都已满员。
+As of Friday , New York City ' s public health department website says all available appointments for vaccines have been filled at this time .
+截至周五，纽约市公共卫生部门网站称，此时所有可用的疫苗预约都已满员。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#78:
+Currently , people 5 and older are eligible for a first booster shot , but only those 50 and older and some immunocompromised individuals are eligible for second boosters .
+目前，5岁及以上的人有资格获得第一次加强注射，但只有50岁及以上的人和一些免疫功能低下的人有资格获得第二次加强。
+Currently , people 5 and older are eligible for a first booster shot , but only those 50 and older and some immunocompromised people are eligible for second boosters .
+目前，5岁及以上的人有资格获得第一次加强注射，但只有50岁及以上的人和一些免疫功能低下的人有资格获得第二次加强。
+LCS-Wdiff:	1.0 
+--TN--
+#79:
+The first is a newer , modern vaccine called Synneos which is manufactured by the Danish company Bavarian Nordic .
+第一种是一种较新的现代疫苗，称为Synneos，由丹麦公司巴伐利亚北欧公司生产。
+The first is a newer , modern vaccine called Jynneos which is manufactured by the Danish company Bavarian Nordic .
+第一种是一种较新的现代疫苗，称为Jynneos，由丹麦公司巴伐利亚北欧公司生产。
+LCS-Wdiff:	1.0 
+--TN--
+#80:
+So far in the United States , there have been 306 cases of monkeypox identified in 28 jurisdictions .
+到目前为止，在美国，在28个司法管辖区内已发现306例猴痘病例。
+So far in the United States , there have been 306 cases of monkeypox identified across 28 jurisdictions .
+到目前为止，在美国，在28个司法管辖区内已经发现了306例猴痘病例。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#81:
+Michael Osterholm who leads the Center for Infectious Disease Research and Policy at the University of Minnesota .
+迈克尔·奥斯特霍尔姆（Michael Osterholm），明尼苏达大学传染病研究与政策中心主任。
+Michael Osterholm who directs the Center for Infectious Disease Research and Policy at the University of Minnesota .
+迈克尔·奥斯特霍尔姆（Michael Osterholm），明尼苏达大学传染病研究和政策中心主任。
+LCS-Wdiff:	1.0 
+--TN--
+#82:
+Although the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，虽然人们接触的主要方式是通过私人通信手段，但可能发生的最糟糕的情况是收件人没有回应。
+Since the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，由于人们接触的主要方式是通过私人通信手段，可能发生的最糟糕的情况是收件人没有回应。
+LCS-Wdiff:	0.9642857142857143 
+--FN--
+#83:
+Neither the baby nor its parents had any other close contacts before it got sick .
+婴儿及其父母在生病之前都没有任何其他密切接触者 。
+Neither the baby nor its parents had any other close contacts before they got sick .
+婴儿及其父母在生病之前都没有任何其他密切接触者 。
+LCS-Wdiff:	1.0 
+--TN--
+#84:
+Individuals who work with the federal government say they are working hard on the issue .
+与联邦政府合作的个人表示，他们正在这个问题上努力工作 。
+People who work with the federal government say they are working hard on the issue .
+与联邦政府合作的人说，他们正在这个问题上努力工作。
+LCS-Wdiff:	1.0 
+--TN--
+#85:
+There are 300 , 000 doses that were being held by the manufacturer and are currently on the way .
+制造商持有300，000剂，目前正在进行中 。
+There are 300 , 000 doses that were being held by the manufacturer that are currently on the way .
+目前，制造商持有300，000剂疫苗正在路上 。
+LCS-Wdiff:	0.8 
+--TP--
+#86:
+He says they ' ve found at least two instances in which people have transmitted to others when their infection recurs .
+他说，他们已经发现了至少两个例子，其中人们在感染复发时传播给他人 。
+He said they ' ve found at least two instances in which people have transmitted to others when their infection recurs .
+他说，他们已经发现了至少两种情况，其中人们在感染复发时传播给他人 。
+LCS-Wdiff:	1.0 
+--TN--
+#87:
+The bacteria that causes a rare , serious disease called glioidosis has been detected in water and soil samples in Mississippi , the US Centers for Disease Control and Prevention said Wednesday .
+美国疾病控制和预防中心周三表示，导致一种罕见的，严重的疾病，称为胶质体病，已经在密西西比州的水和土壤样本中检测到。
+The bacteria that causes a rare , serious disease called melioidosis has been detected in water and soil samples in Mississippi , the US Centers for Disease Control and Prevention said Wednesday .
+美国疾病控制和预防中心周三表示，在密西西比州的水和土壤样本中已经检测到导致一种罕见的，严重的疾病称为类鼻疽的细菌。
+LCS-Wdiff:	0.6060606060606061 
+--TP--
+#88:
+" The National Academies were asked to do studies that would be free of the effects of advocacy , special interests , and politics , and are looked at as a trusted neutral body , " said Dr .
+“美国国家科学院被要求进行不受倡导、特殊利益和政治影响的研究，并被视为一个值得信赖的中立机构，”博士说。
+" The National Academies are asked to do studies that would be free of the effects of advocacy , special interests , and politics , and are looked at as a trusted neutral body , " said Dr .
+“美国国家科学院被要求进行不受倡导、特殊利益和政治影响的研究，并被视为一个值得信赖的中立机构，”博士说。
+LCS-Wdiff:	1.0 
+--TN--
+#89:
+Neither the baby nor its father had any other close contacts before they got sick .
+婴儿及其父亲在生病之前都没有任何其他密切接触者 。
+Neither the baby nor its parents had any other close contacts before they got sick .
+婴儿及其父母在生病之前都没有任何其他密切接触者 。
+LCS-Wdiff:	1.0 
+--TN--
+#90:
+" It ' s presumed not to be safe to be able to be used in patients with HIV , " Varma said .
+“据推测，能够用于HIV患者是不安全的，”瓦尔玛说。
+" It ' s presumed not to be safe to be able to be used in people with HIV , " Varma said .
+“据推测，能够用于艾滋病毒感染者是不安全的，”瓦尔玛说。
+LCS-Wdiff:	1.0 
+--TN--
+#91:
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in late fall , pending signoff by federal health agencies , the US Department of Health and Human Services said Friday .
+美国卫生与公众服务部周五表示，Moderna和辉瑞的加强注射更新为针对Omicron冠状病毒亚变体可能会在秋末提供，等待联邦卫生机构的签核。
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall , pending signoff by federal health agencies , the US Department of Health and Human Services said Friday .
+Moderna和辉瑞的助推器注射更新为针对Omicron冠状病毒亚变体可能会在初秋可用，等待联邦卫生机构的签署，美国卫生和人类服务部周五表示。
+LCS-Wdiff:	0.6774193548387096 
+--TP--
+#92:
+On Tuesday , HHS also activated the CDC ' s Emergency Operations Center to allow the agency more flexibility and manpower to manage the nation ' s monkeypox response .
+周二，HHS还启动了CDC的紧急行动中心，以使该机构有更多的灵活性和人力来管理国家的猴痘反应。
+On Tuesday , HHS also activated the CDC ' s Emergency Operations Center to give the agency more flexibility and manpower to manage the nation ' s monkeypox response .
+周二，HHS还启动了CDC的紧急行动中心，为该机构提供更多的灵活性和人力来管理国家的猴痘反应。
+LCS-Wdiff:	0.9642857142857143 
+--TN--
+#93:
+The CDC spokesperson said the agency " encourages anyone who suspects they have monkeypox to reach out to their clinician to get tested if there is more than enough testing capacity .
+疾病预防控制中心发言人表示，该机构“鼓励任何怀疑自己患有猴痘的人联系他们的临床医生进行检测，如果检测能力绰绰有余 。
+The CDC spokesperson said the agency " encourages anyone who suspects they have monkeypox to reach out to their clinician to get tested since there is more than enough testing capacity .
+疾病预防控制中心发言人表示，该机构“鼓励任何怀疑自己患有猴痘的人联系他们的临床医生进行检测，因为检测能力绰绰有余 。
+LCS-Wdiff:	1.0 
+--TN--
+#94:
+They ' re scared and do n ' t know how they can realistically keep themselves safe despite a lack of vaccines .
+他们很害怕，不知道尽管缺乏疫苗，他们如何才能现实地保持自己的安全。
+They ' re scared and do n ' t know how they can realistically keep themselves safe with a lack of vaccines .
+他们很害怕，不知道在缺乏疫苗的情况下，他们如何现实地保持自己的安全。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#95:
+" It indicates that you can transmit during rebound even before you experience symptoms , " Charness said .
+“这表明，即使在你出现症状之前，你也可以在反弹期间传播，”Charness说。
+" It indicates that you can transmit during rebound even before you develop symptoms , " Charness said .
+“这表明，即使在你出现症状之前，你也可以在反弹期间传播，”Charness说。
+LCS-Wdiff:	1.0 
+--TN--
+#96:
+Those who work with the federal government say they are working hard on the issue .
+那些与联邦政府合作的人说，他们正在这个问题上努力工作 。
+People who work with the federal government say they are working hard on the issue .
+与联邦政府合作的人说，他们正在这个问题上努力工作。
+LCS-Wdiff:	1.0 
+--TN--
+#97:
+Bottom line is , we need to get ahead of it and be able to end this outbreak .
+底线是，我们需要走在前面，能够结束这次疫情。
+Bottom line is , we need to stay ahead of it and be able to end this outbreak .
+底线是，我们需要保持领先，并能够结束这次疫情。
+LCS-Wdiff:	0.9166666666666666 
+--TP--
+#98:
+The first is a newer , modern vaccine called Jynneos that is manufactured by the Danish company Bavarian Nordic .
+第一种是一种较新的现代疫苗，称为Jynneos，由丹麦公司巴伐利亚北欧公司生产。
+The first is a newer , modern vaccine called Jynneos which is manufactured by the Danish company Bavarian Nordic .
+第一种是一种较新的现代疫苗，称为Jynneos，由丹麦公司巴伐利亚北欧公司生产。
+LCS-Wdiff:	1.0 
+--TN--
+#99:
+And a variety of insecurities can prevent us from reaching out , said Akbari , who was not involved in the study .
+各种不安全感会阻止我们伸出援手，阿克巴里说，他没有参与这项研究。
+But a variety of insecurities can prevent us from reaching out , said Akbari , who was not involved in the study .
+但是各种各样的不安全感会阻止我们伸出援手，阿克巴里说，他没有参与这项研究。
+LCS-Wdiff:	1.0 
+--TN--
+#100:
+" It ' s considered not to be safe to be able to be used in people with HIV , " Varma said .
+“它被认为是不安全的，不能用于艾滋病毒感染者，”瓦尔玛说。
+" It ' s presumed not to be safe to be able to be used in people with HIV , " Varma said .
+“据推测，能够用于艾滋病毒感染者是不安全的，”瓦尔玛说。
+LCS-Wdiff:	0.5882352941176471 
+--TP--

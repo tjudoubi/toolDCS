@@ -1,0 +1,140 @@
+#2:
+Such equipment was particularly useful during the California Gold Rush of the late 1840s and 1850s .
+这种设备在1840年代末和1850年代的加利福尼亚淘金热期间特别有用。
+Such help was particularly useful during the California Gold Rush of the late 1840s and 1850s .
+在1840年代末和1850年代的加州淘金热期间，这种帮助特别有用。
+LCS-Wdiff:	0.9285714285714286 
+--FP--
+#6:
+When Yuan Shuo , known online as Hesenbao , was a docent in the National Museum of China , there were questions that came up , at a particular point , repeatedly from visitors .
+当网上被称为和森堡的袁硕是中国国家博物馆的讲解员时，在某个特定时刻，游客反复提出问题。
+When Yuan Shuo , known online as Hesenbao , was a docent at the National Museum of China , there were questions that came up , at a particular point , repeatedly from visitors .
+当袁硕，网上被称为和森堡，是中国国家博物馆的讲解员时，在某个特定时刻，游客反复提出问题。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#12:
+After the outline of the paintings are done , the artists use acrylic or oils paints to color them .
+绘画的轮廓完成后，艺术家使用丙烯酸或油画颜料来着色。
+When the outline of the paintings are done , the artists use acrylic or oils paints to color them .
+当绘画的轮廓完成时，艺术家使用丙烯酸或油画颜料来着色。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#13:
+The officials of the university plan to cancel the specialty of anthropology due to a lack of students .
+由于缺乏学生，该大学的官员计划取消人类学专业。
+The leaders of the university plan to cancel the specialty of anthropology due to a lack of students .
+由于缺乏学生，大学领导人计划取消人类学专业。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#23:
+When another student , Lin Zihan , plays the first movement of Beethoven ' s Piano Sonata in C Major Op 2 No 4 , Lang stands by the piano , demonstrating crescendo and decrescendo by raising and lowering his head .
+当另一名学生林子涵演奏贝多芬《C大调Op 2 No 4》钢琴奏鸣曲第一乐章时，朗站在钢琴旁，通过抬头和低头来展示渐强和递减。
+When another student , Lin Zihan , plays the first movement of Beethoven ' s Piano Sonata in C Major Op 2 No 3 , Lang stands by the piano , demonstrating crescendo and decrescendo by raising and lowering his head .
+当另一名学生林子涵演奏贝多芬《C大调Op 2 No 3》钢琴奏鸣曲的第一乐章时，郎朗站在钢琴旁，通过抬头和低头来展示渐强和递减。
+LCS-Wdiff:	0.9459459459459459 
+--FP--
+#33:
+Because up until that point , I had wanted to be a political scientist who worked on China in social sciences .
+因为在那之前，我一直想成为一名政治学家，在中国从事社会科学方面的工作。
+Because up until that point , I had wanted to be a social scientist who worked on China in social sciences .
+因为在那之前，我一直想成为一名社会科学家，在中国从事社会科学工作。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#45:
+Some folk artists tried to make a living by not only painting at temples but also painting for people in villages .
+一些民间艺术家试图通过不仅在寺庙绘画，而且还通过为村民绘画来谋生。
+Some folk artists tried to make a living by not only painting in temples but also painting for people in villages .
+一些民间艺术家试图通过不仅在寺庙里画画，而且还通过为村里的人画画来谋生。
+LCS-Wdiff:	0.8 
+--FP--
+#58:
+An exhibition titled Infinite Like Heavens – Treasures from Zhou , Qin Han and Tang Dynasties kicked off at Shanghai Fengxian Museum on May 15 and will last until September 15 .
+名为“无限如天——周、秦汉、唐朝的宝物”展览于5月15日在上海奉贤博物院拉开帷幕，展览将持续至9月15日。
+An exhibition titled Infinite Like Heavens – Treasures from Zhou , Qin Han and Tang Dynasties kicked off at Shanghai Fengxian Museum on July 15 and will last until September 15 .
+名为“无限如天——周、秦汉、唐朝的宝藏”的展览于7月15日在上海奉贤博物馆拉开帷幕，展览将持续至9月15日。
+LCS-Wdiff:	0.9142857142857143 
+--FP--
+#61:
+The show also featured classic arias from nine Western operas , such as Carmen by French composer Georges Bizet , La Traviata , also by Verdi , and La Boheme by Italian composer Giacomo Puccini .
+该剧还收录了九部西方歌剧的经典咏叹调，如法国作曲家乔治·比才的《卡门》、威尔第的《茶花女》和意大利作曲家贾科莫·普契尼的《波希米亚》。
+The evening also featured classic arias from nine Western operas , such as Carmen by French composer Georges Bizet , La Traviata , also by Verdi , and La Boheme by Italian composer Giacomo Puccini .
+当晚还播放了九部西方歌剧的经典咏叹调，如法国作曲家乔治·比才的《卡门》、威尔第的《茶花女》和意大利作曲家贾科莫·普契尼的《波希米亚人》。
+LCS-Wdiff:	0.9487179487179487 
+--FP--
+#63:
+Experts called on Thursday for more action in promoting peace and development , the themes of the times , given the ongoing tension in Ukraine and growing uncertainty worldwide .
+周四，专家们呼吁采取更多行动，促进和平与发展，这是时代的主题，鉴于乌克兰持续的紧张局势和世界范围内日益增加的不确定性。
+Experts called on Thursday for more action in promoting peace and development , the themes of the times , amid the ongoing tension in Ukraine and growing uncertainty worldwide .
+周四，专家们呼吁采取更多行动，促进和平与发展，这是时代的主题，在乌克兰持续的紧张局势和全球不确定性日益增加的情况下。
+LCS-Wdiff:	0.90625 
+--FP--
+#64:
+As the sun set on a hot summer evening this month , a leisurely breeze wafted across Gangzaihou Beach on Jiulangyu Island , a short ferry ride from Xiamen , Fujian province .
+本月一个炎热的夏夜，夕阳西下，一阵悠然的微风飘过九郎屿岛的江仔后滩，距离福建省厦门市只有很短的渡轮车程。
+As the sun set on a hot summer evening this month , a leisurely breeze wafted across Gangzaihou Beach on Gulangyu Island , a short ferry ride from Xiamen , Fujian province .
+本月一个炎热的夏夜，夕阳西下，一阵悠然的微风飘过鼓浪屿的岗仔后海滩，距离福建省厦门市只有很短的渡轮车程。
+LCS-Wdiff:	0.9259259259259259 
+--FP--
+#73:
+Most of the lectures were given by the archaeologists who unearthed the exhibits that lay in the showcases of the museum .
+大多数讲座都是由考古学家进行的，他们发掘了博物馆陈列柜中的展品 。
+Some of the lectures were given by the archaeologists who unearthed the exhibits that lay in the showcases of the museum .
+一些讲座是由考古学家进行的，他们发掘了博物馆陈列柜中的展品 。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#75:
+She started to paint , with her mother , when she was a child and now , at the age of 54 , she is still painting and trying to preserve the tradition .
+她开始和母亲一起画画，当她还是个孩子的时候，现在，在54岁的时候，她仍然在画画，并试图保留这一传统。
+She learned to paint , with her mother , when she was a child and now , at the age of 54 , she is still painting and trying to preserve the tradition .
+当她还是个孩子的时候，她和母亲一起学习绘画，现在，在54岁时，她仍然在绘画并试图保留传统。
+LCS-Wdiff:	0.6875 
+--FP--
+#79:
+It ' s a kind of folk art that was very popular in Tian ' s hometown , Wuxin county , Northwest China ' s Ningxia Hui autonomous region , during the 1960s and ' 70s .
+这是一种民间艺术，在20世纪60年代和70年代在中国西北宁夏回族自治区的田家乡武新县非常流行。
+It ' s a kind of folk art that was very popular in Tian ' s hometown , Tongxin county , Northwest China ' s Ningxia Hui autonomous region , during the 1960s and ' 70s .
+这是一种民间艺术，在20世纪60年代和70年代在中国西北宁夏回族自治区同心县田的家乡非常受欢迎。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#85:
+Zhang and the girls trained hard , and soon , teachers and students noticed great improvement in the team , which attracted more students to join .
+张和女生们刻苦训练，很快，师生们注意到团队有了很大的进步，吸引了更多的学生加入。
+Zhang and the girls trained hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+张和女生们刻苦训练，很快，师生们看到了团队的很大进步，吸引了更多的学生加入。
+LCS-Wdiff:	0.8846153846153846 
+--FP--
+#87:
+They then perform the required measurements and draw out the frame with simple , clean lines before drafting sketches with black and white pencils .
+然后，他们执行所需的测量，并用简单，干净的线条绘制框架，然后用黑白铅笔绘制草图。
+They then perform the necessary measurements and draw out the frame with simple , clean lines before drafting sketches with black and white pencils .
+然后，他们进行必要的测量，并用简单，干净的线条绘制出框架，然后用黑白铅笔绘制草图。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#89:
+Some Buddhist artists tried to make a living by not only painting in temples but also painting for people in villages .
+一些佛教艺术家试图通过不仅在寺庙里绘画，而且还通过为村民绘画来谋生。
+Some folk artists tried to make a living by not only painting in temples but also painting for people in villages .
+一些民间艺术家试图通过不仅在寺庙里画画，而且还通过为村里的人画画来谋生。
+LCS-Wdiff:	0.75 
+--FP--
+#92:
+I finally got her into the shower , dried her hurriedly and made it to the nearby bus stop in time .
+我终于把她弄进了淋浴室，匆匆忙忙地擦干了她，并及时赶到了附近的公共汽车站。
+I finally got her into the shower , dressed her hurriedly and made it to the nearby bus stop in time .
+我终于把她弄进了淋浴间，匆匆忙忙地给她穿好衣服，及时赶到附近的公共汽车站。
+LCS-Wdiff:	0.8636363636363636 
+--FP--
+#94:
+I made sure to get a good night ' s sleep the rest of the week , so we did not have another repeat of July 1 .
+我确保在本周剩下的时间里睡个好觉，所以我们没有再重复7月1日。
+I made sure to get a good night ' s sleep the rest of the week , so we did not have a repeat of July 1 .
+我确保在一周的其余时间里睡个好觉，所以我们没有重复7月1日。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#96:
+" When the waves move forward , the singing goes along smoothly , " he adds , humming the melody while waving his hands .
+“当海浪向前移动时，歌声顺畅地进行，”他补充道，一边挥舞着双手哼唱着旋律。
+" As the waves move forward , the singing goes along smoothly , " he adds , humming the melody while waving his hands .
+“随着海浪向前移动，歌声顺畅地进行，”他补充道，一边挥舞着双手哼唱着旋律。
+LCS-Wdiff:	0.9583333333333334 
+--FP--

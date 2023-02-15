@@ -1,0 +1,49 @@
+#10:
+The US Food and Drug Administration ordered vaccine makers in June to update the boosters to add an Omicron BA .
+美国食品和药物管理局6月命令疫苗制造商更新助推器，添加奥密克戎BA。
+The US Food and Drug Administration advised vaccine makers in June to update the boosters to add an Omicron BA .
+美国食品和药物管理局6月建议疫苗制造商更新助推器，添加奥密克戎BA。
+LCS-Wdiff:	1.0 
+--FN--
+#16:
+The first is a newer , modern vaccine named Jynneos which is manufactured by the Danish company Bavarian Nordic .
+第一种是一种新的现代疫苗，名为Jynneos，由丹麦巴伐利亚北欧公司生产。
+The first is a newer , modern vaccine called Jynneos which is manufactured by the Danish company Bavarian Nordic .
+第一种是一种新的现代疫苗，名为Jynneos，由丹麦巴伐利亚北欧公司生产。
+LCS-Wdiff:	1.0 
+--FN--
+#23:
+This ' s in addition to 105 million bivalent boosters the US government has purchased from Pfizer .
+此外，美国政府还从辉瑞公司购买了1.05亿种二价助推器。
+That ' s in addition to 105 million bivalent boosters the US government has purchased from Pfizer .
+此外，美国政府还从辉瑞公司购买了1.05亿种二价助推器。
+LCS-Wdiff:	1.0 
+--FN--
+#43:
+Since the primary way people reach out is via private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，由于人们接触的主要方式是通过私人通信手段，最糟糕的情况是接受者没有回应。
+Since the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，由于人们接触的主要方式是通过私人通信手段，最糟糕的情况是接受者没有回应。
+LCS-Wdiff:	1.0 
+--FN--
+#59:
+pseudomallei is usually found in tropical regions , and US cases are usually connected to travel .
+伪等位基因通常在热带地区发现，美国病例通常与旅行有关。
+pseudomallei is typically found in tropical regions , and US cases are usually connected to travel .
+伪等位基因通常出现在热带地区，美国病例通常与旅行有关。
+LCS-Wdiff:	1.0 
+--FN--
+#60:
+pseudomallei is often found in tropical regions , and US cases are usually connected to travel .
+伪等位基因通常在热带地区发现，美国病例通常与旅行有关。
+pseudomallei is typically found in tropical regions , and US cases are usually connected to travel .
+伪等位基因通常出现在热带地区，美国病例通常与旅行有关。
+LCS-Wdiff:	1.0 
+--FN--
+#61:
+pseudomallei is commonly found in tropical regions , and US cases are usually connected to travel .
+伪等位基因常见于热带地区，美国病例通常与旅行有关。
+pseudomallei is typically found in tropical regions , and US cases are usually connected to travel .
+伪等位基因通常出现在热带地区，美国病例通常与旅行有关。
+LCS-Wdiff:	1.0 
+--FN--

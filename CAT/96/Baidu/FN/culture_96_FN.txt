@@ -1,0 +1,63 @@
+#14:
+However , despite being " open to understanding " , China through the books did little to prepare him for China in reality .
+然而，尽管他“对理解持开放态度”，但书中的中国并没有让他为现实中的中国做好准备。
+However , despite being " open to understanding " , China in the books did little to prepare him for China in reality .
+然而，尽管他“对理解持开放态度”，书中的中国并没有让他为现实中的中国做好准备。
+LCS-Wdiff:	1.0 
+--FN--
+#15:
+Songs from popular Chinese operas were also performed , including The Red Guards on Honghu Lake , which premiered in Beijing in 1959 to mark the tenth anniversary of the founding of the People ' s Republic of China .
+此外，还演出了中国流行歌剧中的歌曲，包括1959年为纪念中华人民共和国成立十周年在北京首演的《红卫兵在洪湖》。
+Songs from popular Chinese operas were also performed , including The Red Guards on Honghu Lake , which premiered in Beijing in 1959 to mark the 10th anniversary of the founding of the People ' s Republic of China .
+此外，还演出了中国流行歌剧中的歌曲，包括1959年为纪念中华人民共和国成立10周年在北京首演的《红卫兵在洪湖》。
+LCS-Wdiff:	1.0 
+--FN--
+#16:
+Songs from popular Chinese operas were also performed , including The Red Guards on Honghu Lake , which premiered in Beijing in 1959 to mark the 60th anniversary of the founding of the People ' s Republic of China .
+此外，还演出了中国流行歌剧中的歌曲，包括1959年为纪念中华人民共和国成立60周年在北京首演的《红卫兵在洪湖》。
+Songs from popular Chinese operas were also performed , including The Red Guards on Honghu Lake , which premiered in Beijing in 1959 to mark the 10th anniversary of the founding of the People ' s Republic of China .
+此外，还演出了中国流行歌剧中的歌曲，包括1959年为纪念中华人民共和国成立10周年在北京首演的《红卫兵在洪湖》。
+LCS-Wdiff:	1.0 
+--FN--
+#17:
+As the sun set on a hot summer afternoon this month , a leisurely breeze wafted across Gangzaihou Beach on Gulangyu Island , a short ferry ride from Xiamen , Fujian province .
+本月一个炎热的夏日午后，当太阳落山时，一股悠闲的微风吹过鼓浪屿的港仔后海滩。鼓浪屿是从福建省厦门出发的一个短途渡轮。
+As the sun set on a hot summer evening this month , a leisurely breeze wafted across Gangzaihou Beach on Gulangyu Island , a short ferry ride from Xiamen , Fujian province .
+本月一个炎热的夏夜，当太阳落山时，一股悠闲的微风吹过鼓浪屿的港仔后海滩。鼓浪屿是从福建省厦门出发的一个短途渡轮。
+LCS-Wdiff:	1.0 
+--FN--
+#34:
+She had flown to Hong Kong four days earlier on assignment for the Philippine newspaper Business Day to cover the handover of the city ' s return to China .
+四天前，她被派往香港，为菲律宾报纸《营业日》报道香港回归中国的消息。
+She had flown to Hong Kong several days earlier on assignment for the Philippine newspaper Business Day to cover the handover of the city ' s return to China .
+几天前，她被派往香港，为菲律宾报纸《营业日》报道香港回归中国的消息。
+LCS-Wdiff:	1.0 
+--FN--
+#36:
+" The idea to build a community with a shared future for humanity , suggested by the Chinese president , has become more urgent to implement and is more in line with our current needs , " he said .
+他说：“中国国家主席提出的建设一个人类共同未来的社区的想法，已经变得更加迫切需要实施，更加符合我们当前的需要。”。
+" The idea to build a community with a shared future for humanity , proposed by the Chinese president , has become more urgent to implement and is more in line with our current needs , " he said .
+他说：“中国国家主席提出的建设一个人类共同未来的社区的想法，已经变得更加迫切需要实施，更加符合我们当前的需要。”。
+LCS-Wdiff:	1.0 
+--FN--
+#37:
+" The idea to build a community with a shared future for humanity , proposed by the Chinese president , has become more urgent to implement and is more in line with our current needs , " he stated .
+他说：“中国国家主席提出的建设一个人类共同未来的社区的想法，已经变得更加迫切需要实施，更加符合我们当前的需要。”。
+" The idea to build a community with a shared future for humanity , proposed by the Chinese president , has become more urgent to implement and is more in line with our current needs , " he said .
+他说：“中国国家主席提出的建设一个人类共同未来的社区的想法，已经变得更加迫切需要实施，更加符合我们当前的需要。”。
+LCS-Wdiff:	1.0 
+--FN--
+#64:
+As the sun set on a hot summer evening this month , a leisurely breeze wafted across Gangzaihou Beach on Jiulangyu Island , a short ferry ride from Xiamen , Fujian province .
+本月一个炎热的夏夜，当太阳落山时，一股悠闲的微风吹过九浪屿上的港仔后海滩。九浪屿是从福建省厦门出发的一个短途渡轮。
+As the sun set on a hot summer evening this month , a leisurely breeze wafted across Gangzaihou Beach on Gulangyu Island , a short ferry ride from Xiamen , Fujian province .
+本月一个炎热的夏夜，当太阳落山时，一股悠闲的微风吹过鼓浪屿的港仔后海滩。鼓浪屿是从福建省厦门出发的一个短途渡轮。
+LCS-Wdiff:	0.967741935483871 
+--FN--
+#65:
+Kangzhua literally means " paintings around bed " , with kang being the name of a type of heated bed in the local dialect .
+“康卓”的字面意思是“床周围的绘画”，在当地方言中，“康”是一种加热床的名称。
+Kangweihua literally means " paintings around bed " , with kang being the name of a type of heated bed in the local dialect .
+“康卫华”的字面意思是“床周围的画”，在当地方言中，“康”是一种加热床的名称。
+LCS-Wdiff:	0.9642857142857143 
+--FN--

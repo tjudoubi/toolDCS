@@ -1,0 +1,24 @@
+#61:
+The company cut deliveries again to just 2 % of the pipeline ' s capacity last week , citing maintenance work .
+该公司上周再次将交付量削减到管道容量的2%，理由是维护工作。
+The company cut deliveries again to just 20 % of the pipeline ' s capacity last week , citing maintenance work .
+该公司上周再次将交付量削减到管道容量的20%，理由是维护工作。
+LCS-Wdiff:	1.0 
+--FN--
+--same--
+#84:
+The continent has grappled with supply shortages for months amid an escalating economic dispute between Moscow and Brussels over the war in Ukraine .
+几个月来，由于莫斯科和布鲁塞尔之间因乌克兰战争而不断升级的经济争端，非洲大陆一直在努力解决供应短缺问题。
+The continent has grappled with supply shortages for months amid an escalating economic conflict between Moscow and Brussels over the war in Ukraine .
+几个月来，在莫斯科和布鲁塞尔之间因乌克兰战争而不断升级的经济冲突中，非洲大陆一直在努力解决供应短缺问题。
+LCS-Wdiff:	0.9629629629629629 
+--FN--
+--same--
+#89:
+I ' ll be back to a place where it matters if your home is in good shape , " Fratantoni said .
+我会回到一个地方，如果你的家状况良好，“弗拉坦托尼说。
+We ' ll be back to a place where it matters if your home is in good shape , " Fratantoni said .
+我们会回到一个地方，如果你的家状况良好，“弗拉坦托尼说。
+LCS-Wdiff:	1.0 
+--FN--
+--same--

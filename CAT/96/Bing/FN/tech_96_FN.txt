@@ -1,0 +1,49 @@
+#2:
+The " Alan " in question is Liu ' s partner , Alan Babington - Smith , a consultant banker who had lived in China since 2000 .
+“艾伦”是刘的合伙人艾伦·巴宾顿-史密斯，一位自2000年以来一直居住在中国的顾问银行家。
+The " Alan " in question is Liu ' s partner , Alan Babington - Smith , a consultant banker who has lived in China since 2000 .
+有问题的“艾伦”是刘的合伙人艾伦·巴宾顿-史密斯，一位自2000年以来一直居住在中国的顾问银行家。
+LCS-Wdiff:	1.0 
+--FN--
+#7:
+Employing a 3D technology supporter for her show filming was an ultraexpensive burden for the startup company , the post - 90s designer said .
+这位90后设计师说，雇用3D技术支持者拍摄她的节目拍摄对创业公司来说是一个超重要的负担。
+Employing a 3D technology supporter for her show filming is an ultraexpensive burden for the startup company , the post - 90s designer said .
+这位90后设计师说，雇用3D技术支持者拍摄她的节目拍摄对创业公司来说是一个超重要的负担。
+LCS-Wdiff:	1.0 
+--FN--
+#8:
+Employing a 3D technology supporter for her show filming is an ultraexpensive burden to the startup company , the post - 90s designer said .
+这位90后设计师说，雇用3D技术支持者拍摄她的节目拍摄对创业公司来说是一个超重要的负担。
+Employing a 3D technology supporter for her show filming is an ultraexpensive burden for the startup company , the post - 90s designer said .
+这位90后设计师说，雇用3D技术支持者拍摄她的节目拍摄对创业公司来说是一个超重要的负担。
+LCS-Wdiff:	1.0 
+--FN--
+#12:
+Similarly , the number of points within a cluster tells us how many cells there are of that type .
+类似地，一个星团内的点数告诉我们有多少个这种类型的细胞。
+Also , the number of points within a cluster tells us how many cells there are of that type .
+此外，一个星团内的点数告诉我们有多少个这种类型的细胞。
+LCS-Wdiff:	1.0 
+--FN--
+#24:
+When the two teams looked in detail into what made these cells stand out , they came across something astonishing .
+当两个团队详细研究是什么让这些细胞脱颖而出时，他们遇到了一些令人惊讶的事情。
+When the two teams looked in detail at what made these cells stand out , they came across something astonishing .
+当两个团队详细研究是什么让这些细胞脱颖而出时，他们遇到了一些令人惊讶的事情。
+LCS-Wdiff:	1.0 
+--FN--
+#83:
+When the two teams looked in detail at what made the cells stand out , they came across something astonishing .
+当两个团队详细研究是什么让细胞脱颖而出时，他们遇到了一些令人惊讶的事情。
+When the two teams looked in detail at what made these cells stand out , they came across something astonishing .
+当两个团队详细研究是什么让这些细胞脱颖而出时，他们遇到了一些令人惊讶的事情。
+LCS-Wdiff:	1.0 
+--FN--
+#91:
+Bamboo weaving is a time - honored handicraft that has been passed down for generations in Daba township , Yongshun county , Xiangxi Tujia and Miao autonomous prefecture , Hunan province .
+竹织是湖南省永顺县大巴乡、湘西土家苗族自治州代代相传的工艺品。
+Bamboo weaving is a time - honored handicraft that has been passed down for generations in Maoba township , Yongshun county , Xiangxi Tujia and Miao autonomous prefecture , Hunan province .
+竹织是湖南省永顺县毛坝乡、湘西土家苗族自治州代代相传的工艺品。
+LCS-Wdiff:	1.0 
+--FN--

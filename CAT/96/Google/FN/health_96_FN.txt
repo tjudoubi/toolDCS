@@ -1,0 +1,56 @@
+#8:
+The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests in patients who are worried about exposure or who are at high risk .
+该报告设定了“纳克”级别的关注，并鼓励临床医生对担心暴露或处于高风险的患者进行血液检查。
+The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or who are at high risk .
+该报告设定了“纳克”级别的关注，并鼓励临床医生对担心接触或处于高风险的患者进行血液检查。
+LCS-Wdiff:	1.0 
+--FN--
+#9:
+The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure and who are at high risk .
+该报告设定了“纳克”级别的关注，并鼓励临床医生对担心暴露和高风险的患者进行血液检查。
+The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or who are at high risk .
+该报告设定了“纳克”级别的关注，并鼓励临床医生对担心接触或处于高风险的患者进行血液检查。
+LCS-Wdiff:	1.0 
+--FN--
+#10:
+The US Food and Drug Administration ordered vaccine makers in June to update the boosters to add an Omicron BA .
+美国食品和药物管理局在 6 月下令疫苗制造商更新助推器以添加 Omicron BA。
+The US Food and Drug Administration advised vaccine makers in June to update the boosters to add an Omicron BA .
+美国食品和药物管理局在 6 月建议疫苗制造商更新助推器以添加 Omicron BA。
+LCS-Wdiff:	1.0 
+--FN--
+#26:
+Updated studies would need to be authorized by the FDA and recommended by the US Centers for Disease Control and Prevention .
+更新的研究需要得到 FDA 的授权并得到美国疾病控制和预防中心的推荐。
+Updated shots would need to be authorized by the FDA and recommended by the US Centers for Disease Control and Prevention .
+更新的镜头需要得到 FDA 的授权并得到美国疾病控制和预防中心的推荐。
+LCS-Wdiff:	1.0 
+--FN--
+#27:
+Updated shots would need to be approved by the FDA and recommended by the US Centers for Disease Control and Prevention .
+更新的镜头需要得到 FDA 的批准并得到美国疾病控制和预防中心的推荐。
+Updated shots would need to be authorized by the FDA and recommended by the US Centers for Disease Control and Prevention .
+更新的镜头需要得到 FDA 的授权并得到美国疾病控制和预防中心的推荐。
+LCS-Wdiff:	1.0 
+--FN--
+#46:
+In these experiments , reaching out was defined as a phone call , text , email , letter or small gift .
+在这些实验中，伸出援手被定义为电话、短信、电子邮件、信件或小礼物。
+In these experiments , reaching out was defined as a phone call , text , email , note or small gift .
+在这些实验中，伸出援手被定义为电话、短信、电子邮件、便条或小礼物。
+LCS-Wdiff:	1.0 
+--FN--
+#69:
+But , the US does n ' t have enough doses of Dynneos to vaccinate all who might want it , so public health officials are also considering whether to use a second , older type of vaccine called ACAM .
+但是，美国没有足够剂量的 Dynneos 来为所有可能需要它的人接种疫苗，因此公共卫生官员也在考虑是否使用第二种更老的疫苗，称为 ACAM。
+But , the US does n ' t have enough doses of Jynneos to vaccinate all who might want it , so public health officials are also considering whether to use a second , older type of vaccine called ACAM .
+但是，美国没有足够的 Jynneos 剂量来为所有可能需要它的人接种疫苗，因此公共卫生官员也在考虑是否使用第二种更老的疫苗，称为 ACAM。
+LCS-Wdiff:	1.0 
+--FN--
+#98:
+The first is a newer , modern vaccine called Jynneos that is manufactured by the Danish company Bavarian Nordic .
+第一种是由丹麦巴伐利亚北欧公司生产的一种名为 Jynneos 的新型现代疫苗。
+The first is a newer , modern vaccine called Jynneos which is manufactured by the Danish company Bavarian Nordic .
+第一种是由丹麦巴伐利亚北欧公司生产的一种名为 Jynneos 的新型现代疫苗。
+LCS-Wdiff:	1.0 
+--FN--

@@ -1,0 +1,35 @@
+#14:
+Moreover , a wellness hotel should provide care for a guest ' s body , mind and spirit , and try to foster a harmonious relationship among nature , space , people and services , according to the article .
+此外，康体酒店应为客人的身、心、灵提供关怀，努力营造自然、空间、人与服务之间的和谐关系。
+Moreover , a wellness hotel should provide care for the guest ' s body , mind and spirit , and try to foster a harmonious relationship among nature , space , people and services , according to the article .
+此外，康体酒店应为客人的身、心、灵提供关怀，努力营造自然、空间、人与服务之间的和谐关系。
+LCS-Wdiff:	1.0 
+--FN--
+#27:
+Soaring gracefully over the Sydney skyline , the Crown Sydney opens at the end of 2020 after four years of construction and a whopping $ 1 .
+悉尼皇冠酒店优雅地翱翔在悉尼的天际线上，经过四年的建设和高达 1 美元的造价，将于 2020 年底开业。
+Soaring gracefully over the Sydney skyline , the Crown Sydney opened at the end of 2020 after four years of construction and a whopping $ 1 .
+悉尼皇冠酒店优雅地翱翔在悉尼的天际线上，经过四年的建设和高达 1 美元的造价，于 2020 年底开业。
+LCS-Wdiff:	1.0 
+--FN--
+#34:
+Built in 2013 , they look brand new , with every inch perfectly finished by a team of craftspeople from Europe .
+它们建于 2013 年，外观焕然一新，每一寸都由来自欧洲的工匠团队完美完成。
+Built in 2013 , they look brand new , with every inch perfectly finished by a team of craftsmen from Europe .
+它们建于 2013 年，外观焕然一新，每一寸都由来自欧洲的工匠团队完美完成。
+LCS-Wdiff:	1.0 
+--FN--
+#77:
+The National Cultural Heritage Administration , the Palace Museum and museums from other provinces can attend the travel mart .
+国家文物局、故宫博物院及外省博物馆均可参加旅游集市。
+The National Cultural Heritage Administration , the Palace Museum and museums from other provinces will attend the travel mart .
+国家文物局、故宫博物院及外省博物馆将参加旅游集市。
+LCS-Wdiff:	1.0 
+--FN--
+#100:
+Zhong has adopted a local moniker , Ntieno , a common family name in western Kenya , to build a rapport with colleagues and clients .
+为了与同事和客户建立融洽的关系，钟采用了当地的绰号 Ntieno，这是肯尼亚西部的一个常见姓氏。
+Zhong has adopted a local moniker , Otieno , a common family name in western Kenya , to build a rapport with colleagues and clients .
+为了与同事和客户建立融洽的关系，钟先生采用了当地的绰号 Otieno，这是肯尼亚西部的一个常见姓氏。
+LCS-Wdiff:	0.9615384615384616 
+--FN--

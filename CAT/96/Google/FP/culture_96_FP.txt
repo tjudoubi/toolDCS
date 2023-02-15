@@ -1,0 +1,161 @@
+#6:
+When Yuan Shuo , known online as Hesenbao , was a docent in the National Museum of China , there were questions that came up , at a particular point , repeatedly from visitors .
+当袁硕（网名和森宝）在中国国家博物馆担任讲解员时，游客们在某个特定的时间点不断提出问题。
+When Yuan Shuo , known online as Hesenbao , was a docent at the National Museum of China , there were questions that came up , at a particular point , repeatedly from visitors .
+当袁硕（网名和森宝）在中国国家博物馆担任讲解员时，在某个特定时间点，参观者反复提出了一些问题。
+LCS-Wdiff:	0.9166666666666666 
+--FP--
+#8:
+he 12th Beijing International Film Festival , which is gaining increasing global influence in recent years , will be held in Beijing from Aug 15 to 20 .
+近年来在全球影响力日益增强的第12届北京国际电影节将于8月15日至20日在北京举行。
+he 12th Beijing International Film Festival , which is gaining increasing global influence in recent years , will be held in Beijing from Aug 13 to 20 .
+近年来全球影响力日益增强的第12届北京国际电影节将于8月13日至20日在北京举行。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#11:
+Until that day , a security guard asked me to move faster because my audience were in the way , " he says .
+直到 那天 , 一名 保安 要求 我 行动 更快 , 因为 我 的 观众 挡住 了 路 , " 他 说 .
+Until one day , a security guard asked me to move faster because my audience were in the way , " he says .
+直到有一天，一名保安要求我行动得更快，因为我的观众挡住了路，”他说。
+LCS-Wdiff:	0.7727272727272727 
+--FP--
+#12:
+After the outline of the paintings are done , the artists use acrylic or oils paints to color them .
+画完轮廓后，艺术家用丙烯或油画颜料给它们上色。
+When the outline of the paintings are done , the artists use acrylic or oils paints to color them .
+当画的轮廓完成后，艺术家们用丙烯或油画颜料给它们上色。
+LCS-Wdiff:	0.875 
+--FP--
+#13:
+The officials of the university plan to cancel the specialty of anthropology due to a lack of students .
+由于缺乏学生，该大学的官员计划取消人类学专业。
+The leaders of the university plan to cancel the specialty of anthropology due to a lack of students .
+由于学生不足，大学领导计划取消人类学专业。
+LCS-Wdiff:	0.8181818181818182 
+--FP--
+#21:
+My daughter turned to look at me for a second and muttered , partly in rebuke : " I want mommy . "
+我 的 女儿 转头 看了 我 一会儿 , 喃喃 , 部分 是 在 责备 : " 我 想要 妈妈 . "
+My daughter turned to look at me for a minute and muttered , partly in rebuke : " I want mommy . "
+我 女儿 转头 看了 我 一分钟 , 喃喃 道 , 部分 是 在 责备 : " 我 要 妈妈 . "
+LCS-Wdiff:	0.9047619047619048 
+--FP--
+#22:
+Many times , to provide inspiration for her painting , Jiang ' s grandson walks long distances to neighboring villages to take pictures of their scenery for her reference .
+很多时候，为了给她的画作提供灵感，蒋的孙子不远万里到邻村拍下风景，供她参考。
+Many times , to provide inspiration for her painting , Jiang ' s grandson walks long distances to neighboring villages to take pictures of natural scenery for her reference .
+很多时候，为了给她的绘画提供灵感，蒋的孙子不远万里到邻近的村庄拍摄自然风光供她参考。
+LCS-Wdiff:	0.7916666666666666 
+--FP--
+#24:
+Not quite a healthy lunch for a growing kid , but that was the food she wanted and , like a lot of parents , that was the path of least resistance .
+对于一个成长中的孩子来说，这不是一顿健康的午餐，但那是她想要的食物，而且像许多父母一样，这是阻力最小的道路。
+Not exactly a healthy lunch for a growing kid , but that was the food she wanted and , like a lot of parents , that was the path of least resistance .
+对于一个成长中的孩子来说，这并不完全是一顿健康的午餐，但那是她想要的食物，并且像许多父母一样，这是阻力最小的道路。
+LCS-Wdiff:	0.8918918918918919 
+--FP--
+#40:
+From plants and flowers to scenes of people working on the farm and children playing , the paintings mirrored the unique charm and beauty of the lifestyle in the villages and surrounding countryside .
+从植物花草到农家劳作和孩子们玩耍的场景，这些画作反映了乡村和周边乡村生活方式的独特魅力和美感。
+From animals and flowers to scenes of people working on the farm and children playing , the paintings mirrored the unique charm and beauty of the lifestyle in the villages and surrounding countryside .
+从动物和花卉到农家劳作的人们和孩子们玩耍的场景，这些画作反映了乡村和周边乡村生活方式的独特魅力和美感。
+LCS-Wdiff:	0.9310344827586207 
+--FP--
+#41:
+From trees and flowers to scenes of people working on the farm and children playing , the paintings mirrored the unique charm and beauty of the lifestyle in the villages and surrounding countryside .
+从树木花草到农家劳作和孩子们玩耍的场景，这些画作反映了乡村和周边乡村生活方式的独特魅力和美感。
+From animals and flowers to scenes of people working on the farm and children playing , the paintings mirrored the unique charm and beauty of the lifestyle in the villages and surrounding countryside .
+从动物和花卉到农家劳作的人们和孩子们玩耍的场景，这些画作反映了乡村和周边乡村生活方式的独特魅力和美感。
+LCS-Wdiff:	0.9310344827586207 
+--FP--
+#44:
+To learn a piece of work , they must first make a sample on A4 paper , tell the instructor about the ideas , and then perfect it according to the instructor ' s advice .
+学习一件作品，首先要在A4纸上做样板，把想法告诉老师，然后按照老师的建议进行完善。
+To create a piece of work , they must first make a sample on A4 paper , tell the instructor about the ideas , and then perfect it according to the instructor ' s advice .
+创作一件作品，首先要在A4纸上打样，把想法告诉导师，然后根据导师的建议进行完善。
+LCS-Wdiff:	0.8260869565217391 
+--FP--
+#46:
+" Computer science trained me with rigorous scientific logic that draws a clear line between yes and no , " he says .
+“计算机科学用严格的科学逻辑训练我，在是与否之间划清界限，”他说。
+" Computer science trained me in rigorous scientific logic that draws a clear line between yes and no , " he says .
+“计算机科学训练了我严谨的科学逻辑，在是与否之间划清界限，”他说。
+LCS-Wdiff:	0.8 
+--FP--
+#53:
+" I have seen a lot of things inaccessible to the public and told a lot of stories unknown to people , " he says .
+“我看到了很多公众无法接触到的东西，并讲述了很多人们不知道的故事，”他说。
+" I have seen a lot of things inaccessible to the public and heard a lot of stories unknown to people , " he says .
+“我看到了很多公众无法接触到的东西，也听到了很多不为人知的故事，”他说。
+LCS-Wdiff:	0.9130434782608695 
+--FP--
+#63:
+Experts called on Thursday for more action in promoting peace and development , the themes of the times , given the ongoing tension in Ukraine and growing uncertainty worldwide .
+鉴于乌克兰的持续紧张局势和世界范围内日益增长的不确定性，专家们周四呼吁在促进和平与发展这一时代主题方面采取更多行动。
+Experts called on Thursday for more action in promoting peace and development , the themes of the times , amid the ongoing tension in Ukraine and growing uncertainty worldwide .
+专家们周四呼吁在乌克兰局势持续紧张和全球不确定性日益增加的情况下，采取更多行动促进和平与发展这一时代主题。
+LCS-Wdiff:	0.43333333333333335 
+--FP--
+#69:
+" We have seen a lot of things inaccessible to the public and heard a lot of stories unknown to people , " he says .
+“我们看到了很多公众无法接触到的东西，听到了很多人们不知道的故事，”他说。
+" I have seen a lot of things inaccessible to the public and heard a lot of stories unknown to people , " he says .
+“我看到了很多公众无法接触到的东西，也听到了很多不为人知的故事，”他说。
+LCS-Wdiff:	0.9130434782608695 
+--FP--
+#73:
+Most of the lectures were given by the archaeologists who unearthed the exhibits that lay in the showcases of the museum .
+大部分讲座由考古学家进行，他们出土了陈列在博物馆陈列柜中的展品。
+Some of the lectures were given by the archaeologists who unearthed the exhibits that lay in the showcases of the museum .
+一些讲座是由考古学家进行的，他们出土了博物馆陈列柜中的展品。
+LCS-Wdiff:	0.875 
+--FP--
+#74:
+" It may be a bit early to celebrate , but we want to take the opportunity to inspire the company ' s younger choreographers . "
+" 庆祝 可能 有点 早 , 但 我们 想 借此 机会 激励 公司 的 年轻 编舞 . "
+" It may be a bit early to celebrate , but I want to take the opportunity to inspire the company ' s younger choreographers . "
+“ 庆祝 可能 有点 早 , 但 我 想 借此 机会 激励 公司 的 年轻 编舞 . "
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#77:
+When painting , the artists need to polish the walls to make sure they are smooth .
+绘画时，艺术家需要打磨墙壁以确保它们光滑。
+Before painting , the artists need to polish the walls to make sure they are smooth .
+在绘画之前，艺术家们需要打磨墙壁以确保它们是光滑的。
+LCS-Wdiff:	0.7333333333333333 
+--FP--
+#79:
+It ' s a kind of folk art that was very popular in Tian ' s hometown , Wuxin county , Northwest China ' s Ningxia Hui autonomous region , during the 1960s and ' 70s .
+是 1960 和 70 年代 在 田 的 家乡 , 中国 西北 的 宁夏 回族 自治区 无心 县 流行 的 一种 民间 艺术 .
+It ' s a kind of folk art that was very popular in Tian ' s hometown , Tongxin county , Northwest China ' s Ningxia Hui autonomous region , during the 1960s and ' 70s .
+是 1960 年代 70 年代 在 田 的 家乡 , 中国 西北 的 宁夏 回族 自治区 同心 县 流行 的 一种 民间 艺术 .
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#80:
+" And here is more a reference to ' perfection ' rather than a specific number , hence the name . "
+" 这里 更多 是 对 ' 完美 ' 的 参考 , 而 不是 一个 特定 的 数字 , 因此 得名 . "
+" Ten here is more a reference to ' perfection ' rather than a specific number , hence the name . "
+" 这里 的 十 更多 是 指 ' 完美 ' 而 不是 一个 特定 的 数字 , 因此 得名 . "
+LCS-Wdiff:	0.95 
+--FP--
+#84:
+To make it up to my daughter , I would let her swim in the apartment compound ' s pool maybe three or four times that week .
+为了补偿我的女儿，我会让她在那一周去公寓的游泳池里游泳三四次。
+To make it up to my daughter , I would let her swim in the apartment compound ' s pool about three or four times that week .
+为了补偿我的女儿，我会让她在那一周在公寓的游泳池里游泳大约三四次。
+LCS-Wdiff:	0.95 
+--FP--
+#87:
+They then perform the required measurements and draw out the frame with simple , clean lines before drafting sketches with black and white pencils .
+然后，他们执行所需的测量，并用简单、干净的线条画出框架，然后用黑白铅笔绘制草图。
+They then perform the necessary measurements and draw out the frame with simple , clean lines before drafting sketches with black and white pencils .
+然后他们进行必要的测量，用简单、干净的线条画出框架，然后用黑白铅笔画草图。
+LCS-Wdiff:	0.8181818181818182 
+--FP--
+#88:
+After this , they need to scale up , enrich the details , and color it until the creation is complete , according to the " Ten Sisters " .
+根据“十姐妹”的说法，在这之后，他们需要放大、丰富细节、上色，直到创作完成。
+After that , they need to scale up , enrich the details , and color it until the creation is complete , according to the " Ten Sisters " .
+根据“十姐妹”的说法，在那之后，他们需要放大，丰富细节，上色，直到创作完成。
+LCS-Wdiff:	0.92 
+--FP--

@@ -1,0 +1,49 @@
+#1:
+Faced with the prospect of another sweltering summer in Beijing , those soothing moments of natural splendor would continue to linger in my mind .
+面对北京又一个闷热的夏天的前景，那些自然美景的舒缓时刻将继续萦绕在我的脑海中。
+Faced with the prospect of another sweltering summer in Beijing , those soothing moments of natural splendor will continue to linger in my mind .
+面对北京又一个闷热的夏天，那些自然美景的舒缓时刻将继续萦绕在我的脑海中。
+LCS-Wdiff:	1.0 
+--FN--
+#2:
+Faced with the prospect of another sweltering summer in Beijing , the soothing moments of natural splendor will continue to linger in my mind .
+面对北京又一个闷热的夏天的前景，自然美景的舒缓时刻将继续萦绕在我的脑海中。
+Faced with the prospect of another sweltering summer in Beijing , those soothing moments of natural splendor will continue to linger in my mind .
+面对北京又一个闷热的夏天，那些自然美景的舒缓时刻将继续萦绕在我的脑海中。
+LCS-Wdiff:	1.0 
+--FN--
+#34:
+Built in 2013 , they look brand new , with every inch perfectly finished by a team of craftspeople from Europe .
+它们建于2013年，外观全新，每一寸都由来自欧洲的工匠团队完美完成。
+Built in 2013 , they look brand new , with every inch perfectly finished by a team of craftsmen from Europe .
+它们建于2013年，外观全新，每一寸都由来自欧洲的工匠团队完美完成。
+LCS-Wdiff:	1.0 
+--FN--
+#40:
+She was impressed with the creative design of the admission ticket , which carries a miniature version of The Analects of Confucius .
+入场券的创意设计给她留下了深刻印象，入场券上印有《论语》的微型版本。
+She was impressed by the creative design of the admission ticket , which carries a miniature version of The Analects of Confucius .
+入场券的创意设计给她留下了深刻印象，入场券上印有《论语》的微型版本。
+LCS-Wdiff:	1.0 
+--FN--
+#60:
+President Xi Jinping ' s visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Zhang Feiyue in Beijing and Li Yingqing in Kunming .
+ 
+President Xi Jinping ' s visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Yang Feiyue in Beijing and Li Yingqing in Kunming .
+ 
+LCS-Wdiff:	1.0 
+--FN--
+#61:
+President Xi Jinping ' s visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Yang Feiyue in Beijing and Zhang Yingqing in Kunming .
+ 
+President Xi Jinping ' s visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Yang Feiyue in Beijing and Li Yingqing in Kunming .
+ 
+LCS-Wdiff:	1.0 
+--FN--
+#62:
+President Xi Jinping ' s visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Yang Feiyue in Beijing and Liu Yingqing in Kunming .
+ 
+President Xi Jinping ' s visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Yang Feiyue in Beijing and Li Yingqing in Kunming .
+ 
+LCS-Wdiff:	1.0 
+--FN--

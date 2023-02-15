@@ -1,0 +1,603 @@
+#0:
+"As the people move forward, the singing goes along smoothly," he adds, humming the melody while rubbing his hands.
+“随着人们的前进，歌唱进行得很顺利，”他补充道，一边搓手一边哼着旋律。
+"As the people move forward, the singing goes along smoothly," he adds, humming the melody.
+“随着人们的前进，演唱会进行得很顺利，”他哼着旋律补充道。
+--TN--
+#1:
+"As the people move forward, the singing goes along smoothly," he adds, humming the word while waving his hands.
+“当人们向前走的时候，歌唱进行得很顺利，”他补充道，一边挥手一边哼着歌词。
+"As the people move forward, the singing goes along smoothly," he adds, humming the word.
+“随着人们的前进，歌唱进行得很顺利，”他补充道，哼唱着这个词。
+--TN--
+#2:
+"As the people move forward, the singing goes along smoothly," he adds, humming the words while waving his hands.
+“随着人们的前进，歌唱进行得很顺利，”他补充道，一边挥手一边哼着歌词。
+"As the people move forward, the singing goes along smoothly," he adds, humming the words.
+“随着人们的前进，歌唱进行得很顺利，”他补充道，哼唱着歌词。
+--TN--
+#3:
+"If it is a change in the crack, the system will alert and help us to go to that person and check things out in there and stuff," he added.
+他补充说：“如果裂缝发生了变化，系统会发出警报，帮助我们找到那个人，检查里面的东西。”。
+"If it is a change in the crack, the system will alert and help us to go to that person and check things out and stuff," he added.
+他补充说：“如果裂缝发生了变化，系统会发出警报，帮助我们找到那个人，检查东西。”。
+--TN--
+#4:
+"If there is a change in the crack, the system will alert and help us to go to that place and check things out in order and accurately," he added.
+他补充说：“如果裂缝发生变化，系统将发出警报，帮助我们去那个地方，并按顺序准确地检查情况。”。
+"If there is a change in the crack, the system will alert and help us to go to that place and check things out and accurately," he added.
+他补充说：“如果裂缝发生变化，系统将发出警报，帮助我们去那个地方，准确地检查东西。”。
+--TN--
+#5:
+"If there is a change in the process, the system will alert and help us to go to that meeting and check things out in time and accurately," he added.
+他补充说：“如果流程发生变化，系统将发出警报，帮助我们及时、准确地参加会议并检查情况。”。
+"If there is a change in the process, the system will alert and help us to go to that meeting and check things out and accurately," he added.
+他补充说：“如果流程发生变化，系统将发出警报，帮助我们参加会议，准确地检查情况。”。
+--TN--
+#6:
+"If there is a change in the process, the system will alert and help us to go to that spot and check things out in time and stuff," he added.
+他补充道：“如果流程发生变化，系统将发出警报，帮助我们及时前往该地点查看情况。”。
+"If there is a change in the process, the system will alert and help us to go to that spot and check things out and stuff," he added.
+“如果过程发生变化，系统将发出警报，帮助我们去那个地方检查东西，”他补充道。
+--FP--
+--2--
+#7:
+"If there is a person in the building, the system will alert and help us to go to that spot and check things out in person and stuff," he added.
+他补充说：“如果大楼里有人，系统会发出警报，帮助我们去那个地方，亲自检查东西。”。
+"If there is a person in the building, the system will alert and help us to go to that spot and check things out and stuff," he added.
+他补充说：“如果大楼里有人，系统会发出警报，帮助我们去那个地方检查东西。”。
+--TN--
+#8:
+"If there is a person in the crack, the system will alert and help us to go to that place and check things out in person and stuff," he added.
+“如果有人在裂缝中，系统会发出警报，帮助我们去那个地方，亲自检查东西，”他补充道。
+"If there is a person in the crack, the system will alert and help us to go to that place and check things out and stuff," he added.
+“如果有人在裂缝中，系统会发出警报，帮助我们去那个地方检查东西，”他补充道。
+--TN--
+#9:
+"If there is a person in the house, the system will alert and help us to go to that spot and check things out and stuff," he added.
+“如果家里有人，系统会发出警报，帮助我们去那个地方检查东西，”他补充道。
+"If there is a person in the house, the system will alert and help us to go and check things out and stuff," he added.
+“如果家里有人，系统会发出警报，帮助我们去检查东西，”他补充道。
+--TN--
+#10:
+"If there is a woman in the room, the system will alert and help us to go to that spot and check things out and stuff," he added.
+“如果房间里有女人，系统会发出警报，帮助我们去那个地方检查东西，”他补充道。
+"If there is a woman in the room, the system will alert and help us to go and check things out and stuff," he added.
+“如果房间里有女人，系统会发出警报，帮助我们去检查东西，”他补充道。
+--TN--
+#11:
+"If there is a woman in the room, the system will alert and help us to go to that spot and check things out in time and stuff," he added.
+“如果房间里有女人，系统会发出警报，帮助我们去那个地方，及时检查东西，”他补充道。
+"If there is a woman in the room, the system will alert and help us to go to that spot and check things out and stuff," he added.
+“如果房间里有女人，系统会发出警报，帮助我们去那个地方检查东西，”他补充道。
+--TN--
+#12:
+"None of them have received any training, it is not easy to have such an imagination." That aside, the group has worked hard.
+“他们都没有接受过任何培训，要有这样的想象力并不容易。”除此之外，该小组一直在努力工作。
+"None of them have received any training, it is not easy." That aside, the group has worked hard.
+“他们都没有接受过任何培训，这并不容易。”除此之外，该小组一直努力工作。
+--TN--
+#13:
+At the end of the day, I would watch the news on TV, which had led the entire week with the historic events happening in Hong Kong.
+一天结束时，我会看电视上的新闻，整个星期都在报道香港发生的历史性事件。
+At the end of the day, I would watch the news on TV, which had led the entire week with the historic events happening.
+一天结束时，我会在电视上看新闻，这是整个星期历史性事件发生的导火索。
+--TP--
+#14:
+At the end of the day, I would watch the news on TV, which had led the entire week with the historic events happening.
+一天结束时，我会在电视上看新闻，这是整个星期历史性事件发生的导火索。
+At the end of the day, I would watch the news on TV, which had led the entire week.
+在一天结束时，我会在电视上看新闻，这已经主导了整整一周。
+--TP--
+#15:
+At the end of the day, I would watch the news on TV, which had led the entire week with the usual events happening in Hong Kong.
+在一天结束的时候，我会看电视上的新闻，整个星期都是在香港发生的常见事件中度过的。
+At the end of the day, I would watch the news on TV, which had led the entire week with the usual events happening.
+一天结束时，我会在电视上看新闻，这导致了整整一周通常发生的事情。
+--TP--
+#16:
+At the end of the day, I would watch the news on TV, which had led the first week with the historic events happening in Hong Kong.
+一天结束后，我会看电视新闻，这是香港发生历史性事件的第一周。
+At the end of the day, I would watch the news on TV, which had led the first week with the historic events happening.
+一天结束时，我会在电视上看新闻，这是历史性事件发生的第一周。
+--FN--
+#17:
+At the end of the day, I would watch the news on TV.
+一天结束时，我会看电视新闻。
+At the end of the day I would watch the news on TV.
+一天结束时，我会看电视新闻。
+--TN--
+#18:
+At the end of the story, I would watch the news on TV, which had led the entire week with the usual events happening in Hong Kong.
+在故事的最后，我会看电视上的新闻，整个星期都是在香港发生的常见事件中度过的。
+At the end of the story, I would watch the news on TV, which had led the entire week with the usual events happening.
+在故事的结尾，我会在电视上看新闻，这已经导致了整个星期的正常事件发生。
+--FN--
+#19:
+At the end of the story, I would watch the news on TV, which had led the entire week with the usual events happening.
+在故事的结尾，我会在电视上看新闻，这已经导致了整个星期的正常事件发生。
+At the end of the story, I would watch the news on TV, which had led the entire week.
+在故事的结尾，我会在电视上看新闻，这已经主导了整个星期。
+--FN--
+#20:
+At the start of the book, the lead character, anthropology Professor Huang Bai from Lengshan University, is confronted with a problem.
+在这本书的开头，主角、冷山大学人类学教授黄白遇到了一个问题。
+At the start of the book, the lead character, anthropology Professor Huang Bai, is confronted with a problem.
+在书的开头，主角、人类学教授黄白面临一个问题。
+--TN--
+#21:
+At the way of the day, I would watch the news on TV, which had led the entire group with the historic event happening.
+顺便说一句，我会在电视上看新闻，这让整个团队都知道了这一历史性事件的发生。
+At the way of the day, I would watch the news on TV, which had led the entire group.
+在那天的路上，我会看电视上的新闻，这是整个团队的头条新闻。
+--TP--
+#22:
+At the way of the world, I would watch the news on TV, which had led the first week with the historic event happening in Hong Kong.
+在《世界之路》（the way of the world），我会看电视新闻，这是香港发生历史性事件的第一周。
+At the way of the world, I would watch the news on TV, which had led the first week with the historic event happening.
+在《世界之路》（the way of the world），我会看电视新闻，这是历史性事件发生的第一周。
+--TN--
+#23:
+At the way of the world, I would watch the news on TV, which was led the entire week with the historic events happening in Hong Kong.
+在《the way of the world》节目中，我会看电视上的新闻，整个星期都是以香港发生的历史事件为线索的。
+At the way of the world, I would watch the news on TV, which was led the entire week with the historic events happening.
+在《世界之路》（the way of the world）上，我会在电视上观看新闻，整个星期都以发生的历史性事件为主导。
+--TP--
+#24:
+Choreographer Fei Bo will celebrate his 20th anniversary in the job with a selection of his creations being performed.
+编舞费波将在20周年庆典上表演他的一系列作品。
+Choreographer Fei Bo will celebrate his 20th anniversary in the job with a selection being performed.
+编舞费波将参加一场选拔赛，庆祝他担任编舞20周年。
+--TP--
+#25:
+Experts called on Thursday for more action in promoting peace and development, the themes of the campaign, amid the ongoing tension and growing fear worldwide.
+周四，专家们呼吁采取更多行动，促进和平与发展，这是这场运动的主题。目前，全球局势持续紧张，恐惧情绪日益加剧。
+Experts called on Thursday for more action in promoting peace and development, the themes of the campaign,.
+周四，专家们呼吁采取更多行动，促进和平与发展，这是该运动的主题，。
+--TN--
+#26:
+Experts called on Thursday for more action in promoting peace and justice, the themes of the film, amid the ongoing tension in europe and growing fear worldwide.
+周四，专家们呼吁在欧洲持续紧张局势和全世界日益增长的恐惧之际，采取更多行动促进和平与正义，这是电影的主题。
+Experts called on Thursday for more action in promoting peace and justice, the themes of the film, amid the ongoing tension and growing fear worldwide.
+周四，专家们呼吁采取更多行动，在全球持续紧张局势和日益增长的恐惧中促进和平与正义，这是电影的主题。
+--TN--
+#27:
+From animals and flowers to scenes of life working on the farm and kids playing, the paintings mirrored the unique charm and beauty of the paintings in the gallery and surrounding countryside.
+从动物和花卉到农场工作和孩子玩耍的生活场景，这些绘画反映了画廊和周围乡村绘画的独特魅力和美丽。
+From animals and flowers to scenes of life working on the farm and kids playing, the paintings mirrored the unique charm and beauty of the paintings.
+从动物和花卉到农场工作和孩子玩耍的生活场景，这些绘画反映了绘画的独特魅力和美丽。
+--TN--
+#28:
+From animals and flowers to scenes of life working on the farm and kids playing, the paintings mirrored the unique charm and beauty of the paintings.
+从动物和花卉到农场工作和孩子玩耍的生活场景，这些绘画反映了绘画的独特魅力和美丽。
+From animals and flowers to scenes of life working, the paintings mirrored the unique charm and beauty of the paintings.
+从动物和花卉到生活和工作场景，这些绘画反映了绘画的独特魅力和美丽。
+--TN--
+#29:
+From animals and flowers to scenes of nature throughout on the farm and kids playing, the paintings mirrored the unique charm and beauty of the lifestyle in the villages and surrounding countryside.
+从动物和花卉到整个农场的自然场景和孩子们的玩耍，这些绘画反映了村庄和周围乡村生活方式的独特魅力和美丽。
+From animals and flowers to scenes of nature throughout on the farm and kids playing, the paintings mirrored the unique charm and beauty of the lifestyle.
+从动物和花卉到整个农场的自然场景和孩子们的玩耍，这些绘画反映了生活方式的独特魅力和美丽。
+--TN--
+#30:
+From animals and flowers to scenes of nature working on the farm and children playing, the paintings mirrored the unique charm and beauty of the paintings in the house and surrounding countryside.
+从动物和花卉到农场上工作的自然场景和儿童玩耍，这些绘画反映了房屋和周围乡村绘画的独特魅力和美丽。
+From animals and flowers to scenes of nature working on the farm and children playing, the paintings mirrored the unique charm and beauty of the paintings.
+从动物和花卉到农场工作的自然场景和儿童玩耍，这些绘画反映了绘画的独特魅力和美丽。
+--TN--
+#31:
+From animals and flowers to scenes of nature working on the farm and children well, the paintings mirrored the unique charm and beauty of the paintings in the villages and surrounding countryside.
+从动物和花卉到在农场工作的自然场景以及儿童，这些绘画反映了村庄和周围乡村绘画的独特魅力和美丽。
+From animals and flowers to scenes of nature working on the farm and children well, the paintings mirrored the unique charm and beauty of the paintings.
+从动物和花卉到在农场工作的自然场景以及儿童，这些绘画反映了绘画的独特魅力和美丽。
+--TN--
+#32:
+From hearts and flowers to scenes of life today on the farm and children playing, the paintings mirrored the unique charm and beauty of the lifestyle.
+从心和花到今天农场上的生活场景和孩子们的玩耍，这些绘画反映了生活方式的独特魅力和美丽。
+From hearts and flowers to scenes of life today, the paintings mirrored the unique charm and beauty of the lifestyle.
+从心和花到今天的生活场景，这些绘画反映了生活方式的独特魅力和美丽。
+--TN--
+#33:
+From hearts and flowers to scenes of life working on the farm and children playing, the paintings mirrored the unique charm and beauty of the paintings in the area and surrounding countryside.
+从心形和花朵到农场工作和儿童玩耍的生活场景，这些绘画反映了该地区和周围乡村绘画的独特魅力和美丽。
+From hearts and flowers to scenes of life working on the farm and children playing, the paintings mirrored the unique charm and beauty of the paintings.
+从心和花到农场工作和儿童玩耍的生活场景，这些绘画反映了绘画的独特魅力和美丽。
+--TN--
+#34:
+From hearts and flowers to scenes of people working, the paintings mirrored the unique charm and beauty of the lifestyle.
+从心和花到人们工作的场景，这些绘画反映了生活方式的独特魅力和美丽。
+From hearts and flowers to scenes of people the paintings mirrored the charm beauty of the lifestyle.
+从心和花到人物的场景，这些绘画反映了生活方式的魅力和美丽。
+--TN--
+#35:
+From sun and flowers to be of people everywhere on the farm and children everywhere, the paintings mirrored the unique charm and beauty of the lifestyle in the villages and surrounding countryside.
+从阳光和鲜花，到农场里到处都是人，到处都是孩子，这些绘画反映了村庄和周围乡村生活方式的独特魅力和美丽。
+From sun and flowers to be of people everywhere on the farm and children everywhere, the paintings mirrored the unique charm and beauty of the lifestyle.
+从阳光和鲜花到农场上到处都是人，到处都是孩子，这些绘画反映了生活方式的独特魅力和美丽。
+--TN--
+#36:
+From sun and flowers to be of people everywhere on the farm and children playing, the paintings mirrored the unique charm and beauty of the lifestyle in the village and surrounding countryside.
+从阳光和鲜花到随处可见的农场上的人们和孩子们的玩耍，这些绘画反映了村庄和周围乡村生活方式的独特魅力和美丽。
+From sun and flowers to be of people everywhere on the farm and children playing, the paintings mirrored the unique charm and beauty of the lifestyle.
+从阳光和鲜花到随处可见的农场上的人们和孩子们的玩耍，这些绘画反映了生活方式的独特魅力和美丽。
+--TN--
+#37:
+From sun and flowers to be of people everywhere on the farm and children playing, the paintings mirrored the unique charm and beauty of the lifestyle in the villages and surrounding countryside.
+从阳光和鲜花到随处可见的农场上的人们和孩子们的玩耍，这些绘画反映了村庄和周围乡村生活方式的独特魅力和美丽。
+From sun and flowers to be of people everywhere on the farm and children playing, the paintings mirrored the unique charm and beauty of the lifestyle.
+从阳光和鲜花到随处可见的农场上的人们和孩子们的玩耍，这些绘画反映了生活方式的独特魅力和美丽。
+--TN--
+#38:
+From sun and flowers to be of people everywhere on the farm and just playing, the paintings mirrored the unique charm and beauty of the lifestyle in the village and surrounding countryside.
+从阳光和鲜花，到人们在农场上到处玩耍，这些绘画反映了村庄和周围乡村生活方式的独特魅力和美丽。
+From sun and flowers to be of people everywhere on the farm and just playing, the paintings mirrored the unique charm and beauty of the lifestyle.
+从阳光和鲜花，到人们在农场上到处玩耍，这些绘画反映了生活方式的独特魅力和美丽。
+--TN--
+#39:
+From sun and flowers to be of people working on the farm and children playing, the paintings mirrored the unique charm and beauty of the lifestyle in the village and surrounding countryside.
+从阳光和鲜花到人们在农场工作和孩子们玩耍的场景，这些绘画反映了村庄和周围乡村生活方式的独特魅力和美丽。
+From sun and flowers to be of people working on the farm and children playing, the paintings mirrored the unique charm and beauty of the lifestyle.
+从阳光和鲜花到人们在农场工作和孩子们玩耍的场景，这些绘画反映了生活方式的独特魅力和美丽。
+--TN--
+#40:
+From sun and flowers to be of service working on the farm and also playing, the paintings mirrored the unique charm and beauty of the area in the painting and surrounding countryside.
+从阳光和鲜花到在农场工作和玩耍，这些绘画反映了该地区和周围乡村的独特魅力和美丽。
+From sun and flowers to be of service working on the farm and also playing, the paintings mirrored the unique charm and beauty of the area.
+从阳光和鲜花到在农场工作和玩耍，这些绘画反映了该地区独特的魅力和美丽。
+--TN--
+#41:
+From sun and flowers to be of service working on the farm and children playing, the paintings mirrored the unique charm and beauty of the area in the landscape and surrounding countryside.
+从阳光和鲜花到在农场工作和儿童玩耍，这些绘画反映了该地区景观和周围乡村的独特魅力和美丽。
+From sun and flowers to be of service working on the farm and children playing, the paintings mirrored the unique charm and beauty of the area.
+从阳光和鲜花到在农场工作和儿童玩耍，这些绘画反映了该地区的独特魅力和美丽。
+--TN--
+#42:
+From sun and flowers to be of service working on the farm and children together, the paintings mirrored the unique charm and beauty of the area in the villages and surrounding people.
+从阳光和鲜花到服务农场和儿童，这些绘画反映了该地区村庄和周围居民的独特魅力和美丽。
+From sun and flowers to be of service working on the farm and children together, the paintings mirrored the unique charm and beauty of the area.
+从阳光和鲜花到服务农场和儿童，这些绘画反映了该地区的独特魅力和美丽。
+--TN--
+#43:
+From sun and flowers to me of people everywhere on the farm and children too, the paintings mirrored the unique charm and beauty of the lifestyle in the villages and surrounding towns.
+从阳光和鲜花到我，从农场里的人们到孩子们，这些绘画反映了村庄和周边城镇生活方式的独特魅力和美丽。
+From sun and flowers to me of people everywhere on the farm and children too, the paintings mirrored the unique charm and beauty of the lifestyle.
+从阳光和鲜花到我，从农场里的人们到孩子，这些绘画反映了生活方式的独特魅力和美丽。
+--TN--
+#44:
+From sun and flowers to me of people everywhere on the farm and just playing, the paintings mirrored the unique charm and beauty of the lifestyle in the villages and surrounding communities.
+从阳光和鲜花到我所看到的农场上到处都是玩耍的人们，这些绘画反映了村庄和周围社区生活方式的独特魅力和美丽。
+From sun and flowers to me of people everywhere on the farm and just playing, the paintings mirrored the unique charm and beauty of the lifestyle.
+从阳光和鲜花到我，到处都是在农场里玩耍的人们，这些绘画反映了生活方式的独特魅力和美丽。
+--TN--
+#45:
+From sun and flowers to me of people working on the farm and children too, the paintings mirrored the unique charm and beauty of the paintings in the villages and surrounding communities.
+从阳光和鲜花到我笔下的农场工人和儿童，这些绘画反映了村庄和周边社区绘画的独特魅力和美丽。
+From sun and flowers to me of people working on the farm and children too, the paintings mirrored the unique charm and beauty of the paintings.
+从阳光和鲜花到农场工人和儿童的我，这些绘画反映了绘画的独特魅力和美丽。
+--TN--
+#46:
+From sun and flowers to me of them too on the farm and children playing, the paintings mirrored the unique charm and beauty of the lifestyle in the village and surrounding countryside.
+从阳光和鲜花到农场上的孩子们玩耍的我，这些绘画反映了村庄和周围乡村生活方式的独特魅力和美丽。
+From sun and flowers to me of them too on the farm and children playing, the paintings mirrored the unique charm and beauty of the lifestyle.
+从阳光和鲜花到农场上的孩子们玩耍的我，这些绘画反映了生活方式的独特魅力和美丽。
+--FN--
+#47:
+From sun and flowers to me of them working on the farm and children playing, the paintings mirrored the unique charm and beauty of the house in the villages and surrounding homes.
+从阳光和鲜花到我，从他们在农场工作到孩子们玩耍，这些绘画反映了村庄和周围房屋的独特魅力和美丽。
+From sun and flowers to me of them working on the farm and children playing, the paintings mirrored the unique charm and beauty of the house.
+从阳光和鲜花到我，从他们在农场工作到孩子们玩耍，这些绘画反映了房子的独特魅力和美丽。
+--TN--
+#48:
+From sun and flowers to me of them working on the farm and children playing, the paintings mirrored the unique charm and beauty of the lifestyle in the village and surrounding countryside.
+从阳光和鲜花到我，从他们在农场工作到孩子们玩耍，这些绘画反映了村庄和周围乡村生活方式的独特魅力和美丽。
+From sun and flowers to me of them working on the farm and children playing, the paintings mirrored the unique charm and beauty of the lifestyle.
+从阳光和鲜花到我，从他们在农场工作到孩子们玩耍，这些绘画反映了生活方式的独特魅力和美丽。
+--TN--
+#49:
+From sun and flowers to scenes of life working on the farm and kids playing, the paintings mirrored the unique charm and beauty of the paintings in the gallery and surrounding countryside.
+从阳光和鲜花到农场工作和孩子们玩耍的生活场景，这些绘画反映了画廊和周围乡村绘画的独特魅力和美丽。
+From sun and flowers to scenes of life working on the farm and kids playing, the paintings mirrored the unique charm and beauty of the paintings.
+从阳光和鲜花到农场工作和孩子们玩耍的生活场景，这些绘画反映了绘画的独特魅力和美丽。
+--TN--
+#50:
+From sun and flowers to scenes of life working on the farm and kids playing, the paintings mirrored the unique charm and beauty of the paintings in the villages and surrounding countryside.
+从阳光和鲜花到农场工作和孩子们玩耍的生活场景，这些绘画反映了村庄和周围乡村绘画的独特魅力和美丽。
+From sun and flowers to scenes of life working on the farm and kids playing, the paintings mirrored the unique charm and beauty of the paintings.
+从阳光和鲜花到农场工作和孩子们玩耍的生活场景，这些绘画反映了绘画的独特魅力和美丽。
+--TN--
+#51:
+From sun and flowers to scenes of people working on the farm and children playing, the paintings mirrored the unique charm and beauty of the painting in the netherlands and surrounding countryside.
+从阳光和鲜花到人们在农场工作和孩子们玩耍的场景，这些绘画反映了这幅画在荷兰和周围乡村的独特魅力和美丽。
+From sun and flowers to scenes of people working on the farm and children playing, the paintings mirrored the unique charm and beauty of the painting.
+从阳光和鲜花到人们在农场工作和儿童玩耍的场景，这些绘画反映了这幅画的独特魅力和美丽。
+--TN--
+#52:
+From sun and flowers to scenes of people working on the farm and kids playing, the paintings mirrored the unique charm and beauty of the painting.
+从阳光和鲜花到人们在农场工作和孩子们玩耍的场景，这些绘画反映了这幅画的独特魅力和美丽。
+From sun and flowers to scenes of people working, the paintings mirrored the unique charm and beauty of the painting.
+从阳光和鲜花到人们工作的场景，这些绘画反映了这幅画的独特魅力和美丽。
+--TN--
+#53:
+I finally got her into the shower, dressed her hurriedly and did it to the next bus stop in time.
+我终于让她冲了个澡，匆匆穿好衣服，及时赶到下一个公共汽车站。
+I finally got her into the shower, dressed her hurriedly and did it to the next bus stop.
+我终于让她冲了个澡，匆忙地给她穿好衣服，然后去了下一个公共汽车站。
+--TN--
+#54:
+I finally got her into the shower, dressed her hurriedly and did it to the same bus stop in time.
+我终于让她冲了个澡，匆匆穿好衣服，及时赶到了同一个公交车站。
+I finally got her into the shower, dressed her hurriedly and did it to the same bus stop.
+我终于让她洗了个澡，匆忙地给她穿好衣服，然后去了同一个公交车站。
+--TN--
+#55:
+I finally got her into the shower, dressed her hurriedly and made it to the nearest bus stop in time.
+我终于让她冲了个澡，匆匆穿好衣服，及时赶到最近的公共汽车站。
+I finally got her into the shower, dressed her hurriedly and made it to the nearest bus stop.
+我终于让她冲了个澡，匆匆穿好衣服，赶到最近的公共汽车站。
+--TN--
+#56:
+It's a kind of folk art that was very popular in Tian's hometown, Tongxin county, Northwest China's Ningxia Hui autonomous region, during the 1960s and '70s.
+这是一种民间艺术，在20世纪60年代和70年代，在田的家乡宁夏回族自治区同心县非常流行。
+It's a kind of folk art that was very popular in Tian's hometown, Tongxin county, Northwest China's Ningxia Hui autonomous region,.
+这是一种民间艺术，在田的家乡宁夏回族自治区同心县非常流行，。
+--TN--
+#57:
+Lang first began exploring the masterpiece 20 years ago and enjoyed his recordings as the hon of a personal, emotional journey.
+20年前，郎朗首次开始探索这部杰作，并以个人情感之旅的主持人的身份欣赏了他的录音。
+Lang first began exploring the masterpiece 20 years ago and enjoyed his recordings as the hon.
+20年前，郎朗首次开始探索这部杰作，并以主持人的身份欣赏了他的录音。
+--TN--
+#58:
+Lang first began exploring the masterpiece 20 years ago and presented his story as the outcome of a personal, emotional journey.
+20年前，郎朗第一次开始探索这部杰作，并将他的故事作为个人情感旅程的结果呈现出来。
+Lang first began exploring the masterpiece 20 years ago and presented his story as the outcome.
+20年前，郎朗第一次开始探索这部杰作，并将他的故事作为结局呈现出来。
+--TN--
+#59:
+My daughter turned to look at me for one minute and muttered, partly in part: "I want mommy."
+我女儿转过身看了我一分钟，喃喃自语道：“我要妈妈。”
+My daughter turned to look at me for one minute and muttered,: "I want mommy."
+我女儿转过身看了我一分钟，喃喃自语道：“我要妈妈。”
+--FN--
+#60:
+Not exactly a healthy face for a growing family, but that was the food she wanted and, like a child of parents, that was the path.
+对于一个成长中的家庭来说，这并不是一张健康的脸，但这正是她想要的食物，就像一个父母的孩子一样，这就是道路。
+Not exactly a healthy face for a growing family, but that was the food she wanted and, like a child, that was the path.
+对于一个成长中的家庭来说，这并不是一张健康的脸，但这正是她想要的食物，就像一个孩子一样，这就是道路。
+--TN--
+#61:
+Not exactly a healthy lunch for a young kid, but that was the food she wanted and, like a child of parents, that was the path of least resistance.
+对于一个小孩子来说，这并不是一顿健康的午餐，但这正是她想要的食物，就像一个父母的孩子一样，这是一条阻力最小的道路。
+Not exactly a healthy lunch for a young kid, but that was the food she wanted and, like a child of parents, that was the path.
+对于一个小孩子来说，这并不是一顿健康的午餐，但这是她想要的食物，就像一个父母的孩子一样，这是一条道路。
+--TN--
+#62:
+Not exactly a healthy lunch for a young kid, but that was the same she wanted and, like a child, that was the path.
+这对一个小孩子来说并不是一顿健康的午餐，但这正是她想要的，就像一个孩子一样，这就是道路。
+Not exactly a healthy lunch for a young kid, but that was the same she wanted and,, that was the path.
+这对一个年轻的孩子来说并不是一顿健康的午餐，但这正是她想要的，这就是道路。
+--FP--
+--2--
+#63:
+People ask questions online such as: "Why should we read?" "Why should we study advanced mathematics?" "Why is it important?" And "why are the elderly valuable to human being?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习高等数学？”“为什么它很重要？”以及“为什么老年人对人类有价值？”
+People ask questions online such as: "Why should we read?" "Why should we study advanced mathematics?" "Why is it important?" And "why are the elderly valuable human?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习高等数学？”“为什么它很重要？”以及“为什么老年人是有价值的人？”
+--TN--
+#64:
+People ask questions online such as: "Why should we read?" "Why should we study advanced mathematics?" "Why is it important?" And "why are the elderly valuable to human life?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习高等数学？”“为什么它很重要？”以及“为什么老年人对人类生命有价值？”
+People ask questions online such as: "Why should we read?" "Why should we study advanced mathematics?" "Why is it important?" And "why are the elderly valuable human?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习高等数学？”“为什么它很重要？”以及“为什么老年人是有价值的人？”
+--TN--
+#65:
+People ask questions online such as: "Why should we read?" "Why should we study advanced mathematics?" "Why is logic human?" And "why are the elderly valuable to human being?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习高等数学？”“为什么逻辑是人类的？”以及“为什么老年人对人类有价值？”
+People ask questions online such as: "Why should we read?" "Why should we study advanced mathematics?" "Why is logic human?" And "why are the elderly valuable human?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习高等数学？”“为什么逻辑是人类的？”以及“为什么老年人是有价值的人？”
+--TN--
+#66:
+People ask questions online such as: "Why should we read?" "Why should we study advanced mathematics?" "Why is logic not?" And "why are the elderly valuable to human culture?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习高等数学？”“为什么逻辑不是？”以及“为什么老年人对人类文化有价值？”
+People ask questions online such as: "Why should we read?" "Why should we study advanced mathematics?" "Why is logic not?" And "why are the elderly valuable human?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习高等数学？”“为什么逻辑不是？”以及“为什么老年人是有价值的人？”
+--TN--
+#67:
+People ask questions online such as: "Why should we read?" "Why should we study advanced mathematics?" "Why is logic not?" And "why are the elderly valuable to human life?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习高等数学？”“为什么逻辑不是？”以及“为什么老年人对人类生命有价值？”
+People ask questions online such as: "Why should we read?" "Why should we study advanced mathematics?" "Why is logic not?" And "why are the elderly valuable human?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习高等数学？”“为什么逻辑不是？”以及“为什么老年人是有价值的人？”
+--TN--
+#68:
+People ask questions online such as: "Why should we read?" "Why should we study advanced ones?" "Why is logic not?" And "who are the elderly valuable human?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习先进的？”“为什么逻辑不是？”“谁是老年人？”
+People ask questions online such as: "Why should we read?" "Why should we study advanced ones?" "Why is logic not?" And "who are the elderly human?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习先进的？”“为什么逻辑不是？”还有“谁是老年人？”
+--TN--
+#69:
+People ask questions online such as: "Why should we read?" "Why should we study advanced ones?" "Why is logic so?" And "who are the elderly human?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习先进的？”“为什么逻辑如此？”还有“谁是老年人？”
+People ask questions online such as: "Why should we read?" "Why should we study advanced ones?" "Why?" And "who are the elderly human?"
+人们在网上问一些问题，比如：“我们为什么要读书？”“我们为什么要学习先进的？”“为什么？”还有“谁是老年人？”
+--TN--
+#70:
+People ask questions online such as: "Why should we read?" "Why?" "And" why are the elderly human? "
+人们在网上问一些问题，比如：“我们为什么要读书？”“为什么？”以及“为什么老年人是人类？”？"
+People ask questions online such as: "Why should we read?" ""And" why are the elderly human? "
+人们在网上问一些问题，比如：“我们为什么要读书？”“为什么老年人是人类？”
+--TN--
+#71:
+Piano virtuoso Lang Lang announces collaboration with the NCPA to establish a Beijing branch of his music school, Chen Nan reports.
+据陈楠报道，钢琴大师郎朗宣布与NCPA合作，成立其音乐学校北京分校。
+Piano virtuoso Lang Lang announces collaboration with the NCPA to establish a Beijing branch, Chen Nan reports.
+据陈楠报道，钢琴大师郎朗宣布与NCPA合作成立北京分公司。
+--TP--
+#72:
+Practical cooperation needs to be deepened to create a new cooperation of cultural and social communication as well as cooperation under the guidance of the Belt and Road Initiative. ”
+需要深化务实合作，在“一带一路”倡议倡议的指导下，打造新的文化和社会交流合作。”
+Practical cooperation needs to be deepened to create a new cooperation of cultural and social communication as well as cooperation under the guidance. ”
+需要深化务实合作，创造一种新的文化和社会交流合作，以及指导下的合作。”
+--FN--
+#73:
+Practical cooperation needs to be deepened to create a new relationship of cultural and tourism communication as well as cooperation under the guidance of the rail and Road Initiative. ”
+需要深化务实合作，以建立新的文化和旅游交流关系，并在铁路和公路倡议的指导下开展合作。”
+Practical cooperation needs to be deepened to create a new relationship of cultural and tourism communication as well as cooperation under the guidance. ”
+需要深化务实合作，以建立一种新的文化和旅游交流关系，并在此指导下开展合作。”
+--TN--
+#74:
+She learned to draw, with her mother, when she was a child and now, at the age, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了画画，现在，在这个年龄，她仍然在画画，并试图保留这一传统。
+She learned to draw, with her mother, when she was a child and now,, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了画画，现在，她仍在画画，并试图保留这一传统。
+--TN--
+#75:
+She learned to draw, with her mother, when she was a child and now, at the time, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了画画，现在，她仍在画画，并试图保留这一传统。
+She learned to draw, with her mother, when she was a child and now,, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了画画，现在，她仍在画画，并试图保留这一传统。
+--TN--
+#76:
+She learned to paint, with her father, when she was a child and now, at the university of 54, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和父亲一起学习绘画，现在，在54岁的大学里，她仍在绘画，并试图保留这一传统。
+She learned to paint, with her father, when she was a child and now, at the university, she is still painting and trying to preserve the tradition.
+她小时候和父亲一起学习绘画，现在在大学里，她仍在绘画，并试图保留这一传统。
+--TN--
+#77:
+She learned to paint, with her father, when she was a child and now,, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和她的父亲一起学习绘画，现在，她仍在绘画，并试图保留这一传统。
+She learned to paint, with her father,, she is still painting and trying to preserve the tradition.
+她和父亲一起学会了画画，她仍在画画，并试图保留这一传统。
+--TN--
+#78:
+She learned to paint, with her mother, when he was a child and now, at the school of 54, she is still painting and trying to preserve the tradition.
+当母亲还是个孩子的时候，她和母亲一起学习绘画，现在，在54岁的学校，她仍在绘画，并试图保留这一传统。
+She learned to paint, with her mother, when he was a child and now, at the school, she is still painting and trying to preserve the tradition.
+小时候，她和母亲一起学习绘画，现在，在学校里，她仍在绘画，并试图保留这一传统。
+--TN--
+#79:
+She learned to paint, with her mother, when he was a child and now, at the time of 54, she is still painting and trying to preserve the tradition.
+当母亲还是个孩子的时候，她就和母亲一起学会了绘画。现在，54岁的她仍然在绘画，并试图保留这一传统。
+She learned to paint, with her mother, when he was a child and now, at the time, she is still painting and trying to preserve the tradition.
+当她母亲还是个孩子的时候，她就和母亲一起学会了绘画，而现在，她仍在绘画，并试图保留这一传统。
+--TN--
+#80:
+She learned to paint, with her mother, when she was a child and now, at the age, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了绘画，现在，在这个年龄，她仍然在绘画，并试图保留这一传统。
+She learned to paint, with her mother, when she was a child and now,, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了绘画，现在，她仍在绘画，并试图保留这一传统。
+--TN--
+#81:
+She learned to paint, with her mother, when she was a child and now, at the school of 54, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学习绘画，现在，在54岁的学校里，她仍然在绘画，并试图保留这一传统。
+She learned to paint, with her mother, when she was a child and now, at the school, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了绘画，现在，在学校里，她仍在绘画，并试图保留这一传统。
+--TN--
+#82:
+She learned to paint, with her mother, when she was a child and now, at the school, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了绘画，现在，在学校里，她仍在绘画，并试图保留这一传统。
+She learned to paint, with her mother, when she was a child and now,, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了绘画，现在，她仍在绘画，并试图保留这一传统。
+--TN--
+#83:
+She learned to paint, with her mother, when she was a child and now, at the university, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了绘画，现在，在大学里，她仍在绘画，并试图保留这一传统。
+She learned to paint, with her mother, when she was a child and now,, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了绘画，现在，她仍在绘画，并试图保留这一传统。
+--TN--
+#84:
+She learned to paint, with her mother, when she was a child and now,, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了绘画，现在，她仍在绘画，并试图保留这一传统。
+She learned to paint, with her mother,, she is still painting and trying to preserve the tradition.
+她和母亲一起学会了画画，她仍在画画，并试图保留这一传统。
+--TN--
+#85:
+She learned to paint, with her mother, when she was a child and then, at the time, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了绘画，然后，在那个时候，她仍然在绘画，并试图保留这一传统。
+She learned to paint, with her mother, when she was a child and then,, she is still painting and trying to preserve the tradition.
+当她还是个孩子的时候，她和母亲一起学会了绘画，然后，她仍然在绘画，并试图保留这一传统。
+--TN--
+#86:
+She learned to paint, with her mother, when she was a student and now, at the age of 54, she is still painting and trying to preserve the tradition.
+当她还是一名学生时，她和母亲一起学会了绘画。现在，54岁的她仍然在绘画，并试图保留这一传统。
+She learned to paint, with her mother, when she was a student and now, at the age, she is still painting and trying to preserve the tradition.
+当她还是一名学生时，她和母亲一起学会了绘画，现在，在这个年龄，她仍在绘画，并试图保留这一传统。
+--TN--
+#87:
+She learned to paint, with her mother, when she was a student and now, at the age, she is still painting and trying to preserve the tradition.
+当她还是一名学生时，她和母亲一起学会了绘画，现在，在这个年龄，她仍在绘画，并试图保留这一传统。
+She learned to paint, with her mother, when she was a student and now,, she is still painting and trying to preserve the tradition.
+当她还是一名学生时，她和母亲一起学会了绘画，现在，她仍在绘画，并试图保留这一传统。
+--TN--
+#88:
+The US and some other Western countries have been intervening in other countries' domestic affairs and even use military force, posing great threat to make peace, he said.
+他说，美国和其他一些西方国家一直在干涉别国内政，甚至使用武力，对缔造和平构成了巨大威胁。
+The US and some other Western countries have been intervening in other countries' domestic affairs and even use military force, posing great threat, he said.
+他说，美国和其他一些西方国家一直在干涉别国内政，甚至使用武力，构成了巨大威胁。
+--TN--
+#89:
+The US and some other Western countries have been intervening in their countries' domestic affairs and even use military force, posing great threat, he said.
+他说，美国和其他一些西方国家一直在干涉他们国家的内政，甚至使用武力，构成了巨大的威胁。
+The US and some other Western countries have been intervening in countries affairs and even use military force, posing great threat, he said.
+他说，美国和其他一些西方国家一直在干预国家事务，甚至使用武力，构成了巨大威胁。
+--TN--
+#90:
+The US and some other Western nations have been intervening in other countries' domestic affairs and even use military force, posing great threat to world order, he said.
+他说，美国和其他一些西方国家一直在干涉别国内政，甚至使用武力，对世界秩序构成了巨大威胁。
+The US and some other Western nations have been intervening in other countries' domestic affairs and even use military force, posing great threat, he said.
+他说，美国和其他一些西方国家一直在干涉别国内政，甚至使用武力，构成了巨大威胁。
+--TN--
+#91:
+The project, designed by SYN Architects, pays tribute to the village's long history in advanced agriculture, and blends itself smartly into the surrounding farmlands and natural views.
+该项目由SYN Architects设计，旨在向该村在先进农业方面的悠久历史致敬，并巧妙地融入周围的农田和自然景观。
+The project, designed by SYN Architects, pays tribute to the village's long history in advanced agriculture, and blends itself.
+该项目由SYN Architects设计，旨在向该村在先进农业方面的悠久历史致敬，并将其融合在一起。
+--FP--
+--2--
+#92:
+This is the first time we have put on an outdoor show in europe of audiences next to the ocean.
+这是我们第一次在欧洲举办面向海洋旁观众的户外演出。
+This is the first time we have put on an outdoor show in europe of audiences next.
+这是我们下一次首次在欧洲为观众举办户外表演。
+--FN--
+#93:
+Until one day, a security guard asked me to move faster because my audience were, "he says.
+直到有一天，一名保安要求我动作快点，因为我的观众都很紧张，”他说。
+Until one day, a security guard asked me to move faster, "he says.
+直到有一天，一名保安让我走得更快，”他说。
+--FN--
+#94:
+Until one day, a security guard asked me to move faster than my audience were in the building, "he says.
+直到有一天，一名保安要求我移动得比大楼里的观众快，”他说。
+Until one day, a security guard asked me to move faster than my audience were, "he says.
+直到有一天，一名保安要求我比观众走得快，”他说。
+--FN--
+#95:
+Zhang addressed the assembly and said the Belt and Road Initiative has entered a new period with outstanding achievements and steady development since it was launched.
+张在大会上说，“一带一路”倡议倡议启动以来，已经进入了一个新的时期，取得了突出成绩，稳步发展。
+Zhang addressed the assembly and said the Belt and Road Initiative has entered a new period with outstanding achievements and steady development.
+张在大会上说，“一带一路”倡议建设进入新时期，取得了突出成绩，稳步发展。
+--TP--
+#96:
+Zhang and the girls trained hard, and soon, teachers and students have great improvement in the world, which attracted more students to join.
+张和女孩们刻苦训练，很快，全世界的老师和学生都有了很大的进步，这吸引了更多的学生加入。
+Zhang and the girls trained hard, and soon, teachers and students have great improvement in the world,.
+张和女孩们刻苦训练，很快，全世界的老师和学生都有了很大的进步，。
+--TN--
+#97:
+he 12th Beijing International Film Festival, which is gaining increasing cultural influence in recent years, will be held in Beijing from Aug 13.
+第十二届北京国际电影节将于8月13日起在北京举行。近年来，北京国际电影展的文化影响力日益增强。
+he 12th Beijing International Film Festival, which is gaining increasing cultural influence in recent years, will be held in Beijing.
+第十二届北京国际电影节将在北京举行。近年来，北京国际电影展的文化影响力日益增强。
+--TN--
+#98:
+he 12th Beijing International Film Festival, which is gaining increasing global influence in recent years, will be held in Beijing from Aug 13 to 20.
+第十二届北京国际电影节将于8月13日至20日在北京举行。近年来，北京国际电影展在全球的影响力与日俱增。
+he 12th Beijing International Film Festival, which is gaining increasing global influence in recent years, will be held in Beijing from Aug 13.
+第十二届北京国际电影节将于8月13日起在北京举行。近年来，北京国际电影展在全球的影响力与日俱增。
+--TN--
+#99:
+local governments have put in effort to promote painting among farmers.
+地方政府已努力在农民中推广绘画。
+Over the chinese local governments have put in effort to promote painting among farmers.
+多年来，中国地方政府一直致力于在农民中推广绘画。
+--TP--

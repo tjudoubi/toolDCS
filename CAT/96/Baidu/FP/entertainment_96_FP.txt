@@ -1,0 +1,133 @@
+#57:
+A look at some of the shows and movies streaming through Netflix , Amazon , Hulu and Disney + in August .
+看看8月份通过Netflix、亚马逊、Hulu和迪斯尼+播放的一些节目和电影。
+A look at some of the shows and movies streaming on Netflix , Amazon , Hulu and Disney + in August .
+看看8月份在Netflix、亚马逊、Hulu和迪斯尼+上播放的一些节目和电影。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#58:
+Bronx native Mero described Lopez as a smart , " South side Jamaica , Queens kid " who graduated with honors from college and came across Mero ' s comedy writing before she became famous .
+布朗克斯土生土长的梅洛形容洛佩兹是一个聪明的“牙买加南区，皇后区的孩子”，她以优异的成绩毕业，在成名前偶然发现了梅洛的喜剧作品。
+Bronx native Mero described Lopez as a smart , " South side Jamaica , Queens kid " who graduated with honors from college and came across Mero ' s comedy writing before he became famous .
+布朗克斯土生土长的梅罗称洛佩兹是一个聪明的“牙买加南区，皇后区的孩子”，他以优异的成绩毕业，在成名前偶然发现了梅罗的喜剧作品。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#60:
+Only she could drop a track titled " America Has a Problem " and instead of delivering a statement about the state of the country , she lets us know she " Ca n ' t wait to back it up .
+只有她才能播放一首名为“美国有问题”的歌曲，她没有发表关于美国状况的声明，而是让我们知道她“迫不及待地想支持它”。
+Only she could drop a track titled " America Has a Problem " and instead of delivering a message about the state of the country , she lets us know she " Ca n ' t wait to back it up .
+只有她才能播放一首名为“美国有问题”的歌曲，她没有向我们传达关于美国现状的信息，而是让我们知道她“迫不及待地想支持它”。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#63:
+" We similar , we not congruent , " Yaro said of him and Desus during Hoffa ' s podcast , which appears to have been recorded before the split .
+“我们是相似的，我们不是一致的，”亚罗在霍法的播客中谈到他和德苏斯时说，这似乎是在分裂之前录制的。
+" We similar , we not congruent , " Mero said of him and Desus during Hoffa ' s podcast , which appears to have been recorded before the split .
+“我们是相似的，我们不是一致的，”梅罗在霍法的播客中谈到他和德索斯时说，这似乎是在分裂之前录制的。
+LCS-Wdiff:	0.9375 
+--FP--
+#64:
+He later apologizes to her , their children , and his fellow Academy Award nominees in the post .
+后来，他向她、他们的孩子以及其他奥斯卡提名人道歉。
+He also apologizes to her , their children , and his fellow Academy Award nominees in the post .
+他还向她、他们的孩子和其他奥斯卡提名人道歉。
+LCS-Wdiff:	0.9285714285714286 
+--FP--
+#67:
+He continued : " I ' m honored to say that I ' m a Backstreet Boy , and I ' m proud to be a Backstreet Boy in 2022 .
+他继续说道：“我很荣幸地说我是一个后街男孩，我为2022年成为后街男孩而自豪。
+He added : " I ' m honored to say that I ' m a Backstreet Boy , and I ' m proud to be a Backstreet Boy in 2022 .
+他补充道：“我很荣幸地说我是一个后街男孩，我为2022年成为后街男孩感到骄傲。
+LCS-Wdiff:	0.9230769230769231 
+--FP--
+#68:
+On Instagram , she thanked Beyoncé and her collaborators , writing , " To share my deep house music roots and black queer and trans culture with you and the world is profound and emotional .
+在Instagram上，她感谢碧昂斯和她的合作者，并写道：“与你们分享我的深层音乐根源和黑人酷儿和跨文化，世界是深刻和感性的。
+On Instagram , she thanked Beyoncé and her collaborators , writing , " To share my Chicago house music roots and black queer and trans culture with you and the world is profound and emotional .
+在Instagram上，她感谢碧昂斯和她的合作者，并写道：“与你们分享我在芝加哥的音乐根源以及黑人酷儿和跨文化，这个世界是深刻而感性的。
+LCS-Wdiff:	0.918918918918919 
+--FP--
+#71:
+Smith sighs then offers his thoughts about an altercation that made headlines worldwide and tarnished my image .
+史密斯叹了口气，然后讲述了他对一场引起全世界头条新闻、玷污我形象的争吵的看法。
+Smith sighs then offers his thoughts about an altercation that made headlines worldwide and tarnished his image .
+史密斯叹了口气，然后表达了他对这场引起全世界头条新闻、玷污了他形象的争吵的看法。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#72:
+Nigerian singer Tems sings a cover of Bob Marley ' s " No Woman , No Cry , " " A Body , A Coffin " by Amaarae and " Soy " by Santa Fe Klan also feature on the album .
+尼日利亚歌手Tems演唱了Bob Marley的《没有女人，没有哭泣》、《阿玛雷的一具尸体，一具棺材》和Santa Fe Klan的《大豆》的封面，这张专辑也出现在专辑中。
+Nigerian artist Tems sings a cover of Bob Marley ' s " No Woman , No Cry , " " A Body , A Coffin " by Amaarae and " Soy " by Santa Fe Klan also feature on the album .
+尼日利亚艺术家Tems演唱了鲍勃·马利的《没有女人，没有哭泣》、《阿玛雷的一具尸体，一具棺材》和圣达菲三K党的《大豆》的封面，这张专辑也出现在专辑中。
+LCS-Wdiff:	0.9047619047619048 
+--FP--
+#73:
+CNN later reached out to Lopez and reps for Desus , Mero and Showtime for comment about the allegations .
+CNN随后联系了洛佩兹以及德苏斯、梅罗和Showtime的代表，就这些指控发表评论。
+CNN has reached out to Lopez and reps for Desus , Mero and Showtime for comment about the allegations .
+CNN已经联系了洛佩兹以及Desus、Mero和Showtime的代表，就这些指控发表评论。
+LCS-Wdiff:	0.8947368421052632 
+--FP--
+#77:
+On Instagram , she thanked Beyoncé and her collaborators , stating , " To share my Chicago house music roots and black queer and trans culture with you and the world is profound and emotional .
+在Instagram上，她感谢碧昂斯和她的合作者，并表示：“与你们分享我在芝加哥的音乐根源和黑人酷儿以及跨文化，这是一个深刻而感人的世界。
+On Instagram , she thanked Beyoncé and her collaborators , writing , " To share my Chicago house music roots and black queer and trans culture with you and the world is profound and emotional .
+在Instagram上，她感谢碧昂斯和她的合作者，并写道：“与你们分享我在芝加哥的音乐根源以及黑人酷儿和跨文化，这个世界是深刻而感性的。
+LCS-Wdiff:	0.8648648648648649 
+--FP--
+#78:
+Will Smith is " deeply remorseful " for slapping Chris Rock at the Academy Awards in March .
+威尔·史密斯因在三月份的奥斯卡颁奖典礼上打了克里斯·洛克一巴掌而“深感悔恨”。
+Will Smith is " deeply remorseful " about slapping Chris Rock at the Academy Awards in March .
+威尔·史密斯对三月份在奥斯卡颁奖典礼上打了克里斯·洛克一巴掌“深感懊悔”。
+LCS-Wdiff:	0.85 
+--FP--
+#84:
+" Thank you to all of the pioneers who originate culture , to all of the fallen angels whose deeds have gone unrecognized for far too long , " Bey wrote .
+贝伊写道：“感谢所有开创这种文化的先驱者，感谢所有堕落的天使，他们的事迹已经太久没有得到承认了。”。
+" Thank you to all of the pioneers who originate culture , to all of the fallen angels whose contributions have gone unrecognized for far too long , " Bey wrote .
+贝伊写道：“感谢所有开创这种文化的先驱者，感谢所有堕落天使，他们的贡献太久以来都未被认可。”。
+LCS-Wdiff:	0.8214285714285714 
+--FP--
+#89:
+Judge José Jesús Juberías argued that Shakira lived more than 200 days in Spain in each of those three years , making her liable to pay taxes in the country .
+法官JoséJesús Juberías认为，这三年中，夏奇拉每年在西班牙生活超过200天，因此她有责任在西班牙纳税。
+Judge Marco Jesús Juberías argued that Shakira lived more than 200 days in Spain in each of those three years , making her liable to pay taxes in the country .
+法官马尔科·耶苏斯·朱贝里亚斯认为，这三年中，夏奇拉每年在西班牙生活超过200天，因此她有责任在西班牙纳税。
+LCS-Wdiff:	0.75 
+--FP--
+#90:
+" You asked a lot of fair questions that I needed to take some time to answer .
+“你问了很多公平的问题，我需要花点时间来回答。
+" You asked a lot of fair questions that I wanted to take some time to answer .
+“你问了很多公平的问题，我想花点时间回答。
+LCS-Wdiff:	0.75 
+--FP--
+#91:
+Judge Juan Jesús Juberías argued that Shakira lived more than 200 days in Spain in each of those three years , making her liable to pay taxes in the country .
+Juan Jesús Juberías法官辩称，这三年中，夏奇拉每年在西班牙生活超过200天，因此她有责任在西班牙纳税。
+Judge Marco Jesús Juberías argued that Shakira lived more than 200 days in Spain in each of those three years , making her liable to pay taxes in the country .
+法官马尔科·耶苏斯·朱贝里亚斯认为，这三年中，夏奇拉每年在西班牙生活超过200天，因此她有责任在西班牙纳税。
+LCS-Wdiff:	0.7419354838709677 
+--FP--
+#92:
+Beyoncé ' s " Renaissance " album dropped Friday so you may want to stay off social media and you do n ' t care about that .
+碧昂斯的“文艺复兴”专辑周五被取消，所以你可能想远离社交媒体，而你对此并不在意。
+Beyoncé ' s " Renaissance " album dropped Friday so you may want to stay off social media if you do n ' t care about that .
+碧昂斯的“文艺复兴”专辑周五被取消，如果你不在乎的话，你可能想远离社交媒体。
+LCS-Wdiff:	0.7391304347826086 
+--FP--
+#93:
+Beyoncé ' s " Renaissance " album dropped Friday so you may want to stay off social media because you do n ' t care about that .
+碧昂斯的“文艺复兴”专辑周五被取消，所以你可能想远离社交媒体，因为你不在乎这一点。
+Beyoncé ' s " Renaissance " album dropped Friday so you may want to stay off social media if you do n ' t care about that .
+碧昂斯的“文艺复兴”专辑周五被取消，如果你不在乎的话，你可能想远离社交媒体。
+LCS-Wdiff:	0.7391304347826086 
+--FP--
+#94:
+It ' s not a full album yet , although three songs from the " Black Panther : Wakanda Forever " soundtrack are now available for streaming .
+虽然《黑豹：永远的Wakanda》原声带中的三首歌曲现在可以流媒体播放，但这张专辑还没有完整。
+It ' s not a full album yet , but three songs from the " Black Panther : Wakanda Forever " soundtrack are now available for streaming .
+这张专辑还不完整，但《黑豹：永远的和干达》原声带中的三首歌曲现在可以流媒体播放。
+LCS-Wdiff:	0.6666666666666666 
+--FP--

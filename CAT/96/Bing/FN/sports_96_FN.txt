@@ -1,0 +1,14 @@
+#13:
+Kennedy was at the match with his son and witnessed the chaos first hand , telling CNN Sport ' s Don Riddell he got caught in the crush at the ticket turnstiles .
+肯尼迪和他的儿子一起参加了比赛，亲眼目睹了混乱，他告诉CNN体育的唐·里德尔，他在十字转门上陷入了迷恋。
+Kennedy was at the match with his son and experienced the chaos first hand , telling CNN Sport ' s Don Riddell he got caught in the crush at the ticket turnstiles .
+肯尼迪和他的儿子一起参加了比赛，亲身经历了混乱，他告诉CNN体育的唐·里德尔，他在检票转门上陷入了迷恋。
+LCS-Wdiff:	0.967741935483871 
+--FN--
+#48:
+Coffman , meanwhile , says she fears for the future of the sport and the potential difficulty of attracting new judges given Zhou ' s alleged behavior .
+与此同时，科夫曼说，她担心这项运动的未来，以及鉴于周的所谓行为，吸引新裁判的潜在困难。
+Huffman , meanwhile , says she fears for the future of the sport and the potential difficulty of attracting new judges given Zhou ' s alleged behavior .
+与此同时，霍夫曼说，她担心这项运动的未来，以及鉴于周的所谓行为，吸引新裁判的潜在困难。
+LCS-Wdiff:	1.0 
+--FN--

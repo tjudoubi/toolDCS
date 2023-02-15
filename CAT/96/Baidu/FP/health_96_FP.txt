@@ -1,0 +1,91 @@
+#71:
+The US has ordered more of this vaccine , and the government plans to make 1 . 25 million more doses of the Synneos vaccine available through the summer and fall , the administration said .
+美国政府表示，美国已经订购了更多这种疫苗，政府计划在整个夏季和秋季增加125万剂Synneos疫苗。
+The US has ordered more of this vaccine , and the government plans to make 1 . 25 million more doses of the Jynneos vaccine available through the summer and fall , the administration said .
+美国政府表示，美国已经订购了更多这种疫苗，政府计划在整个夏季和秋季再提供125万剂Jynneos疫苗。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#73:
+" Pfizer and Moderna have indicated that they anticipate the modified vaccines being available as early as September , " an FDA spokesman said .
+“辉瑞和摩德纳已表示，他们预计最早将于9月推出改良疫苗，”FDA发言人说。
+" Pfizer and Moderna have indicated that they anticipate the modified vaccines being available as early as September , " an FDA spokesperson said .
+“辉瑞和摩德纳已表示，他们预计最早在9月就能获得改良疫苗，”FDA发言人说。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#75:
+As of Friday , the United States had than 5 , 000 probable or confirmed monkeypox cases , according to CDC data .
+根据疾病预防控制中心的数据，截至周五，美国有5000多例疑似或确诊猴痘病例。
+As of Friday , the United States has than 5 , 000 probable or confirmed monkeypox cases , according to CDC data .
+根据疾病控制与预防中心的数据，截至周五，美国有5000多例疑似或确诊猴痘病例。
+LCS-Wdiff:	0.95 
+--FP--
+#76:
+A new study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴里说，一项新的研究有助于缓解人们在联系朋友时所面临的焦虑。
+This new study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴里说，这项新研究有助于缓解人们在联系朋友时所面临的焦虑。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#77:
+As of Friday , New York City ' s official health department website says all available appointments for vaccines have been filled at this time .
+截至周五，纽约市卫生部官方网站称，目前所有可用的疫苗预约都已满。
+As of Friday , New York City ' s public health department website says all available appointments for vaccines have been filled at this time .
+截至周五，纽约市公共卫生部网站称，目前所有可用的疫苗预约都已满。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#80:
+So far in the United States , there have been 306 cases of monkeypox identified in 28 jurisdictions .
+到目前为止，在美国28个司法管辖区已发现306例猴痘病例。
+So far in the United States , there have been 306 cases of monkeypox identified across 28 jurisdictions .
+到目前为止，美国28个司法管辖区共发现306例猴痘病例。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#81:
+Michael Osterholm who leads the Center for Infectious Disease Research and Policy at the University of Minnesota .
+迈克尔·奥斯特罗姆，明尼苏达大学传染病研究和政策中心负责人。
+Michael Osterholm who directs the Center for Infectious Disease Research and Policy at the University of Minnesota .
+迈克尔·奥斯特霍姆，明尼苏达大学传染病研究和政策中心主任。
+LCS-Wdiff:	0.9166666666666666 
+--FP--
+#83:
+Neither the baby nor its parents had any other close contacts before it got sick .
+婴儿和父母在生病前都没有任何其他亲密接触。
+Neither the baby nor its parents had any other close contacts before they got sick .
+婴儿及其父母在生病前都没有任何其他密切接触者。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#84:
+Individuals who work with the federal government say they are working hard on the issue .
+与联邦政府合作的个人表示，他们正在努力解决这个问题。
+People who work with the federal government say they are working hard on the issue .
+联邦政府工作人员表示，他们正在努力解决这个问题。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#90:
+" It ' s presumed not to be safe to be able to be used in patients with HIV , " Varma said .
+Varma说：“据推测，将其用于HIV患者是不安全的。”。
+" It ' s presumed not to be safe to be able to be used in people with HIV , " Varma said .
+Varma说：“据推测，用于艾滋病毒携带者并不安全。”。
+LCS-Wdiff:	0.8125 
+--FP--
+#92:
+On Tuesday , HHS also activated the CDC ' s Emergency Operations Center to allow the agency more flexibility and manpower to manage the nation ' s monkeypox response .
+周二，卫生和公众服务部还启动了疾病预防控制中心的紧急行动中心，以使该机构在管理国家猴痘反应方面具有更大的灵活性和人力。
+On Tuesday , HHS also activated the CDC ' s Emergency Operations Center to give the agency more flexibility and manpower to manage the nation ' s monkeypox response .
+周二，卫生和公众服务部还启动了疾病预防控制中心的紧急行动中心，为该机构提供更大的灵活性和人力来管理国家的猴痘反应。
+LCS-Wdiff:	0.75 
+--FP--
+#98:
+The first is a newer , modern vaccine called Jynneos that is manufactured by the Danish company Bavarian Nordic .
+第一种是由丹麦巴伐利亚北欧公司生产的新型现代疫苗Jynneos。
+The first is a newer , modern vaccine called Jynneos which is manufactured by the Danish company Bavarian Nordic .
+第一种是一种新的现代疫苗，名为Jynneos，由丹麦巴伐利亚北欧公司生产。
+LCS-Wdiff:	0.5 
+--FP--
+#100:
+" It ' s considered not to be safe to be able to be used in people with HIV , " Varma said .
+“这被认为是不安全的，能够用于艾滋病毒携带者，”瓦尔马说。
+" It ' s presumed not to be safe to be able to be used in people with HIV , " Varma said .
+Varma说：“据推测，用于艾滋病毒携带者并不安全。”。
+LCS-Wdiff:	0.4375 
+--FP--

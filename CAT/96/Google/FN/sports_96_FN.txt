@@ -1,0 +1,28 @@
+#13:
+Kennedy was at the match with his son and witnessed the chaos first hand , telling CNN Sport ' s Don Riddell he got caught in the crush at the ticket turnstiles .
+肯尼迪和他的儿子在比赛中亲眼目睹了混乱，他告诉美国有线电视新闻网体育频道的唐·里德尔，他在检票口被夹住了。
+Kennedy was at the match with his son and experienced the chaos first hand , telling CNN Sport ' s Don Riddell he got caught in the crush at the ticket turnstiles .
+肯尼迪和他的儿子在比赛中亲身经历了混乱，他告诉美国有线电视新闻网体育频道的唐·里德尔，他在检票口被夹住了。
+LCS-Wdiff:	1.0 
+--FN--
+#34:
+With the support from Rana , Brian and the rest of the family , it feels as though nothing is impossible when it comes to Zach Bates .
+在 Rana、Brian 和其他家庭成员的支持下，Zach Bates 似乎没有什么是不可能的。
+With the support of Rana , Brian and the rest of the family , it feels as though nothing is impossible when it comes to Zach Bates .
+在 Rana、Brian 和其他家庭成员的支持下，Zach Bates 感觉好像没有什么是不可能的。
+LCS-Wdiff:	1.0 
+--FN--
+#49:
+" However , performance enhancements are normally the central concern for ambitious athletes , as athletes themselves and by others are continually evaluating their accomplishments , " the medical commission added .
+“然而，提高成绩通常是雄心勃勃的运动员最关心的问题，因为运动员自己和其他人都在不断地评估他们的成就，”医学委员会补充说。
+" Ultimately , performance enhancements are normally the central concern for ambitious athletes , as athletes themselves and by others are continually evaluating their accomplishments , " the medical commission added .
+“归根结底，提高成绩通常是雄心勃勃的运动员最关心的问题，因为运动员自己和其他人都在不断地评估他们的成就，”医学委员会补充说。
+LCS-Wdiff:	1.0 
+--FN--
+#97:
+Mark Reber reflected on the transformative impact of even brief dips in the pool in helping alleviate the weight of the previous year , literally and figuratively .
+马克·雷伯（Mark Reber）从字面上和比喻上反映了在帮助减轻前一年的重量方面即使是短暂的下降所带来的变革性影响。
+Mark Lieber reflected on the transformative impact of even brief dips in the pool in helping alleviate the weight of the previous year , literally and figuratively .
+马克·利伯（Mark Lieber）从字面上和比喻上反映了在帮助减轻前一年的重量方面即使是短暂的下降所带来的变革性影响。
+LCS-Wdiff:	0.96875 
+--FN--

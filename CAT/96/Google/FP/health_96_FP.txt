@@ -1,0 +1,154 @@
+#5:
+This longitudinal study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+Akbari 说，这项纵向研究可以帮助缓解人们在联系朋友时所面临的焦虑。
+This new study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴里说，这项新研究可以帮助缓解人们在联系朋友时所面临的焦虑。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#6:
+The agency also recommends that people wear a mask for 30 days after their symptoms come back .
+该机构还建议人们在症状复发后戴口罩 30 天。
+The agency also recommends that people wear a mask for 10 days after their symptoms come back .
+该机构还建议人们在症状恢复后戴口罩 10 天。
+LCS-Wdiff:	0.9230769230769231 
+--FP--
+#19:
+Currently , 10 states could be considered to be in the first tier for priority in ordering vaccines .
+目前，有10个州可以被认为是优先订购疫苗的第一梯队。
+Currently , 10 states would be considered to be in the first tier for priority in ordering vaccines .
+目前，10个州将被视为优先订购疫苗的第一梯队。
+LCS-Wdiff:	0.8571428571428571 
+--FP--
+#20:
+The CDC says that wearing a condom can help , but alone , it probably will not protect against the spread of monkeypox .
+疾病预防控制中心说，戴安全套会有帮助，但单独使用它可能无法防止猴痘的传播。
+The CDC says that wearing a condom may help , but alone , it probably will not protect against the spread of monkeypox .
+疾病预防控制中心说，戴安全套可能会有所帮助，但单独使用它可能无法防止猴痘的传播。
+LCS-Wdiff:	0.9545454545454546 
+--FP--
+#32:
+The San Francisco Department of Public Health has confirmed 261 cases of monkeypox in the city , while California has a total of 798 cases .
+旧金山公共卫生部已在该市确认了261例猴痘病例，而加州共有798例。
+The San Francisco Department of Public Health has confirmed 261 cases of monkeypox in the city , while California has a total of 799 cases .
+旧金山公共卫生部已确认该市有261例猴痘病例，而加利福尼亚州共有799例。
+LCS-Wdiff:	0.8235294117647058 
+--FP--
+#34:
+According the White House , over the past six months , filled prescriptions for Paxlovid have climbed from about 27 , 000 a week to 182 , 000 a week .
+据白宫称，在过去六个月中，Paxlovid 的处方已从每周约 27,000 份攀升至每周 182,000 份。
+According the White House , over the past two months , filled prescriptions for Paxlovid have climbed from about 27 , 000 a week to 182 , 000 a week .
+据白宫称，在过去的两个月里，Paxlovid 的处方已从每周约 27,000 份攀升至每周 182,000 份。
+LCS-Wdiff:	0.8666666666666667 
+--FP--
+#36:
+He started n ' t have any symptoms when he saw the baby , who was his grandson , but about eight hours later , he started to feel ill again .
+当他看到他的孙子这个婴儿时，他开始没有任何症状，但大约八小时后，他又开始感到不适。
+He did n ' t have any symptoms when he saw the baby , who was his grandson , but about eight hours later , he started to feel ill again .
+当他看到这个是他孙子的婴儿时没有任何症状，但大约八小时后，他又开始感到不适。
+LCS-Wdiff:	0.9166666666666666 
+--FP--
+#39:
+As helpful as it is , though , researchers say people should be aware the drug will not completely extinguish the infection .
+尽管它很有帮助，但研究人员说人们应该意识到这种药物不会完全消灭感染。
+As helpful as it is , though , researchers say people should be aware the drug may not completely extinguish the infection .
+尽管它很有帮助，但研究人员说人们应该意识到这种药物可能无法完全消除感染。
+LCS-Wdiff:	0.95 
+--FP--
+#40:
+As dangerous as it is , though , researchers say people should be aware the drug may not completely extinguish the infection .
+尽管它很危险，但研究人员说人们应该意识到这种药物可能无法完全消灭感染。
+As helpful as it is , though , researchers say people should be aware the drug may not completely extinguish the infection .
+尽管它很有帮助，但研究人员说人们应该意识到这种药物可能无法完全消除感染。
+LCS-Wdiff:	0.95 
+--FP--
+#44:
+It would feel awkward to pick up the phone and make a call , but the connection will likely be more genuine , she added .
+她 补充 说 , 拿起 电话 打电话 会 感觉 很 尴尬 , 但 联系 可能 会 更加 真实 .
+It might feel awkward to pick up the phone and make a call , but the connection will likely be more genuine , she added .
+她 补充 说 , 拿起 电话 打电话 可能 会 感觉 很 尴尬 , 但 联系 可能 会 更加 真诚 .
+LCS-Wdiff:	0.95 
+--FP--
+#51:
+On Wednesday , more than 100 members of Congress wrote a letter to the Biden administration urging additional funding for sexual health clinics to improve the monkeypox response effort .
+周三，100 多名国会议员致信拜登政府，敦促为性健康诊所提供额外资金，以改善猴痘应对工作。
+On Monday , more than 100 members of Congress wrote a letter to the Biden administration urging additional funding for sexual health clinics to improve the monkeypox response effort .
+周一，100 多名国会议员致信拜登政府，敦促为性健康诊所提供更多资金，以改善猴痘应对工作。
+LCS-Wdiff:	0.9545454545454546 
+--FP--
+#57:
+But even with that education , it can be hard to detect a case of monkeypox , in part because the rash is n ' t always distinctive , Caveney said .
+但是即使有这样的教育，也很难发现猴痘病例，部分原因是皮疹并不总是很明显，卡维尼说。
+But even with that education , it can be difficult to detect a case of monkeypox , in part because the rash is n ' t always distinctive , Caveney said .
+但即使接受了这样的教育，也很难发现猴痘病例，部分原因是皮疹并不总是具有独特性，Caveney 说。
+LCS-Wdiff:	0.8076923076923077 
+--FP--
+#61:
+pseudomallei is commonly found in tropical regions , and US cases are usually connected to travel .
+pseudomallei 常见于热带地区，美国病例通常与旅行有关。
+pseudomallei is typically found in tropical regions , and US cases are usually connected to travel .
+pseudomallei 通常在热带地区发现，美国病例通常与旅行有关。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#63:
+Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi , the first detection of these bacteria in the environment in the US .
+Burkholderia pseudomallei 是在密西西比州墨西哥湾沿岸地区发现的，这是美国在环境中首次检测到这些细菌。
+Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi , the first detection of the bacteria in the environment in the US .
+Burkholderia pseudomallei 是在密西西比州墨西哥湾沿岸地区发现的，这是美国首次在环境中检测到这种细菌。
+LCS-Wdiff:	0.95 
+--FP--
+#70:
+While the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，虽然人们联系的主要方式是通过私人通信方式，但最糟糕的情况是接收者没有回应。
+Since the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，由于人们联系的主要方式是通过私人通信方式，因此最糟糕的情况是接收者没有回应。
+LCS-Wdiff:	0.96 
+--FP--
+#73:
+" Pfizer and Moderna have indicated that they anticipate the modified vaccines being available as early as September , " an FDA spokesman said .
+“辉瑞和 Moderna 已经表示，他们预计修改后的疫苗最早可在 9 月上市，”FDA 的一位发言人说。
+" Pfizer and Moderna have indicated that they anticipate the modified vaccines being available as early as September , " an FDA spokesperson said .
+“辉瑞和Moderna已经表示，他们预计修改后的疫苗最早可以在9月份上市，”FDA发言人说。
+LCS-Wdiff:	0.92 
+--FP--
+#76:
+A new study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴里说，一项新的研究可以帮助缓解人们在联系朋友时所面临的焦虑。
+This new study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴里说，这项新研究可以帮助缓解人们在联系朋友时所面临的焦虑。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#77:
+As of Friday , New York City ' s official health department website says all available appointments for vaccines have been filled at this time .
+截至周五，纽约市卫生部门官方网站称，此时所有可用的疫苗预约都已满员。
+As of Friday , New York City ' s public health department website says all available appointments for vaccines have been filled at this time .
+截至周五，纽约市公共卫生部门的网站称，此时所有可用的疫苗预约都已满员。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#82:
+Although the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，虽然人们联系的主要方式是通过私人通信方式，但最糟糕的情况是接收者不回应。
+Since the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，由于人们联系的主要方式是通过私人通信方式，因此最糟糕的情况是接收者没有回应。
+LCS-Wdiff:	0.92 
+--FP--
+#85:
+There are 300 , 000 doses that were being held by the manufacturer and are currently on the way .
+制造商持有 300, 000 剂，目前正在生产中。
+There are 300 , 000 doses that were being held by the manufacturer that are currently on the way .
+有 300, 000 剂由制造商持有，目前正在生产中。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#89:
+Neither the baby nor its father had any other close contacts before they got sick .
+婴儿和他的父亲在生病之前都没有任何其他密切接触者。
+Neither the baby nor its parents had any other close contacts before they got sick .
+婴儿和它的父母在生病之前都没有任何其他密切接触者。
+LCS-Wdiff:	0.9285714285714286 
+--FP--
+#92:
+On Tuesday , HHS also activated the CDC ' s Emergency Operations Center to allow the agency more flexibility and manpower to manage the nation ' s monkeypox response .
+周二，HHS 还启动了 CDC 的紧急行动中心，以使该机构有更大的灵活性和人力来管理国家的猴痘响应。
+On Tuesday , HHS also activated the CDC ' s Emergency Operations Center to give the agency more flexibility and manpower to manage the nation ' s monkeypox response .
+周二，HHS 还启动了 CDC 的紧急行动中心，以赋予该机构更多的灵活性和人力来管理国家的猴痘响应。
+LCS-Wdiff:	0.9285714285714286 
+--FP--

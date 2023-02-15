@@ -1,0 +1,700 @@
+#1:
+The " Alan " in question is Liu ' s cousin , Alan Babington - Smith , a consultant banker who has lived in China since 2000 .
+问题中的“艾伦”是刘的表弟艾伦·巴宾顿-史密斯，他是一名顾问银行家，自2000年以来一直居住在中国。
+The " Alan " in question is Liu ' s partner , Alan Babington - Smith , a consultant banker who has lived in China since 2000 .
+问题中的“艾伦”是刘的合伙人艾伦·巴宾顿-史密斯，他是一名顾问银行家，自2000年以来一直居住在中国。
+LCS-Wdiff:	1.0 
+--TN--
+#2:
+The " Alan " in question is Liu ' s partner , Alan Babington - Smith , a consultant banker who had lived in China since 2000 .
+问题中的“艾伦”是刘的合伙人艾伦·巴宾顿-史密斯，他是一名顾问银行家，自2000年以来一直居住在中国。
+The " Alan " in question is Liu ' s partner , Alan Babington - Smith , a consultant banker who has lived in China since 2000 .
+问题中的“艾伦”是刘的合伙人艾伦·巴宾顿-史密斯，他是一名顾问银行家，自2000年以来一直居住在中国。
+LCS-Wdiff:	1.0 
+--TN--
+#3:
+Although online fashion shows can reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀可以吸引更多的观众，但成本可能与线下时装秀相似。
+Although online fashion shows could reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀可以吸引更多的观众，但成本可能与线下时装秀相似。
+LCS-Wdiff:	1.0 
+--TN--
+#4:
+That was Bradley ' s first time to be on a helicopter , and he was too absorbed with the " stunning " view of the beautiful coastline .
+那是布拉德利第一次坐直升机，他太专注于美丽海岸线的“绝美”景色了。
+That was Bradley ' s first time to be in a helicopter , and he was too absorbed with the " stunning " view of the beautiful coastline .
+那是布拉德利第一次坐直升机，他太专注于美丽海岸线的“绝美”景色了。
+LCS-Wdiff:	1.0 
+--TN--
+#5:
+By sequencing all the human genes contained in each human cell , officially completed in June 2003 , all sorts of genetic variations have been linked to increased susceptibility to a specific illness .
+通过2003年6月正式完成的每个人类细胞中所有人类基因的测序，各种基因变异都与特定疾病的易感性增加有关。
+By sequencing all the human genes contained in each human cell , officially completed in April 2003 , all sorts of genetic variations have been linked to increased susceptibility to a specific illness .
+通过2003年4月正式完成的每个人类细胞中所有人类基因的测序，各种基因变异都与特定疾病的易感性增加有关。
+LCS-Wdiff:	1.0 
+--TN--
+#6:
+By sequencing all the human genes contained in each human cell , officially completed in May 2003 , all sorts of genetic variations have been linked to increased susceptibility to a specific illness .
+通过2003年5月正式完成的每个人类细胞中所有人类基因的测序，各种基因变异都与特定疾病的易感性增加有关。
+By sequencing all the human genes contained in each human cell , officially completed in April 2003 , all sorts of genetic variations have been linked to increased susceptibility to a specific illness .
+通过2003年4月正式完成的每个人类细胞中所有人类基因的测序，各种基因变异都与特定疾病的易感性增加有关。
+LCS-Wdiff:	1.0 
+--TN--
+#7:
+Employing a 3D technology supporter for her show filming was an ultraexpensive burden for the startup company , the post - 90s designer said .
+这位90后设计师说，雇佣一名3D技术支持者来拍摄她的节目对这家初创公司来说是一个极其昂贵的负担。
+Employing a 3D technology supporter for her show filming is an ultraexpensive burden for the startup company , the post - 90s designer said .
+这位90后设计师说，雇佣一名3D技术支持者来拍摄她的节目对这家初创公司来说是一个极其昂贵的负担。
+LCS-Wdiff:	1.0 
+--TN--
+#8:
+Employing a 3D technology supporter for her show filming is an ultraexpensive burden to the startup company , the post - 90s designer said .
+这位90后设计师说，雇佣一名3D技术支持者来拍摄她的节目对这家初创公司来说是一个极其昂贵的负担。
+Employing a 3D technology supporter for her show filming is an ultraexpensive burden for the startup company , the post - 90s designer said .
+这位90后设计师说，雇佣一名3D技术支持者来拍摄她的节目对这家初创公司来说是一个极其昂贵的负担。
+LCS-Wdiff:	1.0 
+--TN--
+#9:
+Employing a 3D technology supporter for her show filming is an inexpensive burden for the startup company , the post - 90s designer said .
+这位90后设计师说，雇佣一名3D技术支持者来拍摄她的节目对这家初创公司来说是一个不太昂贵的负担。
+Employing a 3D technology supporter for her show filming is an ultraexpensive burden for the startup company , the post - 90s designer said .
+这位90后设计师说，雇佣一名3D技术支持者来拍摄她的节目对这家初创公司来说是一个极其昂贵的负担。
+LCS-Wdiff:	1.0 
+--TN--
+#10:
+Many designers participated in this unique fashion show , referring the digitalization would be the focus of the next development of many brands .
+许多设计师参加了这场独特的时装秀，表示数字化将是许多品牌下一步发展的重点。
+Many designers participated in this unique fashion show , referring the digitalization will be the focus of the next development of many brands .
+许多设计师参加了这场独特的时装秀，表示数字化将是许多品牌下一步发展的重点。
+LCS-Wdiff:	1.0 
+--TN--
+#11:
+A placenta is the organ where nutrients and gases pass back and forth between the mother and developing baby .
+胎盘是营养物质和气体在母亲和发育中的婴儿之间来回传递的器官。
+The placenta is the organ where nutrients and gases pass back and forth between the mother and developing baby .
+胎盘是营养物质和气体在母亲和发育中的婴儿之间来回传递的器官。
+LCS-Wdiff:	1.0 
+--TN--
+#12:
+Similarly , the number of points within a cluster tells us how many cells there are of that type .
+类似地，一个簇内的点数告诉我们该类型的细胞有多少。
+Also , the number of points within a cluster tells us how many cells there are of that type .
+此外，一个簇内的点数告诉我们该类型的细胞有多少。
+LCS-Wdiff:	1.0 
+--TN--
+#13:
+Bamboo weaving is a time - honored handicraft that has been passed down for generations in Maoba township , Fengshun county , Xiangxi Tujia and Miao autonomous prefecture , Hunan province .
+竹编是湖南省湘西土家族苗族自治州丰顺县茅坝乡一项历史悠久的手工艺，世代相传。
+Bamboo weaving is a time - honored handicraft that has been passed down for generations in Maoba township , Yongshun county , Xiangxi Tujia and Miao autonomous prefecture , Hunan province .
+竹编是湖南省湘西土家族苗族自治州永顺县茅坝乡一项历史悠久的手工艺，世代相传。
+LCS-Wdiff:	1.0 
+--TN--
+#14:
+The scientists repeated the experiment several times , and it soon became apparent they really had stumbled upon a new type of cell in the trachea .
+科学家们重复了几次实验，很快就发现他们真的在气管中发现了一种新型细胞。
+The scientists repeated the experiment several times , and it soon became clear they really had stumbled upon a new type of cell in the trachea .
+科学家们重复了几次实验，很快就发现他们真的在气管中发现了一种新型细胞。
+LCS-Wdiff:	1.0 
+--FN--
+#15:
+Instead , the immune cells we met earlier , natural killer cells , well known for killing infected cells or cancer cells , take on a completely different , more constructive job within the womb : helping build the placenta .
+相反，我们之前遇到的免疫细胞，即以杀死感染细胞或癌细胞而闻名的自然杀伤细胞，在子宫内承担着一项完全不同、更具建设性的工作：帮助构建胎盘。
+Instead , the immune cells we met earlier , natural killer cells , well known for killing infected cells or cancer cells , take on a completely different , more constructive job in the womb : helping build the placenta .
+相反，我们之前遇到的免疫细胞，即以杀死感染细胞或癌细胞而闻名的自然杀伤细胞，在子宫中承担着一项完全不同、更具建设性的工作：帮助构建胎盘。
+LCS-Wdiff:	1.0 
+--TN--
+#16:
+Similar cells are positioned close together , whereas cells using very different sets of genes are far apart .
+相似的细胞定位在一起，而使用不同基因集的细胞相距很远。
+Similar cells are positioned close together , while cells using very different sets of genes are far apart .
+相似的细胞定位在一起，而使用非常不同基因集的细胞相距很远。
+LCS-Wdiff:	1.0 
+--TN--
+#17:
+Climbing over the high mountains , passing the blue lake below , both buses seem connected as they negotiated the winding plateau highway .
+爬过高山，经过下面的蓝色湖泊，两辆公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+Climbing over the high mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+爬过高山，经过下面的蓝色湖泊，公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+LCS-Wdiff:	1.0 
+--FN--
+#18:
+China , however , has spent years developing a combination of production incentives , local engineering talent and a cohesive supply chain ecosystem that will be hard to replicate elsewhere .
+然而，中国花了数年时间，将生产激励、本地工程人才和紧密的供应链生态系统结合起来，这在其他地方很难复制。
+China , however , has spent years developing a combination of production incentives , local engineering talent and a cohesive supply chain ecosystem that will be difficult to replicate elsewhere .
+然而，中国花了数年时间，将生产激励、本地工程人才和紧密的供应链生态系统结合起来，这在其他地方很难复制。
+LCS-Wdiff:	1.0 
+--TN--
+#19:
+Which ones out of all the 100 , 000 human genes a particular cell is using – called the cell ' s transcriptome – can then be analysed to create a " map " of different cells .
+然后，可以分析特定细胞使用的100000个人类基因中的哪一个——称为细胞转录组——来创建不同细胞的“图谱”。
+Which ones out of all the 20 , 000 human genes a particular cell is using – called the cell ' s transcriptome – can then be analysed to create a " map " of different cells .
+然后，可以分析特定细胞使用的20000个人类基因中的哪一个——称为细胞转录组——来创建不同细胞的“图谱”。
+LCS-Wdiff:	1.0 
+--TN--
+#20:
+The digital fashion show came to a successful conclusion , Xia was amazed and moved when reviewing this trial .
+数码时装秀圆满结束，夏在回顾这一试验时感到惊讶和感动。
+The digital fashion show came to a successful conclusion , Xia felt amazed and moved when reviewing this trial .
+数码时装秀圆满结束，夏在回顾此次试穿时感到惊讶和感动。
+LCS-Wdiff:	1.0 
+--TN--
+#21:
+" While the Covid lockdowns will force some companies to diversify their manufacturing locations , the zero - Covid policy will not permanently damage China ' s status , " Paul Triolo , executive vice president at strategic advisory firm Dentons Global advisors , told CNN Business .
+战略咨询公司Dentons Global advisors的执行副总裁保罗·特里奥（Paul Triolo）对CNN Business表示：“虽然新冠疫情封锁将迫使一些公司实现生产基地多元化，但零新冠疫情政策不会永久损害中国的地位。”。
+" While the Covid lockdowns will force some companies to diversify their manufacturing locations , the zero - Covid policy will not permanently damage China ' s status , " Paul Triolo , senior vice president at strategic advisory firm Dentons Global advisors , told CNN Business .
+战略咨询公司Dentons Global advisors的高级副总裁保罗·特里奥（Paul Triolo）对CNN Business表示：“虽然新冠疫情封锁将迫使一些公司实现生产基地多元化，但零新冠疫情政策不会永久损害中国的地位。”。
+LCS-Wdiff:	1.0 
+--TN--
+#22:
+Of course , this is one of the most vital missions of science : to stop human disease before it ever begins .
+当然，这是科学最重要的使命之一：在人类疾病开始之前阻止它。
+Of course , this is one of the most vital missions of science : to stop human disease before it even begins .
+当然，这是科学最重要的使命之一：在人类疾病开始之前阻止它。
+LCS-Wdiff:	1.0 
+--TN--
+#23:
+Of course , this is one of the most vital missions of science : to stop human disease before it even starts .
+当然，这是科学最重要的使命之一：在人类疾病开始之前阻止它。
+Of course , this is one of the most vital missions of science : to stop human disease before it even begins .
+当然，这是科学最重要的使命之一：在人类疾病开始之前阻止它。
+LCS-Wdiff:	1.0 
+--TN--
+#24:
+When the two teams looked in detail into what made these cells stand out , they came across something astonishing .
+当两个小组详细研究这些细胞的突出之处时，他们发现了一些惊人的东西。
+When the two teams looked in detail at what made these cells stand out , they came across something astonishing .
+当两个小组详细研究这些细胞的突出之处时，他们发现了一些惊人的东西。
+LCS-Wdiff:	1.0 
+--TN--
+#25:
+Zhang and the girls trained hard , and soon , parents and students saw great improvement in the team , which attracted more students to join .
+张和女孩们刻苦训练，很快，家长和学生们看到了球队的巨大进步，吸引了更多的学生加入。
+Zhang and the girls trained hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+张和女孩们刻苦训练，很快，老师和学生们看到了球队的巨大进步，吸引了更多的学生加入。
+LCS-Wdiff:	1.0 
+--TN--
+#26:
+Cook founded Apple in 1998 , a few years before the company began having its products manufactured in China .
+库克于1998年创立了苹果，几年后该公司开始在中国生产其产品。
+Cook joined Apple in 1998 , a few years before the company began having its products manufactured in China .
+库克于1998年加入苹果，几年后该公司开始在中国生产其产品。
+LCS-Wdiff:	1.0 
+--TN--
+#27:
+A part of the Dongguan - based Mingyue company with investment from Japan , it is the only factory that produces garage kit figures in Southwest China .
+它是总部位于东莞的明月公司的一部分，由日本投资，是中国西南地区唯一一家生产车库套件的工厂。
+A subsidiary of the Dongguan - based Mingyue company with investment from Japan , it is the only factory that produces garage kit figures in Southwest China .
+它是总部位于东莞的明月公司的子公司，由日本投资，是中国西南地区唯一一家生产车库套件的工厂。
+LCS-Wdiff:	1.0 
+--FN--
+#28:
+It ' s useful as it indicates an increased risk of medical problems arising , such as type 2 diabetes , and steps can be taken to reduce the likelihood of this occurring .
+它很有用，因为它表明出现医疗问题的风险增加，如2型糖尿病，并且可以采取措施降低发生这种情况的可能性。
+It ' s useful as it indicates an increased risk of health problems arising , such as type 2 diabetes , and steps can be taken to reduce the likelihood of this occurring .
+它很有用，因为它表明出现健康问题的风险增加，如2型糖尿病，并且可以采取措施降低发生这种情况的可能性。
+LCS-Wdiff:	1.0 
+--TN--
+#29:
+Apple has also faced scrutiny over the years for the working conditions at several of its suppliers ' facilities .
+多年来，苹果公司还面临着对其几家供应商工厂工作条件的审查。
+Apple has also faced scrutiny over the years for the working conditions at some of its suppliers ' facilities .
+多年来，苹果公司还面临着一些供应商工厂工作条件的审查。
+LCS-Wdiff:	1.0 
+--TN--
+#30:
+Apple has also received scrutiny over the years for the working conditions at some of its suppliers ' facilities .
+多年来，苹果公司还收到了一些供应商工厂工作条件的审查。
+Apple has also faced scrutiny over the years for the working conditions at some of its suppliers ' facilities .
+多年来，苹果公司还面临着一些供应商工厂工作条件的审查。
+LCS-Wdiff:	1.0 
+--TN--
+#31:
+In the footage , he is seen giving tourists directions , getting water for a baby and even helping the neighbor sell yogurt .
+在视频中，他给游客指路，给婴儿打水，甚至帮助邻居卖酸奶。
+In the footage , he is seen giving tourists directions , getting water for a baby and even helping a neighbor sell yogurt .
+在视频中，他给游客指路，给婴儿打水，甚至帮助邻居卖酸奶。
+LCS-Wdiff:	1.0 
+--FN--
+#32:
+Further in the future , if the equipment needed to do this gets small and cheap enough , perhaps the analysis could be done by yourself at home .
+在未来，如果所需的设备足够小和便宜，也许可以自己在家里进行分析。
+Further into the future , if the equipment needed to do this gets small and cheap enough , perhaps the analysis could be done by yourself at home .
+在未来，如果所需的设备足够小和便宜，也许可以自己在家里进行分析。
+LCS-Wdiff:	1.0 
+--TN--
+#33:
+In the future , maybe within thirty years or so , a whole cloud of information will be available – including an analysis of your body ' s cells – and you will have to decide how much you want to delve into it .
+在未来，也许在30年左右的时间里，一整套信息都将可用——包括对你身体细胞的分析——你将不得不决定你想深入研究多少。
+In the future , maybe within 10 years or so , a whole cloud of information will be available – including an analysis of your body ' s cells – and you will have to decide how much you want to delve into it .
+在未来，也许在10年左右的时间里，一整套信息都将可用——包括对你身体细胞的分析——你将不得不决定你想深入研究多少。
+LCS-Wdiff:	1.0 
+--TN--
+#34:
+Haniffa sees the body from two perspectives on an almost daily basis : as a computational analysis of cells on a screen , and as patients that walk through the door .
+哈尼法几乎每天都从两个角度看待身体：一个是屏幕上细胞的计算分析，另一个是走在门口的病人。
+Haniffa sees the body from two perspectives on an almost daily basis : as a computational analysis of cells on a screen , and as patients who walk through the door .
+哈尼法几乎每天都从两个角度看待身体：一个是屏幕上细胞的计算分析，另一个是走在门口的病人。
+LCS-Wdiff:	1.0 
+--TN--
+#35:
+Taiwan is also home base for several key Apple suppliers , including Foxconn , Pegatron and Unistron , and has become a global hub for the semiconductor chips used in most electronic devices .
+台湾也是包括富士康、和硕和Unistron在内的几家主要苹果供应商的基地，并已成为大多数电子设备中使用的半导体芯片的全球中心。
+Taiwan is also home base for several key Apple suppliers , including Foxconn , Pegatron and Wistron , and has become a global hub for the semiconductor chips used in most electronic devices .
+台湾也是包括富士康、和硕和纬创在内的几家主要苹果供应商的基地，并已成为大多数电子设备中使用的半导体芯片的全球中心。
+LCS-Wdiff:	1.0 
+--TN--
+#36:
+Amy Klobuchar , who chairs the Senate antitrust subcommittee , said the Federal Trade Commission will " thoroughly investigate " the proposed acquisition .
+参议院反垄断小组委员会主席艾米·克洛布查尔（Amy Klobuchar）表示，联邦贸易委员会将“彻底调查”拟议收购案。
+Amy Klobuchar , who chairs the Senate antitrust subcommittee , said the Federal Trade Commission must " thoroughly investigate " the proposed acquisition .
+参议院反垄断小组委员会主席艾米·克洛布查尔（Amy Klobuchar）表示，联邦贸易委员会必须“彻底调查”拟议收购案。
+LCS-Wdiff:	1.0 
+--TN--
+#37:
+Disc - throwing sport is growing in popularity , not least because of its non - contact and social aspects , Liu Feiyue reports .
+刘飞跃报道说，掷碟运动越来越受欢迎，这不仅仅是因为它的非接触性和社会性。
+Disc - throwing sport is growing in popularity , not least because of its non - contact and social aspects , Yang Feiyue reports .
+杨飞跃报道说，掷碟运动越来越受欢迎，这不仅仅是因为它的非接触性和社会性。
+LCS-Wdiff:	1.0 
+--FN--
+#38:
+Complicating things further for Apple is the fact that China was its biggest market outside the United States .
+使苹果公司的情况更加复杂的是，中国是苹果公司在美国以外的最大市场。
+Complicating things further for Apple is the fact that China is its biggest market outside the United States .
+使苹果公司的情况更加复杂的是，中国是苹果公司在美国以外的最大市场。
+LCS-Wdiff:	1.0 
+--TN--
+#39:
+He has visited many villages throughout the country where the tradition of making bamboo items is alive .
+他参观了全国许多村庄，那里的竹子制作传统非常盛行。
+He has visited many villages across the country where the tradition of making bamboo items is alive .
+他参观了全国许多村庄，那里的竹子制作传统非常盛行。
+LCS-Wdiff:	1.0 
+--FN--
+#40:
+As it turned out , another team from the USA and Switzerland had independently found the same thing .
+事实证明，另一个来自美国和瑞士的团队也独立发现了同样的问题。
+As it turned out , another team from the US and Switzerland had independently found the same thing .
+事实证明，另一个来自美国和瑞士的团队也独立发现了同样的问题。
+LCS-Wdiff:	1.0 
+--TN--
+#41:
+In fact , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Zhang ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑洁开始登上头条新闻后，从意外击败哈勒普开始，赛后采访中经常会提到张的名字，这是郑洁在这么小的时候取得巨大成功的主要原因。
+In fact , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑洁开始登上头条新闻后，从意外击败哈勒普开始，赛后采访中经常会提到李娜的名字，这是郑洁在这么小的时候取得巨大成功的主要原因。
+LCS-Wdiff:	1.0 
+--FN--
+#42:
+In fact , after Zheng started making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑洁开始登上头条之后，从意外击败哈勒普开始，赛后采访中经常会提到李娜的名字，这是郑洁在这么小的时候取得巨大成功的主要原因。
+In fact , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑洁开始登上头条新闻后，从意外击败哈勒普开始，赛后采访中经常会提到李娜的名字，这是郑洁在这么小的时候取得巨大成功的主要原因。
+LCS-Wdiff:	1.0 
+--FN--
+#43:
+The two teams learned of each other ' s work by chance at a seminar in 2017 .
+两个团队在2017年的一次研讨会上偶然了解了彼此的工作。
+The two teams learnt of each other ' s work by chance at a seminar in 2017 .
+两个团队在2017年的一次研讨会上偶然了解了彼此的工作。
+LCS-Wdiff:	1.0 
+--TN--
+#44:
+The two teams learnt of each other ' s work by chance at a conference in 2017 .
+两个团队在2017年的一次会议上偶然了解了彼此的工作。
+The two teams learnt of each other ' s work by chance at a seminar in 2017 .
+两个团队在2017年的一次研讨会上偶然了解了彼此的工作。
+LCS-Wdiff:	1.0 
+--TN--
+#45:
+Like other social platforms , Instagram has increasingly attempted to copy features from TikTok in an attempt to compete with its fast - growing rival .
+与其他社交平台一样，Instagram越来越多地试图复制TikTok的功能，以与快速增长的竞争对手竞争。
+Like other social platforms , Instagram has increasingly attempted to copy features from TikTok in an effort to compete with its fast - growing rival .
+与其他社交平台一样，Instagram越来越多地试图复制TikTok的功能，以与快速增长的竞争对手竞争。
+LCS-Wdiff:	1.0 
+--TN--
+#46:
+A cluster of data points may appear with unexpected properties – implicating the discovery a new kind of cell .
+一组数据点可能具有意外的属性，这意味着发现了一种新的单元。
+A cluster of data points might appear with unexpected properties – implicating the discovery a new kind of cell .
+一组数据点可能具有意外的属性，这意味着发现了一种新的单元。
+LCS-Wdiff:	1.0 
+--FN--
+#47:
+A year later , they had drafted a specific plan – to first try to profile 100 million cells from different systems or organs , using different people around the globe .
+一年后，他们起草了一份具体计划——首先尝试使用全球不同的人对来自不同系统或器官的1亿个细胞进行分析。
+A year later , they had drafted a specific plan – to first try to profile 100 million cells from different systems and organs , using different people around the globe .
+一年后，他们起草了一份具体计划——首先尝试使用全球不同的人对来自不同系统和器官的1亿个细胞进行分析。
+LCS-Wdiff:	1.0 
+--TN--
+#48:
+The Wall Street Journal reported earlier this year that the company was looking to boost production in countries such as Vietnam and India , citing China ' s strict Covid policy as one of the reasons .
+《华尔街日报》今年早些时候报道称，该公司正寻求在越南和印度等国提高产量，理由之一是中国严格的新冠肺炎政策。
+The Wall Street Journal reported earlier this year that the company is looking to boost production in countries such as Vietnam and India , citing China ' s strict Covid policy as one of the reasons .
+《华尔街日报》今年早些时候报道称，该公司正寻求在越南和印度等国提高产量，理由之一是中国严格的新冠肺炎政策。
+LCS-Wdiff:	1.0 
+--TN--
+#49:
+The Wall Street Journal reported earlier this year that the company is seeking to boost production in countries such as Vietnam and India , citing China ' s strict Covid policy as one of the reasons .
+《华尔街日报》今年早些时候报道称，该公司正寻求在越南和印度等国提高产量，理由之一是中国严格的新冠肺炎政策。
+The Wall Street Journal reported earlier this year that the company is looking to boost production in countries such as Vietnam and India , citing China ' s strict Covid policy as one of the reasons .
+《华尔街日报》今年早些时候报道称，该公司正寻求在越南和印度等国提高产量，理由之一是中国严格的新冠肺炎政策。
+LCS-Wdiff:	1.0 
+--TN--
+#50:
+" These villagers ca n ' t become migrant workers , as they have to take care of their children and old parents at home , so I hope to help them earn more , " Fu says .
+“这些村民不能成为农民工，因为他们必须在家照顾孩子和年迈的父母，所以我希望帮助他们赚更多，”傅说。
+" Many villagers ca n ' t become migrant workers , as they have to take care of their children and old parents at home , so I hope to help them earn more , " Fu says .
+“许多村民不能成为农民工，因为他们必须在家照顾孩子和年迈的父母，所以我希望帮助他们赚更多，”傅说。
+LCS-Wdiff:	1.0 
+--TN--
+#51:
+" It never occurred to me that it is a competitive game with a social functions " he adds .
+“我从来没有想到这是一个具有社会功能的竞争性游戏，”他补充道。
+" It never occurred to me that it was a competitive game with a social functions " he adds .
+“我从来没有想到这是一个具有社会功能的竞争性游戏，”他补充道。
+LCS-Wdiff:	1.0 
+--TN--
+#52:
+" As of now , we have released collections in virtual two - dimensional forms for three consecutive seasons , but for the first time we tried to use animation to express our collection in this season . "
+“到目前为止，我们已经连续三季发布了虚拟二维形式的收藏品，但这是我们第一次尝试用动画来表达本季的收藏品。”
+" As of now , we have released collections in virtual three - dimensional forms for three consecutive seasons , but for the first time we tried to use animation to express our collection in this season . "
+“到目前为止，我们已经连续三季发布了虚拟三维形式的收藏品，但这是我们第一次尝试用动画来表达本季的收藏品。”
+LCS-Wdiff:	1.0 
+--TN--
+#53:
+Riffa sees the body from two perspectives on an almost daily basis : as a computational analysis of cells on a screen , and as patients who walk through the door .
+Riffa几乎每天都从两个角度看待身体：一个是屏幕上细胞的计算分析，另一个是走在门口的病人。
+Haniffa sees the body from two perspectives on an almost daily basis : as a computational analysis of cells on a screen , and as patients who walk through the door .
+哈尼法几乎每天都从两个角度看待身体：一个是屏幕上细胞的计算分析，另一个是走在门口的病人。
+LCS-Wdiff:	1.0 
+--TN--
+#54:
+Shares for 1life Healthcare , the parent company of One Medical , surged more than 40 % in early trading Thursday after the announcement .
+One Medical的母公司1life Healthcare的股价在周四早盘上涨了40%以上。
+Shares for 1life Healthcare , the parent company of One Medical , surged more than 65 % in early trading Thursday after the announcement .
+One Medical的母公司1life Healthcare的股价在周四早盘上涨了65%以上。
+LCS-Wdiff:	1.0 
+--TN--
+#55:
+Jarelzhang ' s fashion video cooperated with IP " Invisible Friends " , " Coolcats " , and " Coolman ' s Universe " in the NFT world , setting them in different scenes to look at the ecology from the viewpoint of fashion .
+Jarelzhang的时尚视频与IP“看不见的朋友”、“酷猫”和NFT世界中的“酷曼的宇宙”合作，将他们安排在不同的场景中，从时尚的角度看待生态。
+Jarelzhang ' s fashion video cooperated with IP " Invisible Friends " , " Coolcats " , and " Coolman ' s Universe " in the NFT world , setting them in different scenes to look at the ecology from the perspective of fashion .
+Jarelzhang的时尚视频与IP“看不见的朋友”、“酷猫”和NFT世界中的“酷曼的宇宙”合作，将他们安排在不同的场景中，从时尚的角度看待生态。
+LCS-Wdiff:	1.0 
+--TN--
+#56:
+Garelzhang ' s fashion video cooperated with IP " Invisible Friends " , " Coolcats " , and " Coolman ' s Universe " in the NFT world , setting them in different scenes to look at the ecology from the perspective of fashion .
+Garelzhang的时尚视频与IP“看不见的朋友”、“酷猫”和NFT世界中的“酷曼的宇宙”合作，将他们安排在不同的场景中，从时尚的角度看待生态。
+Jarelzhang ' s fashion video cooperated with IP " Invisible Friends " , " Coolcats " , and " Coolman ' s Universe " in the NFT world , setting them in different scenes to look at the ecology from the perspective of fashion .
+Jarelzhang的时尚视频与IP“看不见的朋友”、“酷猫”和NFT世界中的“酷曼的宇宙”合作，将他们安排在不同的场景中，从时尚的角度看待生态。
+LCS-Wdiff:	1.0 
+--TN--
+#57:
+Fu Wenlin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+58岁的傅文林是毛坝的居民，从12岁起就一直在做竹制品。
+Fu Yelin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+58岁的Fu Yelin是毛坝的居民，从12岁起就一直在做竹制品。
+LCS-Wdiff:	1.0 
+--TN--
+#58:
+Amazon agreed to buy supermarket chain Whole Foods in 2017 for $ 13 . 7 billion and earlier this year closed an $ 8 . 5 billion deal to buy iconic Hollywood movie studio MGM .
+2017年，亚马逊同意以137亿美元收购超市连锁店Whole Foods，今年早些时候，亚马逊完成了一笔85亿美元的收购好莱坞电影制片厂米高梅的交易。
+Amazon agreed to buy grocery chain Whole Foods in 2017 for $ 13 . 7 billion and earlier this year closed an $ 8 . 5 billion deal to buy iconic Hollywood movie studio MGM .
+2017年，亚马逊同意以137亿美元收购杂货连锁店Whole Foods，今年早些时候，亚马逊完成了一笔85亿美元的收购好莱坞电影制片厂米高梅的交易。
+LCS-Wdiff:	1.0 
+--TN--
+#59:
+With the One Medical deal , Amazon will gain access to physical health clinics and " payer and hospital system relationships , " Evercore ISI analyst Elizabeth Anderson said in a note Thursday morning .
+Evercore ISI分析师伊丽莎白·安德森（Elizabeth Anderson）周四上午在一份报告中表示，通过一项医疗协议，亚马逊将获得物理健康诊所以及“支付者和医院系统的关系”。
+With the One Medical deal , Amazon would gain access to physical health clinics and " payer and hospital system relationships , " Evercore ISI analyst Elizabeth Anderson said in a note Thursday morning .
+Evercore ISI分析师伊丽莎白·安德森（Elizabeth Anderson）周四上午在一份报告中表示，通过一项医疗协议，亚马逊将获得物理健康诊所和“付款人和医院系统的关系”。
+LCS-Wdiff:	0.9736842105263158 
+--TN--
+#60:
+Her brilliant but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她辉煌但饱受伤病困扰的职业生涯让我想起了前NBA大个子姚明，他在休斯顿火箭队效力期间，也因为脚部问题在31岁时被迫挂起了球鞋。
+Her stellar but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她出色但饱受伤病困扰的职业生涯让我想起了前NBA大个子姚明，他在休斯顿火箭队工作时，也因为脚部问题在31岁时被迫挂起了球鞋。
+LCS-Wdiff:	0.9722222222222222 
+--TN--
+#61:
+Thousands of scientists in over 50 countries from every inhabited content have joined the project since – it is an especially diverse community , as it should be for such a huge global scientific endeavour .
+自那时以来，来自50多个国家的数千名科学家加入了该项目——这是一个特别多样化的社区，对于如此庞大的全球科学事业来说，应该是这样。
+Thousands of scientists in over 70 countries from every inhabited content have joined the project since – it is an especially diverse community , as it should be for such a huge global scientific endeavour .
+自那以来，来自70多个国家的数千名科学家加入了该项目——这是一个特别多样化的社区，对于如此庞大的全球科学事业来说，应该是这样。
+LCS-Wdiff:	0.9714285714285714 
+--TN--
+#62:
+Nicholas Economides , a professor of economics at New York University ' s Stern School of Business , said he is skeptical the deal will trigger much formal antitrust scrutiny .
+纽约大学斯特恩商学院（Stern School of Business）经济学教授尼古拉斯·伊科诺米迪斯（Nicholas Economides）表示，他怀疑该交易是否会引发更多正式的反垄断审查。
+Nicholas Economides , a professor of economics at New York University ' s Stern School of Business , said he is skeptical the deal may trigger much formal antitrust scrutiny .
+纽约大学斯特恩商学院（Stern School of Business）经济学教授尼古拉斯·伊科诺米季斯（Nicholas Economides）表示，他怀疑该交易可能引发更多正式的反垄断审查。
+LCS-Wdiff:	0.9696969696969697 
+--TN--
+#63:
+In the oppressive dog days , time seems to stop as it is broiling both in the morning and the afternoon with the stridulation of cicadas humming in the background .
+在令人压抑的三伏天，时间似乎停止了，因为它在早晨和下午都在燃烧，背景是蝉鸣。
+In the oppressive dog days , time seems to stop as it is broiling both in the morning and the afternoon with the stridulation of cicadas buzzing in the background .
+在令人压抑的三伏天里，时间似乎停止了，因为它在早晨和下午都在燃烧，背景是嗡嗡作响的蝉鸣。
+LCS-Wdiff:	0.9615384615384616 
+--TN--
+#64:
+Zhang and the girls worked hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+张和女孩们努力学习，很快，老师和学生们看到了团队的巨大进步，吸引了更多的学生加入。
+Zhang and the girls trained hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+张和女孩们刻苦训练，很快，老师和学生们看到了球队的巨大进步，吸引了更多的学生加入。
+LCS-Wdiff:	0.96 
+--FP--
+#65:
+" I was under the impression that it was only a toy for children and pets , " says Niu Xinchen who started playing frisbee in April .
+四月份开始玩飞盘的牛新辰说：“我当时的印象是，它只是一个儿童和宠物的玩具。”。
+" I was under the impression that it was only a toy for children and pets , " says Qu Xinchen who started playing frisbee in April .
+今年4月开始玩飞盘的曲新辰说：“我当时的印象是，它只是一个儿童和宠物的玩具。”。
+LCS-Wdiff:	0.96 
+--FP--
+#66:
+Lulusmile , a local brand founded by fashion company Lulualways in 2019 , released a virtual fashion show through the world ' s leading shared digital platform Roblox .
+时尚公司Lulualways于2019年创立的本地品牌Lulusmile通过世界领先的共享数字平台Roblox发布了一场虚拟时装秀。
+Lulusmile , a local brand founded by fashion company Lulualways in 2019 , released a virtual fashion show with the world ' s leading shared digital platform Roblox .
+时尚公司Lulualways于2019年创立的本地品牌Lulusmile与世界领先的共享数字平台Roblox一起发布了一场虚拟时装秀。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#67:
+He helped build and develop its global supply chain as COO before ascending to the top job in 2011 .
+在2011年晋升为首席运营官之前，他以首席运营官的身份帮助建立和发展了该公司的全球供应链。
+He helped build and manage its global supply chain as COO before ascending to the top job in 2011 .
+在2011年升任首席运营官之前，他以首席运营官的身份帮助建立和管理了该公司的全球供应链。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#68:
+Shortly after the deal was announced , some tech industry critics also raised concerns about the health data to which the company will gain access .
+在该交易宣布后不久，一些科技行业的批评者也对该公司将获得的健康数据提出了担忧。
+Shortly after the deal was announced , some tech industry critics also raised concerns about the health data to which the company could gain access .
+交易宣布后不久，一些科技行业的批评者也对该公司可能获得的健康数据提出了担忧。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#69:
+In 2020 , my research lab carried out an analysis that suggested that variants of natural killer cells in blood could be organised into eight categories .
+2020年，我的研究实验室进行了一项分析，表明血液中的自然杀伤细胞变体可分为八类。
+In 2020 , my research lab carried out an analysis which suggested that variants of natural killer cells in blood could be organised into eight categories .
+2020年，我的研究实验室进行了一项分析，表明血液中自然杀伤细胞的变体可以分为八类。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#70:
+Although online fashion shows may reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀可能会吸引更多观众，但成本可能与线下时装秀相似。
+Although online fashion shows could reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀可以吸引更多的观众，但成本可能与线下时装秀相似。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#71:
+Although online fashion shows would reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀会吸引更多观众，但成本可能与线下时装秀相似。
+Although online fashion shows could reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀可以吸引更多的观众，但成本可能与线下时装秀相似。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#72:
+" It is the same as Christmas in France , a time to attend family gatherings and visit friends , " he said .
+“这和法国的圣诞节一样，是参加家庭聚会和拜访朋友的时候，”他说。
+" It is the same as Christmas in France , a time to enjoy family gatherings and visit friends , " he said .
+“这和法国的圣诞节一样，是一个享受家庭聚会和拜访朋友的时刻，”他说。
+LCS-Wdiff:	0.95 
+--FP--
+#73:
+Luckily , Xia found a team from Tongji University to support her , who guaranteed the shooting on June 8 and the release of the virtual show on June 19 .
+幸运的是，夏找到了同济大学的一个团队来支持她，他们保证了6月8日的拍摄和6月19日虚拟节目的发布。
+Luckily , Xia found a team from Tongji University to support her , which guaranteed the shooting on June 8 and the release of the virtual show on June 19 .
+幸运的是，夏找到了同济大学的一个团队来支持她，这保证了6月8日的拍摄和6月19日的虚拟秀的发布。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#74:
+In many ways , this brand new ambition is a direct descendant of the Human Genome Project .
+在许多方面，这一全新的雄心壮志是人类基因组计划的直接后代。
+In many ways , this bold new ambition is a direct descendant of the Human Genome Project .
+在许多方面，这一大胆的新抱负是人类基因组计划的直接后代。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#75:
+" I was under the impression that it was only a toy for children and pets , " says Gu Xinchen who started playing frisbee in April .
+四月份开始玩飞盘的顾新辰说：“我当时的印象是，它只是儿童和宠物的玩具。”。
+" I was under the impression that it was only a toy for children and pets , " says Qu Xinchen who started playing frisbee in April .
+今年4月开始玩飞盘的曲新辰说：“我当时的印象是，它只是一个儿童和宠物的玩具。”。
+LCS-Wdiff:	0.92 
+--FP--
+#76:
+Her solid but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她坚实但饱受伤病困扰的职业生涯让我想起了前NBA大个子姚明，他在休斯顿火箭队工作时，也因为脚部问题被迫在31岁时挂上了运动鞋。
+Her stellar but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她出色但饱受伤病困扰的职业生涯让我想起了前NBA大个子姚明，他在休斯顿火箭队工作时，也因为脚部问题在31岁时被迫挂起了球鞋。
+LCS-Wdiff:	0.918918918918919 
+--FP--
+#77:
+Starting already from this discovery , and other research using similar methods , there is the sense that our understanding of the body ' s cells is being transformed by a piercing new combination of biology and computer science .
+从这一发现和其他使用类似方法的研究开始，我们就感觉到，生物学和计算机科学的一种全新结合正在改变我们对人体细胞的理解。
+But already from this discovery , and other research using similar methods , there is the sense that our understanding of the body ' s cells is being transformed by a piercing new combination of biology and computer science .
+但是，从这一发现以及其他使用类似方法的研究中，我们已经感觉到，生物学和计算机科学的一种全新结合正在改变我们对人体细胞的理解。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#78:
+From the windows of every household , loud applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+从每家每户的窗户里，响亮的掌声和欢呼声表达了对“大白鲨”的感激之情。大白鲨是无处不在的健康监测器，穿着白色的个人防护装备，在夜空中盘旋。
+From the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+每家每户的窗户上都有热烈的掌声和欢呼声，表达对“大白鲨”的感激之情。大白鲨是无处不在的健康监测器，穿着白色的个人防护装备，在夜空中盘旋。
+LCS-Wdiff:	0.8974358974358975 
+--TP--
+#79:
+So , crucially , an analysis of genes alone is n ' t enough – we also need to know where in the human body the disease - causing genes are being switched on .
+因此，至关重要的是，仅仅对基因进行分析是不够的——我们还需要知道导致疾病的基因在人体的何处被激活。
+So , crucially , an analysis of genes alone is n ' t enough – we also need to know where in the human body these disease - causing genes are being switched on .
+因此，至关重要的是，仅仅分析基因是不够的——我们还需要知道这些致病基因在人体的何处被激活。
+LCS-Wdiff:	0.8928571428571429 
+--FP--
+#80:
+Ball - throwing sport is growing in popularity , not least because of its non - contact and social aspects , Yang Feiyue reports .
+杨飞跃报道说，抛球运动越来越受欢迎，尤其是因为它的非接触性和社会性。
+Disc - throwing sport is growing in popularity , not least because of its non - contact and social aspects , Yang Feiyue reports .
+杨飞跃报道说，掷碟运动越来越受欢迎，这不仅仅是因为它的非接触性和社会性。
+LCS-Wdiff:	0.8888888888888888 
+--TP--
+#81:
+A cluster of data points would appear with unexpected properties – implicating the discovery a new kind of cell .
+一组数据点将以意外的属性出现——这意味着发现了一种新的单元。
+A cluster of data points might appear with unexpected properties – implicating the discovery a new kind of cell .
+一组数据点可能具有意外的属性，这意味着发现了一种新的单元。
+LCS-Wdiff:	0.875 
+--TP--
+#82:
+Amazon planned to buy grocery chain Whole Foods in 2017 for $ 13 . 7 billion and earlier this year closed an $ 8 . 5 billion deal to buy iconic Hollywood movie studio MGM .
+亚马逊计划在2017年斥资137亿美元收购杂货连锁店Whole Foods，今年早些时候完成了一笔85亿美元的收购好莱坞电影制片厂米高梅的交易。
+Amazon agreed to buy grocery chain Whole Foods in 2017 for $ 13 . 7 billion and earlier this year closed an $ 8 . 5 billion deal to buy iconic Hollywood movie studio MGM .
+2017年，亚马逊同意以137亿美元收购杂货连锁店Whole Foods，今年早些时候，亚马逊完成了一笔85亿美元的收购好莱坞电影制片厂米高梅的交易。
+LCS-Wdiff:	0.8666666666666667 
+--FP--
+#83:
+When the two teams looked in detail at what made the cells stand out , they came across something astonishing .
+当这两个团队详细研究是什么让这些细胞脱颖而出时，他们发现了一些惊人的东西。
+When the two teams looked in detail at what made these cells stand out , they came across something astonishing .
+当两个小组详细研究这些细胞的突出之处时，他们发现了一些惊人的东西。
+LCS-Wdiff:	0.8421052631578947 
+--TP--
+#84:
+Climbing over the forested mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+爬过森林覆盖的群山，经过下面的蓝色湖泊，公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+Climbing over the high mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+爬过高山，经过下面的蓝色湖泊，公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+LCS-Wdiff:	0.84 
+--TP--
+#85:
+" All gyms were closed because of the COVID - 19 resurgence then , and indoor activities were subjected to restrictive conditions , " Qu recalls , adding that he ' s also seen many enthusiasts posting their frisbee experience on the social media platform Xiaohongshu .
+瞿回忆道：“当时，由于新冠肺炎的爆发，所有的健身房都被关闭了，室内活动也受到了限制。”他还说，他还看到许多爱好者在社交媒体平台肖洪舒上发布了他们的飞盘体验。
+" The gyms were closed because of the COVID - 19 resurgence then , and indoor activities were subjected to restrictive conditions , " Qu recalls , adding that he ' s also seen many enthusiasts posting their frisbee experience on the social media platform Xiaohongshu .
+瞿回忆道：“当时体育馆因为新冠肺炎的爆发而关闭，室内活动也受到了限制。”他还说，他还看到许多爱好者在社交媒体平台小红树上发布了他们的飞盘体验。
+LCS-Wdiff:	0.8333333333333334 
+--TP--
+#86:
+Climbing over the steep mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+翻越陡峭的山峦，穿过下面的蓝色湖泊，公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+Climbing over the high mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+爬过高山，经过下面的蓝色湖泊，公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+LCS-Wdiff:	0.8181818181818182 
+--TP--
+#87:
+" Having said that , it ' s impossible at this stage to find places that have the skills or the volume to be able to deliver what Apple needs . "
+“话虽如此，在现阶段，我们不可能找到有能力或数量足以满足苹果需求的地方。”
+" Having said that , it ' s impossible at this stage to find places that have the skills and the volume to be able to deliver what Apple needs . "
+“话虽如此，在现阶段，我们不可能找到具备技术和数量的地方来满足苹果的需求。”
+LCS-Wdiff:	0.8 
+--TP--
+#88:
+He helped develop and manage its global supply chain as COO before ascending to the top job in 2011 .
+在2011年晋升为首席运营官之前，他曾以首席运营官的身份帮助开发和管理其全球供应链。
+He helped build and manage its global supply chain as COO before ascending to the top job in 2011 .
+在2011年升任首席运营官之前，他以首席运营官的身份帮助建立和管理了该公司的全球供应链。
+LCS-Wdiff:	0.7916666666666666 
+--FP--
+#89:
+At the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+在每家每户的窗口，热烈的掌声和欢呼声在夜空中盘旋，以表达对“大白鲨”的感激之情。大白鲨是无处不在的健康监测器，穿着白色的个人防护装备。
+From the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+每家每户的窗户上都有热烈的掌声和欢呼声，表达对“大白鲨”的感激之情。大白鲨是无处不在的健康监测器，穿着白色的个人防护装备，在夜空中盘旋。
+LCS-Wdiff:	0.775 
+--TP--
+#90:
+He has made several widely publicized visits to China as CEO , illustrating the country ' s importance to Apple .
+作为首席执行官，他多次访问中国，广为宣传，说明了中国对苹果的重要性。
+He has made several highly publicized visits to China as CEO , illustrating the country ' s importance to Apple .
+他曾多次以首席执行官的身份访问中国，这说明了中国对苹果的重要性。
+LCS-Wdiff:	0.7647058823529411 
+--TP--
+#91:
+Bamboo weaving is a time - honored handicraft that has been passed down for generations in Daba township , Yongshun county , Xiangxi Tujia and Miao autonomous prefecture , Hunan province .
+竹编是湖南省湘西土家族苗族自治州永顺县大巴乡流传至今的古老手工艺。
+Bamboo weaving is a time - honored handicraft that has been passed down for generations in Maoba township , Yongshun county , Xiangxi Tujia and Miao autonomous prefecture , Hunan province .
+竹编是湖南省湘西土家族苗族自治州永顺县茅坝乡一项历史悠久的手工艺，世代相传。
+LCS-Wdiff:	0.75 
+--TP--
+#92:
+He has visited many villages in the country where the tradition of making bamboo items is alive .
+他参观了这个国家的许多村庄，在那里制作竹子制品的传统非常盛行。
+He has visited many villages across the country where the tradition of making bamboo items is alive .
+他参观了全国许多村庄，那里的竹子制作传统非常盛行。
+LCS-Wdiff:	0.75 
+--FP--
+#93:
+Taiwan is also home base for many key Apple suppliers , including Foxconn , Pegatron and Wistron , and has become a global hub for the semiconductor chips used in most electronic devices .
+台湾也是许多苹果关键供应商的基地，包括富士康、和硕和纬创，并已成为大多数电子设备中使用的半导体芯片的全球中心。
+Taiwan is also home base for several key Apple suppliers , including Foxconn , Pegatron and Wistron , and has become a global hub for the semiconductor chips used in most electronic devices .
+台湾也是包括富士康、和硕和纬创在内的几家主要苹果供应商的基地，并已成为大多数电子设备中使用的半导体芯片的全球中心。
+LCS-Wdiff:	0.7333333333333333 
+--TP--
+#94:
+When the two teams looked in detail at what made their cells stand out , they came across something astonishing .
+当这两个团队详细研究是什么让他们的细胞脱颖而出时，他们发现了一些惊人的东西。
+When the two teams looked in detail at what made these cells stand out , they came across something astonishing .
+当两个小组详细研究这些细胞的突出之处时，他们发现了一些惊人的东西。
+LCS-Wdiff:	0.7142857142857143 
+--TP--
+#95:
+Shares for 1life Healthcare , the parent company of One Medical , rose more than 65 % in early trading Thursday after the announcement .
+一家医疗集团的母公司1life Healthcare的股价在公告发布后的周四早盘上涨超过65%。
+Shares for 1life Healthcare , the parent company of One Medical , surged more than 65 % in early trading Thursday after the announcement .
+One Medical的母公司1life Healthcare的股价在周四早盘上涨了65%以上。
+LCS-Wdiff:	0.7058823529411765 
+--TP--
+#96:
+Zhang Yelin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+58岁的毛坝居民张叶林从12岁起就开始制作竹制品。
+Fu Yelin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+58岁的Fu Yelin是毛坝的居民，从12岁起就一直在做竹制品。
+LCS-Wdiff:	0.7058823529411765 
+--FP--
+#97:
+" China has been becoming more expensive for many years already , but what happened in the last year is it became more volatile , " said Allon .
+阿隆说：“多年来，中国的物价一直在上涨，但去年发生的情况是，物价变得更不稳定。”。
+" China has been becoming more expensive for several years already , but what happened in the last year is it became more volatile , " said Allon .
+“中国的物价已经上涨了好几年了，但去年发生的事情是，物价变得更加不稳定，”阿隆说。
+LCS-Wdiff:	0.6923076923076923 
+--TP--
+#98:
+Wang Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+35岁的汪洋是中国东北辽宁省沈阳市的一名厨师，他做这种糕点已有10年了。
+Wu Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+吴阳是中国东北辽宁省沈阳市一位35岁的厨师，已经做了10年糕点了。
+LCS-Wdiff:	0.6842105263157895 
+--FP--
+#99:
+Shares for Sonlife Healthcare , the parent company of One Medical , surged more than 65 % in early trading Thursday after the announcement .
+One Medical的母公司Sonlife Healthcare的股票在公告发布后的周四早盘飙升逾65%。
+Shares for 1life Healthcare , the parent company of One Medical , surged more than 65 % in early trading Thursday after the announcement .
+One Medical的母公司1life Healthcare的股价在周四早盘上涨了65%以上。
+LCS-Wdiff:	0.6470588235294118 
+--TP--
+#100:
+Apple did not respond to requests for comment for this story , although Cook emphasized Apple ' s broader manufacturing footprint on the company ' s most recent earnings call .
+尽管库克在公司最近的电话财报会议中强调了苹果更广泛的制造业足迹，但苹果没有回应对此报道发表评论的请求。
+Apple did not respond to requests for comment for this story , but Cook emphasized Apple ' s broader manufacturing footprint on the company ' s most recent earnings call .
+苹果没有回应对此事发表评论的请求，但库克在公司最近的电话财报会议中强调了苹果更广泛的制造业足迹。
+LCS-Wdiff:	0.6206896551724138 
+--FP--

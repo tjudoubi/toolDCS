@@ -1,0 +1,35 @@
+#13:
+Kennedy was at the match with his son and witnessed the chaos first hand , telling CNN Sport ' s Don Riddell he got caught in the crush at the ticket turnstiles .
+肯尼迪和他的儿子在比赛中亲眼目睹了这场混乱，他告诉CNN体育频道的唐·里德尔，他在检票口被挤了进去。
+Kennedy was at the match with his son and experienced the chaos first hand , telling CNN Sport ' s Don Riddell he got caught in the crush at the ticket turnstiles .
+肯尼迪和他的儿子在比赛中亲身经历了这场混乱，他告诉CNN体育频道的唐·里德尔，他在检票口被挤了进去。
+LCS-Wdiff:	1.0 
+--FN--
+#20:
+One of those who holds this belief is New Zealander Simon Latimer , a former diver and judge and now a member of FINA ' s Diving Technical Committee .
+新西兰人西蒙·拉蒂默（Simon Latimer）就是持这种观点的人之一，他曾是跳水运动员和裁判，现在是国际泳联跳水技术委员会的成员。
+One of those who holds that belief is New Zealander Simon Latimer , a former diver and judge and now a member of FINA ' s Diving Technical Committee .
+新西兰人西蒙·拉蒂默（Simon Latimer）就是持这种观点的人之一，他曾是跳水运动员和裁判，现在是国际泳联跳水技术委员会的成员。
+LCS-Wdiff:	1.0 
+--FN--
+#26:
+That ' s despite coming from a country where the sport of diving is small and its obstacles are many .
+尽管来自一个跳水运动规模小、障碍多的国家，但情况依然如此。
+That ' s despite coming from a country where the sport of diving is small and the obstacles are many .
+尽管来自一个跳水运动规模小、障碍多的国家，但情况依然如此。
+LCS-Wdiff:	1.0 
+--FN--
+#27:
+That ' s despite being from a country where the sport of diving is small and the obstacles are many .
+尽管来自一个跳水运动规模小、障碍多的国家，但情况依然如此。
+That ' s despite coming from a country where the sport of diving is small and the obstacles are many .
+尽管来自一个跳水运动规模小、障碍多的国家，但情况依然如此。
+LCS-Wdiff:	1.0 
+--FN--
+#48:
+Coffman , meanwhile , says she fears for the future of the sport and the potential difficulty of attracting new judges given Zhou ' s alleged behavior .
+与此同时，科夫曼说，她担心这项运动的未来，以及鉴于周小川被指控的行为，吸引新裁判的潜在困难。
+Huffman , meanwhile , says she fears for the future of the sport and the potential difficulty of attracting new judges given Zhou ' s alleged behavior .
+与此同时，霍夫曼说，她担心这项运动的未来，以及鉴于周小川被指控的行为，吸引新裁判的潜在困难。
+LCS-Wdiff:	1.0 
+--FN--

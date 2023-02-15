@@ -1,0 +1,42 @@
+#16:
+" It might not infuriate so many people if it had n ' t happened in Nanjing , " said netizen " Meisheng " on the social media website Sina Weibo .
+“如果不是发生在南京，可能不会激怒这么多人，”新浪微博网友“美生”说。
+" It might not infuriate so many people if it had n ' t happened in Nanjing , " said netizen " Meisheng " on the social media platform Sina Weibo .
+“如果不是发生在南京，可能不会激怒这么多人，”新浪微博网友“美生”说。
+LCS-Wdiff:	1.0 
+--FN--
+#31:
+In the footage , he is shown giving tourists directions , getting water for a baby and even helping a neighbor sell yogurt .
+在录像中，他给游客指路，为婴儿取水，甚至帮助邻居卖酸奶。
+In the footage , he is seen giving tourists directions , getting water for a baby and even helping a neighbor sell yogurt .
+在录像中，可以看到他给游客指路，为婴儿取水，甚至帮助邻居卖酸奶。
+LCS-Wdiff:	1.0 
+--FN--
+#52:
+He made the remarks in a congratulatory letter to the World Youth Development Forum , which is being held from Tuesday to Saturday .
+他在致周二至周六举行的世界青年发展论坛的贺信中发表了上述讲话。
+He made the remarks in a congratulatory letter to the World Youth Development Forum , which is being held from Thursday to Saturday .
+他在致周四至周六举行的世界青年发展论坛的贺信中发表了上述讲话。
+LCS-Wdiff:	1.0 
+--FN--
+#58:
+In 2012 , the ministry published a notification on better serving environmental impact assessments for major projects , urging environmental authorities of different levels to offer support , he continued .
+2012年，环保部印发了关于做好重大项目环评工作的通知，要求各级环保部门给予支持。
+In June , the ministry published a notification on better serving environmental impact assessments for major projects , urging environmental authorities of different levels to offer support , he continued .
+6月，环保部印发了关于做好重大项目环评工作的通知，要求各级环保部门给予支持。
+LCS-Wdiff:	1.0 
+--FN--
+#59:
+In 2011 , the ministry published a notification on better serving environmental impact assessments for major projects , urging environmental authorities of different levels to offer support , he continued .
+2011年，环保部印发了关于做好重大项目环评工作的通知，要求各级环保部门给予支持。
+In June , the ministry published a notification on better serving environmental impact assessments for major projects , urging environmental authorities of different levels to offer support , he continued .
+6月，环保部印发了关于做好重大项目环评工作的通知，要求各级环保部门给予支持。
+LCS-Wdiff:	1.0 
+--FN--
+#72:
+While the Respect for Marriage Act easily passed the House with a Democratic majority and the support of 47 Republicans , it is likely to stall in the heavily split Senate .
+虽然《尊重婚姻法》在民主党多数票和 47 名共和党人的支持下轻松通过了众议院，但它很可能在分裂严重的参议院中停滞不前。
+While the Respect for Marriage Act easily passed the House with a Democratic majority and the support of 47 Republicans , it is likely to stall in the evenly split Senate .
+虽然《尊重婚姻法》在民主党占多数和 47 名共和党人的支持下轻松通过了众议院，但它很可能在平分秋色的参议院中停滞不前。
+LCS-Wdiff:	0.9666666666666667 
+--FN--
