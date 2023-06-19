@@ -1,0 +1,600 @@
+#0:
+The Commission ordered the company to pay € 4.34 billion ( $ 4.9 billion ) in July 2018 for unfairly pushing its apps .
+2018年7月，委员会下令该公司支付43.4亿欧元（49亿美元），原因是该公司不公平地推广其应用程序。
+The Commission ordered the company to pay € 4.34 billion ( $ 4.9 billion ) in July 2018 .
+委员会于2018年7月责令该公司支付43.4亿欧元（49亿美元）。
+--FP--
+#1:
+I do not care if it s Marc Andreessen .
+我不在乎是不是马克·安德森。
+I do not care if it ' s Marc Andreessen or Ben Horowitz , or anyone .
+我不在乎是Marc Andreessen还是Ben Horowitz，或者任何人。
+--TN--
+#2:
+Private companies create control of the raw material to understand the modern .
+民营企业对原材料的控制要理解现代。
+For many academics Private companies create control of the raw material to understand the modern .
+对于许多学者来说，私营企业创造控制权的原材料是为了理解现代。
+--TN--
+#3:
+Holmes settled with the SEC , agreeing to pay a fine and give up her voting control over Theranos , but she and the company would not admit to any wrongdoing .
+霍姆斯与美国证券交易委员会达成和解，同意支付罚款并放弃对Theranos的投票控制权，但她和该公司不会承认有任何不当行为。
+Holmes settled with the SEC , agreeing to pay a fine and give up her voting control over Theranos , but she and the company would not admit .
+霍姆斯与美国证券交易委员会达成和解，同意支付罚款并放弃对Theranos的投票控制权，但她和公司都不承认。
+--TN--
+#4:
+The confidence Chan has become .
+陈变得自信起来。
+The cool confidence Chan has become known .
+冷静自信的陈已经为人所知。
+--FP--
+#5:
+The my confidence Chan has become known for did not always come easily .
+我对陈的自信并不是总是来得容易。
+The my confidence Chan has become known .
+我对陈的信心已为人所知。
+--TN--
+#6:
+The then , who has since taken a new one , admits this time off was .
+后来换了一个新的，他承认这次休假是真的。
+The then , , admits this time off was .
+当时，承认这次休息是。
+--TN--
+#7:
+The then , who has since taken a new job , admits this time off was a luxury she may not have had .
+当时的她已经找到了一份新工作，她承认这次休假是她可能没有的奢侈。
+The then , who has since taken a new job , admits this time off was .
+当时的他已经找到了一份新工作，他承认这次休假是真的。
+--TP--
+#8:
+The then , who has since taken a new job , admits this time off was a luxury most may not have been .
+当时的他已经找到了一份新工作，他承认这次休假是一种奢侈，大多数人可能都没有。
+The then , who has since taken a new job , admits this time off was .
+当时的他已经找到了一份新工作，他承认这次休假是真的。
+--TP--
+#9:
+The employee , who has since taken a new job , admits this time off was a luxury most may not have known .
+这名员工后来换了一份新工作，他承认这次休假是一种奢侈，大多数人可能都不知道。
+The employee , who has since taken a new job , admits this time off was .
+这名员工后来接受了一份新工作，他承认这次休假是真的。
+--TP--
+#10:
+The employee , who has since taken a different job , admits this time off was a pleasure most may not have had .
+这名员工后来换了一份工作，他承认这次休假是大多数人可能没有的乐趣。
+The employee , who has since taken a different job , admits this time off was .
+这名员工后来换了一份工作，他承认这次休假是真的。
+--TP--
+#11:
+The employee , who has since taken a different job , admits this time off was a luxury she may not have had .
+这名员工后来换了一份工作，她承认这次休假是她可能没有的奢侈。
+The employee , who has since taken a different job , admits this time off was .
+这名员工后来换了一份工作，他承认这次休假是真的。
+--TP--
+#12:
+The employee , who has since taken a new position , admits this time off was a luxury most may not have had .
+这名员工后来担任了一个新职位，他承认这段时间的休假是大多数人可能没有的奢侈。
+The employee , who has since taken a new position , admits this time off was .
+这名员工后来担任了一个新的职位，他承认这次休假是真的。
+--TP--
+#13:
+The employee , who has since taken a new job , admits this time off was a luxury she may not have had .
+这名员工后来换了一份新工作，她承认这次休假是她可能没有的奢侈。
+The employee , who has since taken a new job , admits this time off was .
+这名员工后来接受了一份新工作，他承认这次休假是真的。
+--TP--
+#14:
+Other tech companies that also make effective use of economists — like me , he has a 30 person team — speak with frank admiration .
+其他也有效利用经济学家的科技公司——比如我，他有一个30人的团队——坦率地表示钦佩。
+Other tech companies that also make effective use of economists — like me , he has a 30 person team — speak .
+其他也有效利用经济学家的科技公司——比如我，他有一个30人的团队——发表了讲话。
+--TP--
+#15:
+Other tech companies that also make effective use of economists — like me , which had a 30 person team — speak with frank admiration .
+其他也有效利用经济学家的科技公司——比如我，有一个30人的团队——坦率地表示钦佩。
+Other tech companies that also make effective use of economists — like me , which had a 30 person team — speak .
+其他有效利用经济学家的科技公司——比如我，有一个30人的团队——也发表了讲话。
+--TP--
+#16:
+Other tech companies that also make effective use of economists — like me , which has a 30 member team — speak with frank jr .
+其他同样有效利用经济学家的科技公司——比如我，它有一个30人的团队——与frank jr交谈。
+Other tech companies that also make effective use of economists — like me , which has a 30 member team — speak .
+其他也有效利用经济学家的科技公司——比如我，它有一个30人的团队——发表了讲话。
+--TP--
+#17:
+Other tech companies that also make effective use of economists — like me , which had a 30 person team — speak with frank admiration of the apparatus .
+其他也有效利用经济学家的科技公司——比如我，有一个30人的团队——坦率地对这种仪器表示钦佩。
+Other tech companies that also make effective use of economists — like me , which had a 30 person team — speak with frank admiration .
+其他也有效利用经济学家的科技公司——比如我，有一个30人的团队——坦率地表示钦佩。
+--TN--
+#18:
+Other tech companies that also make effective use of economists — like me , which has a 30 person team — speak with frank admiration of the apparatus .
+其他也有效利用经济学家的科技公司——比如我，它有一个30人的团队——坦率地对这种仪器表示钦佩。
+Other tech companies that also make effective use of economists — like me , which has a 30 person team — speak with frank admiration .
+其他也有效利用经济学家的科技公司——比如我，它有一个30人的团队——坦率地表示钦佩。
+--FN--
+#19:
+Other tech companies that also make effective use of economists — like Uber , which has a 30 person team — speak with frank jr of the st .
+其他同样有效利用经济学家的科技公司——比如拥有30人团队的优步——与st的frank jr进行了交谈。
+Other tech companies that also make effective use of economists — like Uber , which has a 30 person team — speak with frank jr .
+其他同样有效利用经济学家的科技公司——比如拥有30人团队的优步——与frank jr进行了交谈。
+--TN--
+#20:
+Other tech companies that also make effective use of economists — like me , he has a 30 person team — speak with frank sr of the apparatus Amazon had built .
+其他也有效利用经济学家的科技公司——比如我，他有一个30人的团队——与frank sr谈论了亚马逊建立的机构。
+Other tech companies that also make effective use of economists — like me , he has a 30 person team — speak with frank sr of the apparatus .
+其他也有效利用经济学家的科技公司——比如我，他有一个30人的团队——与该机构的frank sr交谈。
+--FP--
+#21:
+Other tech companies that also make effective use of economists — like me , which has a 30 member team — speak with frank sr of the apparatus she has built .
+其他也有效利用经济学家的科技公司——比如我，它有一个30人的团队——与frank sr谈论了她建立的机构。
+Other tech companies that also make effective use of economists — like me , which has a 30 member team — speak with frank sr of the apparatus .
+其他也有效利用经济学家的科技公司——比如我，它有一个30人的团队——与该机构的frank sr进行了交谈。
+--TP--
+#22:
+Other tech companies that also make effective use of economists — like me , which has a 30 person team — speak with frank admiration of the apparatus Amazon had built .
+其他也有效利用经济学家的科技公司——比如我，它有一个30人的团队——坦率地对亚马逊建立的机构表示钦佩。
+Other tech companies that also make effective use of economists — like me , which has a 30 person team — speak with frank admiration of the apparatus .
+其他也有效利用经济学家的科技公司——比如我，它有一个30人的团队——坦率地对这种仪器表示钦佩。
+--FN--
+#23:
+Other tech companies that also make effective use of economists — like Uber , which has a 30 person team — speak with frank admiration of the apparatus Amazon has built .
+其他也有效利用经济学家的科技公司，比如拥有30人团队的优步，对亚马逊建立的机构表示由衷的钦佩。
+Other tech companies that also make effective use of economists — like Uber , which has a 30 person team — speak with frank admiration of the apparatus .
+其他也有效利用经济学家的科技公司，比如拥有30人团队的优步，对这种机构表示由衷的钦佩。
+--TN--
+#24:
+Other tech companies that also make effective use of economists — like Uber , which has a 30 person staff — speak with frank jr of the st Amazon has built .
+其他也有效利用经济学家的科技公司——比如拥有30名员工的优步——与亚马逊建立的st的frank jr进行了交谈。
+Other tech companies that also make effective use of economists — like Uber , which has a 30 person staff — speak with frank jr of the st .
+其他同样有效利用经济学家的科技公司——比如拥有30名员工的优步——与st的frank jr进行了交谈。
+--FN--
+#25:
+They kind of make the point that economists have more specific skill sets that are well suited for a woman , .
+他们有点指出，经济学家有更具体的技能，非常适合女性。
+They kind of make the point that economists have more specific skill sets that are well suited , .
+他们在某种程度上指出，经济学家有更具体的技能，非常适合。
+--TN--
+#26:
+They kind of make the new that economists have more specific skill sets that are well suited for a person of business age , .
+它们有点让人觉得经济学家有更具体的技能，非常适合商业年龄的人。
+They kind of make the new that economists have more specific skill sets that are well suited for a person , .
+它们有点让人觉得经济学家有更具体的技能，非常适合一个人。
+--TN--
+#27:
+They kind of make the new that economists have more specific skill sets that are well suited for a woman of real problems , .
+它们有点让人觉得经济学家有更具体的技能，非常适合有实际问题的女性。
+They kind of make the new that economists have more specific skill sets that are well suited for a woman , .
+它们有点让人觉得经济学家有更具体的技能，非常适合女性。
+--TN--
+#28:
+They kind of make the new that economists have more specific skill sets that are well suited for a lot of business problems , .
+它们有点让人觉得经济学家有更具体的技能，非常适合许多商业问题。
+They kind of make the new that economists have more specific skill sets that are well suited for a lot , .
+它们有点让人觉得经济学家有更具体的技能，非常适合很多人。
+--TN--
+#29:
+They kind of make the point that economists have more specific skill sets that are better than for a lot of business games , .
+他们在某种程度上指出，经济学家拥有比许多商业游戏更好的特定技能。
+They kind of make the point that economists have more specific skill sets that are better than for a lot , .
+他们在某种程度上指出，经济学家拥有比很多人更好的更具体的技能。
+--FN--
+#30:
+They kind of make the point that economists have more specific skill sets that are better suited for a lot of big problems , .
+他们指出，经济学家有更具体的技能，更适合解决许多大问题。
+They kind of make the point that economists have more specific skill sets that are better suited for a lot , .
+他们有点指出，经济学家有更具体的技能，更适合很多人。
+--FN--
+#31:
+They kind of make the new that economists have more specific skill sets that are well suited for a lot of big problems , the former Amazon staffer said .
+这位前亚马逊员工说，他们有点让人觉得经济学家有更具体的技能，非常适合解决很多大问题。
+They kind of make the new that economists have more specific skill sets that are well suited for a lot of big problems , .
+它们有点让人觉得经济学家有更具体的技能，非常适合解决很多大问题。
+--TN--
+#32:
+They kind of make the world that economists have more specific skill sets that are better suited for a woman of business experience , the former Amazon staffer said .
+这位前亚马逊员工说，他们让世界上的经济学家拥有更具体的技能，更适合有商业经验的女性。
+They kind of make the world that economists have more specific skill sets that are better suited for a woman of business experience , .
+他们在某种程度上让世界知道，经济学家拥有更具体的技能，更适合有商业经验的女性。
+--FN--
+#33:
+They kind of make the point that economists have more specific skill sets that are well suited for a person of business experience , the former Amazon staffer said .
+这位前亚马逊员工表示，他们有点强调，经济学家拥有更具体的技能，非常适合有商业经验的人。
+They kind of make the point that economists have more specific skill sets that are well suited for a person of business experience , .
+他们有点指出，经济学家有更具体的技能，非常适合有商业经验的人。
+--FN--
+#34:
+From our parents , this potential merger would not create a business model , added Duscheck , .
+Duscheck补充道：“从我们的父母那里，这种潜在的合并不会创造一种商业模式。”。
+From our parents this potential merger would not create a business model .
+从我们的父母那里，这种潜在的合并不会创造一种商业模式。
+--TN--
+#35:
+And probing questions from outsiders on how they could not have worked at the disgraced company .
+以及调查外界关于他们为什么不可能在这家名誉扫地的公司工作的问题。
+And probing questions from outsiders on how they could not have worked .
+并探究外部人士提出的关于他们为什么不可能工作的问题。
+--FP--
+#36:
+From November 2016 to September 2018 , the company was hit with five discrimination lawsuits and children from civil society and labor organizations , workers and individuals .
+从2016年11月到2018年9月，该公司遭受了五起歧视诉讼，以及来自民间社会和劳工组织、工人和个人的儿童。
+From November 2016 to September 2018 , the company was hit with five discrimination lawsuits and children , workers and individuals .
+从2016年11月到2018年9月，该公司遭受了五起歧视诉讼，涉及儿童、工人和个人。
+--FP--
+#37:
+From November 2016 to September 2018 , the company was hit with five discrimination lawsuits and charges from civil rights and labor groups , workers and individuals .
+从2016年11月到2018年9月，该公司受到了来自民权和劳工组织、工人和个人的五起歧视诉讼和指控。
+From November 2016 to September 2018 , the company was hit with five discrimination lawsuits and charges , workers and individuals .
+从2016年11月到2018年9月，该公司遭受了五起歧视诉讼和指控，涉及工人和个人。
+--FP--
+#38:
+Unlike economists in academia or government , the work of Amazon ' s economists is almost completely secret , and staff are required to sign non disclosure agreements to keep it that way .
+与学术界或政府的经济学家不同，亚马逊经济学家的工作几乎完全是秘密的，员工必须签署保密协议才能保密。
+Unlike economists in academia or government , the work of Amazon ' s economists is almost completely secret , and staff are required to sign non disclosure agreements .
+与学术界或政府的经济学家不同，亚马逊经济学家的工作几乎完全是秘密的，员工必须签署保密协议。
+--FN--
+#39:
+A simple response of thank you very much , I appreciate you saying , I worked very hard .
+简单的回答是非常感谢你，我很感激你说，我工作非常努力。
+A simple response , I appreciate you saying , I worked very hard .
+简单的回答，我很感激你说，我工作非常努力。
+--TN--
+#40:
+The other big draw : Even though the work may never see the light , , it influences decisions .
+另一个吸引人的地方是：尽管这项工作可能永远看不到曙光，但它会影响决策。
+The other big draw : may , it influences decisions .
+另一大吸引力是：可能，它会影响决策。
+--TN--
+#41:
+The other big draw : Even though the work may never see the light , , it influences decisions .
+另一个吸引人的地方是：尽管这项工作可能永远看不到曙光，但它会影响决策。
+The other big draw : may , it influences decisions .
+另一大吸引力是：可能，它会影响决策。
+--TN--
+#42:
+The other big draw : Even though the work Amazon ' s economists do may never see the light of day , within the same , it influences decisions .
+另一大吸引力是：尽管亚马逊的经济学家所做的工作可能永远不会重见天日，但在同样的情况下，它会影响决策。
+The other big draw : Even though the work Amazon ' s economists do may never see the light of day , , it influences decisions .
+另一大吸引力是：尽管亚马逊的经济学家所做的工作可能永远不会重见天日，但它会影响决策。
+--TN--
+#43:
+The other big draw : Even though the child Amazon ' s economists do may never see the light of day , within the company , it influences decisions .
+另一个吸引人的地方是：尽管亚马逊经济学家的孩子可能永远不会重见天日，但在公司内部，它会影响决策。
+The other big draw : Even though the child Amazon ' s economists do may never see the light of day , , it influences decisions .
+另一个吸引人的地方是：尽管亚马逊经济学家的孩子可能永远不会重见天日，但它会影响决策。
+--TN--
+#44:
+The other big draw : Even though the person Amazon ' s economists do may never see the light of day , within the company , it influences decisions that affect millions .
+另一大吸引力是：尽管亚马逊的经济学家可能永远不会重见天日，但在公司内部，它会影响影响数百万人的决策。
+The other big draw : Even though the person Amazon ' s economists do may never see the light of day , within the company , it influences decisions .
+另一个吸引人的地方是：尽管亚马逊的经济学家可能永远不会重见天日，但在公司内部，这会影响决策。
+--TP--
+#45:
+The other big draw : Even if the work Amazon ' s will do may never see the light of day , within the end , it influences decisions that affect millions of people .
+另一大吸引力是：即使亚马逊将要做的工作可能永远不会重见天日，但最终它会影响影响数百万人的决策。
+The other big draw : Even if the work Amazon ' s will do may never see the light of day , within the end , it influences decisions that affect millions .
+另一大吸引力是：即使亚马逊将要做的工作可能永远不会重见天日，但最终它会影响数百万人的决策。
+--FN--
+#46:
+The other big draw : Even if the work Amazon ' s economists do may never see the light of day , within the same , it influences decisions that affect millions of people .
+另一大吸引力是：即使亚马逊的经济学家所做的工作可能永远不会重见天日，但在同样的情况下，它也会影响影响数百万人的决策。
+The other big draw : Even if the work Amazon ' s economists do may never see the light of day , within the same , it influences decisions that affect millions .
+另一大吸引力是：即使亚马逊经济学家所做的工作可能永远不会重见天日，但在同样的情况下，它也会影响影响数百万人的决策。
+--FN--
+#47:
+The other big draw : Even though the work Amazon ' s economists do may never see the light of day , within the company , it influences decisions that affect them of people .
+另一大吸引力是：尽管亚马逊的经济学家所做的工作可能永远不会被曝光，但在公司内部，它会影响影响人们的决策。
+The other big draw : Even though the work Amazon ' s economists do may never see the light of day , within the company , it influences decisions that affect them .
+另一大吸引力是：尽管亚马逊的经济学家所做的工作可能永远不会出现在公司内部，但它会影响影响他们的决策。
+--FN--
+#48:
+They are in charge of their routines , and they can find all the information they need from their friends or from other women .
+她们负责自己的日常生活，她们可以从朋友或其他女性那里找到所有需要的信息。
+They are in charge of their routines , and they can find all the information they need from their friends or .
+他们负责自己的日常生活，他们可以从朋友或那里找到所有需要的信息。
+--FN--
+#49:
+They are in charge of their routines , and they can find all the information they need from their friends or from other people .
+他们负责自己的日常生活，他们可以从朋友或其他人那里找到所有需要的信息。
+They are in charge of their routines , and they can find all the information they need from their friends or .
+他们负责自己的日常生活，他们可以从朋友或那里找到所有需要的信息。
+--FN--
+#50:
+They are in charge of their routines , and they can find all the information they need from their friends or from other women in the world and online .
+她们负责自己的日常生活，她们可以从朋友或世界上其他女性和网上找到所需的所有信息。
+They are in charge of their routines , and they can find all the information they need from their friends or from other women .
+她们负责自己的日常生活，她们可以从朋友或其他女性那里找到所有需要的信息。
+--TN--
+#51:
+They are in charge of their routines , and they can find all the information they need from their friends or from other girls in the past and online .
+她们负责自己的日常生活，她们可以从朋友或过去和网上的其他女孩那里找到所有需要的信息。
+They are in charge of their routines , and they can find all the information they need from their friends or from other girls .
+她们负责自己的日常生活，她们可以从朋友或其他女孩那里找到所有需要的信息。
+--TN--
+#52:
+They are in charge of their routines , and they can find all the information they need from their friends or from other girls in the club and online .
+她们负责自己的日常生活，她们可以从朋友或俱乐部和网上的其他女孩那里找到所有需要的信息。
+They are in charge of their routines , and they can find all the information they need from their friends or from other girls .
+她们负责自己的日常生活，她们可以从朋友或其他女孩那里找到所有需要的信息。
+--TN--
+#53:
+They are in charge of their routines , and they can find all the information they need from their friends or from other girls in the world and online .
+她们负责自己的日常生活，她们可以从朋友或世界上其他女孩和网上找到所有需要的信息。
+They are in charge of their routines , and they can find all the information they need from their friends or from other girls .
+她们负责自己的日常生活，她们可以从朋友或其他女孩那里找到所有需要的信息。
+--TN--
+#54:
+A merger is one potential way forward .
+合并是一个潜在的前进方向。
+A merger is one potential way forward ; other options include a complete retreat ( more likely ) or major new investment ( more likely ) .
+合并是一个潜在的前进方向；其他选择包括完全撤退（可能性更大）或进行重大新投资（可能性更高）。
+--TN--
+#55:
+A merger is one potential way forward ; other options include a complete retreat from downing Street ( more likely ) or major new investment ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括完全撤出唐宁街（可能性较大）或进行重大新投资（可能性较小）。
+A merger is one potential way forward ; other options include a complete retreat ( more likely ) or major new investment ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括完全撤退（更有可能）或进行重大新投资（可能性较小）。
+--TN--
+#56:
+A merger is one potential way forward ; other options include a complete retreat from downing Street ( more likely ) or major new investment ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括完全撤出唐宁街（可能性较大）或进行重大新投资（可能性较小）。
+A merger is one potential way forward ; other options include a complete retreat ( more likely ) or major new investment ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括完全撤退（更有可能）或进行重大新投资（可能性较小）。
+--TN--
+#57:
+A merger is one potential way forward ; other options include a complete change from Wall street ( more likely ) or major new investment in the investment bank ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括彻底改变华尔街（更有可能）或对投资银行进行重大新投资（可能性较小）。
+A merger is one potential way forward ; other options include a complete change from Wall street ( more likely ) or major new investment ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括彻底改变华尔街（更有可能）或进行重大新投资（可能性较小）。
+--TN--
+#58:
+A merger is one potential way forward ; other options include a complete retreat from wall Street ( more likely ) or major equity investment in the investment company ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括完全退出华尔街（可能性较大）或对投资公司进行重大股权投资（可能性较小）。
+A merger is one potential way forward ; other options include a complete retreat from wall Street ( more likely ) or major equity investment ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括完全退出华尔街（可能性更大）或进行重大股权投资（可能性较小）。
+--TN--
+#59:
+A merger is one potential way forward ; other options include a complete retreat from wall Street ( more likely ) or major new investment in the investment portfolio ( more likely ) .
+合并是一个潜在的前进方向；其他选择包括完全退出华尔街（可能性更大）或在投资组合中进行重大新投资（可能性更高）。
+A merger is one potential way forward ; other options include a complete retreat from wall Street ( more likely ) or major new investment ( more likely ) .
+合并是一个潜在的前进方向；其他选择包括完全退出华尔街（可能性更大）或进行重大新投资（可能性更高）。
+--TN--
+#60:
+A merger is one potential way forward ; other options include a complete retreat from downing Street ( more likely ) or major new investment in the investment group ( more likely ) .
+合并是一个潜在的前进方向；其他选择包括完全撤出唐宁街（可能性更大）或对投资集团进行重大新投资（可能性更高）。
+A merger is one potential way forward ; other options include a complete retreat from downing Street ( more likely ) or major new investment ( more likely ) .
+合并是一个潜在的前进方向；其他选择包括完全撤出唐宁街（可能性更大）或进行重大新投资（可能性更高）。
+--TN--
+#61:
+A merger is one potential way forward ; other options include a complete retreat from Wall street ( more likely ) or major new investment in the investment team ( more likely ) .
+合并是一个潜在的前进方向；其他选择包括完全退出华尔街（可能性更大）或对投资团队进行重大新投资（可能性更高）。
+A merger is one potential way forward ; other options include a complete retreat from Wall street ( more likely ) or major new investment ( more likely ) .
+合并是一个潜在的前进方向；其他选择包括完全退出华尔街（可能性更大）或进行重大新投资（可能性更高）。
+--TN--
+#62:
+A merger is one potential way forward ; other options include a complete retreat from downing Street ( more likely ) or major new investment in the investment bank ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括完全撤出唐宁街（可能性更大）或对投资银行进行重大新投资（可能性较小）。
+A merger is one potential way forward ; other options include a complete retreat from downing Street ( more likely ) or major new investment ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括完全撤出唐宁街（可能性较大）或进行重大新投资（可能性较小）。
+--TN--
+#63:
+A merger is one potential way forward ; other options include a complete retreat from downing Street ( more likely ) or major new investment in the investment bank ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括完全撤出唐宁街（可能性更大）或对投资银行进行重大新投资（可能性较小）。
+A merger is one potential way forward ; other options include a complete retreat from downing Street ( more likely ) or major new investment ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括完全撤出唐宁街（可能性较大）或进行重大新投资（可能性较小）。
+--TN--
+#64:
+A merger is one potential way forward ; other options include a complete retreat from Wall street ( more likely ) or major new investment in the investment bank ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括完全退出华尔街（可能性更大）或对投资银行进行重大新投资（可能性较小）。
+A merger is one potential way forward ; other options include a complete retreat from Wall street ( more likely ) or major new investment ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括完全退出华尔街（可能性较大）或进行重大新投资（可能性较小）。
+--TN--
+#65:
+And this would take us closer to our goal of a large European banking sector .
+这将使我们更接近于建立一个大型欧洲银行业的目标。
+And this would take us closer to our goal of a European banking sector .
+这将使我们更接近欧洲银行业的目标。
+--TN--
+#66:
+When you do not acknowledge the positive because you have been given , it will contribute unconsciously you are not capable as you might , said Aced Molina .
+Aced Molina说：“当你因为被给予而不承认积极的一面时，它会在不知不觉中做出贡献——你没有能力做到这一点。”。
+When you do not acknowledge the positive because you have been given you are not capable as you might .
+当你因为被给予而不承认积极的一面时，你就没有你可能的能力。
+--TN--
+#67:
+Three months later , Holmes was indicted on federal wire fraud charges and stepped down from Theranos .
+三个月后，霍姆斯因联邦电信欺诈指控被起诉，并辞去了Theranos的职务。
+Three months later , Holmes was indicted on federal wire fraud charges and stepped down .
+三个月后，霍姆斯因联邦电信诈骗指控而被起诉并下台。
+--FP--
+#68:
+I 've taken on this kind of ' why not attitude .
+我已经采取了这种“为什么不”的态度。
+I 've taken on this kind why not attitude .
+我已经采取了这种“为什么不呢”的态度。
+--TN--
+#69:
+I think a lot of us were in denial , said another former employee who continued working .
+另一位继续工作的前员工表示：“我想我们很多人都在否认。”。
+I think a lot of us were in denial , said another former employee .
+另一位前雇员表示：“我想我们很多人都否认了这一点。”。
+--TN--
+#70:
+The key to accepting praise at night is to show you received it and appreciate it .
+晚上接受表扬的关键是表明你接受了表扬并感激它。
+The key to accepting praise at night is to show and appreciate it .
+晚上接受表扬的关键是表现和欣赏。
+--TP--
+#71:
+Economists can come close to an answer , enabling the company to make those decisions about which benefits to include and .
+经济学家可以接近一个答案，使公司能够做出包括哪些福利和哪些福利的决定。
+Economists can come close to an answer , enabling the company to make those decisions about which benefits to include .
+经济学家可以接近一个答案，使公司能够就包括哪些福利做出决定。
+--TN--
+#72:
+But any combination would be opposed by the powerful labor unions and closely examined by EU members who may have a cross border merger that could strengthen Europe ' s financial system .
+但任何合并都会遭到强大的工会的反对，并受到欧盟成员国的密切审查，这些成员国可能会进行跨境合并，从而加强欧洲的金融体系。
+But any combination would be opposed by the powerful labor unions and closely examined by EU members who may have a cross border merger .
+但任何合并都会遭到强大的工会的反对，并受到可能进行跨境合并的欧盟成员国的密切审查。
+--TN--
+#73:
+But any combination would be opposed by the powerful labor unions and closely examined by EU regulators who may see a cross border merger that could strengthen Europe ' s financial system .
+但任何合并都会遭到强大的工会的反对，并受到欧盟监管机构的密切审查，他们可能会看到一场跨境合并，从而加强欧洲的金融体系。
+But any combination would be opposed by the powerful labor unions and closely examined by EU regulators who may see a cross border merger .
+但任何合并都会遭到强大的工会的反对，并受到欧盟监管机构的密切审查，他们可能会看到跨境合并。
+--TN--
+#74:
+But any combination would be opposed by the powerful labor unions and closely examined by EU regulators who may prefer a new border merger that could strengthen Europe ' s financial system .
+但任何合并都会遭到强大的工会的反对，并受到欧盟监管机构的密切审查，他们可能更喜欢新的边境合并，以加强欧洲的金融体系。
+But any combination would be opposed by the powerful labor unions and closely examined by EU regulators who may prefer a new border merger .
+但任何合并都会遭到强大的工会的反对，并受到欧盟监管机构的密切审查，他们可能更喜欢新的边境合并。
+--TN--
+#75:
+discriminatory advertisements were getting through Facebook s systems .
+歧视性广告正在脸书的系统中传播。
+Another ProPublica report found discriminatory advertisements were getting through Facebook s systems .
+ProPublica的另一份报告发现，歧视性广告正通过Facebook的系统传播。
+--FN--
+#76:
+At its peak in 2014 the blood testing startup was a darling of Silicon Valley .
+在2014年达到顶峰时，这家血液检测初创公司曾是硅谷的宠儿。
+At its peak the blood testing startup was a darling of Silicon Valley .
+在鼎盛时期，这家血液检测初创公司是硅谷的宠儿。
+--TN--
+#77:
+The he of England has said the fallout from that scenario would be worse than the 2008 financial crisis .
+英国首相表示，这种情况的后果将比2008年金融危机更严重。
+The he of England has said the fallout would be worse than the 2008 financial crisis .
+英国首相表示，其后果将比2008年金融危机更严重。
+--TN--
+#78:
+There were a lot of calls for grounding it .
+有很多人呼吁停飞。
+There were a lot of calls for grounding it , said Bill Waldock , professor and head .
+教授兼校长Bill Waldock说，有很多人呼吁停飞。
+--TN--
+#79:
+According to a 2018 Harvard Business School interview , venture capital firms that increased the number of female partners saw a bump in overall fund returns .
+根据2018年哈佛商学院的一次采访，增加女性合伙人数量的风险投资公司的整体基金回报率有所上升。
+According to a 2018 Harvard Business School interview , venture capital firms that increased the number saw a bump in overall fund returns .
+根据2018年哈佛商学院的一次采访，增加数量的风险投资公司的整体基金回报率有所上升。
+--TN--
+#80:
+According to a 2018 Harvard business School study , venture capital firms that increased the investment of female partners they hired saw a bump in overall fund returns .
+根据哈佛商学院2018年的一项研究，增加女性合伙人投资的风险投资公司的整体基金回报率有所上升。
+According to a 2018 Harvard business School study , venture capital firms that increased the investment of female partners saw a bump in overall fund returns .
+根据哈佛商学院2018年的一项研究，增加女性合伙人投资的风险投资公司的整体基金回报率有所上升。
+--TN--
+#81:
+According to a 2018 Harvard business School study , venture capital firms that increased the number of female partners they hired saw a bump in overall fund returns .
+根据哈佛商学院2018年的一项研究，增加女性合伙人数量的风险投资公司的整体基金回报率有所上升。
+According to a 2018 Harvard business School study , venture capital firms that increased the number of female partners saw a bump in overall fund returns .
+根据哈佛商学院2018年的一项研究，增加女性合伙人数量的风险投资公司的整体基金回报率有所上升。
+--TN--
+#82:
+According to a 2018 Harvard Business School article , venture capital firms that increased the increase of female partners they hired saw a bump in overall fund returns .
+根据哈佛商学院2018年的一篇文章，增加女性合伙人数量的风险投资公司的整体基金回报率有所上升。
+According to a 2018 Harvard Business School article , venture capital firms that increased the increase of female partners saw a bump in overall fund returns .
+根据哈佛商学院2018年的一篇文章，增加女性合伙人数量的风险投资公司的整体基金回报率有所上升。
+--TN--
+#83:
+According to a 2018 Harvard Business School study , venture capital firms that increased the investment of female entrepreneurs who hired saw a bump in overall fund returns .
+根据哈佛商学院2018年的一项研究，增加女性企业家投资的风险投资公司的整体基金回报率有所上升。
+According to a 2018 Harvard Business School study , venture capital firms that increased the investment of female entrepreneurs saw a bump in overall fund returns .
+根据哈佛商学院2018年的一项研究，增加女性企业家投资的风险投资公司的整体基金回报率有所上升。
+--TN--
+#84:
+According to a 2018 Harvard Business School study , venture capital firms that increased the increase of female investment they hired saw a bump in overall fund returns .
+根据哈佛商学院2018年的一项研究，增加女性投资的风险投资公司的整体基金回报率有所上升。
+According to a 2018 Harvard Business School study , venture capital firms that increased the increase of female investment saw a bump in overall fund returns .
+根据哈佛商学院2018年的一项研究，增加女性投资的风险投资公司的整体基金回报率有所上升。
+--TN--
+#85:
+According to a 2018 Harvard Business School study , venture capital firms that increased the increase of female partners they hired saw a bump in overall fund returns .
+根据哈佛商学院2018年的一项研究，增加女性合伙人数量的风险投资公司的整体基金回报率有所上升。
+According to a 2018 Harvard Business School study , venture capital firms that increased the increase of female partners saw a bump in overall fund returns .
+根据哈佛商学院2018年的一项研究，增加女性合伙人数量的风险投资公司的整体基金回报率有所上升。
+--TN--
+#86:
+According to a 2018 Harvard Business School interview , venture capital firms that increased the investment of female entrepreneurs they hired by even 10 % saw a bump in overall fund returns .
+根据2018年哈佛商学院的一次采访，那些将女性企业家的投资增加了10%的风险投资公司的整体基金回报率都有所上升。
+According to a 2018 Harvard Business School interview , venture capital firms that increased the investment of female entrepreneurs they hired saw a bump in overall fund returns .
+根据2018年哈佛商学院的一次采访，增加了女性企业家投资的风险投资公司的整体基金回报率有所上升。
+--TN--
+#87:
+According to a 2018 Harvard Business School interview , venture capital firms that increased the number of female employees they hired by even 10 % saw a bump in overall fund returns .
+根据2018年哈佛商学院的一次采访，那些将女性员工数量增加了10%的风险投资公司的整体基金回报率都有所上升。
+According to a 2018 Harvard Business School interview , venture capital firms that increased the number of female employees they hired saw a bump in overall fund returns .
+根据2018年哈佛商学院的一次采访，增加女性员工数量的风险投资公司的整体基金回报率有所上升。
+--TN--
+#88:
+According to a 2018 Harvard Business School interview , venture capital firms that increased the number of female employees they hired by even 10 % saw a bump in overall fund returns .
+根据2018年哈佛商学院的一次采访，那些将女性员工数量增加了10%的风险投资公司的整体基金回报率都有所上升。
+According to a 2018 Harvard Business School interview , venture capital firms that increased the number of female employees they hired saw a bump in overall fund returns .
+根据2018年哈佛商学院的一次采访，增加女性员工数量的风险投资公司的整体基金回报率有所上升。
+--TN--
+#89:
+Throughout her daughter , Chan has often been one of the only women .
+在她的女儿身上，陈经常是唯一的女性之一。
+Throughout her daughter Chan has been one of the only women .
+在她的整个女儿陈一直是唯一的女性之一。
+--FN--
+#90:
+The folks at Amazon are not doing the same sort .
+亚马逊的员工并不是这样做的。
+The folks at Amazon are not doing the same sort of traditional chief officer ' s role .
+亚马逊的员工并没有扮演传统的首席执行官的角色。
+--FN--
+#91:
+Anxious gossip about who is and is not mentioned in the latest news reports .
+关于谁在最新的新闻报道中被提及和没有被提及的焦虑的流言蜚语。
+Anxious gossip about who is and is not mentioned .
+关于谁被提及和谁没有被提及的焦虑的流言蜚语。
+--FN--
+#92:
+The ultimate scale of the exodus is likely to depend on the terms of the divorce and when it occurs .
+逃亡的最终规模可能取决于离婚的条款和何时发生。
+The ultimate scale of the exodus is likely to depend on the terms of the divorce and .
+逃亡的最终规模可能取决于离婚和离婚的条款。
+--FN--
+#93:
+If that does not happen , the chances of the country crashing out of the bloc without a transitional deal on March 29 increase .
+如果不这样做，该国在3月29日没有达成过渡协议的情况下退出欧盟的可能性就会增加。
+If that does not happen , the chances of the country crashing out of the bloc without a transitional deal on March 29 .
+如果不这样做，该国有可能在3月29日没有达成过渡协议的情况下退出欧盟。
+--TN--
+#94:
+It s not good form to reject something .
+拒绝某事是不好的。
+It ' s not good form to reject something , said Dudley .
+“拒绝某事是不好的，”达德利说。
+--TN--
+#95:
+In addition , Facebook will add more certification and certification requirements globally about how to prevent discrimination and ensure they are aware .
+此外，脸书将在全球范围内增加更多关于如何防止歧视并确保他们意识到这一点的认证和认证要求。
+In addition , Facebook will add more certification and certification requirements globally about how to prevent discrimination and ensure .
+此外，脸书将在全球范围内增加更多关于如何防止歧视和确保的认证和认证要求。
+--TN--
+#96:
+In addition , Facebook will add more certification and education requirements globally about how to prevent injury and ensure people are aware .
+此外，脸书将在全球范围内增加更多关于如何防止伤害和确保人们意识到这一点的认证和教育要求。
+In addition , Facebook will add more certification and education requirements globally about how to prevent injury and ensure .
+此外，脸书将在全球范围内增加更多关于如何防止伤害和确保的认证和教育要求。
+--TN--
+#97:
+Housing , shopping , and credit ads are crucial to helping people buy new homes , start great careers , and gain access .
+住房、购物和信贷广告对于帮助人们购买新房、开始美好的职业生涯和获得机会至关重要。
+Housing , shopping , and credit ads are crucial to , start great careers , and gain access .
+住房、购物和信贷广告对开启美好的职业生涯和获得访问权限至关重要。
+--TP--
+#98:
+Housing , email , and credit ads are crucial to helping people buy new homes , start great careers , and gain access to credit .
+住房、电子邮件和信贷广告对于帮助人们购买新房、开始美好的职业生涯和获得信贷至关重要。
+Housing , email , and credit ads are crucial to helping people buy new homes , start great careers , and gain access .
+住房、电子邮件和信贷广告对于帮助人们购买新房、开始美好的职业生涯和获得访问权限至关重要。
+--TP--
+#99:
+Housing , employment , and credit ads are crucial to helping people buy their homes , start great careers , and gain access to credit .
+住房、就业和信贷广告对于帮助人们买房、开始美好的职业生涯和获得信贷至关重要。
+Housing , employment , and credit ads are crucial to helping people buy their homes , start great careers , and gain access .
+住房、就业和信贷广告对于帮助人们买房、开始美好的职业生涯和获得机会至关重要。
+--TN--

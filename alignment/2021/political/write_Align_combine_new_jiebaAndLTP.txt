@@ -1,0 +1,1200 @@
+#1President Donald Trump participated in head-to-head town halls Thursday night .
+周四 晚上 ， 唐纳德 · 特朗普 总统 参加 了 迎头痛击 的 市政厅 活动 。
+President{总统 }Donald{唐纳德 }Trump{特朗普 }participated{参加 }in{参加 }head-to-head{迎头痛击 }town{市政厅 }halls{市政厅 }Thursday{周四 }night{晚上 }.{。 }
+
+#2The money will fund space and cyber defence projects such as an artificial intelligence agency , and could create 40000 new jobs .
+这笔 资金 将 用于 太空 和 网络 防御 项目 ， 如 人工智能 机构 ， 并 可能 创造 4 万 个 新 工作 岗位 。
+The{这笔 }money{资金 }will{将 }fund{用于 }space{太空 }and{和 }cyber{网络 }defence{防御 }projects{项目 }such{如 }as{如 }an{}artificial{人工智能 }intelligence{人工智能 }agency{机构 },{， }and{并 }could{可能 }create{创造 }40000{4 万 }new{新 }jobs{工作 岗位 }.{。 }
+
+#3The government condemned the move accusing the leaders of sedition for creating a parallel administration .
+政府 谴责 这 一 指控 领导人 煽动 叛乱 的 举动 ， 称 他们 建立 了 一个 平行 的 政府 。
+The{}government{政府 }condemned{谴责 }the{这 }move{举动 }accusing{指控 }the{他们 }leaders{领导人 }of{}sedition{叛乱 }for{}creating{建立 }a{一个 }parallel{平行 }administration{政府 }.{。 }
+
+#4According to the education ministry , secondary and primary schools are expected to reopen in November .
+据 教育部 称 ， 中小学 预计 将 于 11 月 重新 开放 。
+According{据 }to{}the{}education{教育部 }ministry{教育部 },{， }secondary{中小学 }and{}primary{}schools{中小学 }are{将 }expected{预计 }to{将 }reopen{重新 开放 }in{于 }November{11 }.{。 }
+
+#5Macron has deployed thousands of soldiers to protect sites such as places of worship and schools .
+马克 龙 已经 部署 了 数千 名 士兵 保护 宗教 场所 和 学校 等 场所 。
+Macron{马克 龙 }has{已经 }deployed{部署 }thousands{数千 }of{名 }soldiers{士兵 }to{}protect{保护 }sites{场所 }such{等 }as{}places{场所 }of{}worship{宗教 }and{和 }schools{学校 }.{。 }
+
+#6Nearly a dozen women were among the victims for which the Islamic State group has claimed responsibility .
+伊斯兰 国 组织 声称 对 受害者 负有 责任 ， 其中 包括 近 12 名 妇女 。
+Nearly{近 }a{}dozen{12 }women{妇女 }were{}among{}the{负有 }victims{受害者 }for{对 }which{其中 }the{}Islamic{伊斯兰 }State{国 }group{组织 }has{}claimed{声称 }responsibility{责任 }.{。 }
+
+#7He expressed appreciation for the organizers of the expo for hosting the event in these challenging times .
+他 对 世博会 组织者 在 这个 充满 挑战 的 时代 举办 这 次 活动 表示 感谢 。
+He{他 }expressed{表示 }appreciation{感谢 }for{对 }the{}organizers{组织者 }of{}the{}expo{世博会 }for{}hosting{举办 }the{这 }event{活动 }in{在 }these{这个 }challenging{挑战 }times{时代 }.{。 }
+
+#8Experts said UK universities are also arranging charter flights for financial reasons to bring students to the country .
+专家 表示 ， 出于 经济 原因 ， 英国 大学 也 在 安排 包机 将 学生 带 到 英国 。
+Experts{专家 }said{表示 }UK{英国 }universities{大学 }are{在 }also{也 }arranging{安排 }charter{包机 }flights{包机 }for{出于 }financial{经济 }reasons{原因 }to{}bring{带 }students{学生 }to{到 }the{}country{英国 }.{。 }
+
+#9Without the March relief program , the poverty rates would have been higher over the last seven months .
+如果 没有 3 月份 的 救济 计划 ， 过去 七 个 月 的 贫困率 会 更 高 。
+Without{如果 没有 }the{的 }March{3 }relief{救济 }program{计划 },{， }the{的 }poverty{贫困率 }rates{贫困率 }would{会 }have{}been{}higher{高 }over{}the{}last{过去 }seven{七 }months{月 }.{。 }
+
+#10The kindergartens and primary schools will remain open , while secondary schools will close and introduce distance learning .
+幼儿园 和 小学 将 继续 开放 ， 中学 将 关闭 并 引入 远程 教育 。
+The{}kindergartens{幼儿园 }and{和 }primary{小学 }schools{小学 }will{将 }remain{继续 }open{开放 },{， }while{， }secondary{中学 }schools{中学 }will{将 }close{关闭 }and{并 }introduce{引入 }distance{远程 }learning{教育 }.{。 }
+
+#11Meanwhile , different households will be banned from mixing , although support bubbles and childcare bubbles will remain .
+与此同时 ， 不同 的 家庭 将 被 禁止 混合 ， 尽管 支持 泡沫 和 托儿 泡沫 仍 将 存在 。
+Meanwhile{与此同时 },{， }different{不同 }households{家庭 }will{将 }be{被 }banned{禁止 }from{}mixing{混合 },{， }although{尽管 }support{支持 }bubbles{泡沫 }and{和 }childcare{托儿 }bubbles{泡沫 }will{将 }remain{仍 存在 }.{。 }
+
+#12There is no doubt Jeremy Corbyn 's supporters will keep objecting loudly to what has happened , and that could get extremely bumpy .
+毫无疑问 ， 杰里米 · 科尔 宾 的 支持者 会 继续 大声 反对 所 发生 的 事情 ， 而 这 可能 会 变 得 非常 颠簸 。
+There{}is{}no{毫无疑问 }doubt{毫无疑问 }Jeremy{杰里米 }Corbyn{科尔 宾 }'s{的 }supporters{支持者 }will{会 }keep{继续 }objecting{反对 }loudly{大声 }to{}what{所 }has{所 }happened{发生 },{， }and{而 }that{这 }could{可能 }get{变 }extremely{非常 }bumpy{颠簸 }.{。 }
+
+#13The ministers renewed the discussion of new fiscal rules , which was disrupted by the pandemic early this year .
+部长 们 重新 讨论 了 新 的 财政 规则 ， 该 规则 在 今年 年初 被 疫情 打乱 。
+The{们 }ministers{部长 }renewed{重新 }the{}discussion{讨论 }of{了 }new{新 }fiscal{财政 }rules{规则 },{， }which{该 }was{被 }disrupted{打乱 }by{}the{}pandemic{疫情 }early{年初 }this{今年 }year{今年 }.{。 }
+
+#14Experts are warning that widespread belief in COVID-19 conspiracy theories could make vaccination campaigns less effective when treatments become available .
+专家 警告 2019 冠状 病毒 疾病 理论 的 广泛 信仰 可能 会 使 疫苗 接种 活动 在 治疗 有效 时 变 得 不 那么 有效 。
+Experts{专家 }are{}warning{警告 }that{}widespread{广泛 }belief{信仰 }in{的 }COVID-19{2019 冠状 病毒 }conspiracy{疾病 }theories{理论 }could{会 }make{使 }vaccination{疫苗 接种 }campaigns{活动 }less{不 }effective{有效 }when{时 }treatments{治疗 }become{有效 }available{有效 }.{。 }
+
+#15However , rising unemployment and the ongoing challenges mean the outlook .
+然而 ， 不断 上升 的 失业率 和 持续 的 挑战 意味着 前景 。
+However{然而 },{， }rising{上升 }unemployment{失业率 }and{和 }the{的 }ongoing{持续 }challenges{挑战 }mean{意味着 }the{}outlook{前景 }.{。 }
+
+#16The COVID-19 pandemic has been the primary campaign issue , with Trump defending his administration 's actions and Biden opposing them .
+COVID - 19 流行病 是 主要 的 竞选 议题 ， 特朗普 为 他 的 政府 行为 辩护 ， 拜登 反对 他们 。
+The{}COVID-19{COVID - 19 }pandemic{流行病 }has{}been{是 }the{的 }primary{主要 }campaign{竞选 }issue{议题 },{， }with{}Trump{特朗普 }defending{辩护 }his{他 }administration{政府 }'s{的 }actions{行为 }and{， }Biden{拜登 }opposing{反对 }them{他们 }.{。 }
+
+#17The resulting rush of air will drive a turbine to make electricity , which can be sold back to the grid .
+由此 产生 的 气流 将 驱动 一 台 涡轮机 发电 ， 然后 将 其 出售 回 电网 。
+The{的 }resulting{由此 }rush{}of{}air{气流 }will{将 }drive{驱动 }a{一 }turbine{涡轮机 }to{}make{发电 }electricity{发电 },{， }which{其 }can{}be{将 }sold{出售 }back{}to{回 }the{}grid{电网 }.{。 }
+
+#18The months ahead will be challenging for everyone , so it is especially important that we discuss and discuss our policies .
+未来 几 个 月 对 每个 人 来说 都 是 挑战 ， 所以 我们 讨论 和 讨论 我们 的 政策 尤其 重要 。
+The{}months{月 }ahead{未来 }will{}be{是 }challenging{挑战 }for{对 }everyone{每个 },{， }so{所以 }it{}is{}especially{尤其 }important{重要 }that{}we{我们 }discuss{讨论 }and{和 }discuss{讨论 }our{我们 }policies{政策 }.{。 }
+
+#19Prime Minister of Kyrgyzstan Sadyr Zhaparov on Thursday declared himself acting president of the country after President Sooronbai Jeenbekov resigned hours earlier .
+吉尔吉斯斯坦 总理 萨迪尔 · 扎 帕罗 夫 周四 宣布 自己 为 该国 代理 总统 ， 此前 几 小时 ， 总统 苏龙白 · 詹贝 科夫 辞职 。
+Prime{总理 }Minister{总理 }of{}Kyrgyzstan{吉尔吉斯斯坦 }Sadyr{萨迪尔 }Zhaparov{扎 帕罗 夫 }on{}Thursday{周四 }declared{宣布 }himself{自己 }acting{代理 }president{总统 }of{}the{该国 }country{该国 }after{， }President{总统 }Sooronbai{苏龙白 }Jeenbekov{詹贝 科夫 }resigned{辞职 }hours{小时 }earlier{此前 }.{。 }
+
+#20Steven Kennedy , the treasury secretary , used a recent speech to urge the government to lower the threshold for fiscal stimulus .
+财政部长 史蒂文 · 肯尼迪 在 最近 的 一 次 演讲 中 敦促 政府 降低 财政 刺激 的 门槛 。
+Steven{史蒂文 }Kennedy{肯尼迪 },{}the{}treasury{财政部长 }secretary{财政部长 },{}used{}a{一 }recent{最近 }speech{演讲 }to{中 }urge{敦促 }the{}government{政府 }to{}lower{降低 }the{的 }threshold{门槛 }for{}fiscal{财政 }stimulus{刺激 }.{。 }
+
+#21At least 22 people , mostly students , were killed and another 27 wounded when three gunmen stormed the university on Monday .
+周一 ， 三 名 枪手 闯入 该 大学 ， 造成 至少 22 人 死亡 ， 其中 大部分 是 学生 ， 另 有 27 人 受伤 。
+At{}least{至少 }22{22 }people{人 },{， }mostly{大部分 }students{学生 },{， }were{}killed{死亡 }and{， }another{另 }27{27 }wounded{受伤 }when{}three{三 }gunmen{枪手 }stormed{闯入 }the{该 }university{大学 }on{}Monday{周一 }.{。 }
+
+#22After briefing the prime minister on the outbreak , reporters heard from Nogami that measures would be taken to eradicate the outbreak .
+在 向 首相 通报 疫情 后 ， 野 上 町 的 记者 们 获悉 ， 将 采取 措施 根除 疫情 。
+After{在 }briefing{通报 }the{}prime{首相 }minister{首相 }on{}the{}outbreak{疫情 },{， }reporters{记者 }heard{获悉 }from{的 }Nogami{野 上 }that{， }measures{措施 }would{将 }be{}taken{采取 }to{}eradicate{根除 }the{}outbreak{疫情 }.{。 }
+
+#23Despite the downgrading , the Honduran government on Wednesday declared a national state of emergency due to the passage of the storm .
+尽管 降级 ， 洪都拉斯 政府 在 周三 宣布 ， 由于 风暴 的 通过 ， 国家 进入 紧急状态 。
+Despite{尽管 }the{}downgrading{降级 },{， }the{}Honduran{洪都拉斯 }government{政府 }on{在 }Wednesday{周三 }declared{宣布 }a{进入 }national{国家 }state{紧急状态 }of{}emergency{紧急状态 }due{由于 }to{由于 }the{的 }passage{通过 }of{}the{}storm{风暴 }.{。 }
+
+#24The new law means that the so-called " justifiable assault " defence is no longer available .
+新 法律 意味着 所谓 的 “ 正当 攻击 ” 辩护 不再 适用 。
+The{}new{新 }law{法律 }means{意味着 }that{意味着 }the{的 }so-called{所谓 }"{“ }justifiable{正当 }assault{攻击 }"{” }defence{辩护 }is{}no{不再 }longer{不再 }available{适用 }.{。 }
+
+#25Bars and restaurants are also shut but people can exercise near their homes if they wear masks and hairdressers can remain open .
+酒吧 和 餐馆 也 关闭 了 ， 但 人们 可以 在家 附近 锻炼 ， 如果 他们 戴 上 口罩 ， 理发师 可以 继续 营业 。
+Bars{酒吧 }and{和 }restaurants{餐馆 }are{了 }also{也 }shut{关闭 }but{但 }people{人们 }can{可以 }exercise{锻炼 }near{附近 }their{}homes{在家 }if{如果 }they{他们 }wear{戴 }masks{口罩 }and{， ， }hairdressers{理发师 }can{可以 }remain{继续 }open{营业 }.{。 }
+
+#26The decision resulted in clashes between his supporters and the opposition ahead of the Saturday elections , leading to fatalities and injuries .
+这 一 决定 导致 他 的 支持者 和 反对派 在 周六 选举 前 发生 冲突 ， 造成 人员 伤亡 。
+The{这 }decision{决定 }resulted{导致 }in{导致 }clashes{冲突 }between{}his{他 }supporters{支持者 }and{和 }the{}opposition{反对派 }ahead{前 }of{在 }the{}Saturday{周六 }elections{选举 },{， }leading{造成 }to{造成 }fatalities{}and{}injuries{伤亡 }.{。 }
+
+#27The Russian authorities are managing to minimize the volatility of the ruble exchange rate and to maintain macroeconomic stability , he said .
+他 说 ， 俄罗斯 当局 正在 设法 将 卢布 汇率 的 波动 降 至 最低 ， 并 保持 宏观 经济 稳定 。
+The{}Russian{俄罗斯 }authorities{当局 }are{正在 }managing{设法 }to{正在 }minimize{将 降 }the{的 }volatility{波动 }of{}the{}ruble{卢布 }exchange{汇率 }rate{汇率 }and{并 }to{}maintain{保持 }macroeconomic{宏观 经济 }stability{稳定 },{， }he{他 }said{说 }.{。 }
+
+#28This summer has witnessed several severe floods and powerful typhoons across the country , causing great damage to local people and their properties .
+今年 夏天 ， 全国 各地 发生 了 几 次 严重 的 洪水 和 强大 的 台风 ， 给 当地 人民 及其 财产 造成 了 巨大 损失 。
+This{今年 }summer{夏天 }has{}witnessed{发生 }several{几 }severe{严重 }floods{洪水 }and{和 }powerful{强大 }typhoons{台风 }across{全国 各地 }the{}country{全国 },{， }causing{造成 }great{巨大 }damage{损失 }to{给 }local{当地 }people{人民 }and{及其 }their{及其 }properties{财产 }.{。 }
+
+#29Congress ' swift and expansive response to the coronavirus pandemic last spring spared millions of Americans from falling into poverty .
+去年 春天 ， 国会 对 冠状 病毒 大 流行 迅速 而 广泛 的 反应 使 数百万 美国 人 免于 陷入 贫困 。
+Congress{国会 }'{的 }swift{迅速 }and{而 }expansive{广泛 }response{反应 }to{对 }the{}coronavirus{冠状 病毒 }pandemic{病毒 }last{去年 }spring{春天 }spared{使 }millions{数百万 }of{}Americans{美国 }from{免于 }falling{陷入 }into{陷入 }poverty{贫困 }.{。 }
+
+#30European nations are reintroducing strict measures aimed at limiting the spread of the novel coronavirus after infections and hospitalizations because of COVID-19 skyrocketed .
+由于 COVID - 19 狂飙 ， 欧洲 国家 正在 重新 出台 严格 的 措施 来 限制 新型 冠状 病毒 在 感染 和 住院 后 的 传播 。
+European{欧洲 }nations{国家 }are{正在 }reintroducing{重新 出台 }strict{严格 }measures{措施 }aimed{来 }at{}limiting{限制 }the{的 }spread{传播 }of{}the{}novel{新型 }coronavirus{冠状 病毒 }after{在 后 }infections{感染 }and{和 }hospitalizations{住院 }because{由于 }of{由于 }COVID-19{COVID - 19 }skyrocketed{狂飙 }.{。 }
+
+#31Trump has continued his attacks on mail-in ballots , saying he would deploy lawyers if states are still counting votes after Election day .
+特朗普 继续 攻击 邮寄 选票 ， 称 如果 选举 日后 各州 仍 在 计票 ， 他 将 部署 律师 。
+Trump{特朗普 }has{}continued{继续 }his{}attacks{攻击 }on{}mail-in{邮寄 }ballots{选票 },{， }saying{称 }he{他 }would{将 }deploy{部署 }lawyers{律师 }if{如果 }states{各州 }are{在 }still{仍 }counting{计票 }votes{计票 }after{日后 }Election{}day{日后 }.{。 }
+
+#32Fiscal policy has always responded to large shocks but there is now a question about whether the threshold for intervention should be lowered .
+财政 政策 总是 对 巨大 的 冲击 做出 反应 ， 但 现在 有 一个 问题 是 ， 干预 的 门槛 是否 应该 降低 。
+Fiscal{财政 }policy{政策 }has{}always{总是 }responded{反应 }to{对 }large{巨大 }shocks{冲击 }but{但 }there{有 }is{}now{现在 }a{一个 }question{问题 }about{是 }whether{是否 }the{的 }threshold{门槛 }for{}intervention{干预 }should{应该 }be{}lowered{降低 }.{。 }
+
+#33The cash injection will help with the construction and maintenance costs of St Paul 's , which is normally a huge tourist attraction .
+这笔 现金 注入 将 有助于 支付 圣保罗 的 建设 和 维护 费用 ， 圣保罗 通常 是 一个 巨大 的 旅游 景点 。
+The{这笔 }cash{现金 }injection{注入 }will{将 }help{有助于 }with{有助于 }the{的 }construction{建设 }and{和 }maintenance{维护 }costs{费用 }of{}St{圣保罗 }Paul{圣保罗 }'s{圣保罗 圣保罗 },{， }which{}is{是 }normally{通常 }a{一个 }huge{巨大 }tourist{旅游 }attraction{景点 }.{。 }
+
+#34Wednesday 's meeting also adopted conclusions on an action plan against money laundering and terrorist financing presented by the european commission in May .
+周三 的 会议 还 通过 了 欧盟 委员会 5 月份 提交 的 打击 洗钱 和 资助 恐怖主义 行动 计划 的 结论 。
+Wednesday{周三 }'s{的 }meeting{会议 }also{还 }adopted{通过 }conclusions{结论 }on{}an{的 }action{}plan{计划 }against{打击 }money{洗钱 }laundering{洗钱 }and{和 }terrorist{恐怖主义 }financing{资助 行动 }presented{提交 }by{}the{}european{欧盟 }commission{委员会 }in{}May{5 }.{。 }
+
+#35The report said modernization of port infrastructure assets is a fundamental component of Africa 's transformation , competitiveness , industrialization and economic integration .
+报告 称 ， 港口 基础 设施 资产 现代化 是 非洲 转型 、 竞争力 、 工业化 和 经济 一体化 的 基本 组成部分 。
+The{}report{报告 }said{称 }modernization{现代化 }of{}port{港口 }infrastructure{设施 }assets{资产 }is{是 }a{的 }fundamental{基本 }component{组成部分 }of{}Africa{非洲 }'s{}transformation{转型 },{、 }competitiveness{竞争力 },{、 }industrialization{工业化 }and{和 }economic{经济 }integration{一体化 }.{。 }
+
+#36Net-zero carbon emissions will be a ginormous turnaround in four decades and has to be done without too much negative impact on economic development .
+净零碳 排放 将 在 四十 年 内 实现 巨大 的 转变 ， 必须 在 不 对 经济 发展 造成 太 多 负面 影响 的 情况 下 实现 。
+Net-zero{净零碳 }carbon{净零碳 }emissions{排放 }will{将 }be{实现 }a{的 }ginormous{巨大 }turnaround{转变 }in{在 }four{四十 }decades{年 }and{， }has{必须 }to{必须 }be{}done{实现 }without{在 不 }too{太 }much{多 }negative{负面 }impact{影响 }on{对 }economic{经济 }development{发展 }.{。 }
+
+#37An inquiry is being launched into the compensation scheme set up for victims of the Windrush scandal .
+正在 对 为 风车 丑闻 受害者 设立 的 赔偿 计划 展开 调查 。
+An{}inquiry{调查 }is{正在 }being{正在 }launched{展开 }into{对 }the{的 }compensation{赔偿 }scheme{计划 }set{设立 }up{设立 }for{为 }victims{受害者 }of{}the{}Windrush{风车 }scandal{丑闻 }.{。 }
+
+#38Biden has multiple paths to reach the magic number of 270 needed to win the White House , while Trump 's prospects are limited .
+拜登 有 多种 途径 可以 达到 赢得 白宫 所 需 的 270 个 神奇 数字 ， 而 特朗普 的 前景 有限 。
+Biden{拜登 }has{有 }multiple{多种 }paths{途径 }to{可以 }reach{达到 }the{}magic{神奇 }number{数字 }of{的 }270{270 }needed{需 }to{}win{赢得 }the{}White{白宫 }House{白宫 },{， }while{而 }Trump{特朗普 }'s{的 }prospects{前景 }are{}limited{有限 }.{。 }
+
+#39The guidelines previously said the virus spreads only through breathing in respiratory droplets , touching contaminated surfaces and common greetings like kisses and hugs .
+之前 的 指导 方针 称 ， 病毒 只 会 通过 吸 入 呼吸道 飞沫 、 接触 污染 表面 以及 亲吻 和 拥抱 等 常见 问候 方式 传播 。
+The{的 }guidelines{指导 方针 }previously{之前 }said{称 }the{}virus{病毒 }spreads{传播 }only{只 }through{通过 }breathing{吸 }in{}respiratory{呼吸道 }droplets{飞沫 },{、 }touching{接触 }contaminated{污染 }surfaces{表面 }and{以及 }common{常见 }greetings{}like{}kisses{亲吻 }and{和 }hugs{拥抱 }.{。 }
+
+#40It is essential that learning is applied to planning for this winter , including what services can be delivered safely .
+将 学习 应用 于 今年 冬天 的 规划 ， 包括 安全 提供 哪些 服务 ， 这 一点 至关重要 。
+It{这 }is{至关重要 }essential{至关重要 }that{将 }learning{学习 }is{}applied{应用 }to{于 }planning{规划 }for{}this{今年 }winter{冬天 },{， }including{包括 }what{哪些 }services{服务 }can{}be{}delivered{提供 }safely{安全 }.{。 }
+
+#41Then when there is a peak in demand in a day or a month , the liquid air will be warmed so it expands .
+然后 ， 当 一 天 或 一个 月 的 需求 达到 峰值 时 ， 液态 空气 将 被 加热 ， 从而 膨胀 。
+Then{然后 }when{当 }there{}is{达到 }a{达到 }peak{峰值 }in{的 }demand{需求 }in{}a{一 }day{天 }or{或 }a{一个 }month{月 },{， }the{}liquid{液态 }air{空气 }will{将 }be{被 }warmed{加热 }so{从而 }it{}expands{膨胀 }.{。 }
+
+#42The figures came as England is set to enter a month-long lockdown from Thursday in a bid to quell the resurgence of the coronavirus .
+这些 数字 公布 之际 ， 英国 将 从 周四 开始 进入 为期 一个 月 的 封锁 期 ， 以 遏制 新冠 病毒 的 死灰复燃 。
+The{这些 }figures{数字 }came{公布 }as{之际 }England{英国 }is{将 }set{}to{将 }enter{进入 }a{的 }month-long{为期 月 }lockdown{封锁 }from{从 }Thursday{周四 }in{}a{}bid{}to{以 }quell{遏制 }the{的 }resurgence{死灰复燃 }of{}the{}coronavirus{新冠 病毒 }.{。 }
+
+#43The EU recognizes the waters as belonging to greece and said it would be illegal for Turkey to conduct drilling and energy exploration there .
+欧盟 承认 这些 水域 属于 希腊 ， 并 表示 土耳其 在 那里 进行 钻探 和 能源 勘探 是 非法 的 。
+The{}EU{欧盟 }recognizes{承认 }the{这些 }waters{水域 }as{}belonging{属于 }to{属于 }greece{希腊 }and{并 }said{表示 }it{}would{}be{是 }illegal{非法 }for{}Turkey{土耳其 }to{在 }conduct{进行 }drilling{钻探 }and{和 }energy{能源 }exploration{勘探 }there{那里 }.{。 }
+
+#44Financial services firms entered the pandemic in a position of capital strength and have supported the economy and business to unprecedented levels since March .
+金融 服务 公司 以 资本 实力 进入 疫情 ， 并 自 3 月 以来 将 经济 和 商业 支持 到 前所未有 的 水平 。
+Financial{金融 }services{服务 }firms{公司 }entered{进入 }the{}pandemic{疫情 }in{以 }a{}position{}of{}capital{资本 }strength{实力 }and{并 }have{}supported{支持 }the{}economy{经济 }and{和 }business{商业 }to{到 }unprecedented{前所未有 }levels{水平 }since{自 }March{3 }.{。 }
+
+#45Search and rescue operations have been going on around the clock in the debris of a total of eight collapsed buildings in the province .
+搜救 行动 一直 在 该省 八 栋 倒塌 建筑 的 废墟 中 昼夜 不 停 地 进行 。
+Search{搜救 }and{}rescue{搜救 }operations{行动 }have{一直 }been{一直 }going{进行 }on{}around{}the{地 }clock{昼夜 }in{在 }the{的 }debris{废墟 }of{}a{}total{}of{}eight{八 }collapsed{倒塌 }buildings{建筑 }in{}the{该省 }province{该省 }.{。 }
+
+#46The Nobel Peace Prize is decided , as Nobel laureate , by the Norwegian Nobel Committee , comprising five members appointed by the Norwegian Parliament .
+作为 诺贝尔奖 获得者 ， 诺贝尔 和平 奖 由 挪威 诺贝尔 委员会 决定 ， 该 委员会 由 挪威 议会 任命 的 五 名 成员 组成 。
+The{}Nobel{诺贝尔奖 }Peace{和平 }Prize{奖 }is{}decided{决定 },{}as{作为 }Nobel{}laureate{获得者 },{， }by{由 }the{}Norwegian{挪威 }Nobel{诺贝尔 }Committee{委员会 },{， }comprising{组成 }five{五 }members{成员 }appointed{任命 }by{由 }the{}Norwegian{挪威 }Parliament{议会 }.{。 }
+
+#47Many universities in the United Kingdom are chartering flights to help bring thousands of Chinese students to study in the country despite the COVID-19 pandemic .
+尽管 CVID - 19 大 流行 ， 英国 很多 大学 都 租用 航班 帮助 成千上万 的 中国 学生 到 该国 学习 。
+Many{很多 }universities{大学 }in{， }the{}United{英国 }Kingdom{英国 }are{都 }chartering{租用 }flights{航班 }to{}help{帮助 }bring{}thousands{成千上万 }of{的 }Chinese{中国 }students{学生 }to{到 }study{学习 }in{到 }the{该国 }country{该国 }despite{尽管 }the{}COVID-19{CVID - 19 }pandemic{流行 }.{。 }
+
+#48Xi called on the two nations to jointly uphold multilateralism and firmly safeguard the international order and system with the United Nations at the core .
+席 呼吁 两 国 共同 维护 多边 主义 ， 牢固 维护 以 联合国 为 核心 的 国际 秩序 和 制度 。
+Xi{席 }called{呼吁 }on{}the{}two{两 }nations{国 }to{}jointly{共同 }uphold{维护 }multilateralism{多边 主义 }and{， }firmly{牢固 }safeguard{维护 }the{的 }international{国际 }order{秩序 }and{和 }system{制度 }with{以 }the{}United{联合国 }Nations{联合国 }at{为 }the{}core{核心 }.{。 }
+
+#49By winning the northern battlegrounds of Michigan and Wisconsin , Biden added to his electoral vote count while Trump 's total remained fixed on 214 .
+通过 赢得 密歇根州 和 威斯康星州 的 北部 战场 ， 拜登 增加 了 他 的 选举 计票 ， 而 特朗普 的 总 票数 保持 在 214 。
+By{通过 }winning{赢得 }the{的 }northern{北部 }battlegrounds{战场 }of{}Michigan{密歇根州 }and{和 }Wisconsin{威斯康星州 },{， }Biden{拜登 }added{增加 }to{了 }his{他 }electoral{选举 }vote{计票 }count{计票 }while{而 }Trump{特朗普 }'s{的 }total{票数 }remained{保持 }fixed{保持 }on{在 }214{214 }.{。 }
+
+#50It urged local authorities to ask drivers to move their vehicles to car parks near disused shops , pubs and restaurants while repairs take place .
+它 敦促 地方 当局 要求 司机 在 维修 期间 将 车辆 转移 到 废弃 商店 、 酒吧 和 餐馆 附近 的 停车场 。
+It{它 }urged{敦促 }local{地方 }authorities{当局 }to{}ask{要求 }drivers{司机 }to{}move{转移 }their{}vehicles{车辆 }to{到 }car{}parks{停车场 }near{附近 }disused{废弃 }shops{商店 },{、 }pubs{酒吧 }and{和 }restaurants{餐馆 }while{期间 }repairs{维修 }take{}place{}.{。 }
+
+#51Snowden has been taking refuge in Russia and is wanted by the United States on charges of espionage and theft of government property .
+斯诺 登 一直 在 俄罗斯 避难 ， 被 美国 通缉 ， 罪名 是 间谍 活动 和 盗窃 政府 财产 。
+Snowden{斯诺 登 }has{一直 }been{一直 }taking{}refuge{避难 }in{在 }Russia{俄罗斯 }and{， }is{被 }wanted{通缉 }by{被 }the{}United{美国 }States{}on{}charges{罪名 }of{是 }espionage{间谍 活动 }and{和 }theft{盗窃 }of{}government{政府 }property{财产 }.{。 }
+
+#52A draft report concluded in the summer that Home Secretary Priti Patel had broken rules on ministers ' behaviour , sources familiar with the contents say .
+据 知情 人士 透露 ， 一 份 报告 草稿 在 今年 夏天 得出 结论 ， 内政部长 普里 蒂 · 帕特尔 违反 了 有关 部长 行为 的 规定 。
+A{一 }draft{草稿 }report{报告 }concluded{结论 }in{在 }the{今年 }summer{夏天 }that{， }Home{内政部长 }Secretary{内政部长 }Priti{普里 蒂 }Patel{帕特尔 }had{了 }broken{违反 }rules{规定 }on{有关 }ministers{部长 }'{的 }behaviour{行为 },{}sources{人士 }familiar{}with{}the{有关 的 }contents{}say{}.{。 }
+
+#53Boris Johnson has defended how Covid statistics are being used after data shown in a presentation to justify the lockdown in England had to be revised .
+鲍里斯 · 约翰逊 为 新冠 肺炎 统计 数据 的 使用 进行 了 辩护 。 此前 ， 一 份 报告 中 显示 的 数据 不得不 被 修改 ， 以 证明 英国 的 封锁 是 合理 的 。
+Boris{鲍里斯 }Johnson{约翰逊 }has{}defended{辩护 }how{为 }Covid{新冠 }statistics{数据 }are{}being{}used{使用 }after{}data{数据 }shown{显示 }in{中 }a{一 }presentation{报告 }to{以 }justify{证明 }the{的 }lockdown{封锁 }in{}England{英国 }had{不得不 }to{的 }be{被 }revised{修改 }.{。 }
+
+#54He again made no public appearances on Thursday , skipping the first coronavirus task force briefing at the White House in more than six months .
+周四 ， 他 再次 没有 公开 露面 ， 缺席 了 六 个 多 月 来 首 次 在 白宫 举行 的 冠状 病毒 特别 工作组 简报 会 。
+He{他 }again{再次 }made{}no{没有 }public{公开 }appearances{露面 }on{， }Thursday{周四 },{， }skipping{缺席 }the{的 }first{首 }coronavirus{冠状 病毒 }task{工作组 }force{工作组 }briefing{简报 }at{在 }the{}White{白宫 }House{白宫 }in{了 }more{}than{}six{六 }months{月 }.{。 }
+
+#55One theory has suggested that the moon was formed around 4 billion years ago when a planet roughly the size of mars slammed into the Earth .
+一 种 理论 认为 ， 月球 形成 于 大约 40 亿 年 前 ， 当时 一 颗 大小 与 火星 差不多 的 行星 撞击 地球 。
+One{一 }theory{理论 }has{}suggested{认为 }that{认为 }the{}moon{月球 }was{}formed{形成 }around{大约 }4{40 }billion{亿 }years{年 }ago{前 }when{， }a{一 }planet{行星 }roughly{大小 }the{}size{大小 }of{的 }mars{}slammed{撞击 }into{}the{}Earth{地球 }.{。 }
+
+#56A Chinese citizen , who worked at the same company , was injured in the attack and is now in stable condition , the embassy said .
+大使馆 称 ， 在 同 一 家 公司 工作 的 一 名 中国 公民 在 袭击 中 受伤 ， 目前 情况 稳定 。
+A{一 }Chinese{中国 }citizen{公民 },{}who{的 }worked{工作 }at{在 }the{}same{同 }company{公司 },{}was{}injured{受伤 }in{在 }the{}attack{袭击 }and{， }is{}now{目前 }in{}stable{稳定 }condition{情况 },{}the{}embassy{大使馆 }said{称 }.{。 }
+
+#57He also warned that a second lockdown could present new challenges to public spending plans , adding that the spending review is going to get hard .
+他 还 警告 说 ， 第二 次 封锁 可能 会 给 公共 支出 计划 带来 新 的 挑战 ， 并 补充 说 ， 支出 审查 将 变 得 困难 。
+He{他 }also{还 }warned{警告 }that{， }a{}second{第二 }lockdown{封锁 }could{会 }present{带来 }new{新 }challenges{挑战 }to{给 }public{公共 }spending{支出 }plans{计划 },{， }adding{补充 }that{， }the{}spending{支出 }review{审查 }is{}going{将 }to{得 }get{变 }hard{困难 }.{。 }
+
+#58During the meeting , the two presidents also discussed the issue of illegal immigration and the solutions that must be reached together to address the issue .
+在 会晤 中 ， 两 国 总统 还 讨论 了 非法 移民 问题 以及 必须 共同 达成 的 解决 方案 。
+During{在 }the{}meeting{会晤 },{， }the{}two{两 }presidents{总统 }also{还 }discussed{讨论 }the{了 }issue{问题 }of{}illegal{非法 }immigration{移民 }and{以及 }the{的 }solutions{方案 }that{}must{必须 }be{}reached{达成 }together{共同 }to{}address{}the{}issue{}.{。 }
+
+#59The EU and UK chief negotiators have stepped back from post-Brexit trade talks after a member of the EU team tested positive for Covid-19 .
+欧盟 和 英国 首席 谈判 代表 在 欧盟 成员国 对 COVID - 19 进行 了 积极 测试 后 ， 退出 了 英国 退欧 谈判 。
+The{}EU{欧盟 }and{和 }UK{英国 }chief{首席 }negotiators{谈判 代表 }have{}stepped{退出 }back{退出 }from{}post-Brexit{}trade{}talks{谈判 }after{后 }a{}member{成员国 }of{}the{了 }EU{欧盟 }team{成员国 }tested{测试 }positive{积极 }for{对 }Covid-19{COVID - 19 }.{。 }
+
+#60He said the move would allow the government to boost the economy whenever it is flagging rather than just after a large shock such as the pandemic .
+他 说 ， 这 一 举措 将 使 政府 能够 在 经济 衰退 时 提振 经济 ， 而 不 是 仅仅 在 疫情 等 大规模 冲击 之后 。
+He{他 }said{说 }the{这 }move{举措 }would{将 }allow{使 }the{}government{政府 }to{能够 }boost{提振 }the{}economy{经济 }whenever{时 }it{}is{}flagging{衰退 }rather{而 }than{不 是 }just{仅仅 }after{在 }a{}large{大规模 }shock{冲击 }such{等 }as{}the{}pandemic{疫情 }.{。 }
+
+#61A railway line used in Prince Charles ' investiture at Caernarfon in 1969 should be considered for reopening , a Member of the Senedd has said .
+Senedd 的 一 名 成员 表示 ， 1969 年 查尔斯 王子 在 卡纳尔 丰 的 授勋 仪式 上 使用 的 一 条 铁路线 应该 考虑 重新 开放 。
+A{一 }railway{铁路线 }line{铁路线 }used{使用 }in{在 }Prince{王子 }Charles{查尔斯 }'{的 }investiture{授勋 仪式 }at{在 }Caernarfon{卡纳尔 丰 }in{年 }1969{1969 }should{应该 }be{}considered{考虑 }for{}reopening{重新 开放 },{， }a{一 }Member{成员 }of{}the{}Senedd{Senedd }has{}said{表示 }.{。 }
+
+#62Tsiodras warned that the healthcare system will be under more pressure in the coming days , and that hospital admissions will not be confined to the elderly .
+齐奥 德拉斯 警告 说 ， 未来 几 天 ， 医疗 系统 将 面临 更 大 的 压力 ， 住院 治疗 将 不仅 限于 老年人 。
+Tsiodras{齐奥 德拉斯 }warned{警告 }that{， }the{}healthcare{医疗 }system{系统 }will{将 }be{}under{面临 }more{更 }pressure{压力 }in{}the{的 }coming{未来 }days{天 },{， }and{， }that{}hospital{住院 }admissions{治疗 }will{将 }not{不仅 }be{}confined{限于 }to{限于 }the{}elderly{老年人 }.{。 }
+
+#63The report was put out by the African Union Development Agency and the African Development Bank after a study into the establishment of a continental electricity grid .
+这 份 报告 是 非洲 联盟 开发署 和 非洲 开发 银行 在 对 建立 大陆 电网 进行 研究 后 发布 的 。
+The{这 }report{报告 }was{是 }put{发布 }out{}by{}the{}African{非洲 }Union{联盟 }Development{开发署 }Agency{开发署 }and{和 }the{}African{非洲 }Development{开发 }Bank{银行 }after{后 }a{进行 }study{研究 }into{对 }the{}establishment{建立 }of{}a{}continental{大陆 }electricity{电网 }grid{电网 }.{。 }
+
+#64The Chinese embassy urged Chinese residents , students and employees in local Chinese enterprises to abide by Austrian police rules and stay at home to protect their safety .
+中国 大使馆 敦促 中国 居民 、 学生 和 中国 当地 企业 的 员工 遵守 奥地利 警方 的 规定 ， 呆 在 家里 保护 自己 的 安全 。
+The{}Chinese{中国 }embassy{大使馆 }urged{敦促 }Chinese{中国 }residents{居民 },{、 }students{学生 }and{和 }employees{员工 }in{}local{当地 }Chinese{中国 }enterprises{企业 }to{}abide{遵守 }by{遵守 }Austrian{奥地利 }police{警方 }rules{规定 }and{， }stay{呆 }at{在 }home{家里 }to{}protect{保护 }their{自己 }safety{安全 }.{。 }
+
+#65The toughest social curbs were announced amid warnings that hospitalisations and deaths could exceed those seen during the first wave of the virus in the next six weeks .
+在 宣布 最 严厉 的 社会 限制 措施 之际 ， 有人 警告 称 ， 在 未来 六 周 内 ， 住院 人数 和 死亡 人数 可能 超过 病毒 第一 波 期间 的 人数 。
+The{的 }toughest{最 严厉 }social{社会 }curbs{限制 措施 }were{， 有人 }announced{宣布 }amid{之际 }warnings{警告 }that{称 ， }hospitalisations{住院 人数 }and{和 }deaths{死亡 }could{可能 }exceed{超过 }those{人数 }seen{}during{期间 }the{的 的 }first{第一 }wave{波 }of{}the{}virus{病毒 }in{在 }the{}next{未来 }six{六 }weeks{周 }.{。 }
+
+#66Chinese photographers enjoyed more international success as the winners of the 56th Wildlife Photographer of the Year awards were announced at the Natural History Museum in London on Tuesday .
+周二 ， 伦敦 自然 历史 博物馆 宣布 了 第 56 届 年度 野生 动物 摄影师 奖 的 获奖者 ， 中国 摄影师 在 国际 上 取得 了 更 大 的 成功 。
+Chinese{中国 }photographers{摄影师 }enjoyed{取得 }more{更 }international{国际 }success{成功 }as{， }the{的 }winners{获奖者 }of{}the{第 }56th{56 届 }Wildlife{野生 }Photographer{摄影师 }of{}the{}Year{年度 }awards{奖 }were{}announced{宣布 }at{在 }the{}Natural{自然 }History{历史 }Museum{博物馆 }in{在 }London{伦敦 }on{}Tuesday{周二 }.{。 }
+
+#67This is a credit to the hard work of our county and local elections officials who moved quickly to undertake and complete such a momentous task in a short period of time .
+这 要 归功 于 我们 县 和 地方 选举 官员 的 辛勤 工作 ， 他们 迅速 采取 行动 ， 在 短时间 内 承担 并 完成 了 如此 重大 的 任务 。
+This{这 }is{要 }a{}credit{归功 }to{于 }the{的 }hard{辛勤 }work{工作 }of{}our{我们 }county{县 }and{和 }local{地方 }elections{选举 }officials{官员 }who{他们 }moved{}quickly{迅速 }to{}undertake{采取 承担 }and{并 }complete{完成 }such{如此 }a{的 }momentous{重大 }task{任务 }in{在 }a{}short{短时间 }period{短时间 }of{的 }time{短时间 }.{。 }
+
+#68US president Donald Trump 's youngest son Barron Trump had COVID-19 with no symptoms and now tests negative , first lady Melania Trump posted a family health update on Wednesday .
+美国 总统 唐纳德 · 特朗普 的 小儿子 Barron Trump 有 CVID - 19 ， 没有 症状 ， 现在 测试 阴性 ， 第一 夫人 Melania Trump 星期三 公布 了 家庭 健康 更新 。
+US{美国 }president{总统 }Donald{唐纳德 }Trump{}'s{的 }youngest{小儿子 }son{小儿子 }Barron{Barron }Trump{Trump }had{有 }COVID-19{CVID - 19 }with{， }no{没有 }symptoms{症状 }and{， }now{现在 }tests{测试 }negative{阴性 },{， }first{第一 }lady{夫人 }Melania{Melania }Trump{Trump }posted{公布 }a{了 }family{家庭 }health{健康 }update{更新 }on{}Wednesday{星期三 }.{。 }
+
+#69In a statement on Friday morning , the Trump campaign said they believe this election is not over , arguing that results in some battleground states are far from final .
+在 周五 上午 的 一 份 声明 中 ， 特朗普 竞选 团队 表示 ， 他们 认为 这 次 选举 还 没有 结束 ， 他们 认为 一些 战场 州 的 选举 结果 还 远 未 结束 。
+In{在 }a{一 }statement{声明 }on{在 }Friday{周五 }morning{上午 },{， }the{}Trump{特朗普 }campaign{竞选 }said{表示 }they{他们 }believe{认为 }this{这 }election{选举 }is{还 }not{没有 }over{结束 },{， }arguing{认为 }that{认为 }results{结果 }in{的 }some{一些 }battleground{战场 }states{州 }are{还 }far{远 }from{}final{结束 }.{。 }
+
+#70Experts predict road use will decline again this time around but , with schools and universities staying open , the effect is not expected to be as dramatic as before .
+专家 预测 ， 这 一 次 道路 使用量 将 再次 下降 ， 但 随着 学校 和 大学 继续 开放 ， 预计 影响 不 会 像 以前 那么 大 。
+Experts{专家 }predict{预测 }road{道路 }use{使用量 }will{将 }decline{下降 }again{再次 }this{这 }time{次 }around{}but{但 },{}with{随着 }schools{学校 }and{和 }universities{大学 }staying{继续 }open{开放 },{， }the{}effect{影响 }is{}not{不 }expected{预计 }to{会 }be{会 }as{那么 }dramatic{大 }as{像 }before{以前 }.{。 }
+
+#71Emanuel has expressed his interest in the post , telling allies that the nation 's infrastructure challenges are so dire that a person with experience from the executive and legislative branch would be an asset .
+伊曼纽尔 表达 了 他 对 《 华盛顿 邮报 》 的 兴趣 ， 他 告诉 盟友 ， 美国 的 基础 设施 挑战 非常 严峻 ， 一个 拥有 行政 和 立法 部门 经验 的 人 将 是 一 笔 财富 。
+Emanuel{伊曼纽尔 }has{}expressed{表达 }his{他 }interest{兴趣 }in{对 }the{《 }post{邮报 },{， }telling{告诉 }allies{盟友 }that{， }the{}nation{美国 }'s{的 }infrastructure{基础 设施 }challenges{挑战 }are{非常 }so{非常 }dire{严峻 }that{， }a{一个 }person{人 }with{拥有 }experience{经验 }from{}the{}executive{行政 }and{和 }legislative{立法 }branch{部门 }would{将 }be{是 }an{一 }asset{财富 }.{。 }
+
+#72Models of our scientists suggest that unless we act now , we could see deaths over the winter that are twice as bad or more compared with the first wave .
+我们 科学家 的 模型 表明 ， 除非 我们 现在 采取 行动 ， 否则 冬天 的 死亡 人数 可能 是 第一 波 死亡 人数 的 两 倍 或 更 多 。
+Models{模型 }of{的 }our{我们 }scientists{科学家 }suggest{表明 }that{， }unless{除非 }we{我们 }act{采取 行动 }now{现在 },{， }we{}could{可能 }see{}deaths{死亡 }over{}the{的 }winter{冬天 }that{}are{是 }twice{两 }as{}bad{}or{或 }more{更 多 }compared{}with{}the{}first{第一 }wave{波 }.{。 }
+
+#73President Trump said he feels good after testing positive for Covid-19 weeks ago and could n't recall whether he was tested on the day of the first presidential debate .
+特朗普 总统 说 ， 他 在 19 周前 对 科 维德 的 测试 结果 很 好 ， 他 不 记得 他 是否 在 第一 次 总统 辩论 当天 进行 了 测试 。
+President{总统 }Trump{特朗普 }said{说 }he{他 }feels{很 }good{好 }after{}testing{测试 }positive{}for{对 }Covid-19{19 科 维德 }weeks{周前 }ago{周前 }and{， }could{}n't{不 }recall{记得 }whether{是否 }he{他 }was{进行 了 }tested{测试 }on{在 }the{当天 }day{当天 }of{}the{}first{第一 }presidential{总统 }debate{辩论 }.{。 }
+
+#74The rapid growth of artificial intelligence presents an opportunity for Africa to provide solutions to some of its most pressing problems , such as food security , healthcare and financial services .
+人工智能 的 快速 发展 为 非洲 提供 了 一个 机会 ， 为 其 一些 最 紧迫 的 问题 提供 解决 方案 ， 如 粮食 安全 、 医疗 保健 和 金融 服务 。
+The{的 }rapid{快速 }growth{发展 }of{}artificial{人工智能 }intelligence{人工智能 }presents{提供 }an{一个 }opportunity{机会 }for{为 }Africa{非洲 }to{， }provide{提供 }solutions{解决 }to{为 }some{一些 }of{}its{其 }most{最 }pressing{紧迫 }problems{问题 },{， }such{}as{如 }food{粮食 }security{安全 },{、 }healthcare{医疗 保健 }and{和 }financial{金融 }services{服务 }.{。 }
+
+#75AI is considered a combination of technologies that enable machines to adopt humanlike intelligence to sense and comprehend their environments , and consequently take appropriate actions to fulfill a particular task .
+人工智能 被 认为 是 一 种 技术 组合 ， 使 机器 能够 采用 类似 人类 的 智能 来 感知 和 理解 环境 ， 从而 采取 适当 的 行动 来 完成 特定 的 任务 。
+AI{人工智能 }is{被 }considered{认为 }a{一 }combination{组合 }of{}technologies{技术 }that{， }enable{使 }machines{机器 }to{能够 }adopt{采用 }humanlike{类似 人类 }intelligence{智能 }to{来 }sense{感知 }and{和 }comprehend{理解 }their{}environments{环境 },{， }and{从而 }consequently{从而 }take{采取 }appropriate{适当 }actions{行动 }to{来 }fulfill{完成 }a{的 }particular{特定 }task{任务 }.{。 }
+
+#76But while both sides said a deal needed to be done in October , they have yet to come to an agreement , and talks between the negotiating teams have intensified .
+但 尽管 双方 都 表示 需要 在 10 月份 达成 协议 ， 但 尚未 达成 协议 ， 谈判 团队 之间 的 谈判 也 在 加强 。
+But{但 }while{尽管 }both{双方 }sides{双方 }said{表示 }a{}deal{协议 }needed{需要 }to{}be{}done{达成 }in{在 }October{10 },{， }they{}have{}yet{尚未 }to{}come{达成 }to{达成 }an{}agreement{协议 },{}and{}talks{谈判 }between{之间 }the{}negotiating{谈判 }teams{团队 }have{在 }intensified{加强 }.{。 }
+
+#77Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a continent-wide market .
+随着 一 份 报告 的 发布 ， 非洲 计划 改善 其 能源 部门 ， 并 将 更 多 家庭 和 企业 与 电力 供应 联系 起来 ， 该 报告 设想 了 一个 覆盖 整个 非洲 大陆 的 市场 。
+Plans{计划 }for{}Africa{非洲 }to{}improve{改善 }its{其 }energy{能源 }sector{部门 }and{并 }connect{联系 }more{更 }households{家庭 }and{和 }enterprises{企业 }to{与 }power{电力 }supplies{供应 }are{}gathering{}steam{}with{随着 }the{的 }release{发布 }of{}a{一 }report{报告 }that{}envisages{设想 覆盖 }a{一个 }continent-wide{整个 非洲 }market{市场 }.{。 }
+
+#78The lockdown , which began on Thursday , calls for non-essential shops to close , people to work from home if possible , and most sporting and leisure facilities to be mothballed .
+从 周四 开始 的 封锁 要求 关闭 不必要 的 商店 ， 如果 可能 的话 ， 人们 在家 工作 ， 大部分 体育 和 休闲 设施 被 封存 。
+The{的 }lockdown{封锁 },{}which{}began{开始 }on{从 }Thursday{周四 },{， }calls{要求 }for{}non-essential{不必要 }shops{商店 }to{的 }close{关闭 },{， }people{人们 }to{}work{工作 }from{在家 }home{在家 }if{如果 }possible{可能 },{， }and{， }most{大部分 }sporting{体育 }and{和 }leisure{休闲 }facilities{设施 }to{}be{被 }mothballed{封存 }.{。 }
+
+#79Trump is listening to his friends , this source said , but hurriedly ends conversations because he disagrees .
+这 位 消息 人士 说 ， 特朗普 正在 听取 朋友 们 的 意见 ， 但 由于 不 同意 ， 他 匆忙 结束 了 对话 。
+Trump{特朗普 }is{正在 }listening{听取 }to{}his{的 }friends{朋友 },{}this{这 }source{人士 }said{说 },{， }but{但 }hurriedly{匆忙 }ends{结束 }conversations{对话 }because{由于 }he{他 }disagrees{不 同意 }.{。 }
+
+#80New Zealand 's election will hardly change the main course of the country 's relationship with China despite some challenging moments during the year , analysts said ahead of the poll on Saturday .
+分析 人士 在 周六 投票 前 表示 ， 尽管 新西兰 在 这 一 年 中 经历 了 一些 具有 挑战性 的 时刻 ， 但 选举 几乎 不 会 改变 该国 与 中国 关系 的 主要 方向 。
+New{新西兰 }Zealand{新西兰 }'s{}election{投票 选举 }will{会 }hardly{几乎 不 }change{改变 }the{的 }main{主要 }course{}of{的 }the{该国 }country{该国 }'s{的 }relationship{关系 }with{与 }China{中国 }despite{但 }some{一些 }challenging{挑战性 }moments{时刻 }during{在 中 }the{这 }year{年 },{， ， }analysts{分析 人士 }said{表示 }ahead{前 }of{}the{}poll{}on{在 }Saturday{周六 }.{。 }
+
+#81Greg Abbott 's order limiting ballot drop boxes to one per county , injecting more uncertainty into the battle over mail-in voting in the state .
+格雷格 · 阿博特 的 命令 将 选票 投递 箱 限制 在 每个 县 一个 ， 这 给 该州 的 邮寄 投票 战 带来 了 更 多 的 不确定性 。
+Greg{格雷格 }Abbott{阿博特 }'s{的 }order{命令 }limiting{将 限制 }ballot{选票 }drop{投递 }boxes{箱 }to{在 }one{一个 }per{每个 }county{县 },{， }injecting{带来 }more{更 }uncertainty{不确定性 }into{给 }the{的 }battle{战 }over{}mail-in{邮寄 }voting{投票 }in{}the{该州 }state{该州 }.{。 }
+
+#82Trump extended the invitation on Thursday morning to the Michigan lawmakers by calling the state senate 's Republican majority leader , the person familiar said .
+知情 人士 说 ， 特朗普 在 周四 上午 致电 州 参议院 共和党 多数 党 领袖 ， 向 密歇根州 议员 发出 了 邀请 。
+Trump{特朗普 }extended{致电 发出 }the{了 }invitation{邀请 }on{在 }Thursday{周四 }morning{上午 }to{向 }the{}Michigan{密歇根州 }lawmakers{议员 }by{， }calling{致电 发出 }the{}state{州 }senate{参议院 }'s{}Republican{共和党 }majority{多数 }leader{领袖 },{， }the{}person{人士 }familiar{知情 }said{说 }.{。 }
+
+#83Democratic presidential candidate Joe Biden attacked President Donald Trump 's handling of the coronavirus pandemic on Thursday , as the two candidates held dueling televised town halls after their second planned debate was canceled .
+周四 ， 民主党 总统 候选人 乔 · 拜登 攻击 了 唐纳德 · 特朗普 总统 对 新冠 病毒 大 流行 的 处理 方式 ， 两 位 候选人 在 计划 中 的 第二 次 辩论 被 取消 后 在 电视 转播 的 市政厅 举行 了 决斗 。
+Democratic{民主党 }presidential{总统 }candidate{候选人 }Joe{乔 }Biden{拜登 }attacked{攻击 }President{总统 }Donald{唐纳德 }Trump{特朗普 }'s{的 }handling{处理 }of{对 }the{}coronavirus{新冠 病毒 }pandemic{病毒 }on{}Thursday{周四 },{， }as{}the{}two{两 }candidates{候选人 }held{举行 }dueling{决斗 }televised{电视 转播 }town{市政厅 }halls{市政厅 }after{后 }their{的 }second{第二 }planned{计划 }debate{辩论 }was{被 }canceled{取消 }.{。 }
+
+#84Even as hopes of reaching survivors began to fade , rescuers pulled a young girl out alive from the rubble of a collapsed apartment building on Tuesday , four days after the strong earthquake .
+就 在 抵达 幸存者 的 希望 开始 消退 之际 ， 周二 ， 在 强烈 地震 发生 四 天 后 ， 救援 人员 从 倒塌 的 公寓楼 废墟 中 救 出 了 一 名 年轻 女孩 。
+Even{就 }as{在 }hopes{希望 }of{的 }reaching{抵达 }survivors{幸存者 }began{开始 }to{}fade{消退 },{， }rescuers{救援 人员 }pulled{救 }a{一 }young{年轻 }girl{女孩 }out{}alive{}from{从 }the{中 }rubble{废墟 }of{}a{的 }collapsed{倒塌 }apartment{公寓楼 }building{公寓楼 }on{}Tuesday{周二 },{， }four{四 }days{天 }after{后 }the{}strong{强烈 }earthquake{地震 }.{。 }
+
+#85It is taking shape under a collaboration with the university of Southern California 's Shoah Foundation , which uses technology to not only digitally archive survivors ' narratives but also allow narrators to interact online with visitors .
+它 正在 与 南加州 大学 的 Saah 基金会 合作 ， 它 利用 技术 不仅 数字化 存档 幸存者 的 叙述 ， 而且 允许 叙述者 与 访问者 在线 互动 。
+It{它 }is{正在 }taking{}shape{}under{}a{}collaboration{合作 }with{与 }the{}university{大学 }of{}Southern{南加州 }California{南加州 }'s{的 }Shoah{Saah }Foundation{基金会 },{， }which{它 }uses{利用 }technology{技术 }to{}not{不仅 }only{不仅 }digitally{数字化 }archive{数字化 存档 }survivors{幸存者 }'{的 }narratives{叙述 }but{而且 }also{而且 }allow{允许 }narrators{叙述者 }to{}interact{互动 }online{在线 }with{与 }visitors{访问者 }.{。 }
+
+#86The vote had been initiated by the populist right-wing swiss people 's party , known as the SVP , which claimed current regulations would lead to overpopulation , rising housing prices and a strained welfare system .
+这 次 投票 是 由 民粹主义 右翼 瑞士 人民党 发起 的 ， 该党 称 现行 法规 将 导致 人口 过剩 、 房价 上涨 和 福利 体系 紧张 。
+The{这 }vote{投票 }had{是 }been{是 }initiated{发起 }by{由 }the{}populist{民粹主义 }right-wing{右翼 }swiss{}people{人民党 }'s{人民党 }party{人民党 },{}known{}as{}the{}SVP{},{， }which{该党 }claimed{称 }current{现行 }regulations{法规 }would{将 }lead{导致 }to{导致 }overpopulation{人口 过剩 },{、 }rising{上涨 }housing{房价 }prices{房价 }and{和 }a{}strained{紧张 }welfare{福利 }system{体系 }.{。 }
+
+#87The most recent data often underestimates the number of positive tests as there are sometimes delays before results are recorded , so this chart uses figures from four days ago .
+最近 的 数据 往往 低估 了 阳性 检测 的 数量 ， 因为 有时 在 结果 被 记录 之前 会 有 延迟 ， 所以 这 张 图表 使用 了 四 天 前 的 数据 。
+The{的 }most{最近 }recent{最近 }data{数据 }often{往往 }underestimates{低估 }the{的 }number{数量 }of{}positive{阳性 }tests{检测 }as{因为 }there{有 }are{有 }sometimes{有时 }delays{延迟 }before{之前 }results{结果 }are{被 }recorded{记录 },{， }so{所以 }this{这 }chart{图表 }uses{使用 }figures{数据 }from{了 }four{四 }days{天 }ago{前 }.{。 }
+
+#88A tougher three-tiered system of local restrictions will come into force in England when the lockdown ends on 2 December , Downing Street has said .
+唐宁街 表示 ， 12 月 2 日 封锁 结束 后 ， 英国 将 实施 更 严格 的 三级 地方 限制 制度 。
+A{}tougher{更 严格 }three-tiered{三级 }system{制度 }of{的 }local{地方 }restrictions{限制 }will{将 }come{实施 }into{}force{实施 }in{， }England{英国 }when{后 }the{日 }lockdown{封锁 }ends{结束 }on{}2{2 }December{12 },{}Downing{唐宁街 }Street{唐宁街 }has{}said{表示 }.{。 }
+
+#89People arriving in England will be soon able to reduce their quarantine period by more than half if they pay for a Covid test after five days , the transport secretary has announced .
+运输 部长 宣布 ， 如果 抵达 英国 的 人 在 五 天 后 支付 新冠 病毒 检测 费用 ， 他们 很快 就 能 将 隔离 期 缩短 一半 以上 。
+People{人 }arriving{抵达 }in{抵达 }England{英国 }will{}be{}soon{很快 }able{能 }to{将 }reduce{缩短 }their{}quarantine{隔离 }period{期 }by{}more{以上 }than{以上 }half{一半 }if{如果 }they{他们 }pay{支付 }for{}a{}Covid{新冠 }test{检测 }after{后 }five{五 }days{天 },{， }the{}transport{运输 }secretary{部长 }has{}announced{宣布 }.{。 }
+
+#90They had logged on to the government website to request one , but were told that because their names and addresses could not be checked , they would have to go to a physical test site instead .
+他们 曾 登录 政府 网站 请求 一 次 ， 但 被 告知 ， 由于 无法 检查 他们 的 姓名 和 地址 ， 他们 将 不得不 前往 一个 物理 测试 场地 。
+They{他们 }had{曾 }logged{登录 }on{}to{}the{}government{政府 }website{网站 }to{}request{请求 }one{一 },{， }but{但 }were{被 }told{告知 }that{， }because{由于 }their{他们 }names{姓名 }and{和 }addresses{地址 }could{}not{无法 }be{}checked{检查 },{， }they{他们 }would{将 }have{不得不 }to{}go{前往 }to{前往 }a{一个 }physical{物理 }test{测试 }site{场地 }instead{}.{。 }
+
+#91Although there have been reports of animals being infected with the virus , such as mink in farms in the Netherlands , Paavilainen said dogs are not susceptible because they lack the receptor to which the virus attaches .
+虽然 有 报道 称 动物 感染 了 病毒 ， 比如 荷兰 农场 的 水貂 ， 但 帕 维莱 宁说 ， 狗 不易 受 感染 ， 因为 它们 缺乏 病毒 附着 的 受体 。
+Although{虽然 }there{有 }have{}been{}reports{报道 }of{称 }animals{动物 }being{}infected{感染 }with{}the{}virus{病毒 },{， }such{比如 }as{}mink{水貂 }in{的 }farms{农场 }in{}the{}Netherlands{荷兰 },{， }Paavilainen{帕 维莱 宁说 }said{宁说 }dogs{狗 }are{}not{不易 }susceptible{感染 }because{因为 }they{它们 }lack{缺乏 }the{的 }receptor{受体 }to{}which{}the{}virus{病毒 }attaches{附着 }.{。 }
+
+#92More areas are set to be placed into the higher tiers in England after lockdown .
+封锁 后 ， 更 多 的 地区 将 被 安置 在 英格兰 的 更 高层 。
+More{更 }areas{地区 }are{将 }set{}to{}be{被 }placed{安置 }into{在 }the{的 }higher{更 高层 }tiers{高层 }in{}England{英格兰 }after{后 }lockdown{封锁 }.{。 }
+
+#93A freeze on public sector workers ' pay would damage the country 's economic recovery , the shadow chancellor will warn in a speech on Monday .
+影子 财政 大臣 将 在 周一 的 一 次 讲话 中 警告 说 ， 冻结 公共 部门 工人 的 工资 将 损害 该国 的 经济 复苏 。
+A{}freeze{冻结 }on{}public{公共 }sector{部门 }workers{工人 }'{的 }pay{工资 }would{将 }damage{损害 }the{该国 }country{该国 }'s{的 }economic{经济 }recovery{复苏 },{， }the{}shadow{影子 }chancellor{大臣 }will{将 }warn{警告 }in{}a{一 }speech{讲话 }on{在 }Monday{周一 }.{。 }
+
+#94A prominent ally of Donald Trump has urged him to drop his efforts to overturn his loss to Joe Biden in the US presidential election .
+唐纳德 · 特朗普 的 一 位 重要 盟友 敦促 他 放弃 在 美国 总统 选举 中 推翻 自己 输 给 乔 · 拜登 的 努力 。
+A{一 }prominent{重要 }ally{盟友 }of{的 }Donald{唐纳德 }Trump{特朗普 }has{}urged{敦促 }him{他 }to{}drop{放弃 }his{}efforts{努力 }to{}overturn{推翻 }his{自己 }loss{输 }to{给 }Joe{乔 }Biden{拜登 }in{在 }the{}US{美国 }presidential{总统 }election{选举 }.{。 }
+
+#95Gyms and non-essential shops in all areas are expected to be allowed to reopen when England 's lockdown ends .
+英格兰 封锁 结束 后 ， 所有 地区 的 健身房 和 非 必需品 商店 都 将 获准 重新 开放 。
+Gyms{健身房 }and{和 }non-essential{非 必需品 }shops{商店 }in{}all{所有 }areas{地区 }are{将 }expected{}to{}be{获准 }allowed{获准 }to{}reopen{重新 开放 }when{后 }England{英格兰 }'s{的 }lockdown{封锁 }ends{结束 }.{。 }
+
+#96I know some in the House believe we should have reached this decision earlier , but I believe it was right to try every possible option to get this virus under control at a local level , with strong local action and strong local leadership .
+我 知道 众议院 的 一些 人 认为 ， 我们 本 应 早 些 做出 这 一 决定 ， 但 我 认为 ， 通过 强有力 的 地方 行动 和 强有力 的 地方 领导 ， 尽 一切 可能 在 地方 一级 控制 这 一 病毒 是 正确 的 。
+I{我 }know{知道 }some{一些 }in{的 }the{}House{众议院 }believe{认为 }we{我们 }should{应 }have{}reached{做出 }this{这 }decision{决定 }earlier{早 },{， }but{但 }I{我 }believe{认为 }it{， }was{是 }right{正确 }to{的 }try{}every{一切 }possible{可能 }option{}to{}get{}this{这 }virus{病毒 }under{}control{控制 }at{在 }a{}local{地方 }level{一级 },{， }with{通过 }strong{强有力 }local{地方 }action{行动 }and{和 }strong{强有力 }local{地方 }leadership{领导 }.{。 }
+
+#97Offices at Marquette City Hall , the Arts and Culture Center in Peter White Public Library , Municipal Service Center and Lakeview Arena will be closed for the Christmas and Halloween holidays .
+马 奎特 市政厅 、 彼得 · 怀特 公共 图书馆 的 艺术 和 文化 中心 、 市政 服务 中心 和 湖景 竞技场 的 办公室 将 在 圣诞节 和 万圣节 期间 关闭 。
+Offices{办公室 }at{}Marquette{马 奎特 }City{市政厅 }Hall{市政厅 },{、 }the{的 }Arts{艺术 }and{和 }Culture{文化 }Center{中心 }in{}Peter{彼得 }White{怀特 }Public{公共 }Library{图书馆 },{、 }Municipal{市政 }Service{服务 }Center{中心 }and{和 }Lakeview{湖景 }Arena{竞技场 }will{将 }be{}closed{关闭 }for{在 }the{}Christmas{圣诞节 }and{和 }Halloween{万圣节 }holidays{万圣节 }.{。 }
+
+#98A St. Cloud woman was arrested on Thursday after prostituting her three teenage daughters to undercover deputies .
+周四 ， 一 名 圣 克劳德 女子 在 将 三 个 十几 岁 的 女儿 交给 卧底 后 被捕 。
+A{一 }St.{圣 }Cloud{克劳德 }woman{女子 }was{被捕 }arrested{被捕 }on{， }Thursday{周四 }after{在 后 }prostituting{将 }her{的 }three{三 }teenage{岁 }daughters{女儿 }to{交给 }undercover{}deputies{卧底 }.{。 }
+
+#99A liquor shop salesman , who refused liquor to some men on Saturday night , was shot dead in Dankaur area of Bhatta village , police said on Sunday .
+警方 周日 称 ， 一 名 周六 晚上 拒绝 向 一些 男子 提供 酒水 的 酒类 商店 销售员 在 巴塔 村 的 丹 考尔 地区 被 枪杀 。
+A{一 }liquor{酒类 }shop{商店 }salesman{销售员 },{}who{的 }refused{拒绝 }liquor{酒水 }to{向 }some{一些 }men{男子 }on{}Saturday{}night{晚上 },{， }was{被 }shot{枪杀 }dead{}in{在 }Dankaur{丹 考尔 }area{地区 }of{的 }Bhatta{巴塔 }village{村 },{}police{警方 }said{称 }on{}Sunday{周日 }.{。 }
+
+#100Amazon has launched its own online pharmacy allow customers to buy prescription medicines .
+亚马逊 推出 了 自己 的 在线 药房 ， 允许 顾客 购买 处方 药 。
+Amazon{亚马逊 }has{}launched{推出 }its{}own{自己 }online{在线 }pharmacy{药房 }allow{允许 }customers{顾客 }to{}buy{购买 }prescription{处方 }medicines{药 }.{。 }
+
+#101President Donald Trump participated in head-to-head town halls Thursday night .
+唐纳德 · 特朗普 总统 周四 晚上 参加 了 面对面 的 市政厅 。
+President{总统 }Donald{唐纳德 }Trump{特朗普 }participated{参加 }in{}head-to-head{面对面 }town{市政厅 }halls{市政厅 }Thursday{周四 }night{晚上 }.{。 }
+
+#102The money will fund space and cyber defence projects such as an artificial intelligence agency , and could create 40000 new jobs .
+这笔 资金 将 用于 资助 太空 和 网络 防御 项目 ， 如 人工智能 机构 ， 并 可能 创造 40000 个 新 工作 岗位 。
+The{这笔 }money{资金 }will{将 }fund{资助 }space{太空 }and{和 }cyber{网络 }defence{防御 }projects{项目 }such{如 }as{如 }an{}artificial{人工智能 }intelligence{人工智能 }agency{机构 },{， }and{并 }could{可能 }create{创造 }40000{40000 }new{新 }jobs{工作 岗位 }.{。 }
+
+#103The government condemned the move accusing the leaders of sedition for creating a parallel administration .
+政府 谴责 此举 ， 指责 领导人 煽动 叛乱 ， 以 建立 一个 平行 的 政府 。
+The{}government{政府 }condemned{谴责 }the{此举 }move{此举 }accusing{指责 }the{}leaders{领导人 }of{煽动 }sedition{叛乱 }for{以 }creating{建立 }a{一个 }parallel{平行 }administration{政府 }.{。 }
+
+#104According to the education ministry , secondary and primary schools are expected to reopen in November .
+根据 教育部 的 数据 ， 中学 和 小学 预计 将 于 11 月 重新 开放 。
+According{根据 }to{根据 }the{的 }education{教育部 }ministry{教育部 },{， }secondary{中学 }and{和 }primary{小学 }schools{小学 }are{}expected{预计 }to{}reopen{重新 开放 }in{于 }November{11 }.{。 }
+
+#105Macron has deployed thousands of soldiers to protect sites such as places of worship and schools .
+马克 龙 已经 部署 了 数千 名 士兵 来 保护 礼拜 场所 和 学校 等 场所 。
+Macron{马克 龙 }has{已经 }deployed{部署 }thousands{数千 }of{名 }soldiers{士兵 }to{来 }protect{保护 }sites{场所 }such{等 }as{}places{场所 }of{}worship{礼拜 }and{和 }schools{学校 }.{。 }
+
+#106Nearly a dozen women were among the victims for which the Islamic State group has claimed responsibility .
+近 十几 名 妇女 是 伊斯兰 国家 集团 声称 对 此 负责 的 受害者 之一 。
+Nearly{近 }a{}dozen{十几 }women{妇女 }were{是 }among{之一 }the{的 }victims{受害者 }for{对 }which{}the{}Islamic{伊斯兰 }State{国家 }group{集团 }has{}claimed{声称 }responsibility{负责 }.{。 }
+
+#107He expressed appreciation for the organizers of the expo for hosting the event in these challenging times .
+他 对 世博会 的 组织者 在 这些 充满 挑战 的 时期 举办 此次 活动 表示 感谢 。
+He{他 }expressed{表示 }appreciation{感谢 }for{对 }the{的 }organizers{组织者 }of{}the{}expo{世博会 }for{}hosting{举办 }the{此次 }event{活动 }in{在 }these{这些 }challenging{挑战 }times{时期 }.{。 }
+
+#108Experts said UK universities are also arranging charter flights for financial reasons to bring students to the country .
+专家 表示 ， 出于 经济 原因 ， 英国 大学 也 在 安排 包机 ， 将 学生 带 到 该国 。
+Experts{专家 }said{表示 }UK{英国 }universities{大学 }are{在 }also{也 }arranging{安排 }charter{包机 }flights{包机 }for{出于 }financial{经济 }reasons{原因 }to{， }bring{带 }students{学生 }to{到 }the{该国 }country{该国 }.{。 }
+
+#109Without the March relief program , the poverty rates would have been higher over the last seven months .
+如果 没有 三月份 的 救济 计划 ， 过去 七 个 月 的 贫困率 会 更 高 。
+Without{如果 没有 }the{的 }March{三月份 }relief{救济 }program{计划 },{， }the{的 }poverty{贫困率 }rates{贫困率 }would{会 }have{}been{}higher{高 }over{}the{}last{过去 }seven{七 }months{月 }.{。 }
+
+#110The kindergartens and primary schools will remain open , while secondary schools will close and introduce distance learning .
+幼儿园 和 小学 将 继续 开放 ， 而 中学 将 关闭 并 引入 远程 学习 。
+The{}kindergartens{幼儿园 }and{和 }primary{小学 }schools{小学 }will{将 }remain{继续 }open{开放 },{， }while{而 }secondary{中学 }schools{中学 }will{将 }close{关闭 }and{并 }introduce{引入 }distance{远程 }learning{学习 }.{。 }
+
+#111Meanwhile , different households will be banned from mixing , although support bubbles and childcare bubbles will remain .
+与此同时 ， 不同 的 家庭 将 被 禁止 混合 ， 尽管 支持 泡沫 和 儿童 护理 泡沫 将 仍然 存在 。
+Meanwhile{与此同时 },{， }different{不同 }households{家庭 }will{将 }be{被 }banned{禁止 }from{}mixing{混合 },{， }although{尽管 }support{支持 }bubbles{泡沫 }and{和 }childcare{儿童 护理 }bubbles{泡沫 }will{将 }remain{仍然 }.{。 }
+
+#112There is no doubt Jeremy Corbyn 's supporters will keep objecting loudly to what has happened , and that could get extremely bumpy .
+毫无疑问 ， 杰里米 · 科尔 宾 的 支持者 将 继续 大声 反对 已经 发生 的 事情 ， 这 可能 会 变 得 非常 颠簸 。
+There{}is{}no{毫无疑问 }doubt{毫无疑问 }Jeremy{杰里米 }Corbyn{科尔 宾 }'s{的 }supporters{支持者 }will{将 }keep{继续 }objecting{反对 }loudly{大声 }to{反对 }what{事情 }has{已经 }happened{发生 },{， }and{}that{这 }could{可能 会 }get{变 }extremely{非常 }bumpy{颠簸 }.{。 }
+
+#113The ministers renewed the discussion of new fiscal rules , which was disrupted by the pandemic early this year .
+部长 们 重新 开始 了 对 新 财政 规则 的 讨论 ， 该 规则 在 今年 年初 被 大 流行 所 扰乱 。
+The{}ministers{部长 }renewed{重新 }the{的 }discussion{讨论 }of{对 }new{新 }fiscal{财政 }rules{规则 },{， }which{该 }was{被 }disrupted{扰乱 }by{所 }the{}pandemic{流行 }early{年初 }this{今年 }year{今年 }.{。 }
+
+#114Experts are warning that widespread belief in COVID-19 conspiracy theories could make vaccination campaigns less effective when treatments become available .
+专家 警告 说 ， 对 COVID - 19 阴谋论 的 广泛 信念 可能 会 使 疫苗 接种 运动 在 获得 治疗 时 效果 降低 。
+Experts{专家 }are{}warning{警告 }that{， }widespread{广泛 }belief{信念 }in{对 }COVID-19{COVID - 19 }conspiracy{阴谋论 }theories{阴谋论 }could{可能 会 }make{使 }vaccination{疫苗 接种 }campaigns{运动 }less{降低 }effective{效果 }when{时 }treatments{治疗 }become{获得 }available{}.{。 }
+
+#115However , rising unemployment and the ongoing challenges mean the outlook .
+然而 ， 不断 上升 的 失业率 和 持续 的 挑战 意味着 前景 。
+However{然而 },{， }rising{上升 }unemployment{失业率 }and{和 }the{的 }ongoing{持续 }challenges{挑战 }mean{意味着 }the{}outlook{前景 }.{。 }
+
+#116The COVID-19 pandemic has been the primary campaign issue , with Trump defending his administration 's actions and Biden opposing them .
+COVID - 19 大 流行 一直 是 主要 的 竞选 问题 ， 特朗普 为 他 的 政府 的 行为 辩护 ， 拜登 反对 这些 行动 。
+The{}COVID-19{COVID - 19 }pandemic{流行 }has{一直 }been{是 }the{的 }primary{主要 }campaign{竞选 }issue{问题 },{， }with{}Trump{特朗普 }defending{辩护 }his{他 }administration{政府 }'s{的 }actions{行为 }and{， }Biden{拜登 }opposing{反对 }them{这些 }.{。 }
+
+#117The resulting rush of air will drive a turbine to make electricity , which can be sold back to the grid .
+由此 产生 的 空气 冲动 将 驱动 涡轮机 发电 ， 这些 电力 可以 卖 回 电网 。
+The{的 }resulting{由此 }rush{冲动 }of{}air{空气 }will{将 }drive{驱动 }a{}turbine{涡轮机 }to{}make{发电 }electricity{发电 },{， }which{这些 }can{可以 }be{}sold{卖 }back{回 }to{回 }the{}grid{电网 }.{。 }
+
+#118The months ahead will be challenging for everyone , so it is especially important that we discuss and discuss our policies .
+未来 几 个 月 对 每个 人 来说 都 是 一个 挑战 ， 因此 ， 我们 讨论 和 讨论 我们 的 政策 尤为 重要 。
+The{}months{月 }ahead{未来 }will{}be{是 }challenging{挑战 }for{对 }everyone{每个 },{， }so{因此 }it{}is{}especially{尤为 }important{重要 }that{， }we{我们 }discuss{讨论 }and{和 }discuss{讨论 }our{我们 }policies{政策 }.{。 }
+
+#119Prime Minister of Kyrgyzstan Sadyr Zhaparov on Thursday declared himself acting president of the country after President Sooronbai Jeenbekov resigned hours earlier .
+吉尔吉斯斯坦 总理 萨迪尔 · 扎 帕罗 夫 周四 宣布 自己 为 该国 代理 总统 ， 此前 总统 Sooronbai Jeenbekov 在 几 个 小时 前 辞职 。
+Prime{总理 }Minister{总理 }of{}Kyrgyzstan{吉尔吉斯斯坦 }Sadyr{萨迪尔 }Zhaparov{扎 帕罗 夫 }on{在 }Thursday{周四 }declared{宣布 }himself{自己 }acting{代理 }president{总统 }of{}the{该国 }country{该国 }after{， }President{总统 }Sooronbai{Sooronbai }Jeenbekov{Jeenbekov }resigned{辞职 }hours{小时 }earlier{前 }.{。 }
+
+#120Steven Kennedy , the treasury secretary , used a recent speech to urge the government to lower the threshold for fiscal stimulus .
+美国 财政部长 史蒂文 · 肯尼迪 在 最近 的 一 次 演讲 中 敦促 政府 降低 财政 刺激 的 门槛 。
+Steven{史蒂文 }Kennedy{肯尼迪 },{}the{美国 }treasury{财政部长 }secretary{财政部长 },{}used{}a{一 }recent{最近 }speech{演讲 }to{中 }urge{敦促 }the{}government{政府 }to{}lower{降低 }the{的 }threshold{门槛 }for{}fiscal{财政 }stimulus{刺激 }.{。 }
+
+#121At least 22 people , mostly students , were killed and another 27 wounded when three gunmen stormed the university on Monday .
+周一 ， 当 三 名 枪手 冲 进 大学 时 ， 至少 有 22 人 被 杀 ， 另 有 27 人 受伤 。
+At{至少 }least{至少 }22{22 }people{人 },{}mostly{}students{},{， }were{被 }killed{杀 }and{， }another{另 }27{27 }wounded{受伤 }when{当 }three{三 }gunmen{枪手 }stormed{冲 }the{}university{大学 }on{}Monday{周一 }.{。 }
+
+#122After briefing the prime minister on the outbreak , reporters heard from Nogami that measures would be taken to eradicate the outbreak .
+在 向 首相 通报 疫情 后 ， 记者 从 野上 那里 听说 将 采取 措施 根除 疫情 。
+After{在 后 }briefing{通报 }the{}prime{首相 }minister{首相 }on{}the{}outbreak{疫情 },{， }reporters{记者 }heard{听说 }from{从 }Nogami{野上 }that{听说 }measures{措施 }would{将 }be{}taken{采取 }to{}eradicate{根除 }the{}outbreak{疫情 }.{。 }
+
+#123Despite the downgrading , the Honduran government on Wednesday declared a national state of emergency due to the passage of the storm .
+尽管 降级 ， 但 由于 风暴 的 通过 ， 洪都拉斯 政府 周三 宣布 全国 进入 紧急状态 。
+Despite{尽管 由于 }the{的 }downgrading{降级 },{， }the{}Honduran{洪都拉斯 }government{政府 }on{}Wednesday{周三 }declared{宣布 }a{进入 }national{全国 }state{紧急状态 }of{}emergency{紧急状态 }due{由于 }to{由于 }the{}passage{通过 }of{}the{}storm{风暴 }.{。 }
+
+#124The new law means that the so-called " justifiable assault " defence is no longer available .
+新 法律 意味着 所谓 的 " 正当 攻击 " 辩护 不再 可用 。
+The{}new{新 }law{法律 }means{意味着 }that{意味着 }the{的 }so-called{所谓 }"{" }justifiable{正当 }assault{攻击 }"{" }defence{辩护 }is{}no{不再 }longer{不再 }available{可用 }.{。 }
+
+#125Bars and restaurants are also shut but people can exercise near their homes if they wear masks and hairdressers can remain open .
+酒吧 和 餐馆 也 关闭 了 ， 但 如果 戴 口罩 ， 人们 可以 在家 附近 锻炼 ， 理发师 可以 保持 开放 。
+Bars{酒吧 }and{和 }restaurants{餐馆 }are{了 }also{也 }shut{关闭 }but{但 }people{人们 }can{可以 }exercise{锻炼 }near{附近 }their{}homes{在家 }if{如果 }they{}wear{戴 }masks{口罩 }and{， }hairdressers{理发师 }can{可以 }remain{保持 }open{开放 }.{。 }
+
+#126The decision resulted in clashes between his supporters and the opposition ahead of the Saturday elections , leading to fatalities and injuries .
+这 一 决定 导致 他 的 支持者 在 周六 选举 前 与 反对派 发生 冲突 ， 导致 伤亡 。
+The{这 }decision{决定 }resulted{导致 }in{导致 }clashes{冲突 }between{}his{他 }supporters{支持者 }and{与 }the{的 }opposition{反对派 }ahead{前 }of{在 }the{}Saturday{周六 }elections{选举 },{， }leading{导致 }to{导致 }fatalities{}and{}injuries{伤亡 }.{。 }
+
+#127The Russian authorities are managing to minimize the volatility of the ruble exchange rate and to maintain macroeconomic stability , he said .
+他 说 ， 俄罗斯 当局 正在 设法 将 卢布 汇率 的 波动性 降 至 最低 ， 并 保持 宏观 经济 稳定 。
+The{}Russian{俄罗斯 }authorities{当局 }are{正在 }managing{设法 }to{正在 }minimize{将 降 }the{的 }volatility{波动性 }of{}the{}ruble{卢布 }exchange{汇率 }rate{汇率 }and{并 }to{}maintain{保持 }macroeconomic{宏观 经济 }stability{稳定 },{， }he{他 }said{说 }.{。 }
+
+#128This summer has witnessed several severe floods and powerful typhoons across the country , causing great damage to local people and their properties .
+今年 夏天 ， 全国 各地 发生 了 几 起 严重 的 洪水 和 强 台风 ， 对 当地 人民 及其 财产 造成 了 巨大 破坏 。
+This{今年 }summer{夏天 }has{}witnessed{发生 }several{几 }severe{严重 }floods{洪水 }and{和 }powerful{强 }typhoons{台风 }across{全国 各地 }the{}country{全国 },{， }causing{造成 }great{巨大 }damage{破坏 }to{对 }local{当地 }people{人民 }and{及其 }their{及其 }properties{财产 }.{。 }
+
+#129Congress ' swift and expansive response to the coronavirus pandemic last spring spared millions of Americans from falling into poverty .
+去年 春天 ， 国会 对 冠状 病毒 大 流行 做出 了 迅速 而 广泛 的 反应 ， 使 数百万 美国 人 免于 陷入 贫困 。
+Congress{国会 }'{了 的 }swift{迅速 }and{而 }expansive{广泛 }response{反应 }to{对 }the{}coronavirus{冠状 病毒 }pandemic{流行 }last{去年 }spring{春天 }spared{使 }millions{数百万 }of{}Americans{美国 }from{免于 }falling{陷入 }into{陷入 }poverty{贫困 }.{。 }
+
+#130European nations are reintroducing strict measures aimed at limiting the spread of the novel coronavirus after infections and hospitalizations because of COVID-19 skyrocketed .
+欧洲 国家 正在 重新 采取 严格 的 措施 ， 旨在 限制 新型 冠状 病毒 在 因 COVID - 19 而 感染 和 住院 后 传播 。
+European{欧洲 }nations{国家 }are{正在 }reintroducing{重新 采取 }strict{严格 }measures{措施 }aimed{旨在 }at{旨在 }limiting{限制 }the{}spread{传播 }of{}the{}novel{新型 }coronavirus{冠状 病毒 }after{后 }infections{感染 }and{和 }hospitalizations{住院 }because{因 }of{而 }COVID-19{COVID - 19 }skyrocketed{}.{。 }
+
+#131Trump has continued his attacks on mail-in ballots , saying he would deploy lawyers if states are still counting votes after Election day .
+特朗普 继续 攻击 邮寄 选票 ， 称 如果 各州 在 选举 日后 仍 在 计票 ， 他 将 部署 律师 。
+Trump{特朗普 }has{}continued{继续 }his{}attacks{攻击 }on{}mail-in{邮寄 }ballots{选票 },{， }saying{称 }he{他 }would{将 }deploy{部署 }lawyers{律师 }if{如果 }states{各州 }are{在 }still{仍 }counting{计票 }votes{计票 }after{日后 }Election{}day{日后 }.{。 }
+
+#132Fiscal policy has always responded to large shocks but there is now a question about whether the threshold for intervention should be lowered .
+财政 政策 总是 对 大 冲击 做出 反应 ， 但 现在 的 问题 是 是否 应该 降低 干预 门槛 。
+Fiscal{财政 }policy{政策 }has{}always{总是 }responded{反应 }to{对 }large{大 }shocks{冲击 }but{但 }there{}is{}now{现在 }a{的 }question{问题 }about{}whether{是否 }the{的 }threshold{门槛 }for{}intervention{干预 }should{应该 }be{}lowered{降低 }.{。 }
+
+#133The cash injection will help with the construction and maintenance costs of St Paul 's , which is normally a huge tourist attraction .
+现金 注入 将 有助于 圣保罗 的 建设 和 维护 成本 ， 圣保罗 通常 是 一个 巨大 的 旅游 景点 。
+The{}cash{现金 }injection{注入 }will{将 }help{有助于 }with{有助于 }the{的 }construction{建设 }and{和 }maintenance{维护 }costs{成本 }of{}St{圣保罗 }Paul{圣保罗 圣保罗 }'s{圣保罗 },{， }which{}is{是 }normally{通常 }a{一个 }huge{巨大 }tourist{旅游 }attraction{景点 }.{。 }
+
+#134Wednesday 's meeting also adopted conclusions on an action plan against money laundering and terrorist financing presented by the european commission in May .
+周三 的 会议 还 通过 了 欧盟 委员会 5 月份 提出 的 打击 洗钱 和 恐怖主义 融资 行动 计划 的 结论 。
+Wednesday{周三 }'s{的 }meeting{会议 }also{还 }adopted{通过 }conclusions{结论 }on{}an{的 }action{行动 }plan{计划 }against{打击 }money{洗钱 }laundering{}and{和 }terrorist{恐怖主义 }financing{融资 }presented{提出 }by{}the{}european{欧盟 }commission{委员会 }in{}May{5 }.{。 }
+
+#135The report said modernization of port infrastructure assets is a fundamental component of Africa 's transformation , competitiveness , industrialization and economic integration .
+该 报告 称 ， 港口 基础 设施 资产 的 现代化 是 非洲 转型 、 竞争力 、 工业化 和 经济 一体化 的 基本 组成部分 。
+The{该 }report{报告 }said{称 }modernization{现代化 }of{}port{港口 }infrastructure{设施 }assets{资产 }is{是 }a{的 }fundamental{基本 }component{组成部分 }of{}Africa{非洲 }'s{的 }transformation{转型 },{、 }competitiveness{竞争力 },{、 }industrialization{工业化 }and{和 }economic{经济 }integration{一体化 }.{。 }
+
+#136Net-zero carbon emissions will be a ginormous turnaround in four decades and has to be done without too much negative impact on economic development .
+净零碳 排放 将 是 四十 年 来 的 巨大 转变 ， 必须 在 不 对 经济 发展 产生 太 多 负面 影响 的 情况 下 完成 。
+Net-zero{净零碳 }carbon{净零碳 }emissions{排放 }will{将 }be{是 }a{的 }ginormous{巨大 }turnaround{转变 }in{来 }four{四十 }decades{年 }and{， }has{必须 }to{必须 }be{}done{完成 }without{在 不 }too{太 }much{多 }negative{负面 }impact{影响 }on{对 }economic{经济 }development{发展 }.{。 }
+
+#137An inquiry is being launched into the compensation scheme set up for victims of the Windrush scandal .
+正在 对 为 Windrush 丑闻 受害者 设立 的 赔偿 计划 进行 调查 。
+An{}inquiry{调查 }is{正在 }being{正在 }launched{}into{对 }the{的 }compensation{赔偿 }scheme{计划 }set{设立 }up{设立 }for{为 }victims{受害者 }of{}the{}Windrush{Windrush }scandal{丑闻 }.{。 }
+
+#138Biden has multiple paths to reach the magic number of 270 needed to win the White House , while Trump 's prospects are limited .
+拜登 有 多 条 途径 才 能 达到 赢得 白宫 所 需 的 270 人 的 神奇 数字 ， 而 特朗普 的 前景 有限 。
+Biden{拜登 }has{有 }multiple{多 }paths{途径 }to{才 }reach{达到 }the{的 }magic{神奇 }number{数字 }of{的 }270{270 }needed{需 }to{}win{赢得 }the{}White{白宫 }House{白宫 },{， }while{而 }Trump{特朗普 }'s{的 }prospects{前景 }are{}limited{有限 }.{。 }
+
+#139The guidelines previously said the virus spreads only through breathing in respiratory droplets , touching contaminated surfaces and common greetings like kisses and hugs .
+该 指南 此前 曾 表示 ， 该 病毒 仅 通过 呼吸道 飞沫 ， 触摸 受 污染 的 表面 以及 亲吻 和 拥抱 等 常见 问候 来 传播 。
+The{该 }guidelines{指南 }previously{此前 }said{表示 }the{该 }virus{病毒 }spreads{传播 }only{仅 }through{通过 }breathing{}in{}respiratory{呼吸道 }droplets{飞沫 },{， }touching{触摸 }contaminated{污染 }surfaces{表面 }and{以及 }common{常见 }greetings{}like{}kisses{亲吻 }and{和 }hugs{拥抱 }.{。 }
+
+#140It is essential that learning is applied to planning for this winter , including what services can be delivered safely .
+至关重要 的 是 ， 学习 应用 于 这个 冬天 的 规划 ， 包括 可以 安全 地 提供 哪些 服务 。
+It{至关重要 的 }is{是 }essential{至关重要 }that{， }learning{学习 }is{}applied{应用 }to{于 }planning{规划 }for{}this{这个 }winter{冬天 },{， }including{包括 }what{哪些 }services{服务 }can{可以 }be{}delivered{提供 }safely{安全 地 }.{。 }
+
+#141Then when there is a peak in demand in a day or a month , the liquid air will be warmed so it expands .
+然后 ， 当 一 天 或 一个 月 内 出现 需求 高峰 时 ， 液态 空气 将 被 加热 ， 因此 会 膨胀 。
+Then{然后 }when{当 }there{出现 }is{出现 }a{}peak{高峰 }in{}demand{需求 }in{内 }a{一 }day{天 }or{或 }a{一个 }month{月 },{， }the{}liquid{液态 }air{空气 }will{将 }be{被 }warmed{加热 }so{因此 }it{}expands{膨胀 }.{。 }
+
+#142The figures came as England is set to enter a month-long lockdown from Thursday in a bid to quell the resurgence of the coronavirus .
+这些 数据 发布 之际 ， 英格兰 将 从 周四 开始 进入 为期 一个 月 的 封锁 状态 ， 以 平息 冠状 病毒 的 复苏 。
+The{这些 }figures{数据 }came{发布 }as{之际 }England{英格兰 }is{将 }set{}to{将 }enter{进入 }a{的 }month-long{为期 月 }lockdown{封锁 }from{从 }Thursday{周四 }in{}a{}bid{}to{以 }quell{平息 }the{的 }resurgence{复苏 }of{}the{}coronavirus{冠状 病毒 }.{。 }
+
+#143The EU recognizes the waters as belonging to greece and said it would be illegal for Turkey to conduct drilling and energy exploration there .
+欧盟 承认 这些 水域 属于 希腊 ， 并 表示 土耳其 在 那里 进行 钻探 和 能源 勘探 是 非法 的 。
+The{}EU{欧盟 }recognizes{承认 }the{这些 }waters{水域 }as{}belonging{属于 }to{属于 }greece{希腊 }and{并 }said{表示 }it{}would{}be{是 }illegal{非法 }for{}Turkey{土耳其 }to{在 }conduct{进行 }drilling{钻探 }and{和 }energy{能源 }exploration{勘探 }there{那里 }.{。 }
+
+#144Financial services firms entered the pandemic in a position of capital strength and have supported the economy and business to unprecedented levels since March .
+金融 服务 公司 进入 大 流行 时 处于 资本 实力 ， 并 自 3 月份 以来 将 经济 和 业务 支撑 到 前所未有 的 水平 。
+Financial{金融 }services{服务 }firms{公司 }entered{进入 }the{}pandemic{流行 }in{}a{处于 }position{}of{}capital{资本 }strength{实力 }and{并 }have{}supported{支撑 }the{}economy{经济 }and{和 }business{业务 }to{到 }unprecedented{前所未有 }levels{水平 }since{自 }March{3 }.{。 }
+
+#145Search and rescue operations have been going on around the clock in the debris of a total of eight collapsed buildings in the province .
+搜救 行动 一直 在 该省 总共 八座 倒塌 建筑物 的 废墟 中 昼夜 不 停 地 进行 。
+Search{搜救 }and{}rescue{搜救 }operations{行动 }have{一直 }been{一直 }going{进行 }on{}around{}the{地 }clock{昼夜 }in{在 }the{的 }debris{废墟 }of{}a{}total{总共 }of{}eight{八座 }collapsed{倒塌 }buildings{建筑物 }in{}the{该省 }province{该省 }.{。 }
+
+#146The Nobel Peace Prize is decided , as Nobel laureate , by the Norwegian Nobel Committee , comprising five members appointed by the Norwegian Parliament .
+诺贝尔 和平 奖 由 挪威 诺贝尔 委员会 决定 ， 作为 诺贝尔奖 获得者 ， 该 委员会 由 挪威 议会 任命 的 五 名 成员 组成 。
+The{}Nobel{诺贝尔 }Peace{和平 }Prize{奖 }is{}decided{决定 },{}as{作为 }Nobel{诺贝尔奖 }laureate{获得者 },{}by{由 由 }the{}Norwegian{挪威 }Nobel{诺贝尔 }Committee{委员会 },{， }comprising{组成 }five{五 }members{成员 }appointed{任命 }by{}the{}Norwegian{挪威 }Parliament{议会 }.{。 }
+
+#147Many universities in the United Kingdom are chartering flights to help bring thousands of Chinese students to study in the country despite the COVID-19 pandemic .
+尽管 COVID - 19 大 流行 ， 英国 的 许多 大学 仍 在 包机 ， 以 帮助 数千 名 中国 学生 到 该国 学习 。
+Many{许多 }universities{大学 }in{的 }the{的 }United{英国 }Kingdom{英国 }are{在 }chartering{包机 }flights{}to{以 }help{帮助 }bring{}thousands{数千 }of{名 }Chinese{中国 }students{学生 }to{到 }study{学习 }in{到 }the{该国 }country{该国 }despite{尽管 }the{}COVID-19{COVID - 19 }pandemic{流行 }.{。 }
+
+#148Xi called on the two nations to jointly uphold multilateralism and firmly safeguard the international order and system with the United Nations at the core .
+习近平 呼吁 两 国 共同 维护 多边 主义 ， 坚定 维护 以 联合国 为 核心 的 国际 秩序 和 体系 。
+Xi{习近平 }called{呼吁 }on{}the{}two{两 }nations{国 }to{}jointly{共同 }uphold{维护 }multilateralism{多边 主义 }and{， }firmly{坚定 }safeguard{维护 }the{的 }international{国际 }order{秩序 }and{和 }system{体系 }with{以 }the{}United{联合国 }Nations{联合国 }at{为 }the{}core{核心 }.{。 }
+
+#149By winning the northern battlegrounds of Michigan and Wisconsin , Biden added to his electoral vote count while Trump 's total remained fixed on 214 .
+通过 赢得 密歇根州 和 威斯康星州 的 北部 战场 ， 拜登 增加 了 他 的 选举人 票数 ， 而 特朗普 的 总数 仍 固定 在 214 票 。
+By{通过 }winning{赢得 }the{的 }northern{北部 }battlegrounds{战场 }of{}Michigan{密歇根州 }and{和 }Wisconsin{威斯康星州 },{， }Biden{拜登 }added{增加 }to{了 }his{他 }electoral{选举人 }vote{票数 }count{票数 }while{而 }Trump{特朗普 }'s{的 }total{总数 }remained{仍 }fixed{固定 }on{在 }214{214 }.{。 }
+
+#150It urged local authorities to ask drivers to move their vehicles to car parks near disused shops , pubs and restaurants while repairs take place .
+它 敦促 地方 当局 要求 司机 在 维修 期间 将 车辆 移 至 废弃 商店 ， 酒吧 和 餐馆 附近 的 停车场 。
+It{它 }urged{敦促 }local{地方 }authorities{当局 }to{}ask{要求 }drivers{司机 }to{}move{移 }their{}vehicles{车辆 }to{至 }car{}parks{停车场 }near{附近 }disused{废弃 }shops{商店 },{， }pubs{酒吧 }and{和 }restaurants{餐馆 }while{期间 }repairs{维修 }take{}place{}.{。 }
+
+#151Snowden has been taking refuge in Russia and is wanted by the United States on charges of espionage and theft of government property .
+斯诺 登 一直 在 俄罗斯 避难 ， 并 以 间谍 和 盗窃 政府 财产 的 罪名 被 美国 通缉 。
+Snowden{斯诺 登 }has{一直 }been{一直 }taking{}refuge{避难 }in{在 }Russia{俄罗斯 }and{并 }is{被 }wanted{通缉 }by{}the{}United{美国 }States{}on{以 }charges{罪名 }of{的 }espionage{间谍 }and{和 }theft{盗窃 }of{的 }government{政府 }property{财产 }.{。 }
+
+#152A draft report concluded in the summer that Home Secretary Priti Patel had broken rules on ministers ' behaviour , sources familiar with the contents say .
+知情 人士 称 ， 今年 夏天 ， 一 份 报告 草案 得出 结论 ， 内政 大臣 普里 蒂 · 帕特尔 违反 了 有关 部长 行为 的 规则 。
+A{一 }draft{草案 }report{报告 }concluded{结论 }in{今年 }the{今年 }summer{夏天 }that{， }Home{内政 }Secretary{大臣 }Priti{普里 蒂 }Patel{帕特尔 }had{}broken{违反 }rules{规则 }on{有关 }ministers{部长 }'{的 }behaviour{行为 },{}sources{人士 }familiar{}with{}the{的 }contents{}say{}.{。 }
+
+#153Boris Johnson has defended how Covid statistics are being used after data shown in a presentation to justify the lockdown in England had to be revised .
+鲍里斯 · 约翰逊 为 Covid 统计 数据 的 使用 进行 了 辩护 ， 因为 在 一 份 演示 文稿 中 显示 的 数据 证明 了 英格兰 封锁 的 合理性 ， 因此 必须 进行 修订 。
+Boris{鲍里斯 }Johnson{约翰逊 }has{}defended{辩护 }how{为 }Covid{Covid }statistics{数据 }are{}being{进行 }used{使用 }after{因为 }data{数据 }shown{显示 }in{在 }a{一 }presentation{文稿 }to{}justify{证明 }the{的 }lockdown{封锁 }in{}England{英格兰 }had{必须 }to{的 }be{进行 }revised{修订 }.{。 }
+
+#154He again made no public appearances on Thursday , skipping the first coronavirus task force briefing at the White House in more than six months .
+周四 ， 他 再次 没有 公开 露面 ， 跳 过 了 六 个 多 月 来 在 白宫 举行 的 首 次 冠状 病毒 工作组 简报 会 。
+He{他 }again{再次 }made{}no{没有 }public{公开 }appearances{露面 }on{， }Thursday{周四 },{， }skipping{跳 }the{的 }first{首 }coronavirus{冠状 病毒 }task{工作组 }force{工作组 }briefing{简报 会 }at{在 }the{}White{白宫 }House{白宫 }in{了 }more{}than{了 }six{六 }months{月 }.{。 }
+
+#155One theory has suggested that the moon was formed around 4 billion years ago when a planet roughly the size of mars slammed into the Earth .
+一 种 理论 认为 ， 月球 是 在 大约 40 亿 年 前 形成 的 ， 当时 一 颗 大约 火星 大小 的 行星 撞击 地球 。
+One{一 }theory{理论 }has{}suggested{认为 }that{认为 }the{}moon{月球 }was{是 }formed{形成 }around{大约 }4{40 }billion{亿 }years{年 }ago{前 }when{， }a{一 }planet{行星 }roughly{大约 }the{}size{大小 }of{的 }mars{火星 }slammed{撞击 }into{}the{}Earth{地球 }.{。 }
+
+#156A Chinese citizen , who worked at the same company , was injured in the attack and is now in stable condition , the embassy said .
+大使馆 表示 ， 一 名 在 同 一 家 公司 工作 的 中国 公民 在 袭击 中 受伤 ， 现在 情况 稳定 。
+A{一 }Chinese{中国 }citizen{公民 },{}who{的 }worked{工作 }at{在 }the{}same{同 }company{公司 },{， }was{}injured{受伤 }in{在 }the{}attack{袭击 }and{， }is{}now{现在 }in{}stable{稳定 }condition{情况 },{}the{}embassy{大使馆 }said{表示 }.{。 }
+
+#157He also warned that a second lockdown could present new challenges to public spending plans , adding that the spending review is going to get hard .
+他 还 警告 说 ， 第二 次 封锁 可能 会 对 公共 支出 计划 构成 新 的 挑战 ， 并 补充 说 ， 支出 审查 将 变 得 艰难 。
+He{他 }also{还 }warned{警告 }that{， }a{}second{第二 }lockdown{封锁 }could{会 }present{构成 }new{新 }challenges{挑战 }to{对 }public{公共 }spending{支出 }plans{计划 },{， }adding{补充 }that{， }the{}spending{支出 }review{审查 }is{}going{将 }to{得 }get{变 }hard{艰难 }.{。 }
+
+#158During the meeting , the two presidents also discussed the issue of illegal immigration and the solutions that must be reached together to address the issue .
+会议 期间 ， 两 国 元首 还 讨论 了 非法 移民 问题 以及 为 解决 这 一 问题 必须 共同 达成 的 解决 方案 。
+During{期间 }the{}meeting{会议 },{， }the{}two{两 }presidents{元首 }also{还 }discussed{讨论 }the{了 }issue{问题 }of{}illegal{非法 }immigration{移民 }and{以及 }the{的 }solutions{方案 }that{的 }must{必须 }be{}reached{达成 }together{共同 }to{为 }address{解决 }the{这 }issue{问题 }.{。 }
+
+#159The EU and UK chief negotiators have stepped back from post-Brexit trade talks after a member of the EU team tested positive for Covid-19 .
+欧盟 和 英国 首席 谈判 代表 在 欧盟 团队 的 一 名 成员 对 Covid - 19 检测 呈 阳性 后 退出 了 英国 退 欧 后 的 贸易 谈判 。
+The{}EU{欧盟 }and{和 }UK{英国 }chief{首席 }negotiators{谈判 代表 }have{}stepped{退出 }back{退出 }from{}post-Brexit{后 }trade{贸易 }talks{谈判 }after{后 }a{一 }member{成员 }of{}the{的 }EU{欧盟 }team{团队 }tested{检测 }positive{阳性 }for{对 }Covid-19{Covid - 19 }.{。 }
+
+#160He said the move would allow the government to boost the economy whenever it is flagging rather than just after a large shock such as the pandemic .
+他 说 ， 此举 将 使 政府 能够 在 经济 衰退 时 提振 经济 ， 而 不仅仅 是 在 大 流行 等 重大 冲击 之后 。
+He{他 }said{说 }the{此举 }move{此举 }would{将 }allow{使 }the{}government{政府 }to{能够 }boost{提振 }the{}economy{经济 }whenever{时 }it{}is{}flagging{衰退 }rather{而 }than{不仅仅 }just{不仅仅 }after{在 }a{}large{重大 }shock{冲击 }such{等 }as{}the{}pandemic{流行 }.{。 }
+
+#161A railway line used in Prince Charles ' investiture at Caernarfon in 1969 should be considered for reopening , a Member of the Senedd has said .
+1969 年 查尔斯 王子 在 卡 那 封 就职 典礼 上 使用 的 一 条 铁路线 应该 考虑 重新 开放 ， Senedd 的 一 名 成员 说 。
+A{一 }railway{铁路线 }line{铁路线 }used{使用 }in{}Prince{王子 }Charles{查尔斯 }'{}investiture{就职 典礼 }at{在 }Caernarfon{卡 那 封 }in{年 }1969{1969 }should{应该 }be{}considered{考虑 }for{}reopening{重新 开放 },{， }a{一 }Member{成员 }of{}the{}Senedd{Senedd }has{}said{说 }.{。 }
+
+#162Tsiodras warned that the healthcare system will be under more pressure in the coming days , and that hospital admissions will not be confined to the elderly .
+Tsiodras 警告 说 ， 未来 几 天 医疗 保健 系统 将 面临 更 大 的 压力 ， 住院 人数 将 不仅 限于 老年人 。
+Tsiodras{Tsiodras }warned{警告 }that{， }the{}healthcare{医疗 保健 }system{系统 }will{将 }be{}under{面临 }more{更 }pressure{压力 }in{}the{}coming{未来 }days{天 },{}and{， }that{}hospital{住院 }admissions{住院 }will{将 }not{不仅 }be{}confined{限于 }to{限于 }the{}elderly{老年人 }.{。 }
+
+#163The report was put out by the African Union Development Agency and the African Development Bank after a study into the establishment of a continental electricity grid .
+该 报告 是 由 非洲 联盟 开发署 和 非洲 开发 银行 在 对 建立 非洲 大陆 电网 进行 研究 后 发布 的 。
+The{该 }report{报告 }was{是 }put{发布 }out{}by{由 }the{}African{非洲 }Union{联盟 }Development{开发署 }Agency{开发署 }and{和 }the{}African{非洲 }Development{开发 }Bank{银行 }after{后 }a{进行 }study{研究 }into{对 }the{}establishment{建立 }of{}a{}continental{大陆 }electricity{电网 }grid{电网 }.{。 }
+
+#164The Chinese embassy urged Chinese residents , students and employees in local Chinese enterprises to abide by Austrian police rules and stay at home to protect their safety .
+中国 大使馆 敦促 中国 居民 、 学生 和 中国 当地 企业 的 员工 遵守 奥地利 警方 的 规定 ， 留 在 家中 保护 自己 的 安全 。
+The{}Chinese{中国 }embassy{大使馆 }urged{敦促 }Chinese{中国 }residents{居民 },{、 }students{学生 }and{和 }employees{员工 }in{}local{当地 }Chinese{中国 }enterprises{企业 }to{}abide{遵守 }by{遵守 }Austrian{奥地利 }police{警方 }rules{规定 }and{， }stay{留 }at{在 }home{家中 }to{}protect{保护 }their{自己 }safety{安全 }.{。 }
+
+#165The toughest social curbs were announced amid warnings that hospitalisations and deaths could exceed those seen during the first wave of the virus in the next six weeks .
+宣布 了 最 严厉 的 社会 限制 措施 ， 警告 说 住院 和 死亡 人数 可能 超过 未来 六 周 内 第一 波 病毒 期间 的 住院 和 死亡 人数 。
+The{的 }toughest{最 严厉 }social{社会 }curbs{限制 措施 }were{了 }announced{宣布 }amid{， }warnings{警告 }that{说 }hospitalisations{住院 }and{和 }deaths{死亡 }could{可能 }exceed{超过 }those{}seen{}during{期间 }the{}first{第一 }wave{波 }of{}the{}virus{病毒 }in{}the{}next{未来 }six{六 }weeks{周 }.{。 }
+
+#166Chinese photographers enjoyed more international success as the winners of the 56th Wildlife Photographer of the Year awards were announced at the Natural History Museum in London on Tuesday .
+周二 ， 随着 第 56 届 年度 野生 动物 摄影师 奖 的 获奖者 在 伦敦 自然 历史 博物馆 宣布 ， 中国 摄影师 在 国际 上 取得 了 更 大 的 成功 。
+Chinese{中国 }photographers{摄影师 }enjoyed{取得 }more{更 }international{国际 }success{成功 }as{随着 }the{的 }winners{获奖者 }of{}the{第 }56th{56 届 }Wildlife{野生 }Photographer{摄影师 }of{}the{}Year{年度 }awards{奖 }were{}announced{宣布 }at{在 }the{}Natural{自然 }History{历史 }Museum{博物馆 }in{}London{伦敦 }on{}Tuesday{周二 }.{。 }
+
+#167This is a credit to the hard work of our county and local elections officials who moved quickly to undertake and complete such a momentous task in a short period of time .
+这 要 归功 于 我们 县 和 地方 选举 官员 的 辛勤 工作 ， 他们 迅速 采取 行动 ， 在 短时间 内 承担 并 完成 了 这样 一 项 重大 任务 。
+This{这 }is{要 }a{}credit{归功 }to{于 }the{的 }hard{辛勤 }work{工作 }of{}our{我们 }county{县 }and{和 }local{地方 }elections{选举 }officials{官员 }who{他们 }moved{}quickly{迅速 }to{}undertake{采取 承担 }and{并 }complete{完成 }such{这样 }a{一 }momentous{重大 }task{任务 }in{在 }a{}short{短时间 }period{短时间 }of{}time{短时间 }.{。 }
+
+#168US president Donald Trump 's youngest son Barron Trump had COVID-19 with no symptoms and now tests negative , first lady Melania Trump posted a family health update on Wednesday .
+美国 总统 唐纳德 · 特朗普 最 小 的 儿子 巴伦 特朗普 患 有 COVID - 19 ， 没有 症状 ， 现在 检测 呈 阴性 ， 第一 夫人 梅 拉尼 娅 特朗普 周三 发布 了 家庭 健康 更新 。
+US{美国 }president{总统 }Donald{唐纳德 }Trump{特朗普 }'s{的 }youngest{最 小 }son{儿子 }Barron{巴伦 }Trump{特朗普 }had{有 }COVID-19{COVID - 19 }with{， }no{没有 }symptoms{症状 }and{， }now{现在 }tests{检测 }negative{阴性 },{， }first{第一 }lady{夫人 }Melania{梅 娅 }Trump{特朗普 }posted{发布 }a{了 }family{家庭 }health{健康 }update{更新 }on{}Wednesday{周三 }.{。 }
+
+#169In a statement on Friday morning , the Trump campaign said they believe this election is not over , arguing that results in some battleground states are far from final .
+在 周五 上午 的 一 份 声明 中 ， 特朗普 竞选 团队 表示 ， 他们 认为 这 次 选举 还 没有 结束 ， 他们 认为 一些 战场 州 的 结果 远 未 最终 。
+In{在 }a{一 }statement{声明 }on{在 }Friday{周五 }morning{上午 },{， }the{}Trump{特朗普 }campaign{竞选 }said{表示 }they{他们 }believe{认为 }this{这 }election{选举 }is{还 }not{没有 }over{结束 },{， }arguing{认为 }that{认为 }results{结果 }in{的 }some{一些 }battleground{战场 }states{州 }are{}far{远 }from{}final{最终 }.{。 }
+
+#170Experts predict road use will decline again this time around but , with schools and universities staying open , the effect is not expected to be as dramatic as before .
+专家 预测 ， 这 一 次 道路 使用量 将 再次 下降 ， 但 随着 学校 和 大学 保持 开放 ， 预计 效果 不 会 像 以前 那样 剧烈 。
+Experts{专家 }predict{预测 }road{道路 }use{使用量 }will{将 }decline{下降 }again{再次 }this{这 }time{次 }around{}but{但 },{}with{随着 }schools{学校 }and{和 }universities{大学 }staying{保持 }open{开放 },{， }the{}effect{效果 }is{}not{不 }expected{预计 }to{会 }be{会 }as{那样 }dramatic{剧烈 }as{像 }before{以前 }.{。 }
+
+#171Emanuel has expressed his interest in the post , telling allies that the nation 's infrastructure challenges are so dire that a person with experience from the executive and legislative branch would be an asset .
+伊曼纽尔 表达 了 他 对 这个 职位 的 兴趣 ， 他 告诉 盟友 ， 国家 的 基础 设施 挑战 是 如此 可怕 ， 以至于 一个 拥有 行政 和 立法 部门 经验 的 人 将 成为 一 项 资产 。
+Emanuel{伊曼纽尔 }has{}expressed{表达 }his{他 }interest{兴趣 }in{对 }the{这个 }post{职位 },{， }telling{告诉 }allies{盟友 }that{， }the{}nation{国家 }'s{的 }infrastructure{基础 设施 }challenges{挑战 }are{是 }so{如此 }dire{可怕 }that{以至于 }a{一个 }person{人 }with{拥有 }experience{经验 }from{}the{}executive{行政 }and{和 }legislative{立法 }branch{部门 }would{将 }be{成为 }an{一 }asset{资产 }.{。 }
+
+#172Models of our scientists suggest that unless we act now , we could see deaths over the winter that are twice as bad or more compared with the first wave .
+我们 科学家 的 模型 表明 ， 除非 我们 现在 采取 行动 ， 否则 我们 可以 看到 冬季 的 死亡 人数 是 第一 波 的 两 倍 或 更 多 。
+Models{模型 }of{的 }our{我们 }scientists{科学家 }suggest{表明 }that{， }unless{除非 }we{我们 }act{采取 行动 }now{现在 },{， }we{我们 }could{可以 }see{看到 }deaths{死亡 }over{}the{的 }winter{冬季 }that{}are{是 }twice{两 }as{}bad{}or{或 }more{更 多 }compared{}with{}the{}first{第一 }wave{波 }.{。 }
+
+#173President Trump said he feels good after testing positive for Covid-19 weeks ago and could n't recall whether he was tested on the day of the first presidential debate .
+特朗普 总统 表示 ， 几 周 前 对 Covid - 19 检测 呈 阳性 后 ， 他 感觉 良好 ， 不 记得 他 是否 在 第一 次 总统 辩论 当天 接受 了 检测 。
+President{总统 }Trump{特朗普 }said{表示 }he{他 }feels{感觉 }good{良好 }after{后 }testing{检测 }positive{阳性 }for{对 }Covid-19{Covid - 19 }weeks{周 }ago{前 }and{， }could{}n't{不 }recall{记得 }whether{是否 }he{他 }was{了 }tested{检测 }on{在 }the{当天 }day{当天 }of{}the{}first{第一 }presidential{总统 }debate{辩论 }.{。 }
+
+#174The rapid growth of artificial intelligence presents an opportunity for Africa to provide solutions to some of its most pressing problems , such as food security , healthcare and financial services .
+人工智能 的 快速 增长 为 非洲 提供 了 一个 机会 ， 可以 为 一些 最 紧迫 的 问题 提供 解决 方案 ， 例如 粮食 安全 ， 医疗 保健 和 金融 服务 。
+The{的 }rapid{快速 }growth{增长 }of{}artificial{人工智能 }intelligence{人工智能 }presents{提供 }an{一个 }opportunity{机会 }for{为 }Africa{非洲 }to{可以 }provide{提供 }solutions{解决 }to{为 }some{一些 }of{}its{}most{最 }pressing{紧迫 }problems{问题 },{， }such{例如 }as{例如 }food{粮食 }security{安全 },{， }healthcare{医疗 保健 }and{和 }financial{金融 }services{服务 }.{。 }
+
+#175AI is considered a combination of technologies that enable machines to adopt humanlike intelligence to sense and comprehend their environments , and consequently take appropriate actions to fulfill a particular task .
+人工智能 被 认为 是 一 种 技术 的 组合 ， 使 机器 能够 采用 类似 人类 的 智能 来 感知 和 理解 其 环境 ， 从而 采取 适当 的 行动 来 完成 特定 任务 。
+AI{人工智能 }is{被 }considered{认为 }a{一 }combination{组合 }of{的 }technologies{技术 }that{， }enable{使 }machines{机器 }to{能够 }adopt{采用 }humanlike{类似 人类 }intelligence{智能 }to{来 }sense{感知 }and{和 }comprehend{理解 }their{其 }environments{环境 },{， }and{}consequently{从而 }take{采取 }appropriate{适当 }actions{行动 }to{来 }fulfill{完成 }a{}particular{特定 }task{任务 }.{。 }
+
+#176But while both sides said a deal needed to be done in October , they have yet to come to an agreement , and talks between the negotiating teams have intensified .
+但是 ， 尽管 双方 都 表示 需要 在 10 月份 达成 协议 ， 但 他们 尚未 达成 协议 ， 谈判 团队 之间 的 谈判 已经 加剧 。
+But{但是 }while{尽管 }both{双方 }sides{双方 }said{表示 }a{}deal{协议 }needed{需要 }to{}be{}done{达成 }in{在 }October{10 },{， }they{他们 }have{}yet{尚未 }to{}come{达成 }to{达成 }an{}agreement{协议 },{， }and{， }talks{谈判 }between{之间 }the{}negotiating{谈判 }teams{团队 }have{已经 }intensified{加剧 }.{。 }
+
+#177Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a continent-wide market .
+非洲 改善 其 能源 部门 并 将 更 多 家庭 和 企业 与 电力 供应 联系 起来 的 计划 正在 随着 一 份 设想 整个 非洲 大陆 市场 的 报告 的 发布 而 获得 动力 。
+Plans{计划 }for{}Africa{非洲 }to{}improve{改善 }its{其 }energy{能源 }sector{部门 }and{并 }connect{联系 }more{更 }households{家庭 }and{和 }enterprises{企业 }to{与 }power{电力 }supplies{供应 }are{正在 }gathering{获得 }steam{动力 }with{随着 }the{随着 }release{发布 }of{}a{一 }report{报告 }that{}envisages{设想 }a{整个 }continent-wide{大陆 }market{市场 }.{。 }
+
+#178The lockdown , which began on Thursday , calls for non-essential shops to close , people to work from home if possible , and most sporting and leisure facilities to be mothballed .
+封锁 于 周四 开始 ， 要求 关闭 非 必要 的 商店 ， 如果 可能 的话 ， 人们 在家 工作 ， 大多数 体育 和 休闲 设施 将 被 封存 。
+The{}lockdown{封锁 },{}which{}began{开始 }on{于 }Thursday{周四 },{， }calls{要求 }for{}non-essential{非 必要 }shops{商店 }to{的 }close{关闭 },{}people{人们 }to{}work{工作 }from{在家 }home{在家 }if{如果 }possible{可能 },{， }and{， }most{大多数 }sporting{体育 }and{和 }leisure{休闲 }facilities{设施 }to{将 }be{被 }mothballed{封存 }.{。 }
+
+#179Trump is listening to his friends , this source said , but hurriedly ends conversations because he disagrees .
+这 位 消息 人士 说 ， 特朗普 正在 听 他 的 朋友 说话 ， 但 他 匆忙 结束 了 谈话 ， 因为 他 不 同意 。
+Trump{特朗普 }is{正在 }listening{听 }to{}his{他 }friends{朋友 },{}this{这 }source{人士 }said{说 },{， }but{但 }hurriedly{匆忙 }ends{结束 }conversations{谈话 }because{因为 }he{他 }disagrees{不 同意 }.{。 }
+
+#180New Zealand 's election will hardly change the main course of the country 's relationship with China despite some challenging moments during the year , analysts said ahead of the poll on Saturday .
+分析 人士 在 周六 的 民意 调查 前 表示 ， 尽管 今年 存在 一些 具有 挑战性 的 时刻 ， 但 新西兰 的 选举 几乎 不 会 改变 该国 与 中国 关系 的 主要 进程 。
+New{新西兰 }Zealand{新西兰 }'s{的 }election{选举 }will{会 }hardly{几乎 不 }change{改变 }the{的 }main{主要 }course{进程 }of{}the{该国 }country{该国 }'s{的 }relationship{关系 }with{与 }China{中国 }despite{但 }some{一些 }challenging{挑战性 }moments{时刻 }during{}the{今年 }year{今年 },{， ， }analysts{分析 人士 }said{表示 }ahead{前 }of{}the{}poll{调查 }on{在 }Saturday{周六 }.{。 }
+
+#181Greg Abbott 's order limiting ballot drop boxes to one per county , injecting more uncertainty into the battle over mail-in voting in the state .
+格雷格 · 阿博特 的 命令 将 选票 投递 箱 限制 为 每个 县 一个 ， 这 给 该州 邮寄 投票 的 斗争 注入 了 更 多 的 不确定性 。
+Greg{格雷格 }Abbott{阿博特 }'s{的 }order{命令 }limiting{将 限制 }ballot{选票 }drop{投递 }boxes{箱 }to{为 }one{一个 }per{每个 }county{县 },{， }injecting{注入 }more{更 }uncertainty{不确定性 }into{给 }the{的 }battle{斗争 }over{}mail-in{邮寄 }voting{投票 }in{}the{该州 }state{该州 }.{。 }
+
+#182Trump extended the invitation on Thursday morning to the Michigan lawmakers by calling the state senate 's Republican majority leader , the person familiar said .
+知情 人士 说 ， 特朗普 周四 上午 通过 致电 州 参议院 的 共和党 多数 党 领袖 ， 向 密歇根州 立法者 发出 了 邀请 。
+Trump{特朗普 }extended{发出 }the{了 }invitation{邀请 }on{}Thursday{周四 }morning{上午 }to{向 }the{}Michigan{密歇根州 }lawmakers{立法者 }by{通过 }calling{发出 }the{}state{州 }senate{参议院 }'s{的 }Republican{共和党 }majority{多数 }leader{领袖 },{， }the{}person{人士 }familiar{知情 }said{说 }.{。 }
+
+#183Democratic presidential candidate Joe Biden attacked President Donald Trump 's handling of the coronavirus pandemic on Thursday , as the two candidates held dueling televised town halls after their second planned debate was canceled .
+民主党 总统 候选人 乔 · 拜登 周四 抨击 了 唐纳德 · 特朗普 总统 对 冠状 病毒 大 流行 的 处理 方式 ， 因为 两 位 候选人 在 第二 次 计划 的 辩论 被 取消 后 举行 了 电视 转播 的 市政厅 。
+Democratic{民主党 }presidential{总统 }candidate{候选人 }Joe{乔 }Biden{拜登 }attacked{抨击 }President{总统 }Donald{唐纳德 }Trump{特朗普 }'s{的 }handling{处理 }of{对 }the{}coronavirus{冠状 病毒 }pandemic{病毒 }on{}Thursday{周四 },{， }as{因为 }the{}two{两 }candidates{候选人 }held{举行 }dueling{}televised{电视 }town{市政厅 }halls{市政厅 }after{后 }their{的 }second{第二 }planned{计划 }debate{辩论 }was{被 }canceled{取消 }.{。 }
+
+#184Even as hopes of reaching survivors began to fade , rescuers pulled a young girl out alive from the rubble of a collapsed apartment building on Tuesday , four days after the strong earthquake .
+尽管 接触 幸存者 的 希望 开始 消退 ， 但 救援 人员 在 强烈 地震 发生 四 天 后 ， 于 周二 从 倒塌 的 公寓楼 的 瓦砾 中 救 出 了 一 名 年轻 女孩 。
+Even{尽管 }as{尽管 }hopes{希望 }of{的 }reaching{接触 }survivors{幸存者 }began{开始 }to{}fade{消退 },{， }rescuers{救援 人员 }pulled{救 }a{一 }young{年轻 }girl{女孩 }out{}alive{}from{从 }the{的 }rubble{瓦砾 }of{的 }a{的 }collapsed{倒塌 }apartment{公寓楼 }building{公寓楼 }on{于 }Tuesday{周二 },{， }four{四 }days{天 }after{后 }the{}strong{强烈 }earthquake{地震 }.{。 }
+
+#185It is taking shape under a collaboration with the university of Southern California 's Shoah Foundation , which uses technology to not only digitally archive survivors ' narratives but also allow narrators to interact online with visitors .
+它 是 在 与 南加州 大学 Shoah 基金会 的 合作 下 形成 的 ， 该 基金会 使用 技术 不仅 以 数字 方式 存档 幸存者 的 叙述 ， 还 允许 叙述者 与 访客 在线 互动 。
+It{它 }is{是 }taking{形成 }shape{形成 }under{在 }a{的 }collaboration{合作 }with{与 }the{}university{大学 }of{}Southern{南加州 }California{南加州 }'s{}Shoah{Shoah }Foundation{基金会 },{， }which{该 }uses{使用 }technology{技术 }to{}not{不仅 }only{不仅 }digitally{数字 方式 }archive{存档 }survivors{幸存者 }'{的 }narratives{叙述 }but{}also{还 }allow{允许 }narrators{叙述者 }to{}interact{互动 }online{在线 }with{与 }visitors{访客 }.{。 }
+
+#186The vote had been initiated by the populist right-wing swiss people 's party , known as the SVP , which claimed current regulations would lead to overpopulation , rising housing prices and a strained welfare system .
+这 次 投票 是 由 民粹主义 右翼 瑞士 人民党 发起 的 ， 该党 被 称为 SVP ， 该党 声称 现行 法规 将 导致 人口 过剩 ， 房价 上涨 和 福利 制度 紧张 。
+The{这 }vote{投票 }had{是 }been{是 }initiated{发起 }by{由 }the{}populist{民粹主义 }right-wing{右翼 }swiss{}people{人民党 }'s{人民党 }party{人民党 },{， }known{称为 }as{称为 }the{}SVP{SVP },{， }which{该党 }claimed{声称 }current{现行 }regulations{法规 }would{将 }lead{导致 }to{导致 }overpopulation{人口 过剩 },{， }rising{上涨 }housing{房价 }prices{房价 }and{和 }a{}strained{紧张 }welfare{福利 }system{制度 }.{。 }
+
+#187The most recent data often underestimates the number of positive tests as there are sometimes delays before results are recorded , so this chart uses figures from four days ago .
+最新 数据 通常 低估 了 阳性 检测 的 数量 ， 因为 在 记录 结果 之前 有时 会 出现 延迟 ， 因此 此 图表 使用 四 天 前 的 数字 。
+The{}most{最新 }recent{最新 }data{数据 }often{通常 }underestimates{低估 }the{的 }number{数量 }of{}positive{阳性 }tests{检测 }as{因为 }there{出现 }are{}sometimes{有时 }delays{延迟 }before{之前 }results{结果 }are{}recorded{记录 },{， }so{因此 }this{此 }chart{图表 }uses{使用 }figures{数字 }from{的 }four{四 }days{天 }ago{前 }.{。 }
+
+#188A tougher three-tiered system of local restrictions will come into force in England when the lockdown ends on 2 December , Downing Street has said .
+唐宁街 表示 ， 当 封锁 于 12 月 2 日 结束 时 ， 更 严格 的 三级 地方 限制 制度 将 在 英格兰 生效 。
+A{的 }tougher{更 严格 }three-tiered{三级 }system{制度 }of{的 }local{地方 }restrictions{限制 }will{将 }come{}into{}force{生效 }in{在 }England{英格兰 }when{当 }the{}lockdown{封锁 }ends{结束 }on{于 }2{2 }December{12 },{}Downing{唐宁街 }Street{唐宁街 }has{}said{表示 }.{。 }
+
+#189People arriving in England will be soon able to reduce their quarantine period by more than half if they pay for a Covid test after five days , the transport secretary has announced .
+交通部长 宣布 ， 如果 五 天 后 支付 Covid 测试 费用 ， 抵达 英格兰 的 人 将 很快 能够 将 隔离 期 缩短 一半 以上 。
+People{人 }arriving{抵达 }in{抵达 }England{英格兰 }will{将 }be{}soon{很快 }able{能够 }to{将 }reduce{缩短 }their{}quarantine{隔离 }period{期 }by{}more{}than{以上 }half{一半 }if{如果 }they{的 }pay{支付 }for{}a{}Covid{Covid }test{测试 }after{后 }five{五 }days{天 },{， }the{的 }transport{交通部长 }secretary{交通部长 }has{}announced{宣布 }.{。 }
+
+#190They had logged on to the government website to request one , but were told that because their names and addresses could not be checked , they would have to go to a physical test site instead .
+他们 登录 政府 网站 要求 一个 ， 但 被 告知 ， 由于 他们 的 姓名 和 地址 无法 检查 ， 他们 将 不得不 去 一个 物理 测试 地点 。
+They{他们 }had{}logged{登录 }on{}to{}the{}government{政府 }website{网站 }to{}request{要求 }one{一个 },{， }but{但 }were{被 }told{告知 }that{， }because{由于 }their{他们 }names{姓名 }and{和 }addresses{地址 }could{}not{无法 }be{}checked{检查 },{， }they{他们 }would{将 }have{不得不 }to{}go{去 }to{}a{一个 }physical{物理 }test{测试 }site{地点 }instead{}.{。 }
+
+#191Although there have been reports of animals being infected with the virus , such as mink in farms in the Netherlands , Paavilainen said dogs are not susceptible because they lack the receptor to which the virus attaches .
+尽管 有 报道 称 动物 感染 了 这种 病毒 ， 例如 荷兰 农场 的 水貂 ， 但 Paavilainen 说 ， 狗 不易 感 ， 因为 它们 缺乏 病毒 附着 的 受体 。
+Although{尽管 }there{有 }have{}been{}reports{报道 }of{称 }animals{动物 }being{}infected{感染 }with{}the{这种 }virus{病毒 },{， }such{例如 }as{例如 }mink{水貂 }in{的 }farms{农场 }in{}the{}Netherlands{荷兰 },{， 但 }Paavilainen{Paavilainen }said{说 }dogs{狗 }are{}not{不易 }susceptible{感 }because{因为 }they{它们 }lack{缺乏 }the{的 }receptor{受体 }to{}which{}the{}virus{病毒 }attaches{附着 }.{。 }
+
+#192More areas are set to be placed into the higher tiers in England after lockdown .
+封锁 后 ， 英格兰 将 有 更 多 地区 进入 更 高 层次 。
+More{更 }areas{地区 }are{将 }set{}to{}be{}placed{进入 }into{进入 }the{}higher{高 }tiers{层次 }in{， }England{英格兰 }after{后 }lockdown{封锁 }.{。 }
+
+#193A freeze on public sector workers ' pay would damage the country 's economic recovery , the shadow chancellor will warn in a speech on Monday .
+冻结 公共 部门 工人 的 工资 将 损害 该国 的 经济 复苏 ， 影子 财政 大臣 将 在 周一 的 一 次 演讲 中 警告 说 。
+A{}freeze{冻结 }on{}public{公共 }sector{部门 }workers{工人 }'{的 }pay{工资 }would{将 }damage{损害 }the{该国 }country{该国 }'s{的 }economic{经济 }recovery{复苏 },{， }the{}shadow{影子 }chancellor{大臣 }will{将 }warn{警告 }in{在 }a{一 }speech{演讲 }on{}Monday{周一 }.{。 }
+
+#194A prominent ally of Donald Trump has urged him to drop his efforts to overturn his loss to Joe Biden in the US presidential election .
+唐纳德 · 特朗普 的 一 位 重要 盟友 敦促 他 放弃 努力 ， 推翻 他 在 美国 总统 大选 中 输 给 乔 · 拜登 的 局面 。
+A{一 }prominent{重要 }ally{盟友 }of{的 }Donald{唐纳德 }Trump{特朗普 }has{}urged{敦促 }him{他 }to{}drop{放弃 }his{}efforts{努力 }to{， }overturn{推翻 }his{他 }loss{输 }to{给 }Joe{乔 }Biden{拜登 }in{在 }the{}US{美国 }presidential{总统 }election{大选 }.{。 }
+
+#195Gyms and non-essential shops in all areas are expected to be allowed to reopen when England 's lockdown ends .
+预计 当 英格兰 的 封锁 结束 时 ， 所有 地区 的 健身房 和 非 必需品 商店 都 将 被 允许 重新 开放 。
+Gyms{健身房 }and{和 }non-essential{非 必需品 }shops{商店 }in{}all{所有 }areas{地区 }are{将 }expected{预计 }to{将 }be{被 }allowed{允许 }to{}reopen{重新 开放 }when{当 }England{英格兰 }'s{的 }lockdown{封锁 }ends{结束 }.{。 }
+
+#196I know some in the House believe we should have reached this decision earlier , but I believe it was right to try every possible option to get this virus under control at a local level , with strong local action and strong local leadership .
+我 知道 众议院 中 的 一些 人 认为 我们 应该 早点 做出 这 一 决定 ， 但 我 认为 ， 在 地方 一级 采取 强有力 的 行动 和 强有力 的 地方 领导 ， 尽 一切 可能 的 选择 来 控制 这种 病毒 是 正确 的 。
+I{我 }know{知道 }some{一些 }in{中 }the{}House{众议院 }believe{认为 }we{我们 }should{应该 }have{}reached{做出 }this{这 }decision{决定 }earlier{早点 },{， }but{但 }I{我 }believe{认为 }it{， }was{是 }right{正确 }to{}try{采取 }every{一切 }possible{可能 }option{选择 }to{来 }get{}this{这种 }virus{病毒 }under{}control{控制 }at{在 }a{}local{地方 }level{一级 },{， }with{}strong{强有力 }local{}action{行动 }and{和 }strong{强有力 }local{地方 }leadership{领导 }.{。 }
+
+#197Offices at Marquette City Hall , the Arts and Culture Center in Peter White Public Library , Municipal Service Center and Lakeview Arena will be closed for the Christmas and Halloween holidays .
+马 凯特 市政厅 ， 彼得 怀特 公共 图书馆 的 艺术 和 文化 中心 ， 市政 服务 中心 和 湖景 竞技场 的 办公室 将 在 圣诞节 和 万圣节 假期 关闭 。
+Offices{办公室 }at{}Marquette{马 凯特 }City{市政厅 }Hall{市政厅 },{， }the{的 }Arts{艺术 }and{和 }Culture{文化 }Center{中心 }in{}Peter{彼得 }White{怀特 }Public{公共 }Library{图书馆 },{， }Municipal{市政 }Service{服务 }Center{中心 }and{和 }Lakeview{湖景 }Arena{竞技场 }will{将 }be{}closed{关闭 }for{在 }the{}Christmas{圣诞节 }and{和 }Halloween{万圣节 }holidays{假期 }.{。 }
+
+#198A St. Cloud woman was arrested on Thursday after prostituting her three teenage daughters to undercover deputies .
+周四 ， 一 名 圣 克劳德 妇女 在 将 她 的 三 个 十几 岁 的 女儿 卖淫 给 卧底 副手 后 被捕 。
+A{一 }St.{圣 }Cloud{克劳德 }woman{妇女 }was{被捕 }arrested{被捕 }on{， }Thursday{周四 }after{在 后 }prostituting{将 卖淫 }her{她 }three{三 }teenage{岁 }daughters{女儿 }to{给 }undercover{卧底 }deputies{副手 }.{。 }
+
+#199A liquor shop salesman , who refused liquor to some men on Saturday night , was shot dead in Dankaur area of Bhatta village , police said on Sunday .
+警方 周日 表示 ， 一 名 酒类 商店 销售员 周六 晚上 拒绝 向 一些 男子 提供 酒类 ， 在 Bhatta 村 的 Dankaur 地区 被 枪杀 。
+A{一 }liquor{酒类 }shop{商店 }salesman{销售员 },{}who{}refused{拒绝 }liquor{酒类 }to{向 }some{一些 }men{男子 }on{}Saturday{}night{晚上 },{， }was{被 }shot{枪杀 }dead{}in{在 }Dankaur{Dankaur }area{地区 }of{的 }Bhatta{Bhatta }village{村 },{}police{警方 }said{表示 }on{}Sunday{}.{。 }
+
+#200Amazon has launched its own online pharmacy allow customers to buy prescription medicines .
+亚马逊 推出 了 自己 的 在线 药房 ， 允许 客户 购买 处方 药 。
+Amazon{亚马逊 }has{}launched{推出 }its{}own{自己 }online{在线 }pharmacy{药房 }allow{允许 }customers{客户 }to{}buy{购买 }prescription{处方 }medicines{药 }.{。 }
+
+#201President Donald Trump participated in head-to-head town halls Thursday night .
+唐纳德 特朗普 总统 周四 晚上 参加 了 面对面 的 市政厅 。
+President{总统 }Donald{唐纳德 }Trump{特朗普 }participated{参加 }in{}head-to-head{面对面 }town{市政厅 }halls{市政厅 }Thursday{}night{晚上 }.{。 }
+
+#202The money will fund space and cyber defence projects such as an artificial intelligence agency , and could create 40000 new jobs .
+这笔 资金 将 资助 太空 和 网络 防御 项目 ， 如 人工智能 机构 ， 并 可能 创造 40000 个 新 工作 岗位 。
+The{这笔 }money{资金 }will{将 }fund{资助 }space{太空 }and{和 }cyber{网络 }defence{防御 }projects{项目 }such{如 }as{如 }an{}artificial{人工智能 }intelligence{人工智能 }agency{机构 },{， }and{并 }could{可能 }create{创造 }40000{40000 }new{新 }jobs{工作 岗位 }.{。 }
+
+#203The government condemned the move accusing the leaders of sedition for creating a parallel administration .
+政府 谴责 此举 ， 指责 领导人 煽动 叛乱 ， 建立 平行 政府 。
+The{}government{政府 }condemned{谴责 }the{此举 }move{此举 }accusing{指责 }the{}leaders{领导人 }of{煽动 }sedition{叛乱 }for{， }creating{建立 }a{}parallel{平行 }administration{政府 }.{。 }
+
+#204According to the education ministry , secondary and primary schools are expected to reopen in November .
+据 教育部 称 ， 中小学 预计 将 于 11 月 重新 开放 。
+According{据 }to{}the{}education{教育部 }ministry{教育部 },{， }secondary{中小学 }and{}primary{}schools{中小学 }are{将 }expected{预计 }to{将 }reopen{重新 开放 }in{于 }November{11 }.{。 }
+
+#205Macron has deployed thousands of soldiers to protect sites such as places of worship and schools .
+马克 龙 已经 部署 了 数千 名 士兵 来 保护 礼拜 场所 和 学校 等 场所 。
+Macron{马克 龙 }has{已经 }deployed{部署 }thousands{数千 }of{名 }soldiers{士兵 }to{来 }protect{保护 }sites{场所 }such{等 }as{}places{场所 }of{}worship{礼拜 }and{和 }schools{学校 }.{。 }
+
+#206Nearly a dozen women were among the victims for which the Islamic State group has claimed responsibility .
+近 十几 名 妇女 是 伊斯兰 国 组织 声称 对 其 负责 的 受害者 。
+Nearly{近 }a{}dozen{十几 }women{妇女 }were{是 }among{}the{的 }victims{受害者 }for{对 }which{其 }the{}Islamic{伊斯兰 }State{国 }group{组织 }has{}claimed{声称 }responsibility{负责 }.{。 }
+
+#207He expressed appreciation for the organizers of the expo for hosting the event in these challenging times .
+他 对 世博会 组织者 在 这个 充满 挑战 的 时期 举办 此次 活动 表示 感谢 。
+He{他 }expressed{表示 }appreciation{感谢 }for{对 }the{}organizers{组织者 }of{}the{}expo{世博会 }for{}hosting{举办 }the{此次 }event{活动 }in{在 }these{这个 }challenging{挑战 }times{时期 }.{。 }
+
+#208Experts said UK universities are also arranging charter flights for financial reasons to bring students to the country .
+专家 表示 ， 英国 大学 也 出于 经济 原因 安排 包机 将 学生 带 到 该国 。
+Experts{专家 }said{表示 }UK{英国 }universities{大学 }are{}also{也 }arranging{安排 }charter{包机 }flights{包机 }for{出于 }financial{经济 }reasons{原因 }to{}bring{带 }students{学生 }to{到 }the{该国 }country{该国 }.{。 }
+
+#209Without the March relief program , the poverty rates would have been higher over the last seven months .
+如果 没有 三月份 的 救济 计划 ， 过去 七 个 月 的 贫困率 会 更 高 。
+Without{如果 没有 }the{的 }March{三月份 }relief{救济 }program{计划 },{， }the{的 }poverty{贫困率 }rates{贫困率 }would{会 }have{}been{}higher{高 }over{}the{}last{过去 }seven{七 }months{月 }.{。 }
+
+#210The kindergartens and primary schools will remain open , while secondary schools will close and introduce distance learning .
+幼儿园 和 小学 将 继续 开放 ， 而 中学 将 关闭 并 引入 远程 学习 。
+The{}kindergartens{幼儿园 }and{和 }primary{小学 }schools{小学 }will{将 }remain{继续 }open{开放 },{， }while{而 }secondary{中学 }schools{中学 }will{将 }close{关闭 }and{并 }introduce{引入 }distance{远程 }learning{学习 }.{。 }
+
+#211Meanwhile , different households will be banned from mixing , although support bubbles and childcare bubbles will remain .
+同时 ， 不同 家庭 将 被 禁止 混合 ， 但 支持 泡沫 和 育儿 泡沫 仍 将 存在 。
+Meanwhile{同时 },{， }different{不同 }households{家庭 }will{将 }be{被 }banned{禁止 }from{}mixing{混合 },{， }although{但 }support{支持 }bubbles{泡沫 }and{和 }childcare{育儿 }bubbles{泡沫 }will{将 }remain{仍 存在 }.{。 }
+
+#212There is no doubt Jeremy Corbyn 's supporters will keep objecting loudly to what has happened , and that could get extremely bumpy .
+毫无疑问 ， Jeremy Corbyn 的 支持者 会 继续 大声 反对 发生 的 事情 ， 这 可能 会 变 得 非常 颠簸 。
+There{}is{}no{毫无疑问 }doubt{毫无疑问 }Jeremy{Jeremy }Corbyn{Corbyn }'s{的 }supporters{支持者 }will{会 }keep{继续 }objecting{反对 }loudly{大声 }to{}what{的 }has{}happened{发生 },{， }and{}that{这 }could{可能 }get{变 }extremely{非常 }bumpy{颠簸 }.{。 }
+
+#213The ministers renewed the discussion of new fiscal rules , which was disrupted by the pandemic early this year .
+部长 们 重新 讨论 了 今年初 因 大 流行 而 中断 的 新 财政 规则 。
+The{}ministers{部长 }renewed{重新 }the{}discussion{讨论 }of{的 }new{新 }fiscal{财政 }rules{规则 },{}which{}was{}disrupted{中断 }by{而 }the{}pandemic{流行 }early{今年初 }this{今年初 }year{今年初 }.{。 }
+
+#214Experts are warning that widespread belief in COVID-19 conspiracy theories could make vaccination campaigns less effective when treatments become available .
+专家 警告 说 ， 对 COVID - 19 阴谋论 的 广泛 信仰 可能 会 在 治疗 可用 时 降低 疫苗 接种 活动 的 效果 。
+Experts{专家 }are{}warning{警告 }that{， }widespread{广泛 }belief{信仰 }in{对 }COVID-19{COVID - 19 }conspiracy{阴谋论 }theories{阴谋论 }could{会 }make{}vaccination{疫苗 接种 }campaigns{活动 }less{降低 }effective{效果 }when{时 }treatments{治疗 活动 }become{}available{可用 }.{。 }
+
+#215However , rising unemployment and the ongoing challenges mean the outlook .
+然而 ， 失业率 上升 和 持续 的 挑战 意味着 前景 。
+However{然而 },{， }rising{上升 }unemployment{失业率 }and{和 }the{的 }ongoing{持续 }challenges{挑战 }mean{意味着 }the{}outlook{前景 }.{。 }
+
+#216The COVID-19 pandemic has been the primary campaign issue , with Trump defending his administration 's actions and Biden opposing them .
+COVID - 19 大 流行 一直 是 主要 的 竞选 问题 ， 特朗普 为 其 政府 的 行动 辩护 ， 而 拜登 则 反对 。
+The{}COVID-19{COVID - 19 }pandemic{流行 }has{一直 }been{是 }the{的 }primary{主要 }campaign{竞选 }issue{问题 },{， }with{}Trump{特朗普 }defending{辩护 }his{其 }administration{政府 }'s{的 }actions{行动 }and{而 }Biden{拜登 }opposing{反对 }them{}.{。 }
+
+#217The resulting rush of air will drive a turbine to make electricity , which can be sold back to the grid .
+由此 产生 的 空气 冲击 将 驱动 涡轮机 发电 ， 这些 电力 可以 卖 回 电网 。
+The{的 }resulting{由此 }rush{冲击 }of{}air{空气 }will{将 }drive{驱动 }a{}turbine{涡轮机 }to{}make{发电 }electricity{发电 },{， }which{这些 }can{可以 }be{}sold{卖 }back{回 }to{回 }the{}grid{电网 }.{。 }
+
+#218The months ahead will be challenging for everyone , so it is especially important that we discuss and discuss our policies .
+未来 几 个 月 对 每个 人 来说 都 将 充满 挑战 ， 因此 我们 讨论 和 讨论 我们 的 政策 尤为 重要 。
+The{几 }months{月 }ahead{未来 }will{将 }be{充满 }challenging{挑战 }for{对 }everyone{每个 },{， }so{因此 }it{}is{}especially{尤为 }important{重要 }that{}we{我们 }discuss{讨论 }and{和 }discuss{讨论 }our{我们 }policies{政策 }.{。 }
+
+#219Prime Minister of Kyrgyzstan Sadyr Zhaparov on Thursday declared himself acting president of the country after President Sooronbai Jeenbekov resigned hours earlier .
+吉尔吉斯斯坦 总理 萨迪尔 · 扎 帕罗 夫 周四 宣布 自己 为 该国 代理 总统 ， 此前 几 小时 前 总统 索伦拜 · 热恩 别科夫 辞职 。
+Prime{总理 }Minister{总理 }of{}Kyrgyzstan{吉尔吉斯斯坦 }Sadyr{萨迪尔 }Zhaparov{扎 帕罗 夫 }on{}Thursday{周四 }declared{宣布 }himself{自己 }acting{代理 }president{总统 }of{}the{该国 }country{该国 }after{， }President{总统 }Sooronbai{索伦拜 }Jeenbekov{热恩 别科夫 }resigned{辞职 }hours{小时 }earlier{此前 前 }.{。 }
+
+#220Steven Kennedy , the treasury secretary , used a recent speech to urge the government to lower the threshold for fiscal stimulus .
+财政部长 史蒂文 · 肯尼迪 利用 最近 的 一 次 演讲 敦促 政府 降低 财政 刺激 的 门槛 。
+Steven{史蒂文 }Kennedy{肯尼迪 },{}the{}treasury{财政部长 }secretary{财政部长 },{}used{利用 }a{一 }recent{最近 }speech{演讲 }to{}urge{敦促 }the{}government{政府 }to{}lower{降低 }the{的 }threshold{门槛 }for{}fiscal{财政 }stimulus{刺激 }.{。 }
+
+#221At least 22 people , mostly students , were killed and another 27 wounded when three gunmen stormed the university on Monday .
+周一 ， 三 名 枪手 冲 进 大学 时 ， 至少 有 22 人 死亡 ， 其中 大部分 是 学生 ， 另 有 27 人 受伤 。
+At{至少 }least{至少 }22{22 }people{人 },{， }mostly{大部分 }students{学生 },{， }were{}killed{死亡 }and{， }another{另 }27{27 }wounded{受伤 }when{时 }three{三 }gunmen{枪手 }stormed{冲 }the{}university{大学 }on{}Monday{周一 }.{。 }
+
+#222After briefing the prime minister on the outbreak , reporters heard from Nogami that measures would be taken to eradicate the outbreak .
+在 向 首相 通报 疫情 后 ， 记者 从 野上 获悉 ， 将 采取 措施 根除 疫情 。
+After{在 后 }briefing{通报 }the{}prime{首相 }minister{首相 }on{}the{}outbreak{疫情 },{， }reporters{记者 }heard{获悉 }from{从 }Nogami{野上 }that{， }measures{措施 }would{将 }be{}taken{采取 }to{}eradicate{根除 }the{}outbreak{疫情 }.{。 }
+
+#223Despite the downgrading , the Honduran government on Wednesday declared a national state of emergency due to the passage of the storm .
+尽管 降级 ， 洪都拉斯 政府 周三 由于 风暴 的 过去 宣布 全国 进入 紧急状态 。
+Despite{尽管 }the{}downgrading{降级 },{， }the{}Honduran{洪都拉斯 }government{政府 }on{}Wednesday{周三 }declared{宣布 }a{进入 }national{全国 }state{紧急状态 }of{}emergency{紧急状态 }due{由于 }to{由于 }the{的 }passage{过去 }of{}the{}storm{风暴 }.{。 }
+
+#224The new law means that the so-called " justifiable assault " defence is no longer available .
+新法 意味着 不再 提供 所谓 的 “ 正当 攻击 ” 辩护 。
+The{}new{新法 }law{新法 }means{意味着 }that{}the{的 }so-called{所谓 }"{“ }justifiable{正当 }assault{攻击 }"{” }defence{}is{}no{不再 }longer{不再 }available{提供 }.{。 }
+
+#225Bars and restaurants are also shut but people can exercise near their homes if they wear masks and hairdressers can remain open .
+酒吧 和 餐馆 也 关闭 了 ， 但 人们 可以 在家 附近 锻炼 ， 如果 他们 戴 上 口罩 ， 理发店 可以 继续 营业 。
+Bars{酒吧 }and{和 }restaurants{餐馆 }are{了 }also{也 }shut{关闭 }but{但 }people{人们 }can{可以 }exercise{锻炼 }near{附近 }their{}homes{在家 }if{如果 }they{他们 }wear{戴 }masks{口罩 }and{， ， }hairdressers{理发店 }can{可以 }remain{继续 }open{营业 }.{。 }
+
+#226The decision resulted in clashes between his supporters and the opposition ahead of the Saturday elections , leading to fatalities and injuries .
+这 一 决定 导致 他 的 支持者 和 反对派 在 周六 选举 前 发生 冲突 ， 造成 人员 伤亡 。
+The{这 }decision{决定 }resulted{导致 }in{导致 }clashes{冲突 }between{}his{他 }supporters{支持者 }and{和 }the{}opposition{反对派 }ahead{前 }of{在 }the{}Saturday{周六 }elections{选举 },{， }leading{造成 }to{造成 }fatalities{}and{}injuries{伤亡 }.{。 }
+
+#227The Russian authorities are managing to minimize the volatility of the ruble exchange rate and to maintain macroeconomic stability , he said .
+他 说 ， 俄罗斯 当局 正在 设法 将 卢布 汇率 的 波动性 降 到 最低 ， 并 保持 宏观 经济 稳定 。
+The{}Russian{俄罗斯 }authorities{当局 }are{正在 }managing{设法 }to{正在 }minimize{将 降 }the{的 }volatility{波动性 }of{}the{}ruble{卢布 }exchange{汇率 }rate{汇率 }and{并 }to{}maintain{保持 }macroeconomic{宏观 经济 }stability{稳定 },{， }he{他 }said{说 }.{。 }
+
+#228This summer has witnessed several severe floods and powerful typhoons across the country , causing great damage to local people and their properties .
+今年 夏天 ， 全国 多次 发生 特大 洪水 和 强 台风 ， 给 当地 人民 和 财产 造成 了 巨大 损失 。
+This{今年 }summer{夏天 }has{， }witnessed{发生 }several{多次 }severe{特大 }floods{洪水 }and{和 }powerful{强 }typhoons{台风 }across{全国 }the{}country{全国 },{， }causing{造成 }great{巨大 }damage{损失 }to{给 }local{当地 }people{人民 }and{和 }their{}properties{财产 }.{。 }
+
+#229Congress ' swift and expansive response to the coronavirus pandemic last spring spared millions of Americans from falling into poverty .
+国会 去年 春天 对 冠状 病毒 大 流行 的 迅速 而 广泛 的 反应 使 数百万 美国 人 免于 陷入 贫困 。
+Congress{国会 }'{的 }swift{迅速 }and{而 }expansive{广泛 }response{反应 }to{对 }the{}coronavirus{冠状 病毒 }pandemic{病毒 }last{去年 }spring{春天 }spared{使 }millions{数百万 }of{}Americans{美国 }from{免于 }falling{陷入 }into{陷入 }poverty{贫困 }.{。 }
+
+#230European nations are reintroducing strict measures aimed at limiting the spread of the novel coronavirus after infections and hospitalizations because of COVID-19 skyrocketed .
+欧洲 国家 正在 重新 采取 严格 措施 ， 旨在 限制 新型 冠状 病毒 在 感染 和 住院 后 因 COVID - 19 飙升 而 传播 。
+European{欧洲 }nations{国家 }are{正在 }reintroducing{重新 采取 }strict{严格 }measures{措施 }aimed{旨在 }at{旨在 }limiting{限制 }the{}spread{传播 }of{}the{}novel{新型 }coronavirus{冠状 病毒 }after{后 }infections{感染 }and{和 }hospitalizations{住院 }because{因 }of{}COVID-19{COVID - 19 }skyrocketed{飙升 }.{。 }
+
+#231Trump has continued his attacks on mail-in ballots , saying he would deploy lawyers if states are still counting votes after Election day .
+特朗普 继续 抨击 邮寄 选票 ， 称 如果 各州 在 选举 日后 仍 在 计票 ， 他 将 部署 律师 。
+Trump{特朗普 }has{}continued{继续 }his{}attacks{抨击 }on{}mail-in{邮寄 }ballots{选票 },{， }saying{称 }he{他 }would{将 }deploy{部署 }lawyers{律师 }if{如果 }states{各州 }are{在 }still{仍 }counting{计票 }votes{计票 }after{日后 }Election{}day{日后 }.{。 }
+
+#232Fiscal policy has always responded to large shocks but there is now a question about whether the threshold for intervention should be lowered .
+财政 政策 一直 是 应 对 大 冲击 的 ， 但 现在 有 一个 问题 是 ， 是否 应该 降低 干预 的 门槛 。
+Fiscal{财政 }policy{政策 }has{是 }always{一直 }responded{应 }to{对 }large{大 }shocks{冲击 }but{但 }there{有 }is{}now{现在 }a{一个 }question{问题 }about{是 ， }whether{是否 }the{的 }threshold{门槛 }for{}intervention{干预 }should{应该 }be{}lowered{降低 }.{。 }
+
+#233The cash injection will help with the construction and maintenance costs of St Paul 's , which is normally a huge tourist attraction .
+现金 注入 将 有助于 圣保罗 教堂 的 建设 和 维护 成本 ， 这 通常 是 一个 巨大 的 旅游 景点 。
+The{}cash{现金 }injection{注入 }will{将 }help{有助于 }with{有助于 }the{的 }construction{建设 }and{和 }maintenance{维护 }costs{成本 }of{}St{圣保罗 }Paul{圣保罗 }'s{教堂 },{， }which{这 }is{是 }normally{通常 }a{一个 }huge{巨大 }tourist{旅游 }attraction{景点 }.{。 }
+
+#234Wednesday 's meeting also adopted conclusions on an action plan against money laundering and terrorist financing presented by the european commission in May .
+周三 的 会议 还 通过 了 欧盟 委员会 5 月 提出 的 打击 洗钱 和 恐怖主义 融资 行动 计划 的 结论 。
+Wednesday{周三 }'s{的 }meeting{会议 }also{还 }adopted{通过 }conclusions{结论 }on{}an{的 }action{行动 }plan{计划 }against{打击 }money{洗钱 }laundering{}and{和 }terrorist{恐怖主义 }financing{融资 }presented{提出 }by{}the{}european{欧盟 }commission{委员会 }in{}May{5 }.{。 }
+
+#235The report said modernization of port infrastructure assets is a fundamental component of Africa 's transformation , competitiveness , industrialization and economic integration .
+报告 称 ， 港口 基础 设施 资产 的 现代化 是 非洲 转型 、 竞争力 、 工业化 和 经济 一体化 的 基本 组成部分 。
+The{}report{报告 }said{称 }modernization{现代化 }of{}port{港口 }infrastructure{设施 }assets{资产 }is{是 }a{的 }fundamental{基本 }component{组成部分 }of{}Africa{非洲 }'s{的 }transformation{转型 },{、 }competitiveness{竞争力 },{、 }industrialization{工业化 }and{和 }economic{经济 }integration{一体化 }.{。 }
+
+#236Net-zero carbon emissions will be a ginormous turnaround in four decades and has to be done without too much negative impact on economic development .
+净零碳 排放 将 是 四 年 后 的 巨大 转变 ， 必须 在 不 对 经济 发展 造成 太 大 负面 影响 的 情况 下 实现 。
+Net-zero{净零碳 }carbon{净零碳 }emissions{排放 }will{将 }be{是 }a{的 }ginormous{巨大 }turnaround{转变 }in{后 }four{四 }decades{年 }and{， }has{必须 }to{必须 }be{}done{实现 }without{在 不 }too{太 }much{大 }negative{负面 }impact{影响 }on{对 }economic{经济 }development{发展 }.{。 }
+
+#237An inquiry is being launched into the compensation scheme set up for victims of the Windrush scandal .
+正在 对 为 Windrush 丑闻 受害者 设立 的 赔偿 计划 展开 调查 。
+An{}inquiry{调查 }is{正在 }being{正在 }launched{展开 }into{对 }the{的 }compensation{赔偿 }scheme{计划 }set{设立 }up{设立 }for{为 }victims{受害者 }of{}the{}Windrush{Windrush }scandal{丑闻 }.{。 }
+
+#238Biden has multiple paths to reach the magic number of 270 needed to win the White House , while Trump 's prospects are limited .
+拜登 有 多种 途径 可以 达到 赢得 白宫 所 需 的 神奇 数字 270 ， 而 特朗普 的 前景 有限 。
+Biden{拜登 }has{有 }multiple{多种 }paths{途径 }to{可以 }reach{达到 }the{的 }magic{神奇 }number{数字 }of{}270{270 }needed{需 }to{}win{赢得 }the{}White{白宫 }House{白宫 },{， }while{而 }Trump{特朗普 }'s{的 }prospects{前景 }are{}limited{有限 }.{。 }
+
+#239The guidelines previously said the virus spreads only through breathing in respiratory droplets , touching contaminated surfaces and common greetings like kisses and hugs .
+该 指南 此前 曾 表示 ， 病毒 仅 通过 吸 入 呼吸道 飞沫 、 接触 受 污染 的 表面 以及 亲吻 和 拥抱 等 常见 问候 方式 传播 。
+The{该 }guidelines{指南 }previously{此前 }said{表示 }the{}virus{病毒 }spreads{传播 }only{仅 }through{通过 }breathing{吸 }in{}respiratory{呼吸道 }droplets{飞沫 },{、 }touching{接触 }contaminated{污染 }surfaces{表面 }and{以及 }common{常见 }greetings{}like{}kisses{亲吻 }and{和 }hugs{拥抱 }.{。 }
+
+#240It is essential that learning is applied to planning for this winter , including what services can be delivered safely .
+必须 将 学习 应用 于 今年 冬天 的 规划 ， 包括 可以 安全 提供 哪些 服务 。
+It{}is{}essential{必须 }that{将 }learning{学习 }is{}applied{应用 }to{于 }planning{规划 }for{}this{今年 }winter{冬天 },{， }including{包括 }what{哪些 }services{服务 }can{可以 }be{}delivered{提供 }safely{安全 }.{。 }
+
+#241Then when there is a peak in demand in a day or a month , the liquid air will be warmed so it expands .
+然后 当 一 天 或 一个 月 的 需求 达到 高峰 时 ， 液态 空气 会 被 加热 ， 从而 膨胀 。
+Then{然后 }when{当 }there{达到 }is{达到 }a{达到 }peak{高峰 }in{的 }demand{需求 }in{}a{一 }day{天 }or{或 }a{一个 }month{月 },{， }the{}liquid{液态 }air{空气 }will{会 }be{被 }warmed{加热 }so{从而 }it{}expands{膨胀 }.{。 }
+
+#242The figures came as England is set to enter a month-long lockdown from Thursday in a bid to quell the resurgence of the coronavirus .
+这些 数据 出炉 之际 ， 英格兰 将 从 周四 开始 进入 为期 一个 月 的 封锁 期 ， 以 遏制 冠状 病毒 的 死灰复燃 。
+The{这些 }figures{数据 }came{出炉 }as{之际 }England{英格兰 }is{将 }set{}to{将 }enter{进入 }a{的 }month-long{为期 月 }lockdown{封锁 }from{从 }Thursday{周四 }in{}a{}bid{}to{以 }quell{遏制 }the{的 }resurgence{死灰复燃 }of{}the{}coronavirus{冠状 病毒 }.{。 }
+
+#243The EU recognizes the waters as belonging to greece and said it would be illegal for Turkey to conduct drilling and energy exploration there .
+欧盟 承认 该 水域 属于 希腊 ， 并 表示 土耳其 在 那里 进行 钻探 和 能源 勘探 是 非法 的 。
+The{}EU{欧盟 }recognizes{承认 }the{该 }waters{水域 }as{}belonging{属于 }to{属于 }greece{希腊 }and{并 }said{表示 }it{}would{}be{是 }illegal{非法 }for{}Turkey{土耳其 }to{在 }conduct{进行 }drilling{钻探 }and{和 }energy{能源 }exploration{勘探 }there{那里 }.{。 }
+
+#244Financial services firms entered the pandemic in a position of capital strength and have supported the economy and business to unprecedented levels since March .
+自 3 月 以来 ， 金融 服务 公司 以 资本 实力 进入 大 流行 ， 并 将 经济 和 商业 支持 到 前所未有 的 水平 。
+Financial{金融 }services{服务 }firms{公司 }entered{进入 }the{}pandemic{流行 }in{以 }a{}position{}of{}capital{资本 }strength{实力 }and{并 }have{}supported{支持 }the{}economy{经济 }and{和 }business{商业 }to{到 }unprecedented{前所未有 }levels{水平 }since{自 }March{3 }.{。 }
+
+#245Search and rescue operations have been going on around the clock in the debris of a total of eight collapsed buildings in the province .
+在 全省 共有 八座 倒塌 建筑物 的 残骸 中 ， 搜索 和 救援 行动 一直 在 进行 。
+Search{搜索 }and{和 }rescue{救援 }operations{行动 }have{一直 }been{在 }going{进行 }on{}around{}the{}clock{}in{在 }the{的 }debris{残骸 }of{}a{}total{共有 }of{共有 }eight{八座 }collapsed{倒塌 }buildings{建筑物 }in{在 }the{全省 }province{全省 }.{。 }
+
+#246The Nobel Peace Prize is decided , as Nobel laureate , by the Norwegian Nobel Committee , comprising five members appointed by the Norwegian Parliament .
+诺贝尔 和平 奖 作为 诺贝尔奖 获得者 ， 由 挪威 诺贝尔 委员会 决定 ， 该 委员会 由 挪威 议会 任命 的 五 名 成员 组成 。
+The{}Nobel{诺贝尔 }Peace{和平 }Prize{奖 }is{}decided{决定 },{}as{作为 }Nobel{诺贝尔奖 }laureate{获得者 },{， }by{由 }the{}Norwegian{挪威 }Nobel{诺贝尔 }Committee{委员会 },{， }comprising{组成 }five{五 }members{成员 }appointed{任命 }by{由 }the{}Norwegian{挪威 }Parliament{议会 }.{。 }
+
+#247Many universities in the United Kingdom are chartering flights to help bring thousands of Chinese students to study in the country despite the COVID-19 pandemic .
+尽管 发生 了 COVID - 19 大 流行 ， 英国 的 许多 大学 都 在 包机 帮助 成千上万 的 中国 学生 来 英国 学习 。
+Many{许多 }universities{大学 }in{的 }the{的 }United{英国 }Kingdom{}are{在 }chartering{包机 }flights{包机 }to{}help{帮助 }bring{}thousands{成千上万 }of{的 }Chinese{中国 }students{学生 }to{来 }study{学习 }in{}the{}country{英国 }despite{尽管 }the{了 }COVID-19{COVID - 19 }pandemic{流行 }.{。 }
+
+#248Xi called on the two nations to jointly uphold multilateralism and firmly safeguard the international order and system with the United Nations at the core .
+习近平 呼吁 两 国 共同 维护 多边 主义 ， 坚定 维护 以 联合国 为 核心 的 国际 秩序 和 体系 。
+Xi{习近平 }called{呼吁 }on{}the{}two{两 }nations{国 }to{}jointly{共同 }uphold{维护 }multilateralism{多边 主义 }and{， }firmly{坚定 }safeguard{维护 }the{的 }international{国际 }order{秩序 }and{和 }system{体系 }with{以 }the{}United{联合国 }Nations{联合国 }at{为 }the{}core{核心 }.{。 }
+
+#249By winning the northern battlegrounds of Michigan and Wisconsin , Biden added to his electoral vote count while Trump 's total remained fixed on 214 .
+通过 赢得 密歇根州 和 威斯康星州 的 北部 战场 ， 拜登 增加 了 他 的 选举人 票数 ， 而 特朗普 的 总 票数 保持 在 214 票 。
+By{通过 }winning{赢得 }the{的 }northern{北部 }battlegrounds{战场 }of{}Michigan{密歇根州 }and{和 }Wisconsin{威斯康星州 },{， }Biden{拜登 }added{增加 }to{了 }his{他 }electoral{选举人 }vote{票数 }count{票数 }while{而 }Trump{特朗普 }'s{的 }total{票数 }remained{保持 }fixed{保持 }on{在 }214{214 }.{。 }
+
+#250It urged local authorities to ask drivers to move their vehicles to car parks near disused shops , pubs and restaurants while repairs take place .
+它 敦促 地方 当局 在 维修 期间 要求 司机 将 车辆 转移 到 废弃 商店 、 酒吧 和 餐馆 附近 的 停车场 。
+It{它 }urged{敦促 }local{地方 }authorities{当局 }to{}ask{要求 }drivers{司机 }to{}move{转移 }their{}vehicles{车辆 }to{到 }car{}parks{停车场 }near{附近 }disused{废弃 }shops{商店 },{、 }pubs{酒吧 }and{和 }restaurants{餐馆 }while{期间 }repairs{维修 }take{}place{}.{。 }
+
+#251Snowden has been taking refuge in Russia and is wanted by the United States on charges of espionage and theft of government property .
+斯诺 登 一直 在 俄罗斯 避难 ， 并 被 美国 以 间 谍罪 和 盗窃 政府 财产 的 罪名 通缉 。
+Snowden{斯诺 登 }has{一直 }been{一直 }taking{}refuge{避难 }in{在 }Russia{俄罗斯 }and{并 }is{被 }wanted{通缉 }by{}the{}United{美国 }States{美国 }on{以 }charges{罪名 }of{}espionage{间 谍罪 }and{和 }theft{盗窃 }of{}government{政府 }property{财产 }.{。 }
+
+#252A draft report concluded in the summer that Home Secretary Priti Patel had broken rules on ministers ' behaviour , sources familiar with the contents say .
+熟悉 内容 的 消息 人士 称 ， 一 份 报告 草案 在 夏天 得出 结论 ， 称 内政 大臣 普里 蒂 帕特尔 违反 了 部长 行为 规则 。
+A{一 }draft{草案 }report{报告 }concluded{称 结论 }in{在 }the{}summer{夏天 }that{称 }Home{内政 }Secretary{大臣 }Priti{普里 蒂 }Patel{帕特尔 }had{}broken{违反 }rules{规则 }on{}ministers{部长 }'{}behaviour{行为 },{， }sources{人士 }familiar{}with{了 }the{}contents{内容 }say{}.{。 }
+
+#253Boris Johnson has defended how Covid statistics are being used after data shown in a presentation to justify the lockdown in England had to be revised .
+鲍里斯 · 约翰逊 为 在 演示 文稿 中 显示 的 数据 必须 修改 后 如何 使用 Covid 统计 数据 进行 辩护 ， 以 证明 英格兰 的 封锁 是 合理 的 。
+Boris{鲍里斯 }Johnson{约翰逊 }has{}defended{辩护 }how{如何 }Covid{Covid }statistics{数据 数据 }are{}being{进行 }used{使用 }after{后 }data{数据 数据 }shown{显示 }in{在 中 }a{}presentation{文稿 }to{以 }justify{证明 }the{的 }lockdown{封锁 }in{}England{英格兰 }had{必须 是 }to{的 }be{进行 是 }revised{修改 }.{。 }
+
+#254He again made no public appearances on Thursday , skipping the first coronavirus task force briefing at the White House in more than six months .
+周四 ， 他 再次 没有 公开 露面 ， 跳 过 了 六 个 多 月 以来 在 白宫 举行 的 第一 次 冠状 病毒 特别 工作组 简报 会 。
+He{他 }again{再次 }made{}no{没有 }public{公开 }appearances{露面 }on{， }Thursday{周四 },{， }skipping{跳 }the{的 }first{第一 }coronavirus{冠状 病毒 }task{工作组 }force{工作组 }briefing{简报 会 }at{在 }the{}White{白宫 }House{白宫 }in{了 }more{}than{}six{六 }months{月 }.{。 }
+
+#255One theory has suggested that the moon was formed around 4 billion years ago when a planet roughly the size of mars slammed into the Earth .
+一 种 理论 认为 ， 月球 是 在 大约 40 亿 年 前 形成 的 ， 当时 一 颗 大约 火星 大小 的 行星 撞击 地球 。
+One{一 }theory{理论 }has{}suggested{认为 }that{认为 }the{}moon{月球 }was{是 }formed{形成 }around{大约 }4{40 }billion{亿 }years{年 }ago{前 }when{， }a{一 }planet{行星 }roughly{大约 }the{}size{大小 }of{的 }mars{火星 }slammed{撞击 }into{}the{}Earth{地球 }.{。 }
+
+#256A Chinese citizen , who worked at the same company , was injured in the attack and is now in stable condition , the embassy said .
+大使馆 说 ， 一 名 在 同 一 家 公司 工作 的 中国 公民 在 袭击 中 受伤 ， 目前 情况 稳定 。
+A{一 }Chinese{中国 }citizen{公民 },{}who{的 }worked{工作 }at{在 }the{}same{同 }company{公司 },{}was{}injured{受伤 }in{在 中 }the{}attack{袭击 }and{， }is{}now{目前 }in{}stable{稳定 }condition{情况 },{}the{}embassy{大使馆 }said{说 }.{。 }
+
+#257He also warned that a second lockdown could present new challenges to public spending plans , adding that the spending review is going to get hard .
+他 还 警告 说 ， 第二 次 封锁 可能 会 给 公共 支出 计划 带来 新 的 挑战 ， 并 补充 说 支出 审查 将 变 得 更加 艰难 。
+He{他 }also{还 }warned{警告 }that{， }a{}second{第二 }lockdown{封锁 }could{会 }present{带来 }new{新 }challenges{挑战 }to{给 }public{公共 }spending{支出 }plans{计划 },{， }adding{补充 }that{说 }the{}spending{支出 }review{审查 }is{}going{将 }to{得 }get{变 }hard{艰难 }.{。 }
+
+#258During the meeting , the two presidents also discussed the issue of illegal immigration and the solutions that must be reached together to address the issue .
+会见 期间 ， 两 国 元首 还 讨论 了 非法 移民 问题 以及 为 解决 该 问题 必须 共同 达成 的 解决 方案 。
+During{期间 }the{}meeting{会见 },{， }the{}two{两 }presidents{元首 }also{还 }discussed{讨论 }the{了 }issue{问题 }of{}illegal{非法 }immigration{移民 }and{以及 }the{的 }solutions{方案 }that{}must{必须 }be{}reached{达成 }together{共同 }to{为 }address{解决 }the{该 }issue{问题 }.{。 }
+
+#259The EU and UK chief negotiators have stepped back from post-Brexit trade talks after a member of the EU team tested positive for Covid-19 .
+在 欧盟 团队 的 一 名 成员 对 Covid - 19 检测 呈 阳性 后 ， 欧盟 和 英国 的 首席 谈判 代表 已 退出 英国 退 欧 后 的 贸易 谈判 。
+The{}EU{欧盟 欧盟 }and{和 }UK{英国 }chief{首席 }negotiators{谈判 代表 }have{已 }stepped{退出 }back{}from{}post-Brexit{后 }trade{贸易 }talks{谈判 }after{后 }a{一 }member{成员 }of{}the{的 的 }EU{}team{团队 }tested{检测 }positive{阳性 }for{对 }Covid-19{Covid - 19 }.{。 }
+
+#260He said the move would allow the government to boost the economy whenever it is flagging rather than just after a large shock such as the pandemic .
+他 说 ， 此举 将 使 政府 能够 在 经济 衰退 时 提振 经济 ， 而 不 是 在 大 流行 等 重大 冲击 之后 。
+He{他 }said{说 }the{此举 }move{此举 }would{将 }allow{使 }the{}government{政府 }to{能够 }boost{提振 }the{}economy{经济 }whenever{时 }it{}is{}flagging{衰退 }rather{而 }than{是 }just{}after{在 }a{}large{重大 }shock{冲击 }such{等 }as{}the{}pandemic{流行 }.{。 }
+
+#261A railway line used in Prince Charles ' investiture at Caernarfon in 1969 should be considered for reopening , a Member of the Senedd has said .
+Senedd 的 一 名 成员 表示 ， 应 考虑 重新 开放 1969 年 查尔斯 王子 在 卡 那 封 授职 时 使用 的 铁路线 。
+A{}railway{铁路线 }line{铁路线 }used{使用 }in{}Prince{王子 }Charles{查尔斯 }'{}investiture{授职 }at{在 }Caernarfon{卡 那 }in{年 }1969{1969 }should{应 }be{}considered{考虑 }for{}reopening{重新 开放 },{， }a{一 }Member{成员 }of{}the{}Senedd{Senedd }has{}said{表示 }.{。 }
+
+#262Tsiodras warned that the healthcare system will be under more pressure in the coming days , and that hospital admissions will not be confined to the elderly .
+齐奥 德拉斯 警告 说 ， 未来 几 天 医疗 系统 将 面临 更 大 的 压力 ， 住院 患者 将 不 会 仅 限于 老年人 。
+Tsiodras{齐奥 德拉斯 }warned{警告 }that{， }the{}healthcare{医疗 }system{系统 }will{将 }be{}under{面临 }more{更 }pressure{压力 }in{}the{}coming{未来 }days{天 },{}and{， }that{}hospital{住院 }admissions{患者 }will{将 }not{不 }be{}confined{限于 }to{限于 }the{}elderly{老年人 }.{。 }
+
+#263The report was put out by the African Union Development Agency and the African Development Bank after a study into the establishment of a continental electricity grid .
+该 报告 由 非洲 联盟 开发署 和 非洲 开发 银行 在 研究 建立 大陆 电网 后 发布 。
+The{该 }report{报告 }was{}put{发布 }out{}by{由 }the{}African{非洲 }Union{联盟 }Development{开发署 }Agency{开发署 }and{和 }the{}African{非洲 }Development{开发 }Bank{银行 }after{后 }a{}study{研究 }into{}the{}establishment{建立 }of{}a{}continental{大陆 }electricity{电网 }grid{电网 }.{。 }
+
+#264The Chinese embassy urged Chinese residents , students and employees in local Chinese enterprises to abide by Austrian police rules and stay at home to protect their safety .
+中国 大使馆 敦促 中国 居民 、 学生 和 当地 中资企业 员工 遵守 奥地利 警方 规定 ， 待 在 家里 保护 自己 的 安全 。
+The{}Chinese{中国 }embassy{大使馆 }urged{敦促 }Chinese{中国 }residents{居民 },{、 }students{学生 }and{和 }employees{员工 }in{}local{当地 }Chinese{中资企业 }enterprises{中资企业 }to{}abide{遵守 }by{遵守 }Austrian{奥地利 }police{警方 }rules{规定 }and{， }stay{待 }at{在 }home{家里 }to{}protect{保护 }their{自己 }safety{安全 }.{。 }
+
+#265The toughest social curbs were announced amid warnings that hospitalisations and deaths could exceed those seen during the first wave of the virus in the next six weeks .
+最 严厉 的 社会 限制 措施 是 在 警告 说 未来 六 周 内 住院 和 死亡 人数 可能 超过 第一 波 病毒 时 的 情况 下 宣布 的 。
+The{的 }toughest{最 严厉 }social{社会 }curbs{限制 措施 }were{是 }announced{宣布 }amid{在 }warnings{警告 }that{说 }hospitalisations{住院 }and{和 }deaths{死亡 }could{可能 }exceed{超过 }those{}seen{}during{时 }the{}first{第一 }wave{波 }of{}the{}virus{病毒 }in{}the{}next{未来 }six{六 }weeks{周 }.{。 }
+
+#266Chinese photographers enjoyed more international success as the winners of the 56th Wildlife Photographer of the Year awards were announced at the Natural History Museum in London on Tuesday .
+周二 ， 在 伦敦 自然 历史 博物馆 宣布 了 第 56 届 年度 野生 动物 摄影师 奖 的 获奖者 ， 中国 摄影师 在 国际 上 取得 了 更 大 的 成功 。
+Chinese{中国 }photographers{摄影师 }enjoyed{取得 }more{更 }international{国际 }success{成功 }as{， }the{的 }winners{获奖者 }of{}the{第 }56th{56 届 }Wildlife{野生 }Photographer{摄影师 }of{}the{}Year{年度 }awards{奖 }were{}announced{宣布 }at{在 }the{}Natural{自然 }History{历史 }Museum{博物馆 }in{在 }London{伦敦 }on{}Tuesday{周二 }.{。 }
+
+#267This is a credit to the hard work of our county and local elections officials who moved quickly to undertake and complete such a momentous task in a short period of time .
+这 要 归功 于 我县 和 地方 选举 官员 的 辛勤 工作 ， 他们 迅速 行动 ， 在 短时间 内 承担 并 完成 了 如此 重大 的 任务 。
+This{这 }is{}a{}credit{归功 }to{于 }the{的 }hard{辛勤 }work{工作 }of{}our{我县 }county{我县 }and{和 }local{地方 }elections{选举 }officials{官员 }who{他们 }moved{行动 }quickly{迅速 }to{}undertake{承担 }and{并 }complete{完成 }such{如此 }a{的 }momentous{重大 }task{任务 }in{在 }a{}short{短时间 }period{短时间 }of{的 }time{短时间 }.{。 }
+
+#268US president Donald Trump 's youngest son Barron Trump had COVID-19 with no symptoms and now tests negative , first lady Melania Trump posted a family health update on Wednesday .
+美国 总统 唐纳德 · 特朗普 的 小儿子 巴伦 · 特朗普 感染 了 COVID - 19 ， 没有 任何 症状 ， 现在 检测 结果 呈 阴性 ， 第一 夫人 梅 拉尼 娅 · 特朗普 周三 发布 了 家庭 健康 最新 消息 。
+US{美国 }president{总统 }Donald{唐纳德 }Trump{特朗普 }'s{的 }youngest{小儿子 }son{小儿子 }Barron{巴伦 }Trump{特朗普 }had{感染 }COVID-19{COVID - 19 }with{， }no{没有 }symptoms{症状 }and{， }now{现在 }tests{检测 }negative{阴性 },{， }first{第一 }lady{夫人 }Melania{梅 娅 }Trump{特朗普 }posted{发布 }a{了 }family{家庭 }health{健康 }update{消息 }on{}Wednesday{周三 }.{。 }
+
+#269In a statement on Friday morning , the Trump campaign said they believe this election is not over , arguing that results in some battleground states are far from final .
+在 周五 早上 的 一 份 声明 中 ， 特朗普 竞选 团队 表示 ， 他们 相信 这 次 选举 还 没有 结束 ， 他们 认为 一些 战场 州 的 结果 远 未 最终 确定 。
+In{在 }a{一 }statement{声明 }on{}Friday{周五 }morning{早上 },{， }the{}Trump{特朗普 }campaign{竞选 }said{表示 }they{他们 }believe{相信 }this{这 }election{选举 }is{还 }not{没有 }over{结束 },{， }arguing{认为 }that{认为 }results{结果 }in{}some{一些 }battleground{战场 }states{州 }are{}far{远 }from{}final{最终 }.{。 }
+
+#270Experts predict road use will decline again this time around but , with schools and universities staying open , the effect is not expected to be as dramatic as before .
+专家 预测 ， 这 一 次 道路 使用量 将 再次 下降 ， 但 随着 学校 和 大学 继续 开放 ， 预计 影响 不 会 像 以前 那么 显 着 。
+Experts{专家 }predict{预测 }road{道路 }use{使用量 }will{将 }decline{下降 }again{再次 }this{这 }time{次 }around{}but{但 },{}with{随着 }schools{学校 }and{和 }universities{大学 }staying{继续 }open{开放 },{， }the{}effect{影响 }is{}not{不 }expected{预计 }to{会 }be{}as{那么 }dramatic{显 }as{像 }before{以前 }.{。 }
+
+#271Emanuel has expressed his interest in the post , telling allies that the nation 's infrastructure challenges are so dire that a person with experience from the executive and legislative branch would be an asset .
+伊曼纽尔 已经 表达 了 他 对 这个 职位 的 兴趣 ， 并 告诉 盟友 国家 的 基础 设施 挑战 是 如此 可怕 ， 以至于 拥有 行政 和 立法 部门 经验 的 人 将 是 一 笔 财富 。
+Emanuel{伊曼纽尔 }has{已经 }expressed{表达 }his{他 }interest{兴趣 }in{对 }the{这个 }post{职位 },{， }telling{告诉 }allies{盟友 }that{}the{}nation{国家 }'s{的 }infrastructure{基础 设施 }challenges{挑战 }are{是 }so{如此 }dire{可怕 }that{以至于 }a{的 }person{人 }with{拥有 }experience{经验 }from{}the{}executive{行政 }and{和 }legislative{立法 }branch{部门 }would{将 }be{是 }an{一 }asset{财富 }.{。 }
+
+#272Models of our scientists suggest that unless we act now , we could see deaths over the winter that are twice as bad or more compared with the first wave .
+我们 科学家 的 模型 表明 ， 除非 我们 现在 就 采取 行动 ， 否则 与 第一 波 相比 ， 我们 可能 会 看到 冬季 的 死亡 人数 是 第一 波 的 两 倍 或 更 多 。
+Models{模型 }of{的 }our{我们 }scientists{科学家 }suggest{表明 }that{， }unless{除非 }we{我们 }act{采取 行动 }now{现在 },{， }we{我们 }could{会 }see{看到 }deaths{死亡 }over{}the{}winter{冬季 }that{}are{是 }twice{两 }as{}bad{}or{或 }more{更 多 }compared{相比 }with{与 }the{}first{第一 }wave{波 波 }.{。 }
+
+#273President Trump said he feels good after testing positive for Covid-19 weeks ago and could n't recall whether he was tested on the day of the first presidential debate .
+特朗普 总统 说 ， 在 几 周 前 检测 出 Covid - 19 呈 阳性 后 ， 他 感觉 很 好 ， 并且 不 记得 他 是否 在 第一 次 总统 辩论 当天 接受 了 检测 。
+President{总统 }Trump{特朗普 }said{说 }he{他 }feels{感觉 }good{好 }after{后 }testing{检测 }positive{阳性 }for{出 }Covid-19{Covid - 19 }weeks{周 }ago{前 }and{并且 }could{}n't{不 }recall{记得 }whether{是否 }he{他 }was{接受 了 }tested{检测 }on{在 }the{当天 }day{当天 }of{}the{}first{第一 }presidential{总统 }debate{辩论 }.{。 }
+
+#274The rapid growth of artificial intelligence presents an opportunity for Africa to provide solutions to some of its most pressing problems , such as food security , healthcare and financial services .
+人工智能 的 快速 发展 为 非洲 提供 了 解决 其 一些 最 紧迫 问题 的 机会 ， 例如 粮食 安全 、 医疗 保健 和 金融 服务 。
+The{的 }rapid{快速 }growth{发展 }of{}artificial{人工智能 }intelligence{人工智能 }presents{}an{}opportunity{机会 }for{为 }Africa{非洲 }to{了 }provide{提供 }solutions{}to{解决 }some{一些 }of{}its{其 }most{最 }pressing{紧迫 }problems{问题 },{， }such{例如 }as{例如 }food{粮食 }security{安全 },{、 }healthcare{医疗 保健 }and{和 }financial{金融 }services{服务 }.{。 }
+
+#275AI is considered a combination of technologies that enable machines to adopt humanlike intelligence to sense and comprehend their environments , and consequently take appropriate actions to fulfill a particular task .
+人工智能 被 认为 是 一 种 技术 组合 ， 使 机器 能够 采用 类似 人类 的 智能 来 感知 和 理解 其 环境 ， 从而 采取 适当 的 行动 来 完成 特定 任务 。
+AI{人工智能 }is{被 }considered{认为 }a{一 }combination{组合 }of{}technologies{技术 }that{， }enable{使 }machines{机器 }to{能够 }adopt{采用 }humanlike{类似 人类 }intelligence{智能 }to{来 }sense{感知 }and{和 }comprehend{理解 }their{其 }environments{环境 },{， }and{}consequently{从而 }take{采取 }appropriate{适当 }actions{行动 }to{来 }fulfill{完成 }a{}particular{特定 }task{任务 }.{。 }
+
+#276But while both sides said a deal needed to be done in October , they have yet to come to an agreement , and talks between the negotiating teams have intensified .
+但是 ， 虽然 双方 都 表示 需要 在 10 月份 达成 协议 ， 但 他们 尚未 达成 协议 ， 谈判 团队 之间 的 谈判 已经 加剧 。
+But{但是 }while{虽然 }both{双方 }sides{双方 }said{表示 }a{}deal{协议 }needed{需要 }to{}be{}done{达成 }in{在 }October{10 },{， }they{他们 }have{}yet{尚未 }to{}come{达成 }to{达成 }an{}agreement{协议 },{， }and{， }talks{谈判 }between{之间 }the{}negotiating{谈判 }teams{团队 }have{已经 }intensified{加剧 }.{。 }
+
+#277Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a continent-wide market .
+随着 一 份 设想 整个 大陆 市场 的 报告 的 发布 ， 非洲 改善 其 能源 部门 并 将 更 多 家庭 和 企业 连接 到 电力 供应 的 计划 正在 加速 。
+Plans{计划 }for{}Africa{非洲 }to{}improve{改善 }its{其 }energy{能源 }sector{部门 }and{并 }connect{连接 }more{更 }households{家庭 }and{和 }enterprises{企业 }to{到 }power{电力 }supplies{供应 }are{正在 }gathering{加速 }steam{加速 }with{随着 }the{的 }release{发布 }of{}a{一 }report{报告 }that{的 }envisages{设想 }a{整个 }continent-wide{大陆 }market{市场 }.{。 }
+
+#278The lockdown , which began on Thursday , calls for non-essential shops to close , people to work from home if possible , and most sporting and leisure facilities to be mothballed .
+封锁 于 周四 开始 ， 要求 关闭 非 必需品 商店 ， 尽可能 让 人们 在家 工作 ， 并 封存 大多数 体育 和 休闲 设施 。
+The{}lockdown{封锁 },{}which{}began{开始 }on{于 }Thursday{周四 },{， }calls{要求 }for{}non-essential{非 必需品 }shops{商店 }to{}close{关闭 },{， }people{人们 }to{}work{工作 }from{在家 }home{在家 }if{}possible{尽可能 },{， }and{并 }most{大多数 }sporting{体育 }and{和 }leisure{休闲 }facilities{设施 }to{}be{}mothballed{封存 }.{。 }
+
+#279Trump is listening to his friends , this source said , but hurriedly ends conversations because he disagrees .
+这 位 消息 人士 说 ， 特朗普 正在 倾听 他 的 朋友 们 的 意见 ， 但 由于 他 不 同意 ， 他 匆忙 结束 了 谈话 。
+Trump{特朗普 }is{正在 }listening{倾听 }to{}his{他 }friends{朋友 },{}this{这 }source{人士 }said{说 },{， }but{但 }hurriedly{匆忙 }ends{结束 }conversations{谈话 }because{由于 }he{他 }disagrees{不 同意 }.{。 }
+
+#280New Zealand 's election will hardly change the main course of the country 's relationship with China despite some challenging moments during the year , analysts said ahead of the poll on Saturday .
+分析 人士 在 周六 的 民意 调查 前 表示 ， 尽管 在 这 一 年 中 出现 了 一些 充满 挑战 的 时刻 ， 但 新西兰 的 选举 几乎 不 会 改变 该国 与 中国 关系 的 主线 。
+New{新西兰 }Zealand{新西兰 }'s{的 }election{选举 }will{会 }hardly{几乎 不 }change{改变 }the{}main{主线 }course{}of{的 }the{该国 }country{该国 }'s{的 }relationship{关系 }with{与 }China{中国 }despite{但 }some{一些 }challenging{挑战 }moments{时刻 }during{在 }the{这 }year{年 },{， ， }analysts{分析 人士 }said{表示 }ahead{前 }of{}the{}poll{调查 }on{在 }Saturday{周六 }.{。 }
+
+#281Greg Abbott 's order limiting ballot drop boxes to one per county , injecting more uncertainty into the battle over mail-in voting in the state .
+格雷格 · 阿博特 的 命令 将 投票箱 限制 为 每个 县 一个 ， 为 该州 邮寄 投票 的 斗争 注入 了 更 多 不确定性 。
+Greg{格雷格 }Abbott{阿博特 }'s{的 }order{命令 }limiting{将 限制 }ballot{投票箱 }drop{}boxes{投票箱 }to{为 }one{一个 }per{每个 }county{县 },{， }injecting{注入 }more{更 }uncertainty{不确定性 }into{为 }the{的 }battle{斗争 }over{}mail-in{邮寄 }voting{投票 }in{}the{该州 }state{该州 }.{。 }
+
+#282Trump extended the invitation on Thursday morning to the Michigan lawmakers by calling the state senate 's Republican majority leader , the person familiar said .
+知情 人士 说 ， 特朗普 周四 上午 致电 州 参议院 共和党 多数 党 领袖 ， 向 密歇根州 议员 发出 邀请 。
+Trump{特朗普 }extended{致电 }the{， }invitation{邀请 }on{}Thursday{周四 }morning{上午 }to{向 }the{}Michigan{密歇根州 }lawmakers{}by{， }calling{致电 发出 }the{}state{州 }senate{参议院 }'s{}Republican{共和党 }majority{多数 }leader{领袖 },{， }the{}person{人士 }familiar{知情 }said{说 }.{。 }
+
+#283Democratic presidential candidate Joe Biden attacked President Donald Trump 's handling of the coronavirus pandemic on Thursday , as the two candidates held dueling televised town halls after their second planned debate was canceled .
+周四 ， 民主党 总统 候选人 乔 · 拜登 抨击 了 唐纳德 · 特朗普 总统 对 冠状 病毒 大 流行 的 处理 ， 因为 在 他们 的 第二 次 计划 辩论 被 取消 后 ， 两 位 候选人 在 电视 转播 的 市政厅 举行 了 决斗 。
+Democratic{民主党 }presidential{总统 }candidate{候选人 }Joe{乔 }Biden{拜登 }attacked{抨击 }President{总统 }Donald{唐纳德 }Trump{特朗普 }'s{的 }handling{处理 }of{对 }the{}coronavirus{冠状 病毒 }pandemic{病毒 }on{}Thursday{周四 },{， }as{因为 }the{}two{两 }candidates{候选人 }held{举行 }dueling{决斗 }televised{电视 转播 }town{市政厅 }halls{市政厅 }after{后 }their{他们 }second{第二 }planned{计划 }debate{辩论 }was{被 }canceled{取消 }.{。 }
+
+#284Even as hopes of reaching survivors began to fade , rescuers pulled a young girl out alive from the rubble of a collapsed apartment building on Tuesday , four days after the strong earthquake .
+周二 ， 在 强烈 地震 发生 四 天 后 ， 救援 人员 将 一 名 年轻 女孩 从 倒塌 的 公寓楼 的 废墟 中 救 出 。
+Even{}as{在 }hopes{}of{}reaching{}survivors{}began{发生 }to{}fade{},{， }rescuers{救援 人员 }pulled{将 }a{一 }young{年轻 }girl{女孩 }out{出 }alive{}from{从 }the{的 }rubble{废墟 }of{的 }a{的 }collapsed{倒塌 }apartment{公寓楼 }building{公寓楼 }on{}Tuesday{周二 },{， }four{四 }days{天 }after{后 }the{}strong{强烈 }earthquake{地震 }.{。 }
+
+#285It is taking shape under a collaboration with the university of Southern California 's Shoah Foundation , which uses technology to not only digitally archive survivors ' narratives but also allow narrators to interact online with visitors .
+它 是 在 与 南加州 大学 浩劫 基金会 的 合作 下 形成 的 ， 该 基金会 利用 技术 不仅 对 幸存者 的 叙述 进行 数字 存档 ， 还 允许 叙述者 与 游客 进行 在线 互动 。
+It{它 }is{是 }taking{形成 }shape{形成 }under{在 }a{的 }collaboration{合作 }with{与 }the{}university{大学 }of{}Southern{南加州 }California{南加州 }'s{}Shoah{浩劫 }Foundation{基金会 },{， }which{该 }uses{利用 }technology{技术 }to{}not{不仅 }only{不仅 }digitally{数字 }archive{存档 }survivors{幸存者 }'{的 }narratives{叙述 }but{}also{还 }allow{允许 }narrators{叙述者 }to{进行 }interact{互动 }online{在线 }with{与 }visitors{游客 }.{。 }
+
+#286The vote had been initiated by the populist right-wing swiss people 's party , known as the SVP , which claimed current regulations would lead to overpopulation , rising housing prices and a strained welfare system .
+投票 由 民粹主义 右翼 瑞士 人民党 发起 ， 该党 称为 SVP ， 声称 现行 法规 将 导致 人口 过剩 、 房价 上涨 和 福利 制度 紧张 。
+The{}vote{投票 }had{}been{}initiated{发起 }by{由 }the{}populist{民粹主义 }right-wing{右翼 }swiss{}people{人民党 }'s{人民党 }party{人民党 },{， }known{称为 }as{称为 }the{}SVP{SVP },{， }which{}claimed{声称 }current{现行 }regulations{法规 }would{将 }lead{导致 }to{导致 }overpopulation{人口 过剩 },{、 }rising{上涨 }housing{房价 }prices{房价 }and{和 }a{}strained{紧张 }welfare{福利 }system{制度 }.{。 }
+
+#287The most recent data often underestimates the number of positive tests as there are sometimes delays before results are recorded , so this chart uses figures from four days ago .
+最近 的 数据 往往 低估 了 阳性 检测 的 数量 ， 因为 有时 在 结果 记录 之前 会 有 延迟 ， 所以 这个 图表 使用 了 四 天 前 的 数据 。
+The{的 }most{最近 }recent{最近 }data{数据 }often{往往 }underestimates{低估 }the{的 }number{数量 }of{}positive{阳性 }tests{检测 }as{因为 }there{有 }are{有 }sometimes{有时 }delays{延迟 }before{之前 }results{结果 }are{之前 }recorded{记录 },{， }so{所以 }this{这个 }chart{图表 }uses{使用 }figures{数据 }from{了 }four{四 }days{天 }ago{前 }.{。 }
+
+#288A tougher three-tiered system of local restrictions will come into force in England when the lockdown ends on 2 December , Downing Street has said .
+唐宁街 表示 ， 当 封锁 于 12 月 2 日 结束 时 ， 更 严格 的 三 层 地方 限制 系统 将 在 英格兰 生效 。
+A{的 }tougher{更 严格 }three-tiered{三 层 }system{系统 }of{}local{地方 }restrictions{限制 }will{将 }come{}into{}force{生效 }in{在 }England{英格兰 }when{当 }the{}lockdown{封锁 }ends{结束 }on{于 }2{2 }December{12 },{}Downing{唐宁街 }Street{唐宁街 }has{}said{表示 }.{。 }
+
+#289People arriving in England will be soon able to reduce their quarantine period by more than half if they pay for a Covid test after five days , the transport secretary has announced .
+交通 大臣 宣布 ， 如果 抵达 英格兰 的 人 在 五 天 后 支付 新冠 病毒 检测 费用 ， 他们 很快 就 能 将 隔离 期 缩短 一半 以上 。
+People{人 }arriving{抵达 }in{抵达 }England{英格兰 }will{}be{}soon{很快 }able{能 }to{将 }reduce{缩短 }their{}quarantine{隔离 }period{期 }by{}more{一半 }than{以上 }half{一半 }if{如果 }they{他们 }pay{支付 }for{}a{}Covid{新冠 }test{检测 }after{后 }five{五 }days{天 },{， }the{}transport{交通 }secretary{大臣 }has{}announced{宣布 }.{。 }
+
+#290They had logged on to the government website to request one , but were told that because their names and addresses could not be checked , they would have to go to a physical test site instead .
+他们 已经 登录 政府 网站 申请 ， 但 被 告知 由于 无法 检查 他们 的 姓名 和 地址 ， 他们 将 不得不 去 物理 测试 站点 。
+They{他们 }had{已经 }logged{登录 }on{}to{}the{}government{政府 }website{网站 }to{}request{申请 }one{},{， }but{但 }were{被 }told{告知 }that{告知 }because{由于 }their{他们 }names{姓名 }and{和 }addresses{地址 }could{}not{无法 }be{}checked{检查 },{， }they{他们 }would{将 }have{不得不 }to{}go{去 }to{}a{}physical{物理 }test{测试 }site{站点 }instead{}.{。 }
+
+#291Although there have been reports of animals being infected with the virus , such as mink in farms in the Netherlands , Paavilainen said dogs are not susceptible because they lack the receptor to which the virus attaches .
+尽管 有 报道 称 荷兰 农场 的 水貂 等 动物 感染 了 这种 病毒 ， 但 帕 维莱 宁说 ， 狗 不易 感染 ， 因为 它们 缺乏 病毒 附着 的 受体 。
+Although{尽管 }there{有 }have{}been{}reports{报道 }of{}animals{动物 }being{}infected{感染 }with{}the{这种 }virus{病毒 },{， }such{等 }as{}mink{水貂 }in{的 }farms{农场 }in{的 }the{}Netherlands{荷兰 },{}Paavilainen{帕 维莱 宁说 }said{宁说 }dogs{狗 }are{}not{不易 }susceptible{感染 }because{因为 }they{它们 }lack{缺乏 }the{的 }receptor{受体 }to{}which{}the{}virus{病毒 }attaches{附着 }.{。 }
+
+#292More areas are set to be placed into the higher tiers in England after lockdown .
+锁定 后 ， 英格兰 将 有 更 多 区域 被 置于 较 高层 级 。
+More{更 }areas{区域 }are{}set{}to{}be{被 }placed{置于 }into{置于 }the{}higher{高层 }tiers{高层 级 }in{， }England{英格兰 }after{后 }lockdown{锁定 }.{。 }
+
+#293A freeze on public sector workers ' pay would damage the country 's economic recovery , the shadow chancellor will warn in a speech on Monday .
+影子 财政 大臣 将 在 周一 的 讲话 中 警告 说 ， 冻结 公共 部门 工人 的 工资 将 损害 该国 的 经济 复苏 。
+A{}freeze{冻结 }on{}public{公共 }sector{部门 }workers{工人 }'{的 }pay{工资 }would{将 }damage{损害 }the{该国 }country{该国 }'s{的 }economic{经济 }recovery{复苏 },{， }the{}shadow{影子 }chancellor{大臣 }will{将 }warn{警告 }in{}a{的 }speech{讲话 }on{在 }Monday{周一 }.{。 }
+
+#294A prominent ally of Donald Trump has urged him to drop his efforts to overturn his loss to Joe Biden in the US presidential election .
+唐纳德 特朗普 的 一 位 着 名 盟友 敦促 他 放弃 努力 推翻 他 在 美国 总统 大选 中 输 给 乔 拜登 的 努力 。
+A{一 }prominent{名 }ally{盟友 }of{的 }Donald{唐纳德 }Trump{特朗普 }has{}urged{敦促 }him{他 }to{}drop{放弃 }his{}efforts{努力 }to{}overturn{推翻 }his{他 }loss{输 }to{给 }Joe{乔 }Biden{拜登 }in{在 }the{}US{美国 }presidential{总统 }election{大选 }.{。 }
+
+#295Gyms and non-essential shops in all areas are expected to be allowed to reopen when England 's lockdown ends .
+当 英格兰 的 封锁 结束 时 ， 预计 所有 地区 的 健身房 和 非 必需品 商店 都 将 被 允许 重新 开放 。
+Gyms{健身房 }and{和 }non-essential{非 必需品 }shops{商店 }in{}all{所有 }areas{地区 }are{}expected{预计 }to{将 }be{被 }allowed{允许 }to{}reopen{重新 开放 }when{当 }England{英格兰 }'s{的 }lockdown{封锁 }ends{结束 }.{。 }
+
+#296I know some in the House believe we should have reached this decision earlier , but I believe it was right to try every possible option to get this virus under control at a local level , with strong local action and strong local leadership .
+我 知道 众议院 中 的 一些 人 认为 我们 应该 早点 做出 这个 决定 ， 但 我 认为 尝试 一切 可能 的 选择 以 在 地方 一级 控制 这种 病毒 是 正确 的 ， 需要 强有力 的 地方 行动 和 强有力 的 地方 领导 。
+I{我 }know{知道 }some{一些 }in{中 }the{}House{众议院 }believe{认为 }we{我们 }should{应该 }have{}reached{做出 }this{这个 }decision{决定 }earlier{早点 },{， }but{但 }I{我 }believe{认为 }it{}was{是 }right{正确 }to{}try{尝试 }every{一切 }possible{可能 }option{选择 }to{以 }get{控制 }this{这种 }virus{病毒 }under{}control{控制 }at{在 }a{}local{地方 }level{一级 },{， }with{需要 }strong{强有力 }local{地方 }action{行动 }and{和 }strong{强有力 }local{地方 }leadership{领导 }.{。 }
+
+#297Offices at Marquette City Hall , the Arts and Culture Center in Peter White Public Library , Municipal Service Center and Lakeview Arena will be closed for the Christmas and Halloween holidays .
+Marquette 市政厅 、 Peter White 公共 图书馆 的 艺术 和 文化 中心 、 市政 服务 中心 和 Lakeview Arena 的 办公室 将 在 圣诞节 和 万圣节 假期 关闭 。
+Offices{办公室 }at{}Marquette{Marquette }City{市政厅 }Hall{市政厅 },{、 }the{的 }Arts{艺术 }and{和 }Culture{文化 }Center{中心 }in{}Peter{Peter }White{White }Public{公共 }Library{图书馆 },{、 }Municipal{市政 }Service{服务 }Center{中心 }and{和 }Lakeview{Lakeview }Arena{Arena }will{将 }be{}closed{关闭 }for{在 }the{}Christmas{圣诞节 }and{和 }Halloween{万圣节 }holidays{假期 }.{。 }
+
+#298A St. Cloud woman was arrested on Thursday after prostituting her three teenage daughters to undercover deputies .
+周四 ， 一 名 圣 克劳德 女子 在 将 她 的 三 个 十几 岁 的 女儿 卖 给 卧底 代表 后 被捕 。
+A{一 }St.{圣 }Cloud{克劳德 }woman{女子 }was{被捕 }arrested{被捕 }on{， }Thursday{周四 }after{在 后 }prostituting{将 卖 }her{她 }three{三 }teenage{岁 }daughters{女儿 }to{给 }undercover{卧底 }deputies{代表 }.{。 }
+
+#299A liquor shop salesman , who refused liquor to some men on Saturday night , was shot dead in Dankaur area of Bhatta village , police said on Sunday .
+警方 周日 表示 ， 周六 晚上 ， 一 名 酒类 店 推销员 拒绝 向 一些 男子 提供 酒类 ， 在 巴塔 村 Dankaur 地区 被 枪杀 。
+A{一 }liquor{酒类 }shop{店 }salesman{推销员 },{}who{}refused{拒绝 }liquor{酒类 }to{向 }some{一些 }men{男子 }on{}Saturday{周日 周六 }night{晚上 },{， }was{被 }shot{枪杀 }dead{}in{在 }Dankaur{Dankaur }area{地区 }of{}Bhatta{巴塔 }village{村 },{}police{警方 }said{表示 }on{}Sunday{}.{。 }
+
+#300Amazon has launched its own online pharmacy allow customers to buy prescription medicines .
+亚马逊 推出 了 自己 的 在线 药店 ， 允许 客户 购买 处方 药 。
+Amazon{亚马逊 }has{}launched{推出 }its{}own{自己 }online{在线 }pharmacy{药店 }allow{允许 }customers{客户 }to{}buy{购买 }prescription{处方 }medicines{药 }.{。 }
+

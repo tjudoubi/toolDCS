@@ -1,0 +1,700 @@
+#1:
+The fact that Li ' s livestreaming was immediately interrupted shows " the progress the Chinese state has made in the realm of censorship , " Han said .
+韩寒说，李彦宏的直播立即中断，这表明“中国政府在审查领域取得了进步”。
+The fact that Li ' s livestreaming was immediately interrupted indicates " the progress the Chinese state has made in the realm of censorship , " Han said .
+韩寒说，李彦宏的直播立即中断，这表明“中国政府在审查领域取得了进步”。
+LCS-Wdiff:	1.0 
+--TN--
+#2:
+" The elders in my family warned me not to throw my money away , " said Daga , who runs a food business near New Delhi .
+达加在新德里附近经营一家食品企业，他说：“我家的长辈警告我不要把钱扔掉。”。
+" The elders in my family told me not to throw my money away , " said Daga , who runs a food business near New Delhi .
+达加在新德里附近经营一家食品企业，他说：“我家的长辈告诉我不要把钱扔掉。”。
+LCS-Wdiff:	1.0 
+--TN--
+#3:
+See here : This week , Walmart slashed its profit outlook , warning that customers were changing their shopping habits .
+请看这里：本周，沃尔玛大幅下调了利润预期，警告消费者正在改变他们的购物习惯。
+See here : This week , Walmart slashed its profit outlook , warning that customers are changing their shopping habits .
+请看这里：本周，沃尔玛大幅下调了利润预期，警告消费者正在改变他们的购物习惯。
+LCS-Wdiff:	1.0 
+--TN--
+#4:
+The brand said it has voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate effect .
+该品牌表示，已自愿要求其所有媒体合作伙伴从周六起立即停止播放该广告的变体。
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate effect .
+该品牌表示，已自愿要求其所有媒体合作伙伴从周六起立即停止播放该广告的变体。
+LCS-Wdiff:	1.0 
+--TN--
+#5:
+The brand announced it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate effect .
+该品牌宣布，已自愿要求其所有媒体合作伙伴从周六起立即停止播放该广告的变体。
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate effect .
+该品牌表示，已自愿要求其所有媒体合作伙伴从周六起立即停止播放该广告的变体。
+LCS-Wdiff:	1.0 
+--TN--
+#6:
+The company has raised $ 3 million in seed funding to scale up production of its energy harvesting system .
+该公司已经筹集了300万美元的种子资金，以扩大其能源收集系统的生产规模。
+The company has raised $ 2 million in seed funding to scale up production of its energy harvesting system .
+该公司已经筹集了200万美元的种子资金，以扩大其能源收集系统的生产规模。
+LCS-Wdiff:	1.0 
+--TN--
+#7:
+The company now has more than 860 million paid subscriptions across its various services , an increase of 160 million since last year , Apple CFO Luca Maestri said during a conference call with analysts Thursday .
+苹果首席财务官卢卡·梅斯特里（Luca Maestri）周四在与分析师的电话会议上表示，该公司目前在其各种服务中拥有超过8.6亿的付费订阅，比去年增加了1.6亿。
+The company now has more than 860 million paid subscriptions across its various services , an increase of 160 million since last year , Apple CFO Luca Maestri said on a conference call with analysts Thursday .
+苹果首席财务官卢卡·梅斯特里（Luca Maestri）周四在与分析师的电话会议上表示，该公司目前在其各种服务中拥有超过8.6亿的付费订阅，比去年增加了1.6亿。
+LCS-Wdiff:	1.0 
+--TN--
+#8:
+Whether the United States is in a recession now or not remains largely a semantic debate .
+美国现在是否陷入衰退在很大程度上仍然是一场语义辩论。
+Whether the United States is in a recession now or not is largely a semantic debate .
+美国现在是否陷入衰退在很大程度上是一场语义辩论。
+LCS-Wdiff:	1.0 
+--TN--
+#9:
+China ' s trimmed US debt holdings will help the nation gain more dollar liquidity to maintain financial stability and reduce its reliance on dollar reserves , economists and experts said on Wednesday .
+经济学家和专家周三表示，中国减持美国债务将有助于该国获得更多的美元流动性，以维持金融稳定，减少对美元储备的依赖。
+China ' s trimmed US debt holdings can help the nation gain more dollar liquidity to maintain financial stability and reduce its reliance on dollar reserves , economists and experts said on Wednesday .
+经济学家和专家周三表示，中国减持美国债务有助于该国获得更多的美元流动性，以维持金融稳定，减少对美元储备的依赖。
+LCS-Wdiff:	1.0 
+--TN--
+#10:
+Investors are excited about SaaS because of the " rapid adoption " of software over the last decade , according to Mohit Bhatnagar , managing director of Sequoia Capital India .
+红杉资本（Sequoia Capital India）董事总经理莫希特·巴特纳格（Mohit Bhatnagar）表示，由于过去十年软件的“快速采用”，投资者对SaaS感到兴奋。
+Investors are excited about SaaS because of the " massive adoption " of software over the last decade , according to Mohit Bhatnagar , managing director of Sequoia Capital India .
+红杉资本（Sequoia Capital India）董事总经理莫希特·巴特纳格（Mohit Bhatnagar）表示，由于过去十年软件的“大规模采用”，投资者对SaaS感到兴奋。
+LCS-Wdiff:	1.0 
+--TN--
+#11:
+Investors are excited about SaaS because of the " massive adoption " of software in the last decade , according to Mohit Bhatnagar , managing director of Sequoia Capital India .
+红杉资本（Sequoia Capital India）董事总经理莫希特·巴特纳格（Mohit Bhatnagar）表示，由于过去十年软件的“大规模采用”，投资者对SaaS感到兴奋。
+Investors are excited about SaaS because of the " massive adoption " of software over the last decade , according to Mohit Bhatnagar , managing director of Sequoia Capital India .
+红杉资本（Sequoia Capital India）董事总经理莫希特·巴特纳格（Mohit Bhatnagar）表示，由于过去十年软件的“大规模采用”，投资者对SaaS感到兴奋。
+LCS-Wdiff:	1.0 
+--TN--
+#12:
+Bhatnagar of Sequoia Capital said that Indian software entrepreneurs " mastered " the art of " remote sales " very early .
+红杉资本的Bhatnagar说，印度软件企业家很早就“掌握”了“远程销售”的艺术。
+Bhatnagar of Sequoia Capital said that Indian software entrepreneurs " mastered " the art of " remote sales " fairly early .
+红杉资本的Bhatnagar说，印度软件企业家很早就“掌握”了“远程销售”的艺术。
+LCS-Wdiff:	1.0 
+--TN--
+#13:
+The goal is to avoid employers that offer products and services that cautious customers might elect to forgo or postpone .
+目标是避免雇主提供谨慎的客户可能选择放弃或推迟的产品和服务。
+The key is to avoid employers that offer products and services that cautious customers might elect to forgo or postpone .
+关键是避免雇主提供谨慎的客户可能选择放弃或推迟的产品和服务。
+LCS-Wdiff:	1.0 
+--TN--
+#14:
+Regulators found that the employees opened deposit accounts , bank cards and lines of credit that carried high interest rates and expensive fees that were passed on to the customer .
+监管机构发现，这些员工开设了存款账户、银行卡和信用额度，利率高，费用昂贵，并转嫁给了客户。
+Regulators found that the employees opened deposit accounts , credit cards and lines of credit that carried high interest rates and expensive fees that were passed on to the customer .
+监管机构发现，这些员工开设了存款账户、信用卡和信用额度，利率高，费用昂贵，并转嫁给了客户。
+LCS-Wdiff:	1.0 
+--TN--
+#15:
+So too , do workers in electronics and lighting , as well as household appliance and consumer electronics industries .
+电子和照明行业以及家用电器和消费电子行业的工人也是如此。
+So too , do workers in furniture and lighting , as well as household appliance and consumer electronics industries .
+家具和照明行业以及家用电器和消费电子行业的工人也是如此。
+LCS-Wdiff:	1.0 
+--TN--
+#16:
+5 billion charge due to 787 delivery delays and customer concessions , and another $ 1 billion in abnormal production costs stemming from manufacturing flaws and related repairs and inspections .
+由于787次交货延迟和客户让步而产生的50亿美元费用，以及因制造缺陷和相关维修和检查而产生的10亿美元异常生产成本。
+5 billion charge due to 787 delivery delays and customer concessions , and another $ 1 billion in abnormal production costs stemming from production flaws and related repairs and inspections .
+由于787次交货延迟和客户让步而产生的50亿美元费用，以及因生产缺陷和相关维修和检查而产生的10亿美元异常生产成本。
+LCS-Wdiff:	1.0 
+--TN--
+#17:
+5 million charge due to 787 delivery delays and customer concessions , and another $ 1 billion in abnormal production costs stemming from production flaws and related repairs and inspections .
+由于787次交货延迟和客户让步而产生的500万美元费用，以及因生产缺陷和相关维修和检查而产生的10亿美元异常生产成本。
+5 billion charge due to 787 delivery delays and customer concessions , and another $ 1 billion in abnormal production costs stemming from production flaws and related repairs and inspections .
+由于787次交货延迟和客户让步而产生的50亿美元费用，以及因生产缺陷和相关维修和检查而产生的10亿美元异常生产成本。
+LCS-Wdiff:	1.0 
+--FN--
+#18:
+While having fewer workers at the store increased profits for chains in recent decades , it has left stores in some cases without as many visible personnel to deter shoplifting , crime prevention experts say .
+犯罪预防专家说，虽然近几十年来商店里的工人减少增加了连锁店的利润，但在某些情况下，它让商店里没有那么多可见的人员来阻止商店盗窃。
+While having fewer workers in the store increased profits for chains in recent decades , it has left stores in some cases without as many visible personnel to deter shoplifting , crime prevention experts say .
+犯罪预防专家说，虽然近几十年来商店里的工人减少增加了连锁店的利润，但在某些情况下，它让商店里没有那么多可见的人员来阻止商店盗窃。
+LCS-Wdiff:	1.0 
+--TN--
+#19:
+Crime groups often look to steal products from stores that can easily and quickly be resold on online marketplaces such as Amazon and through other illicit markets .
+犯罪集团经常从商店盗窃产品，这些产品可以在亚马逊等在线市场或通过其他非法市场轻松快速地转售。
+Crime gangs often look to steal products from stores that can easily and quickly be resold on online marketplaces such as Amazon and through other illicit markets .
+犯罪团伙经常从商店盗窃产品，这些产品可以在亚马逊等在线市场或通过其他非法市场轻松快速地转售。
+LCS-Wdiff:	1.0 
+--TN--
+#20:
+Customs data showed China ' s exports of solar components to Europe during the first quarter rose to 8 . 7 GW , 145 percent higher compared with the same period of 2021 with 6 . 8 GW .
+海关数据显示，中国第一季度对欧洲的太阳能组件出口增长至8.7GW，比2021同期的6.8GW增长145%。
+Customs data showed China ' s exports of solar components to Europe during the first quarter rose to 16 . 7 GW , 145 percent higher compared with the same period of 2021 with 6 . 8 GW .
+海关数据显示，中国第一季度对欧洲的太阳能组件出口增长至16.7 GW，比2021同期的6.8 GW增长145%。
+LCS-Wdiff:	1.0 
+--TN--
+#21:
+Customs data showed China ' s exports of solar components to Europe during the first quarter rose to 7 . 7 GW , 145 percent higher compared with the same period of 2021 with 6 . 8 GW .
+海关数据显示，中国第一季度对欧洲的太阳能组件出口增长至7.7 GW，比2021同期的6.8 GW增长145%。
+Customs data showed China ' s exports of solar components to Europe during the first quarter rose to 16 . 7 GW , 145 percent higher compared with the same period of 2021 with 6 . 8 GW .
+海关数据显示，中国第一季度对欧洲的太阳能组件出口增长至16.7 GW，比2021同期的6.8 GW增长145%。
+LCS-Wdiff:	1.0 
+--TN--
+#22:
+Customs data showed China ' s exports of solar components to Europe in the first quarter rose to 16 . 7 GW , 145 percent higher compared with the same period of 2021 with 6 . 8 GW .
+海关数据显示，中国第一季度对欧洲的太阳能组件出口增长至16.7GW，比2021同期的6.8GW增长145%。
+Customs data showed China ' s exports of solar components to Europe during the first quarter rose to 16 . 7 GW , 145 percent higher compared with the same period of 2021 with 6 . 8 GW .
+海关数据显示，中国第一季度对欧洲的太阳能组件出口增长至16.7 GW，比2021同期的6.8 GW增长145%。
+LCS-Wdiff:	1.0 
+--TN--
+#23:
+Nobody was sure how long the vaccine would take to develop , let alone whether it would even work .
+没有人知道这种疫苗需要多长时间才能研制出来，更不用说它是否有效了。
+Nobody was sure how long a vaccine would take to develop , let alone whether it would even work .
+没有人知道疫苗需要多长时间才能研制出来，更不用说它是否有效了。
+LCS-Wdiff:	1.0 
+--TN--
+#24:
+Nobody was sure how long a vaccine would take to develop , let alone if it would even work .
+没有人知道疫苗需要多长时间才能研制出来，更不用说它是否有效了。
+Nobody was sure how long a vaccine would take to develop , let alone whether it would even work .
+没有人知道疫苗需要多长时间才能研制出来，更不用说它是否有效了。
+LCS-Wdiff:	1.0 
+--TN--
+#25:
+19 billion penalty , the regulator also imposed a personal fine of 1 million yuan on Didi ' s chairman and CEO Cheng Wei and president Zhang Qing , respectively .
+此外，监管机构还对滴滴董事长兼首席执行官程伟和总裁张青分别处以个人罚款100万元。
+19 billion penalty , the regulator also imposed a personal fine of 1 million yuan on Didi ' s chairman and CEO Cheng Wei and president Liu Qing , respectively .
+此外，监管机构还对滴滴董事长兼首席执行官程伟和总裁刘青分别处以个人罚款100万元。
+LCS-Wdiff:	1.0 
+--TN--
+#26:
+Moreover , Mingyang also signed a memorandum of agreement in December with the United Kingdom ' s Department for International Trade to cooperate in the offshore wind sector .
+此外，明阳还于12月与英国国际贸易部签署了一份协议备忘录，在海上风电领域开展合作。
+Earlier , Mingyang also signed a memorandum of agreement in December with the United Kingdom ' s Department for International Trade to cooperate in the offshore wind sector .
+早些时候，明阳还于12月与英国国际贸易部签署了一份协议备忘录，在海上风电领域开展合作。
+LCS-Wdiff:	1.0 
+--TN--
+#27:
+Further , Mingyang also signed a memorandum of agreement in December with the United Kingdom ' s Department for International Trade to cooperate in the offshore wind sector .
+此外，明阳还于12月与英国国际贸易部签署了一份协议备忘录，在海上风电领域开展合作。
+Earlier , Mingyang also signed a memorandum of agreement in December with the United Kingdom ' s Department for International Trade to cooperate in the offshore wind sector .
+早些时候，明阳还于12月与英国国际贸易部签署了一份协议备忘录，在海上风电领域开展合作。
+LCS-Wdiff:	1.0 
+--TN--
+#28:
+In recent weeks , top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies which seek to list in overseas markets .
+最近几周，政府高官们试图振奋互联网行业的精神，并承诺支持寻求在海外市场上市的科技公司。
+In recent weeks , top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to list in overseas markets .
+最近几周，政府高官们试图振奋互联网行业的精神，并承诺支持寻求在海外市场上市的科技公司。
+LCS-Wdiff:	1.0 
+--TN--
+#29:
+There is still a wide space for the application of Chinese technologies in the clean energy industry in the Mediterranean and Europe , according to Zhang Xiaoying , president and chief technology officer of Mingyang .
+明阳集团总裁兼首席技术官张晓颖表示，中国技术在地中海和欧洲清洁能源行业的应用仍有广阔的空间。
+There is still a wide space for the application of Chinese technologies in the clean energy industry in the Mediterranean and Europe , according to Zhang Qiying , president and chief technology officer of Mingyang .
+明阳集团总裁兼首席技术官张启英表示，中国技术在地中海和欧洲清洁能源行业的应用仍有广阔的空间。
+LCS-Wdiff:	1.0 
+--TN--
+#30:
+Europe had already managed to whittle down Russia ' s share of its gas supply from 40 % last year to just 20 % in June , according to economics think tank Bruegel .
+据经济智库布鲁格尔称，欧洲已经设法将俄罗斯在其天然气供应中的份额从去年的40%降至今年6月的20%。
+Europe has already managed to whittle down Russia ' s share of its gas supply from 40 % last year to just 20 % in June , according to economics think tank Bruegel .
+据经济智库布鲁格尔称，欧洲已经设法将俄罗斯在其天然气供应中的份额从去年的40%降至今年6月的20%。
+LCS-Wdiff:	1.0 
+--TN--
+#31:
+According to Shell , China has an estimated 2 , 200 Gt in storage capacity and significant geological potential for storing carbon , second only to the United States .
+据壳牌公司称，中国的碳储存容量估计为2200吨，具有巨大的地质潜力，仅次于美国。
+According to Shell , China has an estimated 2 , 400 Gt in storage capacity and significant geological potential for storing carbon , second only to the United States .
+据壳牌公司称，中国的碳储存容量估计为2400吨，具有巨大的地质潜力，仅次于美国。
+LCS-Wdiff:	1.0 
+--TN--
+#32:
+Overall , the growth in employers ' compensation costs moderated somewhat in the second quarter , coming in at 1 .
+总体而言，第二季度雇主薪酬成本的增长有所放缓，为1。
+Overall , the growth in employers ' compensation costs moderated slightly in the second quarter , coming in at 1 .
+总体而言，第二季度雇主薪酬成本的增长略有放缓，为1。
+LCS-Wdiff:	1.0 
+--TN--
+#33:
+Overall , the growth in employers ' compensation costs moderated slightly in the third quarter , coming in at 1 .
+总体而言，第三季度雇主薪酬成本的增长略有放缓，为1。
+Overall , the growth in employers ' compensation costs moderated slightly in the second quarter , coming in at 1 .
+总体而言，第二季度雇主薪酬成本的增长略有放缓，为1。
+LCS-Wdiff:	1.0 
+--TN--
+#34:
+When asked why the global vaccine alliance continued to rely so heavily on one manufacturer , a Gavi spokesperson told CNN Business it had few options .
+当被问及为什么全球疫苗联盟继续如此严重地依赖一家制造商时，免疫联盟的一位发言人告诉CNN Business，它没有多少选择。
+When asked why the global vaccine alliance chose to rely so heavily on one manufacturer , a Gavi spokesperson told CNN Business it had few options .
+当被问及为什么全球疫苗联盟选择如此严重地依赖一家制造商时，免疫联盟的一位发言人告诉CNN Business，它没有多少选择。
+LCS-Wdiff:	1.0 
+--TN--
+#35:
+Despite the massive size of some homegrown unicorns , Arubootham said that the country does not have a " global tech powerhouse product brand .
+尽管一些本土独角兽体型庞大，但阿鲁布瑟姆表示，该国没有“全球科技巨头产品品牌”。
+Despite the massive size of some homegrown unicorns , Mathrubootham said that the country does not have a " global tech powerhouse product brand .
+Mathrubootham说，尽管一些本土独角兽体型庞大，但该国没有“全球科技巨头产品品牌”。
+LCS-Wdiff:	1.0 
+--TN--
+#36:
+So also , do workers in furniture and lighting , as well as household appliance and consumer electronics industries .
+家具和照明行业以及家用电器和消费电子行业的工人也是如此。
+So too , do workers in furniture and lighting , as well as household appliance and consumer electronics industries .
+家具和照明行业以及家用电器和消费电子行业的工人也是如此。
+LCS-Wdiff:	1.0 
+--TN--
+#37:
+It seeks to find the right balance where it is not disconnected from the global progress in blockchain and other tech , but it wants to also address concerns regarding cryptocurrency .
+它寻求在不脱离区块链和其他技术的全球进步的情况下找到正确的平衡，但它也希望解决有关加密货币的担忧。
+It wants to find the right balance where it is not disconnected from the global progress in blockchain and other tech , but it wants to also address concerns regarding cryptocurrency .
+它希望在不脱离区块链和其他技术的全球进步的情况下找到正确的平衡，但它也希望解决有关加密货币的担忧。
+LCS-Wdiff:	1.0 
+--TN--
+#38:
+Should the recession arrive , inflation could ease without requiring much further intervention from the central bank .
+如果衰退到来，通胀可能会缓解，而无需央行进一步干预。
+Should a recession arrive , inflation could ease without requiring much further intervention from the central bank .
+如果衰退到来，通胀可能会缓解，而无需央行进一步干预。
+LCS-Wdiff:	1.0 
+--TN--
+#39:
+Should a recession arrive , inflation might ease without requiring much further intervention from the central bank .
+如果衰退到来，通胀可能会缓解，而不需要央行进一步干预。
+Should a recession arrive , inflation could ease without requiring much further intervention from the central bank .
+如果衰退到来，通胀可能会缓解，而无需央行进一步干预。
+LCS-Wdiff:	1.0 
+--TN--
+#40:
+Shell is anticipating further growth , investment and local partnership opportunities in China where it has had a presence for 128 years , a top company official said .
+壳牌公司一位高级官员表示，壳牌预计在中国将有进一步的增长、投资和当地合作机会，该公司在中国已有128年的历史。
+Shell is anticipating more growth , investment and local partnership opportunities in China where it has had a presence for 128 years , a top company official said .
+壳牌公司一位高级官员表示，壳牌预计在中国将有更多的增长、投资和当地合作机会，该公司在中国已有128年的历史。
+LCS-Wdiff:	1.0 
+--TN--
+#41:
+At the peak the country was reporting over 400 , 000 cases per day , though experts say the actual number was likely much higher .
+在高峰期，该国每天报告的病例超过40万例，但专家表示实际数字可能要高得多。
+At its peak the country was reporting over 400 , 000 cases per day , though experts say the actual number was likely much higher .
+在高峰期，该国每天报告的病例超过40万例，但专家表示实际数字可能要高得多。
+LCS-Wdiff:	1.0 
+--TN--
+#42:
+In the United States , inflation has held steady at around 4 % a year for the better part of four decades .
+在美国，40年的大部分时间里，通货膨胀率一直稳定在每年4%左右。
+In the United States , inflation has held steady at around 2 % a year for the better part of four decades .
+在美国，40年的大部分时间里，通货膨胀率一直稳定在每年2%左右。
+LCS-Wdiff:	1.0 
+--TN--
+#43:
+An attorney representing Jones in the Texas defamation case , Federico Andino Reynal , made the disclosure about the bankruptcy filing at the end of court proceedings on Friday .
+在德克萨斯州诽谤案中代表琼斯的律师费德里科·安迪诺·雷纳尔（Federico Andino Reynal）在周五的法庭诉讼结束时披露了破产申请。
+The attorney representing Jones in the Texas defamation case , Federico Andino Reynal , made the disclosure about the bankruptcy filing at the end of court proceedings on Friday .
+在德克萨斯州诽谤案中代表琼斯的律师费德里科·安迪诺·雷纳尔（Federico Andino Reynal）在周五的法庭诉讼结束时披露了破产申请。
+LCS-Wdiff:	1.0 
+--TN--
+#44:
+During most recessions , federal stimulus is a typical way to stimulate the economy and restore consumers ' faith .
+在大多数衰退期间，联邦刺激是刺激经济和恢复消费者信心的典型方式。
+In most recessions , federal stimulus is a typical way to stimulate the economy and restore consumers ' faith .
+在大多数衰退中，联邦刺激是刺激经济和恢复消费者信心的典型方式。
+LCS-Wdiff:	1.0 
+--TN--
+#45:
+Four years later , officials around the country said there had been an additional surge in young teenagers shoplifting .
+四年后，全国各地的官员表示，年轻青少年在商店行窃的人数再次激增。
+Three years later , officials around the country said there had been an additional surge in young teenagers shoplifting .
+三年后，全国各地的官员表示，年轻青少年在商店行窃的人数再次激增。
+LCS-Wdiff:	1.0 
+--TN--
+#46:
+SaaS companies , on the other hand , have to say no to 80 % of customers , he added .
+另一方面，SaaS公司必须对80%的客户说不，他补充道。
+SaaS companies , on the other hand , have to say no to 99 % of customers , he added .
+另一方面，SaaS公司必须对99%的客户说不，他补充道。
+LCS-Wdiff:	1.0 
+--TN--
+#47:
+SaaS companies , on the other hand , have to say no to 50 % of customers , he added .
+另一方面，SaaS公司必须对50%的客户说不，他补充道。
+SaaS companies , on the other hand , have to say no to 99 % of customers , he added .
+另一方面，SaaS公司必须对99%的客户说不，他补充道。
+LCS-Wdiff:	1.0 
+--TN--
+#48:
+The result has been rocketing energy prices that have fueled inflation , and last week almost bankrupted Germany ' s biggest gas exporter .
+其结果是能源价格飙升，加剧了通货膨胀，上周德国最大的天然气出口国几乎破产。
+The result has been rocketing energy prices that have fueled inflation , and last week almost bankrupted Germany ' s biggest gas importer .
+其结果是能源价格飙升，加剧了通货膨胀，上周德国最大的天然气进口国几乎破产。
+LCS-Wdiff:	1.0 
+--TN--
+#49:
+Companies have been reticent to let go of anybody , " says Andrew Challenger , senior vice president of global outplacement firm Challenger Gray & Christmas .
+公司一直不愿放过任何人，”全球再就业公司Challenger Gray&Christmas的高级副总裁安德鲁·查林格（Andrew Challengeer）说。
+Companies have been reticent to let go of anybody , " said Andrew Challenger , senior vice president of global outplacement firm Challenger Gray & Christmas .
+公司一直不愿放过任何人，”全球再就业公司Challenger Gray&Christmas的高级副总裁安德鲁·查林格（Andrew Challengeer）说。
+LCS-Wdiff:	1.0 
+--TN--
+#50:
+In response , the International Monetary Fund warned of Macao ' s " overreliance on the gaming sector , " which it said had been brought into focus during the pandemic .
+作为回应，国际货币基金组织（IMF）警告称，澳门“过度依赖博彩业”，该组织称，博彩业在疫情期间受到关注。
+In January , the International Monetary Fund warned of Macao ' s " overreliance on the gaming sector , " which it said had been brought into focus during the pandemic .
+今年1月，国际货币基金组织（IMF）警告称，澳门“过度依赖博彩业”，该组织称，博彩业在疫情期间受到关注。
+LCS-Wdiff:	1.0 
+--FN--
+#51:
+But in recent months , they ' ve realized they have too much stuff , especially in an uncertain moment for manufacturers and shoppers , and become hesitant to place new orders .
+但近几个月来，他们意识到自己的东西太多了，尤其是在制造商和消费者不确定的时刻，他们开始犹豫是否下新订单。
+But in recent months , they ' ve realized they have too much stuff , especially at an uncertain moment for manufacturers and shoppers , and become hesitant to place new orders .
+但近几个月来，他们意识到自己的东西太多了，尤其是在制造商和消费者不确定的时刻，他们开始犹豫是否下新订单。
+LCS-Wdiff:	1.0 
+--TN--
+#52:
+But this swift ban on him indicates how sensitive Chinese censors might be in this environment , she said .
+但她说，对他的迅速禁令表明，在这种环境下，中国审查人员可能是多么敏感。
+But the swift ban on him indicates how sensitive Chinese censors might be in this environment , she said .
+但她说，对他的迅速禁令表明，在这种环境下，中国审查人员可能是多么敏感。
+LCS-Wdiff:	1.0 
+--TN--
+#53:
+But the swift ban on him indicates how sensitive Chinese censors may be in this environment , she said .
+但她说，对他的迅速禁令表明，在这种环境下，中国审查人员可能是多么敏感。
+But the swift ban on him indicates how sensitive Chinese censors might be in this environment , she said .
+但她说，对他的迅速禁令表明，在这种环境下，中国审查人员可能是多么敏感。
+LCS-Wdiff:	1.0 
+--TN--
+#54:
+" We ' ve known from the beginning that the investment required to create this would be substantial , " he says , adding that the company has recently secured further investment .
+他说：“我们从一开始就知道，创建这家公司所需的投资将是巨大的。”他补充说，该公司最近获得了进一步的投资。
+" We ' ve known from the beginning that the investment needed to create this would be substantial , " he says , adding that the company has recently secured further investment .
+他说：“我们从一开始就知道，创建这家公司所需的投资将是巨大的。”他补充说，该公司最近获得了进一步的投资。
+LCS-Wdiff:	1.0 
+--TN--
+#55:
+Because of that , he argues , people mostly do n ' t expect recent inflation of around 5 % to stick around .
+他认为，正因为如此，人们大多不认为最近5%左右的通胀率会持续下去。
+Because of that , he argues , people mostly do n ' t expect recent inflation of around 9 % to stick around .
+他认为，正因为如此，人们大多不认为最近9%左右的通胀率会持续下去。
+LCS-Wdiff:	1.0 
+--TN--
+#56:
+Hog price rose 1 . 3 percent from early July to came in at 2 . 6 yuan per kg .
+从7月初开始，生猪价格上涨了1.3%，达到每公斤2.6元。
+Hog price rose 1 . 3 percent from early July to came in at 22 . 6 yuan per kg .
+从7月初开始，生猪价格上涨了1.3%，达到每公斤22.6元。
+LCS-Wdiff:	1.0 
+--TN--
+#57:
+Hog price rose 1 . 3 percent from early July to came in at 1 . 6 yuan per kg .
+从7月初开始，生猪价格上涨了1.3%，达到每公斤1.6元。
+Hog price rose 1 . 3 percent from early July to came in at 22 . 6 yuan per kg .
+从7月初开始，生猪价格上涨了1.3%，达到每公斤22.6元。
+LCS-Wdiff:	1.0 
+--TN--
+#58:
+Five years later , officials around the country said there had been an additional surge in young teenagers shoplifting .
+五年后，全国各地的官员表示，年轻青少年在商店行窃的人数再次激增。
+Three years later , officials around the country said there had been an additional surge in young teenagers shoplifting .
+三年后，全国各地的官员表示，年轻青少年在商店行窃的人数再次激增。
+LCS-Wdiff:	1.0 
+--TN--
+#59:
+The Cyberspace Administration of China stated in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国网络空间管理局在一份声明中表示，该公司违反了中国的网络安全法、数据安全法和个人信息保护法。
+The Cyberspace Administration of China said in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国网络空间管理局在一份声明中表示，该公司违反了中国的网络安全法、数据安全法和个人信息保护法。
+LCS-Wdiff:	1.0 
+--TN--
+#60:
+Starting next week : The US jobs report for July will be closely scrutinized for evidence the economy is slowing faster than expected .
+下周开始：美国7月份的就业报告将被仔细审查，以寻找经济放缓速度快于预期的证据。
+Coming next week : The US jobs report for July will be closely scrutinized for evidence the economy is slowing faster than expected .
+下周：美国7月份的就业报告将被仔细审查，以寻找经济放缓速度快于预期的证据。
+LCS-Wdiff:	1.0 
+--FN--
+#61:
+The company cut deliveries again to just 2 % of the pipeline ' s capacity last week , citing maintenance work .
+上周，该公司以维护工作为由，再次将输送量削减至管道容量的2%。
+The company cut deliveries again to just 20 % of the pipeline ' s capacity last week , citing maintenance work .
+上周，该公司以维护工作为由，再次将输送量削减至管道容量的20%。
+LCS-Wdiff:	1.0 
+--TN--
+#62:
+Domestic shipments of 5G mobile phones hit about 23 . 03 million units last month , jumping 16 . 1 percent from a year earlier and accounting for 82 . 2 percent of the total shipments .
+上个月，5G手机的国内出货量达到2303万部，同比增长16.1%，占总出货量的82.2%。
+Domestic shipments of 5G mobile phones hit about 23 . 03 million units last month , jumping 16 . 3 percent from a year earlier and accounting for 82 . 2 percent of the total shipments .
+上个月，5G手机的国内出货量达到2303万部，同比增长16.3%，占总出货量的82.2%。
+LCS-Wdiff:	1.0 
+--TN--
+#63:
+" We saw how software was created at these global companies , and we saw API was a key problem , " Anthana told CNN Business .
+“我们看到了这些跨国公司是如何创建软件的，我们看到API是一个关键问题，”安塔纳告诉CNN Business。
+" We saw how software was created at these global companies , and we saw API was a key problem , " Asthana told CNN Business .
+“我们看到了这些跨国公司是如何创建软件的，我们看到API是一个关键问题，”阿斯塔纳告诉CNN Business。
+LCS-Wdiff:	1.0 
+--TN--
+#64:
+" Both the UK and China have witnessed unprecedented development in the offshore wind sector over the past few years and foresee more market opportunities in terms of business models and technology innovations , " said Zhang .
+“在过去几年中，英国和中国海上风电行业都取得了前所未有的发展，预计在商业模式和技术创新方面会有更多的市场机会，”张说。
+" Both the UK and China have seen unprecedented development in the offshore wind sector over the past few years and foresee more market opportunities in terms of business models and technology innovations , " said Zhang .
+“在过去几年中，英国和中国的海上风电行业都取得了前所未有的发展，预计在商业模式和技术创新方面会有更多的市场机会，”张说。
+LCS-Wdiff:	1.0 
+--TN--
+#65:
+" You can interact with the robot deep in the water , " Khatib said , " and this would be amazing because this would simulate the task of doing this on a different planet or different moon .
+“你可以在深水中与机器人互动，”哈提卜说，“这将是令人惊讶的，因为这将模拟在不同的星球或不同的月球上进行的任务。”。
+" They can interact with the robot deep in the water , " Khatib said , " and this would be amazing because this would simulate the task of doing this on a different planet or different moon .
+“他们可以在深水中与机器人互动，”哈提卜说，“这将是令人惊讶的，因为这将模拟在不同的星球或不同的月球上进行的任务。”。
+LCS-Wdiff:	1.0 
+--TN--
+#66:
+" They can interact with the robot deep in the water , " Khatib said , " and this would be amazing because this would simulate the task of doing this on a different planet and different moon .
+“他们可以在深水中与机器人互动，”哈提卜说，“这将是令人惊讶的，因为这将模拟在不同的星球和不同的月球上进行的任务。”。
+" They can interact with the robot deep in the water , " Khatib said , " and this would be amazing because this would simulate the task of doing this on a different planet or different moon .
+“他们可以在深水中与机器人互动，”哈提卜说，“这将是令人惊讶的，因为这将模拟在不同的星球或不同的月球上进行的任务。”。
+LCS-Wdiff:	1.0 
+--TN--
+#67:
+Darshan Mehta , the managing director of Reliance Brands , stated in a statement that the partnership was rooted in the " strong growth potential " of the Pret brand and India ' s food and beverage industry .
+Reliance Brands董事总经理Darshan Mehta在一份声明中表示，该合作关系植根于Pret品牌和印度食品饮料行业的“强劲增长潜力”。
+Darshan Mehta , the managing director of Reliance Brands , said in a statement that the partnership was rooted in the " strong growth potential " of the Pret brand and India ' s food and beverage industry .
+Reliance Brands董事总经理Darshan Mehta在一份声明中表示，该合作关系植根于Pret品牌和印度食品饮料行业的“强劲增长潜力”。
+LCS-Wdiff:	1.0 
+--TN--
+#68:
+Since coming into power in 2012 , Chinese leader Xi Jinping has called for the " great rejuvenation of the Chinese nation .
+ 
+Since coming to power in 2012 , Chinese leader Xi Jinping has called for the " great rejuvenation of the Chinese nation .
+ 
+LCS-Wdiff:	1.0 
+--FN--
+#69:
+Andrew McCaffery , global chief investment officer of Fidelity International , said the falling US Treasuries holdings by foreign central banks raise concerns about the real returns , which subtract the level of inflation , provided by US Treasuries .
+富达国际（Fidelity International）全球首席投资官安德鲁·麦卡弗里（Andrew McCaffery）表示，外国央行持有的美国国债不断减少，引发了人们对美国国债实际回报率的担忧，这会降低通胀水平。
+Andrew McCaffery , global chief investment officer of Fidelity International , said the falling US Treasuries holdings by foreign central banks reflect concerns about the real returns , which subtract the level of inflation , provided by US Treasuries .
+富达国际（Fidelity International）全球首席投资官安德鲁·麦卡弗里（Andrew McCaffery）表示，外国央行持有的美国国债不断减少，反映了人们对美国国债实际回报的担忧，这会降低通胀水平。
+LCS-Wdiff:	0.9772727272727273 
+--TN--
+#70:
+Locking up a product is the final step a retailer can take before removing it altogether , and stores say they are resorting to this measure more frequently as theft continues to increase .
+锁定产品是零售商在完全移除产品之前可以采取的最后一步，商店表示，随着盗窃行为的不断增加，他们越来越频繁地采取这种措施。
+Locking up a product is the final step a retailer will take before removing it altogether , and stores say they are resorting to this measure more frequently as theft continues to increase .
+锁定产品是零售商在将其完全移除之前的最后一步，商店表示，随着盗窃行为的不断增加，他们越来越频繁地采取这种措施。
+LCS-Wdiff:	0.967741935483871 
+--TN--
+#71:
+The attorney representing Jones in the Texas defamation case , Federico Andino Reynal , made the disclosure about the bankruptcy filing after the end of court proceedings on Friday .
+在德克萨斯州诽谤案中代表琼斯的律师费德里科·安迪诺·雷纳尔（Federico Andino Reynal）在周五法庭诉讼结束后披露了破产申请。
+The attorney representing Jones in the Texas defamation case , Federico Andino Reynal , made the disclosure about the bankruptcy filing at the end of court proceedings on Friday .
+在德克萨斯州诽谤案中代表琼斯的律师费德里科·安迪诺·雷纳尔（Federico Andino Reynal）在周五的法庭诉讼结束时披露了破产申请。
+LCS-Wdiff:	0.9655172413793104 
+--TN--
+#72:
+The attorney representing Jones in the Texas defamation case , Federico Andrade Reynal , made the disclosure about the bankruptcy filing at the end of court proceedings on Friday .
+在德克萨斯州诽谤案中代表琼斯的律师费德里科·安德拉德·雷纳尔（Federico Andrade Reynal）在周五的法庭诉讼结束时披露了破产申请。
+The attorney representing Jones in the Texas defamation case , Federico Andino Reynal , made the disclosure about the bankruptcy filing at the end of court proceedings on Friday .
+在德克萨斯州诽谤案中代表琼斯的律师费德里科·安迪诺·雷纳尔（Federico Andino Reynal）在周五的法庭诉讼结束时披露了破产申请。
+LCS-Wdiff:	0.9655172413793104 
+--TN--
+#73:
+Crime gangs often look to steal products from stores which can easily and quickly be resold on online marketplaces such as Amazon and through other illicit markets .
+犯罪团伙经常从商店盗窃产品，这些产品可以在亚马逊等在线市场和其他非法市场上轻松快速地转售。
+Crime gangs often look to steal products from stores that can easily and quickly be resold on online marketplaces such as Amazon and through other illicit markets .
+犯罪团伙经常从商店盗窃产品，这些产品可以在亚马逊等在线市场或通过其他非法市场轻松快速地转售。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#74:
+Germany , the bloc ' s biggest economy , could lose 220 billion over the next five years in such an event , according to its top economic forecasters .
+根据德国最高经济预测机构的数据，该集团最大的经济体德国可能在未来五年内损失2200亿欧元。
+Germany , the bloc ' s biggest economy , could lose 220 billion over the next two years in such an event , according to its top economic forecasters .
+根据德国最高经济预测机构的预测，该集团最大的经济体德国可能在未来两年内损失2200亿欧元。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#75:
+It makes sense , therefore , for job seekers to try finding jobs in companies that are less vulnerable to the economy ' s troubles .
+因此，对于求职者来说，在不太容易受到经济问题影响的公司找工作是有道理的。
+It makes sense , therefore , for job seekers to try finding jobs with companies that are less vulnerable to the economy ' s troubles .
+因此，对于求职者来说，尝试在不太容易受到经济问题影响的公司找到工作是有道理的。
+LCS-Wdiff:	0.9565217391304348 
+--TP--
+#76:
+State Cyberspace Administration of China said in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国国家网络空间管理局在一份声明中表示，该公司违反了国家网络安全法、数据安全法和个人信息保护法。
+The Cyberspace Administration of China said in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国网络空间管理局在一份声明中表示，该公司违反了中国的网络安全法、数据安全法和个人信息保护法。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#77:
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement on Saturday with immediate effect .
+该品牌表示，它已自愿要求其所有媒体合作伙伴在周六立即停止播放该广告的变体。
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate effect .
+该品牌表示，已自愿要求其所有媒体合作伙伴从周六起立即停止播放该广告的变体。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#78:
+So far , the bank has extended 5 . 3 billion yuan of loans to support the building of garbage and sewage treatment facilities in over 200 counties .
+到目前为止，世行已发放53亿元贷款，支持200多个县的垃圾和污水处理设施建设。
+So far , the bank has extended 100 . 3 billion yuan of loans to support the building of garbage and sewage treatment facilities in over 200 counties .
+到目前为止，世行已经发放了1003亿元贷款，支持200多个县的垃圾和污水处理设施建设。
+LCS-Wdiff:	0.95 
+--FP--
+#79:
+While having fewer workers in the store increased profits for chains in recent decades , it has left chains in some cases without as many visible personnel to deter shoplifting , crime prevention experts say .
+犯罪预防专家说，虽然近几十年来商店里的工人越来越少增加了连锁店的利润，但在某些情况下，它让连锁店没有那么多可见的人员来阻止店内盗窃。
+While having fewer workers in the store increased profits for chains in recent decades , it has left stores in some cases without as many visible personnel to deter shoplifting , crime prevention experts say .
+犯罪预防专家说，虽然近几十年来商店里的工人减少增加了连锁店的利润，但在某些情况下，它让商店里没有那么多可见的人员来阻止商店盗窃。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#80:
+" Mumbai actually has one of the largest developer communities in the world , " Bhatnagar told CNN Business .
+“孟买实际上拥有世界上最大的开发商社区之一，”Bhatnagar告诉CNN Business。
+" India actually has one of the largest developer communities in the world , " Bhatnagar told CNN Business .
+“印度实际上拥有世界上最大的开发者社区之一，”Bhatnagar告诉CNN Business。
+LCS-Wdiff:	0.9411764705882353 
+--TP--
+#81:
+" They are charged by the sea , so they can extend their lifetime almost indefinitely , " Chao said .
+“它们由海洋充电，因此它们可以几乎无限期地延长寿命，”赵说。
+" They get charged by the sea , so they can extend their lifetime almost indefinitely , " Chao said .
+“它们被海水充电，所以它们可以几乎无限期地延长寿命，”赵说。
+LCS-Wdiff:	0.9375 
+--FP--
+#82:
+Locking up a product is the final step a retailer will take before removing it altogether , and stores say they are resorting to this measure more frequently as theft continues to grow .
+锁定一个产品是零售商在将其完全移除之前的最后一步，商店表示，随着盗窃行为的持续增长，他们越来越频繁地采取这一措施。
+Locking up a product is the final step a retailer will take before removing it altogether , and stores say they are resorting to this measure more frequently as theft continues to increase .
+锁定产品是零售商在将其完全移除之前的最后一步，商店表示，随着盗窃行为的不断增加，他们越来越频繁地采取这种措施。
+LCS-Wdiff:	0.9354838709677419 
+--FP--
+#83:
+This was only about 160 miles south from my hotel and I still had half of a full charge .
+这里离我住的酒店只有160英里，我还有一半的全费。
+It was only about 160 miles south from my hotel and I still had half of a full charge .
+离我住的酒店往南大约160英里，我还有一半的全费。
+LCS-Wdiff:	0.9333333333333333 
+--TP--
+#84:
+The continent has grappled with supply shortages for months amid an escalating economic dispute between Moscow and Brussels over the war in Ukraine .
+由于莫斯科和布鲁塞尔之间关于乌克兰战争的经济争端不断升级，欧洲大陆几个月来一直在与供应短缺作斗争。
+The continent has grappled with supply shortages for months amid an escalating economic conflict between Moscow and Brussels over the war in Ukraine .
+由于莫斯科和布鲁塞尔之间因乌克兰战争而发生的经济冲突不断升级，欧洲大陆几个月来一直在与供应短缺作斗争。
+LCS-Wdiff:	0.9259259259259259 
+--FP--
+#85:
+Even the swift ban on him indicates how sensitive Chinese censors might be in this environment , she said .
+她说，即使是对他的迅速禁令也表明，在这种环境下，中国的审查人员可能是多么敏感。
+But the swift ban on him indicates how sensitive Chinese censors might be in this environment , she said .
+但她说，对他的迅速禁令表明，在这种环境下，中国审查人员可能是多么敏感。
+LCS-Wdiff:	0.92 
+--FP--
+#86:
+Though there may not be many big hit films in theaters over the next few weeks , there will still be movies to go see .
+虽然在未来几周内，电影院里可能不会有很多热门电影上映，但仍然会有电影可看。
+While there may not be many big hit films in theaters over the next few weeks , there will still be movies to go see .
+虽然在未来几周，影院里可能不会有太多热门电影上映，但仍然会有电影可看。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#87:
+Boeing suspended deliveries of the 787 when the FAA raised concerns about its proposed inspection method .
+当联邦航空局对其拟议的检查方法表示担忧时，波音暂停了787飞机的交付。
+Boeing suspended deliveries of the 787 after the FAA raised concerns about its proposed inspection method .
+在联邦航空局对其拟议的检查方法提出担忧后，波音暂停了787飞机的交付。
+LCS-Wdiff:	0.9 
+--FP--
+#88:
+A television commercial for a male body spray has been taken off the air in India , after activists said it made light of gang rape .
+在印度，一则男性身体喷雾的电视广告已经停播，此前活动人士称该广告轻视了轮奸。
+A television commercial for a male body spray has been taken off the air in India , after critics said it made light of gang rape .
+一则男性身体喷雾的电视广告在印度停播，此前批评人士称该广告轻视了轮奸。
+LCS-Wdiff:	0.8888888888888888 
+--FP--
+#89:
+I ' ll be back to a place where it matters if your home is in good shape , " Fratantoni said .
+我会回到一个对你的家是否状况良好很重要的地方，”弗拉坦尼说。
+We ' ll be back to a place where it matters if your home is in good shape , " Fratantoni said .
+我们会回到一个对你的家是否状况良好至关重要的地方，”弗拉安东尼说。
+LCS-Wdiff:	0.8823529411764706 
+--TP--
+#90:
+For many companies , CCUS will not only expand their own business but also help them become sustainable in the long run , he said .
+他说，对许多公司来说，CCU不仅可以扩大自己的业务，而且可以帮助它们实现长期可持续发展。
+For oil companies , CCUS will not only expand their own business but also help them become sustainable in the long run , he said .
+他说，对于石油公司来说，CCU不仅将扩大自己的业务，而且还将帮助它们实现长期可持续发展。
+LCS-Wdiff:	0.88 
+--TP--
+#91:
+" In general , we also see rising level of uncertainty regarding keeping up to political taboos and red lines , " he added .
+“总体而言，我们还看到，在遵守政治禁忌和红线方面，不确定性水平不断上升，”他补充道。
+" In general , we do see rising level of uncertainty regarding keeping up to political taboos and red lines , " he added .
+“总的来说，我们确实看到在遵守政治禁忌和红线方面的不确定性水平不断上升，”他补充道。
+LCS-Wdiff:	0.875 
+--TP--
+#92:
+Because the Fed raises rates , it makes it more expensive for people and businesses to borrow money .
+由于美联储提高了利率，人们和企业借钱的成本更高。
+When the Fed raises rates , it makes it more expensive for people and businesses to borrow money .
+当美联储提高利率时，人们和企业借钱的成本会更高。
+LCS-Wdiff:	0.8461538461538461 
+--FP--
+#93:
+According to Shell , China has an estimated 1 , 400 Gt in storage capacity and significant geological potential for storing carbon , second only to the United States .
+据壳牌公司称，中国的储存容量估计为1400吨，在储存碳方面具有巨大的地质潜力，仅次于美国。
+According to Shell , China has an estimated 2 , 400 Gt in storage capacity and significant geological potential for storing carbon , second only to the United States .
+据壳牌公司称，中国的碳储存容量估计为2400吨，具有巨大的地质潜力，仅次于美国。
+LCS-Wdiff:	0.8461538461538461 
+--TP--
+#94:
+It makes sense , therefore , for job seekers to try finding jobs with companies that are less susceptible to the economy ' s troubles .
+因此，对于求职者来说，尝试在不易受经济问题影响的公司找到工作是有道理的。
+It makes sense , therefore , for job seekers to try finding jobs with companies that are less vulnerable to the economy ' s troubles .
+因此，对于求职者来说，尝试在不太容易受到经济问题影响的公司找到工作是有道理的。
+LCS-Wdiff:	0.8333333333333334 
+--FP--
+#95:
+Coming next week : The US jobs report for April will be closely scrutinized for evidence the economy is slowing faster than expected .
+下周：将密切关注美国4月份的就业报告，以寻找经济放缓速度快于预期的证据。
+Coming next week : The US jobs report for July will be closely scrutinized for evidence the economy is slowing faster than expected .
+下周：美国7月份的就业报告将被仔细审查，以寻找经济放缓速度快于预期的证据。
+LCS-Wdiff:	0.8260869565217391 
+--TP--
+#96:
+Coming this week : The US jobs report for July will be closely scrutinized for evidence the economy is slowing faster than expected .
+本周即将到来：美国7月就业报告将受到密切关注，以寻找经济放缓速度快于预期的证据。
+Coming next week : The US jobs report for July will be closely scrutinized for evidence the economy is slowing faster than expected .
+下周：美国7月份的就业报告将被仔细审查，以寻找经济放缓速度快于预期的证据。
+LCS-Wdiff:	0.8181818181818182 
+--TP--
+#97:
+" They get charged by the sea , so they can last their lifetime almost indefinitely , " Chao said .
+“它们被海水冲走，所以它们的寿命几乎是无限期的，”赵说。
+" They get charged by the sea , so they can extend their lifetime almost indefinitely , " Chao said .
+“它们被海水充电，所以它们可以几乎无限期地延长寿命，”赵说。
+LCS-Wdiff:	0.8125 
+--TP--
+#98:
+It is estimated that the allocation of a combined quota of 320 billion yuan will be completed before the end of August , said an unidentified official of the CBIRC on Sunday .
+CBIRC的一位身份不明的官员周日表示，预计3200亿元的总配额分配将在8月底前完成。
+It is estimated that the allocation of a combined quota of 320 billion yuan will be completed by the end of August , said an unidentified official of the CBIRC on Sunday .
+CBIRC的一位身份不明的官员周日表示，预计到8月底将完成3200亿元的总配额分配。
+LCS-Wdiff:	0.75 
+--FP--
+#99:
+With the anticipated boom in NEV sales globally in the coming years , said Zhang Jing , a research supervisor from Shanghai Chaos Investment Group , the need for power batteries － a key component of NEVs － is apparent .
+上海混沌投资集团（Shanghai Chaos Investment Group）的研究主管张静表示，随着未来几年全球新能源汽车销售的预期繁荣，显然需要动力电池——新能源汽车的关键部件。
+With the anticipated boom in NEV sales globally in the coming years , said Wang Jing , a research supervisor from Shanghai Chaos Investment Group , the need for power batteries － a key component of NEVs － is apparent .
+上海混沌投资集团（Shanghai Chaos Investment Group）的研究主管王静（音译）表示，随着未来几年全球新能源汽车销量的预期增长，对动力电池（新能源汽车的关键部件）的需求显而易见。
+LCS-Wdiff:	0.725 
+--TP--
+#100:
+A television commercial for a male body spray has been taken off the air in India , as critics said it made light of gang rape .
+一个男性身体喷雾的电视广告已经在印度停播，因为批评者说它轻视了轮奸。
+A television commercial for a male body spray has been taken off the air in India , after critics said it made light of gang rape .
+一则男性身体喷雾的电视广告在印度停播，此前批评人士称该广告轻视了轮奸。
+LCS-Wdiff:	0.7222222222222222 
+--TP--

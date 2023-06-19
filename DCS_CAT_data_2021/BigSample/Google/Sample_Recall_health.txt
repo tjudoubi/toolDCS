@@ -1,0 +1,600 @@
+#1:
+Fluid from the nasal swab or saliva goes on one end , then a marking appears if you are positive .
+鼻拭子或唾液中的液体从一端流出，如果您是阳性，则会出现一个标记。
+Fluid from a nasal swab or saliva goes on one end , then a marking appears if you are positive .
+来自鼻拭子或唾液的液体在一端流动，如果您是阳性，则会出现标记。
+TP--
+#2:
+It means there need to be detection and monitoring techniques and prevention measures including plant quarantine and studies of its natural enemies to prevent further spread of new invasive insect pests .
+这意味着需要有检测和监测技术和预防措施，包括植物检疫和对其天敌的研究，以防止新的入侵昆虫害虫的进一步传播。
+It means there needs to be detection and monitoring techniques and prevention measures including plant quarantine and studies of its natural enemies to prevent further spread of new invasive insect pests .
+这意味着需要有检测和监测技术和预防措施，包括植物检疫和对其天敌的研究，以防止新的入侵昆虫害虫的进一步传播。
+TN--
+#3:
+The numbers suggest a basic disagreement among the Trump administration , state health officials and nursing home administrators regarding the best way to test this population and how to strike the right balance between speed and accuracy .
+这些数字表明，特朗普政府、州卫生官员和疗养院管理人员在测试这一人群的最佳方法以及如何在速度和准确性之间取得适当平衡方面存在基本分歧。
+The numbers suggest a basic disagreement among the Trump administration , state health officials and nursing home administrators over the best way to test this population and how to strike the right balance between speed and accuracy .
+这些数字表明，特朗普政府、州卫生官员和疗养院管理人员在测试这一人群的最佳方法以及如何在速度和准确性之间取得适当平衡方面存在基本分歧。
+TN--
+#4:
+The numbers suggest a basic disagreement among the Trump administration , state health officials and nursing home administrators over the best way to test this population and how to strike the correct balance between speed and accuracy .
+这些数字表明，特朗普政府、州卫生官员和疗养院管理人员在测试这一人群的最佳方法以及如何在速度和准确性之间取得正确平衡方面存在基本分歧。
+The numbers suggest a basic disagreement among the Trump administration , state health officials and nursing home administrators over the best way to test this population and how to strike the right balance between speed and accuracy .
+这些数字表明，特朗普政府、州卫生官员和疗养院管理人员在测试这一人群的最佳方法以及如何在速度和准确性之间取得适当平衡方面存在基本分歧。
+TN--
+#5:
+The results come hot on the heels of similar results from Pfizer , and add to growing confidence that vaccines could help end the pandemic .
+该结果紧随辉瑞（Pfizer）的类似结果之后，并增加了人们对疫苗可以帮助结束大流行的信心。
+The results come hot on the heels of similar results from Pfizer , and add to growing confidence that vaccines can help end the pandemic .
+该结果紧随辉瑞（Pfizer）的类似结果之后，并增加了人们对疫苗可以帮助结束大流行的信心。
+TN--
+#6:
+The findings come hot on the heels of similar results from Pfizer , and add to growing confidence that vaccines can help end the pandemic .
+这一发现紧随辉瑞（Pfizer）的类似结果之后，并增加了人们对疫苗可以帮助结束大流行的信心。
+The results come hot on the heels of similar results from Pfizer , and add to growing confidence that vaccines can help end the pandemic .
+该结果紧随辉瑞（Pfizer）的类似结果之后，并增加了人们对疫苗可以帮助结束大流行的信心。
+TN--
+#7:
+Many patients do not know how to eat in a healthy way , and our goal is to enhance tumor patients ' quality of life and extend their life expectancy .
+许多患者不知道如何健康饮食，而我们的目标是提高肿瘤患者的生活质量，延长他们的预期寿命。
+Many people do not know how to eat in a healthy way , and our goal is to enhance tumor patients ' quality of life and extend their life expectancy .
+许多人不知道如何健康饮食，而我们的目标是提高肿瘤患者的生活质量，延长他们的预期寿命。
+TN--
+#8:
+While Simon is pleased that his passion has become a money - spinner , he did not expect the coronavirus pandemic to result in a windfall .
+虽然西蒙很高兴他的热情变成了摇钱树，但他没想到冠状病毒大流行会带来意外之财。
+While Simon is happy that his passion has become a money - spinner , he did not expect the coronavirus pandemic to result in a windfall .
+虽然西蒙很高兴他的热情变成了赚钱的工具，但他没想到冠状病毒大流行会带来意外之财。
+TN--
+#9:
+While he is happy that his passion has become a money - spinner , he did not expect the coronavirus pandemic to result in a windfall .
+虽然他很高兴自己的热情变成了摇钱树，但他没想到冠状病毒大流行会带来意外之财。
+While Simon is happy that his passion has become a money - spinner , he did not expect the coronavirus pandemic to result in a windfall .
+虽然西蒙很高兴他的热情变成了赚钱的工具，但他没想到冠状病毒大流行会带来意外之财。
+FP--
+#10:
+Scotland ' s health secretary has confirmed people will not be forced to take the Covid vaccine although she hopes most Scots will choose to do so .
+苏格兰 卫生部 长 已 证实 不会 强迫 人们 接种 Covid 疫苗 , 尽管 她 希望 大多数 苏格兰 人 会 选择 这样做 .
+Scotland ' s health secretary has confirmed people will not be forced to take the Covid vaccine but she hopes most Scots will choose to do so .
+苏格兰 卫生部 长 已 确认 人们 不会 被迫 接种 Covid 疫苗 , 但 她 希望 大多数 苏格兰 人 会 选择 这样做 .
+FP--
+#11:
+Scientists believe the virus spreads in mink farms through infectious droplets , on feed or bedding , or in dust containing droppings .
+科学家们认为，该病毒通过传染性飞沫、饲料或床上用品或含灰尘的粪便在水貂养殖场传播。
+Scientists suspect the virus spreads in mink farms through infectious droplets , on feed or bedding , or in dust containing droppings .
+科学家们怀疑该病毒通过传染性飞沫、饲料或垫料或含灰尘的粪便在水貂养殖场传播。
+FP--
+#12:
+These could be linked to their physical health or drugs prescribed to treat disorders , the researchers speculated .
+研究人员推测，这些可能与他们的身体健康或治疗疾病的药物有关。
+This could be linked to their physical health or drugs prescribed to treat disorders , the researchers speculated .
+研究人员推测，这可能与他们的身体健康或治疗疾病的药物有关。
+TN--
+#13:
+It could be linked to their physical health or drugs prescribed to treat disorders , the researchers speculated .
+研究人员推测，这可能与他们的身体健康或治疗疾病的药物有关。
+This could be linked to their physical health or drugs prescribed to treat disorders , the researchers speculated .
+研究人员推测，这可能与他们的身体健康或治疗疾病的药物有关。
+TN--
+#14:
+To monitor and control invasive alien species needs multidisciplinary collaborations including biology , chemistry , pharmaceutical pharmacology and computer science .
+监测和控制外来入侵物种需要多学科合作，包括生物学、化学、药物药理学和计算机科学。
+To monitor and control invasive alien species needs multidisciplinary collaborations including biology , chemistry , agricultural pharmacology and computer science .
+监测和控制外来入侵物种需要包括生物学、化学、农业药理学和计算机科学在内的多学科合作。
+FP--
+#15:
+Nursing homes are still taking days to get back Covid - 19 test results as many shun the Trump administration ' s central strategy to limit the spread of the virus amongst old and sick Americans .
+疗养院仍需要几天时间才能获得 Covid-19 检测结果，因为许多人回避了特朗普政府限制病毒在美国老人和病人中传播的核心战略。
+Nursing homes are still taking days to get back Covid - 19 test results as many shun the Trump administration ' s central strategy to limit the spread of the virus among old and sick Americans .
+疗养院仍需要几天时间才能获得 Covid-19 检测结果，因为许多人回避了特朗普政府限制病毒在美国老人和病人中传播的核心战略。
+TN--
+#16:
+Every time the virus spreads between animals it changes , and if it changes too much from the one that is circulating within humans at the moment , that might mean that any vaccine or treatment that will be produced soon will not work as well as it should do .
+每次病毒在动物之间传播时，它都会发生变化，如果它与目前在人类体内传播的病毒相比变化太大，这可能意味着任何即将生产的疫苗或治疗方法都无法发挥应有的作用。  .
+Every time the virus spreads between animals it changes , and if it changes too much from the one that is circulating within humans at the moment , that might mean that any vaccine or treatment that will be produced soon might not work as well as it should do .
+每次病毒在动物之间传播时，它都会发生变化，如果它与目前在人类体内传播的病毒相比变化太大，这可能意味着任何即将生产的疫苗或治疗方法都可能无法发挥应有的作用。  .
+TN--
+#17:
+Time lags could have devastating consequences , because even one undetected infection can quietly but rapidly trigger a broad outbreak .
+时间滞后可能会产生毁灭性的后果，因为即使是一次未被发现的感染也可能悄无声息地迅速引发大规模爆发。
+Those lags could have devastating consequences , because even one undetected infection can quietly but rapidly trigger a broad outbreak .
+这些滞后可能会产生毁灭性的后果，因为即使是一种未被发现的感染也可以悄悄地但迅速地引发广泛的爆发。
+FP--
+#18:
+The searchlight has given the drug a market entry into Kuwait , gaining a foothold for the company to further explore the Middle East market .
+探照灯使该药进入科威特市场，为公司进一步开拓中东市场奠定了基础。
+The greenlight has given the drug a market entry into Kuwait , gaining a foothold for the company to further explore the Middle East market .
+此次批准使该药进入科威特市场，为公司进一步开拓中东市场奠定了基础。
+FN--
+#19:
+The hope is this can be used to stamp out an outbreak , by getting everyone that tests positive to isolate , without turning to strict restrictions .
+希望这可以用来阻止疫情的爆发，让所有检测呈阳性的人都被隔离，而无需采取严格的限制措施。
+The hope is this can be used to stamp out an outbreak , by getting everyone who tests positive to isolate , without turning to strict restrictions .
+希望这可以用来消灭疫情，让所有检测呈阳性的人都被隔离，而不需要采取严格的限制措施。
+FP--
+#20:
+They are introduced under natural , accidental and intentional conditions , and sometimes a mixture of the three .
+它们是在自然的、偶然的和有意的条件下引入的，有时是三者的混合。
+They are introduced under natural , accidental and intentional conditions , and sometimes a combination of the three .
+它们是在自然的、偶然的和有意的条件下引入的，有时是三者的结合。
+TN--
+#21:
+Sun says cat owners should create some quiet corner or cat climber to give their cats the choice when they want to be alone and try not to disturb them .
+孙 说 猫 主人 应该 创造 一些 安静 的 角落 或 猫 爬山 , 让 他们 的 猫 在 想 独处 时 有 选择 , 尽量 不要 打扰 他们 .
+Sun says cat owners should create some quiet corner or cat climber to give their cats a choice when they want to be alone and try not to disturb them .
+Sun 说 猫 主人 应该 创造 一些 安静 的 角落 或 猫 爬山 , 让 他们 的 猫 在 想 独处 时 有 选择 , 尽量 不要 打扰 他们 .
+TN--
+#22:
+With earlier doubts and worries now all but dissipated , she now felt at ease with minor plastic surgery , she says , and acknowledges that it had become somewhat addictive .
+她说，早先的疑虑和担忧现在都烟消云散了，她现在对小整形手术感到很自在，并承认这已经有点上瘾了。
+With earlier doubts and fears now all but dissipated , she now felt at ease with minor plastic surgery , she says , and acknowledges that it had become somewhat addictive .
+她说，早先的疑虑和恐惧现在几乎都烟消云散了，她现在对小整形手术感到很自在，并承认这已经有点上瘾了。
+TN--
+#23:
+Mass surveillance is being touted as a way of getting us much closer to a normal life and even of avoiding lockdowns in the future .
+大规模监视被吹捧为让我们更接近正常生活甚至避免未来封锁的一种方式。
+Mass testing is being touted as a way of getting us much closer to a normal life and even of avoiding lockdowns in the future .
+大规模测试被吹捧为让我们更接近正常生活甚至避免未来封锁的一种方式。
+TN--
+#24:
+About 5 . 9 million cases of cancer are diagnosed in China each year , and about 2 . 3 million people die of the disease .
+大约 5 。 中国每年诊断出900万癌症病例，其中约2 .  300万人死于这种疾病。
+About 3 . 9 million cases of cancer are diagnosed in China each year , and about 2 . 3 million people die of the disease .
+大约 3 。 中国每年诊断出900万癌症病例，其中约2 .  300万人死于这种疾病。
+FN--
+#25:
+About 2 . 9 million cases of cancer are diagnosed in China each year , and about 2 . 3 million people die of the disease .
+大约 2 。 中国每年诊断出900万癌症病例，其中约2 .  300万人死于这种疾病。
+About 3 . 9 million cases of cancer are diagnosed in China each year , and about 2 . 3 million people die of the disease .
+大约 3 。 中国每年诊断出900万癌症病例，其中约2 .  300万人死于这种疾病。
+FN--
+#26:
+About 1 . 9 million cases of cancer are diagnosed in China each year , and about 2 . 3 million people die of the disease .
+约 1 。 中国每年诊断出900万癌症病例，其中约2 .  300万人死于这种疾病。
+About 3 . 9 million cases of cancer are diagnosed in China each year , and about 2 . 3 million people die of the disease .
+大约 3 。 中国每年诊断出900万癌症病例，其中约2 .  300万人死于这种疾病。
+FN--
+#27:
+It will not be released for use until it passes final safety testing and gets the go - ahead from the Medicines and Healthcare products Regulatory Agency .
+在通过最终的安全测试并获得药品和保健产品监管机构的批准之前，它不会被释放使用。
+It will not be released for use until it passes final safety tests and gets the go - ahead from the Medicines and Healthcare products Regulatory Agency .
+在通过最终安全测试并获得药品和保健产品监管机构的批准之前，它不会被释放使用。
+TN--
+#28:
+Before this pandemic , there was only limited use of gloves , aprons , and in particular masks , in care homes .
+在这次大流行之前，护理院只能有限地使用手套、围裙，尤其是口罩。
+Before the pandemic , there was only limited use of gloves , aprons , and in particular masks , in care homes .
+在大流行之前，护理院只能有限地使用手套、围裙，尤其是口罩。
+TN--
+#29:
+Within the fruit , as well as being attacked by the larvae , the holes and spaces formed by the voracious eaters can invite secondary pathogens into the tomato , causing it to rot .
+在果实内部，除了受到幼虫的攻击外，贪婪的食者形成的孔洞和空隙还会将次生病原体引入番茄，导致番茄腐烂。
+In the fruit , as well as being attacked by the larvae , the holes and spaces formed by the voracious eaters can invite secondary pathogens into the tomato , causing it to rot .
+在果实中，除了受到幼虫的攻击外，贪婪的食者形成的孔洞和空隙还会将次生病原体引入番茄，导致番茄腐烂。
+FN--
+#30:
+In the fruit , as well as being attacked by the larvae , the holes and spaces formed by the voracious eaters will invite secondary pathogens into the tomato , causing it to rot .
+在果实中，除了受到幼虫的攻击外，贪婪的食者形成的孔洞和空隙会将次生病原体引入番茄，导致番茄腐烂。
+In the fruit , as well as being attacked by the larvae , the holes and spaces formed by the voracious eaters can invite secondary pathogens into the tomato , causing it to rot .
+在果实中，除了受到幼虫的攻击外，贪婪的食者形成的孔洞和空隙还会将次生病原体引入番茄，导致番茄腐烂。
+FN--
+#31:
+In the fruit , as well as being attacked by the larvae , the holes and spaces formed by the voracious eaters also invite secondary pathogens into the tomato , causing it to rot .
+在果实中，除了受到幼虫的攻击外，贪吃者形成的孔洞和空隙还会将次生病原体引入番茄，导致番茄腐烂。
+In the fruit , as well as being attacked by the larvae , the holes and spaces formed by the voracious eaters can invite secondary pathogens into the tomato , causing it to rot .
+在果实中，除了受到幼虫的攻击外，贪婪的食者形成的孔洞和空隙还会将次生病原体引入番茄，导致番茄腐烂。
+FN--
+#32:
+All across the country , many hospitals are already at their breaking point , with overwhelmed and overworked staff members and a continuing surge of patients .
+在全国范围内，许多医院已经处于崩溃的边缘，工作人员不堪重负，工作过度，病人持续激增。
+All over the country , many hospitals are already at their breaking point , with overwhelmed and overworked staff members and a continuing surge of patients .
+在全国范围内，许多医院已经处于崩溃的边缘，工作人员不堪重负，工作过度，病人持续激增。
+TN--
+#33:
+Europe ' s fur industry is back in the spotlight after Denmark ' s mass culling of millions of mink after an outbreak of coronavirus at farms in the country .
+继丹麦在该国农场爆发冠状病毒后大规模捕杀数百万只貂皮后，欧洲的皮草业重新成为人们关注的焦点。
+Europe ' s fur industry is back in the spotlight after Denmark ' s mass culling of millions of mink following an outbreak of coronavirus at farms in the country .
+在该国农场爆发冠状病毒后，丹麦大规模捕杀数百万只貂皮后，欧洲的皮草业重新成为人们关注的焦点。
+TN--
+#34:
+Mr Turco stated he had since received training and has had his first aid qualifications updated .
+Turco 先生说他已经接受了培训，并且已经更新了他的急救资格。
+Mr Turco said he had since received training and has had his first aid qualifications updated .
+Turco 先生说他已经接受了培训，并且已经更新了他的急救资格。
+TN--
+#35:
+Mr Turco said he had since received training and had had his first aid qualifications updated .
+Turco 先生说他已经接受了培训，并且更新了他的急救资格。
+Mr Turco said he had since received training and has had his first aid qualifications updated .
+Turco 先生说他已经接受了培训，并且已经更新了他的急救资格。
+TN--
+#36:
+New coronavirus daily cases in the United States hit another record high Wednesday , with 140543 reported and more expected before the end of the week .
+美国 新 的 冠状 病毒 每日 病例 周三 再创新高 , 报告 140543 例 , 预计在本周末之前还会有更多病例 .
+New coronavirus daily cases in the United States hit another record high Wednesday , with 140543 reported and more expected before the end of the day .
+美国 新 的 冠状 病毒 每日 病例 周三 再创新高 , 报告 140543 例 , 预计在当天结束前还会有更多病例 .
+TP--
+#37:
+New Coronavirus daily cases in the United States hit another record high Wednesday , with 140543 reported and more expected before the end of the day .
+周三，美国新的冠状病毒每日病例再创新高，报告了 140543 例，预计当天结束前还会有更多病例。
+New coronavirus daily cases in the United States hit another record high Wednesday , with 140543 reported and more expected before the end of the day .
+美国 新 的 冠状 病毒 每日 病例 周三 再创新高 , 报告 140543 例 , 预计在当天结束前还会有更多病例 .
+TP--
+#38:
+Health care providers see testing as the second most important tool they have in detecting the virus .
+医疗保健提供者将检测视为他们检测病毒的第二重要工具。
+Health care providers see testing as the single most important tool they have in detecting the virus .
+卫生保健提供者将检测视为他们检测病毒的最重要工具。
+TP--
+#39:
+Health care providers see testing as the single most important tool to have in detecting the virus .
+卫生保健提供者将检测视为检测病毒的唯一最重要工具。
+Health care providers see testing as the single most important tool they have in detecting the virus .
+卫生保健提供者将检测视为他们检测病毒的最重要工具。
+TN--
+#40:
+States in multiple states , including Nevada , Vermont and Illinois , have moved to ban antigen tests in nursing homes or limit their use .
+包括内华达州、佛蒙特州和伊利诺伊州在内的多个州已采取行动，禁止在疗养院进行抗原检测或限制其使用。
+Leaders in multiple states , including Nevada , Vermont and Illinois , have moved to ban antigen tests in nursing homes or limit their use .
+包括内华达州、佛蒙特州和伊利诺伊州在内的多个州的领导人已采取行动，禁止在疗养院进行抗原检测或限制其使用。
+TN--
+#41:
+Reserved numbers will be reduced and all those present will be asked to provide their name , surname and mobile phone numbers .
+保留的号码将减少，所有在场的人都将被要求提供他们的姓名和手机号码。
+Crowd numbers will be reduced and all those present will be asked to provide their name , surname and mobile phone numbers .
+人群数量将减少，所有在场的人都将被要求提供他们的姓名和手机号码。
+TN--
+#42:
+He also mentions that next year marks the 10th anniversary of SCO , and activities like art exhibitions , film festivals , student football tournament and boxing tournament will be held in member countries .
+他还提到，明年是上合组织成立10周年，成员国将举办艺术展、电影节、学生足球赛、拳击比赛等活动。
+He also mentions that next year marks the 20th anniversary of SCO , and activities like art exhibitions , film festivals , student football tournament and boxing tournament will be held in member countries .
+他还提到，明年是上合组织成立20周年，成员国将举办艺术展、电影节、学生足球赛、拳击赛等活动。
+FP--
+#43:
+He says cats and dogs have provided companionship for their owners during home quarantines and he urges parents not to abandon their pets under any circumstances .
+他说，猫和狗在居家隔离期间为主人提供了陪伴，他敦促父母在任何情况下都不要遗弃宠物。
+He says cats and dogs have provided companionship for their owners during home quarantines and he urges owners not to abandon their pets under any circumstances .
+他说，猫和狗在居家隔离期间为主人提供了陪伴，他敦促主人在任何情况下都不要遗弃宠物。
+TN--
+#44:
+He says cats and dogs have provided companionship for their owners during home quarantines and he urges owners not to abandon their pets in any circumstances .
+他说，猫和狗在居家隔离期间为它们的主人提供了陪伴，他敦促主人在任何情况下都不要遗弃他们的宠物。
+He says cats and dogs have provided companionship for their owners during home quarantines and he urges owners not to abandon their pets under any circumstances .
+他说，猫和狗在居家隔离期间为主人提供了陪伴，他敦促主人在任何情况下都不要遗弃宠物。
+FP--
+#45:
+He believes cats and dogs have provided companionship for their owners during home quarantines and he urges owners not to abandon their pets under any circumstances .
+他认为猫和狗在居家隔离期间为主人提供了陪伴，他敦促主人在任何情况下都不要遗弃宠物。
+He says cats and dogs have provided companionship for their owners during home quarantines and he urges owners not to abandon their pets under any circumstances .
+他说，猫和狗在居家隔离期间为主人提供了陪伴，他敦促主人在任何情况下都不要遗弃宠物。
+TN--
+#46:
+He emphasizes that this year , with the support of the provincial sports bureau and the local governments , they completely tore down a collective barn and made room for the laying of the new court .
+他强调，今年，在省体育局和地方政府的支持下，他们彻底拆除了集体粮仓，为新球场的铺设腾出了空间。
+He emphasizes that this year , with the support of the provincial sports bureau and the local governments , they finally tore down a collective barn and made room for the laying of the new court .
+他强调，今年，在省体育局和地方政府的支持下，他们终于拆除了一个集体粮仓，腾出地方铺设新球场。
+FP--
+#47:
+They try to be optimistic about the prospect of rolling out such an unprecedented immunization program .
+他们试图对推出这种史无前例的免疫计划的前景持乐观态度。
+They try to be optimistic about the prospect of rolling out such an unprecedented immunization plan .
+他们试图对推出这种史无前例的免疫计划的前景持乐观态度。
+TN--
+#48:
+To test that magnifier , the researchers identified clusters of gene exons that function together during brain development .
+为了测试这个放大镜，研究人员确定了在大脑发育过程中共同发挥作用的基因外显子簇。
+To build that magnifier , the researchers identified clusters of gene exons that function together during brain development .
+为了制造放大镜，研究人员确定了在大脑发育过程中共同发挥作用的基因外显子簇。
+FN--
+#49:
+To enhance that magnifier , the researchers identified clusters of gene exons that function together during brain development .
+为了增强放大镜，研究人员确定了在大脑发育过程中共同发挥作用的基因外显子簇。
+To build that magnifier , the researchers identified clusters of gene exons that function together during brain development .
+为了制造放大镜，研究人员确定了在大脑发育过程中共同发挥作用的基因外显子簇。
+FN--
+#50:
+The Word Health Organization warns wealthier countries against buying up stocks of vaccines .
+世界卫生组织警告较富裕的国家不要购买疫苗库存。
+The Word Health Organization warns wealthier nations against buying up stocks of vaccines .
+世界卫生组织警告较富裕的国家不要购买疫苗库存。
+TN--
+#51:
+Unfortunately the remote controlled robots that can perform this type of surgery are often very large , expensive and not widely available .
+不幸的是，能够进行此类手术的遥控机器人通常体积庞大、价格昂贵且无法广泛使用。
+But the remote controlled robots that can perform this type of surgery are often very large , expensive and not widely available .
+但能够进行此类手术的遥控机器人通常体积庞大、价格昂贵且无法广泛使用。
+TP--
+#52:
+Coronavirus antibodies last at least 6 months and offer protection against a second infection , a study of healthcare workers suggests .
+一项针对医护人员的研究表明，冠状病毒抗体至少可以持续 6 个月，并且可以防止二次感染。
+Coronavirus antibodies last at least six months and offer protection against a second infection , a study of healthcare workers suggests .
+一项针对医护人员的研究表明，冠状病毒抗体至少持续六个月，并能防止二次感染。
+FP--
+#53:
+Coronavirus antibodies last at least 3 months and offer protection against a second infection , a study of healthcare workers suggests .
+一项针对医护人员的研究表明，冠状病毒抗体至少可以持续 3 个月，并且可以防止二次感染。
+Coronavirus antibodies last at least six months and offer protection against a second infection , a study of healthcare workers suggests .
+一项针对医护人员的研究表明，冠状病毒抗体至少持续六个月，并能防止二次感染。
+FP--
+#54:
+Coronavirus antibodies last at least 12 months and offer protection against a second infection , a study of healthcare workers suggests .
+一项针对医护人员的研究表明，冠状病毒抗体至少可以持续 12 个月，并且可以防止二次感染。
+Coronavirus antibodies last at least six months and offer protection against a second infection , a study of healthcare workers suggests .
+一项针对医护人员的研究表明，冠状病毒抗体至少持续六个月，并能防止二次感染。
+FP--
+#55:
+Workers at a specialist care unit did not attempt to resuscitate a woman with epilepsy , learning difficulties and sleep apnoea when she was found unconscious , an inquest heard .
+当一名患有癫痫、学习困难和睡眠呼吸暂停的妇女被发现失去知觉时，一家专科护理单位的工作人员并未尝试对她进行复苏，并听取了调查结果。
+Staff at a specialist care unit did not attempt to resuscitate a woman with epilepsy , learning difficulties and sleep apnoea when she was found unconscious , an inquest heard .
+当一名患有癫痫、学习困难和睡眠呼吸暂停的妇女被发现失去知觉时，一家专科护理部门的工作人员并未尝试对她进行复苏，并听取了调查。
+TN--
+#56:
+Some state public health authorities and nursing homes have ongoing reservations about the rapid tests .
+一些州公共卫生当局和疗养院对快速检测持保留态度。
+Many state public health authorities and nursing homes have ongoing reservations about the rapid tests .
+许多州公共卫生当局和疗养院对快速检测持保留态度。
+TN--
+#57:
+Some have called for more pragmatism , arguing a shorter isolation may be more effective in controlling the spread of the virus because of greater compliance .
+一些人呼吁更加务实，认为更短的隔离时间可能会更有效地控制病毒的传播，因为它的合规性更高。
+Some have called for more pragmatism , arguing a shorter isolation will be more effective in controlling the spread of the virus because of greater compliance .
+一些人呼吁更加务实，他们认为更短的隔离时间将更有效地控制病毒的传播，因为它的合规性更高。
+FP--
+#58:
+A long and thin silicone prosthesis will be implanted in her nose and a silicone prosthesis embedded in her chin .
+一个长而薄的硅胶假体将植入她的鼻子，一个硅胶假体嵌入她的下巴。
+A long and thin silicone prosthesis would be implanted in her nose and a silicone prosthesis embedded in her chin .
+一个长而薄的硅胶假体将植入她的鼻子，一个硅胶假体嵌入她的下巴。
+TN--
+#59:
+Seventy percent of the late sleepers said they could sleep seven hours a day , and nearly 8 percent said they suffered from severe sleep deprivation , with average sleep of three hours or less .
+70% 的晚睡者表示他们每天可以睡 7 小时，近 8% 的人表示他们患有严重的睡眠剥夺，平均睡眠时间为 3 小时或更少。
+Seventy percent of the late sleepers said they could sleep seven hours a day , and nearly 8 percent said they suffered from severe sleep deprivation , with average sleep of five hours or less .
+70% 的晚睡者表示他们每天可以睡 7 小时，近 8% 的人表示他们患有严重的睡眠剥夺，平均睡眠时间为 5 小时或更少。
+TN--
+#60:
+Sun says pet owners should avoid their pets having unnecessary contacts with other pets or humans during the pandemic , and when returning home from outside , pet owners should wash their hands carefully before touching their pets .
+孙说，在疫情期间，宠物主人应避免宠物与其他宠物或人类进行不必要的接触，从外面回家时，宠物主人应在接触宠物前仔细洗手。
+Sun says pet owners should avoid their pets having unnecessary contacts with other pets or humans during the pandemic , and when returning home from outside , pet owners should wash their hands first before touching their pets .
+孙说，在疫情期间，宠物主人应避免宠物与其他宠物或人类进行不必要的接触，从外面回家时，宠物主人应先洗手，然后再接触宠物。
+FP--
+#61:
+Sun says pet owners should avoid their pets having unnecessary contacts with other pets and humans during the pandemic , and when returning home from outside , pet owners should wash their hands first before touching their pets .
+孙说，在疫情期间，宠物主人应避免宠物与其他宠物和人类进行不必要的接触，从外面回家时，宠物主人应先洗手，然后再接触宠物。
+Sun says pet owners should avoid their pets having unnecessary contacts with other pets or humans during the pandemic , and when returning home from outside , pet owners should wash their hands first before touching their pets .
+孙说，在疫情期间，宠物主人应避免宠物与其他宠物或人类进行不必要的接触，从外面回家时，宠物主人应先洗手，然后再接触宠物。
+TN--
+#62:
+Sun says pet owners should avoid their pets having unnecessary contacts with other pets or humans after the pandemic , and when returning home from outside , pet owners should wash their hands first before touching their pets .
+孙说，疫情过后，宠物主人应避免宠物与其他宠物或人类进行不必要的接触，从外面回家时，宠物主人应先洗手，然后再接触宠物。
+Sun says pet owners should avoid their pets having unnecessary contacts with other pets or humans during the pandemic , and when returning home from outside , pet owners should wash their hands first before touching their pets .
+孙说，在疫情期间，宠物主人应避免宠物与其他宠物或人类进行不必要的接触，从外面回家时，宠物主人应先洗手，然后再接触宠物。
+TN--
+#63:
+Seventy percent of the late sleepers said they could sleep seven hours a day , and nearly 8 percent said they suffered from severe sleep deprivation , with average sleep of four hours or less .
+70% 的晚睡者表示他们每天可以睡 7 小时，近 8% 的人表示他们遭受严重的睡眠剥夺，平均睡眠时间为 4 小时或更少。
+Seventy percent of the late sleepers said they could sleep seven hours a day , and nearly 8 percent said they suffered from severe sleep deprivation , with average sleep of five hours or less .
+70% 的晚睡者表示他们每天可以睡 7 小时，近 8% 的人表示他们患有严重的睡眠剥夺，平均睡眠时间为 5 小时或更少。
+TN--
+#64:
+The report stated since the start of the pandemic adverse trends in poverty , education , employment and mental health for children and young people had worsened .
+报告指出，自大流行开始以来，儿童和年轻人在贫困、教育、就业和心理健康方面的不利趋势已经恶化。
+The report said since the start of the pandemic adverse trends in poverty , education , employment and mental health for children and young people had worsened .
+报告说，自大流行开始以来，儿童和年轻人在贫困、教育、就业和心理健康方面的不利趋势已经恶化。
+TN--
+#65:
+Polypropylene may generate a static charge that captures particles , the CDC said , while silk might expel moist droplets and be more comfortable .
+疾病预防控制中心说，聚丙烯可能会产生捕获颗粒的静电荷，而丝绸可能会排出潮湿的液滴并更舒适。
+Polypropylene may generate a static charge that captures particles , the CDC said , while silk might repel moist droplets and be more comfortable .
+美国疾病控制与预防中心表示，聚丙烯可能会产生捕获颗粒的静电荷，而丝绸可能会排斥潮湿的水滴并更舒适。
+TP--
+#66:
+Unless we support people to isolate , they are never going to stop carrying on with their lives and inadvertently passing on this virus .
+除非我们支持人们进行隔离，否则他们将永远不会停止继续他们的生活并在不经意间传播这种病毒。
+Unless we support people to isolate , they are never going to stop carrying on with their lives and inadvertently passing on the virus .
+除非我们支持人们进行隔离，否则他们将永远不会停止继续他们的生活并在不经意间传播病毒。
+TN--
+#67:
+That group will look to see how many of the participants who became ill received the vaccine and how many received the placebo .
+该小组将查看有多少生病的参与者接受了疫苗，有多少人接受了安慰剂。
+That board will look to see how many of the participants who became ill received the vaccine and how many received the placebo .
+该委员会将查看有多少生病的参与者接受了疫苗，有多少人接受了安慰剂。
+FN--
+#68:
+In this brief scene we are given a snapshot of the mindset of Chinese in their 20s who fall in love with nightlife , but are intent on preserving their physical health , including looks , even as they burn the candle at both ends .
+在这个简短的场景中，我们看到了一个 20 多岁的中国人的心态快照，他们爱上了夜生活，但为了保持身体健康，包括容貌，即使他们在两端都燃烧着蜡烛。
+In this brief scene we are given a snapshot of the mindset of Chinese in their 20s who are in love with nightlife , but are intent on preserving their physical health , including looks , even as they burn the candle at both ends .
+在这个简短的场景中，我们看到了 20 多岁的中国人的心态快照，他们热爱夜生活，但为了保持身体健康，包括容貌，即使他们在两端燃烧蜡烛。
+TP--
+#69:
+Researchers suspect the virus spreads in mink farms through infectious droplets , on feed or bedding , or in dust containing droppings .
+研究人员怀疑该病毒通过传染性飞沫、饲料或床上用品或含有粪便的灰尘在水貂养殖场传播。
+Scientists suspect the virus spreads in mink farms through infectious droplets , on feed or bedding , or in dust containing droppings .
+科学家们怀疑该病毒通过传染性飞沫、饲料或垫料或含灰尘的粪便在水貂养殖场传播。
+TP--
+#70:
+Each kit includes a packet of assorted vegetable seeds , an instruction brochure and sample designs for pocket , container and community gardens .
+每个工具包都包括一包各种蔬菜种子、一本说明手册以及用于口袋、容器和社区花园的样品设计。
+Each kit contains a packet of assorted vegetable seeds , an instruction brochure and sample designs for pocket , container and community gardens .
+每个工具包都包含一包各种蔬菜种子、一本说明手册和用于口袋、容器和社区花园的样品设计。
+FP--
+#71:
+The state urgently needs to treat COVID - 19 as the health emergency it is to prevent the health care system from being overwhelmed
+该州迫切需要将 COVID-19 视为健康紧急情况，以防止医疗保健系统不堪重负
+The public urgently needs to treat COVID - 19 as the health emergency it is to prevent the health care system from being overwhelmed
+公众迫切需要将 COVID-19 视为突发卫生事件，以防止医疗保健系统不堪重负
+TP--
+#72:
+De Turco said he had since received training and has had his first aid qualifications updated .
+德图尔科说，他已经接受了培训，并且更新了他的急救资格。
+Mr Turco said he had since received training and has had his first aid qualifications updated .
+Turco 先生说他已经接受了培训，并且已经更新了他的急救资格。
+TP--
+#73:
+HHS bought millions of rapid tests to distribute to nursing homes as the federal government imposed new mandates on the facilities to test staffers at least once a month .
+HHS 购买了数以百万计的快速测试，分发给疗养院，因为联邦政府对这些设施实施了新的要求，至少每月测试一次工作人员。
+HHS bought millions of rapid tests to distribute to nursing homes as the federal government imposed new mandates for the facilities to test staffers at least once a month .
+HHS 购买了数百万份快速测试，分发给疗养院，因为联邦政府强制要求这些设施每月至少对工作人员进行一次测试。
+FP--
+#74:
+We have staff who have moved out to live elsewhere in order to protect relatives at home , staff who have cancelled holidays , who are n ' t visiting their loved ones but they ' re dedicated to working here and they see the urgency .
+我们有员工为了保护家里的亲人而搬到别处居住，有员工取消了假期，他们不去探望亲人，但他们全心全意地在这里工作，他们看到了紧迫性。
+We have staff who have moved out to live elsewhere in order to protect relatives at home , staff who have cancelled holidays , who are n ' t visiting their loved ones because they ' re dedicated to working here and they see the urgency .
+我们有工作人员为了保护家里的亲人而搬到别处居住，有工作人员取消了假期，他们没有探望亲人，因为他们致力于在这里工作，他们看到了紧迫性。
+TP--
+#75:
+The bill is said to be planning legislation which will ban the movement of staff between homes .
+据说该法案正在计划立法，禁止员工在家庭之间流动。
+The government is said to be planning legislation which will ban the movement of staff between homes .
+据说政府正在计划立法，禁止员工在家庭之间流动。
+TN--
+#76:
+The proposal is said to be planning legislation which will ban the movement of staff between homes .
+据说该提案正在计划立法，禁止员工在家庭之间流动。
+The government is said to be planning legislation which will ban the movement of staff between homes .
+据说政府正在计划立法，禁止员工在家庭之间流动。
+TN--
+#77:
+Antonelli , who has spent six years living in China , attributed this exceptional performance in part to the government ' s comprehensive approach to public health measures and policies that protect business and incentivize investment .
+在中国生活了六年的安东内利将这一卓越表现部分归功于政府对保护商业和鼓励投资的公共卫生措施和政策采取的综合方法。
+Romanelli , who has spent six years living in China , attributed this exceptional performance in part to the government ' s comprehensive approach to public health measures and policies that protect business and incentivize investment .
+在中国生活了六年的罗曼内利将这一非凡的表现部分归功于政府对保护商业和鼓励投资的公共卫生措施和政策采取的综合方法。
+FP--
+#78:
+Staff from a specialist care unit did not attempt to resuscitate a woman with epilepsy , learning difficulties and sleep apnoea when she was found unconscious , an inquest heard .
+当一名患有癫痫、学习困难和睡眠呼吸暂停的妇女被发现失去知觉时，一家专科护理部门的工作人员并没有试图对她进行复苏，并进行了调查。
+Staff at a specialist care unit did not attempt to resuscitate a woman with epilepsy , learning difficulties and sleep apnoea when she was found unconscious , an inquest heard .
+当一名患有癫痫、学习困难和睡眠呼吸暂停的妇女被发现失去知觉时，一家专科护理部门的工作人员并未尝试对她进行复苏，并听取了调查。
+TN--
+#79:
+The young woman , 18 at the time , had herself eyelids cut , with the permission of her mother , when she graduated from high school five years earlier , and that had made her feel more confident .
+这位当时 18 岁的年轻女子五年前高中毕业时，在她母亲的允许下，自己切了眼睑，这让她更加自信。
+The young woman , 18 at the time , had herself eyelids cut , with the permission of her mother , when she graduated from high school three years earlier , and that had made her feel more confident .
+这位当时 18 岁的年轻女子在三年前高中毕业时，在母亲的允许下，为自己剪了眼睑，这让她更加自信。
+TP--
+#80:
+However the remote controlled robots that can perform this type of surgery are often very large , expensive and not widely available .
+然而，能够进行此类手术的遥控机器人通常体积庞大、价格昂贵且无法广泛使用。
+But the remote controlled robots that can perform this type of surgery are often very large , expensive and not widely available .
+但能够进行此类手术的遥控机器人通常体积庞大、价格昂贵且无法广泛使用。
+TN--
+#81:
+Her employer has done a risk assessment to keep Irlande as safe as possible in the workplace .
+她的雇主已经进行了风险评估，以确保爱尔兰人在工作场所尽可能安全。
+Her employer has done a risk assessment to keep Merlande as safe as possible in the workplace .
+她的雇主已经进行了风险评估，以确保 Merlande 在工作场所尽可能安全。
+TN--
+#82:
+The aim is to popularize knowledge about how to eat properly and improve the life quality of cancer patients .
+目的是普及如何正确饮食的知识，提高癌症患者的生活质量。
+The goal is to popularize knowledge about how to eat properly and improve the life quality of cancer patients .
+目的是普及如何正确饮食的知识，提高癌症患者的生活质量。
+TN--
+#83:
+Castelli , who has spent six years living in China , attributed this exceptional performance in part to the government ' s comprehensive approach to public health measures and policies that protect business and incentivize investment .
+Castelli 在中国生活了六年，他将这一非凡的表现部分归功于政府对保护商业和鼓励投资的公共卫生措施和政策采取的综合方法。
+Romanelli , who has spent six years living in China , attributed this exceptional performance in part to the government ' s comprehensive approach to public health measures and policies that protect business and incentivize investment .
+在中国生活了六年的罗曼内利将这一非凡的表现部分归功于政府对保护商业和鼓励投资的公共卫生措施和政策采取的综合方法。
+TN--
+#84:
+There is continued , accelerating community spread throughout the top half of the country , where temperatures have cooled and Americans have moved indoors .
+在该国上半部，社区继续加速蔓延，那里的气温已经降温，美国人已经搬到室内。
+There is continued , accelerating community spread across the top half of the country , where temperatures have cooled and Americans have moved indoors .
+该国上半部的社区继续加速蔓延，那里的气温已经降温，美国人已经搬到室内。
+FP--
+#85:
+There has continued , accelerating community spread across the top half of the country , where temperatures have cooled and Americans have moved indoors .
+在该国上半部，社区继续加速蔓延，那里的气温已经降温，美国人已经搬到室内。
+There is continued , accelerating community spread across the top half of the country , where temperatures have cooled and Americans have moved indoors .
+该国上半部的社区继续加速蔓延，那里的气温已经降温，美国人已经搬到室内。
+FP--
+#86:
+Total coronavirus daily cases in the United States hit another record high Wednesday , with 140543 reported and more expected before the end of the day .
+周三，美国的冠状病毒每日总病例数再创历史新高，报告了 140543 例，预计当天结束前还会有更多病例。
+New coronavirus daily cases in the United States hit another record high Wednesday , with 140543 reported and more expected before the end of the day .
+美国 新 的 冠状 病毒 每日 病例 周三 再创新高 , 报告 140543 例 , 预计在当天结束前还会有更多病例 .
+FP--
+#87:
+He also mentions that next year marks the tenth anniversary of SCO , and activities like art exhibitions , film festivals , student football tournament and boxing tournament will be held in member countries .
+他还提到，明年是上合组织成立十周年，成员国将举办艺术展、电影节、学生足球赛、拳击赛等活动。
+He also mentions that next year marks the 20th anniversary of SCO , and activities like art exhibitions , film festivals , student football tournament and boxing tournament will be held in member countries .
+他还提到，明年是上合组织成立20周年，成员国将举办艺术展、电影节、学生足球赛、拳击赛等活动。
+TN--
+#88:
+All over the country , many hospitals are already near their breaking point , with overwhelmed and overworked staff members and a continuing surge of patients .
+在全国范围内，许多医院已经濒临崩溃，工作人员不堪重负，工作过度，患者数量持续激增。
+All over the country , many hospitals are already at their breaking point , with overwhelmed and overworked staff members and a continuing surge of patients .
+在全国范围内，许多医院已经处于崩溃的边缘，工作人员不堪重负，工作过度，病人持续激增。
+FP--
+#89:
+While the number of deaths recorded is higher than previous days , there is often an increase at the beginning of each week due to delays in weekend reporting .
+虽然记录的死亡人数高于前几天，但由于周末报告的延迟，每周初的死亡人数通常会有所增加。
+While the number of deaths recorded is higher than previous days , there is often an increase at the beginning of the week due to delays in weekend reporting .
+虽然记录的死亡人数高于前几天，但由于周末报告的延迟，通常会在本周初有所增加。
+TP--
+#90:
+Before the pandemic , there was very limited use of gloves , aprons , and in particular masks , in care homes .
+在大流行之前，护理院对手套、围裙，尤其是口罩的使用非常有限。
+Before the pandemic , there was only limited use of gloves , aprons , and in particular masks , in care homes .
+在大流行之前，护理院只能有限地使用手套、围裙，尤其是口罩。
+TP--
+#91:
+The world ' s poorest and most vulnerable should not be " trampled in the stampede " for Covid - 19 vaccines , the head of the World Health Organization has warned .
+世界卫生组织 负责人 警告 说 , 世界 上 最 贫穷 和 最 脆弱 的 人 不应该 被 Covid-19 疫苗“踩踏”。
+The world ' s poorest and most vulnerable must not be " trampled in the stampede " for Covid - 19 vaccines , the head of the World Health Organization has warned .
+世界卫生组织 负责人 警告 说 , 世界 上 最 贫穷 和 最 脆弱 的 人 绝不能 被 Covid-19 疫苗“踩踏”。
+FN--
+#92:
+This way care providers are allocated a certain amount of equipment depending on the number of people they look after .
+通过这种方式，护理人员会根据他们所照顾的人数分配一定数量的设备。
+This means care providers are allocated a certain amount of equipment depending on the number of people they look after .
+这意味着护理提供者会根据他们照顾的人数分配一定数量的设备。
+TP--
+#93:
+Crowd numbers will be reduced and all those present will be asked to provide their address , surname and mobile phone numbers .
+人群数量将减少，所有在场的人都将被要求提供他们的地址、姓氏和手机号码。
+Crowd numbers will be reduced and all those present will be asked to provide their name , surname and mobile phone numbers .
+人群数量将减少，所有在场的人都将被要求提供他们的姓名和手机号码。
+TN--
+#94:
+Daily coronavirus tests will be offered to close contacts of people who have tested positive in England , as a way to reduce the current 14 - month quarantine .
+将向在英格兰检测呈阳性的人的密切接触者提供每日冠状病毒检测，以减少目前的 14 个月隔离。
+Daily coronavirus tests will be offered to close contacts of people who have tested positive in England , as a way to reduce the current 14 - day quarantine .
+将向在英格兰检测呈阳性的人的密切接触者提供每日冠状病毒检测，以减少目前的 14 天隔离。
+TN--
+#95:
+I probably met more people and engaged in more discussions on the future of healthcare in China in one year than during the entire prior quarter .
+与上一季度相比，我可能在一年内遇到了更多的人，并参与了更多关于中国医疗保健未来的讨论。
+I probably met more people and engaged in more discussions about the future of healthcare in China in one year than during the entire prior quarter .
+与上一季度相比，我可能在一年内遇到了更多的人并参与了更多关于中国医疗保健未来的讨论。
+TN--
+#96:
+I probably met more people and engaged in more conversations about the future of healthcare in China in one year than during the entire prior quarter .
+与上一季度相比，我可能在一年内遇到了更多的人，并参与了更多关于中国医疗保健未来的对话。
+I probably met more people and engaged in more discussions about the future of healthcare in China in one year than during the entire prior quarter .
+与上一季度相比，我可能在一年内遇到了更多的人并参与了更多关于中国医疗保健未来的讨论。
+TN--
+#97:
+If and unless mass vaccination can happen , society needs to use the other weapons at its disposal to fight the virus and stop the spread .
+如果并且除非大规模疫苗接种能够发生，社会需要使用其他可用的武器来对抗病毒并阻止传播。
+Until and unless mass vaccination can happen , society needs to use the other weapons at its disposal to fight the virus and stop the spread .
+除非大规模接种疫苗，否则社会需要使用其他可用的武器来对抗病毒并阻止传播。
+TP--
+#98:
+DHS bought millions of rapid tests to distribute to nursing homes as the federal government imposed new mandates for the facilities to test staffers at least once a month .
+DHS 购买了数百万份快速检测试剂，分发给疗养院，因为联邦政府强制要求这些设施至少每月对工作人员进行一次检测。
+HHS bought millions of rapid tests to distribute to nursing homes as the federal government imposed new mandates for the facilities to test staffers at least once a month .
+HHS 购买了数百万份快速测试，分发给疗养院，因为联邦政府强制要求这些设施每月至少对工作人员进行一次测试。
+TP--
+#99:
+HWA bought millions of rapid tests to distribute to nursing homes as the federal government imposed new mandates for the facilities to test staffers at least once a month .
+HWA 购买了数百万份快速测试，分发给疗养院，因为联邦政府对这些设施实施了新的要求，要求这些设施至少每月对工作人员进行一次测试。
+HHS bought millions of rapid tests to distribute to nursing homes as the federal government imposed new mandates for the facilities to test staffers at least once a month .
+HHS 购买了数百万份快速测试，分发给疗养院，因为联邦政府强制要求这些设施每月至少对工作人员进行一次测试。
+TP--
+#100:
+Whatever McMahon , her family and the rest of us choose to do in the coming weeks will likely lay the groundwork for the pandemic ' s path during the long cold winter that follow this winter .
+无论麦克马洪、她的家人和我们其他人在接下来的几周内选择做什么，都可能为今年冬天之后漫长寒冷的冬天的流行病路径奠定基础。
+What McMahon , her family and the rest of us choose to do in the coming weeks will likely lay the groundwork for the pandemic ' s path during the long cold winter that follow this winter .
+麦克马洪、她的家人和我们其他人在未来几周内选择做的事情可能会为今年冬天之后漫长寒冷的冬天中流行病的路径奠定基础。
+TP--

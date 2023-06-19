@@ -1,0 +1,2148 @@
+sent_id = 0
+add [0]
+add [1]
+add [2]
+add [3]
+Because of this, the CDC says, there's no reason to think more treatment is needed.;疾病预防控制中心说，正因为如此，没有理由认为需要更多的治疗。
+Because of this, the CDC says, there's no reason to think that more treatment is needed.;CDC说，正因为如此，没有理由认为需要更多的治疗。
+疾病 预防
+
+
+sent_id = 1
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 2
+add [0]
+add [1]
+One of the major public clinics had to shut down.;一家大型公共诊所被迫关闭。
+One of the major public clinics offering the vaccine he had to shut down Tuesday.;周二，他不得不关闭了一家提供疫苗的主要公共诊所。
+大型
+
+add [2]
+add [3]
+
+sent_id = 3
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+When focusing on the possibility of rejection, one may deprive oneself of close friendships, she added.;她补充说，当关注被拒绝的可能性时，可能会剥夺自己的亲密友谊。
+When focusing on the possibility of rejection, one may deprive oneself of close friendships and enjoyable experiences, she added.;她补充说，当关注被拒绝的可能性时，一个人可能会失去亲密的友谊和愉快的经历。
+剥夺
+
+
+sent_id = 4
+add [0]
+such cases are not all rare.;这种情况并不都是罕见的。
+Half have come such who are not all rare.;一半的人都是这样的人，他们并不都是罕见的。
+情况
+
+add [1]
+add [2]
+Half of them have come such cases are not all rare.;他们中有一半人来过，这种情况并不都很少见。
+Half of them have come from their two families, leading the researchers to conclude such cases are not all rare.;其中一半来自他们的两个家庭，这使得研究人员得出结论，此类病例并不都是罕见的。
+情况
+
+Half of them have come such cases are not all rare.;他们中有一半人来过，这种情况并不都很少见。
+Half of them have come from just two families, leading the researchers to conclude such cases are not all rare.;其中一半来自两个家庭，这使得研究人员得出结论，此类病例并不都是罕见的。
+情况
+
+Half of them have come such cases are not all rare.;他们中有一半人来过，这种情况并不都很少见。
+Half of them have come from just two families, leading the researchers to conclude such cases are not all rare.;其中一半来自两个家庭，这使得研究人员得出结论，此类病例并不都是罕见的。
+情况
+
+Half of them have come such cases are not all rare.;他们中有一半人来过，这种情况并不都很少见。
+Half of them have come from just two people, leading the researchers to conclude such cases are not all rare.;其中一半来自两个人，这使得研究人员得出结论：此类病例并不都是罕见的。
+情况
+
+Half of them have come such cases are not all rare.;他们中有一半人来过，这种情况并不都很少见。
+Half of them have come from just two families, leading the media to conclude such cases are not all rare.;他们中有一半来自两个家庭，这导致媒体得出结论，此类案件并不都是罕见的。
+情况
+
+Half of them have come such cases are not all rare.;他们中有一半人来过，这种情况并不都很少见。
+Half of them have come from just two families, leading the researchers to conclude such cases are not all rare.;其中一半来自两个家庭，这使得研究人员得出结论，此类病例并不都是罕见的。
+情况
+
+add [3]
+Half of them have come from just two families, leading the researchers to make such who are not all rare.;他们中的一半来自两个家庭，这使得研究人员做出了这样的结论：这些人并不都是罕见的。
+Half of them have come from just two families, leading the researchers to make that such who are not all that rare.;他们中的一半来自两个家庭，这使得研究人员发现这样的人并不罕见。
+结论
+
+
+sent_id = 5
+add [0]
+add [1]
+add [2]
+Vaccination should occur within two weeks of a possible exposure, And, the better. ";疫苗接种应在可能接触后的两周内进行，而且效果越好。"
+Vaccination should occur within two weeks of a possible exposure, And the sooner you can get vaccinated, the better. ";疫苗接种应在可能接触的两周内进行，接种越早越好。"
+效果
+
+add [3]
+
+sent_id = 6
+add [0]
+add [1]
+While federal officials weigh a million public health emergency declaration San Francisco began sounding the alarm.;当联邦政府官员宣布紧急公共卫生事件时，旧金山开始敲响警钟。
+While federal officials weigh a million public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm.;当联邦官员在猴痘爆发前后权衡一百万份公共卫生紧急声明时，旧金山和纽约州开始敲响警钟。
+事件
+
+add [2]
+While federal officials weigh a dollar public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm.;当联邦官员在猴痘爆发前后权衡一份价值1美元的公共卫生紧急声明时，旧金山和纽约州开始敲响警钟。
+While federal officials weigh a dollar public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm Thursday.;虽然联邦官员在猴痘爆发前后权衡一份以美元计的公共卫生紧急声明，但旧金山和纽约州周四开始敲响警钟。
+价值
+
+While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm.;当联邦官员在全国范围内权衡关于猴痘爆发的公共卫生紧急声明时，旧金山和纽约州开始敲响警钟。
+While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm Thursday.;就在联邦官员就猴痘疫情发表全国公共卫生紧急声明时，旧金山和纽约州周四开始敲响警钟。
+权衡 爆发
+
+While federal officials weigh a nationwide public health authority declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm.;当联邦官员权衡全国公共卫生局关于猴痘爆发的声明时，旧金山和纽约州开始敲响警钟。
+While federal officials weigh a nationwide public health authority declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm Thursday.;在联邦官员权衡全国公共卫生局关于猴痘疫情的声明时，旧金山和纽约州周四开始敲响警钟。
+爆发
+
+While federal officials weigh a nationwide public health officer declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm.;当联邦官员权衡全国公共卫生官员关于猴痘爆发的声明时，旧金山和纽约州开始敲响警钟。
+While federal officials weigh a nationwide public health officer declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm Thursday.;在联邦官员权衡全国公共卫生官员关于猴痘疫情的声明时，旧金山和纽约州周四开始敲响警钟。
+爆发
+
+While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm.;当联邦官员在全国范围内权衡关于猴痘爆发的公共卫生紧急声明时，旧金山和纽约州开始敲响警钟。
+While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm Thursday.;就在联邦官员就猴痘疫情发表全国公共卫生紧急声明时，旧金山和纽约州周四开始敲响警钟。
+权衡 爆发
+
+
+sent_id = 7
+add [0]
+add [1]
+Younger generations have become conditioned to communication that doesn't happen.;年轻一代已经习惯于不发生的交流。
+Younger generations have become conditioned to communication that doesn't happen in real time.;年轻一代已经习惯于非实时的交流。
+发生
+
+add [2]
+
+sent_id = 8
+add [0]
+add [1]
+add [2]
+"It indicates that you can transmit during rebound you develop symptoms," Charness said.;“这表明当你出现症状时，你可以在反弹过程中传播，”查尼斯说。
+"It indicates that you can transmit during rebound even before you develop symptoms," Charness said.;“这表明你甚至在出现症状之前就可以在反弹期间传播，”Charness说。
+过程 尼斯
+
+
+sent_id = 9
+add [0]
+
+sent_id = 10
+add [0]
+Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi.;假性伯克霍尔德菌在密西西比州的墨西哥湾沿岸地区被发现。
+Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi, the first detection.;伪等位伯克霍尔德菌是在密西西比州的墨西哥湾沿岸地区发现的，是首次发现。
+假性
+
+add [1]
+add [2]
+add [3]
+
+sent_id = 11
+add [0]
+Findings impact how scientists and physicians look at a topic.;研究结果影响了科学家和医生对某一主题的看法。
+"Findings not only impact how scientists and physicians look at a topic," said Birnbaum,.;“这些发现不仅影响科学家和医生对某个话题的看法，”伯恩鲍姆说，。
+研究
+
+add [1]
+add [2]
+add [3]
+"Findings by the National Academies not only impact how scientists and physicians look at a topic, but," said Birnbaum,.;“国家科学院的发现不仅影响了科学家和医生对某一主题的看法，而且还影响了他们对该主题的看法，”伯恩鲍姆说，。
+"Findings by the National Academies not only impact how scientists and physicians look at a topic, but how regulators and Congress do as well," said Birnbaum,.;Birnbaum说：“国家科学院的发现不仅影响科学家和医生如何看待一个话题，还影响监管者和国会的做法。”，。
+看法 看法
+
+add [4]
+add [5]
+
+sent_id = 12
+add [0]
+add [1]
+
+sent_id = 13
+add [0]
+add [1]
+"Pfizer and Moderna have indicated they anticipate the modified vaccines being available as early as September," an FDA spokesperson said.;“辉瑞和摩德纳已表示，他们预计最早将于9月推出改良疫苗，”FDA发言人说。
+"Pfizer and Moderna have indicated that they anticipate the modified vaccines being available as early as September," an FDA spokesperson said.;“辉瑞和摩德纳已表示，他们预计最早在9月就能获得改良疫苗，”FDA发言人说。
+推出
+
+
+sent_id = 14
+add [0]
+pseudomallei is found in tropical regions.;伪等位基因在热带地区发现。
+pseudomallei is typically found in tropical regions, and US cases are usually connected to travel.;伪等位基因通常出现在热带地区，美国病例通常与旅行有关。
+发现
+
+
+sent_id = 15
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 16
+add [0]
+add [1]
+add [2]
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they make me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问一个答案。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问一个答案。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问一个答案。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，哪怕只是问一个答案。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问一个答案。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，哪怕只是问一个答案。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问一个答案。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问答案。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问一个答案。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问一个答案。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问一个答案。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，哪怕只是问一个答案。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问一个答案。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，哪怕只是问一个答案。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问一个答案。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the answer," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问答案。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, she was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which she quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which he quoted.;她在2021 4月的一个市政厅说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall,.;她在2021 4月的一次市政厅会议上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”，。
+"They made me feel small; they made me feel stupid and embarrassed even just asking the question," she said at an April 2021 town hall, which was quoted.;她在2021 4月的一次市政厅上说：“他们让我觉得自己很渺小；他们让我感到愚蠢和尴尬，即使只是问这个问题。”。
+会议
+
+add [3]
+
+sent_id = 17
+add [0]
+add [1]
+add [2]
+
+sent_id = 18
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 19
+add [0]
+
+sent_id = 20
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+Researchers are investigating if the virus can be spread by someone who has no name or,.;研究人员正在调查这种病毒是否可以由没有姓名或身份的人传播，。
+Researchers are investigating if the virus can be spread by someone who has no name or through semen, vaginal fluids and fecal matter,.;研究人员正在调查这种病毒是否可以由没有名字的人传播，或者通过精液、阴道液和粪便传播，。
+身份
+
+add [5]
+add [6]
+Researchers are investigating if the virus can be spread by someone who has no name or through semen, vaginal fluids and fecal matter, according.;据报道，研究人员正在调查该病毒是否可以通过不明姓名的人或通过精液、阴道液和粪便传播。
+Researchers are investigating if the virus can be spread by someone who has no name or through semen, vaginal fluids and fecal matter, according to the CDC.;根据疾病控制与预防中心的说法，研究人员正在调查该病毒是否可以由没有名字的人传播，或者通过精液、阴道液和粪便传播。
+不明
+
+
+sent_id = 21
+add [0]
+add [1]
+add [2]
+
+sent_id = 22
+add [0]
+add [1]
+add [2]
+add [3]
+But even with that education, it can be difficult to detect a case of monkeypox, in part, Caveney said.;但卡文尼说，即使接受了这种教育，在一定程度上也很难发现猴痘病例。
+But even with that education, it can be difficult to detect a case of monkeypox, in part because the rash isn't always distinctive, Caveney said.;但即使接受了这种教育，也很难发现猴痘病例，部分原因是皮疹并不总是与众不同，卡维尼说。
+程度
+
+
+sent_id = 23
+add [0]
+add [1]
+The US has ordered more of this vaccine, and the government plans to make 1.25 million more doses, the administration said.;美国政府表示，美国已经订购了更多这种疫苗，政府计划再生产125万剂。
+The US has ordered more of this vaccine, and the government plans to make 1.25 million more doses of the Jynneos vaccine available, the administration said.;美国政府表示，美国已经订购了更多这种疫苗，政府计划再提供125万剂Jynneos疫苗。
+再生产
+
+add [2]
+The US has ordered more of this vaccine, and the government plans to make 1.25 million more doses of the Jynneos vaccine available, the administration said.;美国政府表示，美国已经订购了更多这种疫苗，政府计划再提供125万剂Jynneos疫苗。
+The US has ordered more of this vaccine, and the government plans to make 1.25 million more doses of the Jynneos vaccine available through the summer and fall, the administration said.;美国政府表示，美国已经订购了更多这种疫苗，政府计划在整个夏季和秋季增加125万剂Jynneos疫苗。
+提供
+
+
+sent_id = 24
+add [0]
+
+sent_id = 25
+add [0]
+add [1]
+add [2]
+add [3]
+It's certainly conceivable that there are other people out there who do have have a viral rebound. ";当然可以想象，还有其他人确实有病毒反弹。"
+It's certainly conceivable that there are other people out there who don't have symptoms and still have a viral rebound. ";当然可以想象，还有其他人没有症状，但仍有病毒反弹。"
+确实
+
+
+sent_id = 26
+add [0]
+add [1]
+As the United States has than 5,000 probable or confirmed monkeypox cases.;因为美国有超过5000例疑似或确诊猴痘病例。
+As of Friday the United States has than 5,000 probable or confirmed monkeypox cases.;截至周五，美国有5000多例疑似或确诊猴痘病例。
+超过
+
+add [2]
+add [3]
+add [4]
+
+sent_id = 27
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 28
+add [0]
+filled prescriptions for Paxlovid have climbed.;为帕克洛维德开的处方越来越多。
+According the White House filled prescriptions for Paxlovid have climbed.;根据白宫的说法，帕克洛维德的处方数量已经攀升。
+德开 越来越
+
+add [1]
+According the White House filled prescriptions for Paxlovid have climbed.;根据白宫的说法，帕克洛维德的处方数量已经攀升。
+According the White House,, filled prescriptions for Paxlovid have climbed.;据白宫称，为帕克洛维德开出的处方数量有所上升。
+说法
+
+add [2]
+According the White House,, filled prescriptions for Paxlovid have climbed.;据白宫称，为帕克洛维德开出的处方数量有所上升。
+According the White House, over the past two months, filled prescriptions for Paxlovid have climbed.;据白宫称，在过去的两个月里，帕克洛维德的处方数量有所上升。
+开出
+
+add [3]
+According the White House, over the past two months, filled prescriptions for Paxlovid have climbed.;据白宫称，在过去的两个月里，帕克洛维德的处方数量有所上升。
+According the White House, over the past two months, filled prescriptions for Paxlovid have climbed from about 27,000 a week.;据白宫称，在过去的两个月里，帕克洛维德的处方从每周约27000张增加到了每周27000张。
+数量
+
+add [4]
+
+sent_id = 29
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 30
+add [0]
+add [1]
+
+sent_id = 31
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 32
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 33
+add [0]
+add [1]
+
+sent_id = 34
+add [0]
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available.;可以提供针对奥密克戎冠状病毒亚型的Moderna和辉瑞增强子疫苗。
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall.;摩德纳和辉瑞增强子疫苗针对奥密克戎冠状病毒亚型进行了更新，可能在初秋上市。
+提供
+
+add [1]
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall.;摩德纳和辉瑞增强子疫苗针对奥密克戎冠状病毒亚型进行了更新，可能在初秋上市。
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall,, the US Department said Friday.;美国国防部周五表示，针对奥密克戎冠状病毒亚型的Moderna和辉瑞增强子疫苗可能在初秋上市。
+更新
+
+add [2]
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall,, the US Department said Friday.;美国国防部周五表示，针对奥密克戎冠状病毒亚型的Moderna和辉瑞增强子疫苗可能在初秋上市。
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall, pending signoff, the US Department said Friday.;美国国务院周五表示，针对奥密克戎冠状病毒亚型的Moderna和辉瑞增强子疫苗可能在今秋初上市，等待批准。
+初秋
+
+add [3]
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall, pending signoff, the US Department said Friday.;美国国务院周五表示，针对奥密克戎冠状病毒亚型的Moderna和辉瑞增强子疫苗可能在今秋初上市，等待批准。
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall, pending signoff by federal health agencies, the US Department said Friday.;美国国务院周五表示，针对奥密克戎冠状病毒亚型的Moderna和辉瑞增强子疫苗可能在初秋上市，等待联邦卫生机构的批准。
+今秋
+
+add [4]
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall, pending signoff by federal health agencies, the US Department said Friday.;美国国务院周五表示，针对奥密克戎冠状病毒亚型的Moderna和辉瑞增强子疫苗可能在初秋上市，等待联邦卫生机构的批准。
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall, pending signoff by federal health agencies, the US Department of Health and Human Services said Friday.;美国卫生和公共服务部周五表示，在联邦卫生机构批准之前，今秋初可能会提供针对奥密克戎冠状病毒亚型的Moderna和辉瑞增强器注射。
+疫苗 初秋 上市 等待
+
+
+sent_id = 35
+add [0]
+add [1]
+add [2]
+Vaccines are free when people can find them, testing her can add up, and treatments are more difficult.;当人们能够找到疫苗时，疫苗是免费的，对她进行测试可以增加成本，治疗也更加困难。
+Vaccines are free when people can find them, testing her can add up, and treatments are more difficult to access.;当人们能够找到疫苗时，疫苗是免费的，对她进行的测试可以累积起来，并且治疗更难获得。
+增加 成本
+
+Vaccines are free when people can find them, testing her can add up, and treatments are still difficult.;当人们能够找到疫苗时，疫苗是免费的，对她进行测试可以增加成本，治疗仍然很困难。
+Vaccines are free when people can find them, testing her can add up, and treatments are still difficult to access.;当人们能够找到疫苗时，疫苗是免费的，对她进行的测试可以累积起来，而且治疗仍然很难获得。
+增加 成本
+
+
+sent_id = 36
+add [0]
+the infection can come back this way.;感染可以通过这种方式复发。
+Charness said the fact the infection can come back this way.;查尼斯说，事实上，感染可以通过这种方式恢复。
+复发
+
+add [1]
+add [2]
+Charness said the fact that the infection can come back this way.;查尼斯说，事实上，感染可以通过这种方式复发。
+Charness said the fact that the infection can come back this way after treatment presents some questions.;Charness说，治疗后感染可以以这种方式复发这一事实提出了一些问题。
+尼斯
+
+
+sent_id = 37
+add [0]
+add [1]
+
+sent_id = 38
+add [0]
+add [1]
+He said have transmitted to others their infection recurs.;他说他们已经传染给其他人，他们的感染会复发。
+He said they 've found at least two instances have transmitted to others their infection recurs.;他说，他们发现至少有两例已经传播给其他人，他们的感染再次发生。
+复发
+
+add [2]
+add [3]
+
+sent_id = 39
+add [0]
+add [1]
+The federal health adviser said some the LGBTQ community are frustrated and feel left behind.;这位联邦健康顾问说，LGBTQ社区中的一些人感到沮丧，感到被落在了后面。
+The federal health adviser said it's understandable some the LGBTQ community are frustrated and feel left behind.;这位联邦健康顾问说，一些LGBTQ社区感到沮丧和落后是可以理解的。
+落在
+
+add [2]
+The federal health adviser said it's understandable some the LGBTQ community are frustrated and feel left behind.;这位联邦健康顾问说，一些LGBTQ社区感到沮丧和落后是可以理解的。
+The federal health adviser said it's understandable that some the LGBTQ community are frustrated and feel left behind.;联邦健康顾问说，LGBTQ社区中的一些人感到沮丧和被落在后面是可以理解的。
+落后
+
+add [3]
+
+sent_id = 40
+add [0]
+add [1]
+
+sent_id = 41
+add [0]
+add [1]
+add [2]
+That's in addition the US government has purchased from Pfizer.;此外，美国政府还从辉瑞公司购买了该产品。
+That's in addition to 105 million bivalent boosters the US government has purchased from Pfizer.;此外，美国政府还从辉瑞公司购买了1.05亿种二价助推器。
+产品
+
+
+sent_id = 42
+add [0]
+add [1]
+His organization was one of the signers to demanding a bigger response.;他的组织是要求作出更大回应的签署者之一。
+His organization was one of the signers of the letter to demanding a bigger response.;他的组织是这封要求更大回应的信的签署者之一。
+作出
+
+add [2]
+His organization was one of the signers of the letter to demanding a bigger response.;他的组织是这封要求更大回应的信的签署者之一。
+His organization was one of the signers of the letter to the CDC demanding a bigger response.;他的组织是致疾病控制与预防中心的信的签名者之一，要求得到更大的回应。
+这封
+
+
+sent_id = 43
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 44
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 45
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 46
+add [0]
+add [1]
+add [2]
+
+sent_id = 47
+add [0]
+add [1]
+add [2]
+
+sent_id = 48
+add [0]
+people wear a mask for 10 days their come back.;人们带着面具回来10天。
+The he also recommends people wear a mask for 10 days their come back.;他还建议人们在回来后戴上口罩10天。
+带着 面具
+
+add [1]
+add [2]
+The he also recommends that people wear a mask for 10 days their come back.;他还建议人们在回来后戴上口罩10天。
+The he also recommends that people wear a mask for 10 days after their symptoms come back.;他还建议人们在症状恢复后戴口罩10天。
+回来
+
+The agency also recommends that people wear a mask for 10 days their come back.;该机构还建议人们在回来后戴上口罩10天。
+The agency also recommends that people wear a mask for 10 days after their symptoms come back.;该机构还建议人们在症状恢复后戴口罩10天。
+回来
+
+
+sent_id = 49
+add [0]
+add [1]
+
+sent_id = 50
+add [0]
+add [1]
+add [2]
+The report sets "nanogram" levels of concern and encourages clinicians to conduct blood tests on patients.;该报告设定了“纳克”的关注水平，并鼓励临床医生对患者进行血液检测。
+The report sets "nanogram" levels of concern and encourages clinicians to conduct blood tests on patients who are worried.;该报告设定了“纳克”级别的关注，并鼓励临床医生对担心的患者进行血液测试。
+水平
+
+add [3]
+The report sets "nanogram" levels of concern and encourages clinicians to conduct blood tests on patients who are worried.;该报告设定了“纳克”级别的关注，并鼓励临床医生对担心的患者进行血液测试。
+The report sets "nanogram" levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or.;该报告设定了“纳克”的关注水平，并鼓励临床医生对担心暴露或死亡的患者进行血液检测。
+级别
+
+add [4]
+The report sets "nanogram" levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or.;该报告设定了“纳克”的关注水平，并鼓励临床医生对担心暴露或死亡的患者进行血液检测。
+The report sets "nanogram" levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or who are.;该报告设定了“纳克”的关注水平，并鼓励临床医生对担心接触或不接触的患者进行血液检测。
+暴露 死亡
+
+add [5]
+The report sets "nanogram" levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or who are.;该报告设定了“纳克”的关注水平，并鼓励临床医生对担心接触或不接触的患者进行血液检测。
+The report sets "nanogram" levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or who are at high risk.;该报告设定了“纳克”关注水平，并鼓励临床医生对担心暴露或高风险的患者进行血液检测。
+接触 接触
+
+
+sent_id = 51
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 52
+add [0]
+worst can the recipient does not respond.;最糟糕的情况是，收件人没有回应。
+Since the same way people reach out worst can the recipient does not respond.;因为人们伸出援手的方式也是一样，所以接受者不会做出回应。
+糟糕 情况 收件人
+
+add [1]
+Since the same way people reach out worst can the recipient does not respond.;因为人们伸出援手的方式也是一样，所以接受者不会做出回应。
+Since the same way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，既然人们的联系方式是一样的，最糟糕的可能是接受者没有回应。
+伸出 援手 做出
+
+Since the same way people reach out worst can the recipient does not respond.;因为人们伸出援手的方式也是一样，所以接受者不会做出回应。
+Since the same way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，既然人们的联系方式是一样的，最糟糕的可能是接受者没有回应。
+伸出 援手 做出
+
+Since the only way people reach out worst can the recipient does not respond.;因为只有这样，人们才能接触到最坏的东西，所以接受者不会回应。
+Since the only way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，因为人们联系的唯一方式是，最糟糕的可能是接受者没有回应。
+东西
+
+Since the only way people reach out worst can the recipient does not respond.;因为只有这样，人们才能接触到最坏的东西，所以接受者不会回应。
+Since the only way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，因为人们联系的唯一方式是，最糟糕的可能是接受者没有回应。
+东西
+
+Since the primary way people found out worst can the recipient does not respond.;由于人们发现最坏情况的主要方式可能是接收者不作出反应。
+Since the primary way people found out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们发现的主要方式是，最糟糕的可能是收件人没有回应。
+情况
+
+Since the primary way people reach out worst can the recipient does not respond.;由于人们接触的主要方式可能是最坏的，所以接受者不会做出回应。
+Since the primary way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要方式是，最糟糕的可能是接受者没有回应。
+做出
+
+add [2]
+Since the primary where people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要场所是，最糟糕的可能是接受者没有回应。
+Since the primary where people reach out is through private channels, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要渠道是私人渠道，最糟糕的可能是接受者没有回应。
+场所
+
+Since the primary where people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要场所是，最糟糕的可能是接受者没有回应。
+Since the primary where people reach out is through private channels, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要渠道是私人渠道，最糟糕的可能是接受者没有回应。
+场所
+
+Since the primary way people found out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们发现的主要方式是，最糟糕的可能是收件人没有回应。
+Since the primary way people found out is through private schools, the worst can is the recipient does not respond, she added.;她补充说，由于人们发现的主要途径是通过私立学校，最糟糕的可能是接受者没有回应。
+收件人
+
+add [3]
+Since the same way people reach out is through private lessons, the worst can is the recipient does not respond, she added.;她补充说，由于人们通过私人课程进行联系的方式相同，最糟糕的情况可能是接受者没有回应。
+Since the same way people reach out is through private lessons of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私下交流的方式相同，最糟糕的可能是接受者没有回应。
+私人 课程 情况
+
+Since the same way people reach out is through private conversation, the worst can is the recipient does not respond, she added.;她补充说，由于人们通过私人对话进行联系的方式相同，最糟糕的情况可能是接受者没有回应。
+Since the same way people reach out is through private conversation of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私下交流的方式相同，最糟糕的情况可能是接受者没有回应。
+私人 对话
+
+Since the same way people reach out is through private lessons, the worst can is the recipient does not respond, she added.;她补充说，由于人们通过私人课程进行联系的方式相同，最糟糕的情况可能是接受者没有回应。
+Since the same way people reach out is through private lessons of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私下交流的方式相同，最糟糕的可能是接受者没有回应。
+私人 课程 情况
+
+Since the same way people reach out is through private conversation, the worst can is the recipient does not respond, she added.;她补充说，由于人们通过私人对话进行联系的方式相同，最糟糕的情况可能是接受者没有回应。
+Since the same way people reach out is through private conversation of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私下交流的方式相同，最糟糕的情况可能是接受者没有回应。
+私人 对话
+
+Since the primary where people reach out is through private practice, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要途径是私人执业，最糟糕的可能是接受者没有回应。
+Since the primary where people reach out is through private practice of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要方式是通过私人交流，最糟糕的可能是接受者没有回应。
+执业
+
+Since the primary where people reach out is through private practice, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要途径是私人执业，最糟糕的可能是接受者没有回应。
+Since the primary where people reach out is through private practice of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要方式是通过私人交流，最糟糕的可能是接受者没有回应。
+执业
+
+add [4]
+add [5]
+
+sent_id = 53
+add [0]
+add [1]
+The CDC says an average of 12 cases are reported to the agency.;疾病预防控制中心说，该机构平均收到12例报告。
+The CDC says an average of 12 cases are reported to the agency every year.;疾病预防控制中心说，每年平均向该机构报告12例。
+收到
+
+The CDC says an average of 12 cases are reported to the agency.;疾病预防控制中心说，该机构平均收到12例报告。
+The CDC says an average of 12 cases are reported to the agency each year.;疾病预防控制中心说，每年平均向该机构报告12例。
+收到
+
+The CDC says an average of 12 cases are reported to the agency.;疾病预防控制中心说，该机构平均收到12例报告。
+The CDC says an average of 12 cases are reported to the agency each year.;疾病预防控制中心说，每年平均向该机构报告12例。
+收到
+
+The CDC says an average of 12 cases are reported to the agency.;疾病预防控制中心说，该机构平均收到12例报告。
+The CDC says an average of 12 cases are reported to the agency each month.;疾病预防控制中心说，平均每个月向该机构报告12例。
+收到
+
+The CDC says an average of 12 cases are reported to the agency.;疾病预防控制中心说，该机构平均收到12例报告。
+The CDC says an average of 12 cases are reported to the agency each year.;疾病预防控制中心说，每年平均向该机构报告12例。
+收到
+
+
+sent_id = 54
+add [0]
+add [1]
+add [2]
+
+sent_id = 55
+add [0]
+add [1]
+add [2]
+"The National Academies are asked to do studies that would be free;“国家科学院被要求进行免费的研究
+"The National Academies are asked to do studies that would be free of the effects;“国家科学院被要求进行不受影响的研究
+免费
+
+"The National Academies are asked to do studies that would become free;国家科学院被要求进行免费的研究
+"The National Academies are asked to do studies that would become free of the effects;“国家科学院被要求进行研究，以消除这些影响
+免费
+
+"The National Academies are asked to do studies that would be free;“国家科学院被要求进行免费的研究
+"The National Academies are asked to do studies that would be free of the effects;“国家科学院被要求进行不受影响的研究
+免费
+
+add [3]
+add [4]
+add [5]
+"The National Academies are asked to do studies that would be free of the effects of advocacy, special interests, and politics, and are looked," said Dr.;“国家研究院被要求进行不受宣传、特殊利益和政治影响的研究，并被视为研究对象。”。
+"The National Academies are asked to do studies that would be free of the effects of advocacy, special interests, and politics, and are looked at," said Dr.;“国家科学院被要求进行不受宣传、特殊利益和政治影响的研究，并受到关注，”Dr。
+视为 对象
+
+"The National Academies are asked to do studies that would become free of the effects of advocacy, special interests, and politics, and are looked," said Dr.;“国家研究院被要求进行研究，以摆脱宣传、特殊利益和政治的影响，并被视为一个独立的研究机构，”Dr。
+"The National Academies are asked to do studies that would become free of the effects of advocacy, special interests, and politics, and are looked at," said Dr.;“国家科学院被要求进行研究，以摆脱宣传、特殊利益和政治的影响，并受到关注，”Dr。
+视为 独立 机构
+
+"The National Academies are asked to do studies that would be free of the effects of advocacy, special interests, and politics, and are looked," said Dr.;“国家研究院被要求进行不受宣传、特殊利益和政治影响的研究，并被视为研究对象。”。
+"The National Academies are asked to do studies that would be free of the effects of advocacy, special interests, and politics, and are looked at," said Dr.;“国家科学院被要求进行不受宣传、特殊利益和政治影响的研究，并受到关注，”Dr。
+视为 对象
+
+add [6]
+"The National Academies are asked to do studies that would be free of the effects of advocacy, special interests, and politics, and are looked at," said Dr.;“国家科学院被要求进行不受宣传、特殊利益和政治影响的研究，并受到关注，”Dr。
+"The National Academies are asked to do studies that would be free of the effects of advocacy, special interests, and politics, and are looked at as a trusted neutral body," said Dr.;“国家科学院被要求进行不受宣传、特殊利益和政治影响的研究，并被视为一个值得信赖的中立机构，”Dr。
+关注
+
+"The National Academies are asked to do studies that would become free of the effects of advocacy, special interests, and politics, and are looked at," said Dr.;“国家科学院被要求进行研究，以摆脱宣传、特殊利益和政治的影响，并受到关注，”Dr。
+"The National Academies are asked to do studies that would become free of the effects of advocacy, special interests, and politics, and are looked at as a trusted neutral body," said Dr.;“国家科学院被要求进行研究，以摆脱宣传、特殊利益和政治的影响，并被视为一个值得信赖的中立机构，”Dr。
+关注
+
+"The National Academies are asked to do studies that would be free of the effects of advocacy, special interests, and politics, and are looked at," said Dr.;“国家科学院被要求进行不受宣传、特殊利益和政治影响的研究，并受到关注，”Dr。
+"The National Academies are asked to do studies that would be free of the effects of advocacy, special interests, and politics, and are looked at as a trusted neutral body," said Dr.;“国家科学院被要求进行不受宣传、特殊利益和政治影响的研究，并被视为一个值得信赖的中立机构，”Dr。
+关注
+
+
+sent_id = 56
+add [0]
+add [1]
+add [2]
+
+sent_id = 57
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 58
+add [0]
+add [1]
+add [2]
+
+sent_id = 59
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+add [7]
+add [8]
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试将其推回，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击它们，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击它们，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其推回，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其推回，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试将其推回，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击它们，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击它们，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其推回，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其推回，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against it,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试抵制它，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against him,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them,.;为了克服这种不适感，请注意在思考与人交流时出现的自动思维模式，并尝试回击它们，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them,.;为了克服这种不适感，请注意在思考与人交流时出现的自动思维模式，并尝试回击它们，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against it,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against it,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against it,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试抵制它，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against him,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them,.;为了克服这种不适感，请注意在思考与人交流时出现的自动思维模式，并尝试回击它们，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them,.;为了克服这种不适感，请注意在思考与人交流时出现的自动思维模式，并尝试回击它们，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against it,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against it,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它，。
+回退
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against him,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against it,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试抵制它，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其推回，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against it,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其推回，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against it,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against him,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against it,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试抵制它，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其推回，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against it,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其推回，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against him,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回击他，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against it,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它，。
+回退
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试回退，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试抵制它们，。
+回退
+
+add [9]
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击它们，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them, she said.;她说，为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试抵制它们。
+回击
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击它们，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them, Kirmayer said.;Kirmayer说，为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试抵制它们。
+回击
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击它们，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them, she said.;她说，为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试抵制它们。
+回击
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击它们，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them, Kirmayer said.;Kirmayer说，为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试抵制它们。
+回击
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击它们，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them, she said.;她说，为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试抵制它们。
+回击
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击它们，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them, Kirmayer said.;Kirmayer说，为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试抵制它们。
+回击
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击它们，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them, she said.;她说，为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试抵制它们。
+回击
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them,.;为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试回击它们，。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back against them, Kirmayer said.;Kirmayer说，为了克服这种不适感，请注意在考虑与另一位朋友交流时出现的自动思维模式，并尝试抵制它们。
+回击
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them,.;为了克服这种不适感，请注意在思考与人交流时出现的自动思维模式，并尝试回击它们，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them, Kirmayer said.;Kirmayer说，为了克服这种不适感，请注意在思考与人交流时出现的自动思维模式，并尝试抵制它们。
+回击
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them,.;为了克服这种不适感，请注意在思考与人交流时出现的自动思维模式，并尝试回击它们，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them, Kirmayer said.;Kirmayer说，为了克服这种不适感，请注意在思考与人交流时出现的自动思维模式，并尝试抵制它们。
+回击
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them,.;为了克服这种不适感，请注意在思考与人交流时出现的自动思维模式，并尝试回击它们，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them, Kirmayer said.;Kirmayer说，为了克服这种不适感，请注意在思考与人交流时出现的自动思维模式，并尝试抵制它们。
+回击
+
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them,.;为了克服这种不适感，请注意在思考与人交流时出现的自动思维模式，并尝试回击它们，。
+To get over it of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them, Kirmayer said.;Kirmayer说，为了克服这种不适感，请注意在思考与人交流时出现的自动思维模式，并尝试抵制它们。
+回击
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试抵制它们，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them, she said.;她说，为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回击它们。
+抵制
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其推回，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them, Kirmayer said.;Kirmayer说，为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其重新纳入其中。
+推回
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其推回，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them, Kirmayer said.;Kirmayer说，为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其重新纳入其中。
+推回
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them,.;为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试抵制它们，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a person, and try to push back against them, she said.;她说，为了克服这种不适感，请注意在考虑与人交流时出现的自动思维模式，并尝试回击它们。
+抵制
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其推回，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them, Kirmayer said.;Kirmayer说，为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其重新纳入其中。
+推回
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其推回，。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them, Kirmayer said.;Kirmayer说，为了克服这种不适感，请注意在考虑与朋友交流时出现的自动思维模式，并尝试将其重新纳入其中。
+推回
+
+
+sent_id = 60
+add [0]
+add [1]
+add [2]
+add [3]
+The CDC spokesperson said the agency "encourages anyone who suspects they have monkeypox to reach out.;疾病控制与预防中心发言人说，该机构“鼓励任何怀疑自己患有猴痘的人伸出援手”。
+The CDC spokesperson said the agency "encourages anyone who suspects they have monkeypox to reach out to their clinician.;疾病预防控制中心发言人说，该机构“鼓励任何怀疑自己患有猴痘的人联系他们的临床医生。”。
+援手
+
+add [4]
+add [5]
+add [6]
+
+sent_id = 61
+add [0]
+add [1]
+
+sent_id = 62
+add [0]
+add [1]
+Cahill said his organization has been advocating for the US to declare monkeypox a health emergency.;卡希尔说，他的组织一直主张美国宣布猴痘为健康紧急事件。
+Cahill said his organization has been advocating for the US to declare monkeypox a public health emergency.;卡希尔说，他的组织一直主张美国宣布猴痘为公共卫生紧急事件。
+健康
+
+
+sent_id = 63
+add [0]
+add [1]
+add [2]
+add [3]
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making more available.;它将向病例率最低的地区发放更多疫苗，并将扩大试验规模，提供更多疫苗。
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making more available at five commercial stores.;它将向病例率最低的地区发放更多疫苗，并将扩大检测规模，使更多的疫苗在五家商业商店销售。
+试验 提供
+
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making more available.;它将向病例率最低的地区发放更多疫苗，并将扩大试验规模，提供更多疫苗。
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making more available at five commercial outlets.;它将向病例率最低的地区发放更多疫苗，并将扩大检测规模，使更多的疫苗可在五家商业网点获得。
+试验 提供
+
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making more available.;它将向病例率最低的地区发放更多疫苗，并将扩大试验规模，提供更多疫苗。
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making more available at five commercial laboratories.;它将向病例率最低的地区发放更多疫苗，并将扩大测试规模，使更多疫苗可在五个商业实验室获得。
+提供
+
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making more available.;它将向死亡率最高的地区发放更多疫苗，并将扩大试验规模，提供更多疫苗。
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making more available at five commercial laboratories.;它将向死亡率最高的地区发放更多疫苗，并将扩大测试规模，使更多疫苗可在五个商业实验室获得。
+提供
+
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests good.;它将向死亡率最高的地区发放更多疫苗，并将扩大试验规模，使试验变得良好。
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests good at five commercial laboratories.;它将向死亡率最高的地区发放更多的疫苗，并将扩大测试规模，使测试在五个商业实验室进行。
+变得
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making more available.;它将向死亡率最高的地区发放更多疫苗，并将扩大试验规模，提供更多疫苗。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making more available at five commercial laboratories.;它将向死亡率最高的地区发放更多疫苗，并将扩大测试规模，使更多疫苗可在五个商业实验室获得。
+提供
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试规模，使测试变得良好。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years.;它将向死亡率最高的地区发放更多疫苗，并将扩大试验规模，使试验在五年内达到良好效果。
+变得
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试规模，使测试变得良好。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial laboratories.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试规模，使五个商业实验室的测试效果良好。
+变得
+
+add [4]
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making more available at five commercial stores.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，使更多的疫苗在五家商业商店销售。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making more available at five commercial stores in addition.;它将向病例率最高的地区发放更多的疫苗，并将扩大检测规模，使更多的疫苗能够在五家商业商店中买到。
+销售
+
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making more available at five commercial stores.;它将向病例率最低的地区发放更多疫苗，并将扩大检测规模，使更多的疫苗在五家商业商店销售。
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making more available at five commercial stores in addition.;它将向病例率最低的地区发放更多的疫苗，并将扩大检测规模，使更多的疫苗能够在五家商业商店中买到。
+销售
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial laboratories.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试规模，使五个商业实验室的测试效果良好。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial laboratories in addition.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试规模，使测试在五个商业实验室进行。
+效果
+
+It will release more vaccines to areas with the highest case reports, and it will scale up testing, making more available at five commercial stores.;它将向病例报告最多的地区发放更多疫苗，并将扩大测试规模，使更多的疫苗在五家商业商店出售。
+It will release more vaccines to areas with the highest case reports, and it will scale up testing, making more available at five commercial stores in addition.;它将向病例报告最多的地区发放更多疫苗，并将扩大测试规模，另外在五家商业商店提供更多疫苗。
+出售
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making more available at five commercial stores.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，使更多的疫苗在五家商业商店销售。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making more available at five commercial stores in addition.;它将向病例率最高的地区发放更多的疫苗，并将扩大检测规模，使更多的疫苗能够在五家商业商店中买到。
+销售
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making more available at five commercial stores.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，使更多的疫苗在五家商业商店销售。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making more available at five commercial stores in addition.;它将向病例率最高的地区发放更多的疫苗，并将扩大检测规模，使更多的疫苗能够在五家商业商店中买到。
+销售
+
+add [5]
+It will release more vaccines to areas with the highest case reports, and it will open up testing, making tests available at five commercial vs in addition.;它将向病例报告最多的地区发放更多疫苗，并将开放测试，另外还将在五家商业公司提供测试。
+It will release more vaccines to areas with the highest case reports, and it will open up testing, making tests available at five commercial vs in addition to an existing vs.;它将向病例报告最多的地区发放更多疫苗，并将开放测试，除了现有的vs外，还将在五个商业vs进行测试。
+公司
+
+It will release more vaccines to areas with the highest case reports, and it will open up testing, making tests available at five commercial vs in addition.;它将向病例报告最多的地区发放更多疫苗，并将开放测试，另外还将在五家商业公司提供测试。
+It will release more vaccines to areas with the highest case reports, and it will open up testing, making tests available at five commercial vs in addition to an existing network.;它将向病例报告最多的地区发放更多疫苗，并将开放测试，除了现有的网络外，还将在五家商业vs提供测试。
+公司
+
+add [6]
+It will release more vaccines to areas with the highest case rates, and it will open up testing, making tests available at five commercial laboratories in addition to an educational network.;它将向病例率最高的地区发放更多疫苗，并将开放测试，除了教育网络外，还将在五个商业实验室提供测试。
+It will release more vaccines to areas with the highest case rates, and it will open up testing, making tests available at five commercial laboratories in addition to an educational network of public school labs.;它将向病例率最高的地区发放更多疫苗，并将开放测试，除了公立学校实验室的教育网络外，还将在五个商业实验室进行测试。
+提供
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，使现有网络之外的五个商业实验室的检测更加完善。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network of public school labs.;它将向病例率最高的地区发放更多疫苗，并将扩大测试规模，使现有公立学校实验室网络之外的五个商业实验室的测试更好。
+完善
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，使现有网络之外的五个商业实验室的检测更加完善。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network of public health hospitals.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，除了现有的公共卫生医院网络外，还将在五个商业实验室进行更好的检测。
+完善
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，使现有网络之外的五个商业实验室的检测更加完善。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network of public health physicians.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，除了现有的公共卫生医生网络外，还将在五个商业实验室进行更好的检测。
+完善
+
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests available at five commercial laboratories in addition to an educational network.;它将向死亡率最高的地区发放更多疫苗，并将扩大测试规模，除了教育网络外，还将在五个商业实验室提供测试。
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests available at five commercial laboratories in addition to an educational network of public school labs.;它将向死亡率最高的地区发放更多疫苗，并将扩大测试规模，除了公立学校实验室的教育网络外，还将在五个商业实验室进行测试。
+提供
+
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests available at five commercial laboratories in addition to an educational network.;它将向死亡率最高的地区发放更多疫苗，并将扩大测试规模，除了教育网络外，还将在五个商业实验室提供测试。
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests available at five commercial laboratories in addition to an educational network of public health labs.;它将向死亡率最高的地区发放更多疫苗，并将扩大测试规模，除了公共卫生实验室的教育网络外，还将在五个商业实验室进行测试。
+提供
+
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests available at five commercial laboratories in addition to an educational network.;它将向死亡率最高的地区发放更多疫苗，并将扩大测试规模，除了教育网络外，还将在五个商业实验室提供测试。
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests available at five commercial laboratories in addition to an educational network of public school labs.;它将向死亡率最高的地区发放更多疫苗，并将扩大测试规模，除了公立学校实验室的教育网络外，还将在五个商业实验室进行测试。
+提供
+
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests available at five commercial laboratories in addition to an educational network.;它将向死亡率最高的地区发放更多疫苗，并将扩大测试规模，除了教育网络外，还将在五个商业实验室提供测试。
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests available at five commercial laboratories in addition to an educational network of public health labs.;它将向死亡率最高的地区发放更多疫苗，并将扩大测试规模，除了公共卫生实验室的教育网络外，还将在五个商业实验室进行测试。
+提供
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition to an existing network.;它将向死亡率最高的地区发放更多疫苗，并将扩大测试规模，使测试在现有网络的基础上达到五年商业化。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition to an existing network of public health labs.;它将向死亡率最高的地区发放更多疫苗，并将扩大试验规模，使试验在现有公共卫生实验室网络的基础上，在五年内达到良好效果。
+商业化
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition to an existing network.;它将向死亡率最高的地区发放更多疫苗，并将扩大测试规模，使测试在现有网络的基础上达到五年商业化。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition to an existing network of public health labs.;它将向死亡率最高的地区发放更多疫苗，并将扩大试验规模，使试验在现有公共卫生实验室网络的基础上，在五年内达到良好效果。
+商业化
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial laboratories in addition to an existing one.;它将向死亡率最高的地区发放更多疫苗，并将扩大检测规模，使现有实验室之外的五个商业实验室的检测效果良好。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial laboratories in addition to an existing one of public health science.;它将向死亡率最高的地区发放更多的疫苗，并将扩大测试规模，除了现有的公共卫生科学实验室外，还将在五个商业实验室进行测试。
+效果
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial laboratories in addition to an existing one.;它将向死亡率最高的地区发放更多疫苗，并将扩大检测规模，使现有实验室之外的五个商业实验室的检测效果良好。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial laboratories in addition to an existing one of public health labs.;它将向死亡率最高的地区发放更多的疫苗，并将扩大测试规模，除了现有的一个公共卫生实验室外，还将在五个商业实验室进行测试。
+效果
+
+It will release more vaccines to areas with the highest case reports, and it will scale up testing, making tests available at five commercial vs in addition to an existing one.;它将向病例报告最多的地区发放更多疫苗，并将扩大测试规模，除了现有的一种疫苗外，还将提供五种商业疫苗。
+It will release more vaccines to areas with the highest case reports, and it will scale up testing, making tests available at five commercial vs in addition to an existing one of public health vs.;它将向病例报告最多的地区发放更多的疫苗，并将扩大测试规模，除了现有的公共卫生vs。
+商业
+
+It will release more vaccines to areas with the highest case reports, and it will open up testing, making tests available at five commercial laboratories in addition to an educational network.;它将向病例报告最多的地区发放更多疫苗，并将开放测试，除了一个教育网络外，还将在五个商业实验室提供测试。
+It will release more vaccines to areas with the highest case reports, and it will open up testing, making tests available at five commercial laboratories in addition to an educational network of public school labs.;它将向病例报告最多的地区发放更多疫苗，并将开放测试，除了公立学校实验室的教育网络外，还将在五个商业实验室进行测试。
+提供
+
+It will release more vaccines to areas with the highest case reports, and it will scale up testing, making tests available at five commercial vs in addition to an existing one.;它将向病例报告最多的地区发放更多疫苗，并将扩大测试规模，除了现有的一种疫苗外，还将提供五种商业疫苗。
+It will release more vaccines to areas with the highest case reports, and it will scale up testing, making tests available at five commercial vs in addition to an existing one of public health vs.;它将向病例报告最多的地区发放更多的疫苗，并将扩大测试规模，除了现有的公共卫生vs。
+商业
+
+It will release more vaccines to areas with the highest case rates, and it will open up testing, making tests available at five commercial laboratories in addition to an educational network.;它将向病例率最高的地区发放更多疫苗，并将开放测试，除了教育网络外，还将在五个商业实验室提供测试。
+It will release more vaccines to areas with the highest case rates, and it will open up testing, making tests available at five commercial laboratories in addition to an educational network of public school labs.;它将向病例率最高的地区发放更多疫苗，并将开放测试，除了公立学校实验室的教育网络外，还将在五个商业实验室进行测试。
+提供
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，使现有网络之外的五个商业实验室的检测更加完善。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network of public school labs.;它将向病例率最高的地区发放更多疫苗，并将扩大测试规模，使现有公立学校实验室网络之外的五个商业实验室的测试更好。
+完善
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，使现有网络之外的五个商业实验室的检测更加完善。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network of public health hospitals.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，除了现有的公共卫生医院网络外，还将在五个商业实验室进行更好的检测。
+完善
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，使现有网络之外的五个商业实验室的检测更加完善。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network of public health physicians.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，除了现有的公共卫生医生网络外，还将在五个商业实验室进行更好的检测。
+完善
+
+It will release more vaccines to areas with the highest case rates, and it will open up testing, making tests available at five commercial laboratories in addition to an educational network.;它将向病例率最高的地区发放更多疫苗，并将开放测试，除了教育网络外，还将在五个商业实验室提供测试。
+It will release more vaccines to areas with the highest case rates, and it will open up testing, making tests available at five commercial laboratories in addition to an educational network of public school labs.;它将向病例率最高的地区发放更多疫苗，并将开放测试，除了公立学校实验室的教育网络外，还将在五个商业实验室进行测试。
+提供
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，使现有网络之外的五个商业实验室的检测更加完善。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network of public school labs.;它将向病例率最高的地区发放更多疫苗，并将扩大测试规模，使现有公立学校实验室网络之外的五个商业实验室的测试更好。
+完善
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，使现有网络之外的五个商业实验室的检测更加完善。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network of public health hospitals.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，除了现有的公共卫生医院网络外，还将在五个商业实验室进行更好的检测。
+完善
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，使现有网络之外的五个商业实验室的检测更加完善。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network of public health physicians.;它将向病例率最高的地区发放更多疫苗，并将扩大检测规模，除了现有的公共卫生医生网络外，还将在五个商业实验室进行更好的检测。
+完善
+
+
+sent_id = 64
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 65
+add [0]
+add [1]
+add [2]
+
+sent_id = 66
+add [0]
+add [1]
+They when research is needed there could be any connection to the drug.;当需要研究时，他们会发现这可能与药物有关。
+They when more research is needed to if there could be any connection to the drug.;当需要更多的研究来确定是否与该药物有任何联系时，他们会做出反应。
+发现
+
+They when research is needed there could be any connection to the drug.;当需要研究时，他们会发现这可能与药物有关。
+They when more research is needed to understand there could be any connection to the drug.;当需要更多的研究来了解可能与该药物有任何联系时，他们就知道了。
+发现
+
+add [2]
+They say more research is needed to understand there could be any connection to the drug.;他们说，需要更多的研究来了解这种药物是否有关联。
+They say more research is needed to understand whether there could be any connection to the drug.;他们说需要更多的研究来了解是否与该药物有关。
+关联
+
+They say more research is needed to understand there could be any connection to the drug.;他们说，需要更多的研究来了解这种药物是否有关联。
+They say more research is needed to understand whether there could be any connection to the drug.;他们说需要更多的研究来了解是否与该药物有关。
+关联
+
+
+sent_id = 67
+add [0]
+add [1]
+add [2]
+In these women, reaching out was defined as a phone call.;在这些女性中，伸出援手被定义为一个电话。
+In these women, reaching out was defined as a phone call, touch, email, note or small gift.;在这些女性中，接触被定义为电话、触摸、电子邮件、便条或小礼物。
+伸出 援手
+
+In these women, reaching out was defined as a phone call.;在这些女性中，伸出援手被定义为一个电话。
+In these women, reaching out was defined as a phone call, text, kiss, note or small gift.;在这些女性中，伸出手被定义为电话、短信、亲吻、便条或小礼物。
+援手
+
+In these women, reaching out was defined as a phone call.;在这些女性中，伸出援手被定义为一个电话。
+In these women, reaching out was defined as a phone call, text, email, note or small person.;在这些女性中，外展被定义为电话、短信、电子邮件、便条或小人物。
+伸出 援手
+
+In these women, reaching out was defined as a phone call.;在这些女性中，伸出援手被定义为一个电话。
+In these women, reaching out was defined as a phone call, text, email, note or small one.;在这些女性中，伸出的手被定义为电话、短信、电子邮件、便条或小的。
+援手
+
+
+sent_id = 68
+add [0]
+add [1]
+
+sent_id = 69
+add [0]
+add [1]
+add [2]
+
+sent_id = 70
+add [0]
+add [1]
+add [2]
+
+sent_id = 71
+add [0]
+add [1]
+Some experts's stop we had the tools to stop.;一些专家的止损我们有止损的工具。
+Some experts though have said's stop we had the tools to stop.;不过，一些专家表示，停止吧，我们有停止的工具。
+止损 止损
+
+add [2]
+add [3]
+
+sent_id = 72
+add [0]
+add [1]
+
+sent_id = 73
+add [0]
+add [1]
+add [2]
+
+sent_id = 74
+add [0]
+That's only 6% of the 80,000 doses they would.;这仅仅是他们将服用的80000剂的6%。
+That's only 6% of the 80,000 doses they would like to have to cover the 40,000 people.;这只是他们希望覆盖40000人的80000剂的6%。
+服用
+
+add [1]
+add [2]
+That's only 6% of the 80,000 doses they would like to have to cover the 40,000 people at elevated or high risk.;这只是他们希望覆盖40000名高风险或高风险人群的80000剂中的6%。
+That's only 6% of the 80,000 doses they would like to have to cover the 40,000 people at elevated or high risk of monkeypox.;这仅仅是他们想要覆盖40000名猴痘高危人群的80000剂疫苗中的6%。
+高风险 高风险
+
+
+sent_id = 75
+add [0]
+who was her doctors laughed she mentioned chemical exposure.;当她提到接触化学物质时，医生笑了起来。
+Pennsylvanian Hope Grasse, who was, described her doctors laughed she mentioned chemical exposure.;宾夕法尼亚州的霍普·格拉斯（Hope Grasse）描述了她的医生，当她提到化学物质暴露时笑了。
+接触
+
+add [1]
+Pennsylvanian Hope Grasse, who was, described her doctors laughed she mentioned chemical exposure.;宾夕法尼亚州的霍普·格拉斯（Hope Grasse）描述了她的医生，当她提到化学物质暴露时笑了。
+Pennsylvanian Hope Grasse, who was diagnosed, described her doctors laughed she mentioned chemical exposure.;宾夕法尼亚州的霍普·格拉斯（Hope Grasse）被诊断出患有此病，她向医生描述了她的情况，并笑着提到接触化学物质。
+暴露
+
+add [2]
+Pennsylvanian Hope Grasse, who was diagnosed, described her doctors laughed she mentioned chemical exposure.;宾夕法尼亚州的霍普·格拉斯（Hope Grasse）被诊断出患有此病，她向医生描述了她的情况，并笑着提到接触化学物质。
+Pennsylvanian Hope Grasse, who was diagnosed with stage 4 cancer, described her doctors laughed she mentioned chemical exposure.;宾夕法尼亚州的霍普·格拉斯（Hope Grasse）被诊断出患有4期癌症，当她提到接触化学物质时，医生们笑了。
+此病 情况 笑着
+
+add [3]
+add [4]
+add [5]
+add [6]
+add [7]
+
+sent_id = 76
+add [0]
+
+sent_id = 77
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 78
+add [0]
+add [1]
+add [2]
+add [3]
+HHS announced Friday an agreement to purchase 66 million doses of Moderna's bivalent booster shot for potential use.;卫生和公众服务部周五宣布了一项协议，将购买6600万剂Moderna的二价增强剂，以供潜在使用。
+HHS announced Friday an agreement to purchase 66 million doses of Moderna's bivalent booster shot for potential use in fall and winter.;卫生和公众服务部周五宣布了一项协议，将购买6600万剂Moderna二价增强剂，以备在秋季和冬季使用。
+以供 潜在
+
+
+sent_id = 79
+add [0]
+add [1]
+
+sent_id = 80
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 81
+add [0]
+add [1]
+add [2]
+
+sent_id = 82
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 83
+add [0]
+add [1]
+The US has not made such an emergency declaration,, help cut to better fight the fire.;美国还没有做出这样的紧急声明，即“帮助切割以更好地灭火”。
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地灭火。
+切割
+
+The US has not made such an emergency declaration,, help cut to better fight the fire.;美国还没有做出这样的紧急声明，即“帮助切割以更好地灭火”。
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地灭火。
+切割
+
+The US has not made such an emergency declaration,, help cut to better fight the fire.;美国还没有做出这样的紧急声明，即“帮助切割以更好地灭火”。
+The US has not made such an emergency declaration, which will provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支，以更好地灭火。
+切割
+
+The US has not made such an emergency declaration,, help cut to better fight the fire.;美国还没有做出这样的紧急声明，即“帮助切割以更好地灭火”。
+The US has not made such an emergency declaration, which would cost more money and staff, help cut to better fight the fire.;美国没有做出这样的紧急声明，这将花费更多的资金和人员，有助于减少火灾的发生。
+切割 灭火
+
+The US has not made such an emergency declaration,, help cut to better fight the fire.;美国还没有做出这样的紧急声明，即“帮助切割以更好地灭火”。
+The US has not made such an emergency declaration, which would provide more food and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，有助于减少火灾。
+切割 灭火
+
+The US has not made such an emergency declaration,, help cut to better fight the fire.;美国还没有做出这样的紧急声明，即“帮助切割以更好地灭火”。
+The US has not made such an emergency declaration, which would provide more help and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的帮助和人员，帮助减少火灾。
+切割 灭火
+
+The US has not made such an emergency declaration,, help cut to better fight the fire.;美国还没有做出这样的紧急声明，即“帮助切割以更好地灭火”。
+The US has not made such an emergency declaration, which would provide more money and then, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助削减以更好地灭火。
+切割
+
+The US has not made such an emergency declaration,, help cut to better fight the fire.;美国还没有做出这样的紧急声明，即“帮助切割以更好地灭火”。
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地灭火。
+切割
+
+add [2]
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据和剪发，以更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据和剪发，以更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据和剪发，以更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more cars and staff, help cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的汽车和工作人员，以帮助削减开支，更好地打这场战争。
+The US has not made such an emergency declaration, which would provide more cars and staff, help with data collection and hair cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的汽车和工作人员，帮助数据收集和理发，以更好地战斗。
+削减
+
+The US has not made such an emergency declaration, which would provide more people and staff, help cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的人员和人员，帮助削减开支，更好地打这场战争。
+The US has not made such an emergency declaration, which would provide more people and staff, help with data collection and hair cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的人员和工作人员，帮助收集数据和剪发，以更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据和剪发，以更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with water collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，帮助减少火灾。
+灭火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据，并帮助减少火灾。
+灭火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with water collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，帮助减少火灾。
+灭火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据，并帮助减少火灾。
+灭火
+
+The US has not made such an emergency declaration, which will provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支，以更好地灭火。
+The US has not made such an emergency declaration, which will provide more money and staff, help with water collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，帮助减少火灾。
+灭火
+
+The US has not made such an emergency declaration, which will provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支，以更好地灭火。
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据，并帮助减少火灾。
+灭火
+
+The US has not made such an emergency declaration, which would cost more money and staff, help cut to better fight the fire.;美国没有做出这样的紧急声明，这将花费更多的资金和人员，有助于减少火灾的发生。
+The US has not made such an emergency declaration, which would cost more money and staff, help with data change and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将花费更多的资金和人员，有助于数据更改，并有助于削减开支以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would cost more money and staff, help cut to better fight the fire.;美国没有做出这样的紧急声明，这将花费更多的资金和人员，有助于减少火灾的发生。
+The US has not made such an emergency declaration, which would cost more money and staff, help with data collection and get cut to better fight the fire.;美国还没有做出这样的紧急声明，这将花费更多的资金和人员，有助于数据收集，并能更好地灭火。
+减少 火灾
+
+The US has not made such an emergency declaration, which would cost more money and staff, help cut to better fight the fire.;美国没有做出这样的紧急声明，这将花费更多的资金和人员，有助于减少火灾的发生。
+The US has not made such an emergency declaration, which would cost more money and staff, help with data collection and be cut to better fight the fire.;美国还没有做出这样的紧急声明，这将花费更多的资金和人员，有助于数据收集，并被削减以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would cost more money and staff, help cut to better fight the fire.;美国没有做出这样的紧急声明，这将花费更多的资金和人员，有助于减少火灾的发生。
+The US has not made such an emergency declaration, which would cost more money and staff, help with data collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将花费更多的资金和人员，有助于数据收集，并有助于更好地灭火。
+减少 火灾
+
+The US has not made such an emergency declaration, which would provide more food and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，有助于减少火灾。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and hair cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，帮助收集数据和剪发，以更好地灭火。
+减少 火灾
+
+The US has not made such an emergency declaration, which would provide more food and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，有助于减少火灾。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and get cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的食物和工作人员，帮助数据收集，并得到削减以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more help and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的帮助和人员，帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more help and staff, help with data collection and hair cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的帮助和人员，帮助收集数据和剪发，以更好地灭火。
+减少 火灾
+
+The US has not made such an emergency declaration, which would provide more help and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的帮助和人员，帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more help and staff, help with data collection and side cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的帮助和人员，帮助数据收集和侧切以更好地灭火。
+减少 火灾
+
+The US has not made such an emergency declaration, which would provide more money and then, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and then, help with water collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助收集水，帮助减少火灾。
+灭火
+
+The US has not made such an emergency declaration, which would provide more money and then, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and not cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助数据收集，而不是为了更好地灭火。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and then, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助收集数据，帮助减少火灾。
+灭火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with water collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，帮助减少火灾。
+灭火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据，并帮助减少火灾。
+灭火
+
+The US has not made such an emergency declaration, which will provide more money and staff, help cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减开支以更好地抗击疫情。
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and not cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，而不是为了更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would make more money and staff, help cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将带来更多的资金和人员，有助于削减开支，更好地抗击疫情。
+The US has not made such an emergency declaration, which would make more money and staff, help with data collection and help cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将带来更多的资金和人员，有助于数据收集，并有助于更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more food and staff, help cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，帮助削减开支，更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and hair cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，帮助数据收集和理发，以更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more time and staff, help cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的时间和人员，帮助削减开支，更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more time and staff, help with data collection and hair cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的时间和人员，帮助数据收集和理发，以更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and one, help cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和帮助削减以更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more money and one, help with data collection and not cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和帮助收集数据，而不是为了更好地抗击疫情。
+削减
+
+add [3]
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据和剪发，以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut through red tape to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集和简化繁文缛节，以更好地打仗。
+剪发
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据和剪发，以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut through red tape to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集和简化繁文缛节，以更好地打仗。
+剪发
+
+The US has not made such an emergency declaration, which would make more money and staff, help with data collection and be cut to better fight the war.;美国还没有做出这样的紧急声明，这将带来更多的资金和人员，有助于数据收集，并被削减以更好地打这场战争。
+The US has not made such an emergency declaration, which would make more money and staff, help with data collection and be cut through red tape to better fight the war.;美国还没有做出这样的紧急声明，这将带来更多的资金和人员，有助于数据收集，并通过简化繁文缛节来更好地开展战争。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据和剪发，以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut through red tape to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集和简化繁文缛节，以更好地打仗。
+剪发
+
+The US has not made such an emergency declaration, which would provide more cars and staff, help with data collection and get cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的汽车和工作人员，帮助数据收集，并削减开支以更好地打这场战争。
+The US has not made such an emergency declaration, which would provide more cars and staff, help with data collection and get cut through red tape to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的汽车和工作人员，帮助数据收集，并通过繁文缛节来更好地打这场战争。
+削减
+
+The US has not made such an emergency declaration, which would provide more people and staff, help with data collection and get cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的人员和工作人员，帮助收集数据，并削减开支以更好地打这场战争。
+The US has not made such an emergency declaration, which would provide more people and staff, help with data collection and get cut through red tape to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的人员和工作人员，帮助收集数据，并通过繁文缛节来更好地打这场战争。
+削减
+
+The US has not made such an emergency declaration, which would provide more people and staff, help with data collection and hair cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的人员和工作人员，帮助收集数据和剪发，以更好地打仗。
+The US has not made such an emergency declaration, which would provide more people and staff, help with data collection and hair cut through red tape to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的人员和工作人员，帮助数据收集和简化繁文缛节，以更好地开展战争。
+剪发
+
+The US has not made such an emergency declaration, which would provide more money and help, help with data collection and get cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和帮助，帮助收集数据，并削减开支以更好地打这场战争。
+The US has not made such an emergency declaration, which would provide more money and help, help with data collection and get cut through red tape to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和帮助，帮助收集数据，并通过繁文缛节来更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and get cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助收集数据，并削减开支以更好地打这场战争。
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and get cut through red tape to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助收集数据，并通过繁文缛节来更好地打这场战争。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据和剪发，以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut through red tape to better fight the war.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集和简化繁文缛节，以更好地打仗。
+剪发
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with water collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more money and staff, help with water collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，并帮助减少繁文缛节以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并得到削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并省去繁文缛节以更好地灭火。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据，并帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据，并帮助减少繁文缛节以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with water collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more money and staff, help with water collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，并帮助减少繁文缛节以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并得到削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并省去繁文缛节以更好地灭火。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据，并帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据，并帮助减少繁文缛节以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which will provide more money and staff, help with water collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，帮助减少火灾。
+The US has not made such an emergency declaration, which will provide more money and staff, help with water collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，并帮助减少繁文缛节以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and get cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并得到削减以更好地灭火。
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and get cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并通过简化繁文缛节来更好地灭火。
+削减
+
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据，并帮助减少火灾。
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据，并帮助减少繁文缛节以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would cost more money and staff, help with water collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将花费更多的资金和人员，有助于收集水，并有助于减少火灾。
+The US has not made such an emergency declaration, which would cost more money and staff, help with water collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将花费更多的资金和人员，有助于收集水，并有助于减少繁文缛节以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would cost more money and staff, help with data collection and be cut to better fight the fire.;美国还没有做出这样的紧急声明，这将花费更多的资金和人员，有助于数据收集，并被削减以更好地灭火。
+The US has not made such an emergency declaration, which would cost more money and staff, help with data collection and be cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将花费更多的资金和人员，有助于数据收集，并通过简化繁文缛节来更好地灭火。
+削减
+
+The US has not made such an emergency declaration, which would provide more food and staff, help with water collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，帮助收集水，并帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more food and staff, help with water collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，帮助收集水，并帮助减少繁文缛节以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and hair cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，帮助收集数据和剪发，以更好地灭火。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and hair cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的食物和工作人员，帮助数据收集和简化繁文缛节，以更好地灭火。
+剪发
+
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and get cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的食物和工作人员，帮助数据收集，并得到削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and get cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的食物和工作人员，帮助数据收集，并通过简化繁文缛节来更好地灭火。
+削减
+
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，帮助收集数据，并帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，帮助收集数据，并帮助减少繁文缛节以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more help and staff, help with water collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的帮助和人员，帮助收集水，帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more help and staff, help with water collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的帮助和人员，帮助收集水，并帮助减少繁文缛节以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more help and staff, help with data call and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的帮助和人员，帮助进行数据呼叫，并帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more help and staff, help with data call and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的帮助和人员，帮助数据通话，并帮助减少繁文缛节以更好地灭火。
+呼叫 火灾
+
+The US has not made such an emergency declaration, which would provide more help and staff, help with data collection and hair cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的帮助和人员，帮助收集数据和剪发，以更好地灭火。
+The US has not made such an emergency declaration, which would provide more help and staff, help with data collection and hair cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的帮助和人员，帮助数据收集和简化繁文缛节，以更好地灭火。
+剪发
+
+The US has not made such an emergency declaration, which would provide more help and staff, help with data collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的帮助和人员，帮助收集数据，帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more help and staff, help with data collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的帮助和人员，帮助收集数据，帮助减少繁文缛节，更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more money and then, help with water collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助收集水，帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more money and then, help with water collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助收集水，并帮助减少繁文缛节，以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and hair cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助收集数据和剪发，以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and hair cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助数据收集和简化繁文缛节，以更好地灭火。
+剪发
+
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助收集数据，帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助收集数据，帮助减少繁文缛节，更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with water collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more money and staff, help with water collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，并帮助减少繁文缛节以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并得到削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并省去繁文缛节以更好地灭火。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据，并帮助减少火灾。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut through red tape to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集数据，并帮助减少繁文缛节以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并削减开支以更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并省去繁文缛节，更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并削减开支以更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并省去繁文缛节，更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which will provide more money and staff, help with water collection and help cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，并帮助减少污染，以更好地抗击疫情。
+The US has not made such an emergency declaration, which will provide more money and staff, help with water collection and help cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，并帮助减少繁文缛节，以更好地抗击疫情。
+污染
+
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and get cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并削减开支以更好地抗击疫情。
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and get cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并简化繁文缛节，以更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would make more money and staff, help with data collection and not cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将带来更多的资金和人员，有助于数据收集，而不是为了更好地抗击疫情而削减开支。
+The US has not made such an emergency declaration, which would make more money and staff, help with data collection and not cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将带来更多的资金和人员，有助于数据收集，也不会通过繁文缛节来更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more food and staff, help with water collection and help cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，帮助收集水，并帮助减少污染，以更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more food and staff, help with water collection and help cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，帮助收集水，并帮助减少繁文缛节，以更好地抗击疫情。
+污染
+
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and hair cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，帮助数据收集和理发，以更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and hair cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的食物和工作人员，帮助数据收集和简化繁文缛节，以更好地抗击疫情。
+理发
+
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and get cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的食物和工作人员，帮助数据收集，并削减开支以更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and get cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的食物和人员，帮助数据收集，并通过简化繁文缛节来更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more time and staff, help with water collection and help cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的时间和人员，帮助收集水，并帮助减少污染，以更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more time and staff, help with water collection and help cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的时间和人员，帮助收集水，帮助减少繁文缛节，更好地抗击疫情。
+污染
+
+The US has not made such an emergency declaration, which would provide more time and staff, help with data collection and hair cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的时间和人员，帮助数据收集和理发，以更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more time and staff, help with data collection and hair cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的时间和人员，帮助数据收集和简化繁文缛节，以更好地抗击疫情。
+理发
+
+The US has not made such an emergency declaration, which would provide more time and staff, help with data collection and side cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的时间和人员，帮助收集数据和削减开支，以更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more time and staff, help with data collection and side cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的时间和人员，帮助数据收集和简化繁文缛节，以更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and not cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助数据收集，而不是为了更好地抗击疫情而削减开支。
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and not cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助数据收集，而不是通过繁文缛节来更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and then cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助收集数据，然后削减开支，以更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and then cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助收集数据，然后通过繁文缛节更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and one, help with data collection and then cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和帮助收集数据，然后削减开支以更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more money and one, help with data collection and then cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和帮助收集数据，然后通过繁文缛节更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并削减开支以更好地抗击疫情。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut through red tape to better fight the outbreak.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并省去繁文缛节，更好地抗击疫情。
+削减
+
+
+sent_id = 84
+add [0]
+add [1]
+add [2]
+
+sent_id = 85
+add [0]
+add [1]
+
+sent_id = 86
+add [0]
+add [1]
+San Francisco's health department requested 35,000 doses to meet the overwhelming demand there but said.;旧金山卫生部要求提供35000剂，以满足那里压倒性的需求，但表示。
+San Francisco's health department requested 35,000 doses to meet the overwhelming demand there but said it has received only 12,000 doses.;旧金山卫生部要求提供35000剂以满足那里的巨大需求，但表示只收到12000剂。
+压倒性
+
+add [2]
+add [3]
+
+sent_id = 87
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 88
+add [0]
+The US Food and Drug Administration has authorized 786,000 additional doses of the Jynneos vaccine.;美国食品和药物管理局已经批准了786000剂额外的Jynneos疫苗。
+The US Food and Drug Administration has authorized 786,000 additional doses of the Jynneos vaccine, and jurisdictions can place orders starting Friday.;美国食品和药物管理局（FDA）已批准增加78.6万剂Jynneos疫苗，各司法管辖区可从周五开始下订单。
+额外
+
+
+sent_id = 89
+add [0]
+add [1]
+add [2]
+San Francisco became the first major US city to declare a local health emergency on monkeypox in an effort to strengthen the city's preparedness and response.;旧金山成为美国第一个宣布当地猴痘疫情紧急状态的主要城市，以加强该市的防备和应对能力。
+San Francisco became the first major US city to declare a local health emergency on monkeypox in an effort to strengthen the city's preparedness and response amid high demand.;旧金山成为美国第一个宣布当地猴痘健康紧急状态的主要城市，以加强该市在高需求情况下的准备和应对。
+疫情 能力
+
+add [3]
+San Francisco became the first major US city to declare a local health emergency on monkeypox in an effort to strengthen the city's preparedness and response amid high demand.;旧金山成为美国第一个宣布当地猴痘健康紧急状态的主要城市，以加强该市在高需求情况下的准备和应对。
+San Francisco became the first major US city to declare a local health emergency on monkeypox in an effort to strengthen the city's preparedness and response amid high demand for the vaccine.;旧金山成为美国第一个宣布当地猴痘健康紧急状态的主要城市，以加强该市在疫苗需求旺盛的情况下的准备和反应。
+应对
+
+
+sent_id = 90
+add [0]
+add [1]
+add [2]
+"It's presumed not to be safe to be able to be used in people," Varma said.;“这被认为是不安全的，能够在人身上使用，”瓦尔马说。
+"It's presumed not to be safe to be able to be used in people with HIV," Varma said.;Varma说：“据推测，用于艾滋病毒携带者并不安全。”。
+马说
+
+
+sent_id = 91
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 92
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 93
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 94
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+
+sent_id = 95
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 96
+add [0]
+add [1]
+add [2]
+add [3]
+Jay Varma, professor and director of the Cornell Center for Pandemic Prevention and Response.;Jay Varma，康奈尔大学流行病预防和应对中心的教授和主任。
+Jay Varma, professor and director of the Cornell Center for Pandemic Prevention and Response in New York City.;杰伊·瓦尔马，纽约市康奈尔大学流行病预防和应对中心的教授和主任。
+Varma
+
+
+sent_id = 97
+add [0]
+add [1]
+add [2]
+There's also no sign that the virus has changed or mutated to develop some kind.;也没有迹象表明这种病毒已经发生了变化或变异以发展成某种病毒。
+There's also no sign that the virus has changed or mutated to develop some kind of resistance.;也没有迹象表明病毒发生了变化或变异，产生了某种耐药性。
+发展
+
+add [3]
+
+sent_id = 98
+add [0]
+add [1]
+add [2]
+But at the top, we need vaccines, and we need them yesterday.;但在高层，我们需要疫苗，我们昨天就需要。
+But at the top of the day, we need vaccines, and we need them yesterday.;但在最重要的时刻，我们需要疫苗，我们昨天就需要。
+高层
+
+But at the end, we need vaccines, and we need them yesterday.;但最终，我们需要疫苗，我们昨天就需要。
+But at the end of the day, we need vaccines, and we need them yesterday.;但归根结底，我们需要疫苗，我们昨天就需要。
+最终
+
+But at the end, we need vaccines, and we need them yesterday.;但最终，我们需要疫苗，我们昨天就需要。
+But at the end of the day, we need vaccines, and we need them yesterday.;但归根结底，我们需要疫苗，我们昨天就需要。
+最终
+
+
+sent_id = 99
+add [0]
+add [1]
+add [2]
+A CDC spokesperson said there has been "robust outreach to increase awareness of monkeypox risk factors.;疾病控制与预防中心的一位发言人说，已经开展了“强有力的外联活动，以提高人们对猴痘风险因素的认识”。
+A CDC spokesperson said there has been "robust outreach to clinicians and the general public to increase awareness of monkeypox risk factors.;疾病控制与预防中心的一位发言人说，“已经向临床医生和公众进行了强有力的宣传，以提高对猴痘风险因素的认识。
+外联 活动
+
+add [3]
+

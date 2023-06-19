@@ -1,0 +1,32 @@
+#17:
+5 million charge due to 787 delivery delays and customer concessions , and another $ 1 billion in abnormal production costs stemming from production flaws and related repairs and inspections .
+由于787次交货延迟和客户让步而产生的500万美元费用，以及因生产缺陷和相关维修和检查而产生的10亿美元异常生产成本。
+5 billion charge due to 787 delivery delays and customer concessions , and another $ 1 billion in abnormal production costs stemming from production flaws and related repairs and inspections .
+由于787次交货延迟和客户让步而产生的50亿美元费用，以及因生产缺陷和相关维修和检查而产生的10亿美元异常生产成本。
+LCS-Wdiff:	1.0 
+--FN--
+--same--
+#50:
+In response , the International Monetary Fund warned of Macao ' s " overreliance on the gaming sector , " which it said had been brought into focus during the pandemic .
+作为回应，国际货币基金组织（IMF）警告称，澳门“过度依赖博彩业”，该组织称，博彩业在疫情期间受到关注。
+In January , the International Monetary Fund warned of Macao ' s " overreliance on the gaming sector , " which it said had been brought into focus during the pandemic .
+今年1月，国际货币基金组织（IMF）警告称，澳门“过度依赖博彩业”，该组织称，博彩业在疫情期间受到关注。
+LCS-Wdiff:	1.0 
+--FN--
+--same--
+#60:
+Starting next week : The US jobs report for July will be closely scrutinized for evidence the economy is slowing faster than expected .
+下周开始：美国7月份的就业报告将被仔细审查，以寻找经济放缓速度快于预期的证据。
+Coming next week : The US jobs report for July will be closely scrutinized for evidence the economy is slowing faster than expected .
+下周：美国7月份的就业报告将被仔细审查，以寻找经济放缓速度快于预期的证据。
+LCS-Wdiff:	1.0 
+--FN--
+--LCS--
+#68:
+Since coming into power in 2012 , Chinese leader Xi Jinping has called for the " great rejuvenation of the Chinese nation .
+ 
+Since coming to power in 2012 , Chinese leader Xi Jinping has called for the " great rejuvenation of the Chinese nation .
+ 
+LCS-Wdiff:	1.0 
+--FN--
+--same--

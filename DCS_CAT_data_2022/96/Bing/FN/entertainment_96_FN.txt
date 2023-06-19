@@ -1,0 +1,91 @@
+#3:
+The song takes inspiration from Prince and George Michael and incorporates funk falsettos that contrast with the singer ' s signature raspy voice .
+这首歌的灵感来自普林斯和乔治·迈克尔，并融入了放克假唱，与歌手标志性的沙哑声音形成鲜明对比。
+The song draws inspiration from Prince and George Michael and incorporates funk falsettos that contrast with the singer ' s signature raspy voice .
+这首歌的灵感来自普林斯和乔治·迈克尔，并融入了放克假唱，与歌手标志性的沙哑声音形成鲜明对比。
+LCS-Wdiff:	1.0 
+--FN--
+#10:
+There is history behind Mero ' s seeming loyalty to Lopez which dates back to well before the show came to be .
+梅罗对洛佩兹的忠诚背后有历史，这可以追溯到节目出现之前。
+There is history behind Mero ' s seeming loyalty to Lopez that dates back to well before the show came to be .
+梅罗对洛佩兹的忠诚背后有一段历史，可以追溯到节目出现之前。
+LCS-Wdiff:	1.0 
+--FN--
+#11:
+Whether struggling to survive or showing her workaholic side in the flashbacks , Barrera holds up her end of the bargain , but the writing simply does n ' t .
+无论是挣扎求生，还是在闪回中展现她工作狂的一面，巴雷拉都坚持着她的交易，但写作只是没有。
+Whether struggling to survive or exhibiting her workaholic side in the flashbacks , Barrera holds up her end of the bargain , but the writing simply does n ' t .
+无论是挣扎求生，还是在闪回中展现她工作狂的一面，巴雷拉都坚持着她讨价还价的结局，但写作只是没有。
+LCS-Wdiff:	0.9629629629629629 
+--FN--
+#14:
+According to Mero , Lopez was working for a small company that specialized in independent films and was looking to expand into management when she started advocating for Mero .
+根据梅罗的说法，洛佩兹当时在一家专门从事独立电影的小公司工作，当她开始倡导梅罗时，她希望扩展到管理层。
+According to Mero , Lopez was working for a small company that specialized in independent films and was looking to expand into management when he started advocating for Mero .
+根据梅罗的说法，洛佩兹当时在一家专门从事独立电影的小公司工作，当他开始倡导梅罗时，他希望扩展到管理层。
+LCS-Wdiff:	0.9642857142857143 
+--FN--
+#15:
+According to Mero , Lopez was working for a small company that specialized in independent films and was looking to expand into management when he began advocating for Mero .
+根据梅罗的说法，洛佩兹在一家专门从事独立电影的小公司工作，当他开始倡导梅罗时，他希望扩展到管理层。
+According to Mero , Lopez was working for a small company that specialized in independent films and was looking to expand into management when he started advocating for Mero .
+根据梅罗的说法，洛佩兹当时在一家专门从事独立电影的小公司工作，当他开始倡导梅罗时，他希望扩展到管理层。
+LCS-Wdiff:	1.0 
+--FN--
+#21:
+The Academy subsequently sanctioned Smith by banning him from attending the Oscars for the next 10 years .
+学院随后批准了史密斯，禁止他在接下来的10年里参加奥斯卡颁奖典礼。
+The Academy has sanctioned Smith by banning him from attending the Oscars for the next 10 years .
+学院已经批准了史密斯，禁止他在接下来的10年里参加奥斯卡颁奖典礼 。
+LCS-Wdiff:	1.0 
+--FN--
+#29:
+Only she could drop a track titled " America Has a Problem " and instead of sending a message about the state of the country , she lets us know she " Ca n ' t wait to back it up .
+只有她才能放下一首名为“美国有问题”的曲目，而不是发送关于该国状况的信息，她让我们知道她“不等备份它。
+Only she could drop a track titled " America Has a Problem " and instead of delivering a message about the state of the country , she lets us know she " Ca n ' t wait to back it up .
+只有她才能放下一首名为“美国有问题”的曲目，而不是传递有关该国状况的信息，而是让我们知道她“不等备份它。
+LCS-Wdiff:	0.96875 
+--FN--
+#41:
+" When you give me the award , you honor my father , Paul Sorvino , who has taught me everything I know about acting , " she said at the time .
+“当你给我这个奖项时，你尊重我的父亲保罗·索维诺，他教会了我所有关于表演的知识，”她当时说。
+" When you give me this award , you honor my father , Paul Sorvino , who has taught me everything I know about acting , " she said at the time .
+“当你给我这个奖项时，你尊重我的父亲保罗·索维诺，他教会了我关于表演的一切，”她当时说。
+LCS-Wdiff:	0.96875 
+--FN--
+#54:
+Beyoncé cements her ability to go beyond just singing with songs like " Cozy " and " Church Girl , " in which she sends us a sample of her ability to spit a little bit .
+碧昂斯巩固了她的能力，她超越了仅仅唱歌的能力，比如“Cozy”和“Church Girl”，她向我们发送了她吐痰能力的样本。
+Beyoncé cements her ability to go beyond just singing with songs like " Cozy " and " Church Girl , " in which she gives us a sample of her ability to spit a little bit .
+碧昂斯巩固了她的能力，她超越了仅仅唱歌的能力，比如“Cozy”和“Church Girl”，她给了我们一个她吐痰能力的样本。
+LCS-Wdiff:	0.9705882352941176 
+--FN--
+#59:
+There is history behind Mero ' s seeming loyalty to Lopez that dates back to long before the show came to be .
+梅罗对洛佩兹的忠诚背后有一段历史，可以追溯到节目出现之前很久。
+There is history behind Mero ' s seeming loyalty to Lopez that dates back to well before the show came to be .
+梅罗对洛佩兹的忠诚背后有一段历史，可以追溯到节目出现之前。
+LCS-Wdiff:	1.0 
+--FN--
+#80:
+It ' s not an awful bargain , but if you ' re waiting for it to get better , well , do n ' t hold your breath .
+这不是一个可怕的讨价还价，但如果你正在等待它变得更好，好吧，不要屏住呼吸。
+That ' s not an awful bargain , but if you ' re waiting for it to get better , well , do n ' t hold your breath .
+这不是一个可怕的讨价还价，但如果你正在等待它变得更好，好吧，不要屏住呼吸。
+LCS-Wdiff:	1.0 
+--FN--
+#84:
+" Thank you to all of the pioneers who originate culture , to all of the fallen angels whose deeds have gone unrecognized for far too long , " Bey wrote .
+“感谢所有创造文化的先驱，感谢所有堕落的天使，他们的事迹已经被认可太久了，”贝伊写道。
+" Thank you to all of the pioneers who originate culture , to all of the fallen angels whose contributions have gone unrecognized for far too long , " Bey wrote .
+“感谢所有创造文化的先驱，感谢所有堕落天使，他们的贡献已经被认可太久了，”贝伊写道。
+LCS-Wdiff:	0.9615384615384616 
+--FN--
+#95:
+Beyoncé cements her ability to move beyond just singing with songs like " Cozy " and " Church Girl , " in which she gives us a sample of her ability to spit a little bit .
+碧昂斯巩固了她的能力，超越了仅仅唱歌的能力，比如“Cozy”和“Church Girl”，她给了我们一个她吐痰能力的样本。
+Beyoncé cements her ability to go beyond just singing with songs like " Cozy " and " Church Girl , " in which she gives us a sample of her ability to spit a little bit .
+碧昂斯巩固了她的能力，她超越了仅仅唱歌的能力，比如“Cozy”和“Church Girl”，她给了我们一个她吐痰能力的样本。
+LCS-Wdiff:	1.0 
+--FN--

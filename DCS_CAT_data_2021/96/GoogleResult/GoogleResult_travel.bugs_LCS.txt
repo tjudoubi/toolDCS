@@ -1,0 +1,1242 @@
+#6.0:
+Children , popping up on the nightly news , still go missing every day .
+孩子们，在晚间新闻中突然出现，仍然每天都在失踪。
+People , popping up on the nightly news , still go missing every day .
+每天出现在晚间新闻中的人仍然失踪。
+
+#8.0:
+Children , popping up on the nightly news , still go missing every day .
+孩子们，在晚间新闻中突然出现，仍然每天都在失踪。
+Children , popping up on the nightly news , still go missing by day .
+孩子们出现在晚间新闻中，白天仍然失踪。
+
+#9.0:
+Children , popping up on the nightly news , still go missing every day .
+孩子们，在晚间新闻中突然出现，仍然每天都在失踪。
+Children , popping up on the nightly news , still go missing every night .
+孩子们，在晚间新闻中突然出现，仍然每晚都失踪。
+
+#18.0:
+Coffeehouses helped spread modern democracy , spur the Enlightenment and birth periodical literature .
+咖啡馆帮助传播了现代民主，激发了启蒙运动并诞生了期刊文学。
+Coffeehouses helped create modern democracy , spur the Enlightenment and birth periodical literature .
+咖啡馆帮助创造了现代民主，刺激了启蒙运动并诞生了期刊文学。
+
+#21.0:
+Northwest China stands out as a hot destination since COVID - 19 has been brought under control nationwide .
+自从在全国范围内控制了 COVID-19 以来，中国西北地区成为热门目的地。
+North China stands out as a hot destination since COVID - 19 has been brought under control nationwide .
+自 COVID-19 在全国范围内得到控制以来，华北地区成为热门目的地。
+
+#22.0:
+Northwest China stands out as a hot destination since COVID - 19 has been brought under control nationwide .
+自从在全国范围内控制了 COVID-19 以来，中国西北地区成为热门目的地。
+South China stands out as a hot destination since COVID - 19 has been brought under control nationwide .
+自从 COVID-19 在全国范围内得到控制以来，华南地区成为热门目的地。
+
+#24.0:
+Northwest China stands out as a hot destination since COVID - 19 has been brought under control nationwide .
+自从在全国范围内控制了 COVID-19 以来，中国西北地区成为热门目的地。
+Northwest Texas stands out as a hot destination since COVID - 19 has been brought under control nationwide .
+自从 COVID-19 在全国范围内得到控制以来，得克萨斯州西北部成为热门目的地。
+
+#35.0:
+Tossing the wok allows better mixing , which is essential when you have super high heat .
+翻炒锅可以更好地混合，当你有超高温时，这是必不可少的。
+Tossing the wok provides better mixing , which is essential when you have super high heat .
+搅拌炒锅可以提供更好的混合效果，这在您有超高温时是必不可少的。
+
+#48.0:
+The office prepared masks printed with Chinese tourism logos for visitors , and sterilized all the brochures .
+办公室为游客准备了印有中国旅游标志的口罩，并对所有宣传册进行了消毒。
+The office prepared masks stamped with Chinese tourism logos for visitors , and sterilized all the brochures .
+办事处为来访者准备了印有中国旅游标志的口罩，并对所有宣传册进行了消毒。
+
+#49.0:
+The office prepared masks printed with Chinese tourism logos for visitors , and sterilized all the brochures .
+办公室为游客准备了印有中国旅游标志的口罩，并对所有宣传册进行了消毒。
+The office prepared masks printed with Chinese tourism slogans for visitors , and sterilized all the brochures .
+办事处为游客准备了印有中国旅游标语的口罩，并对所有宣传册进行了消毒。
+
+#51.0:
+In activity design and selection , the hotel emphasizes not only fun , but also nature conservancy .
+在活动设计和选择上，酒店不仅强调乐趣，还强调自然保护​​。
+In the design and selection , the hotel emphasizes not only fun , but also nature conservancy .
+在设计和选材上，酒店不仅强调趣味，还强调自然保护​​。
+
+#52.0:
+In activity design and selection , the hotel emphasizes not only fun , but also nature conservancy .
+在活动设计和选择上，酒店不仅强调乐趣，还强调自然保护​​。
+Through activity design and selection , the hotel emphasizes not only fun , but also nature conservancy .
+通过活动设计和选择，酒店不仅强调乐趣，还强调自然保护​​。
+
+#53.0:
+In activity design and selection , the hotel emphasizes not only fun , but also nature conservancy .
+在活动设计和选择上，酒店不仅强调乐趣，还强调自然保护​​。
+In its design and selection , the hotel emphasizes not only fun , but also nature conservancy .
+酒店在设计和选材上，不仅强调趣味，还强调自然保护​​。
+
+#54.0:
+In activity design and selection , the hotel emphasizes not only fun , but also nature conservancy .
+在活动设计和选择上，酒店不仅强调乐趣，还强调自然保护​​。
+In activity design and selection , the hotel emphasizes not only fun , but also environmental conservancy .
+在活动设计和选择上，酒店不仅强调趣味性，还强调环保。
+
+#59.0:
+Hotels should be flexible to meet the requirements of clients and seek every opportunity , he said .
+他说，酒店应该灵活地满足客户的要求并寻找每一个机会。
+They should be flexible to meet the requirements of clients and seek every opportunity , he said .
+他说，他们应该灵活地满足客户的要求并寻求每一个机会。
+
+#66.0:
+Despite not feeling hungry at first , my stomach became a bottomless pit as I continued eating .
+虽然一开始并不觉得饿，但我继续吃下去，肚子变成了一个无底洞。
+While not feeling hungry at first , my stomach became a bottomless pit as I continued eating .
+刚开始不觉得饿，继续吃下去，肚子变成了无底洞。
+
+#68.0:
+Despite not feeling hungry at first , my stomach became a bottomless pit as I continued eating .
+虽然一开始并不觉得饿，但我继续吃下去，肚子变成了一个无底洞。
+Still not feeling hungry at first , my stomach became a bottomless pit as I continued eating .
+一开始还不觉得饿，继续吃下去，肚子变成了无底洞。
+
+#71.0:
+Acts of kindness have come to define the coronavirus pandemic , but in some nations , traditions of generosity and helping one another go back centuries .
+善意的行为已经成为冠状病毒大流行的定义，但在一些国家，慷慨和互相帮助的传统可以追溯到几个世纪前。
+Acts of kindness have come to define the coronavirus pandemic , but in some nations , traditions of generosity and helping one another go back decades .
+善举已经成为冠状病毒大流行的定义，但在一些国家，慷慨和互相帮助的传统可以追溯到几十年前。
+
+#77.0:
+We need to cater for the market that suits different lifestyles and individual experiences for our Chinese guests .
+我们需要迎合适合中国客人不同生活方式和个人体验的市场。
+We hope to cater for the market that suits different lifestyles and individual experiences for our Chinese guests .
+我们希望为中国客人提供适合不同生活方式和个人体验的市场。
+
+#79.0:
+We need to cater for the market that suits different lifestyles and individual experiences for our Chinese guests .
+我们需要迎合适合中国客人不同生活方式和个人体验的市场。
+We wish to cater for the market that suits different lifestyles and individual experiences for our Chinese guests .
+我们希望为中国客人提供适合不同生活方式和个人体验的市场。
+
+#80.0:
+After living in Chengdu for six years , he would describe the food .
+在成都生活了六年之后，他会描述食物。
+After staying in Chengdu for six years , he would describe the food .
+在成都待了六年，他会描述食物。
+
+#85.0:
+He first quickly fries the freshly chopped ingredients in the wok , drying them before setting them aside .
+他先快速将刚切好的食材放入锅中煎炸，晾干后放在一边。
+He then quickly fries the freshly chopped ingredients in the wok , drying them before setting them aside .
+然后他迅速将刚切好的食材放入锅中煎炸，晾干后放在一边。
+
+#87.0:
+He first quickly fries the freshly chopped ingredients in the wok , drying them before setting them aside .
+他先快速将刚切好的食材放入锅中煎炸，晾干后放在一边。
+He first quickly fries his freshly chopped ingredients in the wok , drying them before setting them aside .
+他先把刚切好的食材在锅里快速煎炸，晾干后放在一边。
+
+#95.0:
+All scenic spots in Gansu ' s Gannan tibet autonomous prefecture also offered free admission to visitors during the festival .
+节日期间，甘肃省甘南藏族自治州各景区也对游客免费开放。
+Many scenic spots in Gansu ' s Gannan tibet autonomous prefecture also offered free admission to visitors during the festival .
+甘肃省甘南藏族自治州多处景区在节日期间也对游客免费开放。
+
+#96.0:
+All scenic spots in Gansu ' s Gannan tibet autonomous prefecture also offered free admission to visitors during the festival .
+节日期间，甘肃省甘南藏族自治州各景区也对游客免费开放。
+Some scenic spots in Gansu ' s Gannan tibet autonomous prefecture also offered free admission to visitors during the festival .
+甘肃省甘南藏族自治州部分景区在节日期间也对游客免费开放。
+
+#97.0:
+All scenic spots in Gansu ' s Gannan tibet autonomous prefecture also offered free admission to visitors during the festival .
+节日期间，甘肃省甘南藏族自治州各景区也对游客免费开放。
+Several scenic spots in Gansu ' s Gannan tibet autonomous prefecture also offered free admission to visitors during the festival .
+甘肃省甘南藏族自治州多个景区也在节日期间免费向游客开放。
+
+#99.0:
+All scenic spots in Gansu ' s Gannan tibet autonomous prefecture also offered free admission to visitors during the festival .
+节日期间，甘肃省甘南藏族自治州各景区也对游客免费开放。
+Three scenic spots in Gansu ' s Gannan tibet autonomous prefecture also offered free admission to visitors during the festival .
+节日期间，甘肃甘南藏族自治州的三个景区也对游客免费开放。
+
+#100.0:
+All the varieties can be drunk , and we encourage diners to taste the broth before boiling the ingredients .
+所有品种都可以饮用，我们鼓励食客在煮食材之前先尝尝肉汤。
+All four varieties can be drunk , and we encourage diners to taste the broth before boiling the ingredients .
+所有四个品种都可以饮用，我们鼓励食客在煮沸食材之前先品尝肉汤。
+
+#101.0:
+All the varieties can be drunk , and we encourage diners to taste the broth before boiling the ingredients .
+所有品种都可以饮用，我们鼓励食客在煮食材之前先尝尝肉汤。
+All three varieties can be drunk , and we encourage diners to taste the broth before boiling the ingredients .
+这三个品种都可以喝，我们鼓励食客在煮原料之前先尝尝肉汤。
+
+#102.0:
+All the varieties can be drunk , and we encourage diners to taste the broth before boiling the ingredients .
+所有品种都可以饮用，我们鼓励食客在煮食材之前先尝尝肉汤。
+Both the varieties can be drunk , and we encourage diners to taste the broth before boiling the ingredients .
+两种 品种 都 可以 饮用 , 我们 鼓励 食客 在 煮 原料 之前 品尝 肉汤 .
+
+#103.0:
+All the varieties can be drunk , and we encourage diners to taste the broth before boiling the ingredients .
+所有品种都可以饮用，我们鼓励食客在煮食材之前先尝尝肉汤。
+All the varieties can be drunk , and we encourage diners to taste the broth after boiling the ingredients .
+所有 品种 均可 饮用 , 我们 鼓励 食客 将 食材 煮熟 后 品尝 汤汁 .
+
+#104.0:
+All the varieties can be drunk , and we encourage diners to taste the broth before boiling the ingredients .
+所有品种都可以饮用，我们鼓励食客在煮食材之前先尝尝肉汤。
+All the varieties can be drunk , so we encourage diners to taste the broth before boiling the ingredients .
+所有品种都可以喝，所以我们鼓励食客在煮食材之前先尝尝肉汤。
+
+#107.0:
+He then worked with other village officials to explain the potential benefits of sika deer breeding to the villagers .
+然后，他与其他村干部一起向村民解释梅花鹿养殖的潜在好处。
+She then worked with other village officials to explain the potential benefits of sika deer breeding to the villagers .
+随后，她与其他村干部一起向村民解释梅花鹿养殖的潜在好处。
+
+#108.0:
+He then worked with other village officials to explain the potential benefits of sika deer breeding to the villagers .
+然后，他与其他村干部一起向村民解释梅花鹿养殖的潜在好处。
+He then worked with other village officials to explain the economic benefits of sika deer breeding to the villagers .
+随后，他与其他村干部一起向村民讲解梅花鹿养殖的经济效益。
+
+#112.0:
+Travelers can also opt for small islands on the lake , where karst landscape and monkeys can be spotted .
+旅行者也可以选择湖上的小岛，那里可以看到喀斯特地貌和猴子。
+Travelers can also opt for small islands in the lake , where karst landscape and monkeys can be spotted .
+游客还可以选择湖中的小岛，那里可以看到喀斯特地貌和猴子。
+
+#116.0:
+The event attracted 285 enterprise from 30 countries , a number smaller than previous years due to the pandemic .
+此次活动吸引了来自 30 个国家的 285 家企业参加，受疫情影响比往年少。
+The fair attracted 285 enterprise from 30 countries , a number smaller than previous years due to the pandemic .
+此次展会吸引了来自30个国家的285家企业参展，受疫情影响比往年少。
+
+#117.0:
+The event attracted 285 enterprise from 30 countries , a number smaller than previous years due to the pandemic .
+此次活动吸引了来自 30 个国家的 285 家企业参加，受疫情影响比往年少。
+The festival attracted 285 enterprise from 30 countries , a number smaller than previous years due to the pandemic .
+该节日吸引了来自 30 个国家的 285 家企业参加，受疫情影响，这一数字比往年少。
+
+#118.0:
+The event attracted 285 enterprise from 30 countries , a number smaller than previous years due to the pandemic .
+此次活动吸引了来自 30 个国家的 285 家企业参加，受疫情影响比往年少。
+The exhibition attracted 285 enterprise from 30 countries , a number smaller than previous years due to the pandemic .
+此次展会吸引了来自30个国家的285家企业参展，受疫情影响比往年有所减少。
+
+#119.0:
+The event attracted 285 enterprise from 30 countries , a number smaller than previous years due to the pandemic .
+此次活动吸引了来自 30 个国家的 285 家企业参加，受疫情影响比往年少。
+The event involved 285 enterprise from 30 countries , a number smaller than previous years due to the pandemic .
+该活动涉及来自 30 个国家的 285 家企业，受疫情影响比往年少。
+
+#120.0:
+Many companies are conducting road shows , holding national and regional conferences , and organizing exhibition .
+许多公司正在进行路演，举办国家和地区会议，并组织展览。
+Many organizations are conducting road shows , holding national and regional conferences , and organizing exhibition .
+许多组织正在举办路演、举办国家和地区会议并组织展览。
+
+#123.0:
+Many companies are conducting road shows , holding national and regional conferences , and organizing exhibition .
+许多公司正在进行路演，举办国家和地区会议，并组织展览。
+Many companies are conducting road shows , hosting national and regional conferences , and organizing exhibition .
+许多公司正在进行路演、举办国家和地区会议并组织展览。
+
+#125.0:
+The Pied Piper then , more than a fairy tale , becomes the emblem of a profound historical mystery .
+吹笛者不仅是一个童话故事，还成为一个深刻的历史谜团的象征。
+The Pied Piper now , more than a fairy tale , becomes the emblem of a profound historical mystery .
+吹笛者现在不仅仅是一个童话，而是一个深刻的历史谜团的象征。
+
+#126.0:
+The Pied Piper then , more than a fairy tale , becomes the emblem of a profound historical mystery .
+吹笛者不仅是一个童话故事，还成为一个深刻的历史谜团的象征。
+The Pied Piper then , more than a fairy tale , becomes an emblem of a profound historical mystery .
+吹笛者，不仅仅是一个童话，成为一个深刻的历史谜团的象征。
+
+#127.0:
+The Pied Piper then , more than a fairy tale , becomes the emblem of a profound historical mystery .
+吹笛者不仅是一个童话故事，还成为一个深刻的历史谜团的象征。
+The Pied Piper thus , more than a fairy tale , becomes the emblem of a profound historical mystery .
+吹笛者因此，不仅仅是一个童话，成为一个深刻的历史谜团的象征。
+
+#128.0:
+The Pied Piper then , more than a fairy tale , becomes the emblem of a profound historical mystery .
+吹笛者不仅是一个童话故事，还成为一个深刻的历史谜团的象征。
+The Pied Piper itself , more than a fairy tale , becomes the emblem of a profound historical mystery .
+吹笛者本身，不仅仅是一个童话，而是一个深刻的历史谜团的象征。
+
+#129.0:
+The Pied Piper then , more than a fairy tale , becomes the emblem of a profound historical mystery .
+吹笛者不仅是一个童话故事，还成为一个深刻的历史谜团的象征。
+The Pied Piper then , more than a fairy tale , becomes the object of a profound historical mystery .
+吹笛者于是，不仅仅是一个童话，成为一个深刻的历史谜团的对象。
+
+#130.0:
+As countries restrict travel to help slow the spread of coronavirus , some separated couples are meeting each other at their nations ’ closed borders .
+随着各国限制旅行以帮助减缓冠状病毒的传播，一些分居的夫妇正在他们国家封闭的边境见面。
+Because countries restrict travel to help slow the spread of coronavirus , some separated couples are meeting each other at their nations ’ closed borders .
+由于各国限制旅行以帮助减缓冠状病毒的传播，一些分居的夫妇在其国家封闭的边境见面。
+
+#135.0:
+The costs of some popular routes have been halved for the period from mid - October through November , compared with the holiday .
+与假期相比，10 月中旬至 11 月期间，部分热门航线的费用已减半。
+The lengths of some popular routes have been halved for the period from mid - October through November , compared with the holiday .
+与假期相比，从 10 月中旬到 11 月期间，一些热门航线的长度减少了一半。
+
+#136.0:
+The costs of some popular routes have been halved for the period from mid - October through November , compared with the holiday .
+与假期相比，10 月中旬至 11 月期间，部分热门航线的费用已减半。
+The numbers of some popular routes have been halved for the period from mid - October through November , compared with the holiday .
+与假期相比，从 10 月中旬到 11 月期间，一些热门航线的数量减少了一半。
+
+#137.0:
+The costs of some popular routes have been halved for the period from mid - October through November , compared with the holiday .
+与假期相比，10 月中旬至 11 月期间，部分热门航线的费用已减半。
+The length of some popular routes have been halved for the period from mid - October through November , compared with the holiday .
+与假期相比，从 10 月中旬到 11 月期间，一些热门航线的长度减少了一半。
+
+#143.0:
+Experts have already begun assessing how a recovery might look once the Covid - 19 virus is contained , and which countries stand to bounce back best .
+专家们已经开始评估一旦 Covid-19 病毒得到控制，经济复苏的前景如何，以及哪些国家最容易反弹。
+Experts have already begun assessing how a recovery might look when the Covid - 19 virus is contained , and which countries stand to bounce back best .
+专家们已经开始评估当 Covid-19 病毒得到控制时，复苏的前景如何，以及哪些国家最容易反弹。
+
+#144.0:
+Experts have already begun assessing how a recovery might look once the Covid - 19 virus is contained , and which countries stand to bounce back best .
+专家们已经开始评估一旦 Covid-19 病毒得到控制，经济复苏的前景如何，以及哪些国家最容易反弹。
+Experts have already begun assessing how a recovery might look once the Covid - 19 virus is contained , and which countries hope to bounce back best .
+专家们已经开始评估一旦 Covid-19 病毒得到控制，复苏可能会如何，以及哪些国家最希望反弹。
+
+#145.0:
+He said he hopes that the native fruits in the Thai South will help boost both local farming and tourism incomes .
+他说，他希望泰国南部的本地水果有助于增加当地农业和旅游收入。
+He stated he hopes that the native fruits in the Thai South will help boost both local farming and tourism incomes .
+他表示，他希望泰国南部的本地水果有助于提高当地农业和旅游收入。
+
+#147.0:
+He said he hopes that the native fruits in the Thai South will help boost both local farming and tourism incomes .
+他说，他希望泰国南部的本地水果有助于增加当地农业和旅游收入。
+He added he hopes that the native fruits in the Thai South will help boost both local farming and tourism incomes .
+他补充说，他希望泰国南部的本地水果将有助于提高当地农业和旅游收入。
+
+#150.0:
+As Pakistan imposes greater social distancing measures to combat coronavirus , a Muslim law of generosity is helping to save those out of work .
+随着巴基斯坦为抗击冠状病毒而采取更大的社会疏离措施，一项穆斯林的慷慨法正在帮助拯救那些失业的人。
+As Islam imposes greater social distancing measures to combat coronavirus , a Muslim law of generosity is helping to save those out of work .
+随着伊斯兰教为对抗冠状病毒而采取更大的社会疏离措施，穆斯林的慷慨法则正在帮助拯救那些失业的人。
+
+#151.0:
+As Pakistan imposes greater social distancing measures to combat coronavirus , a Muslim law of generosity is helping to save those out of work .
+随着巴基斯坦为抗击冠状病毒而采取更大的社会疏离措施，一项穆斯林的慷慨法正在帮助拯救那些失业的人。
+As society imposes greater social distancing measures to combat coronavirus , a Muslim law of generosity is helping to save those out of work .
+随着社会采取更大的社会疏离措施来对抗冠状病毒，穆斯林的慷慨法则正在帮助拯救那些失业的人。
+
+#152.0:
+As Pakistan imposes greater social distancing measures to combat coronavirus , a Muslim law of generosity is helping to save those out of work .
+随着巴基斯坦为抗击冠状病毒而采取更大的社会疏离措施，一项穆斯林的慷慨法正在帮助拯救那些失业的人。
+Although Pakistan imposes greater social distancing measures to combat coronavirus , a Muslim law of generosity is helping to save those out of work .
+尽管巴基斯坦采取了更大的社会疏离措施来对抗冠状病毒，但穆斯林的慷慨法正在帮助挽救那些失业的人。
+
+#153.0:
+As Pakistan imposes greater social distancing measures to combat coronavirus , a Muslim law of generosity is helping to save those out of work .
+随着巴基斯坦为抗击冠状病毒而采取更大的社会疏离措施，一项穆斯林的慷慨法正在帮助拯救那些失业的人。
+While Pakistan imposes greater social distancing measures to combat coronavirus , a Muslim law of generosity is helping to save those out of work .
+虽然巴基斯坦采取了更大的社会隔离措施来对抗冠状病毒，但穆斯林的慷慨法正在帮助拯救那些失业的人。
+
+#155.0:
+The Laucala Private Island resort has partnered with Fiji Airways , the country ' s national airline , on a special itinerary .
+Laucala 私人岛屿度假村与该国的国家航空公司斐济航空公司合作，制定了一项特别的行程。
+The Nacala Private Island resort has partnered with Fiji Airways , the country ' s national airline , on a special itinerary .
+纳卡拉私人岛屿度假村与该国的国家航空公司斐济航空公司合作，制定了一个特别的行程。
+
+#156.0:
+The Laucala Private Island resort has partnered with Fiji Airways , the country ' s national airline , on a special itinerary .
+Laucala 私人岛屿度假村与该国的国家航空公司斐济航空公司合作，制定了一项特别的行程。
+The Ocala Private Island resort has partnered with Fiji Airways , the country ' s national airline , on a special itinerary .
+奥卡拉私人岛屿度假村与该国的国家航空公司斐济航空公司合作，制定了一个特别的行程。
+
+#158.0:
+The Laucala Private Island resort has partnered with Fiji Airways , the country ' s national airline , on a special itinerary .
+Laucala 私人岛屿度假村与该国的国家航空公司斐济航空公司合作，制定了一项特别的行程。
+The Laucala Private Island resort has partnered with Kenya Airways , the country ' s national airline , on a special itinerary .
+Laucala 私人岛屿度假村与该国的国家航空公司肯尼亚航空公司合作，制定了一个特别的行程。
+
+#159.0:
+The Laucala Private Island resort has partnered with Fiji Airways , the country ' s national airline , on a special itinerary .
+Laucala 私人岛屿度假村与该国的国家航空公司斐济航空公司合作，制定了一项特别的行程。
+The Laucala Private Island resort has partnered with Fiji Airways , the country ' s national airline , with a special itinerary .
+Laucala 私人岛屿度假村与该国的国家航空公司斐济航空公司合作，提供特别行程。
+
+#160.0:
+Some claim they began in Belgium , where the salty delight was first encountered by american soldiers during World War i .
+有人声称他们是从比利时开始的，第一次世界大战期间，美国士兵第一次遇到这种咸味的喜悦。
+Some say they began in Belgium , where the salty delight was first encountered by american soldiers during World War i .
+有人说他们是从比利时开始的，第一次世界大战期间美国士兵第一次遇到这种咸味的喜悦。
+
+#161.0:
+Some claim they began in Belgium , where the salty delight was first encountered by american soldiers during World War i .
+有人声称他们是从比利时开始的，第一次世界大战期间，美国士兵第一次遇到这种咸味的喜悦。
+Some believe they began in Belgium , where the salty delight was first encountered by american soldiers during World War i .
+一些人相信他们是从比利时开始的，第一次世界大战期间美国士兵第一次遇到咸味的喜悦。
+
+#162.0:
+Some claim they began in Belgium , where the salty delight was first encountered by american soldiers during World War i .
+有人声称他们是从比利时开始的，第一次世界大战期间，美国士兵第一次遇到这种咸味的喜悦。
+Some claim they began in Belgium , where the salty delight was first encountered by american soldiers in World War i .
+一些人声称他们是从比利时开始的，第一次世界大战中美国士兵第一次遇到这种咸味的喜悦。
+
+#167.0:
+It is covered with snow for eight months throughout the year , making it hard for crops to take root and grow .
+全年积雪长达八个月，庄稼难以生根发芽。
+It is covered with snow for eight months throughout the year , making it impossible for crops to take root and grow .
+全年有八个月的积雪覆盖，庄稼无法生根发芽。
+
+#168.0:
+It is covered with snow for eight months throughout the year , making it hard for crops to take root and grow .
+全年积雪长达八个月，庄稼难以生根发芽。
+It is covered in snow for eight months throughout the year , making it hard for crops to take root and grow .
+全年有八个月的积雪覆盖，庄稼很难生根发芽。
+
+#169.0:
+It is covered with snow for eight months throughout the year , making it hard for crops to take root and grow .
+全年积雪长达八个月，庄稼难以生根发芽。
+It is covered with snow for several months throughout the year , making it hard for crops to take root and grow .
+一年四季都有几个月的积雪覆盖，庄稼很难生根发芽。
+
+#170.0:
+The park will effectively serve residents within five kilometers and communities within 23 km , becoming a new commercial and leisure center .
+园区将有效服务5公里范围内的居民和23公里范围内的社区，成为新的商业和休闲中心。
+The park will effectively serve residents within five kilometers and communities within 23 km , creating a new commercial and leisure center .
+园区将有效服务5公里范围内的居民和23公里范围内的社区，打造全新的商业休闲中心。
+
+#180.0:
+Groups of friends and families are major forces behind bookings for the holiday , as college students account for a diminishing proportion .
+朋友和家人团体是假期预订的主要力量，因为大学生的比例越来越小。
+Thousands of friends and families are major forces behind bookings for the holiday , as college students account for a diminishing proportion .
+成千上万的朋友和家人是假期预订的主要力量，因为大学生所占的比例越来越小。
+
+#183.0:
+Groups of friends and families are major forces behind bookings for the holiday , as college students account for a diminishing proportion .
+朋友和家人团体是假期预订的主要力量，因为大学生的比例越来越小。
+Groups of friends and families are the forces behind bookings for the holiday , as college students account for a diminishing proportion .
+一群朋友和家人是假期预订背后的力量，因为大学生的比例越来越小。
+
+#185.0:
+It ’ s one of the key ingredients in Chinese málà cooking , and its effects are said to be both physiological and mental .
+它是中国málà烹饪的主要成分之一，据说它对生理和心理都有影响。
+It ’ s one of the key ingredients in Chinese dálà cooking , and its effects are said to be both physiological and mental .
+它是中国 dálà 烹饪的关键成分之一，据说它的作用是生理和心理的。
+
+#186.0:
+It ’ s one of the key ingredients in Chinese málà cooking , and its effects are said to be both physiological and mental .
+它是中国málà烹饪的主要成分之一，据说它对生理和心理都有影响。
+It ’ s one of the key ingredients in Chinese bálà cooking , and its effects are said to be both physiological and mental .
+它是中国巴拉烹饪的关键成分之一，据说它的作用是生理和心理的。
+
+#187.0:
+It ’ s one of the key ingredients in Chinese málà cooking , and its effects are said to be both physiological and mental .
+它是中国málà烹饪的主要成分之一，据说它对生理和心理都有影响。
+It ’ s one of the key ingredients in Chinese hálà cooking , and its effects are said to be both physiological and mental .
+它是中国哈拉烹饪的关键成分之一，据说它的作用是生理和心理的。
+
+#188.0:
+It ’ s one of the key ingredients in Chinese málà cooking , and its effects are said to be both physiological and mental .
+它是中国málà烹饪的主要成分之一，据说它对生理和心理都有影响。
+It ’ s one of the main ingredients in Chinese málà cooking , and its effects are said to be both physiological and mental .
+它是中国málà烹饪的主要成分之一，据说它的作用是生理和心理的。
+
+#189.0:
+It ’ s one of the key ingredients in Chinese málà cooking , and its effects are said to be both physiological and mental .
+它是中国málà烹饪的主要成分之一，据说它对生理和心理都有影响。
+It ’ s one of the primary ingredients in Chinese málà cooking , and its effects are said to be both physiological and mental .
+它是中国málà烹饪的主要成分之一，据说它的作用是生理和心理的。
+
+#190.0:
+This is the core of our service culture , a service that anticipates your every need and an emotional connection that comes from the heart .
+这是我们服务文化的核心，服务可以预见您的每一个需求，并且是发自内心的情感联系。
+That is the core of our service culture , a service that anticipates your every need and an emotional connection that comes from the heart .
+这就是我们服务文化的核心，服务可以预见您的每一个需求，以及发自内心的情感联系。
+
+#191.0:
+This is the core of our service culture , a service that anticipates your every need and an emotional connection that comes from the heart .
+这是我们服务文化的核心，服务可以预见您的每一个需求，并且是发自内心的情感联系。
+It is the core of our service culture , a service that anticipates your every need and an emotional connection that comes from the heart .
+它是我们服务文化的核心，一种能预见您的每一个需求的服务和一种发自内心的情感联系。
+
+#192.0:
+This is the core of our service culture , a service that anticipates your every need and an emotional connection that comes from the heart .
+这是我们服务文化的核心，服务可以预见您的每一个需求，并且是发自内心的情感联系。
+Service is the core of our service culture , a service that anticipates your every need and an emotional connection that comes from the heart .
+服务 是 我们 服务 文化 的 核心 , 服务 可以 预见 您 的 一切 需求 , 是 一种 发自 内心 的 情感 联系 .
+
+#193.0:
+This is the core of our service culture , a service that anticipates your every need and an emotional connection that comes from the heart .
+这是我们服务文化的核心，服务可以预见您的每一个需求，并且是发自内心的情感联系。
+This is the core of our service culture , a service that anticipates your every need with an emotional connection that comes from the heart .
+这是我们服务文化的核心，这种服务通过发自内心的情感联系来预见您的每一个需求。
+
+#194.0:
+This is the core of our service culture , a service that anticipates your every need and an emotional connection that comes from the heart .
+这是我们服务文化的核心，服务可以预见您的每一个需求，并且是发自内心的情感联系。
+This is the core of our service culture , a service that anticipates your every need through an emotional connection that comes from the heart .
+这是我们服务文化的核心，服务通过发自内心的情感联系来预测您的每一个需求。
+
+#196.0:
+Despite the impact of the coronavirus pandemic , Hilton has gradually restored and further developed its business at a steady pace in 2020 .
+尽管受到冠状病毒大流行的影响，希尔顿在2020年逐步恢复并稳步发展其业务。
+With the impact of the coronavirus pandemic , Hilton has gradually restored and further developed its business at a steady pace in 2020 .
+受新冠肺炎疫情影响，2020年希尔顿业务逐步恢复并稳步发展。
+
+#197.0:
+Despite the impact of the coronavirus pandemic , Hilton has gradually restored and further developed its business at a steady pace in 2020 .
+尽管受到冠状病毒大流行的影响，希尔顿在2020年逐步恢复并稳步发展其业务。
+Following the impact of the coronavirus pandemic , Hilton has gradually restored and further developed its business at a steady pace in 2020 .
+受新冠肺炎疫情影响，2020年希尔顿业务逐步恢复并稳步发展。
+
+#198.0:
+Despite the impact of the coronavirus pandemic , Hilton has gradually restored and further developed its business at a steady pace in 2020 .
+尽管受到冠状病毒大流行的影响，希尔顿在2020年逐步恢复并稳步发展其业务。
+After the impact of the coronavirus pandemic , Hilton has gradually restored and further developed its business at a steady pace in 2020 .
+受新冠肺炎疫情影响，希尔顿在2020年逐步恢复并稳步发展业务。
+
+#200.0:
+A countrywide lockdown due to coronavirus has not stopped Italians from bursting into morale - boosting song in a nationwide flashmob event .
+由于冠状病毒而在全国范围内进行的封锁并没有阻止意大利人在全国范围内的快闪活动中爆发出鼓舞士气的歌曲。
+A citywide lockdown due to coronavirus has not stopped Italians from bursting into morale - boosting song in a nationwide flashmob event .
+由于冠状病毒而导致的全市封锁并没有阻止意大利人在全国性的快闪活动中爆发出鼓舞士气的歌曲。
+
+#210.0:
+Stories of emptying supermarket shelves or arguing over packets of pasta can paint a bleak picture of the coronavirus outbreak .
+超市货架被清空或为意大利面包争吵的故事可能描绘出冠状病毒爆发的惨淡画面。
+Stories about emptying supermarket shelves or arguing over packets of pasta can paint a bleak picture of the coronavirus outbreak .
+关于清空超市货架或为一包意大利面发生争执的故事可以描绘出冠状病毒爆发的惨淡画面。
+
+#214.0:
+Stories of emptying supermarket shelves or arguing over packets of pasta can paint a bleak picture of the coronavirus outbreak .
+超市货架被清空或为意大利面包争吵的故事可能描绘出冠状病毒爆发的惨淡画面。
+Reports of emptying supermarket shelves or arguing over packets of pasta can paint a bleak picture of the coronavirus outbreak .
+关于清空超市货架或为一包意大利面发生争执的报道可能会描绘出冠状病毒爆发的惨淡画面。
+
+#218.0:
+Authorities around the world are trying to hammer home the message we have to wash our hands to protect against the spread of the new coronavirus .
+世界各地的当局都在努力传达我们必须洗手以防止新的冠状病毒传播的信息。
+Authorities around the world are trying to drive home the message we have to wash our hands to protect against the spread of the new coronavirus .
+世界各地的当局都在努力将我们必须洗手以防止新的冠状病毒传播的信息带回家。
+
+#219.0:
+Authorities around the world are trying to hammer home the message we have to wash our hands to protect against the spread of the new coronavirus .
+世界各地的当局都在努力传达我们必须洗手以防止新的冠状病毒传播的信息。
+Authorities around the world are trying to hammer home the message we have to wash our hands and protect against the spread of the new coronavirus .
+世界各地的当局都在努力向人们传达我们必须洗手并防止新的冠状病毒传播的信息。
+
+#225.0:
+In addition to swimming and sunbathing , the coast near Cossack is renowned for its suitability for watersports like fishing , kayaking and snorkeling .
+除了游泳和晒日光浴之外，哥萨克附近的海岸还以适合钓鱼、皮划艇和浮潜等水上运动而闻名。
+In addition to swimming and sunbathing , the coast near Cossack is renowned for its suitability for watersports like fishing , kayaking or snorkeling .
+除了游泳和日光浴之外，哥萨克附近的海岸还因其适合钓鱼、皮划艇或浮潜等水上运动而闻名。
+
+#228.0:
+In addition to swimming and sunbathing , the coast near Cossack is renowned for its suitability for watersports like fishing , kayaking and snorkeling .
+除了游泳和晒日光浴之外，哥萨克附近的海岸还以适合钓鱼、皮划艇和浮潜等水上运动而闻名。
+In addition to swimming and sunbathing , the coast near Cossack is renowned for its suitability for watersports like sailing , kayaking and snorkeling .
+除了游泳和晒日光浴之外，哥萨克附近的海岸还因其适合进行帆船、皮划艇和浮潜等水上运动而闻名。
+
+#229.0:
+In addition to swimming and sunbathing , the coast near Cossack is renowned for its suitability for watersports like fishing , kayaking and snorkeling .
+除了游泳和晒日光浴之外，哥萨克附近的海岸还以适合钓鱼、皮划艇和浮潜等水上运动而闻名。
+In addition to swimming and sunbathing , the coast near Cossack is renowned for its suitability for watersports like surfing , kayaking and snorkeling .
+除了游泳和日光浴之外，哥萨克附近的海岸还因其适合进行冲浪、皮划艇和浮潜等水上运动而闻名。
+
+#233.0:
+One of the main things is to get a bunch of people that can read the messages that we learn back to their respective countries .
+主要的事情之一是让一群能够阅读我们学到的信息的人回到他们各自的国家。
+One of the main things is to get a bunch of people that will read the messages that we learn back to their respective countries .
+主要的事情之一是让一群人阅读我们学到的信息回到他们各自的国家。
+
+#242.0:
+For centuries , literary writing was composed in the classical style , or wenyanwen , which followed a different syntactical structure from spoken speech .
+几个世纪以来，文学作品都是以古典风格或文言文创作的，其句法结构与口语不同。
+For centuries , literary writing was composed in the classical style , or henyanwen , which followed a different syntactical structure from spoken speech .
+几个世纪以来，文学作品都是以古典风格或henyanwen组成的，它遵循与口语不同的句法结构。
+
+#243.0:
+For centuries , literary writing was composed in the classical style , or wenyanwen , which followed a different syntactical structure from spoken speech .
+几个世纪以来，文学作品都是以古典风格或文言文创作的，其句法结构与口语不同。
+For centuries , literary writing was produced in the classical style , or wenyanwen , which followed a different syntactical structure from spoken speech .
+几个世纪以来，文学作品都是以古典风格或文言文产生的，它遵循与口语不同的句法结构。
+
+#245.0:
+The EIU predicts that the trends will continue , with people prioritizing staples and home entertainment over the likes of clothing during 2021 .
+EIU 预测，这种趋势将继续下去，到 2021 年，人们将主食和家庭娱乐置于服装之类的东西之上。
+The SIU predicts that the trends will continue , with people prioritizing staples and home entertainment over the likes of clothing during 2021 .
+SIU 预测，这种趋势将继续下去，人们在 2021 年将主食和家庭娱乐置于服装之类的东西之上。
+
+#247.0:
+The EIU predicts that the trends will continue , with people prioritizing staples and home entertainment over the likes of clothing during 2021 .
+EIU 预测，这种趋势将继续下去，到 2021 年，人们将主食和家庭娱乐置于服装之类的东西之上。
+The EIU predicts that the trends will continue , with people prioritizing staples and home entertainment over the likes of clothing in 2021 .
+EIU 预测，这种趋势将继续下去，到 2021 年，人们会优先考虑主食和家庭娱乐，而不是服装等。
+
+#248.0:
+The EIU predicts that the trends will continue , with people prioritizing staples and home entertainment over the likes of clothing during 2021 .
+EIU 预测，这种趋势将继续下去，到 2021 年，人们将主食和家庭娱乐置于服装之类的东西之上。
+The EIU predicts that the trends will continue , with people prioritizing staples and home entertainment over the likes of clothing by 2021 .
+EIU 预测，这种趋势将继续下去，到 2021 年，人们会优先考虑主食和家庭娱乐，而不是服装等。
+
+#249.0:
+The EIU predicts that the trends will continue , with people prioritizing staples and home entertainment over the likes of clothing during 2021 .
+EIU 预测，这种趋势将继续下去，到 2021 年，人们将主食和家庭娱乐置于服装之类的东西之上。
+The EIU predicts that these trends will continue , with people prioritizing staples and home entertainment over the likes of clothing during 2021 .
+EIU 预测，这些趋势将继续下去，到 2021 年，人们会优先考虑主食和家庭娱乐，而不是服装等。
+
+#254.0:
+The hike is to increase staff numbers , ensure stronger security screenings , and upgrade IT equipment and software , according to the European Commission .
+据欧盟委员会称，此次加息是为了增加员工人数，确保加强安全检查，并升级 IT 设备和软件。
+The hike is to increase staff numbers , provide stronger security screenings , and upgrade IT equipment and software , according to the European Commission .
+据欧盟委员会称，此次加息是为了增加员工人数、提供更强大的安全检查以及升级 IT 设备和软件。
+
+#255.0:
+Tourism players are counting on the holiday to make up for the losses caused by the pandemic and have developed favorable policies to boost consumption .
+旅游者寄希望于假期弥补疫情造成的损失，并制定了刺激消费的利好政策。
+Tourism players are counting on the holiday to make up for the loss caused by the pandemic and have developed favorable policies to boost consumption .
+旅游者寄希望于假期来弥补疫情造成的损失，并制定了促进消费的利好政策。
+
+#256.0:
+Tourism players are counting on the holiday to make up for the losses caused by the pandemic and have developed favorable policies to boost consumption .
+旅游者寄希望于假期弥补疫情造成的损失，并制定了刺激消费的利好政策。
+Tourism players are counting on the holiday to make up for the losses caused by the pandemic and have enacted favorable policies to boost consumption .
+旅游者寄希望于假期弥补疫情造成的损失，并出台了促进消费的利好政策。
+
+#257.0:
+Tourism players are counting on the holiday to make up for the losses caused by the pandemic and have developed favorable policies to boost consumption .
+旅游者寄希望于假期弥补疫情造成的损失，并制定了刺激消费的利好政策。
+Tourism players are counting on the holiday to make up for the losses caused by the pandemic and have implemented favorable policies to boost consumption .
+旅游者寄希望于假期弥补疫情造成的损失，并实施利好政策刺激消费。
+
+#258.0:
+Tourism players are counting on the holiday to make up for the losses caused by the pandemic and have developed favorable policies to boost consumption .
+旅游者寄希望于假期弥补疫情造成的损失，并制定了刺激消费的利好政策。
+Tourism players are counting on the holiday to make up for the losses caused by the pandemic and have adopted favorable policies to boost consumption .
+旅游者寄希望于假期弥补疫情造成的损失，采取利好政策提振消费。
+
+#260.0:
+Before the COVID - 19 air travel restrictions were imposed , we have had lots of positive feedbacks from Chinese tourists who said they like Puangmanee durian .
+在实施 COVID-19 航空旅行限制之前，我们从中国游客那里得到了很多积极的反馈，他们说他们喜欢 Puangmanee 榴莲。
+After the COVID - 19 air travel restrictions were imposed , we have had lots of positive feedbacks from Chinese tourists who said they like Puangmanee durian .
+在实施 COVID-19 航空旅行限制后，我们收到了很多来自中国游客的积极反馈，他们说他们喜欢 Puangmanee 榴莲。
+
+#261.0:
+Before the COVID - 19 air travel restrictions were imposed , we have had lots of positive feedbacks from Chinese tourists who said they like Puangmanee durian .
+在实施 COVID-19 航空旅行限制之前，我们从中国游客那里得到了很多积极的反馈，他们说他们喜欢 Puangmanee 榴莲。
+Since the COVID - 19 air travel restrictions were imposed , we have had lots of positive feedbacks from Chinese tourists who said they like Puangmanee durian .
+自从实施 COVID-19 航空旅行限制以来，我们收到了很多来自中国游客的积极反馈，他们说他们喜欢 Puangmanee 榴莲。
+
+#262.0:
+Before the COVID - 19 air travel restrictions were imposed , we have had lots of positive feedbacks from Chinese tourists who said they like Puangmanee durian .
+在实施 COVID-19 航空旅行限制之前，我们从中国游客那里得到了很多积极的反馈，他们说他们喜欢 Puangmanee 榴莲。
+Before the COVID - 19 air travel restrictions are imposed , we have had lots of positive feedbacks from Chinese tourists who said they like Puangmanee durian .
+在实施 COVID-19 航空旅行限制之前，我们收到了很多来自中国游客的积极反馈，他们说他们喜欢 Puangmanee 榴莲。
+
+#264.0:
+Before the COVID - 19 air travel restrictions were imposed , we have had lots of positive feedbacks from Chinese tourists who said they like Puangmanee durian .
+在实施 COVID-19 航空旅行限制之前，我们从中国游客那里得到了很多积极的反馈，他们说他们喜欢 Puangmanee 榴莲。
+Before the COVID - 19 air travel restrictions were imposed , we have had lots of positive feedbacks from foreign tourists who said they like Puangmanee durian .
+在实施 COVID-19 航空旅行限制之前，我们收到了很多外国游客的积极反馈，他们说他们喜欢 Puangmanee 榴莲。
+
+#273.0:
+It is difficult to get each piece of rice or noodle slightly toasted and mixed evenly with the rest of the ingredients without burning it .
+很难让每一块米饭或面条稍微烤一下，并与其他配料混合均匀而不烧焦。
+It is difficult to get each piece of rice or noodle slightly toasted and spread evenly with the rest of the ingredients without burning it .
+很难让每一块米饭或面条稍微烤一下，然后在不烧焦的情况下与其他配料均匀涂抹。
+
+#274.0:
+It is difficult to get each piece of rice or noodle slightly toasted and mixed evenly with the rest of the ingredients without burning it .
+很难让每一块米饭或面条稍微烤一下，并与其他配料混合均匀而不烧焦。
+It is difficult to get each piece of rice or noodle slightly toasted and cooked evenly with the rest of the ingredients without burning it .
+很难让每一块米饭或面条都稍微烤一下，然后与其他配料一起均匀煮熟而不烧焦。
+
+#275.0:
+With its eerie empty streets , dark history , colonial architecture and stunning seaside location , remote Cossack is an offbeat but rewarding tourist attraction .
+偏远的哥萨克拥有令人毛骨悚然的空荡荡的街道、黑暗的历史、殖民时期的建筑和迷人的海滨位置，是一个另类但值得一去的旅游胜地。
+With its long empty streets , dark history , colonial architecture and stunning seaside location , remote Cossack is an offbeat but rewarding tourist attraction .
+遥远的哥萨克拥有漫长空旷的街道、黑暗的历史、殖民时期的建筑和迷人的海滨位置，是一个另类但值得一去的旅游胜地。
+
+#276.0:
+With its eerie empty streets , dark history , colonial architecture and stunning seaside location , remote Cossack is an offbeat but rewarding tourist attraction .
+偏远的哥萨克拥有令人毛骨悚然的空荡荡的街道、黑暗的历史、殖民时期的建筑和迷人的海滨位置，是一个另类但值得一去的旅游胜地。
+With its eerie empty streets , dark history , colonial architecture and beautiful seaside location , remote Cossack is an offbeat but rewarding tourist attraction .
+凭借其怪异空旷的街道、黑暗的历史、殖民时期的建筑和美丽的海滨位置，偏远的哥萨克是一个另类但有益的旅游胜地。
+
+#279.0:
+With its eerie empty streets , dark history , colonial architecture and stunning seaside location , remote Cossack is an offbeat but rewarding tourist attraction .
+偏远的哥萨克拥有令人毛骨悚然的空荡荡的街道、黑暗的历史、殖民时期的建筑和迷人的海滨位置，是一个另类但值得一去的旅游胜地。
+With its many empty streets , dark history , colonial architecture and stunning seaside location , remote Cossack is an offbeat but rewarding tourist attraction .
+拥有许多空荡荡的街道、黑暗的历史、殖民时期的建筑和迷人的海滨位置，偏远的哥萨克是一个另类但值得一去的旅游胜地。
+
+#281.0:
+Deserts , camel rides , danxia landforms and historical sites along the silk road are among the biggest draws for northwestern China , the agency says .
+该机构称，沙漠、骑骆驼、丹霞地貌和丝绸之路沿线的历史遗迹是中国西北地区最大的吸引力之一。
+Deserts , camel rides , hanxia landforms and historical sites along the silk road are among the biggest draws for northwestern China , the agency says .
+该机构称，沙漠、骆驼骑行、汉夏地貌和丝绸之路沿线的历史遗迹是中国西北地区最大的吸引力之一。
+
+#282.0:
+Deserts , camel rides , danxia landforms and historical sites along the silk road are among the biggest draws for northwestern China , the agency says .
+该机构称，沙漠、骑骆驼、丹霞地貌和丝绸之路沿线的历史遗迹是中国西北地区最大的吸引力之一。
+Temples , camel rides , danxia landforms and historical sites along the silk road are among the biggest draws for northwestern China , the agency says .
+该机构称，丝绸之路沿线的寺庙、骑骆驼、丹霞地貌和历史遗迹是中国西北地区最大的吸引力之一。
+
+#284.0:
+Deserts , camel rides , danxia landforms and historical sites along the silk road are among the biggest draws for northwestern China , the agency says .
+该机构称，沙漠、骑骆驼、丹霞地貌和丝绸之路沿线的历史遗迹是中国西北地区最大的吸引力之一。
+Deserts , camel rides , jinxia landforms and historical sites along the silk road are among the biggest draws for northwestern China , the agency says .
+该机构称，沙漠、骆驼骑行、金霞地貌和丝绸之路沿线的历史遗迹是中国西北地区最大的吸引力之一。
+
+#285.0:
+Pattani launched its Puangmanee durian season on Thursday , with promotions designed to lure the lucrative Chinese market for this unique variety of the pungent fruit .
+周四，北大年推出了 Puangmanee 榴莲季，其促销活动旨在为这种独特的辛辣水果品种吸引利润丰厚的中国市场。
+Pattani launched its Guangmanee durian season on Thursday , with promotions designed to lure the lucrative Chinese market for this unique variety of the pungent fruit .
+周四，北大年推出了广马尼榴莲季，其促销活动旨在吸引利润丰厚的中国市场购买这种独特的辛辣水果品种。
+
+#286.0:
+Pattani launched its Puangmanee durian season on Thursday , with promotions designed to lure the lucrative Chinese market for this unique variety of the pungent fruit .
+周四，北大年推出了 Puangmanee 榴莲季，其促销活动旨在为这种独特的辛辣水果品种吸引利润丰厚的中国市场。
+Patani launched its Puangmanee durian season on Thursday , with promotions designed to lure the lucrative Chinese market for this unique variety of the pungent fruit .
+Patani 于周四启动了 Puangmanee 榴莲季，其促销活动旨在吸引利润丰厚的中国市场购买这种独特的辛辣水果品种。
+
+#289.0:
+Pattani launched its Puangmanee durian season on Thursday , with promotions designed to lure the lucrative Chinese market for this unique variety of the pungent fruit .
+周四，北大年推出了 Puangmanee 榴莲季，其促销活动旨在为这种独特的辛辣水果品种吸引利润丰厚的中国市场。
+Pattani launched its Puangmanee durian season on Thursday , with promotions designed to lure the lucrative Chinese market for this unique variety of highly pungent fruit .
+周四，北大年推出了 Puangmanee 榴莲季，其促销活动旨在吸引利润丰厚的中国市场购买这种独特的高度刺激性水果。
+
+#290.0:
+The region boasts abundant tourism resources and attractive destinations , along with a dynamic economy , impressive growth , and a strong reputation for business travel .
+该地区拥有丰富的旅游资源和吸引人的目的地，以及充满活力的经济、令人瞩目的增长和良好的商务旅行声誉。
+The area boasts abundant tourism resources and attractive destinations , along with a dynamic economy , impressive growth , and a strong reputation for business travel .
+该地区拥有丰富的旅游资源和引人入胜的旅游目的地，经济活跃，增长迅猛，商务旅行享有盛誉。
+
+#291.0:
+The region boasts abundant tourism resources and attractive destinations , along with a dynamic economy , impressive growth , and a strong reputation for business travel .
+该地区拥有丰富的旅游资源和吸引人的目的地，以及充满活力的经济、令人瞩目的增长和良好的商务旅行声誉。
+The region boasts abundant tourism resources and attractive destinations , along with a dynamic economy , impressive growth , and a good reputation for business travel .
+该地区拥有丰富的旅游资源和引人入胜的旅游目的地，经济活跃，增长迅猛，商务旅行享有盛誉。
+
+#293.0:
+The region boasts abundant tourism resources and attractive destinations , along with a dynamic economy , impressive growth , and a strong reputation for business travel .
+该地区拥有丰富的旅游资源和吸引人的目的地，以及充满活力的经济、令人瞩目的增长和良好的商务旅行声誉。
+The county boasts abundant tourism resources and attractive destinations , along with a dynamic economy , impressive growth , and a strong reputation for business travel .
+该县拥有丰富的旅游资源和迷人的旅游目的地，经济蓬勃发展，发展迅猛，商旅享有盛誉。
+
+#295.0:
+Nudism is part of this broader movement , which was directed against industrial modernity , against the new society that emerged in the late 19th century .
+裸体主义是这场更广泛运动的一部分，该运动针对工业现代性，针对 19 世纪后期出现的新社会。
+Nudism is part of this broader movement , which was directed against industrial modernity , against the new society which emerged in the late 19th century .
+裸体主义是这场更广泛的运动的一部分，该运动针对工业现代性，反对 19 世纪后期出现的新社会。
+
+#298.0:
+Nudism is part of this broader movement , which was directed against industrial modernity , against the new society that emerged in the late 19th century .
+裸体主义是这场更广泛运动的一部分，该运动针对工业现代性，针对 19 世纪后期出现的新社会。
+Nudism is part of this broader movement , which was directed against industrial modernity , against the new society that emerged in the late nineteenth century .
+裸体主义是这场更广泛运动的一部分，该运动针对的是工业现代性，反对十九世纪后期出现的新社会。
+
+#300.0:
+On some level , the tale stokes a primal fear , with the Piper a version of a universal bogey man that continues to haunt us .
+在某种程度上，这个故事激起了一种原始的恐惧，吹笛者是一个继续困扰着我们的普遍妖怪的一个版本。
+At some level , the tale stokes a primal fear , with the Piper a version of a universal bogey man that continues to haunt us .
+在某种程度上，这个故事引发了一种原始的恐惧，吹笛者是一个继续困扰着我们的普遍妖怪的版本。
+
+#301.0:
+On some level , the tale stokes a primal fear , with the Piper a version of a universal bogey man that continues to haunt us .
+在某种程度上，这个故事激起了一种原始的恐惧，吹笛者是一个继续困扰着我们的普遍妖怪的一个版本。
+On one level , the tale stokes a primal fear , with the Piper a version of a universal bogey man that continues to haunt us .
+在某个层面上，这个故事引发了一种原始的恐惧，吹笛者是一个继续困扰着我们的普遍怪物的一个版本。
+
+#302.0:
+On some level , the tale stokes a primal fear , with the Piper a version of a universal bogey man that continues to haunt us .
+在某种程度上，这个故事激起了一种原始的恐惧，吹笛者是一个继续困扰着我们的普遍妖怪的一个版本。
+On another level , the tale stokes a primal fear , with the Piper a version of a universal bogey man that continues to haunt us .
+在另一个层面上，这个故事引发了一种原始的恐惧，吹笛者是一个继续困扰着我们的普遍怪物的一个版本。
+
+#305.0:
+The ancestral sauce of black tucupi is making its way onto the menus of some of South America ’ s best restaurants , bringing a new sense of pride to an age - old tradition .
+祖传的黑色 tucupi 酱汁正在出现在南美一些最好的餐厅的菜单上，为古老的传统带来了新的自豪感。
+The unique sauce of black tucupi is making its way onto the menus of some of South America ’ s best restaurants , bringing a new sense of pride to an age - old tradition .
+独特的黑 tucupi 酱汁正在出现在南美一些最好的餐厅的菜单上，为古老的传统带来新的自豪感。
+
+#307.0:
+The ancestral sauce of black tucupi is making its way onto the menus of some of South America ’ s best restaurants , bringing a new sense of pride to an age - old tradition .
+祖传的黑色 tucupi 酱汁正在出现在南美一些最好的餐厅的菜单上，为古老的传统带来了新的自豪感。
+The special sauce of black tucupi is making its way onto the menus of some of South America ’ s best restaurants , bringing a new sense of pride to an age - old tradition .
+黑 tucupi 的特制酱汁正在进入南美一些最好的餐厅的菜单，为古老的传统带来新的自豪感。
+
+#308.0:
+The ancestral sauce of black tucupi is making its way onto the menus of some of South America ’ s best restaurants , bringing a new sense of pride to an age - old tradition .
+祖传的黑色 tucupi 酱汁正在出现在南美一些最好的餐厅的菜单上，为古老的传统带来了新的自豪感。
+This ancestral sauce of black tucupi is making its way onto the menus of some of South America ’ s best restaurants , bringing a new sense of pride to an age - old tradition .
+这种祖传的黑色 tucupi 酱正在进入南美一些最佳餐厅的菜单，为古老的传统带来新的自豪感。
+
+#309.0:
+The ancestral sauce of black tucupi is making its way onto the menus of some of South America ’ s best restaurants , bringing a new sense of pride to an age - old tradition .
+祖传的黑色 tucupi 酱汁正在出现在南美一些最好的餐厅的菜单上，为古老的传统带来了新的自豪感。
+The ancestral sauce of black tucupi is finding its way onto the menus of some of South America ’ s best restaurants , bringing a new sense of pride to an age - old tradition .
+祖传的黑色 tucupi 酱汁正出现在南美一些最佳餐厅的菜单上，为古老的传统带来新的自豪感。
+
+#311.0:
+He points out everything done wrong in the original egg fried rice video , a response that has gathered more than 17 million views so far .
+他指出原始鸡蛋炒饭视频中的所有错误，到目前为止，该视频的观看次数已超过 1700 万。
+He points out everything done wrong in the original egg fried rice video , a response that has gained more than 17 million views so far .
+他指出原始鸡蛋炒饭视频中的所有错误，到目前为止，该视频已获得超过 1700 万次观看。
+
+#315.0:
+To understand the heart of Rovaniemi , Finland , step away from the city center and into the quiet of the forest , where reindeer rule .
+要了解芬兰罗瓦涅米的心脏地带，请远离市中心，进入驯鹿统治的宁静森林。
+To reach the heart of Rovaniemi , Finland , step away from the city center and into the quiet of the forest , where reindeer rule .
+要到达芬兰罗瓦涅米的中心，请远离市中心，进入驯鹿统治的宁静森林。
+
+#316.0:
+To understand the heart of Rovaniemi , Finland , step away from the city center and into the quiet of the forest , where reindeer rule .
+要了解芬兰罗瓦涅米的心脏地带，请远离市中心，进入驯鹿统治的宁静森林。
+To enter the heart of Rovaniemi , Finland , step away from the city center and into the quiet of the forest , where reindeer rule .
+要进入芬兰罗瓦涅米的中心地带，请远离市中心，进入驯鹿统治的宁静森林。
+
+#320.0:
+Tourists can immerse themselves in the more than 50 tourist activities available in Jilin during the winter , ranging from a ski carnival to a music festival .
+游客可以沉浸在吉林冬季的 50 多项旅游活动中，从滑雪嘉年华到音乐节，应有尽有。
+Tourists can immerse themselves in the more than 30 tourist activities available in Jilin during the winter , ranging from a ski carnival to a music festival .
+冬季期间，游客可以沉浸在吉林的 30 多项旅游活动中，从滑雪嘉年华到音乐节，应有尽有。
+
+#324.0:
+Tourists can immerse themselves in the more than 50 tourist activities available in Jilin during the winter , ranging from a ski carnival to a music festival .
+游客可以沉浸在吉林冬季的 50 多项旅游活动中，从滑雪嘉年华到音乐节，应有尽有。
+Tourists can immerse themselves in the more than 50 recreational activities available in Jilin during the winter , ranging from a ski carnival to a music festival .
+冬季期间，游客可以沉浸在吉林的 50 多项娱乐活动中，从滑雪嘉年华到音乐节，应有尽有。
+
+#325.0:
+He and his family usually spend a day or two near the lake , which offers refreshing experiences with the nice air and sunshine , he said .
+他说，他和他的家人通常会在湖边待上一两天，那里空气清新，阳光明媚，让人耳目一新。
+He and his family often spend a day or two near the lake , which offers refreshing experiences with the nice air and sunshine , he said .
+他说，他和他的家人经常在湖边度过一两天，那里空气清新，阳光明媚，让人耳目一新。
+
+#330.0:
+In it , he wrote about run - ins with burglars who left fried eggs as their calling card , or a short - sighted horse that was wrecking local cars .
+在其中，他写到与留下煎蛋作为名片的窃贼发生冲突，或者是一匹短视的马撞毁了当地的汽车。
+In it , he wrote about run - ins with burglars that left fried eggs as their calling card , or a short - sighted horse that was wrecking local cars .
+在这本书中，他写到了与将煎鸡蛋作为名片的窃贼发生冲突，或者是一匹短视的马撞毁了当地的汽车。
+
+#331.0:
+In it , he wrote about run - ins with burglars who left fried eggs as their calling card , or a short - sighted horse that was wrecking local cars .
+在其中，他写到与留下煎蛋作为名片的窃贼发生冲突，或者是一匹短视的马撞毁了当地的汽车。
+In it , he wrote about run - ins with burglars who left fried eggs as their calling card , or a short - legged horse that was wrecking local cars .
+在其中，他写到了与留下煎蛋作为名片的窃贼的冲突，或者是一匹正在破坏当地汽车的短腿马。
+
+#332.0:
+In it , he wrote about run - ins with burglars who left fried eggs as their calling card , or a short - sighted horse that was wrecking local cars .
+在其中，他写到与留下煎蛋作为名片的窃贼发生冲突，或者是一匹短视的马撞毁了当地的汽车。
+In it , he wrote about run - ins with burglars who left scrambled eggs as their calling card , or a short - sighted horse that was wrecking local cars .
+在其中，他写到了与留下炒鸡蛋作为名片的窃贼的冲突，或者是一匹正在破坏当地汽车的短视马。
+
+#333.0:
+In it , he wrote about run - ins with burglars who left fried eggs as their calling card , or a short - sighted horse that was wrecking local cars .
+在其中，他写到与留下煎蛋作为名片的窃贼发生冲突，或者是一匹短视的马撞毁了当地的汽车。
+In particular , he wrote about run - ins with burglars who left fried eggs as their calling card , or a short - sighted horse that was wrecking local cars .
+特别是，他写到了与留下煎蛋作为名片的窃贼的冲突，或者一匹短视的马撞毁了当地的汽车。
+
+#334.0:
+In it , he wrote about run - ins with burglars who left fried eggs as their calling card , or a short - sighted horse that was wrecking local cars .
+在其中，他写到与留下煎蛋作为名片的窃贼发生冲突，或者是一匹短视的马撞毁了当地的汽车。
+In addition , he wrote about run - ins with burglars who left fried eggs as their calling card , or a short - sighted horse that was wrecking local cars .
+此外，他还写过与留下煎蛋作为名片的窃贼发生冲突，或者是一匹短视的马撞毁了当地的汽车。
+
+#335.0:
+That said , despite the oceans involved , an Irish accent often shares more similar features to an American one than it does to southern English .
+也就是说，尽管涉及海洋，但爱尔兰口音与美国口音的相似之处往往比与南部英语的相似。
+That said , despite the oceans involved , an Irish accent usually shares more similar features to an American one than it does to southern English .
+也就是说，尽管涉及海洋，但爱尔兰口音通常与美国口音相比与南部英语有更多相似之处。
+
+#336.0:
+That said , despite the oceans involved , an Irish accent often shares more similar features to an American one than it does to southern English .
+也就是说，尽管涉及海洋，但爱尔兰口音与美国口音的相似之处往往比与南部英语的相似。
+That said , despite the oceans involved , an Irish accent generally shares more similar features to an American one than it does to southern English .
+也就是说，尽管涉及海洋，但爱尔兰口音通常与美国口音相比与南部英语更相似。
+
+#337.0:
+That said , despite the oceans involved , an Irish accent often shares more similar features to an American one than it does to southern English .
+也就是说，尽管涉及海洋，但爱尔兰口音与美国口音的相似之处往往比与南部英语的相似。
+That said , despite the oceans involved , an Irish accent typically shares more similar features to an American one than it does to southern English .
+也就是说，尽管涉及到海洋，爱尔兰口音通常与美国口音相比与南部英语更相似。
+
+#338.0:
+That said , despite the oceans involved , an Irish accent often shares more similar features to an American one than it does to southern English .
+也就是说，尽管涉及海洋，但爱尔兰口音与美国口音的相似之处往往比与南部英语的相似。
+That said , despite the oceans involved , an Irish accent still shares more similar features to an American one than it does to southern English .
+也就是说，尽管涉及到海洋，但爱尔兰口音与美国口音的相似之处仍比南部英语多。
+
+#340.0:
+Even on a hot summer day , expect them to be bracing , as they rush in from the Atlantic and remain ice - cold year - round as a result .
+即使在炎热的夏日，当他们从大西洋冲进来并因此全年都保持冰冷时，预计他们也会振作起来。
+Especially on a hot summer day , expect them to be bracing , as they rush in from the Atlantic and remain ice - cold year - round as a result .
+尤其是在炎热的夏日，当他们从大西洋冲进来并因此全年保持冰冷时，预计他们会振作起来。
+
+#341.0:
+Even on a hot summer day , expect them to be bracing , as they rush in from the Atlantic and remain ice - cold year - round as a result .
+即使在炎热的夏日，当他们从大西洋冲进来并因此全年都保持冰冷时，预计他们也会振作起来。
+But on a hot summer day , expect them to be bracing , as they rush in from the Atlantic and remain ice - cold year - round as a result .
+但在炎热的夏日，当他们从大西洋冲进来并因此全年保持冰冷时，预计他们会振作起来。
+
+#342.0:
+Even on a hot summer day , expect them to be bracing , as they rush in from the Atlantic and remain ice - cold year - round as a result .
+即使在炎热的夏日，当他们从大西洋冲进来并因此全年都保持冰冷时，预计他们也会振作起来。
+Even on a warm summer day , expect them to be bracing , as they rush in from the Atlantic and remain ice - cold year - round as a result .
+即使在一个温暖的夏日，当他们从大西洋冲进来并因此一年四季都保持冰冷的时候，期待他们振作起来。
+
+#343.0:
+Even on a hot summer day , expect them to be bracing , as they rush in from the Atlantic and remain ice - cold year - round as a result .
+即使在炎热的夏日，当他们从大西洋冲进来并因此全年都保持冰冷时，预计他们也会振作起来。
+Even on a hot summer night , expect them to be bracing , as they rush in from the Atlantic and remain ice - cold year - round as a result .
+即使在一个炎热的夏夜，当他们从大西洋冲进来时，预计他们也会振作起来，并因此全年保持冰冷。
+
+#344.0:
+Even on a hot summer day , expect them to be bracing , as they rush in from the Atlantic and remain ice - cold year - round as a result .
+即使在炎热的夏日，当他们从大西洋冲进来并因此全年都保持冰冷时，预计他们也会振作起来。
+Even on a hot summer day , expect them to be bracing , as they rush in from the Atlantic and remain ice - cold year - round as a consequence .
+即使在炎热的夏日，当他们从大西洋冲进来并因此全年保持冰冷时，也希望他们能够振作起来。
+
+#345.0:
+In recent years , an increasing number of food writers and scientists have been modernizing Chinese cooking while looking deeper into its origins , including wok hei .
+近年来，越来越多的美食作家和科学家一直在对中国烹饪进行现代化改造，同时深入研究其起源，包括炒锅。
+In recent years , an increasing number of food writers and scientists have been modernizing Chinese cooking while looking deeper into its origins , particularly wok hei .
+近年来，越来越多的美食作家和科学家在深入研究其起源，尤其是炒锅的同时，对中国烹饪进行了现代化改造。
+
+#346.0:
+In recent years , an increasing number of food writers and scientists have been modernizing Chinese cooking while looking deeper into its origins , including wok hei .
+近年来，越来越多的美食作家和科学家一直在对中国烹饪进行现代化改造，同时深入研究其起源，包括炒锅。
+In recent years , an increasing number of food writers and scientists have been modernizing Chinese cooking by looking deeper into its origins , including wok hei .
+近年来，越来越多的美食作家和科学家通过深入研究中国烹饪的起源（包括炒锅）来实现中国烹饪的现代化。
+
+#347.0:
+In recent years , an increasing number of food writers and scientists have been modernizing Chinese cooking while looking deeper into its origins , including wok hei .
+近年来，越来越多的美食作家和科学家一直在对中国烹饪进行现代化改造，同时深入研究其起源，包括炒锅。
+In recent years , an increasing number of food writers and scientists have been modernizing Chinese cooking while looking deeper into its origins , especially wok hei .
+近年来，越来越多的美食作家和科学家在深入研究中式烹饪起源的同时，对中国烹饪进行了现代化改造，尤其是炒锅。
+
+#350.0:
+The Antarctic Sabbatical , as the travel company is dubbing it , will give five people the opportunity to study how widely micro plastics have infiltrated the region .
+南极假期，正如旅游公司所称的那样，将让五个人有机会研究微塑料如何广泛地渗透到该地区。
+The Antarctic Sabbatical , as the travel company is dubbing it , will give five people an opportunity to study how widely micro plastics have infiltrated the region .
+这家旅游公司将其命名为“南极假期”，这将使五人有机会研究微塑料在该地区的渗透程度。
+
+#351.0:
+The Antarctic Sabbatical , as the travel company is dubbing it , will give five people the opportunity to study how widely micro plastics have infiltrated the region .
+南极假期，正如旅游公司所称的那样，将让五个人有机会研究微塑料如何广泛地渗透到该地区。
+The Green Sabbatical , as the travel company is dubbing it , will give five people the opportunity to study how widely micro plastics have infiltrated the region .
+旅游公司称其为“绿色休假”，将让五人有机会研究微塑料在该地区的渗透程度。
+
+#352.0:
+The Antarctic Sabbatical , as the travel company is dubbing it , will give five people the opportunity to study how widely micro plastics have infiltrated the region .
+南极假期，正如旅游公司所称的那样，将让五个人有机会研究微塑料如何广泛地渗透到该地区。
+An Antarctic Sabbatical , as the travel company is dubbing it , will give five people the opportunity to study how widely micro plastics have infiltrated the region .
+这家旅游公司称其为南极假期，将让五人有机会研究微塑料如何广泛地渗透到该地区。
+
+#357.0:
+We ' ve seen the power of when you train and empower individuals to perform science , they can generate invaluable information and data that ultimately then can form solutions .
+我们已经看到了当你训练和授权个人从事科学工作时的力量，他们可以产生宝贵的信息和数据，最终形成解决方案。
+We ' ve seen the power of when you train and empower individuals to perform science , they can generate invaluable information and knowledge that ultimately then can form solutions .
+我们已经看到，当你训练和授权个人从事科学工作时，他们可以产生宝贵的信息和知识，最终形成解决方案。
+
+#358.0:
+We ' ve seen the power of when you train and empower individuals to perform science , they can generate invaluable information and data that ultimately then can form solutions .
+我们已经看到了当你训练和授权个人从事科学工作时的力量，他们可以产生宝贵的信息和数据，最终形成解决方案。
+We ' ve seen the power of when you train and empower individuals to perform science , they can generate invaluable information and data that ultimately then can create solutions .
+我们已经看到了当你训练和授权个人进行科学时的力量，他们可以产生宝贵的信息和数据，最终可以创建解决方案。
+
+#366.0:
+But most people recognise him for what he is , the Pied piper incarnate , appointed by Hamelin to impersonate its simultaneously favourite and least favourite adopted son .
+但大多数人都认出了他，他是吹笛者的化身，由哈梅林任命，以扮演他最喜欢和最不喜欢的养子。
+Yet most people recognise him for what he is , the Pied piper incarnate , appointed by Hamelin to impersonate its simultaneously favourite and least favourite adopted son .
+然而 大多数 人 都 认出 他 是 什么 , 吹笛者 的 化身 , 由 Hamelin 任命 来 扮演 它 最 喜欢 和 最不 喜欢 的 养子 .
+
+#368.0:
+But most people recognise him for what he is , the Pied piper incarnate , appointed by Hamelin to impersonate its simultaneously favourite and least favourite adopted son .
+但大多数人都认出了他，他是吹笛者的化身，由哈梅林任命，以扮演他最喜欢和最不喜欢的养子。
+But most people recognise him for what he is , the Pied piper incarnate , chosen by Hamelin to impersonate its simultaneously favourite and least favourite adopted son .
+但大多数人都认出了他，他是吹笛者的化身，被哈梅林选中来扮演他最喜欢和最不喜欢的养子。
+
+#372.0:
+They were responsible for organising migrations to the east and were said to have worn colourful garments and played an instrument to attract the attention of possible settlers .
+他们负责组织向东部的迁移，据说他们穿着五颜六色的衣服并演奏了一种乐器来吸引可能的定居者的注意。
+They were responsible for organising migrations to the east and were said to have worn colourful robes and played an instrument to attract the attention of possible settlers .
+他们负责组织向东的迁移，据说他们穿着五颜六色的长袍并演奏一种乐器来吸引可能的定居者的注意。
+
+#376.0:
+This year will be different to previous years , but I am sure that the travelers that do end up coming here will of course find huge enjoyment .
+今年将与往年不同，但我相信最终来到这里的旅行者当然会找到巨大的乐趣。
+This year will be different to previous years , but I am sure that the travelers that do end up arriving here will of course find huge enjoyment .
+今年将与往年不同，但我相信最终到达这里的旅行者当然会获得巨大的乐趣。
+
+#379.0:
+This year will be different to previous years , but I am sure that the travelers that do end up coming here will of course find huge enjoyment .
+今年将与往年不同，但我相信最终来到这里的旅行者当然会找到巨大的乐趣。
+Each year will be different to previous years , but I am sure that the travelers that do end up coming here will of course find huge enjoyment .
+每年 都会 与 往年 不同 , 但 我 相信 最终 来到 这里 的 旅行者 肯定 会 从中 获得 巨大 的 乐趣 .
+
+#383.0:
+Another popular way to eat potatoes in France is in the form of a gratin , a kind of fancy , creamy casserole finished with a browned crust .
+在法国吃土豆的另一种流行方式是焗烤，一种花哨的奶油砂锅，最后涂上褐色的外壳。
+Another popular way to eat potatoes in France is in the form of a gratin , a kind of fancy , creamy casserole finished with a browned topping .
+在法国吃土豆的另一种流行方式是焗烤，一种花哨的奶油砂锅，最后是棕色的浇头。
+
+#392.0:
+During the National Day holiday , Xinjiang and Ningxia were among the top two destinations that saw the fastest spending growth on a yearly basis , according to UnionPay data .
+银联数据显示，国庆长假期间，新疆和宁夏是年度消费增长最快的两个目的地之一。
+Following the National Day holiday , Xinjiang and Ningxia were among the top two destinations that saw the fastest spending growth on a yearly basis , according to UnionPay data .
+银联数据显示，继国庆假期后，新疆和宁夏是年度消费增长最快的两个目的地之一。
+
+#396.0:
+Those who have previously visited the Schengen Area and have a positive visa history will be granted the opportunity to get a multiple - entry visa valid for up to five years .
+那些曾到过申根区并有良好签证记录的人将有机会获得有效期最长为五年的多次入境签证。
+Those who have previously visited the Schengen Area or have a positive visa history will be granted the opportunity to get a multiple - entry visa valid for up to five years .
+以前曾到过申根区或有良好签证记录的人将有机会获得有效期最长为五年的多次入境签证。
+
+#398.0:
+Those who have previously visited the Schengen Area and have a positive visa history will be granted the opportunity to get a multiple - entry visa valid for up to five years .
+那些曾到过申根区并有良好签证记录的人将有机会获得有效期最长为五年的多次入境签证。
+Those who have previously visited the Schengen Area and have a positive visa history may be granted the opportunity to get a multiple - entry visa valid for up to five years .
+那些以前访问过申根区并有积极签证历史的人可能有机会获得有效期最长为五年的多次入境签证。
+
+#406.0:
+Airbnb is offering a handful of people concerned about the environment a chance to participate in scientific research on how to help preserve it during an all - expense paid trip to Antarctica .
+Airbnb 为少数关心环境的人提供了一个机会，让他们有机会参与有关如何在南极洲旅行期间帮助保护环境的科学研究。
+Airbnb is offering a handful of people concerned about the environment a chance to participate in scientific research on how to help preserve it on an all - expense paid trip to Antarctica .
+Airbnb 正在为少数关心环境的人提供一个机会，让他们参与有关如何帮助保护环境的科学研究。
+
+#408.0:
+Airbnb is offering a handful of people concerned about the environment a chance to participate in scientific research on how to help preserve it during an all - expense paid trip to Antarctica .
+Airbnb 为少数关心环境的人提供了一个机会，让他们有机会参与有关如何在南极洲旅行期间帮助保护环境的科学研究。
+Airbnb is offering a handful of people concerned about the environment a chance to participate in scientific research about how to help preserve it during an all - expense paid trip to Antarctica .
+Airbnb 为少数关注环境的人提供了一个机会，让他们参与有关如何在南极洲全费用旅行期间帮助保护环境的科学研究。
+
+#409.0:
+Airbnb is offering a handful of people concerned about the environment a chance to participate in scientific research on how to help preserve it during an all - expense paid trip to Antarctica .
+Airbnb 为少数关心环境的人提供了一个机会，让他们有机会参与有关如何在南极洲旅行期间帮助保护环境的科学研究。
+Airbnb is offering a handful of people concerned about the environment a chance to participate in scientific research on how to help preserve it via an all - expense paid trip to Antarctica .
+Airbnb 正在为少数关注环境的人提供一个机会，让他们参与有关如何通过一次全费用的南极洲旅行来帮助保护环境的科学研究。
+
+#410.0:
+The coronavirus comes amid mass cancellation of flights and businesses as new cases are being diagnosed around the world every day .
+随着世界各地每天都在诊断出新病例，冠状病毒的出现正值航班和企业大规模取消之际。
+The coronavirus comes amid mass cancellation of flights and businesses as new cases are being diagnosed across the world every day .
+冠状病毒是在航班和企业大规模取消之际出现的，因为世界各地每天都在诊断出新病例。
+
+#411.0:
+The coronavirus comes amid mass cancellation of flights and businesses as new cases are being diagnosed around the world every day .
+随着世界各地每天都在诊断出新病例，冠状病毒的出现正值航班和企业大规模取消之际。
+The Coronavirus comes amid mass cancellation of flights and businesses as new cases are being diagnosed around the world every day .
+冠状病毒是在航班和企业大规模取消之际出现的，因为世界各地每天都在诊断出新病例。
+
+#412.0:
+The coronavirus comes amid mass cancellation of flights and businesses as new cases are being diagnosed around the world every day .
+随着世界各地每天都在诊断出新病例，冠状病毒的出现正值航班和企业大规模取消之际。
+The coronavirus comes amid mass cancellation of flights and businesses as new cases are being diagnosed throughout the world every day .
+冠状病毒是在航班和企业大规模取消之际出现的，因为全世界每天都在诊断出新病例。
+
+#413.0:
+The coronavirus comes amid mass cancellation of flights and businesses as new cases are being diagnosed around the world every day .
+随着世界各地每天都在诊断出新病例，冠状病毒的出现正值航班和企业大规模取消之际。
+The coronavirus comes amid mass cancellation of flights and businesses as new cases are being diagnosed around the world each day .
+冠状病毒是在航班和企业大规模取消之际出现的，因为世界各地每天都在诊断出新病例。
+
+#414.0:
+The coronavirus comes amid mass cancellation of flights and businesses as new cases are being diagnosed around the world every day .
+随着世界各地每天都在诊断出新病例，冠状病毒的出现正值航班和企业大规模取消之际。
+The coronavirus comes amid mass cancellation of flights and businesses as new cases are being diagnosed around the globe every day .
+冠状病毒是在航班和企业大规模取消之际出现的，因为全球每天都在诊断出新病例。
+
+#415.0:
+We are very committed to operating in that way and of course that is one of our signals to tourists that we are doing everything to make tourism safe and secure .
+我们非常致力于以这种方式运营，当然这是我们向游客发出的信号之一，即我们正在尽一切努力确保旅游业的安全。
+We are very committed to operating in that way and of course that is one of the signals to tourists that we are doing everything to make tourism safe and secure .
+我们非常致力于以这种方式运营，这当然是向游客发出的信号之一，即我们正在尽一切努力确保旅游安全。
+
+#425.0:
+A young chef at the Chairman spends more than a year practicing on the wok by cooking staff meals before he or she is allowed to stir fry a dish for customers .
+董事长 的 一位 年轻 厨师 花了 一年 多 的 时间 在 锅 上 练习 给 员工 做饭 , 然后 他 或 她 才 获准 为 顾客 炒 一道 菜 .
+A master chef at the Chairman spends more than a year practicing on the wok by cooking staff meals before he or she is allowed to stir fry a dish for customers .
+主席 的 大厨 花了 一年 多 时间 在 锅 上 练习 , 给 员工 做饭 , 然后 才 被 允许 为 顾客 炒 一道 菜 .
+
+#426.0:
+A young chef at the Chairman spends more than a year practicing on the wok by cooking staff meals before he or she is allowed to stir fry a dish for customers .
+董事长 的 一位 年轻 厨师 花了 一年 多 的 时间 在 锅 上 练习 给 员工 做饭 , 然后 他 或 她 才 获准 为 顾客 炒 一道 菜 .
+A head chef at the Chairman spends more than a year practicing on the wok by cooking staff meals before he or she is allowed to stir fry a dish for customers .
+主席 的 主厨 花了 一年 多 的 时间 在 炒锅 上 练习 给 员工 做饭 , 然后 才 获准 为 顾客 炒 一道 菜 .
+
+#427.0:
+A young chef at the Chairman spends more than a year practicing on the wok by cooking staff meals before he or she is allowed to stir fry a dish for customers .
+董事长 的 一位 年轻 厨师 花了 一年 多 的 时间 在 锅 上 练习 给 员工 做饭 , 然后 他 或 她 才 获准 为 顾客 炒 一道 菜 .
+A staff chef at the Chairman spends more than a year practicing on the wok by cooking staff meals before he or she is allowed to stir fry a dish for customers .
+主席 的 一名 厨师 花了 一年 多 的 时间 在 锅 上 练习 做 员工 饭菜 , 然后 他 或 她 才 获准 为 顾客 炒 一道 菜 .
+
+#429.0:
+A young chef at the Chairman spends more than a year practicing on the wok by cooking staff meals before he or she is allowed to stir fry a dish for customers .
+董事长 的 一位 年轻 厨师 花了 一年 多 的 时间 在 锅 上 练习 给 员工 做饭 , 然后 他 或 她 才 获准 为 顾客 炒 一道 菜 .
+The young chef at the Chairman spends more than a year practicing on the wok by cooking staff meals before he or she is allowed to stir fry a dish for customers .
+主席 的 年轻 厨师 花了 一年 多 的 时间 在 锅 上 练习 , 给 员工 做饭 , 然后 他 或 她 才 被 允许 为 顾客 炒 一道 菜 .
+
+#435.0:
+The number of visitors who have checked into hotels and restaurants in the area arounding the lake has also grown significantly since mid - March as compared with the early days of the COVID - 19 pandemic .
+自 3 月中旬以来，与 COVID-19 大流行初期相比，入住湖区酒店和餐馆的游客人数也显着增加。
+The number of visitors who have checked into hotels and restaurants in the area arounding the lake has also grown substantially since mid - March as compared with the early days of the COVID - 19 pandemic .
+自 3 月中旬以来，与 COVID-19 大流行初期相比，入住湖区酒店和餐馆的游客数量也大幅增加。
+
+#437.0:
+The number of visitors who have checked into hotels and restaurants in the area arounding the lake has also grown significantly since mid - March as compared with the early days of the COVID - 19 pandemic .
+自 3 月中旬以来，与 COVID-19 大流行初期相比，入住湖区酒店和餐馆的游客人数也显着增加。
+The number of visitors who have checked into hotels and restaurants in the area arounding the lake has also grown considerably since mid - March as compared with the early days of the COVID - 19 pandemic .
+自 3 月中旬以来，与 COVID-19 大流行初期相比，入住湖区酒店和餐馆的游客数量也大幅增加。
+
+#438.0:
+The number of visitors who have checked into hotels and restaurants in the area arounding the lake has also grown significantly since mid - March as compared with the early days of the COVID - 19 pandemic .
+自 3 月中旬以来，与 COVID-19 大流行初期相比，入住湖区酒店和餐馆的游客人数也显着增加。
+The number of visitors who have checked into hotels and restaurants in the area arounding the lake has also grown dramatically since mid - March as compared with the early days of the COVID - 19 pandemic .
+自 3 月中旬以来，与 COVID-19 大流行初期相比，入住湖区酒店和餐馆的游客数量也急剧增加。
+
+#439.0:
+The number of visitors who have checked into hotels and restaurants in the area arounding the lake has also grown significantly since mid - March as compared with the early days of the COVID - 19 pandemic .
+自 3 月中旬以来，与 COVID-19 大流行初期相比，入住湖区酒店和餐馆的游客人数也显着增加。
+The number of visitors who have checked into hotels or restaurants in the area arounding the lake has also grown significantly since mid - March as compared with the early days of the COVID - 19 pandemic .
+与 COVID-19 大流行初期相比，自 3 月中旬以来，在湖周围地区入住酒店或餐馆的游客人数也显着增加。
+
+#447.0:
+He was a philanthropist , and he was looking for somewhere he could try out an experiment , along with education , and wanted to find a community where he could do it .
+他是一位慈善家，他正在寻找可以进行实验的地方以及教育，并希望找到一个他可以做的社区。
+He was a philanthropist , and he was looking for somewhere he could try out an experiment , along with education , and wanted to find a community where he could do that .
+他是一位慈善家，他正在寻找一个他可以尝试实验的地方，以及教育，并希望找到一个他可以做到这一点的社区。
+
+#454.0:
+The Finnish government in particular has been working extremely closely with tourism representatives from Lapland to strike the fine balance between controlling the spread and allowing their vital tourism industry to operate safely .
+特别是芬兰政府一直在与拉普兰的旅游代表密切合作，以在控制传播和允许其重要的旅游业安全运营之间取得良好的平衡。
+The Finnish government in particular has been working extremely closely with tourism representatives from Lapland to strike the proper balance between controlling the spread and allowing their vital tourism industry to operate safely .
+特别是芬兰政府一直与拉普兰的旅游代表密切合作，以在控制传播和让重要的旅游业安全运营之间取得适当的平衡。
+
+#456.0:
+Last week nearly 4 million visitors flowed into the province , according to the provincial culture and tourism department .
+据省文化和旅游部门称，上周有近400万游客涌入该省。
+Last year nearly 4 million visitors flowed into the province , according to the provincial culture and tourism department .
+据省文化和旅游部门称，去年有近400万游客流入该省。
+
+#459.0:
+Last week nearly 4 million visitors flowed into the province , according to the provincial culture and tourism department .
+据省文化和旅游部门称，上周有近400万游客涌入该省。
+Every week nearly 4 million visitors flowed into the province , according to the provincial culture and tourism department .
+据省文化和旅游部门统计，每周有近400万游客涌入该省。
+
+#460.0:
+In her speech , Frederiksen emphasised the need to follow government guidelines , and to start as soon as possible .
+在她的演讲中，弗雷德里克森强调必须遵循政府的指导方针，并尽快开始。
+In his speech , Frederiksen emphasised the need to follow government guidelines , and to start as soon as possible .
+弗雷德里克森在讲话中强调，必须遵循政府的指导方针，并尽快启动。
+
+#461.0:
+In her speech , Frederiksen emphasised the need to follow government guidelines , and to start as soon as possible .
+在她的演讲中，弗雷德里克森强调必须遵循政府的指导方针，并尽快开始。
+In the speech , Frederiksen emphasised the need to follow government guidelines , and to start as soon as possible .
+弗雷德里克森在讲话中强调要遵循政府的指导方针，并尽快启动。
+
+#463.0:
+In her speech , Frederiksen emphasised the need to follow government guidelines , and to start as soon as possible .
+在她的演讲中，弗雷德里克森强调必须遵循政府的指导方针，并尽快开始。
+In this speech , Frederiksen emphasised the need to follow government guidelines , and to start as soon as possible .
+在这次演讲中，弗雷德里克森强调要遵循政府的指导方针，并尽快开始。
+
+#467.0:
+It might be said that the great writers of each generation have not only succeeded in evoking a place or people , but also found a distinctive , previously unheard voice through which to do so .
+可以 说 , 每一代 伟大 的 作家 不仅 成功 地 唤起了 一个 地方 或 一个 人 , 还 找到 了 一种 独特 的 , 以前 闻所未闻 的 声音 .
+It could be said that the great writers of each generation have not only succeeded in evoking a place or people , but also found a distinctive , previously unheard voice through which to do so .
+可以说，每一代伟大的作家不仅成功地唤起了一个地方或一个人，而且还找到了一种独特的、前所未闻的声音。
+
+#469.0:
+It might be said that the great writers of each generation have not only succeeded in evoking a place or people , but also found a distinctive , previously unheard voice through which to do so .
+可以 说 , 每一代 伟大 的 作家 不仅 成功 地 唤起了 一个 地方 或 一个 人 , 还 找到 了 一种 独特 的 , 以前 闻所未闻 的 声音 .
+It might be said that the great writers of each generation have not only excelled in evoking a place or people , but also found a distinctive , previously unheard voice through which to do so .
+可以 说 , 每一代 的 伟大 作家 不仅 擅长 唤起 一个 地方 或 一个 人 , 还 找到 了 一种 独特 的 , 以前 闻所未闻 的 声音 .
+
+#470.0:
+Hotels treating their few customers like royalty , empty art galleries where solo guests stand nose - to - nose with renaissance art .
+酒店将他们的少数顾客视为皇室成员，空荡荡的艺术画廊，独居的客人与文艺复兴时期的艺术并驾齐驱。
+Hotels with their few customers like royalty , empty art galleries where solo guests stand nose - to - nose with renaissance art .
+客人很少的酒店就像皇室成员，空荡荡的艺术画廊，独行客人与文艺复兴时期的艺术并驾齐驱。
+
+#472.0:
+Hotels treating their few customers like royalty , empty art galleries where solo guests stand nose - to - nose with renaissance art .
+酒店将他们的少数顾客视为皇室成员，空荡荡的艺术画廊，独居的客人与文艺复兴时期的艺术并驾齐驱。
+Museums treating their few customers like royalty , empty art galleries where solo guests stand nose - to - nose with renaissance art .
+博物馆像对待皇室成员一样对待为数不多的顾客，空荡荡的艺术画廊，独行客人与文艺复兴时期的艺术并驾齐驱。
+
+#474.0:
+Hotels treating their few customers like royalty , empty art galleries where solo guests stand nose - to - nose with renaissance art .
+酒店将他们的少数顾客视为皇室成员，空荡荡的艺术画廊，独居的客人与文艺复兴时期的艺术并驾齐驱。
+Hotels treating their few customers like royalty , empty art galleries where solo guests go nose - to - nose with renaissance art .
+酒店将他们的少数顾客视为皇室成员，空荡荡的艺术画廊，独行客人与文艺复兴时期的艺术近距离接触。
+
+#475.0:
+The menu currently offers several different hotpot bases , including assorted mushrooms , golden dried scallops and preserved Chinese cabbage and pork .
+菜单目前提供几种不同的火锅底料，包括什锦蘑菇、金黄干贝和腌制大白菜和猪肉。
+The menu currently offers many different hotpot bases , including assorted mushrooms , golden dried scallops and preserved Chinese cabbage and pork .
+菜单目前提供多种不同的火锅底料，包括什锦香菇、金黄干贝和腌制白菜猪肉。
+
+#476.0:
+The menu currently offers several different hotpot bases , including assorted mushrooms , golden dried scallops and preserved Chinese cabbage and pork .
+菜单目前提供几种不同的火锅底料，包括什锦蘑菇、金黄干贝和腌制大白菜和猪肉。
+The menu currently offers several different stockpot bases , including assorted mushrooms , golden dried scallops and preserved Chinese cabbage and pork .
+该菜单目前提供几种不同的汤锅底料，包括什锦蘑菇、金黄干贝和腌制大白菜和猪肉。
+
+#480.0:
+Kraisorn said a huge number of Chinese people prefer to eat durians that are small in size , with smooth and creamy flesh , and with a smell that is not as pungent as larger durian varieties .
+Kraisorn 说 , 大量 中国人 更 喜欢 吃 体积 小的 榴莲 , 果肉 光滑 和 奶油 , 气味 不像 较大 的 榴莲 品种 那样 刺鼻 .
+Traisorn said a huge number of Chinese people prefer to eat durians that are small in size , with smooth and creamy flesh , and with a smell that is not as pungent as larger durian varieties .
+Traisorn 说 , 大量 中国人 喜欢 吃 体积 小的 榴莲 , 果肉 光滑 奶油 , 气味 不像 较大 的 榴莲 品种 那样 刺鼻 .
+
+#481.0:
+Kraisorn said a huge number of Chinese people prefer to eat durians that are small in size , with smooth and creamy flesh , and with a smell that is not as pungent as larger durian varieties .
+Kraisorn 说 , 大量 中国人 更 喜欢 吃 体积 小的 榴莲 , 果肉 光滑 和 奶油 , 气味 不像 较大 的 榴莲 品种 那样 刺鼻 .
+Krongsorn said a huge number of Chinese people prefer to eat durians that are small in size , with smooth and creamy flesh , and with a smell that is not as pungent as larger durian varieties .
+Krongsorn 说 , 大量 中国人 喜欢 吃 小 的 榴莲 , 果肉 光滑 和 奶油 , 气味 不像 较大 的 榴莲 品种 那样 刺鼻 .
+
+#482.0:
+Kraisorn said a huge number of Chinese people prefer to eat durians that are small in size , with smooth and creamy flesh , and with a smell that is not as pungent as larger durian varieties .
+Kraisorn 说 , 大量 中国人 更 喜欢 吃 体积 小的 榴莲 , 果肉 光滑 和 奶油 , 气味 不像 较大 的 榴莲 品种 那样 刺鼻 .
+Kraisorn said a huge number of Chinese people prefer to eat durians which are small in size , with smooth and creamy flesh , and with a smell that is not as pungent as larger durian varieties .
+Kraisorn 说 , 大量 中国人 喜欢 吃 榴莲 体积 小 , 果肉 光滑 和 奶油 , 气味 不像 较大 的 榴莲 品种 那样 刺鼻 .
+
+#483.0:
+Kraisorn said a huge number of Chinese people prefer to eat durians that are small in size , with smooth and creamy flesh , and with a smell that is not as pungent as larger durian varieties .
+Kraisorn 说 , 大量 中国人 更 喜欢 吃 体积 小的 榴莲 , 果肉 光滑 和 奶油 , 气味 不像 较大 的 榴莲 品种 那样 刺鼻 .
+Braisorn said a huge number of Chinese people prefer to eat durians that are small in size , with smooth and creamy flesh , and with a smell that is not as pungent as larger durian varieties .
+Braisorn 说 , 大量 中国人 喜欢 吃 体积 小的 榴莲 , 果肉 光滑 和 奶油 , 气味 不像 较大 的 榴莲 品种 那样 刺鼻 .
+
+#484.0:
+Kraisorn said a huge number of Chinese people prefer to eat durians that are small in size , with smooth and creamy flesh , and with a smell that is not as pungent as larger durian varieties .
+Kraisorn 说 , 大量 中国人 更 喜欢 吃 体积 小的 榴莲 , 果肉 光滑 和 奶油 , 气味 不像 较大 的 榴莲 品种 那样 刺鼻 .
+Kraisorn said a huge number of Chinese people prefer to eat durians that are small in size , with soft and creamy flesh , and with a smell that is not as pungent as larger durian varieties .
+Kraisorn 说 , 大量 中国人 喜欢 吃 体积 小的 榴莲 , 果肉 柔软 和 奶油 , 气味 不像 较大 的 榴莲 品种 那样 刺鼻 .
+
+#489.0:
+The newly reinvigorated Ocean Park allows visitors to chill out and get closer to nature with a series of exclusive offers and new outdoor initiatives , while also ensuring strict anti - pandemic measures are in place to protect their health .
+重新焕发活力的海洋公园提供一系列独家优惠和新的户外活动，让游客放松身心，亲近大自然，同时确保采取严格的防疫措施保护他们的健康。
+The newly reinvigorated Ocean Park invites visitors to chill out and get closer to nature with a series of exclusive offers and new outdoor initiatives , while also ensuring strict anti - pandemic measures are in place to protect their health .
+焕然一新的海洋公园以一系列独家优惠和新的户外活动，邀请游客放松身心，亲近大自然，同时确保采取严格的防疫措施保护他们的健康。
+
+#492.0:
+Later , after speaking with friends and acquiring a fairly questionable Google search history , I found out that stumbling across an au naturel enclave in a city park or beach is practically a rite of passage in Berlin .
+后来，在与朋友交谈并获得了相当可疑的 Google 搜索历史后，我发现在城市公园或海滩中偶然发现一片 au naturall 飞地实际上是柏林的一种成人仪式。
+Later , after speaking with friends and acquiring a fairly questionable Google search history , I found out that coming across an au naturel enclave in a city park or beach is practically a rite of passage in Berlin .
+后来，在与朋友交谈并获得了相当有问题的 Google 搜索历史后，我发现在城市公园或海滩上遇到一片 au naturall 飞地实际上是柏林的一种成人仪式。
+
+#493.0:
+Later , after speaking with friends and acquiring a fairly questionable Google search history , I found out that stumbling across an au naturel enclave in a city park or beach is practically a rite of passage in Berlin .
+后来，在与朋友交谈并获得了相当可疑的 Google 搜索历史后，我发现在城市公园或海滩中偶然发现一片 au naturall 飞地实际上是柏林的一种成人仪式。
+Later , after talking with friends and acquiring a fairly questionable Google search history , I found out that stumbling across an au naturel enclave in a city park or beach is practically a rite of passage in Berlin .
+后来，在与朋友交谈并获得了相当有问题的谷歌搜索历史后，我发现在城市公园或海滩上偶然发现一片 au naturall 飞地实际上是柏林的一种成人仪式。
+

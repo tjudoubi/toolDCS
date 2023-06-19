@@ -1,0 +1,1476 @@
+sent_id = 0
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 1
+add [0]
+add [1]
+There are 300,000 doses that were being held.;有300，000剂正在服用。
+There are 300,000 doses that were being held by the manufacturer.;制造商持有300，000剂。
+服用
+
+add [2]
+add [3]
+
+sent_id = 2
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 3
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 4
+add [0]
+such cases are not all rare.;这种情况并不罕见。
+Half have come such who are not all rare.;有一半的人来了，他们并不都是罕见的。
+情况
+
+add [1]
+add [2]
+Half of them have come such cases are not all rare.;其中一半人来了这样的情况并不都是罕见的。
+Half of them have come from just two families, leading the media to conclude such cases are not all rare.;其中一半来自两个家庭，导致媒体得出结论，此类案件并不罕见。
+情况
+
+add [3]
+
+sent_id = 5
+add [0]
+Vaccination should occur within two weeks of a exposure.;应在暴露后两周内接种疫苗。
+Vaccination should occur within two weeks of a possible exposure.;疫苗接种应在可能接触后两周内进行。
+暴露
+
+add [1]
+Vaccination should occur within two weeks of a possible exposure.;疫苗接种应在可能接触后两周内进行。
+Vaccination should occur within two weeks of a possible exposure, And, the better. ";疫苗接种应在可能暴露的两周内进行，并且越好。"
+接触
+
+add [2]
+Vaccination should occur within two weeks of a possible exposure, And, the better. ";疫苗接种应在可能暴露的两周内进行，并且越好。"
+Vaccination should occur within two weeks of a possible exposure, And the sooner you can get vaccinated, the better. ";疫苗接种应在可能接触的两周内进行，并且您越早接种疫苗越好。"
+暴露
+
+add [3]
+
+sent_id = 6
+add [0]
+add [1]
+While federal officials weigh a nationwide public health emergency declaration San Francisco began sounding the alarm.;当联邦官员权衡全国范围的公共卫生紧急状态声明时，旧金山开始敲响警钟。
+While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm.;当联邦官员围绕猴痘爆发在全国范围内发布公共卫生紧急状态声明时，旧金山和纽约州开始敲响警钟。
+权衡
+
+While federal officials weigh a nationwide public health emergency declaration San Francisco began sounding the alarm.;当联邦官员权衡全国范围的公共卫生紧急状态声明时，旧金山开始敲响警钟。
+While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm.;当联邦官员围绕猴痘爆发在全国范围内发布公共卫生紧急状态声明时，旧金山和纽约州开始敲响警钟。
+权衡
+
+add [2]
+While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm.;当联邦官员围绕猴痘爆发在全国范围内发布公共卫生紧急状态声明时，旧金山和纽约州开始敲响警钟。
+While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm Thursday.;虽然联邦官员权衡了围绕猴痘爆发的全国性公共卫生紧急声明，但旧金山和纽约州周四开始敲响警钟。
+发布
+
+While federal officials weigh a nationwide public school emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm.;当联邦官员围绕猴痘爆发在全国范围内发布公立学校紧急声明时，旧金山和纽约州开始敲响警钟。
+While federal officials weigh a nationwide public school emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm Thursday.;虽然联邦官员权衡了围绕猴痘爆发的全国公立学校紧急声明，但旧金山和纽约州周四开始敲响警钟。
+发布
+
+While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm.;当联邦官员围绕猴痘爆发在全国范围内发布公共卫生紧急状态声明时，旧金山和纽约州开始敲响警钟。
+While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm Thursday.;虽然联邦官员权衡了围绕猴痘爆发的全国性公共卫生紧急声明，但旧金山和纽约州周四开始敲响警钟。
+发布
+
+
+sent_id = 7
+add [0]
+add [1]
+add [2]
+
+sent_id = 8
+add [0]
+add [1]
+add [2]
+
+sent_id = 9
+add [0]
+Symptoms of melioidosis depend on someone is infected.;类痣菌病的症状取决于有人被感染。
+Symptoms of melioidosis depend on where someone is infected but may include fever, pain or swelling, ulcers, coughing, chest pain, trouble breathing, weight loss, muscle or joint pain, disorientation, headache and seizures.;类鼻痣的症状取决于感染者的位置，但可能包括发烧，疼痛或肿胀，溃疡，咳嗽，胸痛，呼吸困难，体重减轻，肌肉或关节疼痛，定向障碍，头痛和癫痫发作。
+类痣
+
+
+sent_id = 10
+add [0]
+Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi.;伯克霍尔德氏菌假马莱在密西西比州的墨西哥湾沿岸地区被发现。
+Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi, the first detection.;在密西西比州墨西哥湾沿岸地区发现了假马利伯克霍尔德菌，这是第一次被发现。
+假马莱
+
+add [1]
+add [2]
+add [3]
+
+sent_id = 11
+add [0]
+add [1]
+"Findings not only impact how scientists and physicians look at a topic," said Birnbaum,.;“研究结果不仅会影响科学家和医生如何看待一个话题，”Birnbaum说。
+"Findings by the National Academies not only impact how scientists and physicians look at a topic," said Birnbaum,.;“国家科学院的发现不仅影响科学家和医生如何看待一个话题，”伯恩鲍姆说。
+研究
+
+add [2]
+add [3]
+"Findings by the National Academies not only impact how scientists and physicians look at a topic, but," said Birnbaum,.;“国家科学院的发现不仅影响科学家和医生如何看待一个主题，而且，”伯恩鲍姆说。
+"Findings by the National Academies not only impact how scientists and physicians look at a topic, but how regulators and Congress do as well," said Birnbaum,.;“国家科学院的调查结果不仅影响科学家和医生如何看待一个话题，还影响监管机构和国会如何做，”伯恩鲍姆说。
+发现
+
+add [4]
+add [5]
+
+sent_id = 12
+add [0]
+add [1]
+
+sent_id = 13
+add [0]
+add [1]
+
+sent_id = 14
+add [0]
+pseudomallei is found in tropical regions.;假马来在热带地区发现。
+pseudomallei is typically found in tropical regions, and US cases are usually connected to travel.;假性马勒病通常见于热带地区，美国病例通常与旅行有关。
+发现
+
+
+sent_id = 15
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 16
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 17
+add [0]
+add [1]
+add [2]
+
+sent_id = 18
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 19
+add [0]
+
+sent_id = 20
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+
+sent_id = 21
+add [0]
+add [1]
+add [2]
+
+sent_id = 22
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 23
+add [0]
+add [1]
+add [2]
+
+sent_id = 24
+add [0]
+
+sent_id = 25
+add [0]
+add [1]
+add [2]
+add [3]
+It's certainly conceivable that there are other people out there who do have have a viral rebound. ";当然可以想象，还有其他人确实有病毒反弹。"
+It's certainly conceivable that there are other people out there who don't have symptoms and still have a viral rebound. ";当然可以想象，还有其他人没有症状，仍然有病毒反弹。"
+确实
+
+
+sent_id = 26
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 27
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 28
+add [0]
+filled prescriptions for Paxlovid have climbed.;Paxlovid的填充处方已经攀升。
+According the White House filled prescriptions for Paxlovid have climbed.;据白宫开具的帕克斯洛维德处方已经攀升。
+Paxlovid 填充
+
+add [1]
+According the White House filled prescriptions for Paxlovid have climbed.;据白宫开具的帕克斯洛维德处方已经攀升。
+According the White House,, filled prescriptions for Paxlovid have climbed.;根据白宫的说法，为Paxlovid开出的处方已经攀升。
+开具
+
+add [2]
+According the White House,, filled prescriptions for Paxlovid have climbed.;根据白宫的说法，为Paxlovid开出的处方已经攀升。
+According the White House, over the past two months, filled prescriptions for Paxlovid have climbed.;据白宫称，在过去两个月里，为Paxlovid开具的处方药数量有所攀升。
+说法 开出
+
+add [3]
+According the White House, over the past two months, filled prescriptions for Paxlovid have climbed.;据白宫称，在过去两个月里，为Paxlovid开具的处方药数量有所攀升。
+According the White House, over the past two months, filled prescriptions for Paxlovid have climbed from about 27,000 a week.;据白宫称，在过去两个月里，Paxlovid的处方从每周约27，000个攀升。
+开具 数量
+
+add [4]
+
+sent_id = 29
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 30
+add [0]
+add [1]
+
+sent_id = 31
+add [0]
+add [1]
+add [2]
+add [3]
+In late June, vaccine makers said boosters updated to target Omicron showed a stronger immune response.;6月下旬，疫苗制造商表示，更新为靶向Omicron的加强剂显示出更强的免疫反应。
+In late June, vaccine makers said boosters updated to target Omicron showed a stronger immune response than the current vaccines.;6月下旬，疫苗制造商表示，更新为针对Omicron的加强剂显示出比当前疫苗更强的免疫反应。
+靶向
+
+
+sent_id = 32
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+Critics have also charged that the United States is not offering enough testing to monitor the spread of the virus, which is thought to become more widespread.;批评人士还指责美国没有提供足够的检测来监测该病毒的传播，该病毒被认为变得更加普遍。
+Critics have also charged that the United States is not offering enough testing to monitor the spread of the virus, which is thought to become more widespread than current case counts suggest.;批评人士还指责美国没有提供足够的检测来监测病毒的传播，这种病毒被认为比目前的病例数所显示的更广泛。
+变得
+
+Critics have also charged that the United States is not offering enough testing to monitor the spread of the virus, which is thought to become more widespread.;批评人士还指责美国没有提供足够的检测来监测该病毒的传播，该病毒被认为变得更加普遍。
+Critics have also charged that the United States is not offering enough testing to monitor the spread of the virus, which is thought to become more widespread than current population counts suggest.;批评人士还指责美国没有提供足够的检测来监测病毒的传播，这种病毒被认为比目前的人口数量所显示的更广泛。
+变得
+
+Critics have also charged that the United States is not offering enough testing to monitor the spread of the virus, which is thought to become more widespread.;批评人士还指责美国没有提供足够的检测来监测该病毒的传播，该病毒被认为变得更加普遍。
+Critics have also charged that the United States is not offering enough testing to monitor the spread of the virus, which is thought to become more widespread than current case counts suggest.;批评人士还指责美国没有提供足够的检测来监测病毒的传播，这种病毒被认为比目前的病例数所显示的更广泛。
+变得
+
+
+sent_id = 33
+add [0]
+add [1]
+
+sent_id = 34
+add [0]
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available.;Moderna和辉瑞加强注射剂更新为针对Omicron冠状病毒亚变体可用。
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall.;Moderna和辉瑞的助推器注射更新为针对Omicron冠状病毒亚变体可能会在初秋上市。
+可用
+
+add [1]
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall.;Moderna和辉瑞的助推器注射更新为针对Omicron冠状病毒亚变体可能会在初秋上市。
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall,, the US Department said Friday.;美国国务院周五表示，Moderna和辉瑞加强注射更新以针对Omicron冠状病毒亚变体可能会在初秋上市。
+助推器
+
+add [2]
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall,, the US Department said Friday.;美国国务院周五表示，Moderna和辉瑞加强注射更新以针对Omicron冠状病毒亚变体可能会在初秋上市。
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall, pending signoff, the US Department said Friday.;美国国防部周五表示，Moderna和辉瑞公司针对Omicron冠状病毒亚变体进行了更新，以针对Omicron冠状病毒亚变体，可能会在初秋上市，等待签核。
+注射
+
+add [3]
+add [4]
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall, pending signoff by federal health agencies, the US Department said Friday.;美国国务院周五表示，Moderna和辉瑞公司针对Omicron冠状病毒亚变体进行了更新，以达到亚变体，可能会在初秋上市，等待联邦卫生机构的签核。
+Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall, pending signoff by federal health agencies, the US Department of Health and Human Services said Friday.;美国卫生与公众服务部周五表示，Moderna和辉瑞公司更新的针对Omicron冠状病毒亚变体的助推器注射可能会在初秋可用，等待联邦卫生机构的签核。
+上市
+
+
+sent_id = 35
+add [0]
+add [1]
+add [2]
+
+sent_id = 36
+add [0]
+the infection can come back this way.;感染可以以这种方式复发。
+Charness said the fact the infection can come back this way.;Charness说，感染可以以这种方式卷土重来。
+复发
+
+add [1]
+add [2]
+
+sent_id = 37
+add [0]
+add [1]
+
+sent_id = 38
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 39
+add [0]
+add [1]
+add [2]
+add [3]
+The federal health adviser said it's understandable that some the LGBTQ community are frustrated and feel left behind.;联邦卫生顾问表示，可以理解的是，一些LGBTQ社区感到沮丧并感到落后。
+The federal health adviser said it's understandable that some in the LGBTQ community are frustrated and feel left behind.;联邦卫生顾问表示，可以理解的是，LGBTQ社区中的一些人感到沮丧，感到被抛在后面。
+落后
+
+
+sent_id = 40
+add [0]
+add [1]
+
+sent_id = 41
+add [0]
+add [1]
+add [2]
+That's in addition the US government has purchased from Pfizer.;此外，美国政府还从辉瑞公司购买了这些产品。
+That's in addition to 105 million bivalent boosters the US government has purchased from Pfizer.;此外，美国政府还从辉瑞公司购买了1.05亿个二价助推器。
+产品
+
+
+sent_id = 42
+add [0]
+add [1]
+add [2]
+His organization was one of the signers of the letter to demanding a bigger response.;他的组织是这封信的签署者之一，要求更大的回应。
+His organization was one of the signers of the letter to the CDC demanding a bigger response.;他的组织是给疾病预防控制中心的信的签署人之一，要求做出更大的回应。
+封信
+
+
+sent_id = 43
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 44
+add [0]
+add [1]
+As all appointments for vaccines have been filled.;由于所有疫苗的预约都已填补。
+As of Friday, New York City's public health department website all appointments for vaccines have been filled.;截至周五，纽约市公共卫生部门网站的所有疫苗预约都已满员。
+填补
+
+add [2]
+As of Friday, New York City's public health department website all appointments for vaccines have been filled.;截至周五，纽约市公共卫生部门网站的所有疫苗预约都已满员。
+As of Friday, New York City's public health department website says all available appointments for vaccines have been filled.;截至周五，纽约市公共卫生部门网站称，所有可用的疫苗预约都已填补。
+满员
+
+add [3]
+
+sent_id = 45
+add [0]
+add [1]
+add [2]
+New York has 1,247 probable or confirmed monkeypox cases, according.;据纽约统计，有1，247例可能或确诊的猴痘病例。
+New York has 1,247 probable or confirmed monkeypox cases, according to data.;根据数据，纽约有1，247例可能或确诊的猴痘病例。
+统计
+
+add [3]
+add [4]
+
+sent_id = 46
+add [0]
+add [1]
+add [2]
+The bacteria that causes a rare, serious disease called melioidosis has been detected in water and soil samples in Mississippi, the US Centers said Wednesday.;美国中心周三表示，导致一种罕见的严重疾病称为类鼻疽的细菌已经在密西西比州的水和土壤样本中检测到。
+The bacteria that causes a rare, serious disease called melioidosis has been detected in water and soil samples in Mississippi, the US Centers for Disease Control and Prevention said Wednesday.;美国疾病控制和预防中心周三表示，在密西西比州的水和土壤样本中已经检测到导致一种罕见的严重疾病类巨变性的细菌。
+称为 鼻疽
+
+
+sent_id = 47
+add [0]
+HHS activated the CDC's Emergency Operations Center.;HHS激活了CDC的紧急行动中心。
+On Tuesday HHS activated the CDC's Emergency Operations Center.;周二，HHS启动了CDC的紧急行动中心。
+激活
+
+add [1]
+add [2]
+
+sent_id = 48
+add [0]
+add [1]
+add [2]
+The he also recommends that people wear a mask for 10 days their come back.;他还建议人们在回来后戴口罩10天。
+The he also recommends that people wear a mask for 10 days after their symptoms come back.;他还建议人们在症状复发后10天内戴口罩。
+回来
+
+The agency also recommends that people wear a mask for 10 days their come back.;该机构还建议人们在回来后戴口罩10天。
+The agency also recommends that people wear a mask for 10 days after their symptoms come back.;该机构还建议人们在症状复发后10天内戴口罩。
+回来
+
+
+sent_id = 49
+add [0]
+add [1]
+
+sent_id = 50
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+
+sent_id = 51
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 52
+add [0]
+worst can the recipient does not respond.;最糟糕的是收件人没有回应。
+Since the same way people reach out worst can the recipient does not respond.;由于人们接触的方式相同，收件人也不会做出回应。
+糟糕
+
+add [1]
+Since the same way people reach out worst can the recipient does not respond.;由于人们接触的方式相同，收件人也不会做出回应。
+Since the same way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的方式是一样的，最糟糕的情况是收件人没有回应。
+接触 做出
+
+Since the same way people reach out worst can the recipient does not respond.;由于人们接触的方式相同，收件人也不会做出回应。
+Since the same way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的方式是一样的，最糟糕的情况是收件人没有回应。
+接触 做出
+
+Since the only way people reach out worst can the recipient does not respond.;由于人们最坏的唯一方式是收件人无法做出回应。
+Since the only way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的唯一方式是，最糟糕的情况是收件人没有回应。
+做出
+
+Since the only way people reach out worst can the recipient does not respond.;由于人们最坏的唯一方式是收件人无法做出回应。
+Since the only way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的唯一方式是，最糟糕的情况是收件人没有回应。
+做出
+
+Since the primary where people reach out worst can the recipient does not respond.;由于人们接触最差的初选可以接受者没有回应。
+Since the primary where people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要内容是，最糟糕的情况是收件人没有回应。
+初选
+
+Since the primary where people reach out worst can the recipient does not respond.;由于人们接触最差的初选可以接受者没有回应。
+Since the primary where people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要内容是，最糟糕的情况是收件人没有回应。
+初选
+
+Since the primary way people reach out worst can the recipient does not respond.;由于人们接触的主要方式是最糟糕的，因此收件人不会做出回应。
+Since the primary way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要方式是，最糟糕的是收件人没有回应。
+做出
+
+add [2]
+Since the same way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的方式是一样的，最糟糕的情况是收件人没有回应。
+Since the same way people reach out is through private lessons, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私人课程相同，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the same way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的方式是一样的，最糟糕的情况是收件人没有回应。
+Since the same way people reach out is through private conversation, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私人对话相同，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the same way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的方式是一样的，最糟糕的情况是收件人没有回应。
+Since the same way people reach out is through private lessons, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私人课程相同，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the same way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的方式是一样的，最糟糕的情况是收件人没有回应。
+Since the same way people reach out is through private conversation, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私人对话相同，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the only way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的唯一方式是，最糟糕的情况是收件人没有回应。
+Since the only way people reach out is through private means, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的唯一途径是通过私人手段，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the only way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的唯一方式是，最糟糕的情况是收件人没有回应。
+Since the only way people reach out is through private friends, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的唯一方式是通过私人朋友，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the only way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的唯一方式是，最糟糕的情况是收件人没有回应。
+Since the only way people reach out is through private means, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的唯一途径是通过私人手段，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the only way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的唯一方式是，最糟糕的情况是收件人没有回应。
+Since the only way people reach out is through private means, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的唯一途径是通过私人手段，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the only way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的唯一方式是，最糟糕的情况是收件人没有回应。
+Since the only way people reach out is through private friends, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的唯一方式是通过私人朋友，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the only way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的唯一方式是，最糟糕的情况是收件人没有回应。
+Since the only way people reach out is through private means, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的唯一途径是通过私人手段，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the primary where people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要内容是，最糟糕的情况是收件人没有回应。
+Since the primary where people reach out is through their means, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要途径是通过其手段，最糟糕的情况是接受者没有回应。
+收件人
+
+Since the primary where people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要内容是，最糟糕的情况是收件人没有回应。
+Since the primary where people reach out is through private practice, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要途径是通过私人执业，最糟糕的情况是接受者没有回应。
+收件人
+
+Since the primary where people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要内容是，最糟糕的情况是收件人没有回应。
+Since the primary where people reach out is through their means, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要途径是通过其手段，最糟糕的情况是接受者没有回应。
+收件人
+
+Since the primary where people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要内容是，最糟糕的情况是收件人没有回应。
+Since the primary where people reach out is through private practice, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要途径是通过私人执业，最糟糕的情况是接受者没有回应。
+收件人
+
+Since the primary way people found out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们发现的主要方式是，最糟糕的情况是收件人没有回应。
+Since the primary way people found out is through private schools, the worst can is the recipient does not respond, she added.;她补充说，由于人们发现的主要方式是通过私立学校，最糟糕的情况是接受者没有回应。
+收件人
+
+Since the primary way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要方式是，最糟糕的是收件人没有回应。
+Since the primary way people reach out is through private schools, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要方式是通过私立学校，最糟糕的情况是接受者没有回应。
+收件人
+
+Since the primary way people reach out is, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要方式是，最糟糕的是收件人没有回应。
+Since the primary way people reach out is through private school, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要方式是通过私立学校，最糟糕的情况是接受者没有回应。
+收件人
+
+add [3]
+Since the same way people reach out is through private means, the worst can is the recipient does not respond, she added.;她补充说，由于人们通过私人方式伸出援手的方式相同，最糟糕的情况是收件人没有回应。
+Since the same way people reach out is through private means of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私人沟通方式相同，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the same way people reach out is through private lessons, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私人课程相同，最糟糕的情况是收件人没有回应。
+Since the same way people reach out is through private lessons of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私人沟通的方式相同，最糟糕的情况是收件人没有回应。
+课程
+
+Since the same way people reach out is through private means, the worst can is the recipient does not respond, she added.;她补充说，由于人们通过私人方式伸出援手的方式相同，最糟糕的情况是收件人没有回应。
+Since the same way people reach out is through private means of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私人沟通方式相同，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the same way people reach out is through private means, the worst can is the recipient does not respond, she added.;她补充说，由于人们通过私人方式伸出援手的方式相同，最糟糕的情况是收件人没有回应。
+Since the same way people reach out is through private means of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私人沟通方式相同，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the same way people reach out is through private lessons, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私人课程相同，最糟糕的情况是收件人没有回应。
+Since the same way people reach out is through private lessons of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私人沟通的方式相同，最糟糕的情况是收件人没有回应。
+课程
+
+Since the same way people reach out is through private means, the worst can is the recipient does not respond, she added.;她补充说，由于人们通过私人方式伸出援手的方式相同，最糟糕的情况是收件人没有回应。
+Since the same way people reach out is through private means of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的方式与私人沟通方式相同，最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the primary where people reach out is through private practice, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要途径是通过私人执业，最糟糕的情况是接受者没有回应。
+Since the primary where people reach out is through private practice of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要途径是通过私人沟通实践，最糟糕的情况是收件人没有回应。
+执业
+
+Since the primary where people reach out is through private practice, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要途径是通过私人执业，最糟糕的情况是接受者没有回应。
+Since the primary where people reach out is through private practice of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要途径是通过私人沟通实践，最糟糕的情况是收件人没有回应。
+执业
+
+Since the primary way people found out is through private friends, the worst can is the recipient does not respond, she added.;她补充说，由于人们发现的主要方式是通过私人朋友，最糟糕的情况是收件人没有回应。
+Since the primary way people found out is through private friends of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们发现的主要方式是通过私人朋友的沟通方式，最糟糕的是收件人没有回应。
+情况
+
+add [4]
+Since the only way people reach out is through private means of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的唯一方式是通过私人通信手段，最糟糕的情况是收件人没有回应。
+Since the only way people reach out is through private means of communication, the worst that can happen is the recipient does not respond, she added.;她补充说，由于人们接触的唯一方式是通过私人沟通方式，因此可能发生的最糟糕的情况是收件人没有回应。
+通信
+
+Since the only way people reach out is through private people of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的唯一途径是通过私人沟通，最糟糕的情况是收件人没有回应。
+Since the only way people reach out is through private people of communication, the worst that can happen is the recipient does not respond, she added.;她补充说，由于人们接触的唯一途径是通过私人沟通，因此可能发生的最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the only way people reach out is through private means of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的唯一方式是通过私人通信手段，最糟糕的情况是收件人没有回应。
+Since the only way people reach out is through private means of communication, the worst that can happen is the recipient does not respond, she added.;她补充说，由于人们接触的唯一方式是通过私人沟通方式，因此可能发生的最糟糕的情况是收件人没有回应。
+通信
+
+Since the only way people reach out is through private means of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的唯一方式是通过私人通信手段，最糟糕的情况是收件人没有回应。
+Since the only way people reach out is through private means of communication, the worst that can happen is the recipient does not respond, she added.;她补充说，由于人们接触的唯一方式是通过私人沟通方式，因此可能发生的最糟糕的情况是收件人没有回应。
+通信
+
+Since the only way people reach out is through private people of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们伸出援手的唯一途径是通过私人沟通，最糟糕的情况是收件人没有回应。
+Since the only way people reach out is through private people of communication, the worst that can happen is the recipient does not respond, she added.;她补充说，由于人们接触的唯一途径是通过私人沟通，因此可能发生的最糟糕的情况是收件人没有回应。
+伸出 援手
+
+Since the only way people reach out is through private means of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的唯一方式是通过私人通信手段，最糟糕的情况是收件人没有回应。
+Since the only way people reach out is through private means of communication, the worst that can happen is the recipient does not respond, she added.;她补充说，由于人们接触的唯一方式是通过私人沟通方式，因此可能发生的最糟糕的情况是收件人没有回应。
+通信
+
+Since the primary way people reach out is through private means of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要方式是通过私人沟通方式，最糟糕的情况是收件人没有回应。
+Since the primary way people reach out is through private means of communication, the worst that can happen is the recipient does not respond, she added.;她补充说，由于人们接触的主要方式是通过私人通信手段，因此可能发生的最糟糕的情况是收件人没有回应。
+沟通
+
+Since the primary way people reach out is through private means of communication, the worst can is the recipient does not respond, she added.;她补充说，由于人们接触的主要方式是通过私人沟通方式，最糟糕的情况是收件人没有回应。
+Since the primary way people reach out is through private means of communication, the worst that can happen is the recipient does not respond, she added.;她补充说，由于人们接触的主要方式是通过私人通信手段，因此可能发生的最糟糕的情况是收件人没有回应。
+沟通
+
+add [5]
+
+sent_id = 53
+add [0]
+add [1]
+
+sent_id = 54
+add [0]
+add [1]
+add [2]
+
+sent_id = 55
+add [0]
+add [1]
+add [2]
+"The National Academies are asked to do studies that would be free;“国家科学院被要求进行免费的研究。
+"The National Academies are asked to do studies that would be free of the effects;“国家科学院被要求进行不受影响的研究。
+免费
+
+"The National Academies are asked to do studies that would become free;“国家科学院被要求进行免费的研究
+"The National Academies are asked to do studies that would become free of the effects;“国家科学院被要求进行不受影响的研究。
+免费
+
+"The National Academies are asked to do studies that would be free;“国家科学院被要求进行免费的研究。
+"The National Academies are asked to do studies that would be free of the effects;“国家科学院被要求进行不受影响的研究。
+免费
+
+add [3]
+add [4]
+"The National Academies are asked to do studies that would be free of the effects of advocacy;“国家科学院被要求进行不受宣传影响的研究。
+"The National Academies are asked to do studies that would be free of the effects of advocacy, special interests, and politics, and are looked," said Dr.;“国家科学院被要求进行不受倡导，特殊利益和政治影响的研究，并进行研究，”博士说。
+宣传
+
+"The National Academies are asked to do studies that would become free of the effects of advocacy;“国家科学院被要求进行不受宣传影响的研究。
+"The National Academies are asked to do studies that would become free of the effects of advocacy, special interests, and politics, and are looked," said Dr.;“国家科学院被要求进行不受倡导，特殊利益和政治影响的研究，并被研究，”博士说。
+宣传
+
+"The National Academies are asked to do studies that would be free of the effects of advocacy;“国家科学院被要求进行不受宣传影响的研究。
+"The National Academies are asked to do studies that would be free of the effects of advocacy, special interests, and politics, and are looked," said Dr.;“国家科学院被要求进行不受倡导，特殊利益和政治影响的研究，并进行研究，”博士说。
+宣传
+
+add [5]
+add [6]
+
+sent_id = 56
+add [0]
+add [1]
+add [2]
+It's a scene playing out in public health departments and clinics across the country.;这是在全国各地的公共卫生部门和诊所上演的场景。
+It's a scene playing out in public health departments and clinics across the country as the monkeypox outbreak spreads.;随着猴痘疫情的蔓延，全国各地的公共卫生部门和诊所都在上演。
+场景
+
+
+sent_id = 57
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 58
+add [0]
+add [1]
+add [2]
+People they work say they are working hard on the issue.;他们工作的人说他们正在这个问题上努力工作。
+People they work with the indian government say they are working hard on the issue.;他们与印度政府合作的人说，他们正在努力解决这个问题。
+工作 工作
+
+
+sent_id = 59
+add [0]
+add [1]
+add [2]
+To get over there, take notice thought patterns,.;要到达那里，请注意思维模式。
+To get over there of this discomfort, take notice thought patterns,.;为了克服这种不适，请注意思维模式。
+到达
+
+add [3]
+add [4]
+add [5]
+add [6]
+add [7]
+add [8]
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适，请注意在考虑与另一个朋友交流时出现的自动思维模式，并尝试反击。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back into them,.;为了克服这种不适，请注意在考虑与另一个朋友交流时出现的自动思维模式，并尝试推回其中。
+反击
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适，请注意在考虑与朋友交流时出现的自动思维模式，并尝试反击。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适，请注意在考虑与朋友交流时出现的自动思维模式，并尝试推回这些模式。
+反击
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适，请注意在考虑与朋友交流时出现的自动思维模式，并尝试反击。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适，请注意在考虑与朋友交流时出现的自动思维模式，并尝试推回这些模式。
+反击
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back,.;为了克服这种不适，请注意在考虑与另一个朋友交流时出现的自动思维模式，并尝试反击。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with another friend, and try to push back into them,.;为了克服这种不适，请注意在考虑与另一个朋友交流时出现的自动思维模式，并尝试推回其中。
+反击
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适，请注意在考虑与朋友交流时出现的自动思维模式，并尝试反击。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适，请注意在考虑与朋友交流时出现的自动思维模式，并尝试推回这些模式。
+反击
+
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服这种不适，请注意在考虑与朋友交流时出现的自动思维模式，并尝试反击。
+To get over there of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服这种不适，请注意在考虑与朋友交流时出现的自动思维模式，并尝试推回这些模式。
+反击
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服一些这种不适，请注意在考虑与朋友交流时出现的自动思维模式，并尝试反击。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服一些这种不适，请注意在考虑与朋友沟通时出现的自动思维模式，并尝试推回这些模式。
+反击
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服一些这种不适，请注意在考虑与朋友交流时出现的自动思维模式，并尝试反击。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服一些这种不适，请注意在考虑与朋友沟通时出现的自动思维模式，并尝试推回这些模式。
+反击
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服一些这种不适，请注意在考虑与朋友交流时出现的自动思维模式，并尝试反击。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服一些这种不适，请注意在考虑与朋友沟通时出现的自动思维模式，并尝试推回这些模式。
+反击
+
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back,.;为了克服一些这种不适，请注意在考虑与朋友交流时出现的自动思维模式，并尝试反击。
+To get over some of this discomfort, take notice of automatic thought patterns that arise when thinking about communicating with a friend, and try to push back into them,.;为了克服一些这种不适，请注意在考虑与朋友沟通时出现的自动思维模式，并尝试推回这些模式。
+反击
+
+add [9]
+
+sent_id = 60
+add [0]
+add [1]
+add [2]
+add [3]
+The CDC spokesperson said the agency "encourages anyone who suspects they have monkeypox to reach out.;疾病预防控制中心发言人表示，该机构“鼓励任何怀疑自己患有猴痘的人伸出援手。
+The CDC spokesperson said the agency "encourages anyone who suspects they have monkeypox to reach out to their clinician.;疾病预防控制中心发言人表示，该机构“鼓励任何怀疑自己患有猴痘的人与他们的临床医生联系。
+伸出 援手
+
+add [4]
+add [5]
+add [6]
+
+sent_id = 61
+add [0]
+add [1]
+
+sent_id = 62
+add [0]
+add [1]
+
+sent_id = 63
+add [0]
+add [1]
+add [2]
+add [3]
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better.;它将向病例率最高的地区释放更多疫苗，并将扩大检测规模，使检测效果更好。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories.;它将向病例率最高的地区释放更多疫苗，并将扩大测试范围，使五个商业实验室的测试更好。
+效果
+
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better.;它将向病例率最低的地区释放更多的疫苗，并将扩大检测规模，使检测效果更好。
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better at five commercial vs.;它将向病例率最低的地区释放更多疫苗，并将扩大测试范围，使测试在五个商业与商业上更好。
+效果
+
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests good.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试范围，使测试变得良好。
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests good at five commercial laboratories.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试范围，使测试在五个商业实验室中取得成功。
+变得
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better.;它将向病例率最高的地区释放更多疫苗，并将扩大检测规模，使检测效果更好。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories.;它将向病例率最高的地区释放更多疫苗，并将扩大测试范围，使五个商业实验室的测试更好。
+效果
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better.;它将向病例率最高的地区释放更多疫苗，并将扩大检测规模，使检测效果更好。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories.;它将向病例率最高的地区释放更多疫苗，并将扩大测试范围，使五个商业实验室的测试更好。
+效果
+
+add [4]
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试，使测试在五个商业年内达到良好状态。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试范围，使测试在五个商业年度内达到良好状态。
+年内
+
+It will release more vaccines to areas with the highest case reports, and it will open up testing, making tests available at five commercial vs.;它将向病例报告最多的地区发布更多疫苗，并将开放测试，使测试在五个商业与商业上可用。
+It will release more vaccines to areas with the highest case reports, and it will open up testing, making tests available at five commercial vs in addition.;它将向病例报告最多的地区发布更多疫苗，并将开放测试，在五个商业与另外一个地区提供测试。
+可用
+
+add [5]
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition.;它将向病例率最高的地区释放更多疫苗，并将扩大检测规模，使五个商业实验室的检测效果更好。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an educational network.;它将向病例率最高的地区释放更多疫苗，并将扩大测试范围，除了教育网络外，还将在五个商业实验室进行更好的测试。
+效果
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition.;它将向病例率最高的地区释放更多疫苗，并将扩大检测规模，使五个商业实验室的检测效果更好。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network.;它将向病例率最高的地区释放更多疫苗，并将扩大测试规模，除了现有网络外，还将在五个商业实验室进行更好的测试。
+效果
+
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition.;它将向病例率最低的地区释放更多疫苗，并将扩大检测规模，使五个商业实验室的检测效果更好。
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an educational network.;它将向病例率最低的地区释放更多疫苗，并将扩大测试规模，除了教育网络外，还将在五个商业实验室进行更好的测试。
+效果
+
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition.;它将向病例率最低的地区释放更多疫苗，并将扩大检测规模，使五个商业实验室的检测效果更好。
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network.;它将向病例率最低的地区释放更多疫苗，并将扩大测试规模，除了现有网络外，还在五个商业实验室进行更好的测试。
+效果
+
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests good at five commercial laboratories in addition.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试范围，使测试在五个商业实验室中保持良好状态。
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests good at five commercial laboratories in addition to an educational network.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试范围，除了教育网络外，还将在五个商业实验室进行测试。
+状态
+
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests good at five commercial laboratories in addition.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试范围，使测试在五个商业实验室中保持良好状态。
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests good at five commercial laboratories in addition to an existing one.;它将向死亡率最高的地区释放更多疫苗，并将扩大测试范围，使除现有实验室外，在五个商业实验室进行测试。
+状态
+
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests good at five commercial laboratories in addition.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试范围，使测试在五个商业实验室中保持良好状态。
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making tests good at five commercial laboratories in addition to an existing network.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试范围，除了现有的网络外，还将在五个商业实验室进行测试。
+状态
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试范围，使测试在五个商业年度内达到良好状态。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition to an educational network.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试规模，除了教育网络外，测试还将达到五个商业年。
+状态
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial laboratories in addition.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试范围，使测试在五个商业实验室中保持良好状态。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial laboratories in addition to an existing network.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试规模，除了现有的网络外，还将在五个商业实验室进行测试。
+状态
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition.;它将向病例率最高的地区释放更多疫苗，并将扩大检测规模，使五个商业实验室的检测效果更好。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an educational network.;它将向病例率最高的地区释放更多疫苗，并将扩大测试范围，除了教育网络外，还将在五个商业实验室进行更好的测试。
+效果
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition.;它将向病例率最高的地区释放更多疫苗，并将扩大检测规模，使五个商业实验室的检测效果更好。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network.;它将向病例率最高的地区释放更多疫苗，并将扩大测试规模，除了现有网络外，还将在五个商业实验室进行更好的测试。
+效果
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition.;它将向病例率最高的地区释放更多疫苗，并将扩大检测规模，使五个商业实验室的检测效果更好。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an educational network.;它将向病例率最高的地区释放更多疫苗，并将扩大测试范围，除了教育网络外，还将在五个商业实验室进行更好的测试。
+效果
+
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition.;它将向病例率最高的地区释放更多疫苗，并将扩大检测规模，使五个商业实验室的检测效果更好。
+It will release more vaccines to areas with the highest case rates, and it will scale up testing, making tests better at five commercial laboratories in addition to an existing network.;它将向病例率最高的地区释放更多疫苗，并将扩大测试规模，除了现有网络外，还将在五个商业实验室进行更好的测试。
+效果
+
+add [6]
+It will release more vaccines to areas with the lowest case rates, and it would scale up testing, making tests available at five commercial stores in addition to an existing network.;它将向病例率最低的地区发布更多疫苗，并将扩大测试范围，除了现有网络外，还在五家商业商店提供测试。
+It will release more vaccines to areas with the lowest case rates, and it would scale up testing, making tests available at five commercial stores in addition to an existing network of public health clinics.;它将向病例率最低的地区发放更多疫苗，并将扩大检测范围，除了现有的公共卫生诊所网络外，还将在五家商业商店提供检测。
+发布
+
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better at five commercial vs in addition to an existing network.;它将向病例率最低的地区释放更多疫苗，并将扩大测试规模，使测试在现有网络之外的五个商业测试比五个商业测试更好。
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better at five commercial vs in addition to an existing network of public health labs.;它将向病例率最低的地区释放更多疫苗，并将扩大检测规模，使五个商业测试与现有的公共卫生实验室网络相比更好。
+之外
+
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better at five commercial vs in addition to an existing network.;它将向病例率最低的地区释放更多疫苗，并将扩大测试规模，使测试在现有网络之外的五个商业测试比五个商业测试更好。
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better at five commercial vs in addition to an existing network of public health physicians.;它将向病例率最低的地区释放更多疫苗，并将扩大测试范围，使五个商业测试与现有的公共卫生医生网络相比更好。
+之外
+
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better at five commercial vs in addition to an existing network.;它将向病例率最低的地区释放更多疫苗，并将扩大测试规模，使测试在现有网络之外的五个商业测试比五个商业测试更好。
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better at five commercial vs in addition to an existing network of public health centers.;它将向病例率最低的地区释放更多疫苗，并将扩大测试范围，使五个商业比现有的公共卫生中心网络更好地进行测试。
+之外
+
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better at five commercial vs in addition to an existing network.;它将向病例率最低的地区释放更多疫苗，并将扩大测试规模，使测试在现有网络之外的五个商业测试比五个商业测试更好。
+It will release more vaccines to areas with the lowest case rates, and it will scale up testing, making tests better at five commercial vs in addition to an existing network of public health labs.;它将向病例率最低的地区释放更多疫苗，并将扩大检测规模，使五个商业测试与现有的公共卫生实验室网络相比更好。
+之外
+
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making more available at five commercial laboratories in addition to an educational network.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试规模，除了一个教育网络外，还在五个商业实验室提供更多疫苗。
+It will release more vaccines to areas with the highest mortality rates, and it will scale up testing, making more available at five commercial laboratories in addition to an educational network of public health students.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试，除了公共卫生学生的教育网络外，还在五个商业实验室提供更多疫苗。
+规模
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition to an existing network.;它将向死亡率最高的地区释放更多疫苗，并将扩大测试规模，除了现有网络外，测试在五个商业年内达到良好状态。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition to an existing network of public health labs.;它将向死亡率最高的地区释放更多疫苗，并将扩大测试规模，除了现有的公共卫生实验室网络外，还将在五个商业年度内进行测试。
+年内 状态
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition to an existing network.;它将向死亡率最高的地区释放更多疫苗，并将扩大测试规模，除了现有网络外，测试在五个商业年内达到良好状态。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition to an existing network of public health laboratories.;它将向死亡率最高的地区释放更多疫苗，并将扩大测试规模，除了现有的公共卫生实验室网络外，还将在五个商业年度内进行测试。
+年内 状态
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition to an existing network.;它将向死亡率最高的地区释放更多疫苗，并将扩大测试规模，除了现有网络外，测试在五个商业年内达到良好状态。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition to an existing network of public health physicians.;它将向死亡率最高的地区释放更多疫苗，并将扩大测试规模，除了现有的公共卫生医生网络外，还将在五个商业年度内进行测试。
+年内 状态
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition to an existing network.;它将向死亡率最高的地区释放更多疫苗，并将扩大测试规模，除了现有网络外，测试在五个商业年内达到良好状态。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial years in addition to an existing network of public health labs.;它将向死亡率最高的地区释放更多疫苗，并将扩大测试规模，除了现有的公共卫生实验室网络外，还将在五个商业年度内进行测试。
+年内 状态
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial laboratories in addition to an existing one.;它将向死亡率最高的地区释放更多疫苗，并将扩大测试范围，使五个商业实验室的测试在现有实验室中保持良好状态。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial laboratories in addition to an existing one of public health science.;它将向死亡率最高的地区释放更多的疫苗，并将扩大测试规模，除了现有的公共卫生科学实验室外，还将在五个商业实验室进行测试。
+状态
+
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial laboratories in addition to an existing one.;它将向死亡率最高的地区释放更多疫苗，并将扩大测试范围，使五个商业实验室的测试在现有实验室中保持良好状态。
+It will release more vaccines to areas with the highest death rates, and it will scale up testing, making tests good at five commercial laboratories in addition to an existing one of public health labs.;它将向死亡率最高的地区释放更多疫苗，并将扩大测试范围，除了现有的一个公共卫生实验室外，还将在五个商业实验室进行测试。
+状态
+
+It will release more vaccines to areas with the highest case reports, and it will scale up testing, making tests work at five commercial brands in addition to an existing one.;它将向病例报告最多的地区发布更多疫苗，并将扩大测试范围，使测试在现有品牌之外在五个商业品牌上发挥作用。
+It will release more vaccines to areas with the highest case reports, and it will scale up testing, making tests work at five commercial brands in addition to an existing one of public health products.;它将向病例报告最多的地区发布更多疫苗，并将扩大检测规模，使测试在五个商业品牌以及现有的一个公共卫生产品中发挥作用。
+之外
+
+
+sent_id = 64
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 65
+add [0]
+add [1]
+Currently, people 5 and older are eligible for a first booster shot, but.;目前，5岁及以上的人有资格获得第一次助推器注射，但是。
+Currently, people 5 and older are eligible for a first booster shot, but only those 50 and older and some immunocompromised people are eligible.;目前，5岁及以上的人有资格进行第一次加强注射，但只有50岁及以上的人和一些免疫功能低下的人才有资格。
+助推器
+
+add [2]
+Currently, people 5 and older are eligible for a first booster shot, but only those 50 and older and some immunocompromised people are eligible.;目前，5岁及以上的人有资格进行第一次加强注射，但只有50岁及以上的人和一些免疫功能低下的人才有资格。
+Currently, people 5 and older are eligible for a first booster shot, but only those 50 and older and some immunocompromised people are eligible for second boosters.;目前，5岁及以上的人有资格获得第一次加强注射，但只有50岁及以上的人和一些免疫功能低下的人有资格获得第二次加强剂。
+人才
+
+
+sent_id = 66
+add [0]
+add [1]
+add [2]
+
+sent_id = 67
+add [0]
+add [1]
+add [2]
+
+sent_id = 68
+add [0]
+add [1]
+
+sent_id = 69
+add [0]
+add [1]
+add [2]
+
+sent_id = 70
+add [0]
+add [1]
+add [2]
+
+sent_id = 71
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 72
+add [0]
+add [1]
+
+sent_id = 73
+add [0]
+add [1]
+add [2]
+Updated shots would need to be authorized by the FDA and recommended by the US Centers.;更新的镜头需要得到FDA的授权，并由美国中心推荐。
+Updated shots would need to be authorized by the FDA and recommended by the US Centers for disease Control and Prevention.;更新的注射需要得到FDA的授权，并由美国疾病控制和预防中心推荐。
+镜头
+
+Updated shots would need to be authorized by the FDA and recommended by the US Centers.;更新的镜头需要得到FDA的授权，并由美国中心推荐。
+Updated shots would need to be authorized by the FDA and recommended by the US Centers for cancer Control and Prevention.;更新的注射需要得到FDA的授权，并由美国癌症控制和预防中心推荐。
+镜头
+
+Updated shots would need to be authorized by the FDA and recommended by the US Centers.;更新的镜头需要得到FDA的授权，并由美国中心推荐。
+Updated shots would need to be authorized by the FDA and recommended by the US Centers for Disease research and Prevention.;更新的注射需要得到FDA的授权，并由美国疾病研究和预防中心推荐。
+镜头
+
+Updated shots would need to be authorized by the FDA and recommended by the US Centers.;更新的镜头需要得到FDA的授权，并由美国中心推荐。
+Updated shots would need to be authorized by the FDA and recommended by the US Centers for Disease Control and Prevention.;更新的注射需要得到FDA的授权，并由美国疾病控制和预防中心推荐。
+镜头
+
+
+sent_id = 74
+add [0]
+add [1]
+add [2]
+
+sent_id = 75
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+add [7]
+
+sent_id = 76
+add [0]
+
+sent_id = 77
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 78
+add [0]
+HHS announced an agreement to purchase 66 million doses of Moderna's booster shot.;HHS宣布同意购买6600万剂Moderna的加强注射剂。
+HHS announced Friday an agreement to purchase 66 million doses of Moderna's booster shot.;HHS周五宣布达成协议，购买6600万剂Moderna的加强注射剂。
+同意
+
+add [1]
+add [2]
+add [3]
+HHS announced Friday an agreement to purchase 66 million doses of Moderna's bivalent booster shot for potential use.;HHS周五宣布达成协议，购买6600万剂Moderna的二价加强注射剂，用于潜在用途。
+HHS announced Friday an agreement to purchase 66 million doses of Moderna's bivalent booster shot for potential use in fall and winter.;HHS周五宣布达成协议，购买6600万剂Moderna的二价加强剂疫苗，用于秋季和冬季的潜在用途。
+注射剂
+
+
+sent_id = 79
+add [0]
+add [1]
+Currently, 10 states would be considered to be in the first tier in ordering vaccines.;目前，10个州将被视为在订购疫苗方面处于第一梯队。
+Currently, 10 states would be considered to be in the first tier for participation in ordering vaccines.;目前，10个州将被视为参与订购疫苗的第一梯队。
+处于
+
+Currently, 10 states would be considered to be in the first tier in ordering vaccines.;目前，10个州将被视为在订购疫苗方面处于第一梯队。
+Currently, 10 states would be considered to be in the first tier for priority in ordering vaccines.;目前，10个州将被视为优先订购疫苗的第一梯队。
+处于
+
+
+sent_id = 80
+add [0]
+add [1]
+But, the US doesn't have enough doses of Jynneos to vaccinate all, so public health officials are also considering.;但是，美国没有足够的Jynneos剂量来为所有患者接种疫苗，因此公共卫生官员也在考虑。
+But, the US doesn't have enough doses of Jynneos to vaccinate all who might want it, so public health officials are also considering.;但是，美国没有足够的Jynneos剂量来为所有可能想要的人接种疫苗，因此公共卫生官员也在考虑。
+患者
+
+add [2]
+add [3]
+
+sent_id = 81
+add [0]
+add [1]
+add [2]
+
+sent_id = 82
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+"We will weigh any decision on declaring a public health emergency based on the responses we're seeing.;“我们将根据我们看到的应对措施，权衡宣布突发公共卫生事件的任何决定。
+"We will weigh any decision on declaring a public health emergency based on the responses we're seeing throughout the country.;“我们将根据我们在全国各地看到的反应来权衡宣布公共卫生紧急状态的任何决定。
+应对 措施 突发 事件
+
+
+sent_id = 83
+add [0]
+add [1]
+The US has not made such an emergency declaration,, help cut to better fight the fire.;美国还没有做出这样的紧急声明，帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭大火。
+灭火
+
+The US has not made such an emergency declaration,, help cut to better fight the fire.;美国还没有做出这样的紧急声明，帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭大火。
+灭火
+
+The US has not made such an emergency declaration,, help cut to better fight the fire.;美国还没有做出这样的紧急声明，帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would cost more money and staff, help cut to better fight the fire.;美国没有做出这样的紧急声明，这将花费更多的钱和人员，有助于削减以更好地扑灭大火。
+灭火
+
+The US has not made such an emergency declaration,, help cut to better fight the fire.;美国还没有做出这样的紧急声明，帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and then, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助削减以更好地扑灭大火。
+灭火
+
+The US has not made such an emergency declaration,, help cut to better fight the fire.;美国还没有做出这样的紧急声明，帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭大火。
+灭火
+
+add [2]
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the war.;美国没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集和理发，以更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the war.;美国没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集和理发，以更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the war.;美国没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集和理发，以更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more cars and staff, help cut to better fight the war.;美国没有做出这样的紧急声明，这将提供更多的汽车和人员，有助于削减以更好地打仗。
+The US has not made such an emergency declaration, which would provide more cars and staff, help with data collection and hair cut to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的汽车和人员，帮助数据收集和理发，以更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more people and staff, help cut to better fight the war.;美国没有做出这样的紧急声明，这将提供更多的人和工作人员，帮助削减以更好地打仗。
+The US has not made such an emergency declaration, which would provide more people and staff, help with data collection and hair cut to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的人和工作人员，帮助数据收集和理发，以更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the war.;美国没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and hair cut to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集和理发，以更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with water collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，并帮助削减以更好地灭火。
+大火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data change and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据更改，并帮助削减以更好地灭火。
+大火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并帮助削减以更好地灭火。
+大火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with water collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，并帮助削减以更好地灭火。
+大火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data change and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据更改，并帮助削减以更好地灭火。
+大火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并帮助削减以更好地灭火。
+大火
+
+The US has not made such an emergency declaration, which will provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭火灾。
+The US has not made such an emergency declaration, which will provide more money and staff, help with water collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，并帮助削减以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which will provide more money and staff, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭火灾。
+The US has not made such an emergency declaration, which will provide more money and staff, help with data change and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据更改，并帮助削减以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would cost more money and staff, help cut to better fight the fire.;美国没有做出这样的紧急声明，这将花费更多的钱和人员，有助于削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would cost more money and staff, help with data change and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将花费更多的资金和人员，有助于数据更改，并帮助削减以更好地灭火。
+大火
+
+The US has not made such an emergency declaration, which would cost more money and staff, help cut to better fight the fire.;美国没有做出这样的紧急声明，这将花费更多的钱和人员，有助于削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would cost more money and staff, help with data collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将花费更多的资金和人员，帮助数据收集并帮助削减以更好地灭火。
+大火
+
+The US has not made such an emergency declaration, which would provide more food and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的食物和人员，有助于削减以更好地扑灭火灾。
+The US has not made such an emergency declaration, which would provide more food and staff, help with water collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的食物和工作人员，帮助收集水，并帮助削减以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more food and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的食物和人员，有助于削减以更好地扑灭火灾。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and hair cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的食物和人员，帮助数据收集和理发，以更好地扑灭火灾。
+削减
+
+The US has not made such an emergency declaration, which would provide more food and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的食物和人员，有助于削减以更好地扑灭火灾。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and get cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的食物和人员，帮助数据收集，并被削减以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more food and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的食物和人员，有助于削减以更好地扑灭火灾。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的食物和人员，帮助数据收集，并帮助削减以更好地灭火。
+火灾
+
+The US has not made such an emergency declaration, which would provide more help and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的帮助和人员，帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more help and staff, help with data collection and hair cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的帮助和人员，帮助数据收集和理发，以更好地扑灭火灾。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and then, help cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and hair cut to better fight the fire.;美国还没有做出这样的紧急声明，这将提供更多的资金，然后帮助收集数据和理发，以更好地扑灭大火。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with water collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助收集水，并帮助削减以更好地灭火。
+大火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data change and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据更改，并帮助削减以更好地灭火。
+大火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并帮助削减以更好地灭火。
+大火
+
+The US has not made such an emergency declaration, which would provide more food and staff, help cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的食物和人员，有助于削减以更好地对抗疫情。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and hair cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的食物和人员，帮助数据收集和理发，以更好地对抗疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more time and staff, help cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的时间和人员，有助于削减以更好地对抗疫情。
+The US has not made such an emergency declaration, which would provide more time and staff, help with data collection and hair cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的时间和人员，帮助数据收集和理发，以更好地对抗疫情。
+削减
+
+add [3]
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and get cut to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并被削减以更好地打仗。
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and get cut through red tape to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并通过繁文缛节来更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and be cut to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并被削减以更好地打仗。
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and be cut through red tape to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并通过繁文缛节来更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would make more money and staff, help with data collection and be cut to better fight the war.;美国没有做出这样的紧急声明，这将赚更多的钱和工作人员，帮助数据收集，并被削减以更好地打仗。
+The US has not made such an emergency declaration, which would make more money and staff, help with data collection and be cut through red tape to better fight the war.;美国没有做出这样的紧急声明，这将赚更多的钱和工作人员，帮助数据收集，并通过繁文缛节来更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more cars and staff, help with data collection and get cut to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的汽车和人员，帮助数据收集，并被削减以更好地打仗。
+The US has not made such an emergency declaration, which would provide more cars and staff, help with data collection and get cut through red tape to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的汽车和人员，帮助数据收集，并通过繁文缛节来更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more people and staff, help with data collection and get cut to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的人和工作人员，帮助数据收集，并被削减以更好地打仗。
+The US has not made such an emergency declaration, which would provide more people and staff, help with data collection and get cut through red tape to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的人和工作人员，帮助数据收集，并通过繁文缛节来更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and help, help with data collection and get cut to better fight the war.;美国没有做出这样的紧急声明，这将提供更多的资金和帮助，帮助数据收集，并被削减以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and help, help with data collection and get cut through red tape to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的资金和帮助，帮助数据收集，并通过繁文缛节来更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and get cut to better fight the war.;美国没有做出这样的紧急声明，这将提供更多的资金，然后帮助数据收集，并被削减以更好地打仗。
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and get cut through red tape to better fight the war.;美国尚未做出这样的紧急声明，这将提供更多的资金，然后帮助数据收集，并通过繁文缛节来更好地打仗。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data change and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据更改，并帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data change and help cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据更改，并帮助减少繁文缛节以更好地扑灭大火。
+灭火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并被削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并通过繁文缛节来更好地扑灭大火。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并帮助减少繁文缛节，以更好地扑灭大火。
+灭火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data change and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据更改，并帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data change and help cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据更改，并帮助减少繁文缛节以更好地扑灭大火。
+灭火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并被削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并通过繁文缛节来更好地扑灭大火。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并帮助减少繁文缛节，以更好地扑灭大火。
+灭火
+
+The US has not made such an emergency declaration, which will provide more money and staff, help with data change and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据更改，并帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which will provide more money and staff, help with data change and help cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据更改，并帮助减少繁文缛节，以更好地扑灭大火。
+灭火
+
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and get cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并被削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and get cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并通过繁文缛节来更好地扑灭大火。
+削减
+
+The US has not made such an emergency declaration, which would cost more money and staff, help with data collection and get cut to better fight the fire.;美国没有做出这样的紧急声明，这将花费更多的资金和人员，帮助数据收集，并被削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would cost more money and staff, help with data collection and get cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将花费更多的资金和人员，帮助数据收集，并通过繁文缛节来更好地扑灭大火。
+削减
+
+The US has not made such an emergency declaration, which would cost more money and staff, help with data collection and be cut to better fight the fire.;美国尚未做出这样的紧急声明，这将花费更多的资金和人员，帮助数据收集，并被削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would cost more money and staff, help with data collection and be cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将花费更多的资金和人员，帮助数据收集，并通过繁文缛节来更好地扑灭大火。
+削减
+
+The US has not made such an emergency declaration, which would cost more money and staff, help with data collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将花费更多的资金和人员，帮助数据收集并帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would cost more money and staff, help with data collection and help cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将花费更多的资金和人员，有助于数据收集，并有助于减少繁文缛节以更好地扑灭大火。
+灭火
+
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and get cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的食物和人员，帮助数据收集，并被削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and get cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的食物和工作人员，帮助数据收集，并通过繁文缛节来更好地扑灭大火。
+削减 灭火
+
+The US has not made such an emergency declaration, which would provide more help and staff, help with data collection and side cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的帮助和人员，帮助数据收集和侧面削减，以更好地扑灭火灾。
+The US has not made such an emergency declaration, which would provide more help and staff, help with data collection and side cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的帮助和人员，帮助数据收集，并避免繁文缛节以更好地扑灭大火。
+侧面 削减
+
+The US has not made such an emergency declaration, which would provide more help and staff, help with data collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的帮助和人员，帮助数据收集，并帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more help and staff, help with data collection and help cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的帮助和人员，帮助数据收集，并帮助减少繁文缛节，以更好地扑灭大火。
+灭火
+
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and not cut to better fight the fire.;美国没有做出这样的紧急声明，这将提供更多的资金，然后帮助收集数据，而不是为了更好地扑灭大火而削减开支。
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and not cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金，然后帮助数据收集，而不是通过繁文缛节来更好地扑灭大火。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data change and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据更改，并帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data change and help cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据更改，并帮助减少繁文缛节以更好地扑灭大火。
+灭火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并被削减以更好地扑灭大火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并通过繁文缛节来更好地扑灭大火。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并帮助削减以更好地灭火。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and help cut through red tape to better fight the fire.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并帮助减少繁文缛节，以更好地扑灭大火。
+灭火
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并被削减以更好地对抗疫情。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut through red tape to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并通过繁文缛节来更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并被削减以更好地对抗疫情。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut through red tape to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并通过繁文缛节来更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and get cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并被削减以更好地对抗疫情。
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and get cut through red tape to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并通过繁文缛节来更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and not cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，而不是为了更好地抗击疫情而削减开支。
+The US has not made such an emergency declaration, which will provide more money and staff, help with data collection and not cut through red tape to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，而不是通过繁文缛节来更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would make more money and staff, help with data collection and get cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将赚更多的钱和工作人员，帮助收集数据，并被削减以更好地对抗疫情。
+The US has not made such an emergency declaration, which would make more money and staff, help with data collection and get cut through red tape to better fight the outbreak.;美国尚未做出这样的紧急声明，这将赚更多的钱和工作人员，帮助数据收集，并通过繁文缛节来更好地抗击疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and get cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的食物和工作人员，帮助数据收集，并得到削减，以更好地对抗疫情。
+The US has not made such an emergency declaration, which would provide more food and staff, help with data collection and get cut through red tape to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的食物和工作人员，帮助数据收集，并通过繁文缛节来更好地对抗疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more time and staff, help with data collection and side cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的时间和人员，帮助数据收集和侧面削减，以更好地对抗疫情。
+The US has not made such an emergency declaration, which would provide more time and staff, help with data collection and side cut through red tape to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的时间和人员，帮助数据收集，并削减繁文缛节以更好地抗击疫情。
+侧面
+
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and not cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金，然后帮助数据收集，而不是为了更好地对抗疫情而削减开支。
+The US has not made such an emergency declaration, which would provide more money and then, help with data collection and not cut through red tape to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金，然后帮助收集数据，而不是通过繁文缛节来更好地对抗疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and one, help with data collection and not cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金和一个，帮助数据收集，而不是削减以更好地对抗疫情。
+The US has not made such an emergency declaration, which would provide more money and one, help with data collection and not cut through red tape to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金，并且有助于数据收集，而不是通过繁文缛节来更好地对抗疫情。
+削减
+
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并被削减以更好地对抗疫情。
+The US has not made such an emergency declaration, which would provide more money and staff, help with data collection and get cut through red tape to better fight the outbreak.;美国尚未做出这样的紧急声明，这将提供更多的资金和人员，帮助数据收集，并通过繁文缛节来更好地抗击疫情。
+削减
+
+
+sent_id = 84
+add [0]
+add [1]
+add [2]
+
+sent_id = 85
+add [0]
+add [1]
+
+sent_id = 86
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 87
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 88
+add [0]
+
+sent_id = 89
+add [0]
+add [1]
+San Francisco became the first major US city to declare a local health emergency on monkeypox.;旧金山成为美国第一个宣布猴痘局部卫生紧急状态的主要城市。
+San Francisco became the first major US city to declare a local health emergency on monkeypox in an effort to strengthen the city's preparedness and response.;旧金山成为美国第一个宣布当地猴痘卫生紧急状况的主要城市，以加强该市的防范和应对。
+局部
+
+add [2]
+add [3]
+San Francisco became the first major US city to declare a local health emergency on monkeypox in an effort to strengthen the city's preparedness and response amid high demand.;旧金山成为美国第一个宣布当地猴痘卫生紧急状况的主要城市，以努力在高需求下加强该市的防范和应对。
+San Francisco became the first major US city to declare a local health emergency on monkeypox in an effort to strengthen the city's preparedness and response amid high demand for the vaccine.;旧金山成为美国第一个宣布当地猴痘卫生紧急状况的主要城市，以便在疫苗需求旺盛的情况下加强该市的防范和应对。
+努力
+
+
+sent_id = 90
+add [0]
+add [1]
+add [2]
+"It's presumed not to be safe to be able to be used in people," Varma said.;“据推测，能够用于人体是不安全的，”瓦尔玛说。
+"It's presumed not to be safe to be able to be used in people with HIV," Varma said.;“据推测，能够用于艾滋病毒感染者是不安全的，”瓦尔玛说。
+人体
+
+
+sent_id = 91
+add [0]
+add [1]
+Combined, the US government's agreements with and Pfizer would make about 171 million bivalent vaccine booster doses.;美国政府与辉瑞公司达成的协议将产生约1.71亿剂二价疫苗加强剂。
+Combined, the US government's agreements with Moderna and Pfizer would make about 171 million bivalent vaccine booster doses.;美国政府与Moderna和辉瑞公司的协议加起来将产生约1.71亿剂二价疫苗加强剂。
+达成
+
+add [2]
+add [3]
+add [4]
+
+sent_id = 92
+add [0]
+add [1]
+add [2]
+It's impossible to avoid rejection, so learning can allow people to become more resilient, Akbari said.;Akbari说，避免被拒绝是不可能的，所以学习可以让人们变得更有弹性。
+It's impossible to avoid rejection, so learning how to be OK can allow people to become more resilient, Akbari said.;阿克巴里说，这是不可能避免被拒绝的，所以学习如何OK可以让人们变得更有弹性。
+Akbari
+
+add [3]
+It's impossible to avoid rejection, so learning how to be OK can allow people to become more resilient, Akbari said.;阿克巴里说，这是不可能避免被拒绝的，所以学习如何OK可以让人们变得更有弹性。
+It's impossible to avoid rejection, so learning how to be OK with it can allow people to become more resilient, Akbari said.;Akbari说，避免被拒绝是不可能的，所以学习如何接受它可以让人们变得更有弹性。
+OK
+
+
+sent_id = 93
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 94
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+
+sent_id = 95
+add [0]
+add [1]
+The declaration,, is a legal action, Mayor London Breed's office said.;该声明是一项法律诉讼，市长伦敦布里德的办公室说。
+The declaration, which goes Monday, is a legal action, Mayor London Breed's office said.;周一的声明是一项法律行动，市长伦敦布里德的办公室说。
+诉讼
+
+add [2]
+add [3]
+add [4]
+
+sent_id = 96
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 97
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 98
+add [0]
+add [1]
+add [2]
+But at the top, we need vaccines, and we need them yesterday.;但在最高层，我们需要疫苗，我们昨天就需要疫苗。
+But at the top of the day, we need vaccines, and we need them yesterday.;但在一天的顶部，我们需要疫苗，我们昨天就需要它们。
+最高层
+
+But at the end, we need vaccines, and we need them yesterday.;但最终，我们需要疫苗，我们昨天就需要疫苗。
+But at the end of the day, we need vaccines, and we need them yesterday.;但归根结底，我们需要疫苗，我们昨天就需要疫苗。
+最终
+
+But at the end, we need vaccines, and we need them yesterday.;但最终，我们需要疫苗，我们昨天就需要疫苗。
+But at the end of the day, we need vaccines, and we need them yesterday.;但归根结底，我们需要疫苗，我们昨天就需要疫苗。
+最终
+
+
+sent_id = 99
+add [0]
+add [1]
+A CDC spokesperson said there has been "outreach to increase awareness of monkeypox risk factors.;疾病预防控制中心的一位发言人表示，已经“开展了外展活动，以提高对猴痘风险因素的认识。
+A CDC spokesperson said there has been "robust outreach to increase awareness of monkeypox risk factors.;疾病预防控制中心的一位发言人表示，已经“开展了强有力的宣传活动，以提高对猴痘风险因素的认识。
+外展
+
+add [2]
+A CDC spokesperson said there has been "robust outreach to increase awareness of monkeypox risk factors.;疾病预防控制中心的一位发言人表示，已经“开展了强有力的宣传活动，以提高对猴痘风险因素的认识。
+A CDC spokesperson said there has been "robust outreach to clinicians and the general public to increase awareness of monkeypox risk factors.;疾病预防控制中心的一位发言人表示，已经“与临床医生和公众进行了强有力的接触，以提高对猴痘风险因素的认识。
+宣传 活动
+
+add [3]
+A CDC spokesperson said there has been "robust outreach to clinicians and the general public to increase awareness of monkeypox risk factors.;疾病预防控制中心的一位发言人表示，已经“与临床医生和公众进行了强有力的接触，以提高对猴痘风险因素的认识。
+A CDC spokesperson said there has been "robust outreach to clinicians and the general public to increase awareness of monkeypox risk factors, symptoms and testing options.;CDC发言人表示，已经“与临床医生和公众进行了强有力的接触，以提高对猴痘风险因素，症状和检测选择的认识。
+预防
+
+

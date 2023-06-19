@@ -1,0 +1,1260 @@
+#0.0:
+The old rule started to seem dated and out of place .
+旧规则开始显得过时和不合适。
+The golden rule started to seem dated and out of place .
+金科玉律开始显得过时和不合时宜。
+
+#2.0:
+The old rule started to seem dated and out of place .
+旧规则开始显得过时和不合适。
+An old rule started to seem dated and out of place .
+一条古老的规则开始显得过时和不合时宜。
+
+#3.0:
+The old rule started to seem dated and out of place .
+旧规则开始显得过时和不合适。
+The first rule started to seem dated and out of place .
+第一条规则开始显得过时和不合时宜。
+
+#7.0:
+The Commission ordered the company to pay € 4 . 34 billion ( $ 4 . 9 billion ) in July 2018 for unfairly pushing its apps on smartphone users and thwarting competitors .
+委员会命令该公司支付4欧元。2018年7月340亿美元（49亿美元）因不公平地向智能手机用户推广其应用程序并挫败竞争对手而被起诉。
+The Commission ordered the company to pay € 4 . 34 billion ( $ 4 . 9 billion ) in April 2018 for unfairly pushing its apps on smartphone users and thwarting competitors .
+委员会命令该公司支付4欧元。2018年4月，该公司因不公平地向智能手机用户推广其应用程序并挫败竞争对手而获得340亿美元（49亿美元）。
+
+#8.0:
+The Commission ordered the company to pay € 4 . 34 billion ( $ 4 . 9 billion ) in July 2018 for unfairly pushing its apps on smartphone users and thwarting competitors .
+委员会命令该公司支付4欧元。2018年7月340亿美元（49亿美元）因不公平地向智能手机用户推广其应用程序并挫败竞争对手而被起诉。
+The Commission ordered the company to pay € 4 . 34 billion ( $ 4 . 9 billion ) in May 2018 for unfairly pushing its apps on smartphone users and thwarting competitors .
+委员会命令该公司支付4欧元。2018年5月，该公司因不公平地向智能手机用户推广其应用程序并挫败竞争对手而获得340亿美元（49亿美元）。
+
+#9.0:
+The Commission ordered the company to pay € 4 . 34 billion ( $ 4 . 9 billion ) in July 2018 for unfairly pushing its apps on smartphone users and thwarting competitors .
+委员会命令该公司支付4欧元。2018年7月340亿美元（49亿美元）因不公平地向智能手机用户推广其应用程序并挫败竞争对手而被起诉。
+The Commission ordered the company to pay € 4 . 34 billion ( $ 4 . 9 billion ) in July 2018 for unfairly pushing their apps on smartphone users and thwarting competitors .
+委员会命令该公司支付4欧元。2018年7月有340亿美元（49亿美元）被指控在智能手机用户身上不公平地推广应用程序，并挫败竞争对手。
+
+#10.0:
+Imagine if you ' re a very large retailer that has a large number of locations , said Martin Fleming , chief economist at IBM .
+IBM首席经济学家马丁·弗莱明（Martin Fleming）说，想象一下，如果你是一家拥有大量门店的大型零售商。
+Imagine that you ' re a very large retailer that has a large number of locations , said Martin Fleming , chief economist at IBM .
+IBM首席经济学家马丁·弗莱明（Martin Fleming）说，假设你是一家拥有大量门店的大型零售商。
+
+#11.0:
+Imagine if you ' re a very large retailer that has a large number of locations , said Martin Fleming , chief economist at IBM .
+IBM首席经济学家马丁·弗莱明（Martin Fleming）说，想象一下，如果你是一家拥有大量门店的大型零售商。
+Imagine if you ' re a very large retailer that has a large number of locations , said John Fleming , chief economist at IBM .
+IBM首席经济学家约翰·弗莱明（John Fleming）说，想象一下，如果你是一家拥有大量门店的大型零售商。
+
+#12.0:
+Imagine if you ' re a very large retailer that has a large number of locations , said Martin Fleming , chief economist at IBM .
+IBM首席经济学家马丁·弗莱明（Martin Fleming）说，想象一下，如果你是一家拥有大量门店的大型零售商。
+Imagine if you ' re a very large retailer that has a large number of locations , said David Fleming , chief economist at IBM .
+IBM首席经济学家戴维·弗莱明（David Fleming）说，想象一下，如果你是一家拥有大量门店的大型零售商。
+
+#15.0:
+Sewing may find some support for a merger among European regulators who argue the region has too many banks .
+欧洲监管机构认为该地区银行太多，他们可能会支持合并。
+Sewing may find some support for a merger by European regulators who argue the region has too many banks .
+欧洲监管机构认为该地区银行太多，他们可能会为合并找到一些支持。
+
+#16.0:
+Sewing may find some support for a merger among European regulators who argue the region has too many banks .
+欧洲监管机构认为该地区银行太多，他们可能会支持合并。
+Sellers may find some support for a merger among European regulators who argue the region has too many banks .
+卖方可能会在欧洲监管机构中找到一些支持合并的人，他们认为该地区的银行太多。
+
+#17.0:
+Sewing may find some support for a merger among European regulators who argue the region has too many banks .
+欧洲监管机构认为该地区银行太多，他们可能会支持合并。
+Sewing may find some support for a merger among European regulators who argue the region has too few banks .
+欧洲监管机构认为该地区的银行太少，他们可能会支持合并。
+
+#18.0:
+Sewing may find some support for a merger among European regulators who argue the region has too many banks .
+欧洲监管机构认为该地区银行太多，他们可能会支持合并。
+Sewing may find some support for a merger from European regulators who argue the region has too many banks .
+欧洲监管机构可能会支持合并，认为该地区银行太多。
+
+#20.0:
+I really believe that you see a lot of innovation coming from other parts of the world .
+我真的相信你会看到很多来自世界其他地方的创新。
+I also believe that you see a lot of innovation coming from other parts of the world .
+我还相信，你会看到很多来自世界其他地方的创新。
+
+#23.0:
+I really believe that you see a lot of innovation coming from other parts of the world .
+我真的相信你会看到很多来自世界其他地方的创新。
+I really think that you see a lot of innovation coming from other parts of the world .
+我真的认为你看到了很多来自世界其他地方的创新。
+
+#29.0:
+I do not care if it ' s Marc Andreessen or Ben Horowitz , or anyone who is extremely famous or well accomplished , who disagrees with me .
+我不在乎是马克·安德烈森还是本·霍洛维茨，或者任何一个非常有名或非常有成就的人，不同意我的观点。
+I do not care if it ' s Marc Andreessen or Ben Horowitz , or anyone who is extremely famous and well accomplished , who disagrees with me .
+我不在乎是马克·安德烈森还是本·霍洛维茨，或是任何一个非常有名、成就卓著的人，不同意我的观点。
+
+#30.0:
+They left out that the pilots were not trained to handle it .
+他们遗漏了飞行员没有接受过处理这件事的培训。
+He left out that the pilots were not trained to handle it .
+他遗漏了飞行员没有受过处理这件事的训练。
+
+#31.0:
+They left out that the pilots were not trained to handle it .
+他们遗漏了飞行员没有接受过处理这件事的培训。
+They pointed out that the pilots were not trained to handle it .
+他们指出，飞行员没有接受过处理这种情况的培训。
+
+#32.0:
+They left out that the pilots were not trained to handle it .
+他们遗漏了飞行员没有接受过处理这件事的培训。
+They left out that their pilots were not trained to handle it .
+他们遗漏了他们的飞行员没有接受过处理这件事的训练。
+
+#33.0:
+They left out that the pilots were not trained to handle it .
+他们遗漏了飞行员没有接受过处理这件事的培训。
+They found out that the pilots were not trained to handle it .
+他们发现飞行员没有受过处理这件事的训练。
+
+#35.0:
+When you ' re in the company , it ' s very clear that you ' re changing peoples ' minds .
+当你在公司时，很明显你正在改变人们的想法。
+Once you ' re in the company , it ' s very clear that you ' re changing peoples ' minds .
+一旦你进入公司，很明显你正在改变人们的想法。
+
+#36.0:
+When you ' re in the company , it ' s very clear that you ' re changing peoples ' minds .
+当你在公司时，很明显你正在改变人们的想法。
+If you ' re in the company , it ' s very clear that you ' re changing peoples ' minds .
+如果你在公司，很明显你正在改变人们的想法。
+
+#38.0:
+When you ' re in the company , it ' s very clear that you ' re changing peoples ' minds .
+当你在公司时，很明显你正在改变人们的想法。
+When you ' re in the company , it ' s always clear that you ' re changing peoples ' minds .
+当你在公司的时候，很明显你在改变人们的想法。
+
+#45.0:
+Critics say the plan has not resolved longstanding questions over the future of Deutsche ' s investment bank , which delivers volatile returns and has lost ground to Wall Street rivals .
+批评人士说，该计划没有解决有关德意志投资银行未来的长期问题。德意志投资银行的回报率不稳定，已经输给了华尔街的竞争对手。
+Critics argue the plan has not resolved longstanding questions over the future of Deutsche ' s investment bank , which delivers volatile returns and has lost ground to Wall Street rivals .
+批评人士认为，这项计划并没有解决德意志投资银行未来长期存在的问题。德意志投资银行的回报率不稳定，已经输给了华尔街的竞争对手。
+
+#46.0:
+Critics say the plan has not resolved longstanding questions over the future of Deutsche ' s investment bank , which delivers volatile returns and has lost ground to Wall Street rivals .
+批评人士说，该计划没有解决有关德意志投资银行未来的长期问题。德意志投资银行的回报率不稳定，已经输给了华尔街的竞争对手。
+Critics claim the plan has not resolved longstanding questions over the future of Deutsche ' s investment bank , which delivers volatile returns and has lost ground to Wall Street rivals .
+批评人士称，该计划没有解决德意志投资银行未来长期存在的问题。德意志投资银行的回报率不稳定，已经输给了华尔街的竞争对手。
+
+#57.0:
+Holmes settled with the SEC , agreeing to pay a fine and give up her voting control over Theranos , but she and the company did not admit to any wrongdoing .
+霍姆斯与美国证券交易委员会达成和解，同意支付罚款，并放弃对瑟拉诺斯的投票控制权，但她和该公司均未承认有任何不当行为。
+Holmes settled with the SEC , agreeing to pay a fine and give up her voting control over Theranos , although she and the company did not admit to any wrongdoing .
+霍姆斯与美国证券交易委员会达成和解，同意支付罚款，并放弃对瑟拉诺斯的投票控制权，尽管她和公司没有承认任何不当行为。
+
+#68.0:
+Since getting his PhD at the University of Minnesota in 1993 , he has churned out papers on subjects like home prices , government procurement , auctions and collusion .
+自从1993在明尼苏达大学获得博士学位后，他就发表了有关房价、政府采购、拍卖和勾结等问题的论文。
+Since earning his PhD at the University of Minnesota in 1993 , he has churned out papers on subjects like home prices , government procurement , auctions and collusion .
+自从1993在明尼苏达大学获得博士学位以来，他就在诸如房价、政府采购、拍卖和勾结等问题上发表了论文。
+
+#69.0:
+Since getting his PhD at the University of Minnesota in 1993 , he has churned out papers on subjects like home prices , government procurement , auctions and collusion .
+自从1993在明尼苏达大学获得博士学位后，他就发表了有关房价、政府采购、拍卖和勾结等问题的论文。
+Since getting his PhD at the University of Minnesota in 1993 , he has churned out papers on topics like home prices , government procurement , auctions and collusion .
+自从1993在明尼苏达大学获得博士学位以来，他就发表了有关房价、政府采购、拍卖和勾结等主题的论文。
+
+#72.0:
+You should be agonizingly jealous of the sorts of problems we work on and the almost anxiety provoking magnitude of data with which we get to work .
+你应该痛苦地嫉妒我们处理的各种问题，以及我们要处理的几乎令人焦虑的大量数据。
+You will be agonizingly jealous of the sorts of problems we work on and the almost anxiety provoking magnitude of data with which we get to work .
+你会痛苦地嫉妒我们处理的各种问题，以及我们要处理的几乎令人焦虑的数据量。
+
+#73.0:
+You should be agonizingly jealous of the sorts of problems we work on and the almost anxiety provoking magnitude of data with which we get to work .
+你应该痛苦地嫉妒我们处理的各种问题，以及我们要处理的几乎令人焦虑的大量数据。
+You may be agonizingly jealous of the sorts of problems we work on and the almost anxiety provoking magnitude of data with which we get to work .
+你可能会痛苦地嫉妒我们所处理的各种问题，以及我们所处理的几乎令人焦虑的数据量。
+
+#74.0:
+You should be agonizingly jealous of the sorts of problems we work on and the almost anxiety provoking magnitude of data with which we get to work .
+你应该痛苦地嫉妒我们处理的各种问题，以及我们要处理的几乎令人焦虑的大量数据。
+You should be agonizingly jealous of the sorts of problems we work on and the sheer anxiety provoking magnitude of data with which we get to work .
+你应该痛苦地嫉妒我们正在处理的各种问题，以及我们正在处理的数据中令人焦虑的数量。
+
+#75.0:
+Tired of hearing that she was too introverted , Chan pushed herself out of her comfort zone when she started attending Stanford University for undergrad .
+陈冯富珍听腻了自己过于内向的说法，当她开始进入斯坦福大学读本科时，她把自己挤出了舒适区。
+Tired of hearing that she was too introverted , Chan pushed herself out of her comfort zone when she started attending Harvard University for undergrad .
+陈冯富珍听腻了自己过于内向的说法，当她开始进入哈佛大学读本科时，她把自己挤出了自己的舒适区。
+
+#76.0:
+Tired of hearing that she was too introverted , Chan pushed herself out of her comfort zone when she started attending Stanford University for undergrad .
+陈冯富珍听腻了自己过于内向的说法，当她开始进入斯坦福大学读本科时，她把自己挤出了舒适区。
+Tired of hearing that she was too introverted , Chan pushed herself out of her comfort zone when she started attending Columbia University for undergrad .
+陈冯富珍听腻了自己过于内向的说法，当她开始进入哥伦比亚大学读本科时，她把自己挤出了自己的舒适区。
+
+#78.0:
+Tired of hearing that she was too introverted , Chan pushed herself out of her comfort zone when she started attending Stanford University for undergrad .
+陈冯富珍听腻了自己过于内向的说法，当她开始进入斯坦福大学读本科时，她把自己挤出了舒适区。
+Tired of hearing that she was too introverted , Chan pushed herself outside of her comfort zone when she started attending Stanford University for undergrad .
+厌倦了听人说她太内向，当她开始进入斯坦福大学读本科时，她把自己推到了舒适区之外。
+
+#79.0:
+Tired of hearing that she was too introverted , Chan pushed herself out of her comfort zone when she started attending Stanford University for undergrad .
+陈冯富珍听腻了自己过于内向的说法，当她开始进入斯坦福大学读本科时，她把自己挤出了舒适区。
+Tired of hearing that she was too introverted , Chan pushed herself out of her comfort zone when she started attending Stanford University as undergrad .
+陈冯富珍听腻了自己过于内向的说法，当她开始在斯坦福大学读本科时，她把自己挤出了自己的舒适区。
+
+#80.0:
+The cool confidence Chan has become known for did not always come easily .
+陈冯富珍以其冷静自信而闻名，但这种自信并非总是来得容易。
+The cool confidence Chan has become known for has not always come easily .
+陈冯富珍以其冷静自信而闻名，但这并不总是那么容易。
+
+#81.0:
+The cool confidence Chan has become known for did not always come easily .
+陈冯富珍以其冷静自信而闻名，但这种自信并非总是来得容易。
+The cool confidence Chan has become known for does not always come easily .
+陈冯富珍以其冷静自信而闻名，但这并不总是那么容易。
+
+#82.0:
+The cool confidence Chan has become known for did not always come easily .
+陈冯富珍以其冷静自信而闻名，但这种自信并非总是来得容易。
+The cool confidence Chan has been known for did not always come easily .
+陈冯富珍一向以冷静自信著称，但这种自信并不总是那么容易实现。
+
+#83.0:
+The cool confidence Chan has become known for did not always come easily .
+陈冯富珍以其冷静自信而闻名，但这种自信并非总是来得容易。
+The cool confidence Chan has become famous for did not always come easily .
+陈冯富珍以其酷炫的自信而闻名，但这并不总是那么容易。
+
+#84.0:
+The cool confidence Chan has become known for did not always come easily .
+陈冯富珍以其冷静自信而闻名，但这种自信并非总是来得容易。
+The cool confidence he has become known for did not always come easily .
+他以冷静的自信而闻名，但并不总是那么容易。
+
+#87.0:
+The employee , who has since taken a new job , admits this time off was a luxury most may not have had .
+这名雇员后来接受了一份新工作，他承认这次休假是大多数人可能没有的奢侈。
+An employee , who has since taken a new job , admits this time off was a luxury most may not have had .
+一位后来接受了新工作的员工承认，这次休假是大多数人可能没有的奢侈。
+
+#88.0:
+The employee , who has since taken a new job , admits this time off was a luxury most may not have had .
+这名雇员后来接受了一份新工作，他承认这次休假是大多数人可能没有的奢侈。
+The employee , who has since taken a new job , admits this time off is a luxury most may not have had .
+这名员工后来换了一份新工作，他承认这次休假是大多数人可能没有的奢侈。
+
+#90.0:
+The employee , who has since taken a new job , admits this time off was a luxury most may not have had .
+这名雇员后来接受了一份新工作，他承认这次休假是大多数人可能没有的奢侈。
+The employee , who has since started a new job , admits this time off was a luxury most may not have had .
+这名员工后来开始了一份新工作，他承认这次休假是大多数人可能没有的奢侈。
+
+#91.0:
+The employee , who has since taken a new job , admits this time off was a luxury most may not have had .
+这名雇员后来接受了一份新工作，他承认这次休假是大多数人可能没有的奢侈。
+The employee , who has since gotten a new job , admits this time off was a luxury most may not have had .
+这名员工后来找到了一份新工作，他承认这次休假是大多数人可能没有的奢侈。
+
+#93.0:
+The headlines in the papers called it the ' Deadly 727 . '
+报纸的头条称之为“致命的727”
+The article in the papers called it the ' Deadly 727 . '
+报纸上的文章称之为“致命的727”
+
+#95.0:
+The headlines in the papers called it the ' Deadly 727 . '
+报纸的头条称之为“致命的727”
+The headlines in the papers called it the ' Ghostly 727 . '
+报纸头条称之为“幽灵727”
+
+#101.0:
+An endless job search compounded by fears of being blacklisted by certain businesses .
+无休止的求职，再加上担心被某些企业列入黑名单。
+An endless job search fueled by fears of being blacklisted by certain businesses .
+由于担心被某些企业列入黑名单，无休止地找工作。
+
+#103.0:
+Other tech companies that also make effective use of economists — like Uber , which has a 30 person team — speak with frank admiration of the apparatus Amazon has built .
+其他也有效利用经济学家的科技公司——比如优步，它有一个30人的团队——坦率地对亚马逊建立的机器表示钦佩。
+Some tech companies that also make effective use of economists — like Uber , which has a 30 person team — speak with frank admiration of the apparatus Amazon has built .
+一些也有效利用经济学家的科技公司——比如优步，它有一个30人的团队——坦率地赞美亚马逊建立的机器。
+
+#107.0:
+They kind of make the point that economists have more specific skill sets that are better suited for a lot of business problems , the former Amazon staffer said .
+这位前亚马逊员工表示：他们的观点是，经济学家拥有更具体的技能，更适合解决许多商业问题。
+They sort of make the point that economists have more specific skill sets that are better suited for a lot of business problems , the former Amazon staffer said .
+这名前亚马逊员工说，他们在某种程度上表明，经济学家拥有更具体的技能，更适合解决许多商业问题。
+
+#108.0:
+They kind of make the point that economists have more specific skill sets that are better suited for a lot of business problems , the former Amazon staffer said .
+这位前亚马逊员工表示：他们的观点是，经济学家拥有更具体的技能，更适合解决许多商业问题。
+They kind of make the point that economists have more specific skill sets that are more suited for a lot of business problems , the former Amazon staffer said .
+这名前亚马逊员工说，他们的观点是，经济学家拥有更具体的技能，更适合解决许多商业问题。
+
+#109.0:
+They kind of make the point that economists have more specific skill sets that are better suited for a lot of business problems , the former Amazon staffer said .
+这位前亚马逊员工表示：他们的观点是，经济学家拥有更具体的技能，更适合解决许多商业问题。
+They kind of make the point that economists have more specific skill sets that are best suited for a lot of business problems , the former Amazon staffer said .
+这名前亚马逊员工说，他们的观点是，经济学家拥有更具体的技能，最适合解决许多商业问题。
+
+#110.0:
+They kind of make the point that economists have more specific skill sets that are better suited for a lot of business problems , the former Amazon staffer said .
+这位前亚马逊员工表示：他们的观点是，经济学家拥有更具体的技能，更适合解决许多商业问题。
+We kind of make the point that economists have more specific skill sets that are better suited for a lot of business problems , the former Amazon staffer said .
+这位前亚马逊员工说：“我们有点强调，经济学家拥有更具体的技能，更适合解决许多商业问题。”。
+
+#111.0:
+They kind of make the point that economists have more specific skill sets that are better suited for a lot of business problems , the former Amazon staffer said .
+这位前亚马逊员工表示：他们的观点是，经济学家拥有更具体的技能，更适合解决许多商业问题。
+They kind of make the point that economists need more specific skill sets that are better suited for a lot of business problems , the former Amazon staffer said .
+这名前亚马逊员工说，他们有点表明，经济学家需要更具体的技能，这些技能更适合许多商业问题。
+
+#116.0:
+And do not forget about your body language when receiving the compliment .
+在接受赞美时，不要忘记你的肢体语言。
+And do not forget about your body language after receiving the compliment .
+在收到赞美之后，不要忘记你的肢体语言。
+
+#117.0:
+From our perspective , this potential merger would not create a business model that is sustainable long term , added Duscheck , who is a member of Deutsche Bank ' s supervisory board .
+德意志银行监事会成员杜斯切克补充说，从我们的角度来看，这种潜在的合并不会创造一种长期可持续的商业模式。
+From my perspective , this potential merger would not create a business model that is sustainable long term , added Duscheck , who is a member of Deutsche Bank ' s supervisory board .
+德意志银行监事会成员杜斯切克补充说，在我看来，这一潜在的合并不会创造出一种长期可持续的商业模式。
+
+#118.0:
+From our perspective , this potential merger would not create a business model that is sustainable long term , added Duscheck , who is a member of Deutsche Bank ' s supervisory board .
+德意志银行监事会成员杜斯切克补充说，从我们的角度来看，这种潜在的合并不会创造一种长期可持续的商业模式。
+From his perspective , this potential merger would not create a business model that is sustainable long term , added Duscheck , who is a member of Deutsche Bank ' s supervisory board .
+德意志银行（Deutsche Bank）监事会成员杜斯切克（Duscheck）补充说，从他的角度来看，这一潜在的合并不会创造一种长期可持续的商业模式。
+
+#120.0:
+From our perspective , this potential merger would not create a business model that is sustainable long term , added Duscheck , who is a member of Deutsche Bank ' s supervisory board .
+德意志银行监事会成员杜斯切克补充说，从我们的角度来看，这种潜在的合并不会创造一种长期可持续的商业模式。
+From our perspective , this potential merger would not create a business model that is sustainable long term , added Koscheck , who is a member of Deutsche Bank ' s supervisory board .
+德意志银行监事会成员科斯切克补充说，从我们的角度来看，这一潜在的合并不会创造一种长期可持续的商业模式。
+
+#121.0:
+From our perspective , this potential merger would not create a business model that is sustainable long term , added Duscheck , who is a member of Deutsche Bank ' s supervisory board .
+德意志银行监事会成员杜斯切克补充说，从我们的角度来看，这种潜在的合并不会创造一种长期可持续的商业模式。
+From this perspective , this potential merger would not create a business model that is sustainable long term , added Duscheck , who is a member of Deutsche Bank ' s supervisory board .
+德意志银行监事会成员杜斯切克补充说，从这个角度来看，这一潜在的合并不会创造一种长期可持续的商业模式。
+
+#122.0:
+And probing questions from outsiders on how they could ever have worked at the disgraced company .
+以及探讨外界对他们如何能在这家不光彩的公司工作的质疑。
+And probing questions from outsiders about how they could ever have worked at the disgraced company .
+以及外部人士提出的关于他们如何能在这家不光彩的公司工作的问题。
+
+#123.0:
+And probing questions from outsiders on how they could ever have worked at the disgraced company .
+以及探讨外界对他们如何能在这家不光彩的公司工作的质疑。
+And probing questions from outsiders on how they could ever have worked at this disgraced company .
+以及外部人士提出的关于他们如何能在这家不光彩的公司工作的问题。
+
+#124.0:
+And probing questions from outsiders on how they could ever have worked at the disgraced company .
+以及探讨外界对他们如何能在这家不光彩的公司工作的质疑。
+And probing questions from outsiders on how they could ever have worked at that disgraced company .
+并从外部调查他们如何能在这家丢脸的公司工作的问题。
+
+#125.0:
+And probing questions from outsiders on how they could ever have worked at the disgraced company .
+以及探讨外界对他们如何能在这家不光彩的公司工作的质疑。
+And probing questions from outsiders on how they would ever have worked at the disgraced company .
+以及探讨外界对他们将如何在这家丢脸的公司工作的问题。
+
+#126.0:
+And probing questions from outsiders on how they could ever have worked at the disgraced company .
+以及探讨外界对他们如何能在这家不光彩的公司工作的质疑。
+And probing questions from outsiders on why they could ever have worked at the disgraced company .
+并向外界询问他们为什么会在这家不光彩的公司工作。
+
+#131.0:
+The investigators were right that the airplane itself was safe .
+调查人员认为飞机本身是安全的，这是对的。
+The investigators were right that the airplane itself was missing .
+调查人员说飞机本身失踪是对的。
+
+#140.0:
+From November 2016 to September 2018 , the company was hit with five discrimination lawsuits and charges from civil rights and labor organizations , workers and individuals .
+从2016年11月到2018年9月，该公司遭受了来自民权和劳工组织、工人和个人的五起歧视诉讼和指控。
+From July 2016 to September 2018 , the company was hit with five discrimination lawsuits and charges from civil rights and labor organizations , workers and individuals .
+2016年7月至2018年9月，该公司遭遇了来自民权和劳工组织、工人和个人的五起歧视诉讼和指控。
+
+#148.0:
+Advertisers who are not creating housing , employment or credit ads will still be able to target users based on those categories .
+不制作住房、就业或信用广告的广告商仍将能够根据这些类别瞄准用户。
+Advertisers who are not creating housing , employment or credit ads may still be able to target users based on those categories .
+没有创造住房、就业或信用广告的广告商可能仍然能够根据这些类别瞄准用户。
+
+#150.0:
+Advertisers who are not creating housing , employment or credit ads will still be able to target users based on those categories .
+不制作住房、就业或信用广告的广告商仍将能够根据这些类别瞄准用户。
+Advertisers who are not creating housing , employment or credit ads should still be able to target users based on those categories .
+没有创造住房、就业或信用广告的广告商仍应能够根据这些类别瞄准用户。
+
+#153.0:
+Unlike economists in academia or government , the work of Amazon ' s economists is almost entirely secret , and staff are required to sign non disclosure agreements to keep it that way .
+与学术界或政府部门的经济学家不同，亚马逊经济学家的工作几乎完全保密，员工需要签署保密协议才能保密。
+Unlike those in academia or government , the work of Amazon ' s economists is almost entirely secret , and staff are required to sign non disclosure agreements to keep it that way .
+与学术界或政府部门不同，亚马逊经济学家的工作几乎完全是秘密的，员工需要签署保密协议才能保密。
+
+#154.0:
+Unlike economists in academia or government , the work of Amazon ' s economists is almost entirely secret , and staff are required to sign non disclosure agreements to keep it that way .
+与学术界或政府部门的经济学家不同，亚马逊经济学家的工作几乎完全保密，员工需要签署保密协议才能保密。
+Unlike some in academia or government , the work of Amazon ' s economists is almost entirely secret , and staff are required to sign non disclosure agreements to keep it that way .
+与学术界或政府中的一些人不同，亚马逊经济学家的工作几乎完全是秘密的，员工必须签署保密协议才能保密。
+
+#155.0:
+Unlike economists in academia or government , the work of Amazon ' s economists is almost entirely secret , and staff are required to sign non disclosure agreements to keep it that way .
+与学术界或政府部门的经济学家不同，亚马逊经济学家的工作几乎完全保密，员工需要签署保密协议才能保密。
+Unlike others in academia or government , the work of Amazon ' s economists is almost entirely secret , and staff are required to sign non disclosure agreements to keep it that way .
+与学术界或政府中的其他人不同，亚马逊经济学家的工作几乎完全是秘密的，员工必须签署保密协议才能保密。
+
+#156.0:
+Unlike economists in academia or government , the work of Amazon ' s economists is almost entirely secret , and staff are required to sign non disclosure agreements to keep it that way .
+与学术界或政府部门的经济学家不同，亚马逊经济学家的工作几乎完全保密，员工需要签署保密协议才能保密。
+Unlike many in academia or government , the work of Amazon ' s economists is almost entirely secret , and staff are required to sign non disclosure agreements to keep it that way .
+与学术界或政府中的许多人不同，亚马逊经济学家的工作几乎完全是秘密的，员工必须签署保密协议才能保密。
+
+#159.0:
+Anxiety over flying on Boeing ' s 737 Max planes reached a fever pitch after the crash in Ethiopia .
+在埃塞俄比亚坠机后，人们对乘坐波音737 Max飞机的焦虑达到了狂热的程度。
+Anxiety over flying on Boeing ' s 737 Max planes reached a fever pitch with the crash in Ethiopia .
+在埃塞俄比亚的坠机事件中，人们对乘坐波音737 Max飞机的焦虑达到了狂热的程度。
+
+#167.0:
+As the day draws nearer , we need to recognize that there are risks that are out of the sector ' s control , said Omar Ali , head of UK financial services at EY .
+安永（EY）英国金融服务主管奥马尔·阿里（Omar Ali）表示：随着时间的临近，我们需要认识到，该行业存在着无法控制的风险。
+As that day draws nearer , we need to recognize that there are risks that are out of the sector ' s control , said Omar Ali , head of UK financial services at EY .
+安永（EY）英国金融服务主管奥马尔·阿里（Omar Ali）表示：随着这一天的临近，我们需要认识到，存在着该行业无法控制的风险。
+
+#171.0:
+As the day draws nearer , we need to recognize that there are risks that are out of the sector ' s control , said Omar Ali , head of UK financial services at EY .
+安永（EY）英国金融服务主管奥马尔·阿里（Omar Ali）表示：随着时间的临近，我们需要认识到，该行业存在着无法控制的风险。
+As the day draws nearer , we need to recognize that there are risks that are out of the sector ' s control , said Mohammed Ali , head of UK financial services at EY .
+安永（EY）英国金融服务主管穆罕默德·阿里（Mohammed Ali）表示：随着时间的临近，我们需要认识到，存在着该行业无法控制的风险。
+
+#172.0:
+A simple response of thank you very much , I appreciate you saying that or thank you , I worked very hard on it can suffice .
+一个简单的回答非常感谢，我很感谢你这么说，或者说谢谢你，我非常努力就足够了。
+A short response of thank you very much , I appreciate you saying that or thank you , I worked very hard on it can suffice .
+非常感谢你的简短回复，我很感谢你这么说，或者说谢谢你，我非常努力就足够了。
+
+#173.0:
+A simple response of thank you very much , I appreciate you saying that or thank you , I worked very hard on it can suffice .
+一个简单的回答非常感谢，我很感谢你这么说，或者说谢谢你，我非常努力就足够了。
+A quick response of thank you very much , I appreciate you saying that or thank you , I worked very hard on it can suffice .
+非常感谢你的快速回复，我很感激你这么说，或者说谢谢你，我非常努力就足够了。
+
+#174.0:
+A simple response of thank you very much , I appreciate you saying that or thank you , I worked very hard on it can suffice .
+一个简单的回答非常感谢，我很感谢你这么说，或者说谢谢你，我非常努力就足够了。
+The simple response of thank you very much , I appreciate you saying that or thank you , I worked very hard on it can suffice .
+非常感谢你的简单回答，我很感谢你这么说，或者说谢谢你，我非常努力就足够了。
+
+#175.0:
+A simple response of thank you very much , I appreciate you saying that or thank you , I worked very hard on it can suffice .
+一个简单的回答非常感谢，我很感谢你这么说，或者说谢谢你，我非常努力就足够了。
+A polite response of thank you very much , I appreciate you saying that or thank you , I worked very hard on it can suffice .
+非常感谢你的礼貌回应，我很感激你这么说，或者说谢谢你，我非常努力就足够了。
+
+#176.0:
+A simple response of thank you very much , I appreciate you saying that or thank you , I worked very hard on it can suffice .
+一个简单的回答非常感谢，我很感谢你这么说，或者说谢谢你，我非常努力就足够了。
+A simple response of thank you very much , I appreciate you saying that or thank you , I worked very hard on it will suffice .
+一个简单的回答非常感谢，我很感激你这么说，或者谢谢你，我非常努力就足够了。
+
+#177.0:
+But some former employees say they too were left in the dark , both about the viability of the technology and the financial health of the company .
+但一些前雇员表示，他们也对技术的可行性和公司的财务状况一无所知。
+But several former employees say they too were left in the dark , both about the viability of the technology and the financial health of the company .
+但几名前雇员表示，他们也对这项技术的可行性和公司的财务状况一无所知。
+
+#179.0:
+But some former employees say they too were left in the dark , both about the viability of the technology and the financial health of the company .
+但一些前雇员表示，他们也对技术的可行性和公司的财务状况一无所知。
+But other former employees say they too were left in the dark , both about the viability of the technology and the financial health of the company .
+但其他前员工表示，他们也对技术的可行性和公司的财务状况一无所知。
+
+#180.0:
+But some former employees say they too were left in the dark , both about the viability of the technology and the financial health of the company .
+但一些前雇员表示，他们也对技术的可行性和公司的财务状况一无所知。
+But the former employees say they too were left in the dark , both about the viability of the technology and the financial health of the company .
+但这些前员工表示，他们也对技术的可行性和公司的财务状况一无所知。
+
+#193.0:
+The other big draw : Even though the work Amazon ' s economists do may never see the light of day , within the company , it influences decisions that affect millions of people .
+另一个巨大的吸引力是：尽管亚马逊的经济学家所做的工作可能永远看不到曙光，但在公司内部，它影响着影响数百万人的决策。
+The second big draw : Even though the work Amazon ' s economists do may never see the light of day , within the company , it influences decisions that affect millions of people .
+第二大吸引力：尽管亚马逊的经济学家们所做的工作可能永远看不到曙光，但在公司内部，它影响着影响数百万人的决策。
+
+#194.0:
+The other big draw : Even though the work Amazon ' s economists do may never see the light of day , within the company , it influences decisions that affect millions of people .
+另一个巨大的吸引力是：尽管亚马逊的经济学家所做的工作可能永远看不到曙光，但在公司内部，它影响着影响数百万人的决策。
+The other big draw : Even though the work Amazon ' s economists do will never see the light of day , within the company , it influences decisions that affect millions of people .
+另一个巨大的吸引力是：尽管亚马逊的经济学家们所做的工作永远都不会被发现，但在公司内部，它影响着影响数百万人的决策。
+
+#198.0:
+The number of jobs that will be relocated out of the United Kingdom in the near future stands at 7 , 000 , according to EY .
+安永的数据显示，在不久的将来，英国将有7000个工作岗位被转移到国外。
+The number of jobs which will be relocated out of the United Kingdom in the near future stands at 7 , 000 , according to EY .
+安永的数据显示，在不久的将来，英国将有7000个工作岗位迁出英国。
+
+#199.0:
+The number of jobs that will be relocated out of the United Kingdom in the near future stands at 7 , 000 , according to EY .
+安永的数据显示，在不久的将来，英国将有7000个工作岗位被转移到国外。
+The number of jobs that will be relocated out of the United Kingdom in the near future stood at 7 , 000 , according to EY .
+安永的数据显示，在不久的将来，英国将有7000个工作岗位迁出英国。
+
+#200.0:
+The number of jobs that will be relocated out of the United Kingdom in the near future stands at 7 , 000 , according to EY .
+安永的数据显示，在不久的将来，英国将有7000个工作岗位被转移到国外。
+The number of jobs that may be relocated out of the United Kingdom in the near future stands at 7 , 000 , according to EY .
+安永的数据显示，在不久的将来，可能会有7000个工作岗位被转移到英国以外。
+
+#201.0:
+The number of jobs that will be relocated out of the United Kingdom in the near future stands at 7 , 000 , according to EY .
+安永的数据显示，在不久的将来，英国将有7000个工作岗位被转移到国外。
+The number of jobs that will be moved out of the United Kingdom in the near future stands at 7 , 000 , according to EY .
+安永的数据显示，在不久的将来，英国将有7000个工作岗位迁出。
+
+#203.0:
+It is believed in the field that Amazon employs more PhD economists than any other tech company .
+在该领域，人们相信亚马逊雇佣的博士经济学家比任何其他科技公司都多。
+It is believed in the field that Amazon has more PhD economists than any other tech company .
+在该领域，人们相信亚马逊拥有的博士经济学家比其他任何科技公司都多。
+
+#204.0:
+It is believed in the field that Amazon employs more PhD economists than any other tech company .
+在该领域，人们相信亚马逊雇佣的博士经济学家比任何其他科技公司都多。
+It is believed in the field that Google employs more PhD economists than any other tech company .
+在这个领域，人们相信谷歌雇佣的博士经济学家比任何其他科技公司都多。
+
+#206.0:
+It is believed in the field that Amazon employs more PhD economists than any other tech company .
+在该领域，人们相信亚马逊雇佣的博士经济学家比任何其他科技公司都多。
+It is believed within the field that Amazon employs more PhD economists than any other tech company .
+业内人士认为，亚马逊雇佣的博士经济学家比任何其他科技公司都多。
+
+#207.0:
+They are in charge of their routines , and they can find all the information they need from their friends or from other women in the world and online .
+她们负责自己的日常生活，她们可以从朋友或世界上其他女性和网上找到自己需要的所有信息。
+They are in charge of their routines , and they can find all the information they need from their friends or from other women in the world or online .
+她们负责自己的日常生活，她们可以从朋友、世界上其他女性或网上找到自己需要的所有信息。
+
+#210.0:
+They are in charge of their routines , and they can find all the information they need from their friends or from other women in the world and online .
+她们负责自己的日常生活，她们可以从朋友或世界上其他女性和网上找到自己需要的所有信息。
+They are in charge of their routines , and they can get all the information they need from their friends or from other women in the world and online .
+她们负责自己的日常生活，可以从朋友或世界上其他女性和网络上获得所需的所有信息。
+
+#212.0:
+Feedback , both negative and positive , should be a frequent occurrence in the workplace .
+反馈，无论是正面的还是负面的，都应该经常出现在工作场所。
+Feedback , both negative and positive , should be a common occurrence in the workplace .
+反馈，无论是消极的还是积极的，都应该是工作场所中常见的现象。
+
+#213.0:
+Feedback , both negative and positive , should be a frequent occurrence in the workplace .
+反馈，无论是正面的还是负面的，都应该经常出现在工作场所。
+Feedback , both negative and positive , should be a regular occurrence in the workplace .
+无论是正面的还是负面的反馈，都应该在工作场所经常出现。
+
+#215.0:
+Feedback , both negative and positive , should be a frequent occurrence in the workplace .
+反馈，无论是正面的还是负面的，都应该经常出现在工作场所。
+Feedback , both negative and positive , can be a frequent occurrence in the workplace .
+反馈，无论是正面的还是负面的，都可能在工作场所频繁出现。
+
+#221.0:
+The former employee is now looking for new career opportunities outside their field of expertise after hitting a road block in the job search .
+这位前雇员在求职过程中遇到了障碍，现在正在寻找专业领域之外的新职业机会。
+The current employee is now looking for new career opportunities outside their field of expertise after hitting a road block in the job search .
+在求职遇到障碍后，现任员工现在正在寻找专业领域之外的新职业机会。
+
+#231.0:
+A merger is one potential way forward ; other options include a complete retreat from Wall Street ( more likely ) or major new investment in the investment bank ( less likely ) .
+合并是一个潜在的前进方向；其他选择包括完全退出华尔街（可能性更大）或对投资银行进行重大新投资（可能性更小）。
+A merger is one possible way forward ; other options include a complete retreat from Wall Street ( more likely ) or major new investment in the investment bank ( less likely ) .
+合并是一种可能的前进方式；其他选择包括完全退出华尔街（可能性更大）或对投资银行进行重大新投资（可能性更小）。
+
+#234.0:
+And this would take us closer to our goal of a truly European banking sector .
+这将使我们更接近真正欧洲银行业的目标。
+All this would take us closer to our goal of a truly European banking sector .
+所有这些都将使我们更接近真正的欧洲银行业目标。
+
+#237.0:
+When you do not acknowledge the positive feedback you have been given , it will contribute unconsciously to the narrative that you are not as capable as you might really be , said Aced Molina .
+阿塞德·莫利纳说，如果你不承认别人给了你积极的反馈，就会在不知不觉中让人觉得你没有真正的能力。
+If you do not acknowledge the positive feedback you have been given , it will contribute unconsciously to the narrative that you are not as capable as you might really be , said Aced Molina .
+Aced Molina说，如果你不承认别人给了你积极的反馈，这将在不知不觉中导致你没有真正的能力。
+
+#239.0:
+When you do not acknowledge the positive feedback you have been given , it will contribute unconsciously to the narrative that you are not as capable as you might really be , said Aced Molina .
+阿塞德·莫利纳说，如果你不承认别人给了你积极的反馈，就会在不知不觉中让人觉得你没有真正的能力。
+When you do not acknowledge the positive feedback you have been given , it can contribute unconsciously to the narrative that you are not as capable as you might really be , said Aced Molina .
+Aced Molina说，当你不承认别人给你的积极反馈时，这可能会在不知不觉中导致你没有真正的能力。
+
+#245.0:
+Three months later , Holmes was indicted on federal wire fraud charges and stepped down from Theranos .
+三个月后，霍姆斯因联邦电信欺诈指控被起诉，并从塞拉诺斯辞职。
+Three weeks later , Holmes was indicted on federal wire fraud charges and stepped down from Theranos .
+三周后，霍姆斯被指控犯有联邦电报欺诈罪，并从塞拉诺斯下台。
+
+#248.0:
+According to the Commission , Google blocked its rivals from placing advertisements on third party websites by imposing exclusivity clauses in AdSense contracts .
+委员会称，谷歌通过在AdSense合同中加入排他性条款，阻止其竞争对手在第三方网站上发布广告。
+According to the Commission , Google blocked its rivals from placing advertisements on third party websites by imposing exclusivity clauses on AdSense contracts .
+委员会称，谷歌通过对AdSense合同施加排他性条款，阻止其竞争对手在第三方网站上发布广告。
+
+#255.0:
+I ' ve taken on this kind of ' why not ' attitude .
+我已经采取了这种“为什么不”的态度。
+I ' ve taken on a kind of ' why not ' attitude .
+我采取了一种“为什么不”的态度。
+
+#256.0:
+I ' ve taken on this kind of ' why not ' attitude .
+我已经采取了这种“为什么不”的态度。
+I ' ve taken on this kind of ' why not ' before .
+我以前也有过这种“为什么不呢”的经历。
+
+#257.0:
+I think a lot of us were in denial , said another former employee who continued working at the company after the Wall Street Journal story .
+另一位在《华尔街日报》报道后继续在该公司工作的前雇员说：“我认为我们中的很多人都否认了这一点。”。
+I thought a lot of us were in denial , said another former employee who continued working at the company after the Wall Street Journal story .
+另一位在《华尔街日报》报道后继续在该公司工作的前员工说：“我以为我们中的很多人都在否认这一点。”。
+
+#259.0:
+I think a lot of us were in denial , said another former employee who continued working at the company after the Wall Street Journal story .
+另一位在《华尔街日报》报道后继续在该公司工作的前雇员说：“我认为我们中的很多人都否认了这一点。”。
+I think a lot of us were in denial , said another former employee who continued working at the company in the Wall Street Journal story .
+《华尔街日报》的一篇报道中，另一位继续在该公司工作的前雇员说：“我认为我们中的很多人都否认了这一点。”。
+
+#260.0:
+I think a lot of us were in denial , said another former employee who continued working at the company after the Wall Street Journal story .
+另一位在《华尔街日报》报道后继续在该公司工作的前雇员说：“我认为我们中的很多人都否认了这一点。”。
+I think a few of us were in denial , said another former employee who continued working at the company after the Wall Street Journal story .
+另一位在《华尔街日报》报道后继续在该公司工作的前员工表示：我认为我们中的一些人对此持否认态度。
+
+#268.0:
+You could interview for lots of jobs at the same time , said Fairweather , who left Amazon in 2018 to become the chief economist for the real estate website Redfin .
+Fairweather于2018年离开亚马逊，成为房地产网站Redfin的首席经济学家，他说，你可以同时面试很多工作。
+You could interview for lots of jobs at the same time , said Starkweather , who left Amazon in 2018 to become the chief economist for the real estate website Redfin .
+Starkweather说，你可以同时面试很多工作。他于2018年离开亚马逊，成为房地产网站Redfin的首席经济学家。
+
+#269.0:
+You could interview for lots of jobs at the same time , said Fairweather , who left Amazon in 2018 to become the chief economist for the real estate website Redfin .
+Fairweather于2018年离开亚马逊，成为房地产网站Redfin的首席经济学家，他说，你可以同时面试很多工作。
+You could interview for lots of jobs at the same time , said Goodweather , who left Amazon in 2018 to become the chief economist for the real estate website Redfin .
+古德韦瑟说，你可以同时面试很多工作。他于2018年离开亚马逊，成为房地产网站Redfin的首席经济学家。
+
+#272.0:
+The key to accepting praise at work is to show you received it and appreciate it .
+在工作中接受表扬的关键是要表现出你接受了并感激它。
+The key to receiving praise at work is to show you received it and appreciate it .
+在工作中获得表扬的关键是要表现出你收到了表扬并感激它。
+
+#273.0:
+The key to accepting praise at work is to show you received it and appreciate it .
+在工作中接受表扬的关键是要表现出你接受了并感激它。
+The key to getting praise at work is to show you received it and appreciate it .
+在工作中获得表扬的关键是要表现出你收到了表扬并感激它。
+
+#274.0:
+The key to accepting praise at work is to show you received it and appreciate it .
+在工作中接受表扬的关键是要表现出你接受了并感激它。
+The key to earning praise at work is to show you received it and appreciate it .
+在工作中获得表扬的关键是要表现出你收到了表扬并感激它。
+
+#275.0:
+The key to accepting praise at work is to show you received it and appreciate it .
+在工作中接受表扬的关键是要表现出你接受了并感激它。
+The key to accepting praise at work is to show you know it and appreciate it .
+在工作中接受表扬的关键是要表现出你知道并欣赏它。
+
+#276.0:
+The key to accepting praise at work is to show you received it and appreciate it .
+在工作中接受表扬的关键是要表现出你接受了并感激它。
+The key to accepting praise at work is to say you received it and appreciate it .
+在工作中接受表扬的关键是说你收到了并感激它。
+
+#277.0:
+Because if you ' re writing an economics paper , you ' re studying things like the impact of the minimum wage , often without the luxury of running experiments .
+因为如果你在写一篇经济学论文，你在研究诸如最低工资的影响之类的事情，通常没有进行实验的奢侈。
+Because when you ' re writing an economics paper , you ' re studying things like the impact of the minimum wage , often without the luxury of running experiments .
+因为当你在写一篇经济学论文时，你在研究最低工资的影响，通常没有进行实验的奢侈。
+
+#278.0:
+Because if you ' re writing an economics paper , you ' re studying things like the impact of the minimum wage , often without the luxury of running experiments .
+因为如果你在写一篇经济学论文，你在研究诸如最低工资的影响之类的事情，通常没有进行实验的奢侈。
+And if you ' re writing an economics paper , you ' re studying things like the impact of the minimum wage , often without the luxury of running experiments .
+如果你在写一篇经济学论文，你在研究最低工资的影响，通常没有进行实验的奢侈。
+
+#279.0:
+Because if you ' re writing an economics paper , you ' re studying things like the impact of the minimum wage , often without the luxury of running experiments .
+因为如果你在写一篇经济学论文，你在研究诸如最低工资的影响之类的事情，通常没有进行实验的奢侈。
+Because if you ' re writing an economics paper , you ' re examining things like the impact of the minimum wage , often without the luxury of running experiments .
+因为如果你在写一篇经济学论文，你正在研究最低工资的影响，通常没有进行实验的奢侈。
+
+#280.0:
+Because if you ' re writing an economics paper , you ' re studying things like the impact of the minimum wage , often without the luxury of running experiments .
+因为如果你在写一篇经济学论文，你在研究诸如最低工资的影响之类的事情，通常没有进行实验的奢侈。
+But if you ' re writing an economics paper , you ' re studying things like the impact of the minimum wage , often without the luxury of running experiments .
+但是如果你在写一篇经济学论文，你在研究最低工资的影响，通常没有进行实验的奢侈。
+
+#281.0:
+Because if you ' re writing an economics paper , you ' re studying things like the impact of the minimum wage , often without the luxury of running experiments .
+因为如果你在写一篇经济学论文，你在研究诸如最低工资的影响之类的事情，通常没有进行实验的奢侈。
+Because if you ' re writing an economics paper , you ' re researching things like the impact of the minimum wage , often without the luxury of running experiments .
+因为如果你在写一篇经济学论文，你在研究最低工资的影响，通常没有进行实验的奢侈。
+
+#285.0:
+Glossier ' s two brick and mortar stores are full of Instagram friendly decor throughout the space , which encourage visitors to take photos and share them on social media .
+Glossier的两家实体店在整个空间内都有Instagram友好的装饰，鼓励游客拍照并在社交媒体上分享。
+Grolier ' s two brick and mortar stores are full of Instagram friendly decor throughout the space , which encourage visitors to take photos and share them on social media .
+Grolier的两家实体店在整个空间内都有Instagram友好的装潢，鼓励游客拍照并在社交媒体上分享。
+
+#286.0:
+Glossier ' s two brick and mortar stores are full of Instagram friendly decor throughout the space , which encourage visitors to take photos and share them on social media .
+Glossier的两家实体店在整个空间内都有Instagram友好的装饰，鼓励游客拍照并在社交媒体上分享。
+Grenier ' s two brick and mortar stores are full of Instagram friendly decor throughout the space , which encourage visitors to take photos and share them on social media .
+Grenier的两家实体店在整个空间都有Instagram友好的装饰，鼓励游客拍照并在社交媒体上分享。
+
+#288.0:
+Economists can come close to an answer , enabling the company to make better decisions about which benefits to include and which to scrap .
+经济学家可以接近一个答案，使公司能够更好地决定哪些福利应该包括哪些福利，哪些应该取消。
+Economists can come close to an answer , enabling the company to make better decisions about what benefits to include and which to scrap .
+经济学家可以接近一个答案，使该公司能够更好地决定应该包括哪些福利以及应该取消哪些福利。
+
+#289.0:
+Economists can come close to an answer , enabling the company to make better decisions about which benefits to include and which to scrap .
+经济学家可以接近一个答案，使公司能够更好地决定哪些福利应该包括哪些福利，哪些应该取消。
+Economists can come close to an answer , allowing the company to make better decisions about which benefits to include and which to scrap .
+经济学家可以接近一个答案，让公司更好地决定哪些福利应该包括哪些福利，哪些应该取消。
+
+#291.0:
+Economists can come close to an answer , enabling the company to make better decisions about which benefits to include and which to scrap .
+经济学家可以接近一个答案，使公司能够更好地决定哪些福利应该包括哪些福利，哪些应该取消。
+Economists can come close to an answer , leading the company to make better decisions about which benefits to include and which to scrap .
+经济学家可以接近一个答案，引导公司更好地决定哪些福利应该包括哪些福利，哪些应该取消。
+
+#296.0:
+Google now says it has about 300 economists and statisticians on staff , though it would not give a more detailed breakdown .
+谷歌现在表示，其员工中约有300名经济学家和统计学家，但不会给出更详细的分类。
+Google now says it has over 300 economists and statisticians on staff , though it would not give a more detailed breakdown .
+谷歌现在表示，其员工中有300多名经济学家和统计学家，但不会给出更详细的分类。
+
+#300.0:
+The duration was reflected in the size of the fine , she added .
+她补充说，罚款的数额反映了罚款的持续时间。
+The duration was included in the size of the fine , she added .
+她补充说，罚款金额中包括了持续时间。
+
+#303.0:
+It eventually sold 1 , 831 of the jets , nearly twice as many as the rival DC 9 .
+它最终售出了1831架，几乎是竞争对手DC 9的两倍。
+It also sold 1 , 831 of the jets , nearly twice as many as the rival DC 9 .
+它还售出了1831架飞机，几乎是竞争对手DC 9的两倍。
+
+#312.0:
+But instead of feeling isolated , I ' ve found it to be helpful in certain cases , she said .
+但她说，我没有感到孤独，而是发现在某些情况下它是有帮助的。
+And instead of feeling isolated , I ' ve found it to be helpful in certain cases , she said .
+她说，在某些情况下，我发现这不是孤立的感觉，而是有帮助的。
+
+#313.0:
+But instead of feeling isolated , I ' ve found it to be helpful in certain cases , she said .
+但她说，我没有感到孤独，而是发现在某些情况下它是有帮助的。
+So instead of feeling isolated , I ' ve found it to be helpful in certain cases , she said .
+她说：“所以，我发现在某些情况下，这并不是孤立的感觉，而是有帮助的。”。
+
+#314.0:
+But instead of feeling isolated , I ' ve found it to be helpful in certain cases , she said .
+但她说，我没有感到孤独，而是发现在某些情况下它是有帮助的。
+But instead of staying isolated , I ' ve found it to be helpful in certain cases , she said .
+但她说，在某些情况下，我发现这并不是孤立，而是有帮助的。
+
+#315.0:
+But instead of feeling isolated , I ' ve found it to be helpful in certain cases , she said .
+但她说，我没有感到孤独，而是发现在某些情况下它是有帮助的。
+But instead of feeling isolated , I ' ve found it to be helpful in some cases , she said .
+但她说，我并没有感到孤独，而是发现在某些情况下，这是有帮助的。
+
+#316.0:
+But instead of feeling isolated , I ' ve found it to be helpful in certain cases , she said .
+但她说，我没有感到孤独，而是发现在某些情况下它是有帮助的。
+But instead of feeling isolated , I ' ve found it to be helpful in certain cases , he said .
+但他说，我并没有感到孤独，而是发现在某些情况下，这是有帮助的。
+
+#317.0:
+But any combination would be opposed by the powerful labor unions and closely examined by EU regulators who may prefer a cross border merger that could strengthen Europe ' s financial system .
+但任何合并都会遭到强大的工会的反对，并受到欧盟监管机构的密切审查，他们可能更愿意进行跨境合并，以加强欧洲的金融体系。
+But the combination would be opposed by the powerful labor unions and closely examined by EU regulators who may prefer a cross border merger that could strengthen Europe ' s financial system .
+但这一合并将遭到强大的工会的反对，并受到欧盟监管机构的密切审查。欧盟监管机构可能更愿意进行跨境合并，以加强欧洲的金融体系。
+
+#318.0:
+But any combination would be opposed by the powerful labor unions and closely examined by EU regulators who may prefer a cross border merger that could strengthen Europe ' s financial system .
+但任何合并都会遭到强大的工会的反对，并受到欧盟监管机构的密切审查，他们可能更愿意进行跨境合并，以加强欧洲的金融体系。
+But this combination would be opposed by the powerful labor unions and closely examined by EU regulators who may prefer a cross border merger that could strengthen Europe ' s financial system .
+但这一组合将遭到强大的工会的反对，并受到欧盟监管机构的密切审查，他们可能更愿意进行跨境合并，以加强欧洲的金融体系。
+
+#322.0:
+She enrolled in a public speaking class , studied how to project her voice more and even tried out — and toured with — an a capella group .
+她参加了一个公共演讲班，学习如何更有效地表达自己的声音，甚至还参加了五车二合唱团的测试和巡回演出。
+She enrolled in a public speaking class , learned how to project her voice more and even tried out — and toured with — an a capella group .
+她参加了一个公共演讲班，学会了如何更多地投射自己的声音，甚至还参加了五车二合唱团的测试和巡回演出。
+
+#323.0:
+She enrolled in a public speaking class , studied how to project her voice more and even tried out — and toured with — an a capella group .
+她参加了一个公共演讲班，学习如何更有效地表达自己的声音，甚至还参加了五车二合唱团的测试和巡回演出。
+She participated in a public speaking class , studied how to project her voice more and even tried out — and toured with — an a capella group .
+她参加了一个公共演讲班，学习如何更多地投射自己的声音，甚至还尝试过——并与五车二乐队一起巡回演出。
+
+#325.0:
+She enrolled in a public speaking class , studied how to project her voice more and even tried out — and toured with — an a capella group .
+她参加了一个公共演讲班，学习如何更有效地表达自己的声音，甚至还参加了五车二合唱团的测试和巡回演出。
+She enrolled in a public speaking class , studied how to use her voice more and even tried out — and toured with — an a capella group .
+她参加了一个公共演讲班，学习如何更多地使用自己的声音，甚至还尝试过——并与五车二乐队一起巡回演出。
+
+#328.0:
+It can give employee ' s clarity , increase productivity and morale and help to avoid any tension or confusion .
+它可以让员工清晰明了，提高工作效率和士气，有助于避免任何紧张或混乱。
+They can give employee ' s clarity , increase productivity and morale and help to avoid any tension or confusion .
+它们可以让员工清晰明了，提高工作效率和士气，有助于避免任何紧张或困惑。
+
+#330.0:
+It can give employee ' s clarity , increase productivity and morale and help to avoid any tension or confusion .
+它可以让员工清晰明了，提高工作效率和士气，有助于避免任何紧张或混乱。
+This can give employee ' s clarity , increase productivity and morale and help to avoid any tension or confusion .
+这可以让员工清晰明了，提高工作效率和士气，有助于避免任何紧张或困惑。
+
+#332.0:
+Another ProPublica report in November 2017 found discriminatory advertisements were getting through Facebook ' s systems .
+ProPublica 2017年11月的另一份报告发现，歧视性广告正在通过Facebook的系统传播。
+Another ProPublica report in October 2017 found discriminatory advertisements were getting through Facebook ' s systems .
+2017年10月，ProPublica的另一份报告发现，歧视性广告正在通过Facebook的系统传播。
+
+#336.0:
+Another ProPublica report in November 2017 found discriminatory advertisements were getting through Facebook ' s systems .
+ProPublica 2017年11月的另一份报告发现，歧视性广告正在通过Facebook的系统传播。
+Another ProPublica report in June 2017 found discriminatory advertisements were getting through Facebook ' s systems .
+2017年6月，ProPublica的另一份报告发现，歧视性广告正在通过Facebook的系统传播。
+
+#337.0:
+Those doors right now are closed , the former employee said .
+这位前雇员说，这些门现在已经关上了。
+The doors right now are closed , the former employee said .
+这名前雇员说，现在所有的门都关上了。
+
+#338.0:
+Those doors right now are closed , the former employee said .
+这位前雇员说，这些门现在已经关上了。
+All doors right now are closed , the former employee said .
+这位前雇员说，现在所有的门都关上了。
+
+#339.0:
+Those doors right now are closed , the former employee said .
+这位前雇员说，这些门现在已经关上了。
+Those offices right now are closed , the former employee said .
+这位前雇员说，这些办公室现在已经关闭。
+
+#341.0:
+Those doors right now are closed , the former employee said .
+这位前雇员说，这些门现在已经关上了。
+Those shops right now are closed , the former employee said .
+这位前雇员说，这些商店现在都关门了。
+
+#342.0:
+The most junior economists can present their research before senior vice presidents , and they ' re evaluated on how their recommendations impact the company ' s bottom line .
+最初级的经济学家可以在高级副总裁面前展示他们的研究，他们的建议如何影响公司的底线。
+The best junior economists can present their research before senior vice presidents , and they ' re evaluated on how their recommendations impact the company ' s bottom line .
+最好的初级经济学家可以在高级副总裁面前展示他们的研究成果，他们的建议会对公司的底线产生怎样的影响。
+
+#343.0:
+The most junior economists can present their research before senior vice presidents , and they ' re evaluated on how their recommendations impact the company ' s bottom line .
+最初级的经济学家可以在高级副总裁面前展示他们的研究，他们的建议如何影响公司的底线。
+The most junior economists must present their research before senior vice presidents , and they ' re evaluated on how their recommendations impact the company ' s bottom line .
+最初级的经济学家必须在高级副总裁面前展示他们的研究成果，并对他们的建议如何影响公司的底线进行评估。
+
+#344.0:
+The most junior economists can present their research before senior vice presidents , and they ' re evaluated on how their recommendations impact the company ' s bottom line .
+最初级的经济学家可以在高级副总裁面前展示他们的研究，他们的建议如何影响公司的底线。
+The most junior economists will present their research before senior vice presidents , and they ' re evaluated on how their recommendations impact the company ' s bottom line .
+最初级的经济学家将在高级副总裁面前展示他们的研究成果，并对他们的建议如何影响公司的底线进行评估。
+
+#346.0:
+The most junior economists can present their research before senior vice presidents , and they ' re evaluated on how their recommendations impact the company ' s bottom line .
+最初级的经济学家可以在高级副总裁面前展示他们的研究，他们的建议如何影响公司的底线。
+The top junior economists can present their research before senior vice presidents , and they ' re evaluated on how their recommendations impact the company ' s bottom line .
+高级初级经济学家可以在高级副总裁面前展示他们的研究成果，并对他们的建议如何影响公司的底线进行评估。
+
+#349.0:
+At its peak in 2014 , the blood testing startup was a darling of Silicon Valley .
+在2014年的巅峰时期，这家血液检测初创公司是硅谷的宠儿。
+At its peak in 2006 , the blood testing startup was a darling of Silicon Valley .
+在2006年的鼎盛时期，这家血液检测初创公司是硅谷的宠儿。
+
+#350.0:
+At its peak in 2014 , the blood testing startup was a darling of Silicon Valley .
+在2014年的巅峰时期，这家血液检测初创公司是硅谷的宠儿。
+At its peak in 2005 , the blood testing startup was a darling of Silicon Valley .
+在2005年的鼎盛时期，这家血液检测初创公司是硅谷的宠儿。
+
+#353.0:
+In 2010 , Weiss started a popular blog called Into the Gloss with beauty tips , trends and tutorials .
+2010年，韦斯开设了一个名为“进入光泽”的热门博客，提供美容小贴士、潮流和教程。
+In 2011 , Weiss started a popular blog called Into the Gloss with beauty tips , trends and tutorials .
+2011年，Weiss开设了一个名为Into the Gloss的热门博客，提供美容小贴士、潮流和教程。
+
+#356.0:
+In 2010 , Weiss started a popular blog called Into the Gloss with beauty tips , trends and tutorials .
+2010年，韦斯开设了一个名为“进入光泽”的热门博客，提供美容小贴士、潮流和教程。
+In 2013 , Weiss started a popular blog called Into the Gloss with beauty tips , trends and tutorials .
+2013年，Weiss开设了一个名为“走进光泽”的热门博客，提供美容小贴士、潮流和教程。
+
+#358.0:
+The Bank of England has said the fallout from that scenario would be worse than the 2008 financial crisis .
+英格兰银行（Bank of England）表示，这种情况的后果将比2008年金融危机更严重。
+The Bank of England has stated the fallout from that scenario would be worse than the 2008 financial crisis .
+英格兰银行表示，这种情况的后果将比2008年金融危机更严重。
+
+#362.0:
+The move to abolish the rule was seen by many as a crucial step away from the perceived boys ' club culture on Sand Hill Road .
+许多人认为，废除这项规定的举措是远离人们所认为的沙山路男孩俱乐部文化的关键一步。
+The decision to abolish the rule was seen by many as a crucial step away from the perceived boys ' club culture on Sand Hill Road .
+许多人认为，取消这项规定的决定是远离沙山路男孩俱乐部文化的关键一步。
+
+#366.0:
+The move to abolish the rule was seen by many as a crucial step away from the perceived boys ' club culture on Sand Hill Road .
+许多人认为，废除这项规定的举措是远离人们所认为的沙山路男孩俱乐部文化的关键一步。
+The move to abolish the rule was seen by many as a crucial step away from the perceived boys ' club culture on Edge Hill Road .
+许多人认为，废除这项规定的举措是远离埃奇山路男孩俱乐部文化的关键一步。
+
+#372.0:
+There were a lot of calls for grounding it , said Bill Waldock , professor at Embry Riddle Aeronautical University and head of the school ' s crash lab .
+安布里·里德尔航空大学教授、该校坠机实验室负责人比尔·沃尔多克说，有很多人呼吁将其停飞。
+There were a lot of calls for grounding it , said Bill Waldock , professor at Aubry Riddle Aeronautical University and head of the school ' s crash lab .
+奥布里·里德尔航空大学（Aubry Riddle Aeronautical University）教授、该校坠机实验室负责人比尔·沃尔多克（Bill Waldock）说，有很多人呼吁将其停飞。
+
+#377.0:
+In the summer of 2016 , months after the first Wall Street Journal report and more than a decade after the company ' s founding , Theranos still employed between 700 and 900 people .
+2016年夏天，《华尔街日报》第一份报告发布几个月后，公司成立十多年后，Theranos仍然雇佣了700到900人。
+In the summer of 2016 , months after the first Wall Street Journal report and more than a decade after the company ' s founding , Theranos still employed between 600 and 900 people .
+2016年夏天，《华尔街日报》第一份报告发布几个月后，公司成立十多年后，Theranos仍雇佣600至900人。
+
+#378.0:
+In the summer of 2016 , months after the first Wall Street Journal report and more than a decade after the company ' s founding , Theranos still employed between 700 and 900 people .
+2016年夏天，《华尔街日报》第一份报告发布几个月后，公司成立十多年后，Theranos仍然雇佣了700到900人。
+In the summer of 2016 , months after the first Wall Street Journal report and more than a decade after the company ' s founding , Theranos still employed between 800 and 900 people .
+2016年夏天，《华尔街日报》第一份报告发布几个月后，公司成立十多年后，Theranos仍雇佣800至900人。
+
+#379.0:
+In the summer of 2016 , months after the first Wall Street Journal report and more than a decade after the company ' s founding , Theranos still employed between 700 and 900 people .
+2016年夏天，《华尔街日报》第一份报告发布几个月后，公司成立十多年后，Theranos仍然雇佣了700到900人。
+In the summer of 2016 , months after the first Wall Street Journal report and more than a decade after the company ' s founding , Theranos still employed between 850 and 900 people .
+2016年夏天，《华尔街日报》第一份报告发布几个月后，公司成立十多年后，Theranos仍雇佣850至900人。
+
+#381.0:
+In the summer of 2016 , months after the first Wall Street Journal report and more than a decade after the company ' s founding , Theranos still employed between 700 and 900 people .
+2016年夏天，《华尔街日报》第一份报告发布几个月后，公司成立十多年后，Theranos仍然雇佣了700到900人。
+In the summer of 2016 , months after the first Wall Street Journal report and more than a decade after the company ' s founding , Theranos still employed between 700 and 800 people .
+2016年夏天，《华尔街日报》第一份报告发布几个月后，公司成立十多年后，Theranos仍雇佣700至800人。
+
+#383.0:
+But if panic persisted and airlines were unwilling to buy it , the future of Boeing would be in jeopardy .
+但如果恐慌持续，航空公司不愿购买，波音的未来将岌岌可危。
+But if panic persisted and airlines were unwilling to buy it , the future of Boeing could be in jeopardy .
+但如果恐慌持续，航空公司不愿购买，波音的未来可能会受到威胁。
+
+#384.0:
+But if panic persisted and airlines were unwilling to buy it , the future of Boeing would be in jeopardy .
+但如果恐慌持续，航空公司不愿购买，波音的未来将岌岌可危。
+Even if panic persisted and airlines were unwilling to buy it , the future of Boeing would be in jeopardy .
+即使恐慌持续，航空公司不愿购买，波音的未来也将岌岌可危。
+
+#385.0:
+But if panic persisted and airlines were unwilling to buy it , the future of Boeing would be in jeopardy .
+但如果恐慌持续，航空公司不愿购买，波音的未来将岌岌可危。
+But if panic persisted and airlines were unwilling to buy it , the future of Boeing might be in jeopardy .
+但如果恐慌持续，航空公司不愿购买，波音的未来可能会受到威胁。
+
+#386.0:
+But if panic persisted and airlines were unwilling to buy it , the future of Boeing would be in jeopardy .
+但如果恐慌持续，航空公司不愿购买，波音的未来将岌岌可危。
+But if panic persisted and airlines became unwilling to buy it , the future of Boeing would be in jeopardy .
+但如果恐慌持续下去，航空公司不愿意购买，波音的未来将岌岌可危。
+
+#392.0:
+Holmes pleaded not guilty to the charges of wire fraud and conspiracy to commit wire fraud .
+福尔摩斯对电汇诈骗和共谋电汇诈骗的指控不认罪。
+Holmes pleaded not guilty to the charges of mail fraud and conspiracy to commit wire fraud .
+福尔摩斯对邮件欺诈和共谋实施电报欺诈的指控不认罪。
+
+#393.0:
+Holmes pleaded not guilty to the charges of wire fraud and conspiracy to commit wire fraud .
+福尔摩斯对电汇诈骗和共谋电汇诈骗的指控不认罪。
+She pleaded not guilty to the charges of wire fraud and conspiracy to commit wire fraud .
+她对电汇欺诈和共谋实施电汇欺诈的指控不认罪。
+
+#394.0:
+Holmes pleaded not guilty to the charges of wire fraud and conspiracy to commit wire fraud .
+福尔摩斯对电汇诈骗和共谋电汇诈骗的指控不认罪。
+He pleaded not guilty to the charges of wire fraud and conspiracy to commit wire fraud .
+他对电汇欺诈和共谋实施电汇欺诈的指控不认罪。
+
+#395.0:
+Holmes pleaded not guilty to the charges of wire fraud and conspiracy to commit wire fraud .
+福尔摩斯对电汇诈骗和共谋电汇诈骗的指控不认罪。
+Holmes pleaded not guilty to the charges of wire fraud and conspiracy to commit securities fraud .
+福尔摩斯对电汇欺诈和串谋证券欺诈的指控不认罪。
+
+#396.0:
+Holmes pleaded not guilty to the charges of wire fraud and conspiracy to commit wire fraud .
+福尔摩斯对电汇诈骗和共谋电汇诈骗的指控不认罪。
+Holmes pleaded not guilty to the charges of wire fraud and conspiracy to commit bank fraud .
+福尔摩斯对电汇欺诈和共谋银行欺诈的指控不认罪。
+
+#398.0:
+According to a 2018 Harvard Business School study , venture capital firms that increased the number of female partners they hired by even 10 % saw a bump in overall fund returns .
+根据2018年哈佛商学院（Harvard Business School）的一项研究，风险投资公司雇佣的女性合伙人数量甚至增加了10%，整体基金回报率出现了大幅上升。
+According to a 2018 Harvard Business School study , venture capital firms that increased the proportion of female partners they hired by even 10 % saw a bump in overall fund returns .
+根据2018年哈佛商学院（Harvard Business School）的一项研究，将女性合伙人比例提高了10%的风险投资公司的整体基金回报率出现了大幅上升。
+
+#403.0:
+Before , economists used to work on public data .
+以前，经济学家们经常研究公共数据。
+Originally , economists used to work on public data .
+最初，经济学家们研究公共数据。
+
+#405.0:
+Before , economists used to work on public data .
+以前，经济学家们经常研究公共数据。
+Historically , economists used to work on public data .
+从历史上看，经济学家过去常常研究公共数据。
+
+#407.0:
+We tend to deflect or interrupt a lot quicker .
+我们倾向于更快地偏离或打断。
+We learn to deflect or interrupt a lot quicker .
+我们学会更快地转移或打断。
+
+#411.0:
+We tend to deflect or interrupt a lot quicker .
+我们倾向于更快地偏离或打断。
+We learned to deflect or interrupt a lot quicker .
+我们学会了更快地转向或打断。
+
+#415.0:
+Throughout her career , Chan has often been one of the only women in the room .
+在她的职业生涯中，成龙经常是这个房间里唯一的女性之一。
+Throughout her career , Chan has usually been one of the only women in the room .
+在她的整个职业生涯中，成龙通常是房间里唯一的女性之一。
+
+#421.0:
+The folks at Amazon are not doing the same sort of traditional chief economist ' s role .
+亚马逊的员工并没有扮演传统首席经济学家的角色。
+You folks at Amazon are not doing the same sort of traditional chief economist ' s role .
+你们亚马逊的人并没有扮演传统首席经济学家的角色。
+
+#423.0:
+And now , if they want to study behavior , the tech companies have it , and it ' s proprietary .
+现在，如果他们想研究行为，科技公司就有了，而且是专有的。
+And then , if they want to study behavior , the tech companies have it , and it ' s proprietary .
+然后，如果公司想要研究技术的行为。
+
+#424.0:
+And now , if they want to study behavior , the tech companies have it , and it ' s proprietary .
+现在，如果他们想研究行为，科技公司就有了，而且是专有的。
+Right now , if they want to study behavior , the tech companies have it , and it ' s proprietary .
+现在，如果他们想研究行为，科技公司有，而且是专有的。
+
+#425.0:
+And now , if they want to study behavior , the tech companies have it , and it ' s proprietary .
+现在，如果他们想研究行为，科技公司就有了，而且是专有的。
+And anyway , if they want to study behavior , the tech companies have it , and it ' s proprietary .
+不管怎样，如果他们想研究行为，科技公司有，而且是专有的。
+
+#426.0:
+And now , if they want to study behavior , the tech companies have it , and it ' s proprietary .
+现在，如果他们想研究行为，科技公司就有了，而且是专有的。
+For now , if they want to study behavior , the tech companies have it , and it ' s proprietary .
+目前，如果他们想研究行为，科技公司已经有了，而且是专有的。
+
+#427.0:
+Within a week of trying the platform , Chan was convinced the firm should invest .
+在尝试该平台的一周内，陈确信该公司应该进行投资。
+After a week of trying the platform , Chan was convinced the firm should invest .
+在尝试了一周的平台后，陈确信公司应该进行投资。
+
+#429.0:
+Within a week of trying the platform , Chan was convinced the firm should invest .
+在尝试该平台的一周内，陈确信该公司应该进行投资。
+Within a day of trying the platform , Chan was convinced the firm should invest .
+在试用该平台的一天内，陈确信该公司应该进行投资。
+
+#430.0:
+Within a week of trying the platform , Chan was convinced the firm should invest .
+在尝试该平台的一周内，陈确信该公司应该进行投资。
+Within a week of trying the platform , Chan was convinced his firm should invest .
+在尝试该平台的一周内，陈确信他的公司应该投资。
+
+#435.0:
+Other decisions — like how to target ads , where to put bookstores and warehouses , and how much an Echo device should cost — are also vetted by economists .
+其他决策——如如何定位广告、书店和仓库的位置，以及回声设备的成本——也会受到经济学家的审查。
+Other questions — like how to target ads , where to put bookstores and warehouses , and how much an Echo device should cost — are also vetted by economists .
+其他问题——如如何定位广告、书店和仓库放在哪里，以及回声设备的成本——也受到了经济学家的审查。
+
+#437.0:
+Anxious gossip about who is and is not mentioned in the latest news reports .
+最新新闻报道中关于谁是谁、谁没有被提及的焦虑八卦。
+Anxious gossip about who is and is not mentioned in the latest news stories .
+关于最近的新闻报道中有没有提到谁的焦虑八卦。
+
+#438.0:
+Anxious gossip about who is and is not mentioned in the latest news reports .
+最新新闻报道中关于谁是谁、谁没有被提及的焦虑八卦。
+An endless gossip about who is and is not mentioned in the latest news reports .
+关于最新新闻报道中谁是谁、谁没有被提及的没完没了的八卦。
+
+#439.0:
+Anxious gossip about who is and is not mentioned in the latest news reports .
+最新新闻报道中关于谁是谁、谁没有被提及的焦虑八卦。
+An occasional gossip about who is and is not mentioned in the latest news reports .
+关于最近的新闻报道中谁是谁、谁没有被提及的偶尔八卦。
+
+#440.0:
+Anxious gossip about who is and is not mentioned in the latest news reports .
+最新新闻报道中关于谁是谁、谁没有被提及的焦虑八卦。
+An ongoing gossip about who is and is not mentioned in the latest news reports .
+关于最新新闻报道中提到和没有提到谁的流言蜚语。
+
+#441.0:
+Anxious gossip about who is and is not mentioned in the latest news reports .
+最新新闻报道中关于谁是谁、谁没有被提及的焦虑八卦。
+Anxious gossip over who is and is not mentioned in the latest news reports .
+关于最新新闻报道中提到和没有提到谁的焦虑八卦。
+
+#442.0:
+The ultimate scale of the exodus is likely to depend on the terms of the divorce and when it occurs .
+离婚潮的最终规模很可能取决于离婚条款和离婚发生的时间。
+The exact scale of the exodus is likely to depend on the terms of the divorce and when it occurs .
+出逃的确切规模可能取决于离婚条款和发生时间。
+
+#443.0:
+The ultimate scale of the exodus is likely to depend on the terms of the divorce and when it occurs .
+离婚潮的最终规模很可能取决于离婚条款和离婚发生的时间。
+The time scale of the exodus is likely to depend on the terms of the divorce and when it occurs .
+出走的时间范围很可能取决于离婚的条件和时间。
+
+#444.0:
+The ultimate scale of the exodus is likely to depend on the terms of the divorce and when it occurs .
+离婚潮的最终规模很可能取决于离婚条款和离婚发生的时间。
+The spatial scale of the exodus is likely to depend on the terms of the divorce and when it occurs .
+人口外流的空间规模可能取决于离婚的条件和时间。
+
+#445.0:
+The ultimate scale of the exodus is likely to depend on the terms of the divorce and when it occurs .
+离婚潮的最终规模很可能取决于离婚条款和离婚发生的时间。
+The ultimate scale of the exodus is likely to depend on the terms of the divorce or when it occurs .
+出逃的最终规模可能取决于离婚的条件或发生时间。
+
+#446.0:
+The ultimate scale of the exodus is likely to depend on the terms of the divorce and when it occurs .
+离婚潮的最终规模很可能取决于离婚条款和离婚发生的时间。
+The ultimate scale of the exodus is likely to depend upon the terms of the divorce and when it occurs .
+出逃的最终规模可能取决于离婚的条款和发生时间。
+
+#450.0:
+If that does not happen , the chances of the country crashing out of the bloc without a transitional deal on March 29 increase .
+如果不这样做，该国在3月29日没有达成过渡协议的情况下脱离欧盟的可能性就会增加。
+If that does not happen , the chances of the country crashing out of the bloc without a transitional deal on July 29 increase .
+如果这种情况不发生，该国在7月29日没有达成过渡协议的情况下脱离欧盟的可能性就会增加。
+
+#453.0:
+It ' s not good form to reject something someone gave us , it ' s better to say thank you and receive it graciously , said Dudley .
+达力说：“拒绝别人给我们的东西不是一种好的形式，最好说声谢谢，然后亲切地接受。”。
+It ' s not good form to reject something someone gave you , it ' s better to say thank you and receive it graciously , said Dudley .
+达力说：“拒绝别人送给你的东西不是一种好的形式，最好是说声谢谢，然后亲切地接受。”。
+
+#455.0:
+It ' s not good form to reject something someone gave us , it ' s better to say thank you and receive it graciously , said Dudley .
+达力说：“拒绝别人给我们的东西不是一种好的形式，最好说声谢谢，然后亲切地接受。”。
+It ' s not good form to reject something someone gave us , it ' s better to say thank you and return it graciously , said Dudley .
+达力说：“拒绝别人送给我们的东西不是一种好的形式，最好是说声谢谢，然后和蔼可亲地还给我们。”。
+
+#456.0:
+It ' s not good form to reject something someone gave us , it ' s better to say thank you and receive it graciously , said Dudley .
+达力说：“拒绝别人给我们的东西不是一种好的形式，最好说声谢谢，然后亲切地接受。”。
+It ' s not good form to reject something someone gave us , it ' s better to say thank you than receive it graciously , said Dudley .
+达力说：“拒绝别人送给我们的东西不是一种好的形式，与其客气地接受，不如说声谢谢。”。
+
+#458.0:
+In addition , Facebook will add more certification and education requirements globally about how to prevent discrimination and ensure advertisers are aware of its policies .
+此外，Facebook将在全球范围内增加更多关于如何防止歧视和确保广告商了解其政策的认证和教育要求。
+In addition , Facebook will add more certification and education requirements globally about how to prevent discrimination to ensure advertisers are aware of its policies .
+此外，Facebook将在全球范围内增加更多关于如何防止歧视的认证和教育要求，以确保广告商了解其政策。
+
+#464.0:
+Deutsche Bank investors are running out of patience .
+德意志银行的投资者正在失去耐心。
+Deutsche Bank investors were running out of patience .
+德意志银行的投资者已经失去了耐心。
+
+#465.0:
+Deutsche Bank investors are running out of patience .
+德意志银行的投资者正在失去耐心。
+Deutsche Bank investors are almost out of patience .
+德意志银行的投资者几乎失去了耐心。
+
+#467.0:
+in their LinkedIn profiles .
+在他们的LinkedIn个人资料中。
+in his LinkedIn profiles .
+在他的个人资料里。
+
+#470.0:
+in their LinkedIn profiles .
+在他们的LinkedIn个人资料中。
+via their LinkedIn profiles .
+通过他们的LinkedIn档案。
+
+#480.0:
+Actress Jennifer Lawrence is also expected to star as Holmes in a movie based on Bad Blood .
+女演员詹妮弗·劳伦斯也将出演一部基于《坏血》的电影，饰演福尔摩斯。
+Actress Jennifer Lawrence is also expected to star as Holmes in the movie based on Bad Blood .
+女演员詹妮弗·劳伦斯也将在这部基于《坏血》的电影中饰演福尔摩斯。
+
+#487.0:
+Since then , the ex employee has been rejected for multiple jobs and is still searching .
+自那以后，这位前雇员因多个工作被拒绝，仍在寻找工作。
+Since then , the ex employee has been rejected for multiple jobs but is still searching .
+自那以后，这位前雇员因多个工作被拒，但仍在寻找工作。
+
+#488.0:
+Since then , the ex employee has been rejected for multiple jobs and is still searching .
+自那以后，这位前雇员因多个工作被拒绝，仍在寻找工作。
+Since then , the ex employee has been rejected for several jobs and is still searching .
+从那以后，这位前雇员被拒绝了几份工作，目前仍在寻找工作。
+
+#490.0:
+Since then , the ex employee has been rejected for multiple jobs and is still searching .
+自那以后，这位前雇员因多个工作被拒绝，仍在寻找工作。
+By then , the ex employee has been rejected for multiple jobs and is still searching .
+到那时，这位前雇员已经被拒绝从事多个工作，目前仍在寻找工作。
+
+#495.0:
+Once hired , research questions were everywhere .
+一旦被录用，研究问题无处不在。
+Once hired , research people were everywhere .
+一旦被雇佣，研究人员无处不在。
+

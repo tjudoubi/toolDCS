@@ -1,0 +1,196 @@
+#9:
+Employing a 3D technology supporter for her show filming is an inexpensive burden for the startup company , the post - 90s designer said .
+这位 90 后设计师说，为她的节目拍摄聘请 3D 技术支持者对这家初创公司来说是一笔不小的负担。
+Employing a 3D technology supporter for her show filming is an ultraexpensive burden for the startup company , the post - 90s designer said .
+这位 90 后设计师表示，为她的秀场拍摄聘请 3D 技术支持者对这家初创公司来说是一项极其昂贵的负担。
+LCS-Wdiff:	0.9166666666666666 
+--FP--
+#12:
+Similarly , the number of points within a cluster tells us how many cells there are of that type .
+类似地，一个簇中的点数告诉我们该类型的细胞有多少。
+Also , the number of points within a cluster tells us how many cells there are of that type .
+此外，集群中的点数告诉我们有多少属于该类型的细胞。
+LCS-Wdiff:	0.7142857142857143 
+--FP--
+#13:
+Bamboo weaving is a time - honored handicraft that has been passed down for generations in Maoba township , Fengshun county , Xiangxi Tujia and Miao autonomous prefecture , Hunan province .
+竹编是湖南省湘西土家族苗族自治州丰顺县毛坝乡世代相传的历史悠久的手工艺。
+Bamboo weaving is a time - honored handicraft that has been passed down for generations in Maoba township , Yongshun county , Xiangxi Tujia and Miao autonomous prefecture , Hunan province .
+竹编是湖南省湘西土家族苗族自治州永顺县毛坝乡世代相传的一项历史悠久的手工艺。
+LCS-Wdiff:	0.9230769230769231 
+--FP--
+#14:
+The scientists repeated the experiment several times , and it soon became apparent they really had stumbled upon a new type of cell in the trachea .
+科学家们多次重复这个实验，很快就发现他们确实在气管中发现了一种新型细胞。
+The scientists repeated the experiment several times , and it soon became clear they really had stumbled upon a new type of cell in the trachea .
+科学家们多次重复这个实验，很快就清楚他们真的在气管中偶然发现了一种新型细胞。
+LCS-Wdiff:	0.9 
+--FP--
+#15:
+Instead , the immune cells we met earlier , natural killer cells , well known for killing infected cells or cancer cells , take on a completely different , more constructive job within the womb : helping build the placenta .
+取而代之的是，我们之前遇到的免疫细胞，即以杀死受感染细胞或癌细胞而闻名的自然杀伤细胞，在子宫内承担了一项完全不同、更具建设性的工作：帮助构建胎盘。
+Instead , the immune cells we met earlier , natural killer cells , well known for killing infected cells or cancer cells , take on a completely different , more constructive job in the womb : helping build the placenta .
+取而代之的是，我们之前遇到的免疫细胞——自然杀伤细胞，以杀死受感染的细胞或癌细胞而闻名，在子宫内承担了完全不同的、更具建设性的工作：帮助构建胎盘。
+LCS-Wdiff:	0.8409090909090909 
+--FP--
+#17:
+Climbing over the high mountains , passing the blue lake below , both buses seem connected as they negotiated the winding plateau highway .
+翻越高山，路过下方蔚蓝的湖水，两辆大巴仿佛连在一起，驶过蜿蜒曲折的高原公路。
+Climbing over the high mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+翻越高山，路过下方蔚蓝的湖水，在蜿蜒曲折的高原公路上，公交车仿佛连在一起。
+LCS-Wdiff:	0.7142857142857143 
+--FP--
+#28:
+It ' s useful as it indicates an increased risk of medical problems arising , such as type 2 diabetes , and steps can be taken to reduce the likelihood of this occurring .
+它很有用，因为它表明出现医疗问题的风险增加，例如 2 型糖尿病，并且可以采取措施降低发生这种情况的可能性。
+It ' s useful as it indicates an increased risk of health problems arising , such as type 2 diabetes , and steps can be taken to reduce the likelihood of this occurring .
+它很有用，因为它表明出现健康问题（例如 2 型糖尿病）的风险增加，并且可以采取措施降低发生这种情况的可能性。
+LCS-Wdiff:	0.8275862068965517 
+--FP--
+#36:
+Amy Klobuchar , who chairs the Senate antitrust subcommittee , said the Federal Trade Commission will " thoroughly investigate " the proposed acquisition .
+参议院反垄断小组委员会主席 Amy Klobuchar 表示，联邦贸易委员会将“彻底调查”拟议中的收购。
+Amy Klobuchar , who chairs the Senate antitrust subcommittee , said the Federal Trade Commission must " thoroughly investigate " the proposed acquisition .
+参议院反垄断小组委员会主席艾米克洛布查尔表示，联邦贸易委员会必须“彻底调查”拟议中的收购。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#52:
+" As of now , we have released collections in virtual two - dimensional forms for three consecutive seasons , but for the first time we tried to use animation to express our collection in this season . "
+“截至目前，我们已经连续三季以虚拟二次元的形式发布了系列，但在这一季我们还是第一次尝试用动画来表达我们的系列。”
+" As of now , we have released collections in virtual three - dimensional forms for three consecutive seasons , but for the first time we tried to use animation to express our collection in this season . "
+“截至目前，我们已经连续三季以虚拟立体形式发布系列，但本季我们还是第一次尝试用动画来表达我们的系列。”
+LCS-Wdiff:	0.9032258064516129 
+--FP--
+#59:
+With the One Medical deal , Amazon will gain access to physical health clinics and " payer and hospital system relationships , " Evercore ISI analyst Elizabeth Anderson said in a note Thursday morning .
+Evercore ISI 分析师伊丽莎白安德森在周四上午的一份报告中说，通过 One Medical 交易，亚马逊将获得实体健康诊所和“付款人和医院系统的关系”。
+With the One Medical deal , Amazon would gain access to physical health clinics and " payer and hospital system relationships , " Evercore ISI analyst Elizabeth Anderson said in a note Thursday morning .
+Evercore ISI 分析师伊丽莎白安德森周四上午在一份报告中表示，通过 One Medical 交易，亚马逊将获得实体健康诊所和“付款人和医院系统的关系”。
+LCS-Wdiff:	0.9393939393939394 
+--FP--
+#60:
+Her brilliant but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她辉煌但饱受伤病困扰的职业生涯让我想起了前 NBA 大个子姚明，他在休斯顿火箭队效力期间，也曾因脚部问题在 31 岁时被迫挂掉球鞋。
+Her stellar but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她出色但饱受伤病困扰的职业生涯让我想起了前 NBA 大个子姚明，他在休斯顿火箭队效力期间，也因脚部问题在 31 岁时被迫挂起球鞋。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#61:
+Thousands of scientists in over 50 countries from every inhabited content have joined the project since – it is an especially diverse community , as it should be for such a huge global scientific endeavour .
+此后，来自 50 多个国家/地区的数以千计的科学家加入了该项目——这是一个特别多元化的社区，对于如此庞大的全球科学事业来说应该如此。
+Thousands of scientists in over 70 countries from every inhabited content have joined the project since – it is an especially diverse community , as it should be for such a huge global scientific endeavour .
+此后，来自 70 多个国家/地区的数千名科学家加入了该项目——这是一个特别多样化的社区，对于如此庞大的全球科学事业来说，它应该如此。
+LCS-Wdiff:	0.9117647058823529 
+--FP--
+#65:
+" I was under the impression that it was only a toy for children and pets , " says Niu Xinchen who started playing frisbee in April .
+“我的印象是它只是儿童和宠物的玩具，”四月份开始玩飞盘的牛新臣说。
+" I was under the impression that it was only a toy for children and pets , " says Qu Xinchen who started playing frisbee in April .
+“我的印象是它只是儿童和宠物的玩具，”从四月份开始玩飞盘的曲新臣说。
+LCS-Wdiff:	0.9545454545454546 
+--FP--
+#66:
+Lulusmile , a local brand founded by fashion company Lulualways in 2019 , released a virtual fashion show through the world ' s leading shared digital platform Roblox .
+Lulusmile是时尚公司Lulualways于2019年创立的本土品牌，通过全球领先的共享数字平台Roblox发布了一场虚拟时装秀。
+Lulusmile , a local brand founded by fashion company Lulualways in 2019 , released a virtual fashion show with the world ' s leading shared digital platform Roblox .
+时尚公司Lulualways于2019年创立的本土品牌Lulusmile与全球领先的共享数字平台Roblox发布了一场虚拟时装秀。
+LCS-Wdiff:	0.92 
+--FP--
+#68:
+Shortly after the deal was announced , some tech industry critics also raised concerns about the health data to which the company will gain access .
+交易宣布后不久，一些科技行业的批评者也对公司将获得的健康数据表示担忧。
+Shortly after the deal was announced , some tech industry critics also raised concerns about the health data to which the company could gain access .
+交易宣布后不久，一些科技行业的批评者也对公司可能获得的健康数据提出了担忧。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#73:
+Luckily , Xia found a team from Tongji University to support her , who guaranteed the shooting on June 8 and the release of the virtual show on June 19 .
+幸运的是，夏找到了同济大学的一个团队来支持她，他们保证了6月8日的拍摄和6月19日的虚拟演出。
+Luckily , Xia found a team from Tongji University to support her , which guaranteed the shooting on June 8 and the release of the virtual show on June 19 .
+幸运的是，夏找到了同济大学的团队支持，保证了6月8日的拍摄和6月19日的虚拟演出。
+LCS-Wdiff:	0.90625 
+--FP--
+#74:
+In many ways , this brand new ambition is a direct descendant of the Human Genome Project .
+在许多方面，这个全新的野心是人类基因组计划的直接后裔。
+In many ways , this bold new ambition is a direct descendant of the Human Genome Project .
+在许多方面，这个大胆的新野心是​​人类基因组计划的直接后裔。
+LCS-Wdiff:	0.8823529411764706 
+--FP--
+#75:
+" I was under the impression that it was only a toy for children and pets , " says Gu Xinchen who started playing frisbee in April .
+“我的印象是，它只是儿童和宠物的玩具，”从四月份开始玩飞盘的顾新臣说。
+" I was under the impression that it was only a toy for children and pets , " says Qu Xinchen who started playing frisbee in April .
+“我的印象是它只是儿童和宠物的玩具，”从四月份开始玩飞盘的曲新臣说。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#76:
+Her solid but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她坚实但伤病缠身的职业生涯让我想起了前 NBA 大个子姚明，他在休斯顿火箭队效力期间，也因脚部问题在 31 岁时被迫挂起球鞋。
+Her stellar but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她出色但饱受伤病困扰的职业生涯让我想起了前 NBA 大个子姚明，他在休斯顿火箭队效力期间，也因脚部问题在 31 岁时被迫挂起球鞋。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#83:
+When the two teams looked in detail at what made the cells stand out , they came across something astonishing .
+两支队伍仔细研究了这些细胞的突出特点，他们发现了一些惊人的东西。
+When the two teams looked in detail at what made these cells stand out , they came across something astonishing .
+当两支队伍仔细研究这些细胞的突出之处时，他们发现了一些惊人的东西。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#84:
+Climbing over the forested mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+翻越茂密的群山，路过下方蔚蓝的湖水，公交车在蜿蜒的高原公路上穿行，仿佛连在一起。
+Climbing over the high mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+翻越高山，路过下方蔚蓝的湖水，在蜿蜒曲折的高原公路上，公交车仿佛连在一起。
+LCS-Wdiff:	0.9 
+--FP--
+#85:
+" All gyms were closed because of the COVID - 19 resurgence then , and indoor activities were subjected to restrictive conditions , " Qu recalls , adding that he ' s also seen many enthusiasts posting their frisbee experience on the social media platform Xiaohongshu .
+“当时所有的体育馆都因为 COVID-19 的死灰复燃而关闭，室内活动受到限制，”曲回忆说，并补充说，他还看到许多爱好者在社交媒体平台小红书上发布他们的飞盘体验。
+" The gyms were closed because of the COVID - 19 resurgence then , and indoor activities were subjected to restrictive conditions , " Qu recalls , adding that he ' s also seen many enthusiasts posting their frisbee experience on the social media platform Xiaohongshu .
+“当时体育馆因 COVID-19 的死灰复燃而关闭，室内活动受到限制，”曲回忆说，并补充说，他还看到许多爱好者在社交媒体平台小红书上发布他们的飞盘体验。
+LCS-Wdiff:	0.9534883720930233 
+--FP--
+#86:
+Climbing over the steep mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+翻越陡峭的山峦，路过下方蔚蓝的湖水，公交车在蜿蜒曲折的高原公路上穿行，仿佛连在一起。
+Climbing over the high mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+翻越高山，路过下方蔚蓝的湖水，在蜿蜒曲折的高原公路上，公交车仿佛连在一起。
+LCS-Wdiff:	0.9047619047619048 
+--FP--
+#91:
+Bamboo weaving is a time - honored handicraft that has been passed down for generations in Daba township , Yongshun county , Xiangxi Tujia and Miao autonomous prefecture , Hunan province .
+竹编是湖南省湘西土家族苗族自治州永顺县大巴乡世代相传的历史悠久的手工艺。
+Bamboo weaving is a time - honored handicraft that has been passed down for generations in Maoba township , Yongshun county , Xiangxi Tujia and Miao autonomous prefecture , Hunan province .
+竹编是湖南省湘西土家族苗族自治州永顺县毛坝乡世代相传的一项历史悠久的手工艺。
+LCS-Wdiff:	0.9230769230769231 
+--FP--
+#92:
+He has visited many villages in the country where the tradition of making bamboo items is alive .
+他参观了该国许多有制作竹制品传统的村庄。
+He has visited many villages across the country where the tradition of making bamboo items is alive .
+他走访了全国许多有制作竹制品传统的村庄。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#96:
+Zhang Yelin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+58岁的毛坝居民张业林从12岁就开始制作竹制品。
+Fu Yelin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+58岁的毛坝居民傅叶林从12岁起就开始制作竹制品。
+LCS-Wdiff:	0.9285714285714286 
+--FP--
+#98:
+Wang Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+中国东北辽宁省沉阳市35岁的厨师汪洋做糕点已经10年了。
+Wu Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+中国东北辽宁省沉阳市35岁的厨师吴扬已经做了10年的糕点。
+LCS-Wdiff:	0.8 
+--FP--
+#100:
+Apple did not respond to requests for comment for this story , although Cook emphasized Apple ' s broader manufacturing footprint on the company ' s most recent earnings call .
+尽管库克在公司最近的财报电话会议上强调了苹果更广泛的制造足迹，但苹果没有回应对此报道的置评请求。
+Apple did not respond to requests for comment for this story , but Cook emphasized Apple ' s broader manufacturing footprint on the company ' s most recent earnings call .
+苹果没有回应对此报道的置评请求，但库克在公司最近的财报电话会议上强调了苹果更广泛的制造足迹。
+LCS-Wdiff:	0.6296296296296297 
+--FP--

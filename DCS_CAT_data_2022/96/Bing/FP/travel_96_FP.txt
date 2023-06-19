@@ -1,0 +1,168 @@
+#2:
+Faced with the prospect of another sweltering summer in Beijing , the soothing moments of natural splendor will continue to linger in my mind .
+面对北京又一个闷热的夏天的前景，自然辉煌的舒缓时刻将继续在我的脑海中挥之不去。
+Faced with the prospect of another sweltering summer in Beijing , those soothing moments of natural splendor will continue to linger in my mind .
+面对北京又一个闷热的夏天的前景，那些自然辉煌的舒缓时刻将继续在我的脑海中徘徊。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#7:
+The tourism market is accelerating its recovery with the summer holiday approaching and it will drive a major rebound in the hospitality sector , Xie said .
+谢说，随着暑假的临近，旅游市场正在加速复苏，这将推动酒店业出现重大反弹。
+The tourism market is accelerating its recovery with the summer holiday approaching and it will drive a rapid rebound in the hospitality sector , Xie said .
+随着暑假的临近，旅游市场正在加速复苏，这将推动酒店业的快速反弹，谢说。
+LCS-Wdiff:	0.8947368421052632 
+--FP--
+#18:
+Li believes that better things are yet to come for his village as the pandemic is fully over .
+李认为，随着大流行的完全结束，他的村庄还没有更好的事情出现。
+Li believes that better things are yet to come for his village once the pandemic is fully over .
+李认为，一旦大流行完全结束，他的村庄还没有更好的事情出现。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#19:
+From time to time , Li Fashun will reminisce about a visit of a special guest to his abode in Simola Va village two years ago .
+李法顺会不时回忆起两年前一位特邀嘉宾来到他位于西莫拉瓦村的住所。
+From time to time , Li Fashun will reminisce about the visit of a special guest to his abode in Simola Va village two years ago .
+李法顺时不时会回忆起两年前一位特邀嘉宾来到西莫拉瓦村的住所。
+LCS-Wdiff:	0.8571428571428571 
+--FP--
+#21:
+The details were announced during a media conference early this month at Langyuan Vintage , a cultural industrial park in the capital , for the 10th Beijing People Beneficial Cultural Consumption Season .
+本月初，在首都文化产业园区朗远复古举行的第十届北京人民有益文化消费季的媒体发布会上宣布了这些细节。
+The details were announced at a media conference early this month at Langyuan Vintage , a cultural industrial park in the capital , for the 10th Beijing People Beneficial Cultural Consumption Season .
+本月初，在首都文化产业园区朗源复古举行的第十届北京人民文化消费季文化益季的媒体发布会上公布了这些细节。
+LCS-Wdiff:	0.9230769230769231 
+--FP--
+#22:
+The details were announced in a media conference early this month at Langyuan Vintage , a cultural industrial park in the capital , for the 10th Beijing People Beneficial Cultural Consumption Season .
+本月初，在首都文化产业园朗源复古举行的第十届北京人民有益文化消费季的媒体发布会上公布了这些细节。
+The details were announced at a media conference early this month at Langyuan Vintage , a cultural industrial park in the capital , for the 10th Beijing People Beneficial Cultural Consumption Season .
+本月初，在首都文化产业园区朗源复古举行的第十届北京人民文化消费季文化益季的媒体发布会上公布了这些细节。
+LCS-Wdiff:	0.9230769230769231 
+--FP--
+#24:
+Correction : This feature has been updated to clarify the description of how waat bai faan is cooked .
+更正 ：此功能已更新，以澄清waat bai faan如何烹饪的描述。
+Correction : This feature has been updated to clarify the description of how waat gai faan is cooked .
+更正 ：此功能已更新，以澄清如何烹饪waat gai faan的描述。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#30:
+Regarding the hotel industry as a whole , she said the era of hotels only providing beds and meals is becoming a thing of the past .
+关于整个酒店业，她说酒店只提供床和餐的时代正在成为过去。
+For the hotel industry as a whole , she said the era of hotels only providing beds and meals is becoming a thing of the past .
+对于整个酒店业来说，她说酒店只提供床和餐的时代正在成为过去。
+LCS-Wdiff:	0.9375 
+--FP--
+#48:
+There ' s a risk , he says , that when his generation stops cultivating the land , the knowledge accumulated over the centuries by local communities will vanish altogether .
+他说，当他这一代人停止耕种土地时，当地社区几个世纪以来积累的知识将完全消失。
+There ' s a risk , he says , that when his generation stops cultivating the land , the knowledge accumulated over the centuries by local communities could vanish altogether .
+他说，当这一代人停止耕种土地时，当地社区几个世纪以来积累的知识可能会完全消失。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#50:
+They accelerated their plans , and got married in Carrie ' s father ' s backyard in 2009 , right after their son was born .
+他们加快了计划，并于2009年在凯莉父亲的后院结婚，就在他们的儿子出生后。
+They accelerated their plans , and got married in Carrie ' s mother ' s backyard in 2009 , right after their son was born .
+他们加快了计划，并在2009年儿子出生后立即在凯莉母亲的后院结婚。
+LCS-Wdiff:	0.5909090909090909 
+--FP--
+#57:
+" The increasing demand energizes accommodation in rural communities , with some having outperformed hotels in downtown areas . "
+“不断增长的需求为农村社区的住宿注入了活力，其中一些社区的表现优于市中心的酒店。
+" The increasing demand energizes accommodation in rural areas , with some having outperformed hotels in downtown areas . "
+“不断增长的需求为农村地区的住宿注入了活力，其中一些地区的住宿表现优于市中心的酒店。
+LCS-Wdiff:	0.9166666666666666 
+--FP--
+#58:
+" The growing demand energizes accommodation in rural areas , with some having outperformed hotels in downtown areas . "
+“不断增长的需求为农村地区的住宿注入了活力，其中一些在市中心地区的表现优于酒店。
+" The increasing demand energizes accommodation in rural areas , with some having outperformed hotels in downtown areas . "
+“不断增长的需求为农村地区的住宿注入了活力，其中一些地区的住宿表现优于市中心的酒店。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#60:
+President Xi Jinping ' s visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Zhang Feiyue in Beijing and Li Yingqing in Kunming .
+习近平主席的访问，为农村社区庆祝新纪元，当之无愧地收获了农村社区的工作成果，张飞跃在北京报道，李英庆在昆明报道。
+President Xi Jinping ' s visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Yang Feiyue in Beijing and Li Yingqing in Kunming .
+习近平总统的来访，为农村社区庆祝新纪元，当之无愧地收获了农村社区的工作成果，杨飞跃在北京报道，李迎清在昆明报道。
+LCS-Wdiff:	0.9032258064516129 
+--FP--
+#61:
+President Xi Jinping ' s visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Yang Feiyue in Beijing and Zhang Yingqing in Kunming .
+习近平主席的访问，为农村社区庆祝新纪元，当之无愧地收获了农村社区的工作成果，杨飞跃在北京报道，张英庆在昆明报道。
+President Xi Jinping ' s visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Yang Feiyue in Beijing and Li Yingqing in Kunming .
+习近平总统的来访，为农村社区庆祝新纪元，当之无愧地收获了农村社区的工作成果，杨飞跃在北京报道，李迎清在昆明报道。
+LCS-Wdiff:	0.9354838709677419 
+--FP--
+#62:
+President Xi Jinping ' s visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Yang Feiyue in Beijing and Liu Yingqing in Kunming .
+习近平总统的来访，庆祝农村社区的新纪元，当之无愧地收获了农村社区的工作成果，杨飞跃在北京报道，刘迎清在昆明报道。
+President Xi Jinping ' s visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Yang Feiyue in Beijing and Li Yingqing in Kunming .
+习近平总统的来访，为农村社区庆祝新纪元，当之无愧地收获了农村社区的工作成果，杨飞跃在北京报道，李迎清在昆明报道。
+LCS-Wdiff:	0.9375 
+--FP--
+#65:
+Sha Liyou , Chinese consul general to Kolkata , highlighting the importance of Bodh Gaya as a major tourist destination , said that it has the potential to trigger an influx of arrivals from China .
+中国驻加尔各答总领事沙立友强调了菩提伽耶作为主要旅游目的地的重要性，他说它有可能引发来自中国的涌入。
+Zha Liyou , Chinese consul general to Kolkata , highlighting the importance of Bodh Gaya as a major tourist destination , said that it has the potential to trigger an influx of arrivals from China .
+中国驻加尔各答总领事查立友强调了菩提伽耶作为主要旅游目的地的重要性，称它有可能引发来自中国的涌入。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#69:
+One of the smallest and most sustainable resorts in the Maldives , Udadoo has just 15 overwater residences powered entirely by solar panels .
+作为马尔代夫最小和最具可持续性的度假胜地之一，Udadoo只有15个完全由太阳能电池板供电的水上住宅。
+One of the smallest and most sustainable resorts in the Maldives , Kudadoo has just 15 overwater residences powered entirely by solar panels .
+库达杜是马尔代夫最小，最具可持续性的度假胜地之一，只有15个完全由太阳能电池板供电的水上住宅。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#70:
+These 24 striking overwater villas have infinity plunge pools and sublimely serene views from the soaking tub .
+这24间引人注目的水上别墅设有无边小型游泳池，从浸泡浴缸可欣赏到壮丽的宁静景色。
+Its 24 striking overwater villas have infinity plunge pools and sublimely serene views from the soaking tub .
+它的24间引人注目的水上别墅设有无边小型游泳池，并从浸泡浴缸中欣赏到壮丽的宁静景色。
+LCS-Wdiff:	0.9130434782608695 
+--FP--
+#75:
+From time to time , Li Fashun will reminisce about the visit of a special guest to his abode in Simola Va village many years ago .
+李法顺会时不时地回忆起多年前一位特邀嘉宾来到他位于西莫拉瓦村的住所。
+From time to time , Li Fashun will reminisce about the visit of a special guest to his abode in Simola Va village two years ago .
+李法顺时不时会回忆起两年前一位特邀嘉宾来到西莫拉瓦村的住所。
+LCS-Wdiff:	0.75 
+--FP--
+#78:
+So the concerned daughter went back to her family ' s home and prepared tender chicken on rice in a small pot .
+于是，忧心忡忡的女儿回到家里，在小锅里准备了米饭上的嫩鸡肉。
+So the concerned daughter went back to her family ' s home and made tender chicken on rice in a small pot .
+于是，忧心忡忡的女儿回到家里，在小锅里做了米饭上的嫩鸡。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#80:
+" Even the migrant community in Edinburgh , where many had moved to , helped me in the search .
+“即使是爱丁堡的移民社区，许多人已经搬到了那里，也帮助我进行了搜索。
+" Also the migrant community in Edinburgh , where many had moved to , helped me in the search .
+“爱丁堡的移民社区，许多人搬到了那里，帮助我寻找。
+LCS-Wdiff:	0.7368421052631579 
+--FP--
+#82:
+" After the outbreak of the pandemic , leisure travel to suburbs and rural areas are in demand among tourists , " a manager of Qunar was quoted as saying by Beijing Daily .
+“大流行爆发后，游客对郊区和农村地区的休闲旅游有需求，”北京日报援引去哪儿的一位经理的话说。
+" Since the outbreak of the pandemic , leisure travel to suburbs and rural areas are in demand among tourists , " a manager of Qunar was quoted as saying by Beijing Daily .
+“自大流行爆发以来，游客对郊区和农村地区的休闲旅游需求旺盛，”北京日报援引去哪儿的一位经理的话说。
+LCS-Wdiff:	0.9285714285714286 
+--FP--
+#86:
+A " social orchard " with fresh produce has been created , bringing together groups of children for lessons on rural life , and a gastronomy school launches this year .
+一个拥有新鲜农产品的“社会果园”已经建立，将一群儿童聚集在一起上农村生活的课程，并且今年推出了一所美食学校。
+A " social orchard " with fresh produce has been created , bringing together groups of children for lessons on rural life , while a gastronomy school launches this year .
+一个拥有新鲜农产品的“社会果园”已经建立，将一群儿童聚集在一起，上农村生活的课程，而一所美食学校今年开办。
+LCS-Wdiff:	0.875 
+--FP--
+#94:
+Correction : This feature has been updated to clarify the description of how maat gai faan is cooked .
+更正 ：此功能已更新，以澄清maat gai faan如何烹饪的描述。
+Correction : This feature has been updated to clarify the description of how waat gai faan is cooked .
+更正 ：此功能已更新，以澄清如何烹饪waat gai faan的描述。
+LCS-Wdiff:	0.9333333333333333 
+--FP--

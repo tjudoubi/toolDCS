@@ -1,0 +1,147 @@
+#64:
+Zhang and the girls worked hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+张和女孩们努力学习，很快，老师和学生们看到了团队的巨大进步，吸引了更多的学生加入。
+Zhang and the girls trained hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+张和女孩们刻苦训练，很快，老师和学生们看到了球队的巨大进步，吸引了更多的学生加入。
+LCS-Wdiff:	0.96 
+--FP--
+#65:
+" I was under the impression that it was only a toy for children and pets , " says Niu Xinchen who started playing frisbee in April .
+四月份开始玩飞盘的牛新辰说：“我当时的印象是，它只是一个儿童和宠物的玩具。”。
+" I was under the impression that it was only a toy for children and pets , " says Qu Xinchen who started playing frisbee in April .
+今年4月开始玩飞盘的曲新辰说：“我当时的印象是，它只是一个儿童和宠物的玩具。”。
+LCS-Wdiff:	0.96 
+--FP--
+#66:
+Lulusmile , a local brand founded by fashion company Lulualways in 2019 , released a virtual fashion show through the world ' s leading shared digital platform Roblox .
+时尚公司Lulualways于2019年创立的本地品牌Lulusmile通过世界领先的共享数字平台Roblox发布了一场虚拟时装秀。
+Lulusmile , a local brand founded by fashion company Lulualways in 2019 , released a virtual fashion show with the world ' s leading shared digital platform Roblox .
+时尚公司Lulualways于2019年创立的本地品牌Lulusmile与世界领先的共享数字平台Roblox一起发布了一场虚拟时装秀。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#67:
+He helped build and develop its global supply chain as COO before ascending to the top job in 2011 .
+在2011年晋升为首席运营官之前，他以首席运营官的身份帮助建立和发展了该公司的全球供应链。
+He helped build and manage its global supply chain as COO before ascending to the top job in 2011 .
+在2011年升任首席运营官之前，他以首席运营官的身份帮助建立和管理了该公司的全球供应链。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#68:
+Shortly after the deal was announced , some tech industry critics also raised concerns about the health data to which the company will gain access .
+在该交易宣布后不久，一些科技行业的批评者也对该公司将获得的健康数据提出了担忧。
+Shortly after the deal was announced , some tech industry critics also raised concerns about the health data to which the company could gain access .
+交易宣布后不久，一些科技行业的批评者也对该公司可能获得的健康数据提出了担忧。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#69:
+In 2020 , my research lab carried out an analysis that suggested that variants of natural killer cells in blood could be organised into eight categories .
+2020年，我的研究实验室进行了一项分析，表明血液中的自然杀伤细胞变体可分为八类。
+In 2020 , my research lab carried out an analysis which suggested that variants of natural killer cells in blood could be organised into eight categories .
+2020年，我的研究实验室进行了一项分析，表明血液中自然杀伤细胞的变体可以分为八类。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#70:
+Although online fashion shows may reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀可能会吸引更多观众，但成本可能与线下时装秀相似。
+Although online fashion shows could reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀可以吸引更多的观众，但成本可能与线下时装秀相似。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#71:
+Although online fashion shows would reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀会吸引更多观众，但成本可能与线下时装秀相似。
+Although online fashion shows could reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀可以吸引更多的观众，但成本可能与线下时装秀相似。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#72:
+" It is the same as Christmas in France , a time to attend family gatherings and visit friends , " he said .
+“这和法国的圣诞节一样，是参加家庭聚会和拜访朋友的时候，”他说。
+" It is the same as Christmas in France , a time to enjoy family gatherings and visit friends , " he said .
+“这和法国的圣诞节一样，是一个享受家庭聚会和拜访朋友的时刻，”他说。
+LCS-Wdiff:	0.95 
+--FP--
+#73:
+Luckily , Xia found a team from Tongji University to support her , who guaranteed the shooting on June 8 and the release of the virtual show on June 19 .
+幸运的是，夏找到了同济大学的一个团队来支持她，他们保证了6月8日的拍摄和6月19日虚拟节目的发布。
+Luckily , Xia found a team from Tongji University to support her , which guaranteed the shooting on June 8 and the release of the virtual show on June 19 .
+幸运的是，夏找到了同济大学的一个团队来支持她，这保证了6月8日的拍摄和6月19日的虚拟秀的发布。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#74:
+In many ways , this brand new ambition is a direct descendant of the Human Genome Project .
+在许多方面，这一全新的雄心壮志是人类基因组计划的直接后代。
+In many ways , this bold new ambition is a direct descendant of the Human Genome Project .
+在许多方面，这一大胆的新抱负是人类基因组计划的直接后代。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#75:
+" I was under the impression that it was only a toy for children and pets , " says Gu Xinchen who started playing frisbee in April .
+四月份开始玩飞盘的顾新辰说：“我当时的印象是，它只是儿童和宠物的玩具。”。
+" I was under the impression that it was only a toy for children and pets , " says Qu Xinchen who started playing frisbee in April .
+今年4月开始玩飞盘的曲新辰说：“我当时的印象是，它只是一个儿童和宠物的玩具。”。
+LCS-Wdiff:	0.92 
+--FP--
+#76:
+Her solid but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她坚实但饱受伤病困扰的职业生涯让我想起了前NBA大个子姚明，他在休斯顿火箭队工作时，也因为脚部问题被迫在31岁时挂上了运动鞋。
+Her stellar but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她出色但饱受伤病困扰的职业生涯让我想起了前NBA大个子姚明，他在休斯顿火箭队工作时，也因为脚部问题在31岁时被迫挂起了球鞋。
+LCS-Wdiff:	0.918918918918919 
+--FP--
+#77:
+Starting already from this discovery , and other research using similar methods , there is the sense that our understanding of the body ' s cells is being transformed by a piercing new combination of biology and computer science .
+从这一发现和其他使用类似方法的研究开始，我们就感觉到，生物学和计算机科学的一种全新结合正在改变我们对人体细胞的理解。
+But already from this discovery , and other research using similar methods , there is the sense that our understanding of the body ' s cells is being transformed by a piercing new combination of biology and computer science .
+但是，从这一发现以及其他使用类似方法的研究中，我们已经感觉到，生物学和计算机科学的一种全新结合正在改变我们对人体细胞的理解。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#79:
+So , crucially , an analysis of genes alone is n ' t enough – we also need to know where in the human body the disease - causing genes are being switched on .
+因此，至关重要的是，仅仅对基因进行分析是不够的——我们还需要知道导致疾病的基因在人体的何处被激活。
+So , crucially , an analysis of genes alone is n ' t enough – we also need to know where in the human body these disease - causing genes are being switched on .
+因此，至关重要的是，仅仅分析基因是不够的——我们还需要知道这些致病基因在人体的何处被激活。
+LCS-Wdiff:	0.8928571428571429 
+--FP--
+#82:
+Amazon planned to buy grocery chain Whole Foods in 2017 for $ 13 . 7 billion and earlier this year closed an $ 8 . 5 billion deal to buy iconic Hollywood movie studio MGM .
+亚马逊计划在2017年斥资137亿美元收购杂货连锁店Whole Foods，今年早些时候完成了一笔85亿美元的收购好莱坞电影制片厂米高梅的交易。
+Amazon agreed to buy grocery chain Whole Foods in 2017 for $ 13 . 7 billion and earlier this year closed an $ 8 . 5 billion deal to buy iconic Hollywood movie studio MGM .
+2017年，亚马逊同意以137亿美元收购杂货连锁店Whole Foods，今年早些时候，亚马逊完成了一笔85亿美元的收购好莱坞电影制片厂米高梅的交易。
+LCS-Wdiff:	0.8666666666666667 
+--FP--
+#88:
+He helped develop and manage its global supply chain as COO before ascending to the top job in 2011 .
+在2011年晋升为首席运营官之前，他曾以首席运营官的身份帮助开发和管理其全球供应链。
+He helped build and manage its global supply chain as COO before ascending to the top job in 2011 .
+在2011年升任首席运营官之前，他以首席运营官的身份帮助建立和管理了该公司的全球供应链。
+LCS-Wdiff:	0.7916666666666666 
+--FP--
+#92:
+He has visited many villages in the country where the tradition of making bamboo items is alive .
+他参观了这个国家的许多村庄，在那里制作竹子制品的传统非常盛行。
+He has visited many villages across the country where the tradition of making bamboo items is alive .
+他参观了全国许多村庄，那里的竹子制作传统非常盛行。
+LCS-Wdiff:	0.75 
+--FP--
+#96:
+Zhang Yelin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+58岁的毛坝居民张叶林从12岁起就开始制作竹制品。
+Fu Yelin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+58岁的Fu Yelin是毛坝的居民，从12岁起就一直在做竹制品。
+LCS-Wdiff:	0.7058823529411765 
+--FP--
+#98:
+Wang Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+35岁的汪洋是中国东北辽宁省沈阳市的一名厨师，他做这种糕点已有10年了。
+Wu Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+吴阳是中国东北辽宁省沈阳市一位35岁的厨师，已经做了10年糕点了。
+LCS-Wdiff:	0.6842105263157895 
+--FP--
+#100:
+Apple did not respond to requests for comment for this story , although Cook emphasized Apple ' s broader manufacturing footprint on the company ' s most recent earnings call .
+尽管库克在公司最近的电话财报会议中强调了苹果更广泛的制造业足迹，但苹果没有回应对此报道发表评论的请求。
+Apple did not respond to requests for comment for this story , but Cook emphasized Apple ' s broader manufacturing footprint on the company ' s most recent earnings call .
+苹果没有回应对此事发表评论的请求，但库克在公司最近的电话财报会议中强调了苹果更广泛的制造业足迹。
+LCS-Wdiff:	0.6206896551724138 
+--FP--

@@ -1,0 +1,49 @@
+#15:
+Songs from popular Chinese operas were also performed , including The Red Guards on Honghu Lake , which premiered in Beijing in 1959 to mark the tenth anniversary of the founding of the People ' s Republic of China .
+中国流行歌剧中的歌曲也上演，包括1959年在北京首演的《红湖红卫兵》，以纪念中华人民共和国成立十周年。
+Songs from popular Chinese operas were also performed , including The Red Guards on Honghu Lake , which premiered in Beijing in 1959 to mark the 10th anniversary of the founding of the People ' s Republic of China .
+中国流行歌剧中的歌曲也上演，包括1959年在北京首演的《红湖红卫兵》，以纪念中华人民共和国成立10周年。
+LCS-Wdiff:	1.0 
+--FN--
+#16:
+Songs from popular Chinese operas were also performed , including The Red Guards on Honghu Lake , which premiered in Beijing in 1959 to mark the 60th anniversary of the founding of the People ' s Republic of China .
+中国流行歌剧中的歌曲也上演，包括1959年在北京首演的《红湖上的红卫兵》，以纪念中华人民共和国成立60周年。
+Songs from popular Chinese operas were also performed , including The Red Guards on Honghu Lake , which premiered in Beijing in 1959 to mark the 10th anniversary of the founding of the People ' s Republic of China .
+中国流行歌剧中的歌曲也上演，包括1959年在北京首演的《红湖红卫兵》，以纪念中华人民共和国成立10周年。
+LCS-Wdiff:	0.9629629629629629 
+--FN--
+#25:
+And up until that point , I had wanted to be a social scientist who worked on China in social sciences .
+在那之前，我一直想成为一名社会科学家，在中国从事社会科学工作。
+Because up until that point , I had wanted to be a social scientist who worked on China in social sciences .
+因为在那之前，我一直想成为一名社会科学家，在中国从事社会科学工作。
+LCS-Wdiff:	1.0 
+--FN--
+#35:
+But up until that point , I had wanted to be a social scientist who worked on China in social sciences .
+但在那之前，我一直想成为一名社会科学家，在中国从事社会科学工作。
+Because up until that point , I had wanted to be a social scientist who worked on China in social sciences .
+因为在那之前，我一直想成为一名社会科学家，在中国从事社会科学工作。
+LCS-Wdiff:	1.0 
+--FN--
+#50:
+" It may be a bit early to celebrate , but I want to take the opportunity to inspire the company ' s young choreographers . "
+“庆祝可能还为时过早，但我想借此机会激励公司的年轻编舞家。
+" It may be a bit early to celebrate , but I want to take the opportunity to inspire the company ' s younger choreographers . "
+“庆祝可能有点早，但我想借此机会激励公司的年轻编舞家。
+LCS-Wdiff:	1.0 
+--FN--
+#65:
+Kangzhua literally means " paintings around bed " , with kang being the name of a type of heated bed in the local dialect .
+康子花的字面意思是“床周围的绘画”，康是当地方言中一种加热床的名称。
+Kangweihua literally means " paintings around bed " , with kang being the name of a type of heated bed in the local dialect .
+康卫华的字面意思是“床周围的绘画”，康是当地方言中一种加热床的名称。
+LCS-Wdiff:	1.0 
+--FN--
+#86:
+If you take a trip around the exhibitions , you can find some key points concerning the moon , and what you need to do is to fill some stories in between .
+如果你在展览周围旅行一下，你可以找到一些关于月球的关键点，你需要做的就是填补一些介于两者之间的故事。
+If you take a walk around the exhibitions , you can find some key points concerning the moon , and what you need to do is to fill some stories in between .
+如果你在展览周围走走，你可以找到一些关于月球的关键点，你需要做的就是填补一些介于两者之间的故事。
+LCS-Wdiff:	1.0 
+--FN--

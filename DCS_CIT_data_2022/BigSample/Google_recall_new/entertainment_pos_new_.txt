@@ -1,0 +1,618 @@
+#0:
+"on ABC in canada and will host the main show for a period of time beginning.
+“在加拿大的ABC上，将在一段时间内主持主节目。
+"on ABC in canada and will host the main show for a period of time.
+“在加拿大的ABC上，将主持一段时间的主播。
+--TP--
+#1:
+"on ABC in canada and will host the main show for a year.
+“在加拿大的 ABC 上，并将举办一年的主要节目。
+"on ABC in canada and will host the main show.
+“在加拿大的 ABC 上，将主持主要节目。
+--TN--
+#2:
+"on ABC in primetime and will host the main show for a week of episodes beginning.
+“在 ABC 黄金时段播出，并将在一周的剧集中主持主节目。
+"on ABC in primetime and will host the main show for a week of episodes.
+“在 ABC 黄金时段播出，并将主持为期一周的主要节目。
+--FP--
+--1--
+#3:
+"yes, some of us, not all of us, are aspiring to do things outside of the city.
+“是的，我们中的一些人，而不是我们所有人，都渴望在城市之外做些事情。
+"yes, some of us, not all of us, are aspiring to do things outside.
+“是的，我们中的一些人，而不是我们所有人，都渴望在外面做事。
+--FP--
+--3--
+#4:
+Accomplish that, and by 2025 we might look back and say Marvel was going through a phase.
+实现这一点，到 2025 年，我们可能会回顾并说漫威正在经历一个阶段。
+Accomplish that, and we might look back and say Marvel was going through a phase.
+做到这一点，我们可能会回顾并说漫威正在经历一个阶段。
+--TN--
+#5:
+According to Mero, Lopez was working and was looking to expand he started.
+根据梅罗的说法，洛佩兹正在工作，并希望扩大他开始的规模。
+According to Mero Lopez was he started.
+据梅罗洛佩兹说是他开始的。
+--TN--
+#6:
+After its run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming months,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，未来几个月将登陆新奥尔良、迈阿密、旧金山和芝加哥。
+After its run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，登陆新奥尔良、迈阿密、旧金山和芝加哥。
+--TN--
+#7:
+After its run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming years, through Spring 2023.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，在接下来的几年里，到 2023 年春季将登陆新奥尔良、迈阿密、旧金山和芝加哥。
+After its run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming years,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，未来几年将登陆新奥尔良、迈阿密、旧金山和芝加哥。
+--TN--
+#8:
+After its run in Beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago in the coming months, through Spring 2023.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，在接下来的几个月里，到 2023 年春季，将登陆纽约、迈阿密、旧金山和芝加哥。
+After its run in Beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago in the coming months,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，未来几个月将登陆纽约、迈阿密、旧金山和芝加哥。
+--TN--
+#9:
+After its run in Beverly angeles, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago in the coming months,.
+在贝弗利安吉利斯开业后，这家餐厅将继续巡回演出，未来几个月将登陆纽约、迈阿密、旧金山和芝加哥。
+After its run in Beverly angeles, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago,.
+在贝弗利安吉利斯开业后，这家餐厅将继续巡回演出，登陆纽约、迈阿密、旧金山和芝加哥。
+--TN--
+#10:
+After its run in Beverly angeles, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago in the coming years, through Spring 2023.
+在贝弗利安吉利斯开业后，这家餐厅将继续巡回演出，在接下来的几年里，到 2023 年春季将登陆纽约、迈阿密、旧金山和芝加哥。
+After its run in Beverly angeles, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago in the coming years,.
+在贝弗利洛杉矶开业后，这家餐厅将继续巡回演出，未来几年将登陆纽约、迈阿密、旧金山和芝加哥。
+--TN--
+#11:
+After its run in Beverly hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago in the coming years, through Spring 2023.
+在比佛利山庄开店后，这家餐厅将继续巡回演出，在接下来的几年里，到 2023 年春季将登陆纽约、迈阿密、旧金山和芝加哥。
+After its run in Beverly hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago in the coming years,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，未来几年将登陆纽约、迈阿密、旧金山和芝加哥。
+--TN--
+#12:
+After its run in Beverly hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming years, through Spring 2023.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，在接下来的几年里，到 2023 年春季将登陆新奥尔良、迈阿密、旧金山和芝加哥。
+After its run in Beverly hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming years,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，未来几年将登陆新奥尔良、迈阿密、旧金山和芝加哥。
+--TN--
+#13:
+After its run in Beverly hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago in the coming months, through Spring 2023.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，在接下来的几个月里，一直到 2023 年春季，将登陆纽约、迈阿密、旧金山和芝加哥。
+After its run in Beverly hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago in the coming months,.
+在比佛利山庄开店后，这家餐厅将继续巡回演出，在接下来的几个月里将登陆纽约、迈阿密、旧金山和芝加哥。
+--TN--
+#14:
+After its run in Beverly hills, the restaurant will go on tour, hitting puerto York, Miami, San Francisco and Chicago in the coming years,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，未来几年将登陆约克港、迈阿密、旧金山和芝加哥。
+After its run in Beverly hills, the restaurant will go on tour, hitting puerto York, Miami, San Francisco and Chicago,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，登陆约克港、迈阿密、旧金山和芝加哥。
+--TN--
+#15:
+After its run in beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago in the coming months, through Spring 2023.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，在接下来的几个月里，一直到 2023 年春季，将登陆纽约、迈阿密、旧金山和芝加哥。
+After its run in beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago in the coming months,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，未来几个月将登陆纽约、迈阿密、旧金山和芝加哥。
+--TN--
+#16:
+After its run in beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming months,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，未来几个月将登陆新奥尔良、迈阿密、旧金山和芝加哥。
+After its run in beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，登陆新奥尔良、迈阿密、旧金山和芝加哥。
+--TN--
+#17:
+After its run in beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，登陆新奥尔良、迈阿密、旧金山和芝加哥。
+After its run in beverly Hills the restaurant will go on tour.
+在比佛利山庄运行后，餐厅将继续巡回演出。
+--FP--
+--2--
+#18:
+After its run in beverly Hills, the restaurant will go on tour, hitting puerto York, Miami, San Francisco and Chicago in the coming months, through Spring 2023.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，在接下来的几个月里，到 2023 年春季，将登陆约克港、迈阿密、旧金山和芝加哥。
+After its run in beverly Hills, the restaurant will go on tour, hitting puerto York, Miami, San Francisco and Chicago in the coming months,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，未来几个月将登陆约克港、迈阿密、旧金山和芝加哥。
+--FN--
+#19:
+After its run in beverly Hills, the restaurant will go on tour, hitting puerto York, Miami, San Francisco and Chicago,.
+在比佛利山庄开业后，这家餐厅将继续巡回演出，登陆约克港、迈阿密、旧金山和芝加哥。
+After its run in beverly Hills the restaurant will go on tour.
+在比佛利山庄运行后，餐厅将继续巡回演出。
+--FP--
+--2--
+#20:
+After they run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming months, through Spring 2023.
+在他们在比佛利山庄开业后，这家餐厅将继续巡回演出，在接下来的几个月里，到 2023 年春季，将登陆新奥尔良、迈阿密、旧金山和芝加哥。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming months,.
+在他们在比佛利山庄跑步之后，这家餐厅将继续巡回演出，在接下来的几个月里，将登陆新奥尔良、迈阿密、旧金山和芝加哥。
+--TP--
+#21:
+After they run in Beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago in the coming months, through Spring 2023.
+在他们在比佛利山庄开业后，这家餐厅将继续巡回演出，在接下来的几个月里，到 2023 年春季将登陆新约克、迈阿密、旧金山和芝加哥。
+After they run in Beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago in the coming months,.
+在他们在比佛利山庄开店后，这家餐厅将继续巡回演出，在接下来的几个月里将登陆新约克、迈阿密、旧金山和芝加哥。
+--TN--
+#22:
+After they run in Beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago in the coming weeks,.
+在他们在比佛利山庄开业后，这家餐厅将继续巡回演出，在接下来的几周内将登陆新约克、迈阿密、旧金山和芝加哥。
+After they run in Beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago,.
+在他们在比佛利山庄运行之后，这家餐厅将继续巡回演出，去往新约克、迈阿密、旧金山和芝加哥。
+--FP--
+--4--
+#23:
+Before we even get into the actual music, the singer had something to say about it leaking days.
+在我们进入真正的音乐之前，这位歌手有话要说它泄漏的日子。
+Before we even get the singer had something to say about it leaking days.
+在我们得到这位歌手之前，我们就已经泄露了几天。
+--TN--
+#24:
+Before we even get into the actual song, the singer had something to say about it leaking days after its scheduled release.
+在我们进入实际歌曲之前，这位歌手就在预定发行几天后泄露了一些话。
+Before we even get into the actual song, the singer had something to say about it leaking days.
+在我们进入真正的歌曲之前，这位歌手对它泄漏的日子有话要说。
+--FP--
+--2--
+#25:
+Before we even get into the actual song, the singer had something to say about it leaking days before its scheduled date.
+在我们进入实际歌曲之前，这位歌手就在预定日期前几天泄露了一些话。
+Before we even get into the actual song, the singer had something to say about it leaking days.
+在我们进入真正的歌曲之前，这位歌手对它泄漏的日子有话要说。
+--FN--
+#26:
+Between the new trailer and the recently released teaser trailer, I am already in my feelings.
+在新预告片和最近发布的预告片之间，我已经在我的感受中了。
+Between the new trailer and the recently released teaser trailer I am in my feelings.
+在新预告片和最近发布的预告片预告片之间，我有自己的感受。
+--FN--
+#27:
+Between the new version and the recently released teaser trailer, I am already in my feelings.
+在新版本和最近发布的预告片之间，我已经在我的感受中了。
+Between the new version and the recently released teaser trailer I am in my feelings.
+在新版本和最近发布的预告片之间，我很感慨。
+--TP--
+#28:
+Bey honors him with one of the three lines on the album: "Uncle Jonny made my dress," she sings on "Heated.
+Bey 用专辑中的三句台词之一向他致敬：“乔尼叔叔为我做了衣服，”她在“Heated.
+Bey honors him with one of the three lines: "Uncle Jonny made my dress," she sings on "Heated.
+Bey 以三句台词之一向他致敬：“乔尼叔叔为我做了衣服，”她在“Heated.
+--TN--
+#29:
+I I will always return to.
+我将永远返回。
+If I have a new album I I will always return to.
+如果我有新专辑，我会一直回来。
+--FP--
+--4--
+#30:
+If I have a new album, it only reflects on my life with the band, where I started I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只会反映我与乐队的生活，我将永远回到我开始的地方，”麦克莱恩告诉 CNN。
+If I have a new album, it only reflects on my life with the band, I I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只会反映我与乐队的生活，我将永远回归，”麦克莱恩告诉 CNN。
+--FP--
+--2--
+#31:
+If I have a new album, it only reflects on my life with the group, I I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只会反映我与乐队的生活，我会永远回归，”麦克莱恩告诉 CNN。
+If I have a new album, it only reflects on my life I I will always return to told CNN.
+如果我有一张新专辑，它只会反映我的生活，我将永远回归告诉 CNN。
+--TN--
+#32:
+If I have a new album, it only reflects on my success with the band, I I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只反映了我在乐队中的成功，我将永远回归，”麦克莱恩告诉 CNN。
+If I have a new album, it only reflects on my success I I will always return to told CNN.
+如果我有一张新专辑，它只反映了我的成功，我将永远回来告诉 CNN。
+--TN--
+#33:
+If I have a new album, it only reflects on my success with the band, where I started and where I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只会反映我在乐队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+If I have a new album, it only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只会反映我在乐队中的成功，我开始的地方，我将永远回归，”麦克莱恩告诉 CNN。
+--TP--
+#34:
+If I have a new album, it only reflects on my success with the group, where I started I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只会反映我在团队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉 CNN。
+If I have a new album, it only reflects on my success with the group, I I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只反映了我在团队中的成功，我会永远回归，”麦克莱恩告诉 CNN。
+--FP--
+--2--
+#35:
+If I have a new album, it only reflects on my success with the group, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有一张新专辑，那只会反映我在团队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+If I have a new album, it only reflects on my success with the group, where I started and where I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只会反映我在团队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+--TN--
+#36:
+If I have a new album, it only reflects on my success with the group, where I started and where I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只会反映我在团队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+If I have a new album, it only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只反映了我在乐队中的成功，我开始的地方，我将永远回归，”麦克莱恩告诉 CNN。
+--TP--
+#37:
+If I have a new album, which only reflects on my life with the beatles, I I will always return to, "McLean told CNN.
+如果我有一张只反映我与披头士生活的新专辑，我将永远回归，”麦克莱恩告诉 CNN。
+If I have a new album, which only reflects on my life I I will always return to told CNN.
+如果我有一张只反映我生活的新专辑，我将永远回到告诉 CNN。
+--TN--
+#38:
+If I have a new album, which only reflects on my life with the group, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有一张新专辑，它只反映我与乐队的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+If I have a new album, which only reflects on my life with the group, where I started and where I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只反映我与乐队的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+--TN--
+#39:
+If I have a new album, which only reflects on my success with the band, where I started and where I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只反映了我在乐队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+If I have a new album, which only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只反映了我在乐队中的成功，我开始的地方，我将永远回归，”麦克莱恩告诉 CNN。
+--TP--
+#40:
+If I have a new album, which only reflects on my success with the group, I I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只反映了我在乐队中的成功，我将永远回归，”麦克莱恩告诉 CNN。
+If I have a new album, which only reflects on my success I I will always return to told CNN.
+如果我有一张新专辑，它只反映我的成功，我将永远回到告诉 CNN。
+--TN--
+#41:
+If I have a new album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.
+如果我有一张新专辑，这只反映了我在团队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉 CNN。
+If I have a new album, which only reflects on my success with the group, I I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只反映了我在乐队中的成功，我将永远回归，”麦克莱恩告诉 CNN。
+--TP--
+#42:
+If I have a new album, which only reflects on my success with the group, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有一张新专辑，它只反映了我在团队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+If I have a new album, which only reflects on my success with the group, where I started and where I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只反映了我在团队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+--TN--
+#43:
+If I have a new album, which only reflects on my success with the group, where I started and where I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只反映了我在团队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+If I have a new album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.
+如果我有一张新专辑，它只反映了我在团队中的成功，我开始的地方，我将永远回归，”麦克莱恩告诉 CNN。
+--TP--
+#44:
+If I have a second album, it only reflects on my life with the band, I I will always return to, "McLean told CNN.
+如果我有第二张专辑，它只会反映我与乐队的生活，我将永远回归，”麦克莱恩告诉 CNN。
+If I have a second album, it only reflects on my life I I will always return to told CNN.
+如果我有第二张专辑，它只会反映我的生活，我将永远回归告诉 CNN。
+--TN--
+#45:
+If I have a second album, it only reflects on my life with the beatles, everything I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有第二张专辑，它只会反映我与披头士的生活，我开始的一切以及我将永远回到的地方，”麦克莱恩告诉 CNN en Espaol。
+If I have a second album, it only reflects on my life with the beatles, everything I started and where I will always return to, "McLean told CNN.
+如果我有第二张专辑，它只会反映我与披头士乐队的生活，我开始的一切以及我将永远回到的地方，”麦克莱恩告诉 CNN。
+--TN--
+#46:
+If I have a second album, it only reflects on my life with the beatles, where I started and where I will always return to, "McLean told CNN en Espaol via Zoom.
+如果我有第二张专辑，它只会反映我与披头士的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩通过 Zoom 告诉 CNN en Espaol。
+If I have a second album, it only reflects on my life with the beatles, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有第二张专辑，它只会反映我与披头士的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+--TN--
+#47:
+If I have a second album, it only reflects on my life with the group, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有第二张专辑，它只会反映我与乐队的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+If I have a second album, it only reflects on my life with the group, where I started and where I will always return to, "McLean told CNN.
+如果我有第二张专辑，它只会反映我与乐队的生活，我开始的地方以及我将永远回到的地方，”麦克莱恩告诉 CNN。
+--TP--
+#48:
+If I have a second album, it only reflects on my success with the band, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有第二张专辑，那只会反映我在乐队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+If I have a second album, it only reflects on my success with the band, where I started and where I will always return to, "McLean told CNN.
+如果我有第二张专辑，那只会反映我在乐队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+--FN--
+#49:
+If I have a second album, it only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.
+如果我有第二张专辑，它只反映了我在乐队中的成功，我开始的地方，我将永远回归，”麦克莱恩告诉 CNN。
+If I have a second album, it only reflects on my success with the group, where I started I will always return to, "McLean told CNN.
+如果我有第二张专辑，它只会反映我在乐队中的成功，我会一直回到我开始的地方，”麦克莱恩告诉 CNN。
+--FN--
+#50:
+If I have a second album, it only reflects on my success with the group, where I started and where I will always return to, "McLean told CNN en Espaol via Zoom.
+如果我有第二张专辑，那只会反映我在团队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩通过 Zoom 告诉 CNN en Espaol。
+If I have a second album, it only reflects on my success with the group, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有第二张专辑，那只会反映我在团队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+--TN--
+#51:
+If I have a second album, which only reflects on my life with the beatles, where I started and where I will always return to, "McLean told CNN.
+如果我有第二张专辑，它只反映我与披头士的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+If I have a second album, which only reflects on my life with the beatles, where I started and I will always return to, "McLean told CNN.
+如果我有第二张专辑，它只反映我与披头士的生活，我从那里开始，我将永远回归，”麦克莱恩告诉 CNN。
+--TN--
+#52:
+If I have a second album, which only reflects on my life with the group, where I started and where I will always return to, "McLean told CNN en Espaol via Zoom.
+如果我有第二张专辑，它只反映我在乐队中的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩通过 Zoom 告诉 CNN en Espaol。
+If I have a second album, which only reflects on my life with the group, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有第二张专辑，它只反映我与乐队的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+--FN--
+#53:
+If I have a second album, which only reflects on my success with the band, everything I started I will always return to, "McLean told CNN.
+如果我有第二张专辑，它只反映了我在乐队中的成功，我开始的一切我都会回归，”麦克莱恩告诉 CNN。
+If I have a second album, which only reflects on my success with the band, I I will always return to, "McLean told CNN.
+如果我有第二张专辑，它只反映了我在乐队中的成功，我将永远回归，”麦克莱恩告诉 CNN。
+--FP--
+--2--
+#54:
+If I have a second album, which only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.
+如果我有第二张专辑，这只反映了我在乐队中的成功，我从那里开始，我将永远回到，”麦克莱恩告诉 CNN。
+If I have a second album, which only reflects on my success with the band, where I started I will always return to, "McLean told CNN.
+如果我有第二张专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉 CNN。
+--TP--
+#55:
+If I have a second album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.
+如果我有第二张专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉 CNN。
+If I have a second album, which only reflects on my success with the group, I I will always return to, "McLean told CNN.
+如果我有第二张专辑，它只反映了我在乐队中的成功，我将永远回归，”麦克莱恩告诉 CNN。
+--FP--
+--2--
+#56:
+If I have a second album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.
+如果我有第二张专辑，这只反映了我在乐队中的成功，我开始的地方，我将永远回到，”麦克莱恩告诉 CNN。
+If I have a second album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.
+如果我有第二张专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉 CNN。
+--FN--
+#57:
+If I have a successful album, it only reflects on my heart with the group, where I started and I will always return to, "McLean told CNN.
+如果我有一张成功的专辑，它只会反映我对乐队的心，我开始的地方，我将永远回归，”麦克莱恩告诉 CNN。
+If I have a successful album, it only reflects on my heart with the group, where I started I will always return to, "McLean told CNN.
+如果我有一张成功的专辑，它只会反映我对乐队的心，我会永远回到我开始的地方，”麦克莱恩告诉 CNN。
+--FN--
+#58:
+If I have a successful album, it only reflects on my heart with the group, where I started and where I will always return to, "McLean told CNN en Espaol via Zoom.
+如果我有一张成功的专辑，它只会反映我对团队的心，我从哪里开始，我将永远回到哪里，”麦克莱恩通过 Zoom 告诉 CNN en Espaol。
+If I have a successful album, it only reflects on my heart with the group, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有一张成功的专辑，它只会反映我对乐队的心，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+--FN--
+#59:
+If I have a successful album, it only reflects on my soul with the group, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有一张成功的专辑，它只会反映我与乐队的灵魂，我开始的地方以及我将永远回到的地方，”麦克莱恩告诉 CNN en Espaol。
+If I have a successful album, it only reflects on my soul with the group, where I started and where I will always return to, "McLean told CNN.
+如果我有一张成功的专辑，它只会反映我与乐队的灵魂，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+--TN--
+#60:
+If I have a successful album, it only reflects on my success with the club, where I started I will always return to, "McLean told CNN.
+如果我有一张成功的专辑，它只反映了我在俱乐部的成功，我将永远回到我开始的地方，”麦克莱恩告诉 CNN。
+If I have a successful album, it only reflects on my success with the club, I I will always return to, "McLean told CNN.
+如果我有一张成功的专辑，它只反映了我在俱乐部的成功，我将永远回归，”麦克莱恩告诉 CNN。
+--FP--
+--2--
+#61:
+If I have a successful album, it only reflects on my success with the group, I I will always return to, "McLean told CNN.
+如果我有一张成功的专辑，它只反映了我在团队中的成功，我将永远回归，”麦克莱恩告诉 CNN。
+If I have a successful album, it only reflects on my success I I will always return to told CNN.
+如果我有一张成功的专辑，它只反映了我的成功，我将永远回到告诉 CNN。
+--TN--
+#62:
+If I have a successful album, it only reflects on my success with the group, where I started I will always return to, "McLean told CNN.
+如果我有一张成功的专辑，它只反映了我在团队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉 CNN。
+If I have a successful album, it only reflects on my success with the group, I I will always return to, "McLean told CNN.
+如果我有一张成功的专辑，它只反映了我在团队中的成功，我将永远回归，”麦克莱恩告诉 CNN。
+--FP--
+--2--
+#63:
+If I have a successful album, it only reflects on my success with the group, where I started and where I will always return to, "McLean told CNN.
+如果我有一张成功的专辑，它只反映了我在团队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+If I have a successful album, it only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.
+如果我有一张成功的专辑，它只反映了我在团队中的成功，我开始的地方，我将永远回归，”麦克莱恩告诉 CNN。
+--TP--
+#64:
+If I have a successful album, which only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.
+如果我有一张成功的专辑，这只反映了我在乐队中的成功，我开始的地方，我将永远回归，”麦克莱恩告诉 CNN。
+If I have a successful album, which only reflects on my success with the band, where I started I will always return to, "McLean told CNN.
+如果我有一张成功的专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉 CNN。
+--TN--
+#65:
+If I have a successful business, it only reflects on my life with the group, where I started I will always return to, "McLean told CNN.
+如果我有一个成功的企业，它只会反映我在团队中的生活，我将永远回到我开始的地方，”麦克莱恩告诉 CNN。
+If I have a successful business, it only reflects on my life with the group, I I will always return to, "McLean told CNN.
+如果我有一个成功的企业，它只反映在我与团队的生活中，我将永远回归，”麦克莱恩告诉美国有线电视新闻网。
+--FP--
+--2--
+#66:
+If I have a successful business, it only reflects on my life with the group, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有一个成功的企业，它只会反映我在团队中的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+If I have a successful business, it only reflects on my life with the group, where I started and where I will always return to, "McLean told CNN.
+如果我有一个成功的企业，它只会反映我在团队中的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+--TN--
+#67:
+If I have a successful business, it only reflects on my life with the others, where I started and where I will always return to, "McLean told CNN en Espaol via Zoom.
+如果我有一个成功的企业，它只会反映我与其他人的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩通过 Zoom 告诉 CNN en Espaol。
+If I have a successful business, it only reflects on my life with the others, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有一个成功的企业，它只会反映我与其他人的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+--TN--
+#68:
+If I have a successful business, it only reflects on my life with the others, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有一个成功的企业，它只会反映我与其他人的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+If I have a successful business, it only reflects on my life with the others, where I started and where I will always return to, "McLean told CNN.
+如果我有一个成功的企业，它只会反映我与他人的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉美国有线电视新闻网。
+--TN--
+#69:
+If I have a successful business, it only reflects on my own with the same, where I started I will always return to, "McLean told CNN.
+如果我有一个成功的企业，它只会反映在我自己身上，我将永远回到我开始的地方，”麦克莱恩告诉 CNN。
+If I have a successful business, it only reflects on my own with the same, I I will always return to, "McLean told CNN.
+如果我有一个成功的企业，它只会反映在我自己身上，我会永远回归，”麦克莱恩告诉美国有线电视新闻网。
+--FP--
+--2--
+#70:
+If I have a successful business, it only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.
+如果我有一个成功的企业，它只反映了我在团队中的成功，我从这里开始，我将永远回归，”麦克莱恩告诉 CNN。
+If I have a successful business, it only reflects on my success with the group, where I started I will always return to, "McLean told CNN.
+如果我有一个成功的企业，它只会反映我在团队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉 CNN。
+--TP--
+#71:
+If I have a successful business, which only reflects on my own with the children, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有一个成功的企业，它只反映在我自己和孩子们身上，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+If I have a successful business, which only reflects on my own with the children, where I started and where I will always return to, "McLean told CNN.
+如果我有一个成功的企业，它只反映在我自己和孩子们身上，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+--TN--
+#72:
+If I have a successful business, which only reflects on my own with the group, where I started and where I will always return to, "McLean told CNN.
+如果我有一个成功的企业，它只反映在我自己与团队的关系上，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+If I have a successful business, which only reflects on my own with the group, where I started and I will always return to, "McLean told CNN.
+如果我有一个成功的企业，这仅反映在我自己与团队的关系中，我开始的地方，我将永远回归，”麦克莱恩告诉美国有线电视新闻网。
+--TP--
+#73:
+If I have a successful business, which only reflects on my success with the children, where I started I will always return to, "McLean told CNN.
+如果我有一个成功的企业，这仅反映我与孩子们的成功，我将永远回到我开始的地方，”麦克莱恩告诉美国有线电视新闻网。
+If I have a successful business, which only reflects on my success with the children, I I will always return to, "McLean told CNN.
+如果我有一个成功的企业，它只反映我与孩子们的成功，我将永远回归，”麦克莱恩告诉美国有线电视新闻网。
+--FP--
+--2--
+#74:
+If I have a successful business, which only reflects on my success with the community, I I will always return to, "McLean told CNN.
+如果我有一个成功的企业，这仅反映我在社区中的成功，我将永远回归，”麦克莱恩告诉 CNN。
+If I have a successful business, which only reflects on my success I I will always return to told CNN.
+如果我有一个成功的企业，这只会反映我的成功，我将永远回到告诉 CNN。
+--TN--
+#75:
+If I have a successful career, it only reflects on my life with the children, where I started and where I will always return to, "McLean told CNN en Espaol via Zoom.
+如果我有一个成功的职业生涯，那只会反映我与孩子们的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩通过 Zoom 告诉 CNN en Espaol。
+If I have a successful career, it only reflects on my life with the children, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有一个成功的职业生涯，那只会反映我与孩子们的生活，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+--TN--
+#76:
+If I have a successful career, it only reflects on my life with the club, where I started I will always return to, "McLean told CNN.
+如果我有一个成功的职业生涯，那只会反映我在俱乐部的生活，我将永远回到我开始的地方，”麦克莱恩告诉 CNN。
+If I have a successful career, it only reflects on my life with the club, I I will always return to, "McLean told CNN.
+如果我有一个成功的职业生涯，它只会反映我在俱乐部的生活，我将永远回归，”麦克莱恩告诉 CNN。
+--FP--
+--2--
+#77:
+If I have a successful career, it only reflects on my success with the team, where I started and where I will always return to, "McLean told CNN en Espaol via Zoom.
+如果我有一个成功的职业生涯，那只会反映我在团队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩通过 Zoom 告诉 CNN en Espaol。
+If I have a successful career, it only reflects on my success with the team, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有一个成功的职业生涯，那只会反映我在团队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+--TN--
+#78:
+If I have a successful career, it only reflects on my success with the team, where I started and where I will always return to, "McLean told CNN en Espaol.
+如果我有一个成功的职业生涯，那只会反映我在团队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN en Espaol。
+If I have a successful career, it only reflects on my success with the team, where I started and where I will always return to, "McLean told CNN.
+如果我有一个成功的职业生涯，那只会反映我在团队中的成功，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉 CNN。
+--TN--
+#79:
+Jennings will host as the new season begins in 2011, as well as act as host for the Second Chance competition and Tournament of Champions, the announcement said.
+公告称，詹宁斯将在 2011 年新赛季开始时担任东道主，并担任第二次机会比赛和冠军赛的东道主。
+Jennings will host as the new season begins in 2011, as well as act as host for the Second Chance competition and Tournament of Champions.
+Jennings 将在 2011 年新赛季开始时担任东道主，并担任 Second Chance 比赛和冠军赛的东道主。
+--TP--
+#80:
+Jennings will host as the new season begins in 2011, as well as act as host for the first Chance competition and Tournament of Champions, the note said.
+通知说，詹宁斯将在 2011 年新赛季开始时担任东道主，并担任第一届 Chance 比赛和冠军锦标赛的东道主。
+Jennings will host as the new season begins in 2011, as well as act as host for the first Chance competition and Tournament of Champions.
+Jennings 将在 2011 年新赛季开始时担任东道主，并担任第一届 Chance 比赛和冠军赛的东道主。
+--FN--
+#81:
+Jennings will host as the new season begins in September, as well as act as host for the Second Chance show and Tournament of Champions, the announcement said.
+公告称，詹宁斯将在 9 月新赛季开始时担任主持人，并担任第二次机会秀和冠军锦标赛的主持人。
+Jennings will host as the new season begins in September, as well as act as host for the Second Chance show and Tournament of Champions.
+Jennings 将在 9 月新赛季开始时担任主持人，并担任 Second Chance 节目和冠军赛的主持人。
+--TP--
+#82:
+Jennings will host as the new season begins in September, as well as act as host for the second Chance competition and Tournament of Champions, the announcement read.
+公告称，詹宁斯将在 9 月新赛季开始时担任东道主，并担任第二次机会比赛和冠军赛的东道主。
+Jennings will host as the new season begins in September, as well as act as host for the second Chance competition and Tournament of Champions.
+Jennings 将在 9 月新赛季开始时担任主持人，并担任第二届 Chance 比赛和冠军赛的主持人。
+--TP--
+#83:
+Jennings will host as the new season begins in September, as well as act as hosts for the Second Chance competition and Tournament.
+Jennings 将在 9 月新赛季开始时担任主持人，并担任 Second Chance 比赛和锦标赛的主持人。
+Jennings will host as the new season begins in September, as well as act as hosts.
+詹宁斯将在 9 月新赛季开始时担任主持人，并担任主持人。
+--TN--
+#84:
+Jennings will host as the new season begins in September, as well as act as hosts for the second Chance competition and Tournament of Champions.
+Jennings 将在 9 月新赛季开始时担任主持人，并担任第二届 Chance 比赛和冠军赛的主持人。
+Jennings will host as the new season begins in September, as well as act as hosts for the second Chance competition and Tournament.
+Jennings 将在 9 月新赛季开始时担任主持人，并担任第二届 Chance 比赛和锦标赛的主持人。
+--FN--
+#85:
+Judge Marco Jesús Juberías argued that Shakira lived more than 200 days in Spain in each of those three years, making her liable to pay taxes in the country.
+Marco Jesús Juberías 法官辩称，夏奇拉在这三年中的每一年都在西班牙生活了 200 多天，这使她有责任在该国纳税。
+Judge Marco Jesús Juberías argued that Shakira lived more than 200 days in Spain in each of those three years, making her liable to pay taxes.
+Marco Jesús Juberías 法官辩称，夏奇拉在这三年中的每一年都在西班牙生活了 200 多天，这使她有义务纳税。
+--TN--
+#86:
+Neither man has revealed what they are working on next and it remains to be seen if the two will reunite professionally or not.
+两人都没有透露他们接下来要做什么，两人是否会在职业上重聚还有待观察。
+Neither man has revealed what they are working on next and it remains to be seen.
+两人都没有透露他们接下来要做什么，还有待观察。
+--TN--
+#87:
+She also honored her uncle in her 2019 speech while accepting a GLAAD award: "He lived his truth.
+在接受 GLAAD 奖的同时，她还在 2019 年的演讲中向她的叔叔致敬：“他活出了自己的真理。
+She also honored her uncle in her 2019 speech He lived his truth.
+她还在 2019 年的演讲中向她的叔叔致敬。他活出了自己的真理。
+--TN--
+#88:
+Sorvino also portrayed gangster Frank Costello on "The Godfather of Harlem," and, no one portrayed a mob guy.
+索维诺还在“哈莱姆教父”中饰演黑帮弗兰克科斯特洛，而且没有人饰演暴徒。
+Sorvino also portrayed gangster Frank Costello on The Godfather of Harlem, "and, no one portrayed a mob guy.
+索维诺还在《哈莱姆教父》中扮演黑帮弗兰克·科斯特洛，“而且，没有人扮演一个暴徒。
+--TN--
+#89:
+Sweeney didn't want to dive too much into that with the publication saying, "I fully trust in the filmmakers that I work, and I 'm always so excited.
+斯威尼不想过多地涉入该出版物，他说：“我完全信任我工作的电影制作人，而且我总是很兴奋。
+Sweeney didn't want to dive too much into that with the publication saying, "I fully trust in the filmmakers I, and I 'm always so excited.
+斯威尼不想过多地涉入该出版物，他说：“我完全信任我的电影制作人，而且我总是很兴奋。
+--TN--
+#90:
+The former employee told CNN that energy carried over to the actors and crew on the show, which operated as and like a family.
+这位前雇员告诉美国有线电视新闻网，节目中的演员和工作人员都精力充沛，就像一个家庭一样运作。
+The former employee told CNN that energy carried over to the actors and crew on the show, which operated as and.
+这位前雇员告诉美国有线电视新闻网，节目中的演员和工作人员都精力充沛，演出的方式是和。
+--TP--
+#91:
+The former employee told CNN that energy carried over to the cast and crew.
+这位前雇员告诉美国有线电视新闻网，能量转移到了演员和工作人员身上。
+The former employee told CNN that energy carried over.
+这位前雇员告诉美国有线电视新闻网，能量结转了。
+--TN--
+#92:
+The former employee told CNN that energy carried over to the staff and crew on the island, which operated smoothly and like a family.
+这位前雇员告诉美国有线电视新闻网，岛上的工作人员和船员都精力充沛，他们运作顺利，就像一家人一样。
+The former employee told CNN that energy carried over to the staff and crew on the island, which operated smoothly and.
+这位前雇员告诉美国有线电视新闻网，能量转移到岛上的工作人员和船员身上，他们运作顺利。
+--TP--
+#93:
+There is history behind Mero's seeming loyalty to Lopez that dates back to well before the show came to be.
+梅罗看似对洛佩兹的忠诚背后有一段历史，可以追溯到演出开始之前。
+There is history behind Mero's seeming loyalty to Lopez that dates back to well.
+梅罗看似对洛佩兹的忠诚背后有一段可以追溯到很久以前的历史。
+--TN--
+#94:
+This Kid Mero dude, man he's funny as f ***,' "Mero recalled of those early years in the clip.
+这个孩子梅罗老兄，他很有趣，'“梅罗回忆起剪辑中的那些早年。
+This Kid Mero dude, man he's funny as f ***,' "Mero recalled of those early years.
+这个梅罗小伙子，他很有趣，’”梅罗回忆起那些早年。
+--FP--
+--4--
+#95:
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can only be considered a golden opportunity.
+那些热爱“黄金女郎”并住在洛杉矶地区的人很快就会拥有一个只能被认为是千载难逢的机会。
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can a golden.
+那些喜欢“黄金女郎”并且住在洛杉矶地区的人很快就会拥有黄金。
+--FN--
+#96:
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the series almost 10 years later.
+有了新版本，漫威电影宇宙推出了一个版本的简·福斯特，她在将近 10 年后首次出现在该系列中。
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years later.
+有了这个新版本，漫威电影宇宙推出了一个版本的简·福斯特，她在将近 10 年后首次出现。
+--TN--
+#97:
+he has to step away.
+他必须走开。
+For Backstreet Boys' AJ McLean he has to step away.
+对于后街男孩的 AJ McLean，他必须离开。
+--TN--
+#98:
+the Colombian singer could stand trial for tax evasion.
+这位哥伦比亚歌手可能会因逃税而受审。
+In July 2021 the Colombian singer could stand trial for tax evasion.
+2021 年 7 月，这位哥伦比亚歌手可能会因逃税受审。
+--TN--
+#99:
+the men the big have gotten back together.
+大佬们又聚在一起了。
+At least the men the big have gotten back together,.
+至少那些大人物已经重新聚在一起了。
+--TN--

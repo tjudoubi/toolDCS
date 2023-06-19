@@ -1,0 +1,24 @@
+#61:
+The company cut deliveries again to just 2 % of the pipeline ' s capacity last week , citing maintenance work .
+上周，该公司以维护工作为由，再次将交付量削减至仅占管道容量的 2%。
+The company cut deliveries again to just 20 % of the pipeline ' s capacity last week , citing maintenance work .
+上周，该公司以维护工作为由，再次将交付量削减至仅占管道容量的 20%。
+LCS-Wdiff:	1.0 
+--FN--
+--same--
+#65:
+" You can interact with the robot deep in the water , " Khatib said , " and this would be amazing because this would simulate the task of doing this on a different planet or different moon .
+“你可以在水中与机器人互动，”Khatib 说，“这将是令人惊奇的，因为这将模拟在不同的星球或不同的月球上执行此操作的任务。
+" They can interact with the robot deep in the water , " Khatib said , " and this would be amazing because this would simulate the task of doing this on a different planet or different moon .
+“他们可以在水深处与机器人互动，”Khatib 说，“这将是令人惊奇的，因为这将模拟在不同的星球或不同的月球上执行此操作的任务。
+LCS-Wdiff:	0.9743589743589743 
+--FN--
+--LCS--
+#84:
+The continent has grappled with supply shortages for months amid an escalating economic dispute between Moscow and Brussels over the war in Ukraine .
+在莫斯科和布鲁塞尔之间因乌克兰战争而不断升级的经济争端中，欧洲大陆数月来一直在努力解决供应短缺问题。
+The continent has grappled with supply shortages for months amid an escalating economic conflict between Moscow and Brussels over the war in Ukraine .
+在莫斯科和布鲁塞尔之间因乌克兰战争而不断升级的经济冲突中，非洲大陆数月来一直在努力解决供应短缺问题。
+LCS-Wdiff:	0.9615384615384616 
+--FN--
+--LCS--

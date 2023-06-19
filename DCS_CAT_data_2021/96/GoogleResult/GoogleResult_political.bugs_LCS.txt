@@ -1,0 +1,1380 @@
+#1.0:
+President Donald Trump participated in head - to - head town halls Thursday night .
+周四晚上，唐纳德特朗普总统参加了面对面的市政厅。
+President Donald Trump met in head - to - head town halls Thursday night .
+周四晚上，唐纳德特朗普总统在市政厅会面。
+
+#2.0:
+President Donald Trump participated in head - to - head town halls Thursday night .
+周四晚上，唐纳德特朗普总统参加了面对面的市政厅。
+President Donald Trump spoke in head - to - head town halls Thursday night .
+周四晚上，唐纳德特朗普总统在市政厅面对面发表讲话。
+
+#10.0:
+The government condemned the move accusing the leaders of sedition for creating a parallel administration .
+政府谴责了指责领导人煽动叛乱的举动，因为他们创建了一个平行的政府。
+The government condemned the move accusing the leaders of sedition for establishing a parallel administration .
+政府谴责此举，指责领导人煽动叛乱，建立平行政府。
+
+#12.0:
+The government condemned the move accusing the leaders of sedition for creating a parallel administration .
+政府谴责了指责领导人煽动叛乱的举动，因为他们创建了一个平行的政府。
+The government condemned the move accusing its leaders of sedition for creating a parallel administration .
+政府谴责此举，指责其领导人煽动叛乱，以建立一个平行的政府。
+
+#13.0:
+The government condemned the move accusing the leaders of sedition for creating a parallel administration .
+政府谴责了指责领导人煽动叛乱的举动，因为他们创建了一个平行的政府。
+The government condemned this move accusing the leaders of sedition for creating a parallel administration .
+政府谴责这一举动，指责领导人煽动叛乱，建立平行政府。
+
+#14.0:
+The government condemned the move accusing the leaders of sedition for creating a parallel administration .
+政府谴责了指责领导人煽动叛乱的举动，因为他们创建了一个平行的政府。
+The government denounced the move accusing the leaders of sedition for creating a parallel administration .
+政府谴责这一举动，指责领导人煽动叛乱，因为他们创建了一个平行的政府。
+
+#18.0:
+According to the education ministry , secondary and primary schools are expected to reopen in November .
+据教育部称，中小学预计将于11月重新开学。
+According to the education ministry , secondary and primary schools are expected to reopen in June .
+据教育部称，预计中小学将于6月重新开学。
+
+#20.0:
+Macron has deployed thousands of soldiers to protect sites such as places of worship and schools .
+马克龙已经部署了数千名士兵来保护礼拜场所和学校等场所。
+Macron has deployed hundreds of soldiers to protect sites such as places of worship and schools .
+马克龙已部署数百名士兵保护礼拜场所和学校等场所。
+
+#21.0:
+Macron has deployed thousands of soldiers to protect sites such as places of worship and schools .
+马克龙已经部署了数千名士兵来保护礼拜场所和学校等场所。
+Macron has deployed thousands of soldiers to protect places such as places of worship and schools .
+马克龙已部署数千名士兵保护礼拜场所和学校等场所。
+
+#24.0:
+Macron has deployed thousands of soldiers to protect sites such as places of worship and schools .
+马克龙已经部署了数千名士兵来保护礼拜场所和学校等场所。
+Macron has deployed thousands of soldiers to protect buildings such as places of worship and schools .
+马克龙已部署数千名士兵保护礼拜场所和学校等建筑物。
+
+#26.0:
+Nearly a dozen women were among the victims for which the Islamic State group has claimed responsibility .
+近十二名妇女是伊斯兰国组织声称对其负责的受害者。
+About a dozen women were among the victims for which the Islamic State group has claimed responsibility .
+伊斯兰国组织声称对其负责的受害者中有大约十几名妇女。
+
+#27.0:
+Nearly a dozen women were among the victims for which the Islamic State group has claimed responsibility .
+近十二名妇女是伊斯兰国组织声称对其负责的受害者。
+Around a dozen women were among the victims for which the Islamic State group has claimed responsibility .
+伊斯兰国组织声称对其负责的受害者中有大约 12 名妇女。
+
+#30.0:
+He expressed appreciation for the organizers of the expo for hosting the event in these challenging times .
+他对世博会组织者在这个充满挑战的时期举办此次盛会表示感谢。
+He showed appreciation for the organizers of the expo for hosting the event in these challenging times .
+他对博览会的组织者在这个充满挑战的时期举办了此次活动表示感谢。
+
+#32.0:
+He expressed appreciation for the organizers of the expo for hosting the event in these challenging times .
+他对世博会组织者在这个充满挑战的时期举办此次盛会表示感谢。
+She expressed appreciation for the organizers of the expo for hosting the event in these challenging times .
+她对世博会组织者在这个充满挑战的时期举办此次活动表示感谢。
+
+#42.0:
+Without the March relief program , the poverty rates would have been higher over the last seven months .
+如果没有三月份的救济计划，过去七个月的贫困率会更高。
+Without the March relief program , the poverty rates would have been higher over the last 12 months .
+如果没有 3 月份的救济计划，过去 12 个月的贫困率会更高。
+
+#43.0:
+Without the March relief program , the poverty rates would have been higher over the last seven months .
+如果没有三月份的救济计划，过去七个月的贫困率会更高。
+Without the March relief program , the poverty rates would have been higher over the last 18 months .
+如果没有 3 月份的救济计划，过去 18 个月的贫困率会更高。
+
+#47.0:
+The kindergartens and primary schools will remain open , while secondary schools will close and introduce distance learning .
+幼儿园和小学将继续开放，而中学将关闭并引入远程学习。
+Most kindergartens and primary schools will remain open , while secondary schools will close and introduce distance learning .
+大多数幼儿园和小学将保持开放，而中学将关闭并引入远程学习。
+
+#50.0:
+Meanwhile , different households will be banned from mixing , although support bubbles and childcare bubbles will remain .
+同时，不同的家庭将被禁止混合，但支持泡沫和育儿泡沫仍将存在。
+Furthermore , different households will be banned from mixing , although support bubbles and childcare bubbles will remain .
+此外，虽然支持泡沫和育儿泡沫仍然存在，但不同的家庭将被禁止混合。
+
+#51.0:
+Meanwhile , different households will be banned from mixing , although support bubbles and childcare bubbles will remain .
+同时，不同的家庭将被禁止混合，但支持泡沫和育儿泡沫仍将存在。
+Also , different households will be banned from mixing , although support bubbles and childcare bubbles will remain .
+此外，虽然支持泡沫和育儿泡沫仍然存在，但不同的家庭将被禁止混合。
+
+#52.0:
+Meanwhile , different households will be banned from mixing , although support bubbles and childcare bubbles will remain .
+同时，不同的家庭将被禁止混合，但支持泡沫和育儿泡沫仍将存在。
+Instead , different households will be banned from mixing , although support bubbles and childcare bubbles will remain .
+取而代之的是，不同的家庭将被禁止混合，尽管支持泡沫和育儿泡沫仍然存在。
+
+#54.0:
+Meanwhile , different households will be banned from mixing , although support bubbles and childcare bubbles will remain .
+同时，不同的家庭将被禁止混合，但支持泡沫和育儿泡沫仍将存在。
+Additionally , different households will be banned from mixing , although support bubbles and childcare bubbles will remain .
+此外，虽然支持泡沫和育儿泡沫仍然存在，但不同的家庭将被禁止混合。
+
+#55.0:
+There is no doubt Jeremy Corbyn ' s supporters will keep objecting loudly to what has happened , and that could get extremely bumpy .
+毫无疑问，Jeremy Corbyn 的支持者会继续大声反对已经发生的事情，而这可能会变得非常颠簸。
+There is no doubt Jeremy Corbyn ' s supporters will keep objecting loudly to what has happened , and that could get very bumpy .
+毫无疑问，Jeremy Corbyn 的支持者将继续大声反对所发生的事情，而这可能会变得非常坎坷。
+
+#57.0:
+There is no doubt Jeremy Corbyn ' s supporters will keep objecting loudly to what has happened , and that could get extremely bumpy .
+毫无疑问，Jeremy Corbyn 的支持者会继续大声反对已经发生的事情，而这可能会变得非常颠簸。
+There is no doubt Jeremy Corbyn ' s supporters will keep objecting loudly to what has happened , and that could get really bumpy .
+毫无疑问，Jeremy Corbyn 的支持者会继续大声反对所发生的事情，而这可能会变得非常坎坷。
+
+#60.0:
+The ministers renewed the discussion of new fiscal rules , which was disrupted by the pandemic early this year .
+部长们重新讨论了新的财政规则，该规则在今年初因大流行而中断。
+Both ministers renewed the discussion of new fiscal rules , which was disrupted by the pandemic early this year .
+两位部长重新讨论了今年年初因疫情而中断的新财政规则。
+
+#62.0:
+The ministers renewed the discussion of new fiscal rules , which was disrupted by the pandemic early this year .
+部长们重新讨论了新的财政规则，该规则在今年初因大流行而中断。
+The ministers continued the discussion of new fiscal rules , which was disrupted by the pandemic early this year .
+部长们继续讨论新的财政规则，该规则在今年年初被大流行打乱。
+
+#63.0:
+The ministers renewed the discussion of new fiscal rules , which was disrupted by the pandemic early this year .
+部长们重新讨论了新的财政规则，该规则在今年初因大流行而中断。
+The ministers renewed the discussion of new fiscal rules , which was disrupted by the pandemic earlier this year .
+部长们重新讨论了今年早些时候因大流行而中断的新财政规则。
+
+#64.0:
+The ministers renewed the discussion of new fiscal rules , which was disrupted by the pandemic early this year .
+部长们重新讨论了新的财政规则，该规则在今年初因大流行而中断。
+Government ministers renewed the discussion of new fiscal rules , which was disrupted by the pandemic early this year .
+政府部长们重新讨论了新的财政规则，该规则在今年年初被大流行打乱了。
+
+#66.0:
+Experts are warning that widespread belief in COVID - 19 conspiracy theories could make vaccination campaigns less effective when treatments become available .
+专家警告说，对 COVID-19 阴谋论的广泛信仰可能会在治疗可用时降低疫苗接种活动的有效性。
+Experts are warning that widespread belief in COVID - 19 conspiracy theories will make vaccination campaigns less effective when treatments become available .
+专家警告说，对 COVID-19 阴谋论的广泛信仰将使疫苗接种运动在治疗可用时效果降低。
+
+#68.0:
+Experts are warning that widespread belief in COVID - 19 conspiracy theories could make vaccination campaigns less effective when treatments become available .
+专家警告说，对 COVID-19 阴谋论的广泛信仰可能会在治疗可用时降低疫苗接种活动的有效性。
+Experts are warning that widespread belief in COVID - 19 conspiracy theories could make vaccination campaigns less effective once treatments become available .
+专家警告说，一旦有了治疗方法，对 COVID-19 阴谋论的广泛信仰可能会降低疫苗接种活动的有效性。
+
+#69.0:
+Experts are warning that widespread belief in COVID - 19 conspiracy theories could make vaccination campaigns less effective when treatments become available .
+专家警告说，对 COVID-19 阴谋论的广泛信仰可能会在治疗可用时降低疫苗接种活动的有效性。
+Experts are warning that public belief in COVID - 19 conspiracy theories could make vaccination campaigns less effective when treatments become available .
+专家警告说，公众对 COVID-19 阴谋论的信仰可能会在治疗可用时降低疫苗接种活动的效果。
+
+#74.0:
+However , rising unemployment and the ongoing challenges mean the outlook .
+然而，失业率上升和持续的挑战意味着前景。
+However , rising unemployment and the ongoing challenges affect the outlook .
+然而，不断上升的失业率和持续的挑战影响着前景。
+
+#79.0:
+The COVID - 19 pandemic has been the primary campaign issue , with Trump defending his administration ' s actions and Biden opposing them .
+COVID-19 大流行一直是主要的竞选议题，特朗普为其政府的行动辩护，而拜登则反对。
+The COVID - 19 pandemic has been the primary campaign issue , with Obama defending his administration ' s actions and Biden opposing them .
+COVID-19 大流行一直是竞选的主要议题，奥巴马为其政府的行动辩护，而拜登则反对。
+
+#80.0:
+The resulting rush of air will drive a turbine to make electricity , which can be sold back to the grid .
+由此产生的气流将驱动涡轮机发电，然后将其卖回电网。
+The resulting rush of air can drive a turbine to make electricity , which can be sold back to the grid .
+由此产生的气流可以驱动涡轮机发电，然后再卖回电网。
+
+#82.0:
+The resulting rush of air will drive a turbine to make electricity , which can be sold back to the grid .
+由此产生的气流将驱动涡轮机发电，然后将其卖回电网。
+The sudden rush of air will drive a turbine to make electricity , which can be sold back to the grid .
+突然涌入的空气将驱动涡轮机发电，然后将其卖回电网。
+
+#83.0:
+The resulting rush of air will drive a turbine to make electricity , which can be sold back to the grid .
+由此产生的气流将驱动涡轮机发电，然后将其卖回电网。
+The resulting rush of air will power a turbine to make electricity , which can be sold back to the grid .
+由此产生的空气冲击将为涡轮机提供动力以产生电力，这些电力可以卖回电网。
+
+#84.0:
+The resulting rush of air will drive a turbine to make electricity , which can be sold back to the grid .
+由此产生的气流将驱动涡轮机发电，然后将其卖回电网。
+The resulting rush of air will drive a turbine and make electricity , which can be sold back to the grid .
+由此产生的气流将驱动涡轮机并产生电力，这些电力可以卖回电网。
+
+#88.0:
+The months ahead will be challenging for everyone , so it is especially important that we discuss and discuss our policies .
+未来几个月对每个人来说都是充满挑战的，因此我们讨论和讨论我们的政策尤为重要。
+The years ahead will be challenging for everyone , so it is especially important that we discuss and discuss our policies .
+未来几年对每个人来说都将充满挑战，因此我们讨论和讨论我们的政策尤为重要。
+
+#90.0:
+Prime Minister of Kyrgyzstan Sadyr Zhaparov on Thursday declared himself acting president of the country after President Sooronbai Jeenbekov resigned hours earlier .
+吉尔吉斯斯坦总理萨德尔扎帕罗夫周四宣布自己为该国代理总统，此前几小时前总统索伦拜热恩别科夫辞职。
+Prime Minister of Kyrgyzstan Sadyr Zhaparov on Thursday declared himself acting president of the country after President Haronbai Jeenbekov resigned hours earlier .
+吉尔吉斯斯坦总理萨迪尔扎帕罗夫周四宣布自己为该国代理总统，此前几小时前总统哈龙拜热恩别科夫辞职。
+
+#91.0:
+Prime Minister of Kyrgyzstan Sadyr Zhaparov on Thursday declared himself acting president of the country after President Sooronbai Jeenbekov resigned hours earlier .
+吉尔吉斯斯坦总理萨德尔扎帕罗夫周四宣布自己为该国代理总统，此前几小时前总统索伦拜热恩别科夫辞职。
+Prime Minister of Kyrgyzstan Sadyr Zhaparov on Thursday declared himself acting president of the country after President Saronbai Jeenbekov resigned hours earlier .
+吉尔吉斯斯坦总理萨德尔·扎帕罗夫周四宣布自己为该国代理总统，此前几小时前总统萨龙拜·热恩别科夫辞职。
+
+#95.0:
+Steven Kennedy , the treasury secretary , used a recent speech to urge the government to lower the threshold for fiscal stimulus .
+财政部长史蒂文·肯尼迪在最近的一次演讲中敦促政府降低财政刺激的门槛。
+Ted Kennedy , the treasury secretary , used a recent speech to urge the government to lower the threshold for fiscal stimulus .
+财政部长特德肯尼迪利用最近的一次讲话敦促政府降低财政刺激的门槛。
+
+#97.0:
+Steven Kennedy , the treasury secretary , used a recent speech to urge the government to lower the threshold for fiscal stimulus .
+财政部长史蒂文·肯尼迪在最近的一次演讲中敦促政府降低财政刺激的门槛。
+Steven Cohen , the treasury secretary , used a recent speech to urge the government to lower the threshold for fiscal stimulus .
+财政部长史蒂文·科恩 (Steven Cohen) 在最近的一次讲话中敦促政府降低财政刺激的门槛。
+
+#99.0:
+Steven Kennedy , the treasury secretary , used a recent speech to urge the government to lower the threshold for fiscal stimulus .
+财政部长史蒂文·肯尼迪在最近的一次演讲中敦促政府降低财政刺激的门槛。
+Robert Kennedy , the treasury secretary , used a recent speech to urge the government to lower the threshold for fiscal stimulus .
+财政部长罗伯特肯尼迪利用最近的一次讲话敦促政府降低财政刺激的门槛。
+
+#101.0:
+At least 22 people , mostly students , were killed and another 27 wounded when three gunmen stormed the university on Monday .
+星期一 三 名 枪手 冲进 大学 时 , 至少 22 人 , 主要 是 学生 , 被 打死 , 另有 27 人 受伤 .
+At least 22 people , mostly students , were killed and another 27 injured when three gunmen stormed the university on Monday .
+星期一 三 名 枪手 冲进 大学 时 , 至少 22 人 被 打死 , 另有 27 人 受伤 .
+
+#103.0:
+At least 22 people , mostly students , were killed and another 27 wounded when three gunmen stormed the university on Monday .
+星期一 三 名 枪手 冲进 大学 时 , 至少 22 人 , 主要 是 学生 , 被 打死 , 另有 27 人 受伤 .
+At least 22 people , mostly students , were killed and another 27 wounded when three gunmen attacked the university on Monday .
+周一 三 名 枪手 袭击 大学 时 , 至少 22 人 被 打死 , 另有 27 人 受伤 .
+
+#111.0:
+Despite the downgrading , the Honduran government on Wednesday declared a national state of emergency due to the passage of the storm .
+尽管降级，洪都拉斯政府周三宣布全国紧急状态由于风暴的过去。
+After the downgrading , the Honduran government on Wednesday declared a national state of emergency due to the passage of the storm .
+降级后，洪都拉斯政府周三因风暴过去宣布全国进入紧急状态。
+
+#113.0:
+Despite the downgrading , the Honduran government on Wednesday declared a national state of emergency due to the passage of the storm .
+尽管降级，洪都拉斯政府周三宣布全国紧急状态由于风暴的过去。
+Following the downgrading , the Honduran government on Wednesday declared a national state of emergency due to the passage of the storm .
+降级后，洪都拉斯政府周三宣布，由于风暴过去，全国进入紧急状态。
+
+#115.0:
+The new law means that the so - called " justifiable assault " defence is no longer available .
+新法意味着所谓的“正当攻击”辩护不再可用。
+This new law means that the so - called " justifiable assault " defence is no longer available .
+这项新法律意味着所谓的“正当攻击”辩护已不复存在。
+
+#116.0:
+The new law means that the so - called " justifiable assault " defence is no longer available .
+新法意味着所谓的“正当攻击”辩护不再可用。
+The new law meant that the so - called " justifiable assault " defence is no longer available .
+新法律意味着不再提供所谓的“正当攻击”辩护。
+
+#118.0:
+The new law means that the so - called " justifiable assault " defence is no longer available .
+新法意味着所谓的“正当攻击”辩护不再可用。
+The new law means that the so - called " justifiable assault " defence is no longer applicable .
+新法意味着所谓的“正当攻击”抗辩不再适用。
+
+#121.0:
+Bars and restaurants are also shut but people can exercise near their homes if they wear masks and hairdressers can remain open .
+酒吧和餐馆也关门了，但人们可以在家附近锻炼，如果他们戴上口罩，理发店可以继续营业。
+Bars and restaurants are also shut but people can exercise near their homes if they wear masks or hairdressers can remain open .
+酒吧和餐馆也关闭了，但人们可以在家附近锻炼，如果他们戴上口罩，或者理发店可以继续营业。
+
+#122.0:
+Bars and restaurants are also shut but people can exercise near their homes if they wear masks and hairdressers can remain open .
+酒吧和餐馆也关门了，但人们可以在家附近锻炼，如果他们戴上口罩，理发店可以继续营业。
+Bars and restaurants are also shut but people can exercise near their homes if they wear masks and hairdressers may remain open .
+酒吧和餐馆也关闭了，但人们可以在家附近锻炼，如果他们戴上口罩，理发店可能会继续营业。
+
+#124.0:
+Bars and restaurants are also shut but people can exercise near their homes if they wear masks and hairdressers can remain open .
+酒吧和餐馆也关门了，但人们可以在家附近锻炼，如果他们戴上口罩，理发店可以继续营业。
+Restaurants and restaurants are also shut but people can exercise near their homes if they wear masks and hairdressers can remain open .
+餐馆和餐馆也关闭了，但人们可以在家附近锻炼，如果他们戴上口罩，理发店可以继续营业。
+
+#126.0:
+The decision resulted in clashes between his supporters and the opposition ahead of the Saturday elections , leading to fatalities and injuries .
+这一决定导致他的支持者和反对派在周六选举前发生冲突，导致人员伤亡。
+His decision resulted in clashes between his supporters and the opposition ahead of the Saturday elections , leading to fatalities and injuries .
+他 的 决定 导致 他 的 支持 者 和 反对 党 在 周六 选举 前 发生 冲突 , 导致 伤亡 .
+
+#128.0:
+The decision resulted in clashes between his supporters and the opposition ahead of the Saturday elections , leading to fatalities and injuries .
+这一决定导致他的支持者和反对派在周六选举前发生冲突，导致人员伤亡。
+The decision resulted in clashes between its supporters and the opposition ahead of the Saturday elections , leading to fatalities and injuries .
+该决定导致其支持者和反对派在周六选举前发生冲突，导致人员伤亡。
+
+#129.0:
+The decision resulted in clashes between his supporters and the opposition ahead of the Saturday elections , leading to fatalities and injuries .
+这一决定导致他的支持者和反对派在周六选举前发生冲突，导致人员伤亡。
+The decision resulted in clashes between the supporters and the opposition ahead of the Saturday elections , leading to fatalities and injuries .
+该决定导致周六选举前支持者和反对派之间发生冲突，导致人员伤亡。
+
+#132.0:
+The Russian authorities are managing to minimize the volatility of the ruble exchange rate and to maintain macroeconomic stability , he said .
+他说，俄罗斯当局正在设法将卢布汇率的波动降到最低，并保持宏观经济稳定。
+The Russian authorities are managing to reduce the volatility of the ruble exchange rate and to maintain macroeconomic stability , he said .
+他说，俄罗斯当局正在设法降低卢布汇率的波动性并保持宏观经济稳定。
+
+#145.0:
+European nations are reintroducing strict measures aimed at limiting the spread of the novel coronavirus after infections and hospitalizations because of COVID - 19 skyrocketed .
+欧洲国家正在重新采取严格措施，旨在限制新型冠状病毒在因 COVID-19 暴涨而感染和住院后的传播。
+European countries are reintroducing strict measures aimed at limiting the spread of the novel coronavirus after infections and hospitalizations because of COVID - 19 skyrocketed .
+欧洲国家正在重新采取严格措施，旨在限制新型冠状病毒在感染和住院后因 COVID-19 飙升而传播。
+
+#146.0:
+European nations are reintroducing strict measures aimed at limiting the spread of the novel coronavirus after infections and hospitalizations because of COVID - 19 skyrocketed .
+欧洲国家正在重新采取严格措施，旨在限制新型冠状病毒在因 COVID-19 暴涨而感染和住院后的传播。
+European governments are reintroducing strict measures aimed at limiting the spread of the novel coronavirus after infections and hospitalizations because of COVID - 19 skyrocketed .
+欧洲各国政府正在重新采取严格措施，旨在限制新型冠状病毒在感染和住院后因 COVID-19 飙升而传播。
+
+#147.0:
+European nations are reintroducing strict measures aimed at limiting the spread of the novel coronavirus after infections and hospitalizations because of COVID - 19 skyrocketed .
+欧洲国家正在重新采取严格措施，旨在限制新型冠状病毒在因 COVID-19 暴涨而感染和住院后的传播。
+European nations are reintroducing strict measures aimed at limiting the spread of the novel coronavirus as infections and hospitalizations because of COVID - 19 skyrocketed .
+随着 COVID-19 导致的感染和住院人数猛增，欧洲国家正在重新采取旨在限制新型冠状病毒传播的严格措施。
+
+#148.0:
+European nations are reintroducing strict measures aimed at limiting the spread of the novel coronavirus after infections and hospitalizations because of COVID - 19 skyrocketed .
+欧洲国家正在重新采取严格措施，旨在限制新型冠状病毒在因 COVID-19 暴涨而感染和住院后的传播。
+European authorities are reintroducing strict measures aimed at limiting the spread of the novel coronavirus after infections and hospitalizations because of COVID - 19 skyrocketed .
+欧洲当局正在重新采取严格措施，旨在限制新型冠状病毒在感染和住院后因 COVID-19 飙升而传播。
+
+#149.0:
+European nations are reintroducing strict measures aimed at limiting the spread of the novel coronavirus after infections and hospitalizations because of COVID - 19 skyrocketed .
+欧洲国家正在重新采取严格措施，旨在限制新型冠状病毒在因 COVID-19 暴涨而感染和住院后的传播。
+Several nations are reintroducing strict measures aimed at limiting the spread of the novel coronavirus after infections and hospitalizations because of COVID - 19 skyrocketed .
+由于 COVID-19 飙升，一些国家正在重新采取严格措施，旨在限制新型冠状病毒在感染和住院治疗后的传播。
+
+#150.0:
+Trump has continued his attacks on mail - in ballots , saying he would deploy lawyers if states are still counting votes after Election day .
+特朗普 继续 他 对 邮寄 选票 的 攻击 , 称 如果 各 州 在 选举 日 后 仍在 计票 , 他 将 派 律师 .
+Trump also continued his attacks on mail - in ballots , saying he would deploy lawyers if states are still counting votes after Election day .
+特朗普还继续抨击邮寄选票，称如果各州在选举日后仍在计票，他将部署律师。
+
+#151.0:
+Trump has continued his attacks on mail - in ballots , saying he would deploy lawyers if states are still counting votes after Election day .
+特朗普 继续 他 对 邮寄 选票 的 攻击 , 称 如果 各 州 在 选举 日 后 仍在 计票 , 他 将 派 律师 .
+Trump then continued his attacks on mail - in ballots , saying he would deploy lawyers if states are still counting votes after Election day .
+特朗普随后继续攻击邮寄选票，称如果各州在选举日后仍在计票，他将部署律师。
+
+#154.0:
+Trump has continued his attacks on mail - in ballots , saying he would deploy lawyers if states are still counting votes after Election day .
+特朗普 继续 他 对 邮寄 选票 的 攻击 , 称 如果 各 州 在 选举 日 后 仍在 计票 , 他 将 派 律师 .
+Trump has continued his attacks on mail - in ballots , saying he would deploy lawyers if states are still counting votes on Election day .
+特朗普 继续 他 对 邮寄 选票 的 攻击 , 称 如果 各 州 仍在 选举 日 计票 , 他 将 派遣 律师 .
+
+#155.0:
+Fiscal policy has always responded to large shocks but there is now a question about whether the threshold for intervention should be lowered .
+财政政策一直是应对大冲击的，但现在是否应该降低干预门槛是个问题。
+Fiscal policy has always responded to large shocks and there is now a question about whether the threshold for intervention should be lowered .
+财政政策向来是应对大冲击的，现在是否应该降低干预门槛是个问题。
+
+#159.0:
+Fiscal policy has always responded to large shocks but there is now a question about whether the threshold for intervention should be lowered .
+财政政策一直是应对大冲击的，但现在是否应该降低干预门槛是个问题。
+Fiscal policy has always responded to large shocks but there is now a controversy about whether the threshold for intervention should be lowered .
+财政政策向来应对大冲击，但现在是否应该降低干预门槛存在争议。
+
+#161.0:
+The cash injection will help with the construction and maintenance costs of St Paul ' s , which is normally a huge tourist attraction .
+现金注入将有助于圣保罗教堂的建设和维护成本，这通常是一个巨大的旅游景点。
+The capital injection will help with the construction and maintenance costs of St Paul ' s , which is normally a huge tourist attraction .
+此次注资将有助于圣保罗教堂的建设和维护成本，而圣保罗教堂通常是一个巨大的旅游胜地。
+
+#165.0:
+Wednesday ' s meeting also adopted conclusions on an action plan against money laundering and terrorist financing presented by the european commission in May .
+周三的会议还通过了欧盟委员会 5 月提出的打击洗钱和恐怖主义融资行动计划的结论。
+Wednesday ' s meeting also adopted conclusions on an action plan against money laundering and terrorist financing adopted by the european commission in May .
+周三的会议还通过了欧盟委员会 5 月通过的一项打击洗钱和恐怖主义融资行动计划的结论。
+
+#166.0:
+Wednesday ' s meeting also adopted conclusions on an action plan against money laundering and terrorist financing presented by the european commission in May .
+周三的会议还通过了欧盟委员会 5 月提出的打击洗钱和恐怖主义融资行动计划的结论。
+Wednesday ' s meeting also adopted conclusions on an action plan against money laundering and terrorist financing drafted by the european commission in May .
+周三的会议还通过了欧盟委员会 5 月起草的一项打击洗钱和恐怖主义融资行动计划的结论。
+
+#177.0:
+Net - zero carbon emissions will be a ginormous turnaround in four decades and has to be done without too much negative impact on economic development .
+净零碳排放将是四年后的巨大转变，必须在不对经济发展造成太大负面影响的情况下实现。
+Near - zero carbon emissions will be a ginormous turnaround in four decades and has to be done without too much negative impact on economic development .
+近零碳排放将是四年后的巨大转变，而且必须在不对经济发展造成太大负面影响的情况下实现。
+
+#178.0:
+Net - zero carbon emissions will be a ginormous turnaround in four decades and has to be done without too much negative impact on economic development .
+净零碳排放将是四年后的巨大转变，必须在不对经济发展造成太大负面影响的情况下实现。
+Non - zero carbon emissions will be a ginormous turnaround in four decades and has to be done without too much negative impact on economic development .
+非零碳排放将是四年后的巨大转变，必须在不对经济发展造成太大负面影响的情况下进行。
+
+#179.0:
+Net - zero carbon emissions will be a ginormous turnaround in four decades and has to be done without too much negative impact on economic development .
+净零碳排放将是四年后的巨大转变，必须在不对经济发展造成太大负面影响的情况下实现。
+Net - zero carbon emissions could be a ginormous turnaround in four decades and has to be done without too much negative impact on economic development .
+净零碳排放可能是四年后的巨大转变，而且必须在不对经济发展造成太大负面影响的情况下实现。
+
+#182.0:
+An inquiry is being launched into the compensation scheme set up for victims of the Windrush scandal .
+正在对为 Windrush 丑闻受害者设立的赔偿计划展开调查。
+An inquiry is being launched into a compensation scheme set up for victims of the Windrush scandal .
+一项针对 Windrush 丑闻受害者的赔偿计划正在展开调查。
+
+#185.0:
+Biden has multiple paths to reach the magic number of 270 needed to win the White House , while Trump ' s prospects are limited .
+拜登有多种途径可以达到赢得白宫所需的270个神奇数字，而特朗普的前景有限。
+Biden has multiple paths to reach the magic number of 270 needed to win the White House , while Kerry ' s prospects are limited .
+拜登有多种途径可以达到赢得白宫所需的神奇数字 270，而克里的前景有限。
+
+#186.0:
+Biden has multiple paths to reach the magic number of 270 needed to win the White House , while Trump ' s prospects are limited .
+拜登有多种途径可以达到赢得白宫所需的270个神奇数字，而特朗普的前景有限。
+Biden has several paths to reach the magic number of 270 needed to win the White House , while Trump ' s prospects are limited .
+拜登有几条途径可以达到赢得白宫所需的 270 的神奇数字，而特朗普的前景有限。
+
+#187.0:
+Biden has multiple paths to reach the magic number of 270 needed to win the White House , while Trump ' s prospects are limited .
+拜登有多种途径可以达到赢得白宫所需的270个神奇数字，而特朗普的前景有限。
+Biden has multiple paths to reach the magic number of 270 needed to win the White House , while Obama ' s prospects are limited .
+拜登有多种途径可以达到赢得白宫所需的 270 人的神奇数字，而奥巴马的前景有限。
+
+#188.0:
+Biden has multiple paths to reach the magic number of 270 needed to win the White House , while Trump ' s prospects are limited .
+拜登有多种途径可以达到赢得白宫所需的270个神奇数字，而特朗普的前景有限。
+Biden takes multiple paths to reach the magic number of 270 needed to win the White House , while Trump ' s prospects are limited .
+拜登采取多种途径来达到赢得白宫所需的 270 人的神奇数字，而特朗普的前景有限。
+
+#190.0:
+The guidelines previously said the virus spreads only through breathing in respiratory droplets , touching contaminated surfaces and common greetings like kisses and hugs .
+之前 的 指导 方针 说 , 病毒 仅 通过 吸入 呼吸道 飞沫 , 接触 受污染 的 表面 以及 亲吻 和 拥抱 等 常见 的 问候 方式 传播 .
+The guidelines previously said the virus spreads only through breathing in respiratory droplets , touching contaminated surfaces or common greetings like kisses and hugs .
+该指南此前曾表示，病毒仅通过呼吸飞沫、接触受污染的表面或亲吻和拥抱等常见问候方式传播。
+
+#191.0:
+The guidelines previously said the virus spreads only through breathing in respiratory droplets , touching contaminated surfaces and common greetings like kisses and hugs .
+之前 的 指导 方针 说 , 病毒 仅 通过 吸入 呼吸道 飞沫 , 接触 受污染 的 表面 以及 亲吻 和 拥抱 等 常见 的 问候 方式 传播 .
+The guidelines previously said the virus spreads only through breathing in respiratory droplets , touching contaminated surfaces and common greetings like kisses or hugs .
+该指南此前曾表示，病毒只能通过呼吸飞沫、接触受污染的表面以及亲吻或拥抱等常见问候方式传播。
+
+#192.0:
+The guidelines previously said the virus spreads only through breathing in respiratory droplets , touching contaminated surfaces and common greetings like kisses and hugs .
+之前 的 指导 方针 说 , 病毒 仅 通过 吸入 呼吸道 飞沫 , 接触 受污染 的 表面 以及 亲吻 和 拥抱 等 常见 的 问候 方式 传播 .
+The guidelines previously said the virus spread only through breathing in respiratory droplets , touching contaminated surfaces and common greetings like kisses and hugs .
+该指南此前曾表示，病毒仅通过呼吸飞沫、接触受污染的表面以及亲吻和拥抱等常见问候方式传播。
+
+#193.0:
+The guidelines previously said the virus spreads only through breathing in respiratory droplets , touching contaminated surfaces and common greetings like kisses and hugs .
+之前 的 指导 方针 说 , 病毒 仅 通过 吸入 呼吸道 飞沫 , 接触 受污染 的 表面 以及 亲吻 和 拥抱 等 常见 的 问候 方式 传播 .
+The guidelines previously said the virus spreads only by breathing in respiratory droplets , touching contaminated surfaces and common greetings like kisses and hugs .
+该指南此前曾表示，病毒只能通过吸入呼吸道飞沫、接触受污染的表面以及亲吻和拥抱等常见问候来传播。
+
+#194.0:
+The guidelines previously said the virus spreads only through breathing in respiratory droplets , touching contaminated surfaces and common greetings like kisses and hugs .
+之前 的 指导 方针 说 , 病毒 仅 通过 吸入 呼吸道 飞沫 , 接触 受污染 的 表面 以及 亲吻 和 拥抱 等 常见 的 问候 方式 传播 .
+The guidelines previously said the virus spreads only through breathing in respiratory droplets , touching contaminated surfaces and common greetings including kisses and hugs .
+该指南此前曾表示，该病毒仅通过吸入呼吸道飞沫、接触受污染的表面以及包括亲吻和拥抱在内的常见问候来传播。
+
+#196.0:
+It is essential that learning is applied to planning for this winter , including what services can be delivered safely .
+必须将学习应用于今年冬天的规划，包括可以安全地提供哪些服务。
+It is essential that learning is applied to planning for this winter , including what services will be delivered safely .
+必须将学习应用于今年冬天的规划，包括将安全提供哪些服务。
+
+#199.0:
+It is essential that learning is applied to planning for this winter , including what services can be delivered safely .
+必须将学习应用于今年冬天的规划，包括可以安全地提供哪些服务。
+It is essential that learning is applied to planning for this winter , including what materials can be delivered safely .
+必须将学习应用于今年冬天的计划，包括可以安全交付哪些材料。
+
+#200.0:
+Then when there is a peak in demand in a day or a month , the liquid air will be warmed so it expands .
+然后当一天或一个月的需求高峰时，液态空气会被加热，从而膨胀。
+Then if there is a peak in demand in a day or a month , the liquid air will be warmed so it expands .
+然后，如果在一天或一个月内出现需求高峰，液态空气就会被加热，从而膨胀。
+
+#201.0:
+Then when there is a peak in demand in a day or a month , the liquid air will be warmed so it expands .
+然后当一天或一个月的需求高峰时，液态空气会被加热，从而膨胀。
+Then when there is a peak in demand in a day or a month , the liquid air can be warmed so it expands .
+然后，当一天或一个月的需求高峰时，液态空气可以被加热，从而膨胀。
+
+#203.0:
+Then when there is a peak in demand in a day or a month , the liquid air will be warmed so it expands .
+然后当一天或一个月的需求高峰时，液态空气会被加热，从而膨胀。
+Then when there is a peak in demand after a day or a month , the liquid air will be warmed so it expands .
+然后当一天或一个月后需求达到高峰时，液态空气会被加热，从而膨胀。
+
+#204.0:
+Then when there is a peak in demand in a day or a month , the liquid air will be warmed so it expands .
+然后当一天或一个月的需求高峰时，液态空气会被加热，从而膨胀。
+Then when there is a peak in demand in a day or a month , the liquid air must be warmed so it expands .
+然后当一天或一个月内的需求达到高峰时，液态空气必须被加热以使其膨胀。
+
+#206.0:
+The figures came as England is set to enter a month - long lockdown from Thursday in a bid to quell the resurgence of the coronavirus .
+这些数据出炉之际，英格兰将从周四开始进入为期一个月的封锁，以遏制冠状病毒的死灰复燃。
+The figures came as England is set to enter a month - long lockdown on Thursday in a bid to quell the resurgence of the coronavirus .
+这些数字是在英格兰将于周四进入为期一个月的封锁以平息冠状病毒的死灰复燃之际发布的。
+
+#215.0:
+Financial services firms entered the pandemic in a position of capital strength and have supported the economy and business to unprecedented levels since March .
+金融服务公司以资本实力进入大流行，自 3 月以来将经济和商业支持到前所未有的水平。
+Financial services firms entered the pandemic from a position of capital strength and have supported the economy and business to unprecedented levels since March .
+金融服务公司从资本实力的位置进入大流行，并自 3 月以来将经济和商业支持到了前所未有的水平。
+
+#216.0:
+Financial services firms entered the pandemic in a position of capital strength and have supported the economy and business to unprecedented levels since March .
+金融服务公司以资本实力进入大流行，自 3 月以来将经济和商业支持到前所未有的水平。
+Financial services firms joined the pandemic in a position of capital strength and have supported the economy and business to unprecedented levels since March .
+自 3 月以来，金融服务公司以资本实力的身份加入了这场大流行病，并将经济和商业支持到了前所未有的水平。
+
+#218.0:
+Financial services firms entered the pandemic in a position of capital strength and have supported the economy and business to unprecedented levels since March .
+金融服务公司以资本实力进入大流行，自 3 月以来将经济和商业支持到前所未有的水平。
+Financial services firms entered the pandemic in a position of capital strength and have supported the economy and business at unprecedented levels since March .
+金融服务公司以资本实力进入大流行，自 3 月以来以前所未有的水平支持经济和商业。
+
+#219.0:
+Financial services firms entered the pandemic in a position of capital strength and have supported the economy and business to unprecedented levels since March .
+金融服务公司以资本实力进入大流行，自 3 月以来将经济和商业支持到前所未有的水平。
+Financial services firms survived the pandemic in a position of capital strength and have supported the economy and business to unprecedented levels since March .
+金融服务公司凭借资本实力在疫情中幸存下来，自 3 月以来将经济和商业支持到了前所未有的水平。
+
+#221.0:
+Search and rescue operations have been going on around the clock in the debris of a total of eight collapsed buildings in the province .
+在全省共有八座倒塌建筑物的残骸中，搜救行动已日以继夜地进行。
+Search and rescue operations have been going on around the clock among the debris of a total of eight collapsed buildings in the province .
+在全省共有八座倒塌建筑物的残骸中，搜救工作一直在昼夜不停地进行。
+
+#222.0:
+Search and rescue operations have been going on around the clock in the debris of a total of eight collapsed buildings in the province .
+在全省共有八座倒塌建筑物的残骸中，搜救行动已日以继夜地进行。
+Search and rescue operations have been going on around the clock in the debris of a total of eight collapsed buildings throughout the province .
+在全省共有八座倒塌建筑物的残骸中，搜救行动一直在昼夜不停地进行。
+
+#224.0:
+Search and rescue operations have been going on around the clock in the debris of a total of eight collapsed buildings in the province .
+在全省共有八座倒塌建筑物的残骸中，搜救行动已日以继夜地进行。
+Search and rescue operations have been going on around the clock amid the debris of a total of eight collapsed buildings in the province .
+在全省共有八座倒塌建筑物的残骸中，搜救行动一直在昼夜不停地进行。
+
+#228.0:
+The Nobel Peace Prize is decided , as Nobel laureate , by the Norwegian Nobel Committee , comprising five members appointed by the Norwegian Parliament .
+诺贝尔和平奖由挪威诺贝尔委员会以诺贝尔奖获得者的身份决定，该委员会由挪威议会任命的五名成员组成。
+The Nobel Peace Prize is decided , as Nobel laureate , by the Norwegian Nobel Committee , comprising nine members appointed by the Norwegian Parliament .
+诺贝尔和平奖由挪威诺贝尔委员会作为诺贝尔奖获得者决定，该委员会由挪威议会任命的九名成员组成。
+
+#229.0:
+The Nobel Peace Prize is decided , as Nobel laureate , by the Norwegian Nobel Committee , comprising five members appointed by the Norwegian Parliament .
+诺贝尔和平奖由挪威诺贝尔委员会以诺贝尔奖获得者的身份决定，该委员会由挪威议会任命的五名成员组成。
+The Nobel Peace Prize is decided , as Nobel laureate , by the Norwegian Nobel Committee , comprising 12 members appointed by the Norwegian Parliament .
+诺贝尔和平奖由挪威诺贝尔委员会以诺贝尔奖获得者身份决定，该委员会由挪威议会任命的 12 名成员组成。
+
+#231.0:
+Many universities in the United Kingdom are chartering flights to help bring thousands of Chinese students to study in the country despite the COVID - 19 pandemic .
+尽管发生了 COVID-19 大流行，英国的许多大学都在包机帮助成千上万的中国学生来英国学习。
+Many airlines in the United Kingdom are chartering flights to help bring thousands of Chinese students to study in the country despite the COVID - 19 pandemic .
+尽管发生了 COVID-19 大流行，英国的许多航空公司都在包机，以帮助成千上万的中国学生在该国学习。
+
+#232.0:
+Many universities in the United Kingdom are chartering flights to help bring thousands of Chinese students to study in the country despite the COVID - 19 pandemic .
+尽管发生了 COVID-19 大流行，英国的许多大学都在包机帮助成千上万的中国学生来英国学习。
+Many universities in the United Kingdom are chartering flights to help bring hundreds of Chinese students to study in the country despite the COVID - 19 pandemic .
+尽管发生了 COVID-19 大流行，英国的许多大学都在包机帮助数百名中国学生到英国学习。
+
+#233.0:
+Many universities in the United Kingdom are chartering flights to help bring thousands of Chinese students to study in the country despite the COVID - 19 pandemic .
+尽管发生了 COVID-19 大流行，英国的许多大学都在包机帮助成千上万的中国学生来英国学习。
+Many companies in the United Kingdom are chartering flights to help bring thousands of Chinese students to study in the country despite the COVID - 19 pandemic .
+尽管发生了 COVID-19 大流行，英国的许多公司仍在包机帮助数千名中国学生到该国学习。
+
+#234.0:
+Many universities in the United Kingdom are chartering flights to help bring thousands of Chinese students to study in the country despite the COVID - 19 pandemic .
+尽管发生了 COVID-19 大流行，英国的许多大学都在包机帮助成千上万的中国学生来英国学习。
+Some universities in the United Kingdom are chartering flights to help bring thousands of Chinese students to study in the country despite the COVID - 19 pandemic .
+尽管发生了 COVID-19 大流行，英国的一些大学仍在包机帮助数千名中国学生到该国学习。
+
+#245.0:
+It urged local authorities to ask drivers to move their vehicles to car parks near disused shops , pubs and restaurants while repairs take place .
+它敦促地方当局在进行维修时要求司机将他们的车辆转移到废弃商店、酒吧和餐馆附近的停车场。
+It urged local authorities to ask drivers to move their vehicles to car parks near disused shops , pubs and restaurants whilst repairs take place .
+它敦促地方当局在维修期间要求司机将他们的车辆转移到废弃商店、酒吧和餐馆附近的停车场。
+
+#246.0:
+It urged local authorities to ask drivers to move their vehicles to car parks near disused shops , pubs and restaurants while repairs take place .
+它敦促地方当局在进行维修时要求司机将他们的车辆转移到废弃商店、酒吧和餐馆附近的停车场。
+It urged local authorities to ask drivers to move their vehicles to car parks near disused shops , pubs and restaurants until repairs take place .
+它敦促地方当局要求司机将他们的车辆转移到废弃商店、酒吧和餐馆附近的停车场，直到进行维修。
+
+#247.0:
+It urged local authorities to ask drivers to move their vehicles to car parks near disused shops , pubs and restaurants while repairs take place .
+它敦促地方当局在进行维修时要求司机将他们的车辆转移到废弃商店、酒吧和餐馆附近的停车场。
+It urged local authorities to ask drivers to move their vehicles into car parks near disused shops , pubs and restaurants while repairs take place .
+它敦促地方当局在维修期间要求司机将他们的车辆开到废弃商店、酒吧和餐馆附近的停车场。
+
+#248.0:
+It urged local authorities to ask drivers to move their vehicles to car parks near disused shops , pubs and restaurants while repairs take place .
+它敦促地方当局在进行维修时要求司机将他们的车辆转移到废弃商店、酒吧和餐馆附近的停车场。
+It urged local authorities to ask drivers to move their vehicles to car parks near disused shops , pubs and restaurants while repairs took place .
+它敦促地方当局在维修期间要求司机将他们的车辆转移到废弃商店、酒吧和餐馆附近的停车场。
+
+#249.0:
+It urged local authorities to ask drivers to move their vehicles to car parks near disused shops , pubs and restaurants while repairs take place .
+它敦促地方当局在进行维修时要求司机将他们的车辆转移到废弃商店、酒吧和餐馆附近的停车场。
+It urged local authorities to ask drivers to move their vehicles to car parks near disused shops , pubs or restaurants while repairs take place .
+它敦促地方当局在维修期间要求司机将他们的车辆转移到废弃商店、酒吧或餐馆附近的停车场。
+
+#255.0:
+A draft report concluded in the summer that Home Secretary Priti Patel had broken rules on ministers ' behaviour , sources familiar with the contents say .
+熟悉内容的消息人士称，一份报告草稿在夏季得出结论称，内政大臣普里蒂帕特尔违反了有关部长行为的规定。
+The draft report concluded in the summer that Home Secretary Priti Patel had broken rules on ministers ' behaviour , sources familiar with the contents say .
+熟悉内容的消息人士称，该报告草案在夏季得出结论，内政大臣普里蒂帕特尔违反了有关部长行为的规定。
+
+#258.0:
+A draft report concluded in the summer that Home Secretary Priti Patel had broken rules on ministers ' behaviour , sources familiar with the contents say .
+熟悉内容的消息人士称，一份报告草稿在夏季得出结论称，内政大臣普里蒂帕特尔违反了有关部长行为的规定。
+A draft report concluded during the summer that Home Secretary Priti Patel had broken rules on ministers ' behaviour , sources familiar with the contents say .
+熟悉内容的消息人士称，一份报告草稿在夏季得出结论称，内政大臣普里蒂帕特尔违反了部长行为规则。
+
+#259.0:
+A draft report concluded in the summer that Home Secretary Priti Patel had broken rules on ministers ' behaviour , sources familiar with the contents say .
+熟悉内容的消息人士称，一份报告草稿在夏季得出结论称，内政大臣普里蒂帕特尔违反了有关部长行为的规定。
+A BBC report concluded in the summer that Home Secretary Priti Patel had broken rules on ministers ' behaviour , sources familiar with the contents say .
+熟悉内容的消息人士称，英国广播公司 (BBC) 的一份报告在夏季得出结论称，内政大臣普里蒂·帕特尔 (Priti Patel) 违反了有关部长行为的规定。
+
+#260.0:
+Boris Johnson has defended how Covid statistics are being used after data shown in a presentation to justify the lockdown in England had to be revised .
+鲍里斯·约翰逊（Boris Johnson）为在演示文稿中显示的数据必须修改后如何使用 Covid 统计数据进行辩护，以证明英格兰的封锁是合理的。
+Boris Johnson has defended how Covid statistics are being used after data shown in a presentation to justify the lockdown in England needed to be revised .
+鲍里斯·约翰逊（Boris Johnson）在演示文稿中显示的数据证明英格兰的封锁需要修改后，为如何使用 Covid 统计数据进行了辩护。
+
+#262.0:
+Boris Johnson has defended how Covid statistics are being used after data shown in a presentation to justify the lockdown in England had to be revised .
+鲍里斯·约翰逊（Boris Johnson）为在演示文稿中显示的数据必须修改后如何使用 Covid 统计数据进行辩护，以证明英格兰的封锁是合理的。
+Boris Johnson has defended how Evid statistics are being used after data shown in a presentation to justify the lockdown in England had to be revised .
+鲍里斯·约翰逊（Boris Johnson）捍卫了在演示文稿中显示的数据必须修改后如何使用 Evid 统计数据来证明英格兰的封锁是合理的。
+
+#265.0:
+He again made no public appearances on Thursday , skipping the first coronavirus task force briefing at the White House in more than six months .
+周四，他再次没有公开露面，跳过了六个多月以来在白宫举行的第一次冠状病毒特别工作组简报会。
+He again made no public appearances on Thursday , skipping the first coronavirus task force briefing at the White House in more than four months .
+周四，他再次没有公开露面，跳过了四个多月以来在白宫举行的首次冠状病毒特别工作组简报会。
+
+#266.0:
+He again made no public appearances on Thursday , skipping the first coronavirus task force briefing at the White House in more than six months .
+周四，他再次没有公开露面，跳过了六个多月以来在白宫举行的第一次冠状病毒特别工作组简报会。
+He again made no public appearances on Thursday , skipping the first coronavirus task force briefing at the White House in more than five months .
+周四，他再次没有公开露面，跳过了五个多月以来在白宫举行的首次冠状病毒特别工作组简报会。
+
+#267.0:
+He again made no public appearances on Thursday , skipping the first coronavirus task force briefing at the White House in more than six months .
+周四，他再次没有公开露面，跳过了六个多月以来在白宫举行的第一次冠状病毒特别工作组简报会。
+He again made no public appearances on Thursday , skipping the first coronavirus task force briefing at the White House in more than three months .
+周四，他再次没有公开露面，跳过了三个多月以来在白宫举行的首次冠状病毒特别工作组简报会。
+
+#268.0:
+He again made no public appearances on Thursday , skipping the first coronavirus task force briefing at the White House in more than six months .
+周四，他再次没有公开露面，跳过了六个多月以来在白宫举行的第一次冠状病毒特别工作组简报会。
+He again made no public appearances on Wednesday , skipping the first coronavirus task force briefing at the White House in more than six months .
+周三，他再次没有公开露面，跳过了六个多月以来在白宫举行的首次冠状病毒特别工作组简报会。
+
+#275.0:
+A Chinese citizen , who worked at the same company , was injured in the attack and is now in stable condition , the embassy said .
+使馆说，一名在同一家公司工作的中国公民在袭击中受伤，目前情况稳定。
+A Chinese citizen , who worked at the same company , was injured in the attack but is now in stable condition , the embassy said .
+大使馆说，一名在同一家公司工作的中国公民在袭击中受伤，但目前情况稳定。
+
+#277.0:
+A Chinese citizen , who worked at the same company , was injured in the attack and is now in stable condition , the embassy said .
+使馆说，一名在同一家公司工作的中国公民在袭击中受伤，目前情况稳定。
+A Turkish citizen , who worked at the same company , was injured in the attack and is now in stable condition , the embassy said .
+大使馆说，一名在同一家公司工作的土耳其公民在袭击中受伤，目前情况稳定。
+
+#278.0:
+A Chinese citizen , who worked at the same company , was injured in the attack and is now in stable condition , the embassy said .
+使馆说，一名在同一家公司工作的中国公民在袭击中受伤，目前情况稳定。
+A French citizen , who worked at the same company , was injured in the attack and is now in stable condition , the embassy said .
+大使馆说，一名在同一家公司工作的法国公民在袭击中受伤，目前情况稳定。
+
+#279.0:
+A Chinese citizen , who worked at the same company , was injured in the attack and is now in stable condition , the embassy said .
+使馆说，一名在同一家公司工作的中国公民在袭击中受伤，目前情况稳定。
+A Syrian citizen , who worked at the same company , was injured in the attack and is now in stable condition , the embassy said .
+大使馆说，一名在同一家公司工作的叙利亚公民在袭击中受伤，目前情况稳定。
+
+#282.0:
+He also warned that a second lockdown could present new challenges to public spending plans , adding that the spending review is going to get hard .
+他还警告说，第二次封锁可能会给公共支出计划带来新的挑战，并补充说支出审查将变得艰难。
+He also warned that a second lockdown will present new challenges to public spending plans , adding that the spending review is going to get hard .
+他还警告说，第二次封锁将对公共支出计划提出新的挑战，并补充说支出审查将变得艰难。
+
+#283.0:
+He also warned that a second lockdown could present new challenges to public spending plans , adding that the spending review is going to get hard .
+他还警告说，第二次封锁可能会给公共支出计划带来新的挑战，并补充说支出审查将变得艰难。
+He also warned that a second lockdown would present new challenges to public spending plans , adding that the spending review is going to get hard .
+他还警告说，第二次封锁将对公共支出计划提出新的挑战，并补充说支出审查将变得艰难。
+
+#285.0:
+During the meeting , the two presidents also discussed the issue of illegal immigration and the solutions that must be reached together to address the issue .
+会见期间，两国元首还讨论了非法移民问题以及解决该问题必须共同达成的解决方案。
+During their meeting , the two presidents also discussed the issue of illegal immigration and the solutions that must be reached together to address the issue .
+在会晤中，两国元首还讨论了非法移民问题以及为解决该问题必须共同达成的解决方案。
+
+#286.0:
+During the meeting , the two presidents also discussed the issue of illegal immigration and the solutions that must be reached together to address the issue .
+会见期间，两国元首还讨论了非法移民问题以及解决该问题必须共同达成的解决方案。
+During this meeting , the two presidents also discussed the issue of illegal immigration and the solutions that must be reached together to address the issue .
+在这次会晤中，两国元首还讨论了非法移民问题以及为解决这一问题必须共同达成的解决方案。
+
+#289.0:
+During the meeting , the two presidents also discussed the issue of illegal immigration and the solutions that must be reached together to address the issue .
+会见期间，两国元首还讨论了非法移民问题以及解决该问题必须共同达成的解决方案。
+During the meeting , the two presidents also discussed the issue of illegal immigration and the solutions that must be reached together to address that issue .
+会见期间，两国总统还讨论了非法移民问题以及为解决该问题必须共同达成的解决方案。
+
+#295.0:
+He said the move would allow the government to boost the economy whenever it is flagging rather than just after a large shock such as the pandemic .
+他说，此举将使政府能够在经济衰退时提振经济，而不是在大流行等大冲击之后。
+He believed the move would allow the government to boost the economy whenever it is flagging rather than just after a large shock such as the pandemic .
+他相信此举将使政府能够在经济萎靡不振时提振经济，而不是在大流行等大冲击之后。
+
+#298.0:
+He said the move would allow the government to boost the economy whenever it is flagging rather than just after a large shock such as the pandemic .
+他说，此举将使政府能够在经济衰退时提振经济，而不是在大流行等大冲击之后。
+She said the move would allow the government to boost the economy whenever it is flagging rather than just after a large shock such as the pandemic .
+她说，此举将使政府能够在经济萎靡不振时提振经济，而不是在大流行等大冲击之后。
+
+#303.0:
+A railway line used in Prince Charles ' investiture at Caernarfon in 1969 should be considered for reopening , a Member of the Senedd has said .
+Senedd 的一名成员表示，1969 年查尔斯王子在卡那封授职时使用的一条铁路线应考虑重新开放。
+A railway line used in Prince Charles ' investiture at Caernarfon in 1969 could be considered for reopening , a Member of the Senedd has said .
+Senedd 的一名成员表示，1969 年查尔斯王子在卡那封授职时使用的铁路线可以考虑重新开放。
+
+#304.0:
+A railway line used in Prince Charles ' investiture at Caernarfon in 1969 should be considered for reopening , a Member of the Senedd has said .
+Senedd 的一名成员表示，1969 年查尔斯王子在卡那封授职时使用的一条铁路线应考虑重新开放。
+A railway line used in Prince Charles ' investiture at Caernarfon in 1969 would be considered for reopening , a Member of the Senedd has said .
+Senedd 的一名成员表示，1969 年查尔斯王子在卡那封的授职仪式中使用的一条铁路线将被考虑重新开放。
+
+#311.0:
+The report was put out by the African Union Development Agency and the African Development Bank after a study into the establishment of a continental electricity grid .
+该报告是非洲联盟开发署和非洲开发银行在研究建立大陆电网后发表的。
+The report was put out by the African Union Development Agency and the African Development Bank as a study into the establishment of a continental electricity grid .
+该报告由非洲联盟开发署和非洲开发银行发布，作为对建立大陆电网的研究。
+
+#312.0:
+The report was put out by the African Union Development Agency and the African Development Bank after a study into the establishment of a continental electricity grid .
+该报告是非洲联盟开发署和非洲开发银行在研究建立大陆电网后发表的。
+The report was put out by the African Union Development Agency and the African Development Bank after a study into the establishment of a continental electrical grid .
+该报告由非洲联盟开发署和非洲开发银行在研究建立大陆电网后发表。
+
+#313.0:
+The report was put out by the African Union Development Agency and the African Development Bank after a study into the establishment of a continental electricity grid .
+该报告是非洲联盟开发署和非洲开发银行在研究建立大陆电网后发表的。
+The report was put out by the African Union Development Agency and the African Development Bank after a study into the construction of a continental electricity grid .
+该报告是非洲联盟开发署和非洲开发银行在对大陆电网建设进行研究后发表的。
+
+#315.0:
+The Chinese embassy urged Chinese residents , students and employees in local Chinese enterprises to abide by Austrian police rules and stay at home to protect their safety .
+中国大使馆敦促中国居民、学生和在当地中资企业的员工遵守奥地利警方的规定，待在家里保护自己的安全。
+The Austrian embassy urged Chinese residents , students and employees in local Chinese enterprises to abide by Austrian police rules and stay at home to protect their safety .
+奥地利大使馆敦促中国居民、学生和当地中资企业员工遵守奥地利警方规定，待在家里保护自己的安全。
+
+#317.0:
+The Chinese embassy urged Chinese residents , students and employees in local Chinese enterprises to abide by Austrian police rules and stay at home to protect their safety .
+中国大使馆敦促中国居民、学生和在当地中资企业的员工遵守奥地利警方的规定，待在家里保护自己的安全。
+The Chinese embassy urged local residents , students and employees in local Chinese enterprises to abide by Austrian police rules and stay at home to protect their safety .
+中国大使馆敦促当地居民、学生和当地中资企业员工遵守奥地利警方规定，待在家里保护自己的安全。
+
+#319.0:
+The Chinese embassy urged Chinese residents , students and employees in local Chinese enterprises to abide by Austrian police rules and stay at home to protect their safety .
+中国大使馆敦促中国居民、学生和在当地中资企业的员工遵守奥地利警方的规定，待在家里保护自己的安全。
+The Chinese embassy urged Chinese residents , students and workers in local Chinese enterprises to abide by Austrian police rules and stay at home to protect their safety .
+中国大使馆敦促中国居民、学生和在当地中国企业工作的工人遵守奥地利警方的规定，待在家里保护自己的安全。
+
+#329.0:
+Chinese photographers enjoyed more international success as the winners of the 56th Wildlife Photographer of the Year awards were announced at the Natural History Museum in London on Tuesday .
+周二，在伦敦自然历史博物馆宣布了第 56 届年度野生动物摄影师奖的获奖者，中国摄影师在国际上取得了更大的成功。
+Chinese photographers enjoyed more international success as the winners of the 44th Wildlife Photographer of the Year awards were announced at the Natural History Museum in London on Tuesday .
+随着第 44 届年度野生动物摄影师奖的获奖者于周二在伦敦自然历史博物馆揭晓，中国摄影师在国际上取得了更大的成功。
+
+#331.0:
+This is a credit to the hard work of our county and local elections officials who moved quickly to undertake and complete such a momentous task in a short period of time .
+这要归功于我县和地方选举干部的辛勤工作，他们迅速行动，在短时间内承担并完成了如此重大的任务。
+It is a credit to the hard work of our county and local elections officials who moved quickly to undertake and complete such a momentous task in a short period of time .
+能在短时间内承担并完成如此重大的任务，是我县和地方选举官员辛勤工作的功劳。
+
+#333.0:
+This is a credit to the hard work of our county and local elections officials who moved quickly to undertake and complete such a momentous task in a short period of time .
+这要归功于我县和地方选举干部的辛勤工作，他们迅速行动，在短时间内承担并完成了如此重大的任务。
+This is a credit to the hard work of our county and local elections officials who worked quickly to undertake and complete such a momentous task in a short period of time .
+这要归功于我县和地方选举工作人员的辛勤工作，他们在短时间内迅速承担并完成了如此重大的任务。
+
+#336.0:
+US president Donald Trump ' s youngest son Barron Trump had COVID - 19 with no symptoms and now tests negative , first lady Melania Trump posted a family health update on Wednesday .
+美国总统唐纳德特朗普的小儿子巴伦特朗普感染了 COVID-19，没有任何症状，现在检测呈阴性，第一夫人梅拉尼娅特朗普周三发布了家庭健康最新消息。
+US president Donald Trump ' s oldest son Barron Trump had COVID - 19 with no symptoms and now tests negative , first lady Melania Trump posted a family health update on Wednesday .
+美国 总统 唐纳德 特朗普 的 长子 巴伦 特朗普 感染 了 COVID-19 , 没有任何症状 , 现在 检测 呈 阴性 , 第一 夫人 梅拉尼娅 特朗普 周三 发布 了 家庭 健康 最新 消息 .
+
+#337.0:
+US president Donald Trump ' s youngest son Barron Trump had COVID - 19 with no symptoms and now tests negative , first lady Melania Trump posted a family health update on Wednesday .
+美国总统唐纳德特朗普的小儿子巴伦特朗普感染了 COVID-19，没有任何症状，现在检测呈阴性，第一夫人梅拉尼娅特朗普周三发布了家庭健康最新消息。
+US president Donald Trump ' s youngest son Barron Trump received COVID - 19 with no symptoms and now tests negative , first lady Melania Trump posted a family health update on Wednesday .
+美国总统唐纳德特朗普的小儿子巴伦特朗普在没有任何症状的情况下感染了 COVID-19，现在检测结果为阴性，第一夫人梅拉尼娅特朗普周三发布了家庭健康更新。
+
+#338.0:
+US president Donald Trump ' s youngest son Barron Trump had COVID - 19 with no symptoms and now tests negative , first lady Melania Trump posted a family health update on Wednesday .
+美国总统唐纳德特朗普的小儿子巴伦特朗普感染了 COVID-19，没有任何症状，现在检测呈阴性，第一夫人梅拉尼娅特朗普周三发布了家庭健康最新消息。
+US president Donald Trump ' s eldest son Barron Trump had COVID - 19 with no symptoms and now tests negative , first lady Melania Trump posted a family health update on Wednesday .
+美国 总统 唐纳德 特朗普 的 长子 巴伦 特朗普 感染 了 COVID-19 , 没有任何症状 , 现在 检测 呈 阴性 , 第一 夫人 梅拉尼娅 特朗普 周三 发布 了 家庭 健康 最新 消息 .
+
+#339.0:
+US president Donald Trump ' s youngest son Barron Trump had COVID - 19 with no symptoms and now tests negative , first lady Melania Trump posted a family health update on Wednesday .
+美国总统唐纳德特朗普的小儿子巴伦特朗普感染了 COVID-19，没有任何症状，现在检测呈阴性，第一夫人梅拉尼娅特朗普周三发布了家庭健康最新消息。
+US president Donald Trump ' s youngest son Barron Trump has COVID - 19 with no symptoms and now tests negative , first lady Melania Trump posted a family health update on Wednesday .
+美国 总统 唐纳德 特朗普 的 小儿子 巴伦 特朗普 感染 了 COVID-19 且 没有 任何 症状 , 现在 检测 呈 阴性 , 第一 夫人 梅拉尼娅 特朗普 周三 发布 了 家庭 健康 最新 消息 .
+
+#340.0:
+In a statement on Friday morning , the Trump campaign said they believe this election is not over , arguing that results in some battleground states are far from final .
+在周五上午的一份声明中，特朗普竞选团队表示，他们相信这次选举还没有结束，认为一些战场州的结果远未最终确定。
+In a statement on Friday morning , the Trump campaign stated they believe this election is not over , arguing that results in some battleground states are far from final .
+在周五早上的一份声明中，特朗普竞选团队表示他们相信这次选举还没有结束，他们认为一些战场州的结果还远未最终确定。
+
+#345.0:
+Experts predict road use will decline again this time around but , with schools and universities staying open , the effect is not expected to be as dramatic as before .
+专家预测，这一次道路使用量将再次下降，但随着学校和大学继续开放，预计影响不会像以前那样显着。
+Experts predict road use will decline again this time around but , with schools and universities staying open , this effect is not expected to be as dramatic as before .
+专家预测，这一次道路使用率将再次下降，但随着学校和大学继续开放，预计这种影响不会像以前那样剧烈。
+
+#346.0:
+Experts predict road use will decline again this time around but , with schools and universities staying open , the effect is not expected to be as dramatic as before .
+专家预测，这一次道路使用量将再次下降，但随着学校和大学继续开放，预计影响不会像以前那样显着。
+Experts predict road use will decline again this time around but , with hospitals and universities staying open , the effect is not expected to be as dramatic as before .
+专家预测，这一次道路使用率将再次下降，但随着医院和大学继续开放，预计影响不会像以前那样显着。
+
+#347.0:
+Experts predict road use will decline again this time around but , with schools and universities staying open , the effect is not expected to be as dramatic as before .
+专家预测，这一次道路使用量将再次下降，但随着学校和大学继续开放，预计影响不会像以前那样显着。
+Experts predict road use will decline again this time around but , with airports and universities staying open , the effect is not expected to be as dramatic as before .
+专家预测，这一次道路使用量将再次下降，但由于机场和大学保持开放，预计影响不会像以前那样显着。
+
+#349.0:
+Experts predict road use will decline again this time around but , with schools and universities staying open , the effect is not expected to be as dramatic as before .
+专家预测，这一次道路使用量将再次下降，但随着学校和大学继续开放，预计影响不会像以前那样显着。
+Experts predict road use will decline again this time around but , with colleges and universities staying open , the effect is not expected to be as dramatic as before .
+专家预测，这一次道路使用率将再次下降，但随着高校继续开放，预计影响不会像以前那样显着。
+
+#350.0:
+Emanuel has expressed his interest in the post , telling allies that the nation ' s infrastructure challenges are so dire that a person with experience from the executive and legislative branch would be an asset .
+伊曼纽尔已经表达了他对这个职位的兴趣，他告诉盟友，国家的基础设施挑战是如此可怕，一个有行政和立法部门经验的人将是一笔财富。
+Emanuel publicly expressed his interest in the post , telling allies that the nation ' s infrastructure challenges are so dire that a person with experience from the executive and legislative branch would be an asset .
+伊曼纽尔公开表达了他对这个职位的兴趣，并告诉盟友国家的基础设施挑战如此严峻，一个有行政和立法部门经验的人将是一笔财富。
+
+#351.0:
+Emanuel has expressed his interest in the post , telling allies that the nation ' s infrastructure challenges are so dire that a person with experience from the executive and legislative branch would be an asset .
+伊曼纽尔已经表达了他对这个职位的兴趣，他告诉盟友，国家的基础设施挑战是如此可怕，一个有行政和立法部门经验的人将是一笔财富。
+Emanuel has expressed his interest in the post , telling allies that the nation ' s infrastructure challenges are so dire that a person with experience from the executive and legislative branch could be an asset .
+伊曼纽尔已经表达了他对这个职位的兴趣，并告诉盟友国家的基础设施挑战如此严峻，一个在行政和立法部门有经验的人可能是一笔财富。
+
+#353.0:
+Emanuel has expressed his interest in the post , telling allies that the nation ' s infrastructure challenges are so dire that a person with experience from the executive and legislative branch would be an asset .
+伊曼纽尔已经表达了他对这个职位的兴趣，他告诉盟友，国家的基础设施挑战是如此可怕，一个有行政和立法部门经验的人将是一笔财富。
+Emanuel had expressed his interest in the post , telling allies that the nation ' s infrastructure challenges are so dire that a person with experience from the executive and legislative branch would be an asset .
+伊曼纽尔已经表达了他对这个职位的兴趣，并告诉盟友国家的基础设施挑战如此严峻，一个有行政和立法部门经验的人将是一笔财富。
+
+#355.0:
+Models of our scientists suggest that unless we act now , we could see deaths over the winter that are twice as bad or more compared with the first wave .
+我们科学家的模型表明，除非我们现在采取行动，否则我们可能会看到冬季的死亡人数是第一波的两倍或更多。
+Models from our scientists suggest that unless we act now , we could see deaths over the winter that are twice as bad or more compared with the first wave .
+我们科学家的模型表明，除非我们现在采取行动，否则与第一波相比，我们可能会看到冬季的死亡人数是第一波的两倍或更多。
+
+#356.0:
+Models of our scientists suggest that unless we act now , we could see deaths over the winter that are twice as bad or more compared with the first wave .
+我们科学家的模型表明，除非我们现在采取行动，否则我们可能会看到冬季的死亡人数是第一波的两倍或更多。
+Models by our scientists suggest that unless we act now , we could see deaths over the winter that are twice as bad or more compared with the first wave .
+我们的科学家的模型表明，除非我们现在采取行动，否则与第一波相比，我们可能会看到冬季的死亡人数是第一波的两倍或更多。
+
+#357.0:
+Models of our scientists suggest that unless we act now , we could see deaths over the winter that are twice as bad or more compared with the first wave .
+我们科学家的模型表明，除非我们现在采取行动，否则我们可能会看到冬季的死亡人数是第一波的两倍或更多。
+Some of our scientists suggest that unless we act now , we could see deaths over the winter that are twice as bad or more compared with the first wave .
+我们的一些科学家建议，除非我们现在就采取行动，否则与第一波相比，我们可能会看到冬季的死亡人数是第一波的两倍或更多。
+
+#358.0:
+Models of our scientists suggest that unless we act now , we could see deaths over the winter that are twice as bad or more compared with the first wave .
+我们科学家的模型表明，除非我们现在采取行动，否则我们可能会看到冬季的死亡人数是第一波的两倍或更多。
+Many of our scientists suggest that unless we act now , we could see deaths over the winter that are twice as bad or more compared with the first wave .
+我们的许多科学家建议，除非我们现在就采取行动，否则与第一波相比，我们可能会看到冬季的死亡人数是第一波的两倍或更多。
+
+#364.0:
+President Trump said he feels good after testing positive for Covid - 19 weeks ago and could n ' t recall whether he was tested on the day of the first presidential debate .
+特朗普 总统 说 19 周 前 新冠病毒 检测 呈 阳性 后 他 感觉 很好 , 不记得 他 是否 在 第一次 总统 辩论 当天 接受 了 检测 .
+President Trump said he feels good after testing positive for Covid - 19 weeks ago and could n ' t recall whether he was tested on the day of the second presidential debate .
+特朗普总统说，在 19 周前的新冠病毒检测呈阳性后，他感觉很好，并且不记得他是否在第二次总统辩论当天接受了检测。
+
+#371.0:
+AI is considered a combination of technologies that enable machines to adopt humanlike intelligence to sense and comprehend their environments , and consequently take appropriate actions to fulfill a particular task .
+人工智能被认为是一种技术组合，使机器能够采用类似人类的智能来感知和理解其环境，从而采取适当的行动来完成特定的任务。
+AI is considered a combination of technologies that allow machines to adopt humanlike intelligence to sense and comprehend their environments , and consequently take appropriate actions to fulfill a particular task .
+人工智能被认为是允许机器采用类似人类的智能来感知和理解其环境并因此采取适当行动来完成特定任务的技术组合。
+
+#375.0:
+But while both sides said a deal needed to be done in October , they have yet to come to an agreement , and talks between the negotiating teams have intensified .
+但是，虽然双方都表示需要在 10 月份达成协议，但他们尚未达成协议，谈判团队之间的谈判已经愈演愈烈。
+But although both sides said a deal needed to be done in October , they have yet to come to an agreement , and talks between the negotiating teams have intensified .
+但尽管双方都表示需要在 10 月份达成协议，但尚未达成协议，谈判团队之间的谈判已经加剧。
+
+#376.0:
+But while both sides said a deal needed to be done in October , they have yet to come to an agreement , and talks between the negotiating teams have intensified .
+但是，虽然双方都表示需要在 10 月份达成协议，但他们尚未达成协议，谈判团队之间的谈判已经愈演愈烈。
+But though both sides said a deal needed to be done in October , they have yet to come to an agreement , and talks between the negotiating teams have intensified .
+但尽管双方都表示需要在 10 月份达成协议，但他们尚未达成协议，谈判团队之间的谈判已经加剧。
+
+#377.0:
+But while both sides said a deal needed to be done in October , they have yet to come to an agreement , and talks between the negotiating teams have intensified .
+但是，虽然双方都表示需要在 10 月份达成协议，但他们尚未达成协议，谈判团队之间的谈判已经愈演愈烈。
+So while both sides said a deal needed to be done in October , they have yet to come to an agreement , and talks between the negotiating teams have intensified .
+因此，虽然双方都表示需要在 10 月份达成协议，但他们尚未达成协议，谈判团队之间的谈判已经加剧。
+
+#378.0:
+But while both sides said a deal needed to be done in October , they have yet to come to an agreement , and talks between the negotiating teams have intensified .
+但是，虽然双方都表示需要在 10 月份达成协议，但他们尚未达成协议，谈判团队之间的谈判已经愈演愈烈。
+And while both sides said a deal needed to be done in October , they have yet to come to an agreement , and talks between the negotiating teams have intensified .
+虽然双方都表示需要在 10 月份达成协议，但他们尚未达成协议，谈判团队之间的谈判已经加强。
+
+#379.0:
+But while both sides said a deal needed to be done in October , they have yet to come to an agreement , and talks between the negotiating teams have intensified .
+但是，虽然双方都表示需要在 10 月份达成协议，但他们尚未达成协议，谈判团队之间的谈判已经愈演愈烈。
+But while both sides believed a deal needed to be done in October , they have yet to come to an agreement , and talks between the negotiating teams have intensified .
+但是，虽然双方都认为需要在 10 月份达成协议，但他们尚未达成协议，谈判团队之间的谈判已经加强。
+
+#380.0:
+Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a continent - wide market .
+非洲改善其能源部门和将更多家庭和企业连接到电力供应的计划正在加速，随着一份报告的发布，该报告设想了一个覆盖整个大陆的市场。
+Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the publication of a report that envisages a continent - wide market .
+非洲改善其能源部门和将更多家庭和企业连接到电力供应的计划正在加速，随着一份设想整个大陆市场的报告的出版。
+
+#383.0:
+Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a continent - wide market .
+非洲改善其能源部门和将更多家庭和企业连接到电力供应的计划正在加速，随着一份报告的发布，该报告设想了一个覆盖整个大陆的市场。
+Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gaining steam with the release of a report that envisages a continent - wide market .
+非洲改善其能源部门和将更多家庭和企业连接到电力供应的计划正在获得动力，随着一份设想整个大陆市场的报告的发布。
+
+#384.0:
+Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a continent - wide market .
+非洲改善其能源部门和将更多家庭和企业连接到电力供应的计划正在加速，随着一份报告的发布，该报告设想了一个覆盖整个大陆的市场。
+Plans for Africa to improve its electricity sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a continent - wide market .
+非洲改善其电力部门和将更多家庭和企业连接到电力供应的计划正在加速，随着一份设想整个大陆市场的报告的发布。
+
+#385.0:
+The lockdown , which began on Thursday , calls for non - essential shops to close , people to work from home if possible , and most sporting and leisure facilities to be mothballed .
+封锁 于 周四 开始 , 要求 关闭 非 必要 的 商店 , 人们 尽可能 在家 工作 , 大多数 体育 和 休闲 设施 被 封存 .
+The shutdown , which began on Thursday , calls for non - essential shops to close , people to work from home if possible , and most sporting and leisure facilities to be mothballed .
+周四开始的关闭要求关闭非必需品商店，尽可能让人们在家工作，并封存大多数体育和休闲设施。
+
+#389.0:
+The lockdown , which began on Thursday , calls for non - essential shops to close , people to work from home if possible , and most sporting and leisure facilities to be mothballed .
+封锁 于 周四 开始 , 要求 关闭 非 必要 的 商店 , 人们 尽可能 在家 工作 , 大多数 体育 和 休闲 设施 被 封存 .
+The lockdown , which began on Thursday , calls for non - essential shops to close , people to work from home if possible , and all sporting and leisure facilities to be mothballed .
+封锁 于 周四 开始 , 要求 关闭 非 必要 的 商店 , 如果 可能 , 人们 在家 工作 , 并 封存 所有 体育 和 休闲 设施 .
+
+#390.0:
+Trump is listening to his friends , this source said , but hurriedly ends conversations because he disagrees .
+这位消息人士说，特朗普正在听他的朋友们说话，但因为他不同意而匆忙结束谈话。
+Trump likes listening to his friends , this source said , but hurriedly ends conversations because he disagrees .
+这位消息人士说，特朗普喜欢听他的朋友的话，但因为不同意而匆忙结束谈话。
+
+#391.0:
+Trump is listening to his friends , this source said , but hurriedly ends conversations because he disagrees .
+这位消息人士说，特朗普正在听他的朋友们说话，但因为他不同意而匆忙结束谈话。
+Trump loves listening to his friends , this source said , but hurriedly ends conversations because he disagrees .
+这位消息人士称，特朗普喜欢听他的朋友们说，但因为不同意而匆忙结束谈话。
+
+#392.0:
+Trump is listening to his friends , this source said , but hurriedly ends conversations because he disagrees .
+这位消息人士说，特朗普正在听他的朋友们说话，但因为他不同意而匆忙结束谈话。
+Trump enjoys listening to his friends , this source said , but hurriedly ends conversations because he disagrees .
+这位消息人士说，特朗普喜欢听他的朋友们说话，但因为不同意而匆忙结束谈话。
+
+#393.0:
+Trump is listening to his friends , this source said , but hurriedly ends conversations because he disagrees .
+这位消息人士说，特朗普正在听他的朋友们说话，但因为他不同意而匆忙结束谈话。
+Trump is listening to his friends , this source said , but hurriedly ends conversations when he disagrees .
+这位消息人士说，特朗普正在听他的朋友们说，但当他不同意时，他匆忙结束了谈话。
+
+#394.0:
+Trump is listening to his friends , this source said , but hurriedly ends conversations because he disagrees .
+这位消息人士说，特朗普正在听他的朋友们说话，但因为他不同意而匆忙结束谈话。
+Trump is listening to his friends , this source said , but hurriedly ends conversations if he disagrees .
+这位消息人士称，特朗普正在倾听他的朋友们的意见，但如果他不同意，他会匆忙结束谈话。
+
+#395.0:
+New Zealand ' s election will hardly change the main course of the country ' s relationship with China despite some challenging moments during the year , analysts said ahead of the poll on Saturday .
+分析人士在周六的民意调查前表示，尽管在这一年中出现了一些充满挑战的时刻，但新西兰的选举几乎不会改变新西兰与中国关系的主线。
+New Zealand ' s election will hardly change the main course of the country ' s relationship with China after some challenging moments during the year , analysts said ahead of the poll on Saturday .
+分析人士在周六的民意调查前表示，在经历了一年中的一些充满挑战的时刻之后，新西兰的选举几乎不会改变该国与中国关系的主线。
+
+#396.0:
+New Zealand ' s election will hardly change the main course of the country ' s relationship with China despite some challenging moments during the year , analysts said ahead of the poll on Saturday .
+分析人士在周六的民意调查前表示，尽管在这一年中出现了一些充满挑战的时刻，但新西兰的选举几乎不会改变新西兰与中国关系的主线。
+New Zealand ' s election will hardly change the main course of the country ' s relationship with China following some challenging moments during the year , analysts said ahead of the poll on Saturday .
+分析人士在周六的民意调查前表示，在经历了一年中的一些充满挑战的时刻之后，新西兰的选举几乎不会改变该国与中国关系的主线。
+
+#400.0:
+Greg Abbott ' s order limiting ballot drop boxes to one per county , injecting more uncertainty into the battle over mail - in voting in the state .
+Greg Abbott 的命令将投票箱限制为每个县一个，为该州邮寄投票的斗争注入了更多的不确定性。
+Greg Abbott ' s order limiting ballot drop boxes to one per county , injecting more uncertainty into the battle over mail - only voting in the state .
+格雷格·雅培 (Greg Abbott) 的命令将投票箱限制在每个县一个，这给该州关于邮寄投票的斗争注入了更多的不确定性。
+
+#401.0:
+Greg Abbott ' s order limiting ballot drop boxes to one per county , injecting more uncertainty into the battle over mail - in voting in the state .
+Greg Abbott 的命令将投票箱限制为每个县一个，为该州邮寄投票的斗争注入了更多的不确定性。
+Greg Abbott ' s order limiting voter drop boxes to one per county , injecting more uncertainty into the battle over mail - in voting in the state .
+Greg Abbott 的命令将选民投递箱限制在每个县一个，这给该州邮寄投票的斗争注入了更多不确定性。
+
+#402.0:
+Greg Abbott ' s order limiting ballot drop boxes to one per county , injecting more uncertainty into the battle over mail - in voting in the state .
+Greg Abbott 的命令将投票箱限制为每个县一个，为该州邮寄投票的斗争注入了更多的不确定性。
+Greg Abbott ' s order limiting ballot drop boxes to one per county , injecting more uncertainty into the battle over mail - in voting across the state .
+格雷格·阿博特 (Greg Abbott) 的命令将投票箱限制为每个县一个，为全州邮寄投票的斗争注入了更多不确定性。
+
+#403.0:
+Greg Abbott ' s order limiting ballot drop boxes to one per county , injecting more uncertainty into the battle over mail - in voting in the state .
+Greg Abbott 的命令将投票箱限制为每个县一个，为该州邮寄投票的斗争注入了更多的不确定性。
+Greg Abbott ' s order limiting ballot drop boxes to two per county , injecting more uncertainty into the battle over mail - in voting in the state .
+格雷格·雅培 (Greg Abbott) 的命令将每个县的投票箱限制为两个，这为该州邮寄投票的斗争注入了更多的不确定性。
+
+#404.0:
+Greg Abbott ' s order limiting ballot drop boxes to one per county , injecting more uncertainty into the battle over mail - in voting in the state .
+Greg Abbott 的命令将投票箱限制为每个县一个，为该州邮寄投票的斗争注入了更多的不确定性。
+Greg Abbott ' s order limiting ballot drop boxes to three per county , injecting more uncertainty into the battle over mail - in voting in the state .
+Greg Abbott 的命令将每个县的投票箱限制在三个，这给该州邮寄投票的斗争注入了更多的不确定性。
+
+#406.0:
+Trump extended the invitation on Thursday morning to the Michigan lawmakers by calling the state senate ' s Republican majority leader , the person familiar said .
+这位 知情 人士 说 , 周四 上午 , 特朗普 通过 致电 州 参议院 的 共和党 多数 党 领袖 , 向 密歇根 立法者 发出 了 邀请 .
+Trump extended the invitation on Thursday morning to the Michigan lawmakers by calling the state senate ' s Democratic majority leader , the person familiar said .
+这位 知情 人士 说 , 周四 上午 , 特朗普 致电 密歇根 州 参议院 的 民主党 多数 党 领袖 , 向 密歇根 州 议员 发出 了 邀请 .
+
+#407.0:
+Trump extended the invitation on Thursday morning to the Michigan lawmakers by calling the state senate ' s Republican majority leader , the person familiar said .
+这位 知情 人士 说 , 周四 上午 , 特朗普 通过 致电 州 参议院 的 共和党 多数 党 领袖 , 向 密歇根 立法者 发出 了 邀请 .
+Trump extended the invitation on Friday morning to the Michigan lawmakers by calling the state senate ' s Republican majority leader , the person familiar said .
+这位 知情 人士 说 , 周五 上午 , 特朗普 致电 州 参议院 的 共和党 多数 党 领袖 , 向 密歇根 州 的 议员 发出 了 邀请 .
+
+#408.0:
+Trump extended the invitation on Thursday morning to the Michigan lawmakers by calling the state senate ' s Republican majority leader , the person familiar said .
+这位 知情 人士 说 , 周四 上午 , 特朗普 通过 致电 州 参议院 的 共和党 多数 党 领袖 , 向 密歇根 立法者 发出 了 邀请 .
+Trump extended the invitation on Thursday morning to the Michigan lawmakers by calling the state senate ' s Republican minority leader , the person familiar said .
+知情人士说，特朗普周四上午致电密歇根州参议院共和党少数党领袖，向密歇根州议员发出邀请。
+
+#411.0:
+Democratic presidential candidate Joe Biden attacked President Donald Trump ' s handling of the coronavirus pandemic on Thursday , as the two candidates held dueling televised town halls after their second planned debate was canceled .
+周四，民主党总统候选人乔·拜登抨击了唐纳德·特朗普总统对冠状病毒大流行的处理，这两位候选人在计划中的第二次辩论被取消后，在电视转播的市政厅举行了决斗。
+Republican presidential candidate Joe Biden attacked President Donald Trump ' s handling of the coronavirus pandemic on Thursday , as the two candidates held dueling televised town halls after their second planned debate was canceled .
+周四 , 共和党 总统 候选人 乔拜登 抨击 唐纳德 特朗普 总统 对 冠状病毒 大流行 的 处理 , 因为 这 两位 候选人 在 第二 次 原定 的 辩论 被 取消 后 在 电视 转播 的 市政厅 举行 了 决斗 .
+
+#412.0:
+Democratic presidential candidate Joe Biden attacked President Donald Trump ' s handling of the coronavirus pandemic on Thursday , as the two candidates held dueling televised town halls after their second planned debate was canceled .
+周四，民主党总统候选人乔·拜登抨击了唐纳德·特朗普总统对冠状病毒大流行的处理，这两位候选人在计划中的第二次辩论被取消后，在电视转播的市政厅举行了决斗。
+Democratic presidential candidate Joe Biden attacked President Donald Trump ' s handling of the coronavirus pandemic on Thursday , as the two candidates began dueling televised town halls after their second planned debate was canceled .
+周四，民主党总统候选人乔·拜登抨击了唐纳德·特朗普总统对冠状病毒大流行的处理，因为在他们的第二次计划辩论被取消后，两位候选人开始在电视转播的市政厅进行决斗。
+
+#413.0:
+Democratic presidential candidate Joe Biden attacked President Donald Trump ' s handling of the coronavirus pandemic on Thursday , as the two candidates held dueling televised town halls after their second planned debate was canceled .
+周四，民主党总统候选人乔·拜登抨击了唐纳德·特朗普总统对冠状病毒大流行的处理，这两位候选人在计划中的第二次辩论被取消后，在电视转播的市政厅举行了决斗。
+Democratic presidential candidate Joe Biden attacked President Donald Trump ' s handling of the coronavirus pandemic on Thursday , as the two candidates were dueling televised town halls after their second planned debate was canceled .
+周四，民主党总统候选人乔拜登抨击了唐纳德特朗普总统对冠状病毒大流行的处理，因为在他们的第二次计划辩论被取消后，两位候选人正在电视转播的市政厅进行决斗。
+
+#414.0:
+Democratic presidential candidate Joe Biden attacked President Donald Trump ' s handling of the coronavirus pandemic on Thursday , as the two candidates held dueling televised town halls after their second planned debate was canceled .
+周四，民主党总统候选人乔·拜登抨击了唐纳德·特朗普总统对冠状病毒大流行的处理，这两位候选人在计划中的第二次辩论被取消后，在电视转播的市政厅举行了决斗。
+Democratic presidential candidate Joe Biden criticized President Donald Trump ' s handling of the coronavirus pandemic on Thursday , as the two candidates held dueling televised town halls after their second planned debate was canceled .
+周四 , 民主党 总统 候选人 乔 拜登 批评 了 唐纳德 特朗普 总统 对 冠状病毒 大流行 的 处理 , 因为 这 两位 候选人 在 他们 的 第二 场 辩论 被 取消 后 在 电视 转播 的 市政厅 举行 了 决斗 .
+
+#415.0:
+Even as hopes of reaching survivors began to fade , rescuers pulled a young girl out alive from the rubble of a collapsed apartment building on Tuesday , four days after the strong earthquake .
+周二，在强烈地震发生四天后，救援人员从一栋倒塌的公寓楼的废墟中救出一名年轻女孩。
+Even as hopes of reaching survivors began to fade , rescuers pulled a young girl out alive from the rubble of a collapsed apartment building on Tuesday , five days after the strong earthquake .
+周二，在强烈地震发生五天后，救援人员将一名年轻女孩从倒塌的公寓楼的废墟中救出。
+
+#416.0:
+Even as hopes of reaching survivors began to fade , rescuers pulled a young girl out alive from the rubble of a collapsed apartment building on Tuesday , four days after the strong earthquake .
+周二，在强烈地震发生四天后，救援人员从一栋倒塌的公寓楼的废墟中救出一名年轻女孩。
+Even as hopes of reaching survivors began to fade , rescuers pulled a young girl out alive from the rubble of a collapsed apartment building on Tuesday , three days after the strong earthquake .
+就在救治幸存者的希望开始消退之际，救援人员在强震三天后的周二，从一栋倒塌的公寓楼的废墟中救出一名年轻女孩。
+
+#417.0:
+Even as hopes of reaching survivors began to fade , rescuers pulled a young girl out alive from the rubble of a collapsed apartment building on Tuesday , four days after the strong earthquake .
+周二，在强烈地震发生四天后，救援人员从一栋倒塌的公寓楼的废墟中救出一名年轻女孩。
+But as hopes of reaching survivors began to fade , rescuers pulled a young girl out alive from the rubble of a collapsed apartment building on Tuesday , four days after the strong earthquake .
+但随着救援幸存者的希望开始消退，救援人员在强震发生四天后的周二，从一栋倒塌的公寓楼的废墟中救出一名年轻女孩。
+
+#418.0:
+Even as hopes of reaching survivors began to fade , rescuers pulled a young girl out alive from the rubble of a collapsed apartment building on Tuesday , four days after the strong earthquake .
+周二，在强烈地震发生四天后，救援人员从一栋倒塌的公寓楼的废墟中救出一名年轻女孩。
+Even as hopes of reaching survivors began to fade , rescuers pulled a young girl out alive from the rubble of a collapsed apartment building that Tuesday , four days after the strong earthquake .
+即使救助幸存者的希望开始消退，救援人员在强震发生四天后的那个星期二，从一栋倒塌的公寓楼的废墟中救出一名年轻女孩。
+
+#419.0:
+Even as hopes of reaching survivors began to fade , rescuers pulled a young girl out alive from the rubble of a collapsed apartment building on Tuesday , four days after the strong earthquake .
+周二，在强烈地震发生四天后，救援人员从一栋倒塌的公寓楼的废墟中救出一名年轻女孩。
+Even as hopes of reaching survivors started to fade , rescuers pulled a young girl out alive from the rubble of a collapsed apartment building on Tuesday , four days after the strong earthquake .
+周二，在强烈地震发生四天后，救援人员从一栋倒塌的公寓楼的废墟中救出一名年轻女孩，尽管救援的希望开始消退。
+
+#421.0:
+It is taking shape under a collaboration with the university of Southern California ' s Shoah Foundation , which uses technology to not only digitally archive survivors ' narratives but also allow narrators to interact online with visitors .
+它是在与南加州大学浩劫基金会的合作下形成的，该基金会利用技术不仅对幸存者的叙述进行数字存档，而且还允许叙述者与游客进行在线互动。
+It is taking shape under a collaboration with the university of Southern California ' s Shoah Foundation , which uses technology to not only digitally archive survivors ' narratives but also enable narrators to interact online with visitors .
+它是在与南加州大学浩劫基金会的合作下形成的，该基金会利用技术不仅对幸存者的叙述进行数字存档，而且使叙述者能够与访问者进行在线互动。
+
+#423.0:
+It is taking shape under a collaboration with the university of Southern California ' s Shoah Foundation , which uses technology to not only digitally archive survivors ' narratives but also allow narrators to interact online with visitors .
+它是在与南加州大学浩劫基金会的合作下形成的，该基金会利用技术不仅对幸存者的叙述进行数字存档，而且还允许叙述者与游客进行在线互动。
+It is taking shape under a collaboration with the university of Southern California ' s Shoah Foundation , which uses technology to not only digitally archive survivors ' narratives but also enables narrators to interact online with visitors .
+它是在与南加州大学浩劫基金会的合作下形成的，该基金会使用技术不仅对幸存者的叙述进行数字存档，而且使叙述者能够与访问者进行在线互动。
+
+#426.0:
+The vote had been initiated by the populist right - wing swiss people ' s party , known as the SVP , which claimed current regulations would lead to overpopulation , rising housing prices and a strained welfare system .
+投票是由民粹主义右翼瑞士人民党发起的，该党称为 SVP，声称现行法规将导致人口过剩、房价上涨和福利制度紧张。
+The vote had been initiated by the populist right - wing swiss people ' s party , known as the SVP , which argued current regulations would lead to overpopulation , rising housing prices and a strained welfare system .
+投票是由民粹主义右翼瑞士人民党发起的，该党被称为 SVP，认为现行法规将导致人口过剩、房价上涨和福利制度紧张。
+
+#427.0:
+The vote had been initiated by the populist right - wing swiss people ' s party , known as the SVP , which claimed current regulations would lead to overpopulation , rising housing prices and a strained welfare system .
+投票是由民粹主义右翼瑞士人民党发起的，该党称为 SVP，声称现行法规将导致人口过剩、房价上涨和福利制度紧张。
+The vote had been initiated by the populist left - wing swiss people ' s party , known as the SVP , which claimed current regulations would lead to overpopulation , rising housing prices and a strained welfare system .
+投票是由民粹主义左翼瑞士人民党发起的，该党被称为 SVP，声称现行法规将导致人口过剩、房价上涨和福利制度紧张。
+
+#429.0:
+The vote had been initiated by the populist right - wing swiss people ' s party , known as the SVP , which claimed current regulations would lead to overpopulation , rising housing prices and a strained welfare system .
+投票是由民粹主义右翼瑞士人民党发起的，该党称为 SVP，声称现行法规将导致人口过剩、房价上涨和福利制度紧张。
+The campaign had been initiated by the populist right - wing swiss people ' s party , known as the SVP , which claimed current regulations would lead to overpopulation , rising housing prices and a strained welfare system .
+这场运动是由民粹主义右翼瑞士人民党发起的，该党被称为 SVP，声称现行法规将导致人口过剩、房价上涨和福利制度紧张。
+
+#434.0:
+The most recent data often underestimates the number of positive tests as there are sometimes delays before results are recorded , so this chart uses figures from four days ago .
+最近的数据往往低估了阳性检测的数量，因为有时在记录结果之前会有延迟，所以这个图表使用了四天前的数据。
+The most recent data often underestimates the number of positive tests and there are sometimes delays before results are recorded , so this chart uses figures from four days ago .
+最近的数据往往低估了阳性检测的数量，有时在结果记录之前会有延迟，所以这张图表使用了四天前的数据。
+
+#438.0:
+A tougher three - tiered system of local restrictions will come into force in England when the lockdown ends on 2 December , Downing Street has said .
+唐宁街表示，当封锁于 12 月 2 日结束时，更严格的三层地方限制系统将在英格兰生效。
+A tougher three - tiered system of local restrictions will come into force in England after the lockdown ends on 2 December , Downing Street has said .
+唐宁街 说 , 12 月 2 日 封锁 结束 后 , 一个 更 严格 的 三层 地方 限制 系统 将 在 英格兰 生效 .
+
+#439.0:
+A tougher three - tiered system of local restrictions will come into force in England when the lockdown ends on 2 December , Downing Street has said .
+唐宁街表示，当封锁于 12 月 2 日结束时，更严格的三层地方限制系统将在英格兰生效。
+A tougher three - tiered system of local restrictions will come into force in England once the lockdown ends on 2 December , Downing Street has said .
+唐宁街表示，一旦封锁于 12 月 2 日结束，英国将实施更严格的三层地方限制系统。
+
+#440.0:
+People arriving in England will be soon able to reduce their quarantine period by more than half if they pay for a Covid test after five days , the transport secretary has announced .
+交通大臣宣布，如果抵达英格兰的人在五天后支付 Covid 测试费用，他们很快就能将隔离期缩短一半以上。
+People living in England will be soon able to reduce their quarantine period by more than half if they pay for a Covid test after five days , the transport secretary has announced .
+交通大臣宣布，如果居住在英格兰的人们在五天后支付新冠病毒检测费用，他们很快就能将隔离期缩短一半以上。
+
+#442.0:
+People arriving in England will be soon able to reduce their quarantine period by more than half if they pay for a Covid test after five days , the transport secretary has announced .
+交通大臣宣布，如果抵达英格兰的人在五天后支付 Covid 测试费用，他们很快就能将隔离期缩短一半以上。
+People working in England will be soon able to reduce their quarantine period by more than half if they pay for a Covid test after five days , the transport secretary has announced .
+交通大臣宣布，如果在英国工作的人在五天后支付新冠病毒检测费用，他们很快就能将隔离期缩短一半以上。
+
+#444.0:
+People arriving in England will be soon able to reduce their quarantine period by more than half if they pay for a Covid test after five days , the transport secretary has announced .
+交通大臣宣布，如果抵达英格兰的人在五天后支付 Covid 测试费用，他们很快就能将隔离期缩短一半以上。
+People arriving in England will be soon able to reduce their quarantine period by more than half if they pay for a Covid test within five days , the transport secretary has announced .
+交通大臣宣布，如果抵达英格兰的人在五天内支付新冠病毒检测费用，他们很快就能将隔离期缩短一半以上。
+
+#445.0:
+They had logged on to the government website to request one , but were told that because their names and addresses could not be checked , they would have to go to a physical test site instead .
+他们曾登录政府网站申请，但被告知由于无法查询他们的姓名和地址，他们将不得不前往物理测试站点。
+They initially logged on to the government website to request one , but were told that because their names and addresses could not be checked , they would have to go to a physical test site instead .
+他们最初登录政府网站申请，但被告知由于无法检查他们的姓名和地址，他们将不得不去物理测试站点。
+
+#446.0:
+They had logged on to the government website to request one , but were told that because their names and addresses could not be checked , they would have to go to a physical test site instead .
+他们曾登录政府网站申请，但被告知由于无法查询他们的姓名和地址，他们将不得不前往物理测试站点。
+They then logged on to the government website to request one , but were told that because their names and addresses could not be checked , they would have to go to a physical test site instead .
+然后他们登录政府网站申请，但被告知由于无法检查他们的姓名和地址，他们将不得不去物理测试站点。
+
+#447.0:
+They had logged on to the government website to request one , but were told that because their names and addresses could not be checked , they would have to go to a physical test site instead .
+他们曾登录政府网站申请，但被告知由于无法查询他们的姓名和地址，他们将不得不前往物理测试站点。
+They had logged on to the government website to request one , but were told that because their names and addresses would not be checked , they would have to go to a physical test site instead .
+他们曾登录政府网站申请，但被告知，因为他们的姓名和地址不会被检查，他们将不得不去物理测试站点。
+
+#449.0:
+They had logged on to the government website to request one , but were told that because their names and addresses could not be checked , they would have to go to a physical test site instead .
+他们曾登录政府网站申请，但被告知由于无法查询他们的姓名和地址，他们将不得不前往物理测试站点。
+They had logged on to the government website to request one , but were told that since their names and addresses could not be checked , they would have to go to a physical test site instead .
+他们曾登录政府网站申请，但被告知由于无法核对他们的姓名和地址，他们必须前往物理测试站点。
+
+#450.0:
+Although there have been reports of animals being infected with the virus , such as mink in farms in the Netherlands , Paavilainen said dogs are not susceptible because they lack the receptor to which the virus attaches .
+尽管有动物感染病毒的报道，例如荷兰农场的水貂，但帕维莱宁说，狗不易感染，因为它们缺乏病毒附着的受体。
+Though there have been reports of animals being infected with the virus , such as mink in farms in the Netherlands , Paavilainen said dogs are not susceptible because they lack the receptor to which the virus attaches .
+尽管有报告称荷兰农场的貂皮等动物感染了这种病毒，但帕维莱宁说，狗不易感染，因为它们缺乏病毒附着的受体。
+
+#452.0:
+Although there have been reports of animals being infected with the virus , such as mink in farms in the Netherlands , Paavilainen said dogs are not susceptible because they lack the receptor to which the virus attaches .
+尽管有动物感染病毒的报道，例如荷兰农场的水貂，但帕维莱宁说，狗不易感染，因为它们缺乏病毒附着的受体。
+Although there have been reports of animals being infected with the virus , such as mink in farms in the Netherlands , Haavilainen said dogs are not susceptible because they lack the receptor to which the virus attaches .
+尽管已经有动物感染病毒的报道，例如荷兰农场的貂皮，但哈维莱宁说，狗不易感染，因为它们缺乏病毒附着的受体。
+
+#453.0:
+Although there have been reports of animals being infected with the virus , such as mink in farms in the Netherlands , Paavilainen said dogs are not susceptible because they lack the receptor to which the virus attaches .
+尽管有动物感染病毒的报道，例如荷兰农场的水貂，但帕维莱宁说，狗不易感染，因为它们缺乏病毒附着的受体。
+Although there have been reports of animals being infected with the virus , such as mink in farms in the Netherlands , Javilainen said dogs are not susceptible because they lack the receptor to which the virus attaches .
+尽管有动物感染病毒的报告，例如荷兰农场的貂，但贾维莱宁说，狗不易感染，因为它们缺乏病毒附着的受体。
+
+#454.0:
+Although there have been reports of animals being infected with the virus , such as mink in farms in the Netherlands , Paavilainen said dogs are not susceptible because they lack the receptor to which the virus attaches .
+尽管有动物感染病毒的报道，例如荷兰农场的水貂，但帕维莱宁说，狗不易感染，因为它们缺乏病毒附着的受体。
+Although there have been reports of animals being infected with the virus , such as mink in farms in the Netherlands , Paavilainen said dogs were not susceptible because they lack the receptor to which the virus attaches .
+尽管有报道称动物感染了这种病毒，例如荷兰农场的水貂，但帕维莱宁说，狗不易感染，因为它们缺乏病毒附着的受体。
+
+#455.0:
+More areas are set to be placed into the higher tiers in England after lockdown .
+封锁后，英格兰将有更多区域被置于较高层级。
+More clubs are set to be placed into the higher tiers in England after lockdown .
+封锁后，更多的俱乐部将被安排到英格兰的更高级别。
+
+#456.0:
+More areas are set to be placed into the higher tiers in England after lockdown .
+封锁后，英格兰将有更多区域被置于较高层级。
+More teams are set to be placed into the higher tiers in England after lockdown .
+锁定后，更多的球队将被安排到英格兰的更高级别。
+
+#457.0:
+More areas are set to be placed into the higher tiers in England after lockdown .
+封锁后，英格兰将有更多区域被置于较高层级。
+Some areas are set to be placed into the higher tiers in England after lockdown .
+封锁后，一些地区将被置于英格兰的较高层级。
+
+#458.0:
+More areas are set to be placed into the higher tiers in England after lockdown .
+封锁后，英格兰将有更多区域被置于较高层级。
+More players are set to be placed into the higher tiers in England after lockdown .
+更多球员将在锁定后进入英格兰的更高级别。
+
+#459.0:
+More areas are set to be placed into the higher tiers in England after lockdown .
+封锁后，英格兰将有更多区域被置于较高层级。
+More areas are set to be placed into the higher tiers in England during lockdown .
+在封锁期间，更多地区将被置于英格兰的较高层级。
+
+#466.0:
+A prominent ally of Donald Trump has urged him to drop his efforts to overturn his loss to Joe Biden in the US presidential election .
+唐纳德 特朗普 的 一位 著名 盟友 敦促 他 放弃 努力 扭转 他 在 美国 总统 选举 中 输给 乔 拜登 的 失败 .
+A close ally of Donald Trump has urged him to drop his efforts to overturn his loss to Joe Biden in the US presidential election .
+唐纳德 特朗普 的 一位 亲密 盟友 敦促 他 放弃 在 美国 总统 选举 中 扭转 输给 乔 拜登 的 努力 .
+
+#467.0:
+A prominent ally of Donald Trump has urged him to drop his efforts to overturn his loss to Joe Biden in the US presidential election .
+唐纳德 特朗普 的 一位 著名 盟友 敦促 他 放弃 努力 扭转 他 在 美国 总统 选举 中 输给 乔 拜登 的 失败 .
+A prominent ally of Donald Trump has urged him to drop his efforts to overturn his defeat to Joe Biden in the US presidential election .
+唐纳德 特朗普 的 一位 着名 盟友 敦促 他 放弃 在 美国 总统 选举 中 推翻 对 乔 拜登 的 失败 的 努力 .
+
+#470.0:
+Gyms and non - essential shops in all areas are expected to be allowed to reopen when England ' s lockdown ends .
+当英格兰的封锁结束时，所有地区的健身房和非必需品商店都将被允许重新开放。
+Gyms and non - essential shops in all areas are expected to be allowed to reopen after England ' s lockdown ends .
+在英格兰的封锁结束后，预计所有地区的健身房和非必需品商店都将被允许重新营业。
+
+#471.0:
+Gyms and non - essential shops in all areas are expected to be allowed to reopen when England ' s lockdown ends .
+当英格兰的封锁结束时，所有地区的健身房和非必需品商店都将被允许重新开放。
+Gyms and non - essential shops in all areas are expected to be allowed to reopen once England ' s lockdown ends .
+一旦英格兰的封锁结束，预计所有地区的健身房和非必需品商店都将被允许重新营业。
+
+#472.0:
+Gyms and non - essential shops in all areas are expected to be allowed to reopen when England ' s lockdown ends .
+当英格兰的封锁结束时，所有地区的健身房和非必需品商店都将被允许重新开放。
+Grills and non - essential shops in all areas are expected to be allowed to reopen when England ' s lockdown ends .
+当英格兰的封锁结束时，预计所有地区的烧烤店和非必需品商店都将被允许重新营业。
+
+#473.0:
+Gyms and non - essential shops in all areas are expected to be allowed to reopen when England ' s lockdown ends .
+当英格兰的封锁结束时，所有地区的健身房和非必需品商店都将被允许重新开放。
+Gyms and non - essential shops in all areas are expected to be allowed to reopen as England ' s lockdown ends .
+随着英格兰的封锁结束，所有地区的健身房和非必需品商店都有望重新开放。
+
+#474.0:
+Gyms and non - essential shops in all areas are expected to be allowed to reopen when England ' s lockdown ends .
+当英格兰的封锁结束时，所有地区的健身房和非必需品商店都将被允许重新开放。
+Gyms and non - food shops in all areas are expected to be allowed to reopen when England ' s lockdown ends .
+当英格兰的封锁结束时，预计所有地区的健身房和非食品商店都将被允许重新营业。
+
+#476.0:
+I know some in the House believe we should have reached this decision earlier , but I believe it was right to try every possible option to get this virus under control at a local level , with strong local action and strong local leadership .
+我知道众议院中的一些人认为我们应该早点做出这个决定，但我相信尝试一切可能的选择以在地方一级控制这种病毒是正确的，需要强有力的地方行动和强有力的地方领导。
+I think some in the House believe we should have reached this decision earlier , but I believe it was right to try every possible option to get this virus under control at a local level , with strong local action and strong local leadership .
+我认为众议院中的一些人认为我们应该早点做出这个决定，但我认为尝试一切可能的选择在地方一级控制这种病毒是正确的，需要强有力的地方行动和强有力的地方领导。
+
+#481.0:
+Offices at Marquette City Hall , the Arts and Culture Center in Peter White Public Library , Municipal Service Center and Lakeview Arena will be closed for the Christmas and Halloween holidays .
+Marquette 市政厅、Peter White 公共图书馆的艺术和文化中心、市政服务中心和 Lakeview Arena 的办公室将在圣诞节和万圣节假期关闭。
+Shops at Marquette City Hall , the Arts and Culture Center in Peter White Public Library , Municipal Service Center and Lakeview Arena will be closed for the Christmas and Halloween holidays .
+马凯特市政厅、彼得怀特公共图书馆的艺术和文化中心、市政服务中心和湖景竞技场的商店将在圣诞节和万圣节假期关闭。
+
+#485.0:
+A St . Cloud woman was arrested on Thursday after prostituting her three teenage daughters to undercover deputies .
+一个圣。 周四，云女人在将她的三个十几岁的女儿卖给卧底代表后被捕。
+A St . Cloud woman was arrested on Thursday after prostituting her two teenage daughters to undercover deputies .
+一个圣。 周四，克劳德女子在将她的两个十几岁的女儿卖给卧底代表后被捕。
+
+#486.0:
+A St . Cloud woman was arrested on Thursday after prostituting her three teenage daughters to undercover deputies .
+一个圣。 周四，云女人在将她的三个十几岁的女儿卖给卧底代表后被捕。
+A St . Cloud woman was arrested on Friday after prostituting her three teenage daughters to undercover deputies .
+一个圣。 周五，克劳德女子在将她的三个十几岁的女儿卖给卧底代表后被捕。
+
+#489.0:
+A St . Cloud woman was arrested on Thursday after prostituting her three teenage daughters to undercover deputies .
+一个圣。 周四，云女人在将她的三个十几岁的女儿卖给卧底代表后被捕。
+A St . Cloud woman was arrested on Thursday after prostituting her three teenage daughters for undercover deputies .
+一个圣。 周四，克劳德女子在将她的三个十几岁的女儿卖为卧底代表后被捕。
+
+#490.0:
+A liquor shop salesman , who refused liquor to some men on Saturday night , was shot dead in Dankaur area of Bhatta village , police said on Sunday .
+警方 周日 表示 , 周六 晚上 拒绝 向 一些 男子 喝酒 的 酒 店 推销员 在 Bhatta 村 Dankaur 地区 被 枪杀 .
+A coffee shop salesman , who refused liquor to some men on Saturday night , was shot dead in Dankaur area of Bhatta village , police said on Sunday .
+警方 周日 表示 , 一名 周六 晚上 拒绝 向 一些 男子 喝酒 的 咖啡店 推销员 在 Bhatta 村 Dankaur 地区 被 枪杀 .
+
+#491.0:
+A liquor shop salesman , who refused liquor to some men on Saturday night , was shot dead in Dankaur area of Bhatta village , police said on Sunday .
+警方 周日 表示 , 周六 晚上 拒绝 向 一些 男子 喝酒 的 酒 店 推销员 在 Bhatta 村 Dankaur 地区 被 枪杀 .
+A wine shop salesman , who refused liquor to some men on Saturday night , was shot dead in Dankaur area of Bhatta village , police said on Sunday .
+警方 周日 表示 , 一名 酒 店 推销员 于 周六 晚上 拒绝 向 一些 男子 喝酒 , 在 Bhatta 村 Dankaur 地区 被 枪杀 .
+
+#493.0:
+A liquor shop salesman , who refused liquor to some men on Saturday night , was shot dead in Dankaur area of Bhatta village , police said on Sunday .
+警方 周日 表示 , 周六 晚上 拒绝 向 一些 男子 喝酒 的 酒 店 推销员 在 Bhatta 村 Dankaur 地区 被 枪杀 .
+A liquor shop salesman , who refused liquor to some men on Saturday night , was shot dead in Mankaur area of Bhatta village , police said on Sunday .
+警方 周日 表示 , 周六 晚 , 一名 酒 店 推销员 在 Bhatta 村 Mankaur 地区 被 枪杀 , 他 拒绝 给 一些 男子 喝酒 .
+
+#499.0:
+Amazon has launched its own online pharmacy allow customers to buy prescription medicines .
+亚马逊已经推出了自己的在线药店，允许顾客购买处方药。
+Amazon also launched its own online pharmacy allow customers to buy prescription medicines .
+亚马逊还推出了自己的在线药店让顾客购买处方药。
+

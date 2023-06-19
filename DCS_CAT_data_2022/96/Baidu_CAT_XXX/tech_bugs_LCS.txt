@@ -1,0 +1,990 @@
+#0.0:
+Wu Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+吴阳是中国东北辽宁省沈阳市一位35岁的厨师，已经做了10年糕点了。
+Wang Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+35岁的汪洋是中国东北辽宁省沈阳市的一名厨师，他做这种糕点已有10年了。
+
+#1.0:
+Wu Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+吴阳是中国东北辽宁省沈阳市一位35岁的厨师，已经做了10年糕点了。
+Zhang Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+35岁的张扬是中国东北辽宁省沈阳市的一名厨师，他做这种糕点已有10年了。
+
+#2.0:
+Wu Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+吴阳是中国东北辽宁省沈阳市一位35岁的厨师，已经做了10年糕点了。
+Wu Yang , a 30 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+吴阳，中国东北辽宁省沈阳市一位30岁的厨师，已经做这种糕点10年了。
+
+#3.0:
+Wu Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 10 years .
+吴阳是中国东北辽宁省沈阳市一位35岁的厨师，已经做了10年糕点了。
+Wu Yang , a 35 - year - old chef in Shenyang , Northeast China ' s Liaoning province , has been making the pastry for 15 years .
+吴阳是中国东北辽宁省沈阳市一位35岁的厨师，他做这种糕点已有15年了。
+
+#9.0:
+" While the Covid lockdowns will force some companies to diversify their manufacturing locations , the zero - Covid policy will not permanently damage China ' s status , " Paul Triolo , senior vice president at strategic advisory firm Dentons Global advisors , told CNN Business .
+战略咨询公司Dentons Global advisors的高级副总裁保罗·特里奥（Paul Triolo）对CNN Business表示：“虽然新冠疫情封锁将迫使一些公司实现生产基地多元化，但零新冠疫情政策不会永久损害中国的地位。”。
+" While the Covid lockdowns will force some companies to diversify their manufacturing locations , the zero - Covid policy will not permanently damage China ' s status , " Paul Triolo , senior vice president at business advisory firm Dentons Global advisors , told CNN Business .
+商业咨询公司Dentons Global advisors高级副总裁保罗·特里奥（Paul Triolo）对CNN business表示：“虽然新冠疫情封锁将迫使一些公司实现生产基地多元化，但零新冠疫情政策不会永久损害中国的地位。”。
+
+#16.0:
+Instead , the immune cells we met earlier , natural killer cells , well known for killing infected cells or cancer cells , take on a completely different , more constructive job in the womb : helping build the placenta .
+相反，我们之前遇到的免疫细胞，即以杀死感染细胞或癌细胞而闻名的自然杀伤细胞，在子宫中承担着一项完全不同、更具建设性的工作：帮助构建胎盘。
+Instead , the immune cells we met earlier , natural killer cells , well known for killing infected cells or cancer cells , take on a very different , more constructive job in the womb : helping build the placenta .
+相反，我们之前遇到的免疫细胞，即自然杀伤细胞，以杀死感染细胞或癌细胞而闻名，在子宫中承担着一项非常不同、更具建设性的工作：帮助构建胎盘。
+
+#19.0:
+Instead , the immune cells we met earlier , natural killer cells , well known for killing infected cells or cancer cells , take on a completely different , more constructive job in the womb : helping build the placenta .
+相反，我们之前遇到的免疫细胞，即以杀死感染细胞或癌细胞而闻名的自然杀伤细胞，在子宫中承担着一项完全不同、更具建设性的工作：帮助构建胎盘。
+Meanwhile , the immune cells we met earlier , natural killer cells , well known for killing infected cells or cancer cells , take on a completely different , more constructive job in the womb : helping build the placenta .
+与此同时，我们之前遇到的免疫细胞，即自然杀伤细胞，以杀死感染细胞或癌细胞而闻名，在子宫中承担着一项完全不同、更具建设性的工作：帮助构建胎盘。
+
+#26.0:
+" The gyms were closed because of the COVID - 19 resurgence then , and indoor activities were subjected to restrictive conditions , " Qu recalls , adding that he ' s also seen many enthusiasts posting their frisbee experience on the social media platform Xiaohongshu .
+瞿回忆道：“当时体育馆因为新冠肺炎的爆发而关闭，室内活动也受到了限制。”他还说，他还看到许多爱好者在社交媒体平台小红树上发布了他们的飞盘体验。
+" Many gyms were closed because of the COVID - 19 resurgence then , and indoor activities were subjected to restrictive conditions , " Qu recalls , adding that he ' s also seen many enthusiasts posting their frisbee experience on the social media platform Xiaohongshu .
+瞿回忆道：“当时许多健身房因为新冠肺炎的爆发而关闭，室内活动也受到限制。”他还说，他还看到许多爱好者在社交媒体平台小红树上发布他们的飞盘体验。
+
+#27.0:
+" The gyms were closed because of the COVID - 19 resurgence then , and indoor activities were subjected to restrictive conditions , " Qu recalls , adding that he ' s also seen many enthusiasts posting their frisbee experience on the social media platform Xiaohongshu .
+瞿回忆道：“当时体育馆因为新冠肺炎的爆发而关闭，室内活动也受到了限制。”他还说，他还看到许多爱好者在社交媒体平台小红树上发布了他们的飞盘体验。
+" All gyms were closed because of the COVID - 19 resurgence then , and indoor activities were subjected to restrictive conditions , " Qu recalls , adding that he ' s also seen many enthusiasts posting their frisbee experience on the social media platform Xiaohongshu .
+瞿回忆道：“当时，由于新冠肺炎的爆发，所有的健身房都被关闭了，室内活动也受到了限制。”他还说，他还看到许多爱好者在社交媒体平台肖洪舒上发布了他们的飞盘体验。
+
+#30.0:
+" We see it as an intellectual bridge between China and the rest of the world , " explains Babington - Smith , " something that ' s needed maybe even more now than when we began . "
+“我们把它看作是中国和世界其他地方之间的一座知识桥梁，”巴宾顿-史密斯解释道，“这是现在比我们开始时更需要的东西。”
+" I see it as an intellectual bridge between China and the rest of the world , " explains Babington - Smith , " something that ' s needed maybe even more now than when we began . "
+巴宾顿-史密斯解释说：“我把它看作是中国和世界其他地方之间的一座知识桥梁，这是现在比我们开始时更需要的东西。”
+
+#37.0:
+Separately , Amazon partnered with JP Morgan Chase and Berkshire Hathaway on an effort to provide better health care services and insurance at a lower cost to workers and families at the three companies , and possibly other businesses , too .
+另外，亚马逊还与摩根大通和伯克希尔哈撒韦合作，以较低的成本为这三家公司的员工和家庭以及其他企业提供更好的医疗服务和保险。
+Separately , Amazon partnered with JP Morgan Chase and Berkshire Hathaway on an effort to provide better health care services and insurance at a low cost to workers and families at the three companies , and possibly other businesses , too .
+另外，亚马逊还与摩根大通和伯克希尔哈撒韦合作，以低成本向这三家公司的员工和家庭以及其他企业提供更好的医疗服务和保险。
+
+#40.0:
+He has made several highly publicized visits to China as CEO , illustrating the country ' s importance to Apple .
+他曾多次以首席执行官的身份访问中国，这说明了中国对苹果的重要性。
+He has made several widely publicized visits to China as CEO , illustrating the country ' s importance to Apple .
+作为首席执行官，他多次访问中国，广为宣传，说明了中国对苹果的重要性。
+
+#41.0:
+He has made several highly publicized visits to China as CEO , illustrating the country ' s importance to Apple .
+他曾多次以首席执行官的身份访问中国，这说明了中国对苹果的重要性。
+He also made several highly publicized visits to China as CEO , illustrating the country ' s importance to Apple .
+他还以首席执行官的身份多次访问中国，这说明了中国对苹果的重要性。
+
+#42.0:
+He has made several highly publicized visits to China as CEO , illustrating the country ' s importance to Apple .
+他曾多次以首席执行官的身份访问中国，这说明了中国对苹果的重要性。
+He has made two highly publicized visits to China as CEO , illustrating the country ' s importance to Apple .
+作为首席执行官，他两次高调访问中国，说明了中国对苹果的重要性。
+
+#43.0:
+He has made several highly publicized visits to China as CEO , illustrating the country ' s importance to Apple .
+他曾多次以首席执行官的身份访问中国，这说明了中国对苹果的重要性。
+He has made three highly publicized visits to China as CEO , illustrating the country ' s importance to Apple .
+作为首席执行官，他三次高调访问中国，说明了中国对苹果的重要性。
+
+#44.0:
+He has made several highly publicized visits to China as CEO , illustrating the country ' s importance to Apple .
+他曾多次以首席执行官的身份访问中国，这说明了中国对苹果的重要性。
+He has made several highly publicized visits to China as CEO , illustrating that country ' s importance to Apple .
+作为首席执行官，他多次高调访问中国，说明了中国对苹果的重要性。
+
+#46.0:
+" What I liked most about the experience was it was something completely different that you would never be able to do as a regular tourist , " Bradley said in an exclusive interview with chinadaily . com . cn .
+布拉德利在接受中国日报网独家采访时说：“我最喜欢的体验是，这是一种完全不同的体验，作为一名普通游客，你永远无法做到。”。
+" What I liked most about the experience is it was something completely different that you would never be able to do as a regular tourist , " Bradley said in an exclusive interview with chinadaily . com . cn .
+布拉德利在接受《中国日报》网站独家采访时说：“我最喜欢的体验是，这是一种完全不同的体验，你作为一名普通游客永远无法做到。”。
+
+#50.0:
+" Having said that , it ' s impossible at this stage to find places that have the skills and the volume to be able to deliver what Apple needs . "
+“话虽如此，在现阶段，我们不可能找到具备技术和数量的地方来满足苹果的需求。”
+" Having said that , it ' s impossible at this stage to find places that have the skills or the volume to be able to deliver what Apple needs . "
+“话虽如此，在现阶段，我们不可能找到有能力或数量足以满足苹果需求的地方。”
+
+#51.0:
+" Having said that , it ' s impossible at this stage to find places that have the skills and the volume to be able to deliver what Apple needs . "
+“话虽如此，在现阶段，我们不可能找到具备技术和数量的地方来满足苹果的需求。”
+" Having said that , it ' s impossible at this stage to find places who have the skills and the volume to be able to deliver what Apple needs . "
+“话虽如此，在现阶段不可能找到具备技能和数量的地方来满足苹果的需求。”
+
+#52.0:
+" Having said that , it ' s impossible at this stage to find places that have the skills and the volume to be able to deliver what Apple needs . "
+“话虽如此，在现阶段，我们不可能找到具备技术和数量的地方来满足苹果的需求。”
+" Having said that , it ' s difficult at this stage to find places that have the skills and the volume to be able to deliver what Apple needs . "
+“话虽如此，在现阶段很难找到具备技能和数量的地方来满足苹果的需求。”
+
+#54.0:
+" Having said that , it ' s impossible at this stage to find places that have the skills and the volume to be able to deliver what Apple needs . "
+“话虽如此，在现阶段，我们不可能找到具备技术和数量的地方来满足苹果的需求。”
+" Having said that , it ' s impossible at this stage to find places that have the skills and the volume to be able to provide what Apple needs . "
+“话虽如此，在现阶段，不可能找到具备技能和数量的地方来满足苹果的需求。”
+
+#56.0:
+Disc - throwing sport is growing in popularity , not least because of its non - contact and social aspects , Yang Feiyue reports .
+杨飞跃报道说，掷碟运动越来越受欢迎，这不仅仅是因为它的非接触性和社会性。
+Ball - throwing sport is growing in popularity , not least because of its non - contact and social aspects , Yang Feiyue reports .
+杨飞跃报道说，抛球运动越来越受欢迎，尤其是因为它的非接触性和社会性。
+
+#59.0:
+Disc - throwing sport is growing in popularity , not least because of its non - contact and social aspects , Yang Feiyue reports .
+杨飞跃报道说，掷碟运动越来越受欢迎，这不仅仅是因为它的非接触性和社会性。
+Disc - throwing sport is growing in popularity , not least because of the non - contact and social aspects , Yang Feiyue reports .
+杨飞跃报道说，掷碟运动越来越受欢迎，尤其是由于非接触和社交方面的原因。
+
+#62.0:
+The Beijing resident in his early 30s tried his hand , literally , at the game after being invited by one of his friends .
+这位30出头的北京居民在一位朋友的邀请下，在比赛中试了试。
+The former resident in his early 30s tried his hand , literally , at the game after being invited by one of his friends .
+这位30出头的前居民在一位朋友的邀请下，在比赛中试过了手。
+
+#63.0:
+The Beijing resident in his early 30s tried his hand , literally , at the game after being invited by one of his friends .
+这位30出头的北京居民在一位朋友的邀请下，在比赛中试了试。
+The Beijing resident in his early 30s tried his hand , literally , in the game after being invited by one of his friends .
+这位30出头的北京居民在受到一位朋友的邀请后，在游戏中试过了手。
+
+#64.0:
+The Beijing resident in his early 30s tried his hand , literally , at the game after being invited by one of his friends .
+这位30出头的北京居民在一位朋友的邀请下，在比赛中试了试。
+A Beijing resident in his early 30s tried his hand , literally , at the game after being invited by one of his friends .
+一位30出头的北京居民在受到一位朋友的邀请后，在比赛中试了试。
+
+#67.0:
+So , crucially , an analysis of genes alone is n ' t enough – we also need to know where in the human body these disease - causing genes are being switched on .
+因此，至关重要的是，仅仅分析基因是不够的——我们还需要知道这些致病基因在人体的何处被激活。
+So , crucially , an analysis of genes alone is n ' t enough – we also need to know where in the human body the disease - causing genes are being switched on .
+因此，至关重要的是，仅仅对基因进行分析是不够的——我们还需要知道导致疾病的基因在人体的何处被激活。
+
+#75.0:
+But already from this discovery , and other research using similar methods , there is the sense that our understanding of the body ' s cells is being transformed by a piercing new combination of biology and computer science .
+但是，从这一发现以及其他使用类似方法的研究中，我们已经感觉到，生物学和计算机科学的一种全新结合正在改变我们对人体细胞的理解。
+Starting already from this discovery , and other research using similar methods , there is the sense that our understanding of the body ' s cells is being transformed by a piercing new combination of biology and computer science .
+从这一发现和其他使用类似方法的研究开始，我们就感觉到，生物学和计算机科学的一种全新结合正在改变我们对人体细胞的理解。
+
+#77.0:
+But already from this discovery , and other research using similar methods , there is the sense that our understanding of the body ' s cells is being transformed by a piercing new combination of biology and computer science .
+但是，从这一发现以及其他使用类似方法的研究中，我们已经感觉到，生物学和计算机科学的一种全新结合正在改变我们对人体细胞的理解。
+Apart already from this discovery , and other research using similar methods , there is the sense that our understanding of the body ' s cells is being transformed by a piercing new combination of biology and computer science .
+除了这一发现和其他使用类似方法的研究外，我们还感觉到，生物学和计算机科学的一种全新结合正在改变我们对人体细胞的理解。
+
+#85.0:
+Bamboo weaving is a time - honored handicraft that has been passed down for generations in Maoba township , Yongshun county , Xiangxi Tujia and Miao autonomous prefecture , Hunan province .
+竹编是湖南省湘西土家族苗族自治州永顺县茅坝乡一项历史悠久的手工艺，世代相传。
+Bamboo weaving is a time - honored handicraft that has been passed down for generations in Daba township , Yongshun county , Xiangxi Tujia and Miao autonomous prefecture , Hunan province .
+竹编是湖南省湘西土家族苗族自治州永顺县大巴乡流传至今的古老手工艺。
+
+#96.0:
+Shares for 1life Healthcare , the parent company of One Medical , surged more than 65 % in early trading Thursday after the announcement .
+One Medical的母公司1life Healthcare的股价在周四早盘上涨了65%以上。
+Shares for 1life Healthcare , the parent company of One Medical , jumped more than 65 % in early trading Thursday after the announcement .
+One Medical的母公司1life Healthcare的股价在周四早盘上涨超过65%。
+
+#97.0:
+Shares for 1life Healthcare , the parent company of One Medical , surged more than 65 % in early trading Thursday after the announcement .
+One Medical的母公司1life Healthcare的股价在周四早盘上涨了65%以上。
+Shares for 1life Healthcare , the parent company of One Medical , rose more than 65 % in early trading Thursday after the announcement .
+一家医疗集团的母公司1life Healthcare的股价在公告发布后的周四早盘上涨超过65%。
+
+#98.0:
+Shares for 1life Healthcare , the parent company of One Medical , surged more than 65 % in early trading Thursday after the announcement .
+One Medical的母公司1life Healthcare的股价在周四早盘上涨了65%以上。
+Shares for Sonlife Healthcare , the parent company of One Medical , surged more than 65 % in early trading Thursday after the announcement .
+One Medical的母公司Sonlife Healthcare的股票在公告发布后的周四早盘飙升逾65%。
+
+#99.0:
+Shares for 1life Healthcare , the parent company of One Medical , surged more than 65 % in early trading Thursday after the announcement .
+One Medical的母公司1life Healthcare的股价在周四早盘上涨了65%以上。
+Shares for 1life Healthcare , the parent company of One Medical , surged more than 65 % during early trading Thursday after the announcement .
+一家医疗集团的母公司1life Healthcare的股价在公告发布后的周四早盘飙升逾65%。
+
+#101.0:
+Shortly after the deal was announced , some tech industry critics also raised concerns about the health data to which the company could gain access .
+交易宣布后不久，一些科技行业的批评者也对该公司可能获得的健康数据提出了担忧。
+Shortly after the deal was announced , several tech industry critics also raised concerns about the health data to which the company could gain access .
+该交易宣布后不久，几位科技行业的批评者也对该公司可能获得的健康数据提出了担忧。
+
+#102.0:
+Shortly after the deal was announced , some tech industry critics also raised concerns about the health data to which the company could gain access .
+交易宣布后不久，一些科技行业的批评者也对该公司可能获得的健康数据提出了担忧。
+Shortly after the deal was announced , some tech industry critics also raised concerns about the health data to which the company would gain access .
+在该交易宣布后不久，一些科技行业的批评者也对该公司将获得的健康数据提出了担忧。
+
+#104.0:
+Shortly after the deal was announced , some tech industry critics also raised concerns about the health data to which the company could gain access .
+交易宣布后不久，一些科技行业的批评者也对该公司可能获得的健康数据提出了担忧。
+Shortly after the deal was announced , some tech industry critics also raised concerns about the health data to which the company will gain access .
+在该交易宣布后不久，一些科技行业的批评者也对该公司将获得的健康数据提出了担忧。
+
+#105.0:
+Amazon agreed to buy grocery chain Whole Foods in 2017 for $ 13 . 7 billion and earlier this year closed an $ 8 . 5 billion deal to buy iconic Hollywood movie studio MGM .
+2017年，亚马逊同意以137亿美元收购杂货连锁店Whole Foods，今年早些时候，亚马逊完成了一笔85亿美元的收购好莱坞电影制片厂米高梅的交易。
+Amazon planned to buy grocery chain Whole Foods in 2017 for $ 13 . 7 billion and earlier this year closed an $ 8 . 5 billion deal to buy iconic Hollywood movie studio MGM .
+亚马逊计划在2017年斥资137亿美元收购杂货连锁店Whole Foods，今年早些时候完成了一笔85亿美元的收购好莱坞电影制片厂米高梅的交易。
+
+#121.0:
+In the footage , he is seen giving tourists directions , getting water for a baby and even helping a neighbor sell yogurt .
+在视频中，他给游客指路，给婴儿打水，甚至帮助邻居卖酸奶。
+In additional footage , he is seen giving tourists directions , getting water for a baby and even helping a neighbor sell yogurt .
+在另外的视频中，他给游客指路，给婴儿取水，甚至帮助邻居卖酸奶。
+
+#122.0:
+In the footage , he is seen giving tourists directions , getting water for a baby and even helping a neighbor sell yogurt .
+在视频中，他给游客指路，给婴儿打水，甚至帮助邻居卖酸奶。
+In the footage , he is seen showing tourists directions , getting water for a baby and even helping a neighbor sell yogurt .
+在视频中，他向游客指路，给婴儿取水，甚至帮助邻居卖酸奶。
+
+#125.0:
+They can not afford the risk of continued disruption to supply , and they want to gain better control over their ability to serve customers , " said Lisa Anderson , CEO of supply chain firm LMA Consulting Group .
+供应链公司LMA咨询集团首席执行官丽莎·安德森（Lisa Anderson）说：“他们承受不起供应持续中断的风险，他们希望更好地控制自己为客户服务的能力。”。
+They can not afford the risk of continued disruption to supply , and they want to gain better control over their ability to serve customers , " said Lisa Anderson , CEO of supply chain firm DMA Consulting Group .
+他们承受不起供应持续中断的风险，他们希望更好地控制自己为客户服务的能力，”供应链公司DMA咨询集团首席执行官丽莎·安德森（Lisa Anderson）说。
+
+#128.0:
+They can not afford the risk of continued disruption to supply , and they want to gain better control over their ability to serve customers , " said Lisa Anderson , CEO of supply chain firm LMA Consulting Group .
+供应链公司LMA咨询集团首席执行官丽莎·安德森（Lisa Anderson）说：“他们承受不起供应持续中断的风险，他们希望更好地控制自己为客户服务的能力。”。
+They can not afford the risk of continued disruption to supply , and they want to gain better control over their ability to serve customers , " said Lisa Anderson , CEO of supply chain firm BMA Consulting Group .
+他们承受不起供应持续中断的风险，他们希望更好地控制自己为客户服务的能力，”供应链公司BMA咨询集团首席执行官丽莎·安德森（Lisa Anderson）说。
+
+#137.0:
+" China has been becoming more expensive for several years already , but what happened in the last year is it became more volatile , " said Allon .
+“中国的物价已经上涨了好几年了，但去年发生的事情是，物价变得更加不稳定，”阿隆说。
+" It has been becoming more expensive for several years already , but what happened in the last year is it became more volatile , " said Allon .
+“几年来，它已经变得越来越贵，但去年发生的事情是，它变得更加不稳定，”阿隆说。
+
+#138.0:
+" China has been becoming more expensive for several years already , but what happened in the last year is it became more volatile , " said Allon .
+“中国的物价已经上涨了好几年了，但去年发生的事情是，物价变得更加不稳定，”阿隆说。
+" China has been becoming more expensive for many years already , but what happened in the last year is it became more volatile , " said Allon .
+阿隆说：“多年来，中国的物价一直在上涨，但去年发生的情况是，物价变得更不稳定。”。
+
+#141.0:
+Taiwan is also home base for several key Apple suppliers , including Foxconn , Pegatron and Wistron , and has become a global hub for the semiconductor chips used in most electronic devices .
+台湾也是包括富士康、和硕和纬创在内的几家主要苹果供应商的基地，并已成为大多数电子设备中使用的半导体芯片的全球中心。
+Taiwan is also home base for many key Apple suppliers , including Foxconn , Pegatron and Wistron , and has become a global hub for the semiconductor chips used in most electronic devices .
+台湾也是许多苹果关键供应商的基地，包括富士康、和硕和纬创，并已成为大多数电子设备中使用的半导体芯片的全球中心。
+
+#143.0:
+Taiwan is also home base for several key Apple suppliers , including Foxconn , Pegatron and Wistron , and has become a global hub for the semiconductor chips used in most electronic devices .
+台湾也是包括富士康、和硕和纬创在内的几家主要苹果供应商的基地，并已成为大多数电子设备中使用的半导体芯片的全球中心。
+Taiwan is also home base for some key Apple suppliers , including Foxconn , Pegatron and Wistron , and has become a global hub for the semiconductor chips used in most electronic devices .
+台湾也是一些主要苹果供应商的基地，包括富士康、和硕和纬创，并已成为大多数电子设备中使用的半导体芯片的全球中心。
+
+#149.0:
+A year later , they had drafted a specific plan – to first try to profile 100 million cells from different systems and organs , using different people around the globe .
+一年后，他们起草了一份具体计划——首先尝试使用全球不同的人对来自不同系统和器官的1亿个细胞进行分析。
+A year later , they had devised a specific plan – to first try to profile 100 million cells from different systems and organs , using different people around the globe .
+一年后，他们制定了一个具体的计划——首先尝试使用全球不同的人，对来自不同系统和器官的1亿个细胞进行分析。
+
+#152.0:
+Had it been just two , they might have dismissed it as an outcome of noise in the data – but three strange cells warranted a closer look .
+如果只有两个细胞，他们可能会认为这是数据中噪音的结果——但三个奇怪的细胞值得仔细观察。
+Had it been just two , they would have dismissed it as an outcome of noise in the data – but three strange cells warranted a closer look .
+如果只有两个细胞，他们会将其视为数据中噪音的结果，但三个奇怪的细胞值得仔细观察。
+
+#154.0:
+Had it been just two , they might have dismissed it as an outcome of noise in the data – but three strange cells warranted a closer look .
+如果只有两个细胞，他们可能会认为这是数据中噪音的结果——但三个奇怪的细胞值得仔细观察。
+Had it been just two , they might have dismissed it as an outcome of gaps in the data – but three strange cells warranted a closer look .
+如果只有两个，他们可能会认为这是数据差距的结果——但有三个奇怪的细胞值得仔细观察。
+
+#155.0:
+In many ways , this bold new ambition is a direct descendant of the Human Genome Project .
+在许多方面，这一大胆的新抱负是人类基因组计划的直接后代。
+In some ways , this bold new ambition is a direct descendant of the Human Genome Project .
+在某些方面，这一大胆的新雄心是人类基因组计划的直接后代。
+
+#158.0:
+In many ways , this bold new ambition is a direct descendant of the Human Genome Project .
+在许多方面，这一大胆的新抱负是人类基因组计划的直接后代。
+In many ways , this brand new ambition is a direct descendant of the Human Genome Project .
+在许多方面，这一全新的雄心壮志是人类基因组计划的直接后代。
+
+#171.0:
+A cluster of data points might appear with unexpected properties – implicating the discovery a new kind of cell .
+一组数据点可能具有意外的属性，这意味着发现了一种新的单元。
+A cluster of data points would appear with unexpected properties – implicating the discovery a new kind of cell .
+一组数据点将以意外的属性出现——这意味着发现了一种新的单元。
+
+#173.0:
+A cluster of data points might appear with unexpected properties – implicating the discovery a new kind of cell .
+一组数据点可能具有意外的属性，这意味着发现了一种新的单元。
+The cluster of data points might appear with unexpected properties – implicating the discovery a new kind of cell .
+数据点的集群可能会出现意外的属性，这意味着发现了一种新的单元。
+
+#174.0:
+A cluster of data points might appear with unexpected properties – implicating the discovery a new kind of cell .
+一组数据点可能具有意外的属性，这意味着发现了一种新的单元。
+A cluster of data points will appear with unexpected properties – implicating the discovery a new kind of cell .
+一组数据点将以意外的属性出现，这意味着发现了一种新的单元。
+
+#175.0:
+Employing a 3D technology supporter for her show filming is an ultraexpensive burden for the startup company , the post - 90s designer said .
+这位90后设计师说，雇佣一名3D技术支持者来拍摄她的节目对这家初创公司来说是一个极其昂贵的负担。
+Deploying a 3D technology supporter for her show filming is an ultraexpensive burden for the startup company , the post - 90s designer said .
+这位90后设计师说，为她的节目拍摄部署3D技术支持者对这家初创公司来说是一个极其昂贵的负担。
+
+#190.0:
+Both groups confirmed these new cells exist in human airways as well as in mice and , after meeting up , agreed to publish their two papers side - by - side .
+两个小组都证实了这些新细胞存在于人类气道和小鼠体内，并在会后同意同时发表他们的两篇论文。
+The groups confirmed these new cells exist in human airways as well as in mice and , after meeting up , agreed to publish their two papers side - by - side .
+研究小组确认这些新细胞存在于人类气道和小鼠体内，并在会后同意同时发表他们的两篇论文。
+
+#192.0:
+Both groups confirmed these new cells exist in human airways as well as in mice and , after meeting up , agreed to publish their two papers side - by - side .
+两个小组都证实了这些新细胞存在于人类气道和小鼠体内，并在会后同意同时发表他们的两篇论文。
+Both authors confirmed these new cells exist in human airways as well as in mice and , after meeting up , agreed to publish their two papers side - by - side .
+两位作者都证实了这些新细胞不仅存在于小鼠体内，也存在于人类气道中。在会面后，他们同意同时发表他们的两篇论文。
+
+#193.0:
+Both groups confirmed these new cells exist in human airways as well as in mice and , after meeting up , agreed to publish their two papers side - by - side .
+两个小组都证实了这些新细胞存在于人类气道和小鼠体内，并在会后同意同时发表他们的两篇论文。
+Both scientists confirmed these new cells exist in human airways as well as in mice and , after meeting up , agreed to publish their two papers side - by - side .
+两位科学家都证实了这些新细胞存在于人类气道和小鼠体内，会后，他们同意同时发表两篇论文。
+
+#195.0:
+The first time the team – co - led by Aviv Regev at the Broad Institute of MIT and Harvard – came across these cells , they were looking at an analysis of 300 cells in the trachea of mice .
+由麻省理工学院和哈佛大学博德研究所的Aviv Regev共同领导的研究小组第一次发现了这些细胞，他们对小鼠气管中的300个细胞进行了分析。
+The first time the team – co - directed by Aviv Regev at the Broad Institute of MIT and Harvard – came across these cells , they were looking at an analysis of 300 cells in the trachea of mice .
+由麻省理工学院和哈佛大学博德研究所的阿维夫·雷格夫（Aviv Regev）共同领导的研究小组第一次发现了这些细胞，他们对小鼠气管中的300个细胞进行了分析。
+
+#196.0:
+The first time the team – co - led by Aviv Regev at the Broad Institute of MIT and Harvard – came across these cells , they were looking at an analysis of 300 cells in the trachea of mice .
+由麻省理工学院和哈佛大学博德研究所的Aviv Regev共同领导的研究小组第一次发现了这些细胞，他们对小鼠气管中的300个细胞进行了分析。
+The first time the team – co - headed by Aviv Regev at the Broad Institute of MIT and Harvard – came across these cells , they were looking at an analysis of 300 cells in the trachea of mice .
+由麻省理工学院和哈佛大学博德研究所的阿维夫·雷格夫（Aviv Regev）共同领导的研究小组第一次发现了这些细胞，他们对小鼠气管中的300个细胞进行了分析。
+
+#197.0:
+The first time the team – co - led by Aviv Regev at the Broad Institute of MIT and Harvard – came across these cells , they were looking at an analysis of 300 cells in the trachea of mice .
+由麻省理工学院和哈佛大学博德研究所的Aviv Regev共同领导的研究小组第一次发现了这些细胞，他们对小鼠气管中的300个细胞进行了分析。
+The first time the team – co - chaired by Aviv Regev at the Broad Institute of MIT and Harvard – came across these cells , they were looking at an analysis of 300 cells in the trachea of mice .
+由麻省理工学院和哈佛大学博德研究所的阿维夫·雷格夫（Aviv Regev）担任联合主席的研究小组第一次发现了这些细胞，他们对小鼠气管中的300个细胞进行了分析。
+
+#199.0:
+The first time the team – co - led by Aviv Regev at the Broad Institute of MIT and Harvard – came across these cells , they were looking at an analysis of 300 cells in the trachea of mice .
+由麻省理工学院和哈佛大学博德研究所的Aviv Regev共同领导的研究小组第一次发现了这些细胞，他们对小鼠气管中的300个细胞进行了分析。
+The first time the team – co - led by Aviv Regev from the Broad Institute of MIT and Harvard – came across these cells , they were looking at an analysis of 300 cells in the trachea of mice .
+由麻省理工学院博德研究所（Broad Institute of MIT）和哈佛大学（Harvard）的阿维夫·雷格夫（Aviv Regev）共同领导的研究小组第一次发现了这些细胞，他们对小鼠气管中的300个细胞进行了分析。
+
+#201.0:
+When the two teams looked in detail at what made these cells stand out , they came across something astonishing .
+当两个小组详细研究这些细胞的突出之处时，他们发现了一些惊人的东西。
+When the two teams looked in detail at what made the cells stand out , they came across something astonishing .
+当这两个团队详细研究是什么让这些细胞脱颖而出时，他们发现了一些惊人的东西。
+
+#204.0:
+When the two teams looked in detail at what made these cells stand out , they came across something astonishing .
+当两个小组详细研究这些细胞的突出之处时，他们发现了一些惊人的东西。
+When the two teams looked in detail at what made their cells stand out , they came across something astonishing .
+当这两个团队详细研究是什么让他们的细胞脱颖而出时，他们发现了一些惊人的东西。
+
+#205.0:
+From the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+每家每户的窗户上都有热烈的掌声和欢呼声，表达对“大白鲨”的感激之情。大白鲨是无处不在的健康监测器，穿着白色的个人防护装备，在夜空中盘旋。
+In the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+在每家每户的橱窗里，热烈的掌声和欢呼声在夜空中盘旋，以表达对“大白鲨”的感激之情。大白鲨是无处不在的健康监测器，穿着白色的个人防护装备。
+
+#206.0:
+From the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+每家每户的窗户上都有热烈的掌声和欢呼声，表达对“大白鲨”的感激之情。大白鲨是无处不在的健康监测器，穿着白色的个人防护装备，在夜空中盘旋。
+At the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+在每家每户的窗口，热烈的掌声和欢呼声在夜空中盘旋，以表达对“大白鲨”的感激之情。大白鲨是无处不在的健康监测器，穿着白色的个人防护装备。
+
+#207.0:
+From the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+每家每户的窗户上都有热烈的掌声和欢呼声，表达对“大白鲨”的感激之情。大白鲨是无处不在的健康监测器，穿着白色的个人防护装备，在夜空中盘旋。
+Outside the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+在每户人家的窗外，热烈的掌声和欢呼声在夜空中盘旋，向“大白鲨”表示感谢。大白鲨是无处不在的健康监测器，身穿白色个人防护装备。
+
+#208.0:
+From the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+每家每户的窗户上都有热烈的掌声和欢呼声，表达对“大白鲨”的感激之情。大白鲨是无处不在的健康监测器，穿着白色的个人防护装备，在夜空中盘旋。
+From the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors cloaked in white personal protective gear , were hovering in the night air .
+每家每户的窗户上都有热烈的掌声和欢呼声，表达对“大白鲨”的感激之情。这些无处不在的健康监测器披着白色的个人防护服，在夜空中盘旋。
+
+#209.0:
+From the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+每家每户的窗户上都有热烈的掌声和欢呼声，表达对“大白鲨”的感激之情。大白鲨是无处不在的健康监测器，穿着白色的个人防护装备，在夜空中盘旋。
+From the windows of every household , loud applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+从每家每户的窗户里，响亮的掌声和欢呼声表达了对“大白鲨”的感激之情。大白鲨是无处不在的健康监测器，穿着白色的个人防护装备，在夜空中盘旋。
+
+#217.0:
+He has visited many villages across the country where the tradition of making bamboo items is alive .
+他参观了全国许多村庄，那里的竹子制作传统非常盛行。
+He has visited many villages across the country where the tradition of making bamboo items remains alive .
+他走访了全国许多村庄，那里的竹子制作传统依然存在。
+
+#219.0:
+He has visited many villages across the country where the tradition of making bamboo items is alive .
+他参观了全国许多村庄，那里的竹子制作传统非常盛行。
+He has visited many villages in the country where the tradition of making bamboo items is alive .
+他参观了这个国家的许多村庄，在那里制作竹子制品的传统非常盛行。
+
+#230.0:
+You may , for example , one day visit your doctor with something abnormal on your skin – a rash , itch , or something else .
+例如，有一天，你可能会因为皮肤上有异常的东西而去看医生——皮疹、瘙痒或其他东西。
+You can , for example , one day visit your doctor with something abnormal on your skin – a rash , itch , or something else .
+例如，你可以有一天在你皮肤上出现异常情况时去看医生——皮疹、瘙痒或其他。
+
+#233.0:
+You may , for example , one day visit your doctor with something abnormal on your skin – a rash , itch , or something else .
+例如，有一天，你可能会因为皮肤上有异常的东西而去看医生——皮疹、瘙痒或其他东西。
+You may , for example , one day visit your doctor with something abnormal in your skin – a rash , itch , or something else .
+例如，有一天你可能会因为皮肤出现异常而去看医生——皮疹、瘙痒或其他症状。
+
+#234.0:
+You may , for example , one day visit your doctor with something abnormal on your skin – a rash , itch , or something else .
+例如，有一天，你可能会因为皮肤上有异常的东西而去看医生——皮疹、瘙痒或其他东西。
+You may , for example , one day visit your doctor with something unusual on your skin – a rash , itch , or something else .
+例如，有一天你可能会因为皮肤上的一些不寻常的东西去看医生——皮疹、瘙痒或其他东西。
+
+#237.0:
+In 2020 , my research lab carried out an analysis which suggested that variants of natural killer cells in blood could be organised into eight categories .
+2020年，我的研究实验室进行了一项分析，表明血液中自然杀伤细胞的变体可以分为八类。
+In 2020 , my research lab carried out an analysis which suggested that variants of natural killer cells in blood would be organised into eight categories .
+2020年，我的研究实验室进行了一项分析，结果表明血液中的自然杀伤细胞变体将分为八类。
+
+#238.0:
+In 2020 , my research lab carried out an analysis which suggested that variants of natural killer cells in blood could be organised into eight categories .
+2020年，我的研究实验室进行了一项分析，表明血液中自然杀伤细胞的变体可以分为八类。
+In 2020 , my research lab carried out an analysis that suggested that variants of natural killer cells in blood could be organised into eight categories .
+2020年，我的研究实验室进行了一项分析，表明血液中的自然杀伤细胞变体可分为八类。
+
+#239.0:
+In 2020 , my research lab carried out an analysis which suggested that variants of natural killer cells in blood could be organised into eight categories .
+2020年，我的研究实验室进行了一项分析，表明血液中自然杀伤细胞的变体可以分为八类。
+In 2020 , my research lab carried out an analysis which suggested that variants of natural killer cells in blood may be organised into eight categories .
+2020年，我的研究实验室进行了一项分析，表明血液中的自然杀伤细胞变体可分为八类。
+
+#245.0:
+The scientists repeated the experiment several times , and it soon became clear they really had stumbled upon a new type of cell in the trachea .
+科学家们重复了几次实验，很快就发现他们真的在气管中发现了一种新型细胞。
+The researchers repeated the experiment several times , and it soon became clear they really had stumbled upon a new type of cell in the trachea .
+研究人员重复了几次实验，很快就发现他们确实在气管中发现了一种新型细胞。
+
+#246.0:
+The scientists repeated the experiment several times , and it soon became clear they really had stumbled upon a new type of cell in the trachea .
+科学家们重复了几次实验，很快就发现他们真的在气管中发现了一种新型细胞。
+The scientists repeated the experiment many times , and it soon became clear they really had stumbled upon a new type of cell in the trachea .
+科学家们重复了多次实验，很快就发现他们在气管中发现了一种新型细胞。
+
+#248.0:
+The scientists repeated the experiment several times , and it soon became clear they really had stumbled upon a new type of cell in the trachea .
+科学家们重复了几次实验，很快就发现他们真的在气管中发现了一种新型细胞。
+The group repeated the experiment several times , and it soon became clear they really had stumbled upon a new type of cell in the trachea .
+研究小组重复了几次实验，很快就发现他们确实在气管中发现了一种新型细胞。
+
+#253.0:
+In the oppressive dog days , time seems to stop as it is broiling both in the morning and the afternoon with the stridulation of cicadas buzzing in the background .
+在令人压抑的三伏天里，时间似乎停止了，因为它在早晨和下午都在燃烧，背景是嗡嗡作响的蝉鸣。
+In the oppressive dog days , time seems to stop as it is roiling both in the morning and the afternoon with the stridulation of cicadas buzzing in the background .
+在令人压抑的三伏天里，时间似乎停止了，因为早上和下午都在翻腾，背景是嗡嗡作响的蝉鸣。
+
+#257.0:
+" It never occurred to me that it was a competitive game with a social functions " he adds .
+“我从来没有想到这是一个具有社会功能的竞争性游戏，”他补充道。
+" It never occurred to me that it was a competitive game with a social functions " she adds .
+“我从来没有想到这是一场具有社会功能的竞争性游戏，”她补充道。
+
+#258.0:
+" It never occurred to me that it was a competitive game with a social functions " he adds .
+“我从来没有想到这是一个具有社会功能的竞争性游戏，”他补充道。
+" It never occurred to me that it was a competitive game with a social functions " he says .
+“我从来没有想到这是一场具有社会功能的竞争性游戏，”他说。
+
+#259.0:
+" It never occurred to me that it was a competitive game with a social functions " he adds .
+“我从来没有想到这是一个具有社会功能的竞争性游戏，”他补充道。
+" It never occurred to me that it was a competitive game for a social functions " he adds .
+“我从来没有想到这是一个社会功能的竞争游戏，”他补充道。
+
+#266.0:
+Amy Klobuchar , who chairs the Senate antitrust subcommittee , said the Federal Trade Commission must " thoroughly investigate " the proposed acquisition .
+参议院反垄断小组委员会主席艾米·克洛布查尔（Amy Klobuchar）表示，联邦贸易委员会必须“彻底调查”拟议收购案。
+Amy Klobuchar , who chairs the Senate antitrust subcommittee , says the Federal Trade Commission must " thoroughly investigate " the proposed acquisition .
+参议院反垄断小组委员会主席艾米·克洛布查尔说，联邦贸易委员会必须“彻底调查”拟议收购案。
+
+#271.0:
+Although online fashion shows could reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀可以吸引更多的观众，但成本可能与线下时装秀相似。
+Although online fashion shows might reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀可能会吸引更多观众，但成本可能与线下时装秀相似。
+
+#273.0:
+Although online fashion shows could reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀可以吸引更多的观众，但成本可能与线下时装秀相似。
+Although online fashion shows may reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀可能会吸引更多观众，但成本可能与线下时装秀相似。
+
+#274.0:
+Although online fashion shows could reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀可以吸引更多的观众，但成本可能与线下时装秀相似。
+Although online fashion shows would reach more audiences , the cost might be similar to an offline one , Shao explained .
+邵解释说，虽然在线时装秀会吸引更多观众，但成本可能与线下时装秀相似。
+
+#275.0:
+" Many villagers ca n ' t become migrant workers , as they have to take care of their children and old parents at home , so I hope to help them earn more , " Fu says .
+“许多村民不能成为农民工，因为他们必须在家照顾孩子和年迈的父母，所以我希望帮助他们赚更多，”傅说。
+" The villagers ca n ' t become migrant workers , as they have to take care of their children and old parents at home , so I hope to help them earn more , " Fu says .
+傅说：“村民们不能成为农民工，因为他们必须在家照顾孩子和年迈的父母，所以我希望帮助他们挣更多的钱。”。
+
+#285.0:
+One cell may contain a high amount of protein X and a little of protein Y .
+一个细胞可能含有大量蛋白质X和少量蛋白质Y。
+One cell can contain a high amount of protein X and a little of protein Y .
+一个细胞可以含有大量的蛋白质X和少量的蛋白质Y。
+
+#290.0:
+Another factor behind Zheng ' s aggressive go - for - broke achievements so far is surely her killer forehand , which her 185 - centimeter frame allows her to whipsaw across the net .
+到目前为止，郑洁的进攻性突破成就背后的另一个因素无疑是她的杀手级正手，她185厘米的身躯使她能够挥杆横过球网。
+Another reason behind Zheng ' s aggressive go - for - broke achievements so far is surely her killer forehand , which her 185 - centimeter frame allows her to whipsaw across the net .
+郑洁到目前为止积极进取的突破成就背后的另一个原因无疑是她的杀手级正手，她185厘米的身躯使她能够挥拍过网。
+
+#294.0:
+Another factor behind Zheng ' s aggressive go - for - broke achievements so far is surely her killer forehand , which her 185 - centimeter frame allows her to whipsaw across the net .
+到目前为止，郑洁的进攻性突破成就背后的另一个因素无疑是她的杀手级正手，她185厘米的身躯使她能够挥杆横过球网。
+Another force behind Zheng ' s aggressive go - for - broke achievements so far is surely her killer forehand , which her 185 - centimeter frame allows her to whipsaw across the net .
+到目前为止，郑洁咄咄逼人的突破性成就背后的另一股力量无疑是她的杀手级正手，她185厘米的身躯使她能够挥杆横过球网。
+
+#296.0:
+With the One Medical deal , Amazon would gain access to physical health clinics and " payer and hospital system relationships , " Evercore ISI analyst Elizabeth Anderson said in a note Thursday morning .
+Evercore ISI分析师伊丽莎白·安德森（Elizabeth Anderson）周四上午在一份报告中表示，通过一项医疗协议，亚马逊将获得物理健康诊所和“付款人和医院系统的关系”。
+Under the One Medical deal , Amazon would gain access to physical health clinics and " payer and hospital system relationships , " Evercore ISI analyst Elizabeth Anderson said in a note Thursday morning .
+Evercore ISI分析师伊丽莎白·安德森（Elizabeth Anderson）周四上午在一份报告中表示，根据一项医疗协议，亚马逊将获得物理健康诊所以及“付款人与医院系统的关系”。
+
+#297.0:
+With the One Medical deal , Amazon would gain access to physical health clinics and " payer and hospital system relationships , " Evercore ISI analyst Elizabeth Anderson said in a note Thursday morning .
+Evercore ISI分析师伊丽莎白·安德森（Elizabeth Anderson）周四上午在一份报告中表示，通过一项医疗协议，亚马逊将获得物理健康诊所和“付款人和医院系统的关系”。
+In the One Medical deal , Amazon would gain access to physical health clinics and " payer and hospital system relationships , " Evercore ISI analyst Elizabeth Anderson said in a note Thursday morning .
+Evercore ISI分析师伊丽莎白·安德森（Elizabeth Anderson）周四上午在一份报告中表示，在一项医疗协议中，亚马逊将获得物理健康诊所和“付款人与医院系统的关系”。
+
+#301.0:
+The acquisition is just the latest example of the tech giant expanding its footprint in the healthcare industry .
+此次收购只是这家科技巨头扩大其在医疗行业足迹的最新例子。
+The acquisition is just the latest example of the tech giant increasing its footprint in the healthcare industry .
+此次收购只是这家科技巨头在医疗保健行业扩大足迹的最新例子。
+
+#302.0:
+The acquisition is just the latest example of the tech giant expanding its footprint in the healthcare industry .
+此次收购只是这家科技巨头扩大其在医疗行业足迹的最新例子。
+The acquisition is just the latest example of the tech giant expanding its footprint in the healthcare field .
+此次收购只是这家科技巨头在医疗领域扩张足迹的最新例子。
+
+#303.0:
+The acquisition is just the latest example of the tech giant expanding its footprint in the healthcare industry .
+此次收购只是这家科技巨头扩大其在医疗行业足迹的最新例子。
+The company is just the latest example of the tech giant expanding its footprint in the healthcare industry .
+这家公司只是这家科技巨头在医疗行业扩张足迹的最新例子。
+
+#304.0:
+The acquisition is just the latest example of the tech giant expanding its footprint in the healthcare industry .
+此次收购只是这家科技巨头扩大其在医疗行业足迹的最新例子。
+The acquisition is just the latest example of the tech giant expanding its footprint in the healthcare sector .
+此次收购只是这家科技巨头在医疗保健领域扩张足迹的最新例子。
+
+#306.0:
+Her stellar but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她出色但饱受伤病困扰的职业生涯让我想起了前NBA大个子姚明，他在休斯顿火箭队工作时，也因为脚部问题在31岁时被迫挂起了球鞋。
+Her solid but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她坚实但饱受伤病困扰的职业生涯让我想起了前NBA大个子姚明，他在休斯顿火箭队工作时，也因为脚部问题被迫在31岁时挂上了运动鞋。
+
+#309.0:
+Her stellar but injury - plagued career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她出色但饱受伤病困扰的职业生涯让我想起了前NBA大个子姚明，他在休斯顿火箭队工作时，也因为脚部问题在31岁时被迫挂起了球鞋。
+Her stellar but injury - prone career reminds me of former NBA big man Yao Ming , who , while with the Houston Rockets , was also forced to hang up his sneakers at 31 due to foot troubles .
+她出色但容易受伤的职业生涯让我想起了前NBA大个子姚明，他在休斯顿火箭队工作时，也因为脚部问题在31岁时被迫挂断了球鞋。
+
+#312.0:
+In the video , Chou enters the La Samaritaine , a shopping mall that boasts a history of over 150 years and a landmark of Paris , and plays a melody on the piano that brings him back to the 1920s .
+在视频中，周进入了拥有150多年历史和巴黎地标的购物中心拉萨马里塔，并在钢琴上演奏了一段旋律，将他带回了20世纪20年代。
+In the video , Chou enters the La Samaritaine , a shopping mall that boasts a history of over 150 years and a landmark of Paris , and plays a tune on the piano that brings him back to the 1920s .
+在视频中，周进入了拥有150多年历史和巴黎地标的购物中心拉萨马里塔，并在钢琴上演奏了一首让他回到20世纪20年代的曲子。
+
+#316.0:
+It comprises many types of cells categorised by their core function – T cells , B cells and so on .
+它包括许多类型的细胞，按其核心功能分类——T细胞、B细胞等。
+It comprises many kinds of cells categorised by their core function – T cells , B cells and so on .
+它由多种细胞组成，按其核心功能分类——T细胞、B细胞等。
+
+#317.0:
+It comprises many types of cells categorised by their core function – T cells , B cells and so on .
+它包括许多类型的细胞，按其核心功能分类——T细胞、B细胞等。
+It comprises several types of cells categorised by their core function – T cells , B cells and so on .
+它包括按核心功能分类的几种细胞——T细胞、B细胞等。
+
+#323.0:
+Also , the number of points within a cluster tells us how many cells there are of that type .
+此外，一个簇内的点数告诉我们该类型的细胞有多少。
+Also , the number of points within the cluster tells us how many cells there are of that type .
+此外，集群中的点数告诉我们有多少属于这种类型的单元。
+
+#327.0:
+In fact , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑洁开始登上头条新闻后，从意外击败哈勒普开始，赛后采访中经常会提到李娜的名字，这是郑洁在这么小的时候取得巨大成功的主要原因。
+In fact , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a key reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑洁开始登上头条之后，从意外击败哈勒普开始，赛后采访中经常会提到李娜的名字，这是郑洁在这么小的年纪就取得巨大成功的一个关键原因。
+
+#328.0:
+In fact , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑洁开始登上头条新闻后，从意外击败哈勒普开始，赛后采访中经常会提到李娜的名字，这是郑洁在这么小的时候取得巨大成功的主要原因。
+In addition , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+此外，在郑洁出人意料地击败哈勒普成为头条新闻后，赛后采访中经常会提到李娜的名字，这是郑洁在这么小的时候取得巨大成功的主要原因。
+
+#329.0:
+In fact , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+事实上，在郑洁开始登上头条新闻后，从意外击败哈勒普开始，赛后采访中经常会提到李娜的名字，这是郑洁在这么小的时候取得巨大成功的主要原因。
+In particular , after Zheng began making the headlines , beginning with the surprise defeat of Halep , post - match interviews were often peppered with Li ' s name as a major reason driving Zheng ' s stellar success at such an early age .
+特别是，在郑洁出人意料地击败哈勒普成为头条新闻后，赛后采访中经常会提到李娜的名字，这是郑洁在这么小的时候取得巨大成功的主要原因。
+
+#332.0:
+Complicating things further for Apple is the fact that China is its biggest market outside the United States .
+使苹果公司的情况更加复杂的是，中国是苹果公司在美国以外的最大市场。
+Complicating things further for Apple is the fact that China remains its biggest market outside the United States .
+使苹果公司的情况更加复杂的是，中国仍然是其在美国以外的最大市场。
+
+#335.0:
+As the clock struck noon , Cai Kaijun , an urban construction worker , boarded a free air - conditioned bus stationed outside the work site to get some rest after working all morning in the searing heat .
+正午钟声敲响时，城市建设工人蔡开军在酷热中工作了一上午后，登上了一辆停在工地外的免费空调巴士休息。
+When the clock struck noon , Cai Kaijun , an urban construction worker , boarded a free air - conditioned bus stationed outside the work site to get some rest after working all morning in the searing heat .
+中午钟声敲响时，城市建设工人蔡开军在炎热的天气下工作了一上午后，登上了一辆停在工地外的免费空调巴士休息。
+
+#337.0:
+As the clock struck noon , Cai Kaijun , an urban construction worker , boarded a free air - conditioned bus stationed outside the work site to get some rest after working all morning in the searing heat .
+正午钟声敲响时，城市建设工人蔡开军在酷热中工作了一上午后，登上了一辆停在工地外的免费空调巴士休息。
+As the clock struck noon , Cai Kaijun , an urban construction worker , took a free air - conditioned bus stationed outside the work site to get some rest after working all morning in the searing heat .
+正午钟声敲响时，城市建设工人蔡开军在炎热的天气下工作了一上午后，乘坐了一辆免费的空调巴士，停在工地外休息。
+
+#339.0:
+As the clock struck noon , Cai Kaijun , an urban construction worker , boarded a free air - conditioned bus stationed outside the work site to get some rest after working all morning in the searing heat .
+正午钟声敲响时，城市建设工人蔡开军在酷热中工作了一上午后，登上了一辆停在工地外的免费空调巴士休息。
+As the clock struck noon , Cai Kaijun , an urban construction worker , boarded a free air - conditioned bus just outside the work site to get some rest after working all morning in the searing heat .
+正午钟声敲响时，城市建筑工人蔡开军在酷热的天气下工作了一上午后，在工地外登上了一辆免费空调巴士，休息一下。
+
+#355.0:
+Similar cells are positioned close together , while cells using very different sets of genes are far apart .
+相似的细胞定位在一起，而使用非常不同基因集的细胞相距很远。
+Similar genes are positioned close together , while cells using very different sets of genes are far apart .
+相似的基因定位在一起，而使用不同基因集的细胞相距很远。
+
+#356.0:
+Similar cells are positioned close together , while cells using very different sets of genes are far apart .
+相似的细胞定位在一起，而使用非常不同基因集的细胞相距很远。
+Similar cells are positioned close together , while cells using slightly different sets of genes are far apart .
+相似的细胞定位在一起，而使用稍微不同的基因集的细胞相距很远。
+
+#359.0:
+Similar cells are positioned close together , while cells using very different sets of genes are far apart .
+相似的细胞定位在一起，而使用非常不同基因集的细胞相距很远。
+Similar cells are positioned close together , while cells using very different sets of genes are farther apart .
+相似的细胞定位在一起，而使用不同基因组的细胞相距更远。
+
+#363.0:
+Fu Yelin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+58岁的Fu Yelin是毛坝的居民，从12岁起就一直在做竹制品。
+Wang Yelin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+58岁的毛坝居民王叶林从12岁起就开始制作竹制品。
+
+#364.0:
+Fu Yelin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+58岁的Fu Yelin是毛坝的居民，从12岁起就一直在做竹制品。
+Zhang Yelin , a 58 - year - old resident of Maoba , has been making bamboo products since he was 12 .
+58岁的毛坝居民张叶林从12岁起就开始制作竹制品。
+
+#366.0:
+Apple did not respond to requests for comment for this story , but Cook emphasized Apple ' s broader manufacturing footprint on the company ' s most recent earnings call .
+苹果没有回应对此事发表评论的请求，但库克在公司最近的电话财报会议中强调了苹果更广泛的制造业足迹。
+Apple did not respond to requests for comment for this story , though Cook emphasized Apple ' s broader manufacturing footprint on the company ' s most recent earnings call .
+尽管库克在公司最近的电话财报会议中强调了苹果更广泛的制造业足迹，但苹果没有回应对此报道发表评论的请求。
+
+#367.0:
+Apple did not respond to requests for comment for this story , but Cook emphasized Apple ' s broader manufacturing footprint on the company ' s most recent earnings call .
+苹果没有回应对此事发表评论的请求，但库克在公司最近的电话财报会议中强调了苹果更广泛的制造业足迹。
+Apple did not respond to requests for comment for this story , although Cook emphasized Apple ' s broader manufacturing footprint on the company ' s most recent earnings call .
+尽管库克在公司最近的电话财报会议中强调了苹果更广泛的制造业足迹，但苹果没有回应对此报道发表评论的请求。
+
+#369.0:
+Apple did not respond to requests for comment for this story , but Cook emphasized Apple ' s broader manufacturing footprint on the company ' s most recent earnings call .
+苹果没有回应对此事发表评论的请求，但库克在公司最近的电话财报会议中强调了苹果更广泛的制造业足迹。
+Apple did not respond to requests for comment for this story , but Cook emphasized Apple ' s large manufacturing footprint on the company ' s most recent earnings call .
+苹果没有回应记者就此事发表评论的请求，但库克在公司最近的电话财报会议中强调了苹果的巨大制造足迹。
+
+#379.0:
+As it turned out , another team from the US and Switzerland had independently found the same thing .
+事实证明，另一个来自美国和瑞士的团队也独立发现了同样的问题。
+As it turned out , another team from the US and Germany had independently found the same thing .
+事实证明，来自美国和德国的另一个团队也独立发现了同样的问题。
+
+#392.0:
+In the future , maybe within 10 years or so , a whole cloud of information will be available – including an analysis of your body ' s cells – and you will have to decide how much you want to delve into it .
+在未来，也许在10年左右的时间里，一整套信息都将可用——包括对你身体细胞的分析——你将不得不决定你想深入研究多少。
+In the future , maybe within five years or so , a whole cloud of information will be available – including an analysis of your body ' s cells – and you will have to decide how much you want to delve into it .
+在未来，也许在五年左右的时间里，将有一整套信息可用——包括对你身体细胞的分析——你将不得不决定你想深入研究多少。
+
+#401.0:
+Zhang and the girls trained hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+张和女孩们刻苦训练，很快，老师和学生们看到了球队的巨大进步，吸引了更多的学生加入。
+Zhang and the girls trained hard , and soon , teachers and students noticed great improvement in the team , which attracted more students to join .
+张和女孩们刻苦训练，很快，老师和学生们注意到球队有了很大的进步，吸引了更多的学生加入。
+
+#402.0:
+Zhang and the girls trained hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+张和女孩们刻苦训练，很快，老师和学生们看到了球队的巨大进步，吸引了更多的学生加入。
+Zhang and the girls worked hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+张和女孩们努力学习，很快，老师和学生们看到了团队的巨大进步，吸引了更多的学生加入。
+
+#405.0:
+He helped build and manage its global supply chain as COO before ascending to the top job in 2011 .
+在2011年升任首席运营官之前，他以首席运营官的身份帮助建立和管理了该公司的全球供应链。
+He helped build and manage its global supply chain as COO until ascending to the top job in 2011 .
+在2011年晋升为首席运营官之前，他一直以首席运营官的身份帮助建立和管理公司的全球供应链。
+
+#406.0:
+He helped build and manage its global supply chain as COO before ascending to the top job in 2011 .
+在2011年升任首席运营官之前，他以首席运营官的身份帮助建立和管理了该公司的全球供应链。
+He helped build and develop its global supply chain as COO before ascending to the top job in 2011 .
+在2011年晋升为首席运营官之前，他以首席运营官的身份帮助建立和发展了该公司的全球供应链。
+
+#407.0:
+He helped build and manage its global supply chain as COO before ascending to the top job in 2011 .
+在2011年升任首席运营官之前，他以首席运营官的身份帮助建立和管理了该公司的全球供应链。
+He helped build and lead its global supply chain as COO before ascending to the top job in 2011 .
+在2011年晋升为首席运营官之前，他曾以首席运营官的身份帮助建立并领导该公司的全球供应链。
+
+#408.0:
+He helped build and manage its global supply chain as COO before ascending to the top job in 2011 .
+在2011年升任首席运营官之前，他以首席运营官的身份帮助建立和管理了该公司的全球供应链。
+He helped build and grow its global supply chain as COO before ascending to the top job in 2011 .
+在2011年晋升为首席运营官之前，他曾以首席运营官的身份帮助建立和发展其全球供应链。
+
+#409.0:
+He helped build and manage its global supply chain as COO before ascending to the top job in 2011 .
+在2011年升任首席运营官之前，他以首席运营官的身份帮助建立和管理了该公司的全球供应链。
+He helped develop and manage its global supply chain as COO before ascending to the top job in 2011 .
+在2011年晋升为首席运营官之前，他曾以首席运营官的身份帮助开发和管理其全球供应链。
+
+#413.0:
+Lulusmile , a local brand founded by fashion company Lulualways in 2019 , released a virtual fashion show with the world ' s leading shared digital platform Roblox .
+时尚公司Lulualways于2019年创立的本地品牌Lulusmile与世界领先的共享数字平台Roblox一起发布了一场虚拟时装秀。
+Lulusmile , a local brand founded by fashion company Lulualways in 2019 , released a virtual fashion show through the world ' s leading shared digital platform Roblox .
+时尚公司Lulualways于2019年创立的本地品牌Lulusmile通过世界领先的共享数字平台Roblox发布了一场虚拟时装秀。
+
+#415.0:
+" It was one of those beautiful moments in science when two groups found the same results separately , " recalled Moshe Biton from the Broad Institute team .
+Broad研究所团队的Moshe Biton回忆道：“当两个研究组分别发现相同的结果时，这是科学界的美好时刻之一。”。
+" This was one of those beautiful moments in science when two groups found the same results separately , " recalled Moshe Biton from the Broad Institute team .
+Broad研究所团队的Moshe Biton回忆道：“这是科学界的一个美好时刻，两个小组分别发现了相同的结果。”。
+
+#416.0:
+" It was one of those beautiful moments in science when two groups found the same results separately , " recalled Moshe Biton from the Broad Institute team .
+Broad研究所团队的Moshe Biton回忆道：“当两个研究组分别发现相同的结果时，这是科学界的美好时刻之一。”。
+" That was one of those beautiful moments in science when two groups found the same results separately , " recalled Moshe Biton from the Broad Institute team .
+Broad研究所团队的Moshe Biton回忆道：“当两组分别发现相同的结果时，这是科学中最美好的时刻之一。”。
+
+#417.0:
+" It was one of those beautiful moments in science when two groups found the same results separately , " recalled Moshe Biton from the Broad Institute team .
+Broad研究所团队的Moshe Biton回忆道：“当两个研究组分别发现相同的结果时，这是科学界的美好时刻之一。”。
+" It was one of those beautiful moments in science where two groups found the same results separately , " recalled Moshe Biton from the Broad Institute team .
+Broad研究所团队的Moshe Biton回忆道：“这是科学中两个小组分别发现相同结果的美妙时刻之一。”。
+
+#419.0:
+" It was one of those beautiful moments in science when two groups found the same results separately , " recalled Moshe Biton from the Broad Institute team .
+Broad研究所团队的Moshe Biton回忆道：“当两个研究组分别发现相同的结果时，这是科学界的美好时刻之一。”。
+" It was one of those beautiful moments in science when two groups found the same results simultaneously , " recalled Moshe Biton from the Broad Institute team .
+Broad研究所团队的Moshe Biton回忆道：“当两个研究组同时发现相同的结果时，这是科学中最美好的时刻之一。”。
+
+#420.0:
+This prototype of the frisbee has evolved and since the beginning of the 20th century it has become a popular sport and pastime .
+这种飞盘的原型已经演变，自20世纪初以来，它已经成为一种流行的运动和消遣。
+The prototype of the frisbee has evolved and since the beginning of the 20th century it has become a popular sport and pastime .
+飞盘的原型已经演变，自20世纪初以来，它已成为一项流行的运动和消遣。
+
+#421.0:
+This prototype of the frisbee has evolved and since the beginning of the 20th century it has become a popular sport and pastime .
+这种飞盘的原型已经演变，自20世纪初以来，它已经成为一种流行的运动和消遣。
+This prototype of the frisbee has evolved and from the beginning of the 20th century it has become a popular sport and pastime .
+这种飞盘的原型已经演变，从20世纪初开始，它已经成为一种流行的运动和消遣。
+
+#422.0:
+This prototype of the frisbee has evolved and since the beginning of the 20th century it has become a popular sport and pastime .
+这种飞盘的原型已经演变，自20世纪初以来，它已经成为一种流行的运动和消遣。
+This game of the frisbee has evolved and since the beginning of the 20th century it has become a popular sport and pastime .
+这种飞盘游戏已经演变，自20世纪初以来，它已成为一项流行的运动和消遣。
+
+#424.0:
+This prototype of the frisbee has evolved and since the beginning of the 20th century it has become a popular sport and pastime .
+这种飞盘的原型已经演变，自20世纪初以来，它已经成为一种流行的运动和消遣。
+This use of the frisbee has evolved and since the beginning of the 20th century it has become a popular sport and pastime .
+这种使用飞盘的方式已经演变，自20世纪初以来，它已经成为一种流行的运动和消遣。
+
+#425.0:
+A veteran craftsman in Hunan seeks to keep the tradition of making bamboo products alive while helping locals earn more , Xing Wen reports .
+据邢文报道，湖南一位经验丰富的工匠试图保持竹制品的传统，同时帮助当地人赚更多的钱。
+A veteran craftsman in Hunan seeks to keep the tradition of making bamboo products alive while helping locals earn more , Ning Wen reports .
+据宁文报道，湖南一位资深工匠试图保持竹制品制作的传统，同时帮助当地人赚更多的钱。
+
+#426.0:
+A veteran craftsman in Hunan seeks to keep the tradition of making bamboo products alive while helping locals earn more , Xing Wen reports .
+据邢文报道，湖南一位经验丰富的工匠试图保持竹制品的传统，同时帮助当地人赚更多的钱。
+A veteran craftsman in Hunan seeks to keep the traditions of making bamboo products alive while helping locals earn more , Xing Wen reports .
+据邢文报道，湖南一位经验丰富的工匠在帮助当地人赚更多钱的同时，努力保持竹制品制作的传统。
+
+#427.0:
+A veteran craftsman in Hunan seeks to keep the tradition of making bamboo products alive while helping locals earn more , Xing Wen reports .
+据邢文报道，湖南一位经验丰富的工匠试图保持竹制品的传统，同时帮助当地人赚更多的钱。
+A veteran craftsman in Hunan tries to keep the tradition of making bamboo products alive while helping locals earn more , Xing Wen reports .
+据邢文报道，湖南一位资深工匠试图保持竹制品制作的传统，同时帮助当地人赚更多的钱。
+
+#428.0:
+A veteran craftsman in Hunan seeks to keep the tradition of making bamboo products alive while helping locals earn more , Xing Wen reports .
+据邢文报道，湖南一位经验丰富的工匠试图保持竹制品的传统，同时帮助当地人赚更多的钱。
+A local craftsman in Hunan seeks to keep the tradition of making bamboo products alive while helping locals earn more , Xing Wen reports .
+据邢文报道，湖南一名当地工匠在帮助当地人赚更多钱的同时，努力保持竹制品的传统。
+
+#429.0:
+A veteran craftsman in Hunan seeks to keep the tradition of making bamboo products alive while helping locals earn more , Xing Wen reports .
+据邢文报道，湖南一位经验丰富的工匠试图保持竹制品的传统，同时帮助当地人赚更多的钱。
+A veteran craftsman in Hunan wants to keep the tradition of making bamboo products alive while helping locals earn more , Xing Wen reports .
+据邢文报道，湖南一位资深工匠希望保留竹制品制作的传统，同时帮助当地人赚更多的钱。
+
+#430.0:
+For some illnesses , this has been achieved already – with vaccines , clean water and improved sanitation .
+对于某些疾病来说，这已经实现了——疫苗、清洁水和改善卫生条件。
+In some illnesses , this has been achieved already – with vaccines , clean water and improved sanitation .
+在一些疾病中，这一点已经实现——疫苗、清洁水和改善卫生条件。
+
+#431.0:
+For some illnesses , this has been achieved already – with vaccines , clean water and improved sanitation .
+对于某些疾病来说，这已经实现了——疫苗、清洁水和改善卫生条件。
+For many illnesses , this has been achieved already – with vaccines , clean water and improved sanitation .
+对于许多疾病来说，这已经实现了——疫苗、清洁水和改善的卫生条件。
+
+#433.0:
+For some illnesses , this has been achieved already – with vaccines , clean water and improved sanitation .
+对于某些疾病来说，这已经实现了——疫苗、清洁水和改善卫生条件。
+For some illnesses , this has been done already – with vaccines , clean water and improved sanitation .
+对于某些疾病，这已经做到了——疫苗、清洁水和改善卫生条件。
+
+#438.0:
+The digital fashion show came to a successful conclusion , Xia felt amazed and moved when reviewing this trial .
+数码时装秀圆满结束，夏在回顾此次试穿时感到惊讶和感动。
+As digital fashion show came to a successful conclusion , Xia felt amazed and moved when reviewing this trial .
+当数码时装秀圆满结束时，夏在回顾这一试验时感到惊讶和感动。
+
+#440.0:
+" I was under the impression that it was only a toy for children and pets , " says Qu Xinchen who started playing frisbee in April .
+今年4月开始玩飞盘的曲新辰说：“我当时的印象是，它只是一个儿童和宠物的玩具。”。
+" I was under the impression that it was only a toy for children and pets , " says Qiu Xinchen who started playing frisbee in April .
+四月份开始玩飞盘的邱新辰说：“我当时的印象是，它只是儿童和宠物的玩具。”。
+
+#441.0:
+" I was under the impression that it was only a toy for children and pets , " says Qu Xinchen who started playing frisbee in April .
+今年4月开始玩飞盘的曲新辰说：“我当时的印象是，它只是一个儿童和宠物的玩具。”。
+" I was under the impression that it was only a toy for children and pets , " says Gu Xinchen who started playing frisbee in April .
+四月份开始玩飞盘的顾新辰说：“我当时的印象是，它只是儿童和宠物的玩具。”。
+
+#442.0:
+" I was under the impression that it was only a toy for children and pets , " says Qu Xinchen who started playing frisbee in April .
+今年4月开始玩飞盘的曲新辰说：“我当时的印象是，它只是一个儿童和宠物的玩具。”。
+" I was under the impression that it was only a toy for children and pets , " says Hou Xinchen who started playing frisbee in April .
+四月份开始玩飞盘的侯新辰说：“我当时的印象是，它只是儿童和宠物的玩具。”。
+
+#443.0:
+" I was under the impression that it was only a toy for children and pets , " says Qu Xinchen who started playing frisbee in April .
+今年4月开始玩飞盘的曲新辰说：“我当时的印象是，它只是一个儿童和宠物的玩具。”。
+" I was under the impression that it was only a toy for kids and pets , " says Qu Xinchen who started playing frisbee in April .
+“我当时的印象是，它只是孩子和宠物的玩具，”四月份开始玩飞盘的曲新辰说。
+
+#444.0:
+" I was under the impression that it was only a toy for children and pets , " says Qu Xinchen who started playing frisbee in April .
+今年4月开始玩飞盘的曲新辰说：“我当时的印象是，它只是一个儿童和宠物的玩具。”。
+" I was under the impression that it was only a toy for children and pets , " says Niu Xinchen who started playing frisbee in April .
+四月份开始玩飞盘的牛新辰说：“我当时的印象是，它只是一个儿童和宠物的玩具。”。
+
+#451.0:
+" The fashion week is a platform that hopes to support designers to turn the brand from creativity and awareness to business , " she added .
+“时装周是一个平台，希望支持设计师将品牌从创意和知名度转变为商业，”她补充道。
+" The fashion week is a platform that hopes to support designers to move the brand from creativity and awareness to business , " she added .
+她补充说：“时装周是一个平台，希望支持设计师将品牌从创意和知名度转移到商业领域。”。
+
+#452.0:
+" The fashion week is a platform that hopes to support designers to turn the brand from creativity and awareness to business , " she added .
+“时装周是一个平台，希望支持设计师将品牌从创意和知名度转变为商业，”她补充道。
+" The fashion week is a platform that hopes to encourage designers to turn the brand from creativity and awareness to business , " she added .
+“时装周是一个平台，希望鼓励设计师将品牌从创意和知名度转向商业，”她补充道。
+
+#453.0:
+" The fashion week is a platform that hopes to support designers to turn the brand from creativity and awareness to business , " she added .
+“时装周是一个平台，希望支持设计师将品牌从创意和知名度转变为商业，”她补充道。
+" The fashion week is a platform that hopes to enable designers to turn the brand from creativity and awareness to business , " she added .
+她补充说：“时装周是一个平台，希望设计师能够将品牌从创意和知名度转变为商业。”。
+
+#458.0:
+" It is the same as Christmas in France , a time to enjoy family gatherings and visit friends , " he said .
+“这和法国的圣诞节一样，是一个享受家庭聚会和拜访朋友的时刻，”他说。
+" It is the same as Christmas in France , a time to have family gatherings and visit friends , " he said .
+他说：“这和法国的圣诞节一样，是家庭聚会和拜访朋友的时候。”。
+
+#459.0:
+" It is the same as Christmas in France , a time to enjoy family gatherings and visit friends , " he said .
+“这和法国的圣诞节一样，是一个享受家庭聚会和拜访朋友的时刻，”他说。
+" It is the same as Christmas in France , a time to attend family gatherings and visit friends , " he said .
+“这和法国的圣诞节一样，是参加家庭聚会和拜访朋友的时候，”他说。
+
+#467.0:
+Luckily , Xia found a team from Tongji University to support her , which guaranteed the shooting on June 8 and the release of the virtual show on June 19 .
+幸运的是，夏找到了同济大学的一个团队来支持她，这保证了6月8日的拍摄和6月19日的虚拟秀的发布。
+Luckily , Xia recruited a team from Tongji University to support her , which guaranteed the shooting on June 8 and the release of the virtual show on June 19 .
+幸运的是，夏从同济大学招募了一个团队来支持她，这确保了6月8日的拍摄和6月19日的虚拟秀的发布。
+
+#468.0:
+Luckily , Xia found a team from Tongji University to support her , which guaranteed the shooting on June 8 and the release of the virtual show on June 19 .
+幸运的是，夏找到了同济大学的一个团队来支持她，这保证了6月8日的拍摄和6月19日的虚拟秀的发布。
+Luckily , Xia got a team from Tongji University to support her , which guaranteed the shooting on June 8 and the release of the virtual show on June 19 .
+幸运的是，夏得到了同济大学的一个团队的支持，这保证了6月8日的拍摄和6月19日的虚拟秀的发布。
+
+#469.0:
+Luckily , Xia found a team from Tongji University to support her , which guaranteed the shooting on June 8 and the release of the virtual show on June 19 .
+幸运的是，夏找到了同济大学的一个团队来支持她，这保证了6月8日的拍摄和6月19日的虚拟秀的发布。
+Luckily , Xia found a team from Tongji University to support her , who guaranteed the shooting on June 8 and the release of the virtual show on June 19 .
+幸运的是，夏找到了同济大学的一个团队来支持她，他们保证了6月8日的拍摄和6月19日虚拟节目的发布。
+
+#475.0:
+Climbing over the high mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+爬过高山，经过下面的蓝色湖泊，公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+Climbing over the steep mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+翻越陡峭的山峦，穿过下面的蓝色湖泊，公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+
+#476.0:
+Climbing over the high mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+爬过高山，经过下面的蓝色湖泊，公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+Climbing over the towering mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+翻越巍峨的群山，经过下面的蓝色湖泊，公共汽车在蜿蜒的高原公路上行驶时，似乎相互连接。
+
+#478.0:
+Climbing over the high mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+爬过高山，经过下面的蓝色湖泊，公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+Climbing over the forested mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+爬过森林覆盖的群山，经过下面的蓝色湖泊，公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+
+#479.0:
+Climbing over the high mountains , passing the blue lake below , the buses seem connected as they negotiated the winding plateau highway .
+爬过高山，经过下面的蓝色湖泊，公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+Climbing over the high mountains , passing the vast lake below , the buses seem connected as they negotiated the winding plateau highway .
+翻越高山，经过下面的广阔湖泊，公共汽车在蜿蜒的高原公路上行驶时似乎相互连接。
+
+#484.0:
+Founded by Chu Hongsheng in 2000 , this studio is the heart of Hanart ' s operations in China and one of the reasons why this classic dress has been making waves around the world .
+这家工作室由朱洪生于2000年创立，是哈纳特在中国业务的核心，也是这件经典服装在世界各地风起云涌的原因之一。
+Founded by Zhang Hongsheng in 2000 , this studio is the heart of Hanart ' s operations in China and one of the reasons why this classic dress has been making waves around the world .
+该工作室由张洪生于2000年创建，是哈纳特在中国业务的核心，也是这件经典服装在世界各地风起云涌的原因之一。
+
+#494.0:
+Many designers participated in this unique fashion show , referring the digitalization will be the focus of the next development of many brands .
+许多设计师参加了这场独特的时装秀，表示数字化将是许多品牌下一步发展的重点。
+Many designers participate in this unique fashion show , referring the digitalization will be the focus of the next development of many brands .
+许多设计师参与了这场独特的时装秀，并指出数字化将是许多品牌下一步发展的重点。
+

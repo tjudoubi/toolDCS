@@ -1,0 +1,147 @@
+#10:
+The US Food and Drug Administration ordered vaccine makers in June to update the boosters to add an Omicron BA .
+美国食品和药物管理局于6月下令疫苗制造商更新加强剂以添加Omicron BA。
+The US Food and Drug Administration advised vaccine makers in June to update the boosters to add an Omicron BA .
+美国食品和药物管理局建议疫苗制造商在6月份更新加强剂以添加Omicron BA。
+LCS-Wdiff:	0.7142857142857143 
+--FP--
+#11:
+The bacterium that causes a rare , serious disease called melioidosis has been detected in water and soil samples in Mississippi , the US Centers for Disease Control and Prevention said Wednesday .
+美国疾病控制和预防中心周三表示，导致一种罕见的，严重的疾病称为类鼻疽病的细菌已经在密西西比州的水和土壤样本中检测到。
+The bacteria that causes a rare , serious disease called melioidosis has been detected in water and soil samples in Mississippi , the US Centers for Disease Control and Prevention said Wednesday .
+美国疾病控制和预防中心周三表示，在密西西比州的水和土壤样本中已经检测到导致一种罕见的，严重的疾病称为类鼻疽的细菌。
+LCS-Wdiff:	0.6666666666666666 
+--FP--
+#13:
+Symptoms of colioidosis depend on where someone is infected but may include fever , pain or swelling , ulcers , coughing , chest pain , trouble breathing , weight loss , muscle or joint pain , disorientation , headache and seizures .
+大肠杆菌病的症状取决于某人感染的位置，但可能包括发烧 ，疼痛或肿胀 ， 溃疡 ， 咳嗽 ， 胸痛 ， 呼吸困难 ， 体重减轻 ， 肌肉或关节疼痛 ， 定向障碍 ， 头痛和癫痫发作 。
+Symptoms of melioidosis depend on where someone is infected but may include fever , pain or swelling , ulcers , coughing , chest pain , trouble breathing , weight loss , muscle or joint pain , disorientation , headache and seizures .
+类鼻痣的症状取决于感染者的位置，但可能包括发烧 ，疼痛或肿胀 ， 溃疡 ， 咳嗽 ， 胸痛 ， 呼吸困难 ， 体重减轻 ， 肌肉或关节疼痛 ， 定向障碍 ， 头痛和癫痫发作 。
+LCS-Wdiff:	0.95 
+--FP--
+#15:
+Symptoms of melioidosis depend on where someone is infected but may include fever , pain or swelling , ulcers , coughing , chest pain , difficulty breathing , weight loss , muscle or joint pain , disorientation , headache and seizures .
+类鼻痣的症状取决于感染者的位置，但可能包括发烧 、疼痛或肿胀 、 溃疡 、 咳嗽 、 胸痛 、 呼吸困难 、 体重减轻 、 肌肉或关节疼痛 、 定向障碍 、 头痛和癫痫发作。
+Symptoms of melioidosis depend on where someone is infected but may include fever , pain or swelling , ulcers , coughing , chest pain , trouble breathing , weight loss , muscle or joint pain , disorientation , headache and seizures .
+类鼻痣的症状取决于感染者的位置，但可能包括发烧 ，疼痛或肿胀 ， 溃疡 ， 咳嗽 ， 胸痛 ， 呼吸困难 ， 体重减轻 ， 肌肉或关节疼痛 ， 定向障碍 ， 头痛和癫痫发作 。
+LCS-Wdiff:	0.7948717948717948 
+--FP--
+#20:
+The CDC says that wearing a condom can help , but alone , it probably will not protect against the spread of monkeypox .
+疾病预防控制中心表示，戴避孕套可以提供帮助，但仅靠它可能无法防止猴痘的传播。
+The CDC says that wearing a condom may help , but alone , it probably will not protect against the spread of monkeypox .
+疾病预防控制中心表示，戴避孕套可能会有所帮助，但仅凭它可能无法防止猴痘的传播。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#28:
+San Francisco ' s health department requested 35 , 000 doses to meet the overwhelming demand there but said it has received only 10 , 000 doses as of Thursday .
+旧金山的卫生部门要求35，000剂以满足那里的压倒性需求，但表示截至周四仅收到10，000剂。
+San Francisco ' s health department requested 35 , 000 doses to meet the overwhelming demand there but said it has received only 12 , 000 doses as of Thursday .
+旧金山的卫生部门要求35，000剂，以满足那里的压倒性需求，但表示截至周四，它只收到了12，000剂。
+LCS-Wdiff:	0.8148148148148148 
+--FP--
+#29:
+San Francisco ' s health department requested 35 , 000 doses to meet the overwhelming demand there but said it has received only 4 , 000 doses as of Thursday .
+旧金山的卫生部门要求35，000剂以满足那里的压倒性需求，但表示截至周四仅收到4，000剂。
+San Francisco ' s health department requested 35 , 000 doses to meet the overwhelming demand there but said it has received only 12 , 000 doses as of Thursday .
+旧金山的卫生部门要求35，000剂，以满足那里的压倒性需求，但表示截至周四，它只收到了12，000剂。
+LCS-Wdiff:	0.8148148148148148 
+--FP--
+#32:
+The San Francisco Department of Public Health has confirmed 261 cases of monkeypox in the city , while California has a total of 798 cases .
+旧金山公共卫生部已经确认了该市261例猴痘病例，而加利福尼亚州共有798例。
+The San Francisco Department of Public Health has confirmed 261 cases of monkeypox in the city , while California has a total of 799 cases .
+旧金山公共卫生部已经确认该市有261例猴痘病例，而加利福尼亚州共有799例。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#37:
+Vaccines are free when people can find them , testing costs can add up , and treatments are still hard to access .
+当人们可以找到疫苗时，疫苗是免费的，检测成本可能会增加，治疗仍然难以获得。
+Vaccines are free when people can find them , testing costs can add up , and treatments are still difficult to access .
+当人们能够找到疫苗时，疫苗是免费的，测试成本可能会增加，并且治疗仍然难以获得。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#50:
+On Sunday , more than 100 members of Congress wrote a letter to the Biden administration urging additional funding for sexual health clinics to improve the monkeypox response effort .
+周日，超过100名国会议员致信拜登政府，敦促为性健康诊所提供额外资金，以改善猴痘应对工作。
+On Monday , more than 100 members of Congress wrote a letter to the Biden administration urging additional funding for sexual health clinics to improve the monkeypox response effort .
+周一，100多名国会议员致信拜登政府，敦促为性健康诊所提供额外资金，以改善猴痘应对工作。
+LCS-Wdiff:	0.9130434782608695 
+--FP--
+#51:
+On Wednesday , more than 100 members of Congress wrote a letter to the Biden administration urging additional funding for sexual health clinics to improve the monkeypox response effort .
+周三，超过100名国会议员致信拜登政府，敦促为性健康诊所提供额外资金，以改善猴痘应对工作。
+On Monday , more than 100 members of Congress wrote a letter to the Biden administration urging additional funding for sexual health clinics to improve the monkeypox response effort .
+周一，100多名国会议员致信拜登政府，敦促为性健康诊所提供额外资金，以改善猴痘应对工作。
+LCS-Wdiff:	0.9130434782608695 
+--FP--
+#52:
+The other complications is that the ADAM vaccine uses a live , but weakened version of a virus to inoculate a person .
+另一个并发症是ADAM疫苗使用活的，但弱化的病毒版本来接种一个人。
+The other complications is that the ACAM vaccine uses a live , but weakened version of a virus to inoculate a person .
+另一个并发症是ACAM疫苗使用活的，但减弱的病毒版本来接种一个人 。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#63:
+Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi , the first detection of these bacteria in the environment in the US .
+假马勒伯克霍尔德菌被发现在墨西哥湾沿岸的密西西比州地区，在美国的这种环境中首次发现了这些细菌。
+Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi , the first detection of the bacteria in the environment in the US .
+假马勒伯克霍尔德菌被发现于墨西哥湾沿岸的密西西比州地区，是美国首次在环境中检测到这种细菌。
+LCS-Wdiff:	0.782608695652174 
+--FP--
+#64:
+His organization was one of the signers of the letter to the CDC requesting a bigger response .
+他的组织是给疾病预防控制中心的信的签署人之一，要求更大的回应 。
+His organization was one of the signers of the letter to the CDC demanding a bigger response .
+他的组织是给疾病预防控制中心的信的签署者之一，要求做出更大的回应 。
+LCS-Wdiff:	0.95 
+--FP--
+#67:
+In Washington , the federal government is continuing to monitor the response to monkeypox and will use that to consider whether to declare the outbreak a public health emergency , HHS Secretary Jose Becerra said Thursday .
+在华盛顿，联邦政府正在继续监测对猴痘的反应，并将用它来考虑是否宣布疫情为公共卫生紧急状态，HHS秘书何塞·贝塞拉周四表示。
+In Washington , the federal government is continuing to monitor the response to monkeypox and will use that to consider whether to declare the outbreak a public health emergency , HHS Secretary Xavier Becerra said Thursday .
+在华盛顿，联邦政府正在继续监测对猴痘的反应，并将用它来考虑是否宣布疫情为公共卫生紧急状态，HHS秘书Xavier Becerra周四表示。
+LCS-Wdiff:	0.8857142857142857 
+--FP--
+#69:
+But , the US does n ' t have enough doses of Dynneos to vaccinate all who might want it , so public health officials are also considering whether to use a second , older type of vaccine called ACAM .
+但是，美国确实没有足够的剂量的Dynneos来为所有可能想要它的人接种疫苗，因此公共卫生官员也在考虑是否使用第二种称为ACAM的老式疫苗。
+But , the US does n ' t have enough doses of Jynneos to vaccinate all who might want it , so public health officials are also considering whether to use a second , older type of vaccine called ACAM .
+但是，美国确实没有足够的剂量的Jynneos来为所有可能想要的人接种疫苗，因此公共卫生官员也在考虑是否使用第二种称为ACAM的较旧疫苗。
+LCS-Wdiff:	0.9428571428571428 
+--FP--
+#74:
+In late June , vaccine makers said adapters updated to target Omicron showed a stronger immune response than the current vaccines .
+6月下旬，疫苗制造商表示，更新为靶向Omicron的适配器显示出比当前疫苗更强的免疫反应。
+In late June , vaccine makers said boosters updated to target Omicron showed a stronger immune response than the current vaccines .
+6月下旬，疫苗制造商表示，更新为针对Omicron的加强剂显示出比当前疫苗更强的免疫反应。
+LCS-Wdiff:	0.9545454545454546 
+--FP--
+#76:
+A new study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴里说，一项新的研究可以帮助平息人们在联系朋友时面临的焦虑。
+This new study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴里说，这项新研究可以帮助平息人们在联系朋友时面临的焦虑。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#77:
+As of Friday , New York City ' s official health department website says all available appointments for vaccines have been filled at this time .
+截至周五，纽约市卫生部门官方网站称，此时所有可用的疫苗预约都已满员。
+As of Friday , New York City ' s public health department website says all available appointments for vaccines have been filled at this time .
+截至周五，纽约市公共卫生部门网站称，此时所有可用的疫苗预约都已满员。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#80:
+So far in the United States , there have been 306 cases of monkeypox identified in 28 jurisdictions .
+到目前为止，在美国，在28个司法管辖区内已发现306例猴痘病例。
+So far in the United States , there have been 306 cases of monkeypox identified across 28 jurisdictions .
+到目前为止，在美国，在28个司法管辖区内已经发现了306例猴痘病例。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#94:
+They ' re scared and do n ' t know how they can realistically keep themselves safe despite a lack of vaccines .
+他们很害怕，不知道尽管缺乏疫苗，他们如何才能现实地保持自己的安全。
+They ' re scared and do n ' t know how they can realistically keep themselves safe with a lack of vaccines .
+他们很害怕，不知道在缺乏疫苗的情况下，他们如何现实地保持自己的安全。
+LCS-Wdiff:	0.9473684210526315 
+--FP--

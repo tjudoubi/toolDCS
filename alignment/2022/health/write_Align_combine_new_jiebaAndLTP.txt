@@ -1,0 +1,1200 @@
+#1Because of this , the CDC says , there 's no reason to think that more treatment is needed .
+因此 ， CDC 说 ， 没有 理由 认为 需要 更 多 的 治疗 。
+Because{因此 }of{}this{因此 },{， }the{}CDC{CDC }says{说 },{， }there{}'s{}no{没有 }reason{理由 }to{}think{认为 }that{认为 }more{更 }treatment{治疗 }is{}needed{需要 }.{。 }
+
+#2There are 300,000 doses that were being held by the manufacturer that are currently on the way .
+制造商 持有 的 30 万剂 目前 正在 进行 中 。
+There{}are{}300,000{30 万剂 }doses{万剂 }that{的 }were{}being{正在 }held{进行 }by{}the{}manufacturer{制造商 }that{}are{正在 }currently{目前 }on{}the{}way{}.{。 }
+
+#3One of the major public clinics offering the vaccine there had to shut down Tuesday when it ran out after vaccinating 600 people .
+当地 一 家 提供 疫苗 的 主要 公共 诊所 在 为 600 人 接种 疫苗 后于 周二 关闭 。
+One{一 }of{}the{的 }major{主要 }public{公共 }clinics{诊所 }offering{提供 }the{}vaccine{疫苗 }there{当地 }had{}to{}shut{关闭 }down{}Tuesday{周二 }when{}it{}ran{接种 }out{}after{后于 }vaccinating{疫苗 }600{600 }people{人 }.{。 }
+
+#4When focusing on the possibility of rejection , one may deprive oneself of close friendships and enjoyable experiences , she added .
+当 关注 被 拒绝 的 可能性 时 ， 一个 人 可能 会 剥夺 自己 亲密 的 友谊 和 愉快 的 经历 ， 她 补充 道 。
+When{当 }focusing{关注 }on{}the{的 }possibility{可能性 }of{被 }rejection{拒绝 },{， }one{一个 }may{可能 会 }deprive{剥夺 }oneself{自己 }of{的 }close{亲密 }friendships{友谊 }and{和 }enjoyable{愉快 }experiences{经历 },{， }she{她 }added{补充 }.{。 }
+
+#5Half of them have come from just two families , leading the researchers to conclude that such cases are not all that rare .
+其中 一半 来自 两 个 家庭 ， 这 使得 研究 人员 得出 结论 ， 此类 病例 并 不 罕见 。
+Half{一半 }of{其中 }them{其中 }have{}come{来自 }from{来自 }just{}two{两 }families{家庭 },{， }leading{使得 }the{}researchers{研究 }to{使得 }conclude{结论 }that{， }such{此类 }cases{病例 }are{}not{不 }all{}that{}rare{罕见 }.{。 }
+
+#6Vaccination should occur within two weeks of a possible exposure , And the sooner you can get vaccinated after the exposure , the better . "
+疫苗 接种 应 在 可能 接触 后 的 两 周 内 进行 ， 接触 后 越 早 接种 越 好 。 ”
+Vaccination{疫苗 接种 }should{应 }occur{进行 }within{在 }two{两 }weeks{周 }of{的 }a{的 }possible{可能 }exposure{接触 },{， }And{， }the{越 }sooner{早 }you{}can{}get{}vaccinated{接种 }after{后 }the{}exposure{接触 },{}the{越 }better{好 }.{。 }"{” }
+
+#7While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak , San Francisco and New York state began sounding the alarm Thursday .
+就 在 联邦 官员 就 猴 痘 疫情 发表 全国 公共 卫生 紧急 声明 时 ， 旧金山 和 纽约州 周四 开始 敲响 警钟 。
+While{在 }federal{联邦 }officials{官员 }weigh{发表 }a{}nationwide{全国 }public{公共 }health{卫生 }emergency{紧急 }declaration{声明 }around{就 }the{}monkeypox{猴 痘 }outbreak{疫情 },{， }San{旧金山 }Francisco{旧金山 }and{和 }New{纽约州 }York{纽约州 }state{纽约州 }began{开始 }sounding{敲响 }the{}alarm{警钟 }Thursday{周四 }.{。 }
+
+#8Younger generations have become conditioned to communication that does n't happen in real time , she said .
+她 说 ， 年轻 一代 已经 习惯 于 非 实时 的 交流 。
+Younger{年轻 }generations{一代 }have{已经 }become{}conditioned{习惯 }to{于 }communication{交流 }that{}does{}n't{非 }happen{}in{}real{实时 }time{实时 },{， }she{她 }said{说 }.{。 }
+
+#9" It indicates that you can transmit during rebound even before you develop symptoms , " Charness said .
+查 内斯 说 ： “ 这 表明 你 甚至 在 出现 症状 之前 就 可以 在 反弹 期间 传播 。 ” 。
+"{“ }It{这 }indicates{表明 }that{}you{你 }can{可以 }transmit{传播 }during{期间 }rebound{反弹 }even{甚至 }before{之前 }you{}develop{出现 }symptoms{症状 },{}"{” }Charness{查 内斯 }said{说 }.{。 }
+
+#10Symptoms of melioidosis depend on where someone is infected but may include fever , pain or swelling , ulcers , coughing , chest pain , trouble breathing , weight loss , muscle or joint pain , disorientation , headache and seizures .
+类 鼻疽 的 症状 取决于 感染者 的 位置 ， 但 可能 包括 发热 、 疼痛 或 肿胀 、 溃疡 、 咳嗽 、 胸痛 、 呼吸 困难 、 体重 减轻 、 肌肉 或 关节 疼痛 、 定向 障碍 、 头痛 和 癫痫 发作 。
+Symptoms{症状 }of{的 }melioidosis{鼻疽 }depend{取决于 }on{取决于 }where{位置 }someone{感染者 }is{}infected{感染者 }but{但 }may{可能 }include{包括 }fever{发热 },{、 }pain{疼痛 }or{或 }swelling{肿胀 },{、 }ulcers{溃疡 },{、 }coughing{咳嗽 },{、 }chest{胸痛 }pain{胸痛 },{、 }trouble{}breathing{呼吸 },{、 }weight{体重 }loss{困难 },{}muscle{肌肉 }or{或 }joint{关节 }pain{疼痛 },{、 、 }disorientation{},{、 }headache{头痛 }and{和 }seizures{癫痫 }.{。 }
+
+#11Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi , the first detection of the bacteria in the environment in the US .
+在 密西西比州 的 墨西哥湾 沿岸 地区 发现 了 类 伯克霍 尔德 菌 ， 这 是 美国 首 次 在 环境 中 检测 到 这种 细菌 。
+Burkholderia{伯克霍 }pseudomallei{类 尔德 }was{了 }found{发现 }in{在 }the{}Gulf{墨西哥湾 }Coast{沿岸 }region{地区 }of{的 }Mississippi{密西西比州 },{， }the{是 }first{首 }detection{检测 }of{}the{这种 }bacteria{细菌 }in{在 }the{}environment{环境 }in{}the{}US{美国 }.{。 }
+
+#12" Findings by the National Academies not only impact how scientists and physicians look at a topic , but how regulators and Congress do as well , " said Birnbaum , who was not involved in the report .
+“ 美国 国家 科学院 的 研究 结果 不仅 影响 科学家 和 医生 如何 看待 一个 话题 ， 还 影响 监管 机构 和 国会 如何 做好 ， ” Birnbaum 说 ， 他 没有 参与 该 报告 。
+"{“ }Findings{研究 结果 }by{的 }the{}National{国家 }Academies{科学院 }not{不仅 }only{不仅 }impact{影响 }how{如何 }scientists{科学家 }and{和 }physicians{医生 }look{看待 }at{看待 }a{一个 }topic{话题 },{， }but{还 }how{影响 如何 }regulators{监管 机构 }and{和 }Congress{国会 }do{做好 }as{如何 }well{做好 },{， }"{” }said{说 }Birnbaum{Birnbaum },{， }who{他 }was{}not{没有 }involved{参与 }in{}the{该 }report{报告 }.{。 }
+
+#13Other harm reduction actions include minimizing sexual activity with multiple or anonymous sexual partners , " CDC Director Dr.
+其他 减少 伤害 的 行动 包括 尽量 减少 与 多 个 或 匿名性 伴侣 的 性 行为 ， ” CDC 主任 Dr 。
+Other{其他 }harm{伤害 }reduction{减少 }actions{行动 }include{包括 }minimizing{减少 }sexual{性 }activity{行为 }with{与 }multiple{多 }or{或 }anonymous{匿名性 }sexual{匿名性 }partners{伴侣 },{， }"{” }CDC{CDC }Director{主任 }Dr.{Dr 。 }
+
+#14" Pfizer and Moderna have indicated that they anticipate the modified vaccines being available as early as September , " an FDA spokesperson said .
+“ 辉瑞 和 摩德纳 已 表示 ， 他们 预计 最 早 将 于 9 月 推出 改良 疫苗 ， ” FDA 发言人 说 。
+"{“ }Pfizer{辉瑞 }and{和 }Moderna{摩德纳 }have{已 }indicated{表示 }that{， }they{他们 }anticipate{预计 }the{}modified{改良 }vaccines{疫苗 }being{将 }available{推出 }as{于 }early{早 }as{}September{9 },{， }"{” }an{}FDA{FDA }spokesperson{发言人 }said{说 }.{。 }
+
+#15pseudomallei is typically found in tropical regions , and US cases are usually connected to travel .
+假性 等 位 基因 通常 在 热带 地区 发现 ， 美国 病例 通常 与 旅行 有关 。
+pseudomallei{假性 基因 }is{}typically{通常 }found{发现 }in{在 }tropical{热带 }regions{地区 },{}and{， }US{美国 }cases{病例 }are{}usually{通常 }connected{有关 }to{与 }travel{旅行 }.{。 }
+
+#16On Monday , more than 100 members of Congress wrote a letter to the Biden administration urging additional funding for sexual health clinics to improve the monkeypox response effort .
+周一 ， 100 多 名 国会 议员 致信 拜登 政府 ， 敦促 为 性健康 诊所 提供 更 多 资金 ， 以 改善 猴痘 应 对 工作 。
+On{}Monday{周一 },{， }more{}than{}100{100 }members{议员 }of{}Congress{国会 }wrote{致信 }a{}letter{}to{致信 }the{}Biden{拜登 }administration{政府 }urging{敦促 }additional{更 }funding{资金 }for{为 }sexual{性健康 }health{性健康 }clinics{诊所 }to{以 }improve{改善 }the{}monkeypox{猴痘 }response{应 }effort{工作 }.{。 }
+
+#17" They made me feel small ; they made me feel stupid and embarrassed even just asking the question , " she said at an April 2021 town hall , which was quoted in the report .
+她 在 2021 4 月 的 一 次 市政厅 上 说 ： “ 他们 让 我 觉得 自己 很 渺小 ； 他们 让 我 感到 愚蠢 和 尴尬 ， 即使 只是 问 这个 问题 。 ” 。
+"{“ }They{他们 }made{让 }me{我 }feel{觉得 }small{渺小 };{； }they{他们 }made{让 }me{我 }feel{感到 }stupid{愚蠢 }and{和 }embarrassed{尴尬 }even{即使 }just{只是 }asking{问 }the{这个 }question{问题 },{}"{” }she{她 }said{说 }at{在 }an{一 }April{4 }2021{2021 }town{市政厅 }hall{市政厅 },{， }which{}was{}quoted{}in{}the{}report{}.{。 }
+
+#18In Washington , the federal government is continuing to monitor the response to monkeypox and will use that to consider whether to declare the outbreak a public health emergency , HHS Secretary Xavier Becerra said Thursday .
+卫生 和 公众 服务部 部长 泽维尔 · 贝 塞拉 星期四 说 ， 在 华盛顿 ， 联邦 政府 正在 继续 监测 对 猴 痘 的 反应 ， 并 将 以此 来 考虑 是否 宣布 疫情 为 公共 卫生 紧急 情况 。
+In{在 }Washington{华盛顿 },{， }the{}federal{联邦 }government{政府 }is{正在 }continuing{继续 }to{正在 }monitor{监测 }the{的 }response{反应 }to{对 }monkeypox{猴 痘 }and{并 }will{将 }use{以此 }that{以此 }to{来 }consider{考虑 }whether{是否 }to{}declare{宣布 }the{}outbreak{疫情 }a{为 }public{公共 }health{卫生 }emergency{紧急 情况 },{}HHS{}Secretary{部长 }Xavier{泽维尔 }Becerra{贝 塞拉 }said{说 }Thursday{星期四 }.{。 }
+
+#19The government will make 56,000 of those doses available to states in the first phase of the roll out .
+政府 将 在 第一 阶段 向 各州 提供 其中 的 56000 剂 。
+The{}government{政府 }will{将 }make{提供 }56,000{56000 }of{}those{其中 }doses{剂 }available{提供 }to{向 }states{各州 }in{在 }the{}first{第一 }phase{阶段 }of{}the{}roll{}out{}.{。 }
+
+#20It might feel awkward to pick up the phone and make a call , but the connection will likely be more genuine , she added .
+她 补充 说 ， 拿 起 电话 打电话 可能 会 感到 尴尬 ， 但 这种 联系 可能 会 更加 真诚 。
+It{}might{可能 }feel{感到 }awkward{尴尬 }to{}pick{拿 }up{起 }the{}phone{电话 }and{}make{打电话 }a{}call{打电话 },{， }but{但 }the{这种 }connection{联系 }will{会 }likely{可能 }be{}more{更加 }genuine{真诚 },{}she{她 }added{补充 }.{。 }
+
+#21Researchers are investigating whether the virus can be spread by someone who has no symptoms or through semen , vaginal fluids and fecal matter , according to the CDC .
+CDC 称 ， 研究 人员 正在 调查 该 病毒 是否 可以 由 没有 症状 的 人 传播 ， 或 通过 精液 、 阴道 液 和 粪便 传播 。
+Researchers{研究 人员 }are{正在 }investigating{调查 }whether{是否 }the{该 }virus{病毒 }can{可以 }be{}spread{传播 }by{由 }someone{人 }who{的 }has{}no{没有 }symptoms{症状 }or{或 }through{通过 }semen{精液 },{、 }vaginal{阴道 }fluids{液 }and{和 }fecal{粪便 }matter{粪便 },{， }according{}to{， }the{}CDC{CDC }.{。 }
+
+#22Today , Ornish is trying to do for the brain what he did for the heart .
+今天 ， 奥尼斯 正 试图 为 大脑 做 他 为 心脏 做 的 事情 。
+Today{今天 },{， }Ornish{奥尼斯 }is{正 }trying{试图 }to{}do{做 }for{为 }the{}brain{大脑 }what{}he{他 }did{做 }for{为 }the{}heart{心脏 }.{。 }
+
+#23But even with that education , it can be difficult to detect a case of monkeypox , in part because the rash is n't always distinctive , Caveney said .
+但 即使 接受 了 这种 教育 ， 也 很 难 发现 猴痘 病例 ， 部分 原因 是 皮疹 并 不 总是 独特 的 ， 卡文 尼说 。
+But{但 }even{即使 }with{}that{这种 }education{教育 },{， }it{}can{}be{}difficult{难 }to{}detect{发现 }a{}case{病例 }of{}monkeypox{猴痘 },{， }in{}part{部分 }because{是 }the{}rash{皮疹 }is{总是 }n't{不 }always{总是 }distinctive{独特 },{， }Caveney{卡文 尼说 }said{尼说 }.{。 }
+
+#24The US has ordered more of this vaccine , and the government plans to make 1.25 million more doses of the Jynneos vaccine available through the summer and fall , the administration said .
+美国 政府 表示 ， 美国 已经 订购 了 更 多 这种 疫苗 ， 政府 计划 在 夏季 和 秋季 再 提供 125 万剂 Jynneos 疫苗 。
+The{}US{美国 美国 }has{已经 }ordered{订购 }more{更 }of{了 }this{这种 }vaccine{疫苗 },{}and{， }the{}government{政府 }plans{计划 }to{}make{提供 }1.25{125 }million{万剂 }more{}doses{万剂 }of{}the{}Jynneos{Jynneos }vaccine{疫苗 }available{}through{在 }the{在 }summer{夏季 }and{和 }fall{秋季 },{}the{}administration{}said{表示 }.{。 }
+
+#25Michael Osterholm who directs the Center for Infectious Disease Research and Policy at the University of Minnesota .
+明尼苏达 大学 传染病 研究 和 政策 中心 主任 迈克尔 · 奥斯特 霍姆 。
+Michael{迈克尔 }Osterholm{奥斯特 霍姆 }who{}directs{主任 }the{}Center{中心 }for{}Infectious{传染病 }Disease{传染病 }Research{研究 }and{和 }Policy{政策 }at{}the{}University{大学 }of{}Minnesota{明尼苏达 }.{。 }
+
+#26It 's certainly conceivable that there are other people out there who do n't have symptoms and still have a viral rebound . "
+当然 可以 想象 ， 还有 其他人 没有 症状 ， 但 仍 有 病毒 反弹 。 ”
+It{当然 }'s{可以 }certainly{当然 }conceivable{想象 }that{， }there{还有 }are{还有 }other{其他人 }people{其他人 }out{}there{}who{}do{}n't{没有 }have{没有 }symptoms{症状 }and{， 但 }still{仍 }have{有 }a{}viral{病毒 }rebound{反弹 }.{。 }"{” }
+
+#27As of Friday , the United States has than 5,000 probable or confirmed monkeypox cases , according to CDC data .
+根据 CDC 的 数据 ， 截至 周五 ， 美国 有 5000 多 例 疑似 或 确诊 猴痘 病例 。
+As{截至 }of{截至 }Friday{周五 },{， }the{}United{美国 }States{}has{有 }than{}5,000{5000 }probable{疑似 }or{或 }confirmed{确诊 }monkeypox{猴痘 }cases{病例 },{}according{根据 }to{根据 }CDC{CDC }data{数据 }.{。 }
+
+#28He did n't have any symptoms when he saw the baby , who was his grandson , but about eight hours later , he started to feel ill again .
+当 他 看到 他 的 孙子 时 ， 他 没有 任何 症状 ， 但 大约 八 个 小时 后 ， 他 又 开始 感到 不 舒服 。
+He{他 }did{}n't{没有 }have{没有 }any{任何 }symptoms{症状 }when{当 }he{他 }saw{看到 }the{}baby{},{}who{}was{}his{他 }grandson{孙子 },{， }but{但 }about{大约 }eight{八 }hours{小时 }later{后 },{， }he{他 }started{开始 }to{感到 }feel{感到 }ill{不 舒服 }again{又 }.{。 }
+
+#29According the White House , over the past two months , filled prescriptions for Paxlovid have climbed from about 27,000 a week to 182,000 a week .
+据 白宫 称 ， 在 过去 两 个 月 里 ， 帕 克洛维 德 的 处方 从 每周 约 27000 张 增加 到 每周 182000 张 。
+According{据 }the{}White{白宫 }House{白宫 },{， }over{在 }the{}past{过去 }two{两 }months{月 },{， }filled{}prescriptions{处方 }for{}Paxlovid{帕 克洛维 德 }have{}climbed{增加 }from{从 }about{约 }27,000{27000 }a{每周 }week{每周 }to{到 }182,000{182000 }a{每周 }week{每周 }.{。 }
+
+#30So are firefighters , workers in fluorochemical manufacturing plants and those who live near commercial airports , military bases , landfills , incinerators , wastewater treatment plants and farms where contaminated sewage sludge is used .
+消防员 、 氟 化学品 制造厂 的 工人 以及 居住 在 商业 机场 、 军事基地 、 垃圾 填埋场 、 焚化炉 、 废水 处理 厂 和 使用 受 污染 污泥 的 农场 附近 的 人 也 是 如此 。
+So{如此 }are{是 }firefighters{消防员 },{、 }workers{工人 }in{}fluorochemical{氟 化学品 }manufacturing{制造厂 }plants{制造厂 }and{以及 }those{人 }who{的 }live{居住 }near{在 }commercial{商业 }airports{机场 },{、 }military{军事基地 }bases{军事基地 },{、 }landfills{垃圾 填埋场 },{、 }incinerators{焚化炉 },{、 }wastewater{废水 }treatment{处理 }plants{厂 }and{和 }farms{农场 }where{的 }contaminated{污染 }sewage{污泥 }sludge{污泥 }is{}used{使用 }.{。 }
+
+#31Health officials in the US have also advised reducing sex partners but used softer language .
+美国 卫生 官员 也 建议 减少 性 伴侣 ， 但 使用 更 温和 的 语言 。
+Health{卫生 }officials{官员 }in{}the{}US{美国 }have{}also{也 }advised{建议 }reducing{减少 }sex{性 }partners{伴侣 }but{但 }used{使用 }softer{更 温和 }language{语言 }.{。 }
+
+#32In late June , vaccine makers said boosters updated to target Omicron showed a stronger immune response than the current vaccines .
+6 月底 ， 疫苗 制造商 表示 ， 针对 奥米 克罗 的 增强器 显示 出 比 现有 疫苗 更 强 的 免疫 反应 。
+In{}late{月底 }June{6 },{， }vaccine{疫苗 }makers{制造商 }said{表示 }boosters{增强器 }updated{增强器 }to{针对 }target{针对 }Omicron{奥米 克罗 }showed{显示 }a{的 }stronger{更 }immune{免疫 }response{反应 }than{比 }the{}current{现有 }vaccines{疫苗 }.{。 }
+
+#33Critics have also charged that the United States is not offering enough testing to monitor the spread of the virus , which is thought to be more widespread than current case counts suggest .
+批评 人士 还 指责 美国 没有 提供 足够 的 检测 来 监测 病毒 的 传播 ， 据 认为 病毒 的 传播 范围 比 目前 的 病例 数 所 显示 的 要 广 。
+Critics{批评 人士 }have{}also{还 }charged{指责 }that{}the{}United{美国 }States{}is{}not{没有 }offering{提供 }enough{足够 }testing{检测 }to{来 }monitor{监测 }the{的 }spread{传播 }of{}the{}virus{病毒 },{， }which{}is{据 }thought{认为 }to{认为 }be{}more{要 }widespread{广 }than{比 }current{目前 }case{病例 }counts{数 }suggest{显示 }.{。 }
+
+#34They 're scared and do n't know how they can realistically keep themselves safe with a lack of vaccines .
+他们 很 害怕 ， 不 知道 在 缺乏 疫苗 的 情况 下 ， 如何 才 能 真正 地 保证 自己 的 安全 。
+They{他们 }'re{很 }scared{害怕 }and{， }do{}n't{不 }know{知道 }how{如何 }they{}can{能 }realistically{真正 }keep{保证 }themselves{自己 }safe{安全 }with{在 }a{的 的 }lack{缺乏 }of{的 }vaccines{疫苗 }.{。 }
+
+#35Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall , pending signoff by federal health agencies , the US Department of Health and Human Services said Friday .
+美国 卫生 和 公众 服务部 周五 表示 ， 在 联邦 卫生 机构 的 批准 之前 ， 针对 奥米 克罗 冠状 病毒 亚型 的 Moderna 和 辉瑞 增强 注射 可能 在 初秋 上市 。
+Moderna{Moderna }and{和 }Pfizer{辉瑞 }booster{增强 }shots{注射 }updated{}to{}target{针对 }Omicron{奥米 克罗 }coronavirus{冠状 病毒 }subvariants{亚型 }could{可能 }be{}available{上市 }in{在 }early{初秋 }fall{初秋 },{， }pending{之前 }signoff{批准 }by{的 }federal{联邦 }health{卫生 }agencies{机构 },{}the{}US{美国 }Department{服务部 }of{}Health{卫生 }and{和 }Human{公众 }Services{服务部 }said{表示 }Friday{}.{。 }
+
+#36Vaccines are free when people can find them , testing costs can add up , and treatments are still difficult to access .
+当 人们 能够 找到 疫苗 时 ， 疫苗 是 免费 的 ， 测试 成本 可能 会 增加 ， 治疗 仍然 难以 获得 。
+Vaccines{疫苗 疫苗 }are{是 }free{免费 }when{当 时 }people{人们 }can{能够 }find{找到 }them{},{， }testing{测试 }costs{成本 }can{会 }add{增加 }up{},{}and{， }treatments{治疗 }are{}still{仍然 }difficult{难以 }to{难以 }access{获得 }.{。 }
+
+#37Charness said the fact that the infection can come back this way after treatment presents some questions .
+查 内斯 说 ， 治疗 后 感染 可以 通过 这种 方式 复发 这 一 事实 提出 了 一些 问题 。
+Charness{查 内斯 }said{说 }the{}fact{事实 }that{， }the{}infection{感染 }can{可以 }come{复发 }back{复发 }this{这种 这 }way{方式 }after{后 }treatment{治疗 }presents{提出 }some{一些 }questions{问题 }.{。 }
+
+#38The state has gotten more than 60,000 doses of the Jynneos monkeypox vaccine , the US Department of Health and Human Services says .
+美国 卫生 与 公共 服务部 表示 ， 该州 已经 接种 了 6 万 多 剂 Jynneos 猴痘 疫苗 。
+The{该州 }state{该州 }has{已经 }gotten{接种 }more{}than{}60,000{6 万 }doses{剂 }of{}the{}Jynneos{Jynneos }monkeypox{猴痘 }vaccine{疫苗 },{， }the{}US{美国 }Department{服务部 }of{}Health{卫生 }and{与 }Human{公共 }Services{服务部 }says{表示 }.{。 }
+
+#39He said they 've found at least two instances in which people have transmitted to others when their infection recurs .
+他 说 ， 他们 发现 至少 有 两 例 患者 在 感染 复发 时 向 他人 传播 病毒 。
+He{他 }said{说 }they{他们 }'ve{}found{发现 }at{至少 }least{至少 }two{两 }instances{例 }in{}which{}people{患者 }have{}transmitted{传播 }to{向 }others{}when{时 }their{他人 }infection{感染 }recurs{}.{。 }
+
+#40The federal health adviser said it 's understandable that some in the LGBTQ community are frustrated and feel left behind .
+联邦 健康 顾问 说 ， LGBTQ 社区 中 的 一些 人 感到 沮丧 ， 感到 被 落 在 后面 ， 这 是 可以 理解 的 。
+The{}federal{联邦 }health{健康 }adviser{顾问 }said{说 }it{这 }'s{是 }understandable{可以 理解 }that{， }some{一些 }in{中 }the{的 }LGBTQ{LGBTQ }community{社区 }are{感到 }frustrated{沮丧 }and{， }feel{感到 }left{落 }behind{后面 }.{。 }
+
+#41Currently , the only people who can get monkeypox vaccines are those with a known exposure , Walensky said .
+瓦 伦斯基 说 ， 目前 ， 只有 已 知 接触 者 才 能 接种 猴痘 疫苗 。
+Currently{目前 },{， }the{只有 }only{只有 }people{者 }who{}can{能 }get{接种 }monkeypox{猴痘 }vaccines{疫苗 }are{}those{}with{}a{}known{知 }exposure{接触 },{}Walensky{瓦 伦斯基 }said{说 }.{。 }
+
+#42That 's in addition to 105 million bivalent boosters the US government has purchased from Pfizer .
+此外 ， 美国 政府 还 从 辉瑞 公司 购买 了 1.05 亿双价 助推器 。
+That{此外 }'s{}in{}addition{此外 }to{了 }105{1.05 }million{亿双价 }bivalent{亿双价 }boosters{助推器 }the{}US{美国 }government{政府 }has{}purchased{购买 }from{从 }Pfizer{辉瑞 }.{。 }
+
+#43His organization was one of the signers of the letter to the CDC demanding a bigger response .
+他 的 组织 是 致 疾控 中心 的 信 的 签署 者 之一 ， 该信 要求 得到 更 大 的 回应 。
+His{他 }organization{组织 }was{是 }one{之一 }of{}the{的 }signers{签署 者 }of{}the{的 }letter{信 }to{致 }the{}CDC{疾控 }demanding{要求 }a{得到 }bigger{更 }response{回应 }.{。 }
+
+#44So it 's actually very difficult to roll out because you have to train people in a new vaccine methodology , " said Dr.
+因此 ， 实际上 很 难 推广 ， 因为 你 必须 对 人们 进行 新 疫苗 方法 的 培训 。
+So{因此 }it{}'s{}actually{实际上 }very{很 }difficult{难 }to{}roll{推广 }out{}because{因为 }you{你 }have{必须 }to{}train{培训 }people{人们 }in{进行 }a{}new{新 }vaccine{疫苗 }methodology{方法 },{， }"{}said{}Dr.{。 }
+
+#45As of Friday , New York City 's public health department website says all available appointments for vaccines have been filled at this time .
+截至 周五 ， 纽约市 公共 卫生 部门 网站 表示 ， 目前 所有 可用 的 疫苗 预约 都 已 满 。
+As{截至 }of{截至 }Friday{周五 },{， }New{纽约市 }York{纽约市 }City{纽约市 }'s{}public{公共 }health{卫生 }department{部门 }website{网站 }says{表示 }all{所有 }available{可用 }appointments{预约 }for{}vaccines{疫苗 }have{已 }been{}filled{满 }at{}this{目前 }time{目前 }.{。 }
+
+#46New York has 1,247 probable or confirmed monkeypox cases , according to data from the US Centers for Disease Control and Prevention .
+根据 美国 疾病 控制 和 预防 中心 的 数据 ， 纽约 有 1247 例 疑似 或 确诊 猴痘 病例 。
+New{纽约 }York{纽约 }has{有 }1,247{1247 }probable{疑似 }or{或 }confirmed{确诊 }monkeypox{猴痘 }cases{病例 },{， }according{根据 }to{根据 }data{数据 }from{}the{的 }US{美国 }Centers{中心 }for{}Disease{疾病 }Control{控制 }and{和 }Prevention{预防 }.{。 }
+
+#47The bacteria that causes a rare , serious disease called melioidosis has been detected in water and soil samples in Mississippi , the US Centers for Disease Control and Prevention said Wednesday .
+美国 疾病 控制 和 预防 中心 周三 表示 ， 已 在 密西西比州 的 水 和 土壤 样本 中 检测 到 导致 一 种 称为 类 鼻疽 的 罕见 严重 疾病 的 细菌 。
+The{的 }bacteria{细菌 }that{}causes{导致 }a{一 }rare{罕见 },{}serious{严重 }disease{疾病 }called{称为 }melioidosis{鼻疽 }has{已 }been{}detected{检测 }in{在 }water{水 }and{和 }soil{土壤 }samples{样本 }in{在 }Mississippi{密西西比州 },{， }the{}US{美国 }Centers{中心 }for{}Disease{疾病 }Control{控制 }and{和 }Prevention{预防 }said{表示 }Wednesday{周三 }.{。 }
+
+#48On Tuesday , HHS also activated the CDC 's Emergency Operations Center to give the agency more flexibility and manpower to manage the nation 's monkeypox response .
+周二 ， 卫生 和 公众 服务部 还 启动 了 疾病 预防 控制 中心 的 紧急 行动 中心 ， 为 该 机构 提供 更 大 的 灵活性 和 人力 来 管理 国家 的 猴 痘 反应 。
+On{}Tuesday{周二 },{， }HHS{}also{还 }activated{启动 }the{}CDC{}'s{的 }Emergency{紧急 }Operations{行动 }Center{中心 }to{， }give{提供 }the{该 }agency{机构 }more{更 }flexibility{灵活性 }and{和 }manpower{人力 }to{来 }manage{管理 }the{}nation{国家 }'s{的 }monkeypox{猴 痘 }response{反应 }.{。 }
+
+#49The agency also recommends that people wear a mask for 10 days after their symptoms come back .
+该 机构 还 建议 人们 在 症状 恢复 后 戴 口罩 10 天 。
+The{该 }agency{机构 }also{还 }recommends{建议 }that{}people{人们 }wear{戴 }a{}mask{口罩 }for{}10{10 }days{天 }after{后 }their{}symptoms{症状 }come{}back{恢复 }.{。 }
+
+#50Neither the baby nor its parents had any other close contacts before they got sick .
+婴儿 和 父母 在 生病 之前 都 没有 任何 其他 密切 接触 者 。
+Neither{没有 }the{}baby{婴儿 }nor{和 }its{}parents{父母 }had{没有 }any{任何 }other{其他 }close{密切 }contacts{接触 }before{之前 }they{}got{}sick{生病 }.{。 }
+
+#51The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or who are at high risk .
+该 报告 设定 了 “ 纳克 ” 级 的 关注点 ， 并 鼓励 临床 医生 对 担心 接触 的 患者 或 高危 患者 进行 血液 检测 。
+The{该 }report{报告 }sets{设定 }"{“ }nanogram{纳克 }"{” }levels{级 关注点 }of{的 }concern{关注点 }and{并 }encourages{鼓励 }clinicians{临床 医生 }to{}conduct{进行 }blood{血液 }tests{检测 }on{对 }patients{患者 }who{的 }are{}worried{担心 }about{}exposure{接触 }or{或 }who{患者 }are{}at{}high{高危 }risk{高危 }.{。 }
+
+#52And while communicating by text or email is n't as impersonal as social media , Akbari recommended that people call their friends .
+虽然 通过 短信 或 电子 邮件 进行 交流 不 像 社交 媒体 那么 客观 ， 但 阿克巴 里 建议 人们 给 朋友 打电话 。
+And{}while{虽然 }communicating{交流 }by{通过 }text{短信 }or{或 }email{邮件 }is{}n't{不 }as{那么 }impersonal{客观 }as{像 }social{社交 }media{媒体 },{， }Akbari{阿克巴 里 }recommended{建议 }that{给 }people{人们 }call{打电话 }their{}friends{朋友 }.{。 }
+
+#53Since the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她 补充 说 ， 由于 人们 接触 的 主要 方式 是 通过 私人 通信 手段 ， 最 糟糕 的 情况 可能 是 接受者 没有 回应 。
+Since{由于 }the{的 }primary{主要 }way{方式 }people{人们 }reach{接触 }out{}is{是 }through{通过 }private{私人 }means{手段 }of{}communication{通信 },{， }the{}worst{最 }that{的 }can{可能 }happen{情况 }is{}that{是 }the{}recipient{接受者 }does{}not{没有 }respond{回应 },{}she{她 }added{补充 }.{。 }
+
+#54The CDC says an average of 12 cases are reported to the agency each year .
+CDC 表示 ， 平均 每年 向 该 机构 报告 12 例 。
+The{}CDC{CDC }says{表示 }an{， }average{平均 }of{}12{12 }cases{例 }are{}reported{报告 }to{向 }the{该 }agency{机构 }each{每年 }year{每年 }.{。 }
+
+#55The CDC says that wearing a condom may help , but alone , it probably will not protect against the spread of monkeypox .
+美国 疾病 控制 与 预防 中心 表示 ， 佩戴 避孕套 可能 会 有所 帮助 ， 但 单 凭 避孕套 可能 无法 防止 猴痘 的 传播 。
+The{美国 }CDC{中心 }says{表示 }that{， }wearing{佩戴 }a{}condom{避孕套 }may{可能 }help{帮助 },{， }but{但 }alone{单 },{}it{避孕套 }probably{可能 }will{可能 }not{无法 }protect{防止 }against{防止 }the{的 }spread{传播 }of{}monkeypox{猴痘 }.{。 }
+
+#56" The National Academies are asked to do studies that would be free of the effects of advocacy , special interests , and politics , and are looked at as a trusted neutral body , " said Dr.
+“ 国家 科学院 被 要求 做 的 研究 将 不 受 倡导 、 特殊 利益 和 政治 的 影响 ， 并 被 视为 一个 值得 信赖 的 中立 机构 ， ” 李 博士 说 。
+"{“ }The{}National{国家 }Academies{科学院 }are{被 }asked{要求 }to{的 }do{做 }studies{研究 }that{}would{将 }be{受 }free{不 }of{受 }the{的 }effects{影响 }of{}advocacy{倡导 },{、 }special{特殊 }interests{利益 },{}and{和 }politics{政治 },{， }and{并 }are{被 }looked{视为 }at{}as{视为 }a{一个 }trusted{信赖 }neutral{中立 }body{机构 },{， }"{” }said{说 }Dr.{李 博士 。 }
+
+#57It 's a scene playing out in public health departments and clinics across the country as the monkeypox outbreak spreads .
+随着 猴痘 疫情 的 蔓延 ， 这 一 场景 在 全国 的 公共 卫生 部门 和 诊所 上演 。
+It{这 }'s{}a{一 }scene{场景 }playing{上演 }out{}in{在 }public{公共 }health{卫生 }departments{部门 }and{和 }clinics{诊所 }across{全国 }the{的 }country{全国 }as{随着 }the{的 }monkeypox{猴痘 }outbreak{疫情 }spreads{蔓延 }.{。 }
+
+#58This new study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴 里 说 ， 这项 新 研究 有助于 缓解 人们 在 联系 朋友 时 所 面临 的 焦虑 。
+This{这项 }new{新 }study{研究 }can{有助于 }help{有助于 }calm{缓解 }the{的 }anxiety{焦虑 }that{}people{人们 }face{面临 }when{时 }it{所 }comes{}to{在 }contacting{联系 }friends{朋友 },{， }Akbari{阿克巴 里 }said{说 }.{。 }
+
+#59People who work with the federal government say they are working hard on the issue .
+联邦 政府 工作 人员 表示 ， 他们 正在 努力 解决 这个 问题 。
+People{人员 }who{}work{工作 }with{}the{}federal{联邦 }government{政府 }say{表示 }they{他们 }are{正在 }working{努力 }hard{努力 }on{解决 }the{这个 }issue{问题 }.{。 }
+
+#60To get over some of this discomfort , take notice of automatic thought patterns that arise when thinking about communicating with a friend , and try to push back against them , Kirmayer said .
+Kirmayer 说 ， 为了 克服 这种 不适感 ， 请 注意 在 考虑 与 朋友 交流 时 出现 的 自动 思维 模式 ， 并 尝试 回击 它们 。
+To{为了 }get{克服 }over{克服 }some{}of{}this{这种 }discomfort{不适感 },{， }take{}notice{注意 }of{的 }automatic{自动 }thought{思维 }patterns{模式 }that{}arise{出现 }when{在 }thinking{考虑 }about{}communicating{交流 }with{与 }a{}friend{朋友 },{， }and{并 }try{尝试 }to{}push{}back{回击 }against{回击 }them{它们 },{}Kirmayer{Kirmayer }said{说 }.{。 }
+
+#61The CDC spokesperson said the agency " encourages anyone who suspects they have monkeypox to reach out to their clinician to get tested since there is more than enough testing capacity .
+CDC 发言人 说 ， 该 机构 “ 鼓励 任何 怀疑 自己 患 有 猴痘 的 人 联系 临床 医生 进行 检测 ， 因为 有 足够 的 检测 能力 。
+The{}CDC{CDC }spokesperson{发言人 }said{说 }the{该 }agency{机构 }"{“ }encourages{鼓励 }anyone{任何 }who{的 }suspects{怀疑 }they{自己 }have{有 }monkeypox{猴痘 }to{进行 }reach{联系 }out{}to{}their{}clinician{临床 医生 }to{}get{进行 }tested{检测 }since{因为 }there{有 }is{}more{}than{}enough{足够 }testing{检测 }capacity{能力 }.{。 }
+
+#62The US Food and Drug Administration advised vaccine makers in June to update the boosters to add an Omicron BA .
+6 月 ， 美国 食品 和 药物 管理局 建议 疫苗 制造商 更新 助推器 ， 添加 奥米 克罗 BA 。
+The{}US{美国 }Food{食品 }and{和 }Drug{药物 }Administration{管理局 }advised{建议 }vaccine{疫苗 }makers{制造商 }in{}June{6 }to{}update{更新 }the{}boosters{助推器 }to{， }add{添加 }an{}Omicron{奥米 克罗 }BA{BA }.{。 }
+
+#63Cahill said his organization has been advocating for the US to declare monkeypox a public health emergency .
+卡希尔 说 ， 他 的 组织 一直 在 倡导 美国 宣布 猴痘 为 公共 卫生 紧急 事件 。
+Cahill{卡希尔 }said{说 }his{他 }organization{组织 }has{一直 }been{在 }advocating{倡导 }for{}the{}US{美国 }to{}declare{宣布 }monkeypox{猴痘 }a{为 }public{公共 }health{卫生 }emergency{紧急 }.{。 }
+
+#64It will release more vaccines to areas with the highest case rates , and it will scale up testing , making tests available at five commercial laboratories in addition to an existing network of public health labs .
+它 将 向 病例 率 最高 的 地区 发放 更 多 疫苗 ， 并 将 扩大 检测 规模 ， 除了 现有 的 公共 卫生 实验室 网络 外 ， 还 将 在 五 个 商业 实验室 进行 检测 。
+It{它 }will{将 }release{发放 }more{更 }vaccines{疫苗 }to{向 }areas{地区 }with{}the{}highest{最高 }case{病例 }rates{率 },{， }and{并 }it{}will{将 }scale{扩大 }up{扩大 }testing{检测 },{， }making{进行 }tests{检测 }available{}at{在 }five{五 }commercial{商业 }laboratories{实验室 实验室 }in{， }addition{除了 }to{除了 }an{的 }existing{现有 }network{网络 }of{的 }public{公共 }health{卫生 }labs{实验室 }.{。 }
+
+#65Caveney added that as doctors learn more about monkeypox , he expects testing numbers to increase .
+卡文 尼 补充 说 ， 随着 医生 对 猴 痘 的 了解 越来越 多 ， 他 预计 检测 人数 会 增加 。
+Caveney{卡文 尼 }added{补充 }that{， }as{随着 }doctors{医生 }learn{了解 }more{越来越 }about{对 }monkeypox{猴 痘 },{， }he{他 }expects{预计 }testing{检测 }numbers{人数 }to{会 }increase{增加 }.{。 }
+
+#66Currently , people 5 and older are eligible for a first booster shot , but only those 50 and older and some immunocompromised people are eligible for second boosters .
+目前 ， 5 岁 及 5 岁 以上 的 人 有 资格 进行 第一 次 强化 注射 ， 但 只有 50 岁 及 以上 的 人 和 一些 免疫 功能 低下 的 人才 有 资格 进行 第二 次 强化 注射 。
+Currently{目前 },{， }people{人 }5{5 }and{及 }older{以上 }are{有 }eligible{资格 }for{进行 }a{}first{第一 }booster{强化 }shot{注射 },{， }but{但 }only{只有 }those{的 }50{50 }and{及 }older{以上 }and{和 }some{一些 }immunocompromised{免疫 低下 }people{人才 }are{有 }eligible{资格 }for{进行 }second{第二 }boosters{注射 }.{。 }
+
+#67They say more research is needed to understand whether there could be any connection to the drug .
+他们 说 ， 需要 更 多 的 研究 来 了解 是否 与 该 药物 有 任何 联系 。
+They{他们 }say{说 }more{更 }research{研究 }is{}needed{需要 }to{来 }understand{了解 }whether{是否 }there{}could{}be{有 }any{任何 }connection{联系 }to{与 }the{该 }drug{药物 }.{。 }
+
+#68In these experiments , reaching out was defined as a phone call , text , email , note or small gift .
+在 这些 实验 中 ， 伸手 被 定义 为 电话 、 短信 、 电子 邮件 、 便 条 或 小 礼物 。
+In{在 }these{这些 }experiments{实验 },{， }reaching{伸手 }out{伸手 }was{被 }defined{定义 }as{为 }a{}phone{电话 }call{},{、 }text{短信 },{、 }email{邮件 },{、 }note{条 }or{或 }small{小 }gift{礼物 }.{。 }
+
+#69In Seattle , King County health officials say they have received only 4,720 doses of Jynneos .
+在 西雅图 ， 金郡 卫生 官员 说 ， 他们 只 接受 了 4720 剂 Jynneos 。
+In{在 }Seattle{西雅图 },{， }King{金郡 }County{金郡 }health{卫生 }officials{官员 }say{说 }they{他们 }have{}received{接受 }only{只 }4,720{4720 }doses{剂 }of{}Jynneos{Jynneos }.{。 }
+
+#70The first is a newer , modern vaccine called Jynneos which is manufactured by the Danish company Bavarian Nordic .
+第一 种 是 由 丹麦 巴伐利亚 北欧 公司 生产 的 新型 现代 疫苗 Jynneos 。
+The{}first{第一 }is{是 }a{的 }newer{新型 },{}modern{新型 现代 }vaccine{疫苗 }called{}Jynneos{Jynneos }which{}is{}manufactured{生产 }by{由 }the{}Danish{丹麦 }company{公司 }Bavarian{}Nordic{北欧 }.{。 }
+
+#71But a variety of insecurities can prevent us from reaching out , said Akbari , who was not involved in the study .
+但是 ， 各种 不 安全感 会 阻止 我们 伸出 援手 ， 阿克巴 里 说 ， 他 没有 参与 这项 研究 。
+But{但是 }a{}variety{各种 }of{}insecurities{不 安全感 }can{会 }prevent{阻止 }us{我们 }from{}reaching{伸出 }out{援手 },{， }said{说 }Akbari{阿克巴 里 },{， }who{他 }was{}not{没有 }involved{参与 }in{}the{这项 }study{研究 }.{。 }
+
+#72Some experts though have said it 's now too late to stop what we had the tools to stop earlier .
+不过 ， 一些 专家 表示 ， 现在 停止 我们 以前 有 工具 停止 的 事情 为时已晚 。
+Some{一些 }experts{专家 }though{不过 }have{}said{表示 }it{为时已晚 }'s{}now{现在 }too{}late{为时已晚 }to{}stop{停止 }what{}we{我们 }had{有 }the{的 }tools{工具 }to{}stop{停止 }earlier{以前 }.{。 }
+
+#73The other complications is that the ACAM vaccine uses a live , but weakened version of a virus to inoculate a person .
+另 一个 并发症 是 ， ACAM 疫苗 使用 活 的 但 减弱 的 病毒 版本 给 人 接种 。
+The{}other{另 }complications{并发症 }is{是 }that{， }the{}ACAM{ACAM }vaccine{疫苗 }uses{使用 }a{}live{活 },{的 }but{但 }weakened{减弱 }version{版本 }of{的 }a{}virus{病毒 }to{给 }inoculate{接种 }a{}person{人 }.{。 }
+
+#74Updated shots would need to be authorized by the FDA and recommended by the US Centers for Disease Control and Prevention .
+更新 后 的 疫苗 需要 获得 FDA 的 授权 ， 并 由 美国 疾病 控制 和 预防 中心 推荐 。
+Updated{更新 }shots{疫苗 }would{}need{需要 }to{}be{获得 }authorized{授权 }by{获得 }the{的 }FDA{FDA }and{并 }recommended{推荐 }by{由 }the{}US{美国 }Centers{中心 }for{}Disease{疾病 }Control{控制 }and{和 }Prevention{预防 }.{。 }
+
+#75That 's only 6 % of the 80,000 doses they would like to have to cover the 40,000 people at elevated or high risk of monkeypox .
+这 仅仅 是 他们 想 要 覆盖 40000 名猴 痘 高危 人群 的 80000 剂 中 的 6% 。
+That{这 }'s{是 }only{仅仅 }6{6% }%{6% }of{}the{的 的 }80,000{40000 80000 }doses{剂 }they{他们 }would{}like{想 }to{要 }have{}to{要 }cover{覆盖 }the{}40,000{40000 }people{人群 }at{}elevated{}or{}high{高危 }risk{高危 }of{}monkeypox{名猴 痘 }.{。 }
+
+#76Pennsylvanian Hope Grasse , who was diagnosed with stage 4 cancer at age 25 after growing up near a naval base , described how her doctors laughed when she mentioned chemical exposure .
+宾夕法尼亚州 的 霍普 · 格拉斯 在 海军 基地 附近 长大 ， 25 岁 时 被 诊断 出 患 有 4 期 癌症 ， 她 描述 了 当 她 提到 接触 化学 物质 时 ， 医生 们 是 如何 笑 的 。
+Pennsylvanian{宾夕法尼亚州 的 }Hope{霍普 }Grasse{格拉斯 },{}who{， }was{被 }diagnosed{诊断 }with{有 }stage{期 }4{4 }cancer{癌症 }at{时 }age{岁 }25{25 }after{}growing{长大 }up{长大 }near{附近 }a{}naval{海军 }base{基地 },{， }described{描述 }how{如何 }her{}doctors{医生 }laughed{笑 }when{当 }she{她 }mentioned{提到 }chemical{化学 }exposure{接触 }.{。 }
+
+#77JAMA and other medical journals have also offered information about how to diagnose , test for and treat monkeypox .
+JAMA 和 其他 医学 杂志 也 提供 了 关于 如何 诊断 、 检测 和 治疗 猴痘 的 信息 。
+JAMA{JAMA }and{和 }other{其他 }medical{医学 }journals{杂志 }have{}also{也 }offered{提供 }information{信息 }about{关于 }how{如何 }to{}diagnose{诊断 },{、 }test{检测 }for{}and{和 }treat{治疗 }monkeypox{猴痘 }.{。 }
+
+#78The San Francisco Department of Public Health has confirmed 261 cases of monkeypox in the city , while California has a total of 799 cases .
+旧金山 公共 卫生部 已 确认 该市 有 261 例 猴 痘 病例 ， 而 加利福尼亚州 共有 799 例 。
+The{}San{旧金山 }Francisco{旧金山 }Department{卫生部 }of{}Public{公共 }Health{卫生部 }has{已 }confirmed{确认 }261{261 }cases{病例 }of{}monkeypox{猴 痘 }in{}the{该市 }city{该市 },{， }while{而 }California{加利福尼亚州 }has{共有 }a{}total{共有 }of{}799{799 }cases{例 }.{。 }
+
+#79HHS announced Friday an agreement to purchase 66 million doses of Moderna 's bivalent booster shot for potential use in fall and winter .
+卫生 和 公众 服务部 星期五 宣布 ， 一 项 协议 将 购买 6600 万剂 Moderna 的 二价 增强 剂 ， 以 备 在 秋季 和 冬季 使用 。
+HHS{服务部 }announced{宣布 }Friday{星期五 }an{一 }agreement{协议 }to{将 }purchase{购买 }66{6600 }million{万剂 }doses{万剂 Moderna }of{}Moderna{}'s{的 }bivalent{二价 }booster{增强 }shot{剂 }for{以 }potential{备 }use{使用 }in{在 }fall{秋季 }and{和 }winter{冬季 }.{。 }
+
+#80Currently , 10 states would be considered to be in the first tier for priority in ordering vaccines .
+目前 ， 10 个州 将 被 视为 优先 订购 疫苗 的 第一 梯队 。
+Currently{目前 },{， }10{10 }states{个州 }would{将 }be{被 }considered{视为 }to{视为 }be{}in{}the{的 }first{第一 }tier{梯队 }for{}priority{优先 }in{}ordering{订购 }vaccines{疫苗 }.{。 }
+
+#81But , the US does n't have enough doses of Jynneos to vaccinate all who might want it , so public health officials are also considering whether to use a second , older type of vaccine called ACAM .
+但是 ， 美国 没有 足够 剂量 的 Jynneos 疫苗 为 所有 可能 需要 的 人 接种 ， 因此 公共 卫生 官员 也 在 考虑 是否 使用 第二 种 更 老 的 疫苗 ， 即 ACAM 。
+But{但是 },{， }the{}US{美国 }does{}n't{没有 }have{没有 }enough{足够 }doses{剂量 }of{的 }Jynneos{Jynneos }to{为 }vaccinate{接种 }all{所有 }who{人 }might{可能 }want{需要 }it{},{， }so{因此 }public{公共 }health{卫生 }officials{官员 }are{在 }also{也 }considering{考虑 }whether{是否 }to{}use{使用 }a{}second{第二 },{}older{老 }type{种 }of{的 }vaccine{疫苗 }called{即 }ACAM{ACAM }.{。 }
+
+#82So far in the United States , there have been 306 cases of monkeypox identified across 28 jurisdictions .
+到 目前 为止 ， 美国 28 个 司法 管辖区 共 发现 306 例 猴 痘 病例 。
+So{到 }far{目前 }in{}the{}United{美国 }States{},{， }there{共 }have{}been{发现 }306{306 }cases{病例 }of{}monkeypox{猴 痘 }identified{发现 }across{}28{28 }jurisdictions{管辖区 }.{。 }
+
+#83" We will weigh any decision on declaring a public health emergency based on the responses we 're seeing throughout the country .
+“ 我们 将 根据 我们 在 全国 看到 的 反应 ， 权衡 宣布 公共 卫生 紧急状态 的 任何 决定 。
+"{“ }We{我们 }will{将 }weigh{权衡 }any{任何 }decision{决定 }on{， }declaring{宣布 }a{的 }public{公共 }health{卫生 }emergency{紧急状态 }based{根据 }on{根据 }the{的 }responses{反应 }we{我们 }'re{}seeing{看到 }throughout{全国 }the{}country{全国 }.{。 }
+
+#84The US has not made such an emergency declaration , which would provide more money and staff , help with data collection and help cut through red tape to better fight the outbreak .
+美国 还 没有 做出 这样 的 紧急 声明 ， 这 将 提供 更 多 的 资金 和 人员 ， 帮助 收集 数据 ， 并 帮助 减少 繁文缛节 ， 以 更 好 地 抗击 疫情 。
+The{}US{美国 }has{还 }not{没有 }made{做出 }such{这样 }an{的 }emergency{紧急 }declaration{声明 },{， }which{这 }would{将 }provide{提供 }more{更 }money{资金 }and{和 }staff{人员 },{， }help{帮助 }with{}data{数据 }collection{收集 }and{并 }help{帮助 }cut{减少 }through{}red{繁文缛节 }tape{繁文缛节 }to{以 }better{更 好 }fight{抗击 }the{}outbreak{疫情 }.{。 }
+
+#85Since the start of June , the CDC says , it has been doing extensive education and outreach to the LGBTQ community .
+CDC 说 ， 自 6 月初 以来 ， 它 一直 在 对 LGBTQ 社区 进行 广泛 的 教育 和 推广 。
+Since{自 }the{}start{月初 }of{}June{6 },{}the{}CDC{CDC }says{说 },{， }it{它 }has{}been{在 }doing{进行 }extensive{广泛 }education{教育 }and{和 }outreach{推广 }to{对 }the{}LGBTQ{LGBTQ }community{社区 }.{。 }
+
+#86Bottom line is , we need to stay ahead of it and be able to end this outbreak .
+底线 是 ， 我们 需要 保持 领先 ， 并 能够 结束 这 次 疫情 。
+Bottom{底线 }line{底线 }is{是 },{， }we{我们 }need{需要 }to{需要 }stay{保持 }ahead{领先 }of{}it{}and{并 }be{}able{能够 }to{}end{结束 }this{这 }outbreak{疫情 }.{。 }
+
+#87San Francisco 's health department requested 35,000 doses to meet the overwhelming demand there but said it has received only 12,000 doses as of Thursday .
+旧金山 卫生部 要求 提供 35000 剂 ， 以 满足 那里 的 巨大 需求 ， 但 表示 截至 周四 仅 收到 12000 剂 。
+San{旧金山 }Francisco{旧金山 }'s{}health{卫生部 }department{卫生部 }requested{要求 }35,000{35000 }doses{剂 }to{以 }meet{满足 }the{的 }overwhelming{巨大 }demand{需求 }there{那里 }but{但 }said{表示 }it{}has{}received{收到 }only{仅 }12,000{12000 }doses{剂 }as{截至 }of{截至 }Thursday{周四 }.{。 }
+
+#88As helpful as it is , though , researchers say people should be aware the drug may not completely extinguish the infection .
+尽管 它 很 有 帮助 ， 但 研究 人员 说 ， 人们 应该 意识 到 这种 药物 可能 不 会 完全 消除 感染 。
+As{尽管 }helpful{帮助 }as{尽管 }it{它 }is{很 },{， }though{但 },{， }researchers{研究 }say{说 }people{人们 }should{应该 }be{}aware{意识 }the{这种 }drug{药物 }may{可能 }not{不 }completely{完全 }extinguish{消除 }the{}infection{感染 }.{。 }
+
+#89The US Food and Drug Administration has authorized 786,000 additional doses of the Jynneos vaccine , and jurisdictions can place orders starting Friday .
+美国 食品 和 药物 管理局 已 批准 增加 78.6 万剂 Jynneos 疫苗 ， 各 司法 管辖区 可 从 周五 开始 下 订单 。
+The{}US{美国 }Food{食品 }and{和 }Drug{药物 }Administration{管理局 }has{已 }authorized{批准 }786,000{78.6 万剂 }additional{增加 }doses{万剂 }of{}the{}Jynneos{Jynneos }vaccine{疫苗 },{}and{， }jurisdictions{管辖区 }can{可 }place{下 }orders{订单 }starting{开始 }Friday{周五 }.{。 }
+
+#90San Francisco became the first major US city to declare a local health emergency on monkeypox in an effort to strengthen the city 's preparedness and response amid high demand for the vaccine .
+旧金山 成为 美国 第一 个 宣布 当地 猴痘 健康 紧急状态 的 主要 城市 ， 以 加强 该市 在 疫苗 需求 旺盛 的 情况 下 的 准备 和 反应 。
+San{旧金山 }Francisco{旧金山 }became{成为 }the{}first{第一 }major{主要 }US{美国 }city{城市 }to{}declare{宣布 }a{}local{当地 }health{健康 }emergency{紧急状态 }on{}monkeypox{猴痘 }in{， }an{以 }effort{以 }to{}strengthen{加强 }the{该市 }city{该市 }'s{的 }preparedness{准备 }and{和 }response{反应 }amid{在 下 }high{旺盛 }demand{需求 }for{}the{}vaccine{疫苗 }.{。 }
+
+#91" It 's presumed not to be safe to be able to be used in people with HIV , " Varma said .
+Varma 说 ： “ 据 推测 ， 用于 艾滋病毒 感染者 并 不 安全 。 ” 。
+"{“ }It{}'s{}presumed{推测 }not{不 }to{据 ， }be{}safe{安全 }to{}be{}able{}to{}be{}used{用于 }in{用于 }people{感染者 }with{}HIV{艾滋病毒 },{}"{” }Varma{Varma }said{说 }.{。 }
+
+#92Combined , the US government 's agreements with Moderna and Pfizer would make about 171 million bivalent vaccine booster doses available for the fall and winter , should they be authorized and recommended .
+如果 得到 授权 和 推荐 ， 美国 政府 与 Moderna 和 辉瑞 公司 的 协议 将 使 约 1.71 亿双价 疫苗 增强 剂 可 用于 秋季 和 冬季 。
+Combined{},{， }the{}US{美国 }government{政府 }'s{的 }agreements{协议 }with{与 }Moderna{Moderna }and{和 }Pfizer{辉瑞 }would{将 }make{使 }about{约 }171{1.71 }million{亿双价 }bivalent{亿双价 }vaccine{疫苗 }booster{增强 }doses{剂 }available{可 }for{用于 }the{}fall{秋季 }and{和 }winter{冬季 },{}should{如果 }they{}be{得到 }authorized{授权 }and{和 }recommended{推荐 }.{。 }
+
+#93It 's impossible to avoid rejection , so learning how to be OK with it can allow people to become more resilient , Akbari said .
+阿克巴 里 说 ， 避免 被 拒绝 是 不 可能 的 ， 所以 学会 如何 接受 它 可以 让 人们 变 得 更 有 弹性 。
+It{}'s{是 }impossible{不 }to{的 }avoid{避免 }rejection{拒绝 },{， }so{所以 }learning{学会 }how{如何 }to{}be{被 }OK{}with{接受 }it{它 }can{可以 }allow{让 }people{人们 }to{}become{变 }more{更 }resilient{弹性 },{}Akbari{阿克巴 里 }said{说 }.{。 }
+
+#94For another , some people who have monkeypox symptoms may not seek care for fear of being stigmatized .
+另一方面 ， 一些 有 猴 痘 症状 的 人 可能 因为 害怕 被 污名 化 而 不 寻求 护理 。
+For{}another{另一方面 },{， }some{一些 }people{人 }who{的 }have{有 }monkeypox{猴 痘 }symptoms{症状 }may{可能 }not{不 }seek{寻求 }care{护理 }for{因为 }fear{害怕 }of{}being{被 }stigmatized{污名 化 }.{。 }
+
+#95Ned Calonge , an associate professor of epidemiology at the Colorado School of Public Health and chair of the committee that wrote the report .
+Ned Calonge 是 科罗拉多 公共 卫生 学院 流行病学 副教授 ， 也 是 撰写 该 报告 的 委员会 主席 。
+Ned{Ned }Calonge{Calonge },{是 }an{}associate{副教授 }professor{副教授 }of{}epidemiology{流行病学 }at{}the{}Colorado{科罗拉多 }School{学院 }of{}Public{公共 }Health{卫生 }and{， }chair{主席 }of{}the{的 }committee{委员会 }that{}wrote{撰写 }the{该 }report{报告 }.{。 }
+
+#96The declaration , which goes into effect Monday , is a legal action that allows city departments to mobilize and coordinate more effectively , Mayor London Breed 's office said in a statement .
+伦敦 市长 办公室 在 一 份 声明 中 表示 ， 该 声明 将 于 周一 生效 ， 是 一 项 法律 行动 ， 使 市政 部门 能够 更 有效 地 动员 和 协调 。
+The{该 }declaration{声明 },{}which{中 }goes{}into{}effect{生效 }Monday{周一 },{， }is{是 }a{一 }legal{法律 }action{行动 }that{， }allows{使 }city{市政 }departments{部门 }to{能够 地 }mobilize{动员 }and{和 }coordinate{协调 }more{更 }effectively{有效 },{}Mayor{市长 }London{伦敦 }Breed{}'s{}office{办公室 }said{表示 }in{在 }a{一 }statement{声明 }.{。 }
+
+#97Jay Varma , professor and director of the Cornell Center for Pandemic Prevention and Response in New York City .
+Jay Varma ， 纽约市 康奈尔 大学 流行病 预防 和 应 对 中心 教授 兼 主任 。
+Jay{Jay }Varma{Varma },{， }professor{教授 }and{兼 }director{主任 }of{}the{}Cornell{康奈尔 }Center{中心 }for{}Pandemic{流行病 }Prevention{预防 }and{和 }Response{应 }in{}New{纽约市 }York{纽约市 }City{纽约市 }.{。 }
+
+#98There 's also no sign that the virus has changed or mutated to develop some kind of resistance to the drug .
+也 没有 迹象 表明 该 病毒 已经 发生 改变 或 突变 ， 从而 对 该 药物 产生 某种 耐药性 。
+There{}'s{}also{也 }no{没有 }sign{迹象 }that{表明 }the{该 }virus{病毒 }has{已经 }changed{改变 }or{或 }mutated{突变 }to{从而 }develop{产生 }some{某种 }kind{某种 }of{}resistance{耐药性 }to{对 }the{该 }drug{药物 }.{。 }
+
+#99But at the end of the day , we need vaccines , and we need them yesterday .
+但 归根结底 ， 我们 需要 疫苗 ， 我们 昨天 就 需要 。
+But{但 }at{归根结底 }the{}end{归根结底 }of{}the{}day{},{， }we{我们 }need{需要 }vaccines{疫苗 },{}and{， }we{我们 }need{需要 }them{}yesterday{昨天 }.{。 }
+
+#100A CDC spokesperson said there has been " robust outreach to clinicians and the general public to increase awareness of monkeypox risk factors , symptoms and testing options .
+疾病 控制 与 预防 中心 的 一 位 发言人 说 ， “ 已经 向 临床 医生 和 公众 进行 了 强有力 的 宣传 ， 以 提高 对 猴 痘 风险 因素 、 症状 和 检测 选择 的 认识 。
+A{一 }CDC{疾病 中心 }spokesperson{发言人 }said{说 }there{}has{已经 }been{进行 }"{“ }robust{强有力 }outreach{宣传 }to{向 }clinicians{临床 医生 }and{和 }the{}general{}public{公众 }to{以 }increase{提高 }awareness{认识 }of{对 }monkeypox{猴 痘 }risk{风险 }factors{因素 },{、 }symptoms{症状 }and{和 }testing{检测 }options{选择 }.{。 }
+
+#101Because of this , the CDC says , there 's no reason to think that more treatment is needed .
+因此 ， 疾病 预防 控制 中心 说 ， 没有 理由 认为 需要 更 多 的 治疗 。
+Because{因此 }of{}this{因此 },{， }the{}CDC{中心 }says{说 },{， }there{}'s{}no{没有 }reason{理由 }to{}think{认为 }that{认为 }more{更 }treatment{治疗 }is{}needed{需要 }.{。 }
+
+#102There are 300,000 doses that were being held by the manufacturer that are currently on the way .
+制造商 目前 持有 300 ， 000 剂 疫苗 ， 目前 正在 进行 中 。
+There{持有 }are{}300,000{300 ， 000 }doses{剂 疫苗 }that{， }were{}being{}held{持有 }by{}the{}manufacturer{制造商 }that{， }are{正在 }currently{目前 }on{正在 }the{}way{进行 }.{。 }
+
+#103One of the major public clinics offering the vaccine there had to shut down Tuesday when it ran out after vaccinating 600 people .
+提供 疫苗 的 主要 公共 诊所 之一 周二 不得不 关闭 ， 因为 它 在 为 600 人 接种 疫苗 后 用 完 了 。
+One{之一 }of{}the{的 }major{主要 }public{公共 }clinics{诊所 }offering{提供 }the{}vaccine{疫苗 }there{之一 }had{不得不 }to{}shut{关闭 }down{}Tuesday{周二 }when{因为 }it{它 }ran{接种 }out{完 }after{后 }vaccinating{接种 疫苗 }600{600 }people{人 }.{。 }
+
+#104When focusing on the possibility of rejection , one may deprive oneself of close friendships and enjoyable experiences , she added .
+她 补充 说 ， 当 专注 于 被 拒绝 的 可能性 时 ， 一个 人 可能 会 剥夺 自己 亲密 的 友谊 和 愉快 的 经历 。
+When{当 }focusing{专注 }on{于 }the{的 }possibility{可能性 }of{}rejection{拒绝 },{， }one{一个 }may{可能 }deprive{剥夺 }oneself{自己 }of{的 }close{亲密 }friendships{友谊 }and{和 }enjoyable{愉快 }experiences{经历 },{}she{她 }added{补充 }.{。 }
+
+#105Half of them have come from just two families , leading the researchers to conclude that such cases are not all that rare .
+其中 一半 来自 两 个 家庭 ， 导致 研究 人员 得出 结论 ， 这种 情况 并 不 罕见 。
+Half{一半 }of{其中 }them{其中 }have{}come{来自 }from{来自 }just{}two{两 }families{家庭 },{， }leading{导致 }the{}researchers{研究 }to{得出 }conclude{结论 }that{， }such{这种 }cases{情况 }are{}not{不 }all{}that{}rare{罕见 }.{。 }
+
+#106Vaccination should occur within two weeks of a possible exposure , And the sooner you can get vaccinated after the exposure , the better . "
+疫苗 接种 应 在 可能 暴露 后 的 两 周 内 进行 ， 暴露 后 越 早 接种 疫苗 越 好 。
+Vaccination{疫苗 接种 }should{应 }occur{进行 }within{在 }two{两 }weeks{周 }of{的 }a{的 }possible{可能 }exposure{暴露 },{， }And{， }the{越 }sooner{早 }you{}can{}get{}vaccinated{接种 疫苗 }after{后 }the{}exposure{暴露 },{}the{越 }better{好 }.{。 }"{}
+
+#107While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak , San Francisco and New York state began sounding the alarm Thursday .
+虽然 联邦 官员 权衡 了 围绕 猴痘 爆发 的 全国性 公共 卫生 紧急 声明 ， 但 旧金山 和 纽约州 周四 开始 敲响 警钟 。
+While{虽然 }federal{联邦 }officials{官员 }weigh{权衡 }a{的 }nationwide{全国性 }public{公共 }health{卫生 }emergency{紧急 }declaration{声明 }around{围绕 }the{}monkeypox{猴痘 }outbreak{爆发 },{， }San{旧金山 }Francisco{旧金山 }and{和 }New{纽约州 }York{纽约州 }state{纽约州 }began{开始 }sounding{敲响 }the{}alarm{警钟 }Thursday{周四 }.{。 }
+
+#108Younger generations have become conditioned to communication that does n't happen in real time , she said .
+她 说 ， 年轻 一代 已经 习惯 于 不 实时 发生 的 沟通 。
+Younger{年轻 }generations{一代 }have{已经 }become{}conditioned{习惯 }to{于 }communication{沟通 }that{的 }does{}n't{不 }happen{发生 }in{}real{实时 }time{实时 },{， }she{她 }said{说 }.{。 }
+
+#109" It indicates that you can transmit during rebound even before you develop symptoms , " Charness said .
+“ 这 表明 ， 即使 在 出现 症状 之前 ， 您 也 可以 在 反弹 期间 传播 ， ” Charness 说 。
+"{“ }It{这 }indicates{表明 }that{， }you{您 }can{可以 }transmit{传播 }during{在 期间 }rebound{反弹 }even{即使 }before{之前 }you{}develop{出现 }symptoms{症状 },{， }"{” }Charness{Charness }said{说 }.{。 }
+
+#110Symptoms of melioidosis depend on where someone is infected but may include fever , pain or swelling , ulcers , coughing , chest pain , trouble breathing , weight loss , muscle or joint pain , disorientation , headache and seizures .
+类 鼻痣 的 症状 取决于 感染者 的 位置 ， 但 可能 包括 发烧 ， 疼痛 或 肿胀 ， 溃疡 ， 咳嗽 ， 胸痛 ， 呼吸 困难 ， 体重 减轻 ， 肌肉 或 关节 疼痛 ， 定向 障碍 ， 头痛 和 癫痫 发作 。
+Symptoms{症状 }of{的 }melioidosis{鼻痣 }depend{取决于 }on{取决于 }where{位置 }someone{感染者 }is{}infected{感染者 }but{但 }may{可能 }include{包括 }fever{发烧 },{， }pain{疼痛 }or{或 }swelling{肿胀 },{， }ulcers{溃疡 },{， }coughing{咳嗽 },{， }chest{胸痛 }pain{胸痛 },{， }trouble{}breathing{呼吸 },{， }weight{体重 }loss{困难 },{}muscle{肌肉 }or{或 }joint{关节 }pain{疼痛 },{， ， ， }disorientation{},{， }headache{头痛 }and{和 }seizures{癫痫 }.{。 }
+
+#111Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi , the first detection of the bacteria in the environment in the US .
+假 马勒 伯克霍 尔德 菌 在 密西西比州 墨西哥湾 沿岸 地区 被 发现 ， 这 是 美国 首 次 在 环境 中 检测 到 这种 细菌 。
+Burkholderia{马勒 }pseudomallei{尔德 }was{被 }found{发现 }in{在 }the{}Gulf{墨西哥湾 }Coast{沿岸 }region{地区 }of{}Mississippi{密西西比州 },{， }the{是 }first{首 }detection{检测 }of{}the{这种 }bacteria{细菌 }in{在 }the{}environment{环境 }in{}the{}US{美国 }.{。 }
+
+#112" Findings by the National Academies not only impact how scientists and physicians look at a topic , but how regulators and Congress do as well , " said Birnbaum , who was not involved in the report .
+“ 国家 科学院 的 调查 结果 不仅 影响 科学家 和 医生 如何 看待 一个 话题 ， 还 影响 监管 机构 和 国会 如何 做 ， ” 没有 参与 该 报告 的 伯恩 鲍姆 说 。
+"{“ }Findings{调查 结果 }by{的 }the{}National{国家 }Academies{科学院 }not{不仅 }only{不仅 }impact{影响 }how{如何 }scientists{科学家 }and{和 }physicians{医生 }look{看待 }at{看待 }a{一个 }topic{话题 },{， }but{还 }how{影响 如何 }regulators{监管 机构 }and{和 }Congress{国会 }do{做 }as{如何 }well{},{， }"{” }said{说 }Birnbaum{伯恩 鲍姆 },{}who{的 }was{}not{没有 }involved{参与 }in{参与 }the{该 }report{报告 }.{。 }
+
+#113Other harm reduction actions include minimizing sexual activity with multiple or anonymous sexual partners , " CDC Director Dr.
+其他 减少 伤害 的 行动 包括 尽量 减少 与 多 个 或 匿名性 伴侣 的 性 活动 ， “ CDC 主任 博士 说 。
+Other{其他 }harm{伤害 }reduction{减少 }actions{行动 }include{包括 }minimizing{减少 }sexual{性 }activity{活动 }with{与 }multiple{多 }or{或 }anonymous{匿名性 }sexual{匿名性 }partners{伴侣 },{， }"{“ }CDC{CDC }Director{主任 }Dr.{博士 。 }
+
+#114" Pfizer and Moderna have indicated that they anticipate the modified vaccines being available as early as September , " an FDA spokesperson said .
+“ 辉瑞 和 Moderna 表示 ， 他们 预计 改良 疫苗 最 早 将 于 9 月 上市 ， ” FDA 发言人 说 。
+"{“ }Pfizer{辉瑞 }and{和 }Moderna{Moderna }have{}indicated{表示 }that{， }they{他们 }anticipate{预计 }the{}modified{改良 }vaccines{疫苗 }being{将 }available{上市 }as{于 }early{早 }as{}September{9 },{， }"{” }an{}FDA{FDA }spokesperson{发言人 }said{说 }.{。 }
+
+#115pseudomallei is typically found in tropical regions , and US cases are usually connected to travel .
+假性 马勒 病 通常 见于 热带 地区 ， 美国 病例 通常 与 旅行 有关 。
+pseudomallei{假性 马勒 }is{}typically{通常 }found{见于 }in{见于 }tropical{热带 }regions{地区 },{}and{， }US{美国 }cases{病例 }are{}usually{通常 }connected{有关 }to{与 }travel{旅行 }.{。 }
+
+#116On Monday , more than 100 members of Congress wrote a letter to the Biden administration urging additional funding for sexual health clinics to improve the monkeypox response effort .
+周一 ， 100 多 名 国会 议员 致信 拜登 政府 ， 敦促 为 性健康 诊所 提供 额外 资金 ， 以 改善 猴痘 应 对 工作 。
+On{}Monday{周一 },{， }more{}than{}100{100 }members{议员 }of{}Congress{国会 }wrote{致信 }a{}letter{}to{致信 }the{}Biden{拜登 }administration{政府 }urging{敦促 }additional{额外 }funding{资金 }for{为 }sexual{性健康 }health{性健康 }clinics{诊所 }to{以 }improve{改善 }the{}monkeypox{猴痘 }response{应 }effort{工作 }.{。 }
+
+#117" They made me feel small ; they made me feel stupid and embarrassed even just asking the question , " she said at an April 2021 town hall , which was quoted in the report .
+“ 他们 让 我 感到 渺小 ; 他们 让 我 感到 愚蠢 和 尴尬 ， 即使 只是 问 这个 问题 ， “ 她 在 2021 年 4 月 的 市政厅 上 说 ， 这 在 报告 中 被 引用 。
+"{“ }They{他们 }made{让 }me{我 }feel{感到 }small{渺小 };{; }they{他们 }made{让 }me{我 }feel{感到 }stupid{愚蠢 }and{和 }embarrassed{尴尬 }even{}just{只是 }asking{问 }the{这个 }question{问题 },{， }"{“ }she{她 }said{说 }at{在 }an{的 }April{4 }2021{2021 }town{市政厅 }hall{市政厅 },{， }which{这 }was{被 }quoted{引用 }in{在 中 }the{}report{报告 }.{。 }
+
+#118In Washington , the federal government is continuing to monitor the response to monkeypox and will use that to consider whether to declare the outbreak a public health emergency , HHS Secretary Xavier Becerra said Thursday .
+在 华盛顿 ， 联邦 政府 正在 继续 监测 对 猴 痘 的 反应 ， 并 将 利用 这 一点 来 考虑 是否 宣布 疫情 为 公共 卫生 紧急 情况 ， HHS 秘书 Xavier Becerra 周四 表示 。
+In{在 }Washington{华盛顿 },{， }the{}federal{联邦 }government{政府 }is{正在 }continuing{继续 }to{正在 }monitor{监测 }the{的 }response{反应 }to{对 }monkeypox{猴 痘 }and{并 }will{将 }use{利用 }that{这 }to{来 }consider{考虑 }whether{是否 }to{}declare{宣布 }the{}outbreak{疫情 }a{为 }public{公共 }health{卫生 }emergency{紧急 情况 },{， }HHS{HHS }Secretary{秘书 }Xavier{Xavier }Becerra{Becerra }said{表示 }Thursday{周四 }.{。 }
+
+#119The government will make 56,000 of those doses available to states in the first phase of the roll out .
+政府 将 在 推出 的 第一 阶段 向 各州 提供 其中 的 56 ， 000 剂 。
+The{}government{政府 }will{将 }make{提供 }56,000{56 ， 000 }of{}those{其中 }doses{剂 }available{提供 }to{向 }states{各州 }in{在 }the{的 }first{第一 }phase{阶段 }of{}the{}roll{推出 }out{推出 }.{。 }
+
+#120It might feel awkward to pick up the phone and make a call , but the connection will likely be more genuine , she added .
+她 补充 说 ， 拿 起 电话 并 拨打 电话 可能 会 感到 尴尬 ， 但 这种 联系 可能 会 更加 真实 。
+It{}might{可能 }feel{感到 }awkward{尴尬 }to{}pick{拿 }up{起 }the{}phone{电话 }and{并 }make{拨打 }a{}call{电话 },{， }but{但 }the{这种 }connection{联系 }will{会 }likely{可能 }be{}more{更加 }genuine{真实 },{}she{她 }added{补充 }.{。 }
+
+#121Researchers are investigating whether the virus can be spread by someone who has no symptoms or through semen , vaginal fluids and fecal matter , according to the CDC .
+据 疾病 预防 控制 中心 称 ， 研究 人员 正在 调查 该 病毒 是否 可以 由 没有 症状 的 人 传播 ， 或者 通过 精液 ， 阴道 液 和 粪便 传播 。
+Researchers{研究 人员 }are{正在 }investigating{调查 }whether{是否 }the{该 }virus{病毒 }can{可以 }be{}spread{传播 }by{由 }someone{人 }who{的 }has{}no{没有 }symptoms{症状 }or{或者 }through{通过 }semen{精液 },{， }vaginal{阴道 }fluids{液 }and{和 }fecal{粪便 }matter{粪便 },{， }according{据 }to{}the{}CDC{}.{。 }
+
+#122Today , Ornish is trying to do for the brain what he did for the heart .
+今天 ， Ornish 正 试图 为 大脑 做 他 为 心脏 所 做 的 事 。
+Today{今天 },{， }Ornish{Ornish }is{正 }trying{试图 }to{的 }do{做 }for{为 }the{}brain{大脑 }what{}he{他 }did{做 }for{为 }the{}heart{心脏 }.{。 }
+
+#123But even with that education , it can be difficult to detect a case of monkeypox , in part because the rash is n't always distinctive , Caveney said .
+但 即使 有 这种 教育 ， 也 很 难 发现 猴痘 病例 ， 部分 原因 是 皮疹 并 不 总是 独特 的 ， Caveney 说 。
+But{但 }even{即使 }with{有 }that{这种 }education{教育 },{， }it{}can{}be{}difficult{难 }to{}detect{发现 }a{}case{病例 }of{}monkeypox{猴痘 },{， }in{}part{部分 }because{是 }the{}rash{皮疹 }is{总是 }n't{不 }always{总是 }distinctive{独特 },{， }Caveney{Caveney }said{说 }.{。 }
+
+#124The US has ordered more of this vaccine , and the government plans to make 1.25 million more doses of the Jynneos vaccine available through the summer and fall , the administration said .
+美国 政府 表示 ， 美国 已经 订购 了 更 多 的 这种 疫苗 ， 政府 计划 在 夏季 和 秋季 再 提供 125 万剂 Jynneos 疫苗 。
+The{}US{美国 美国 }has{已经 }ordered{订购 }more{更 多 }of{的 }this{这种 }vaccine{疫苗 },{}and{， }the{}government{政府 }plans{计划 }to{}make{提供 }1.25{125 }million{万剂 }more{}doses{万剂 }of{}the{}Jynneos{Jynneos }vaccine{疫苗 }available{}through{在 }the{在 }summer{夏季 }and{和 }fall{秋季 },{}the{}administration{}said{表示 }.{。 }
+
+#125Michael Osterholm who directs the Center for Infectious Disease Research and Policy at the University of Minnesota .
+Michael Osterholm ， 明尼苏达 大学 传染病 研究 与 政策 中心 主任 。
+Michael{Michael }Osterholm{Osterholm }who{， }directs{主任 }the{}Center{中心 }for{}Infectious{传染病 }Disease{传染病 }Research{研究 }and{与 }Policy{政策 }at{}the{}University{大学 }of{}Minnesota{明尼苏达 }.{。 }
+
+#126It 's certainly conceivable that there are other people out there who do n't have symptoms and still have a viral rebound . "
+当然 可以 想象 ， 还有 其他人 没有 症状 ， 仍然 有 病毒 反弹 。
+It{当然 }'s{可以 }certainly{当然 }conceivable{想象 }that{， }there{还有 }are{还有 }other{其他人 }people{其他人 }out{}there{}who{}do{}n't{没有 }have{没有 }symptoms{症状 }and{， }still{仍然 }have{有 }a{}viral{病毒 }rebound{反弹 }.{。 }"{}
+
+#127As of Friday , the United States has than 5,000 probable or confirmed monkeypox cases , according to CDC data .
+根据 CDC 的 数据 ， 截至 周五 ， 美国 有 超过 5 ， 000 例 可能 或 确诊 的 猴 痘 病例 。
+As{截至 }of{截至 }Friday{周五 },{， }the{}United{美国 }States{}has{有 }than{超过 }5,000{5 ， 000 }probable{可能 }or{或 }confirmed{确诊 }monkeypox{猴 痘 }cases{病例 },{}according{根据 }to{根据 }CDC{CDC }data{数据 }.{。 }
+
+#128He did n't have any symptoms when he saw the baby , who was his grandson , but about eight hours later , he started to feel ill again .
+当 他 看到 他 的 孙子 婴儿 时 ， 他 没有 任何 症状 ， 但 大约 八 个 小时 后 ， 他 又 开始 感到 不适 。
+He{他 }did{}n't{没有 }have{没有 }any{任何 }symptoms{症状 }when{当 }he{他 }saw{看到 }the{}baby{婴儿 },{}who{}was{}his{他 }grandson{孙子 },{， }but{但 }about{大约 }eight{八 }hours{小时 }later{后 },{， }he{他 }started{开始 }to{感到 }feel{感到 }ill{不适 }again{又 }.{。 }
+
+#129According the White House , over the past two months , filled prescriptions for Paxlovid have climbed from about 27,000 a week to 182,000 a week .
+据 白宫 称 ， 在 过去 两 个 月 中 ， Paxlovid 的 处方 从 每周 约 27 ， 000 个 攀升 至 每周 182 ， 000 个 。
+According{据 }the{}White{白宫 }House{白宫 },{， }over{在 }the{}past{过去 }two{两 }months{月 },{， }filled{}prescriptions{处方 }for{}Paxlovid{Paxlovid }have{}climbed{攀升 }from{从 }about{约 }27,000{27 ， 000 }a{每周 }week{每周 }to{至 }182,000{182 ， 000 }a{每周 }week{每周 }.{。 }
+
+#130So are firefighters , workers in fluorochemical manufacturing plants and those who live near commercial airports , military bases , landfills , incinerators , wastewater treatment plants and farms where contaminated sewage sludge is used .
+消防员 、 含 氟 化学品 制造厂 的 工人 以及 居住 在 商业 机场 、 军事基地 、 垃圾 填埋场 、 焚烧炉 、 污水 处理厂 和 使用 受 污染 污水 污泥 的 农场 附近 的 工人 也 是 如此 。
+So{如此 }are{是 }firefighters{消防员 },{、 }workers{工人 }in{}fluorochemical{氟 化学品 }manufacturing{制造厂 }plants{制造厂 }and{以及 }those{工人 }who{的 }live{居住 }near{在 }commercial{商业 }airports{机场 },{、 }military{军事基地 }bases{军事基地 },{、 }landfills{垃圾 填埋场 },{、 }incinerators{焚烧炉 },{、 }wastewater{污水 }treatment{处理厂 }plants{处理厂 }and{和 }farms{农场 }where{的 }contaminated{污染 }sewage{}sludge{污泥 }is{}used{使用 }.{。 }
+
+#131Health officials in the US have also advised reducing sex partners but used softer language .
+美国 的 卫生 官员 也 建议 减少 性 伴侣 ， 但 使用 更 柔和 的 语言 。
+Health{卫生 }officials{官员 }in{的 }the{的 }US{美国 }have{}also{也 }advised{建议 }reducing{减少 }sex{性 }partners{伴侣 }but{但 }used{使用 }softer{更 柔和 }language{语言 }.{。 }
+
+#132In late June , vaccine makers said boosters updated to target Omicron showed a stronger immune response than the current vaccines .
+6 月 下旬 ， 疫苗 制造商 表示 ， 更新 为 针对 Omicron 的 加强 剂 显示 出 比 当前 疫苗 更 强 的 免疫 反应 。
+In{}late{下旬 }June{6 },{， }vaccine{疫苗 }makers{制造商 }said{表示 }boosters{剂 }updated{更新 }to{为 }target{针对 }Omicron{Omicron }showed{显示 }a{的 }stronger{更 }immune{免疫 }response{反应 }than{比 }the{}current{当前 }vaccines{疫苗 }.{。 }
+
+#133Critics have also charged that the United States is not offering enough testing to monitor the spread of the virus , which is thought to be more widespread than current case counts suggest .
+批评 人士 还 指责 美国 没有 提供 足够 的 检测 来 监测 病毒 的 传播 ， 这种 病毒 被 认为 比 目前 的 病例 数 所 显示 的 更 广泛 。
+Critics{批评 人士 }have{}also{还 }charged{指责 }that{}the{}United{美国 }States{}is{}not{没有 }offering{提供 }enough{足够 }testing{检测 }to{来 }monitor{监测 }the{的 }spread{传播 }of{}the{}virus{病毒 },{， }which{这种 }is{被 }thought{认为 }to{认为 }be{}more{更 }widespread{广泛 }than{比 }current{目前 }case{病例 }counts{数 }suggest{显示 }.{。 }
+
+#134They 're scared and do n't know how they can realistically keep themselves safe with a lack of vaccines .
+他们 很 害怕 ， 不 知道 如何 在 缺乏 疫苗 的 情况 下 实际 保持 自己 的 安全 。
+They{他们 }'re{很 }scared{害怕 }and{， }do{}n't{不 }know{知道 }how{如何 }they{}can{}realistically{实际 }keep{保持 }themselves{自己 }safe{安全 }with{在 }a{的 }lack{缺乏 }of{}vaccines{疫苗 }.{。 }
+
+#135Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall , pending signoff by federal health agencies , the US Department of Health and Human Services said Friday .
+美国 卫生 与 公众 服务部 周五 表示 ， Moderna 和 辉瑞 公司 更新 的 针对 Omicron 冠状 病毒 亚 变体 的 助推器 注射 可能 会 在 初秋 可用 ， 等待 联邦 卫生 机构 的 签核 。
+Moderna{Moderna }and{和 }Pfizer{辉瑞 }booster{助推器 }shots{注射 }updated{更新 }to{}target{针对 }Omicron{Omicron }coronavirus{冠状 病毒 }subvariants{变体 }could{可能 }be{}available{可用 }in{在 }early{初秋 }fall{初秋 },{， }pending{等待 }signoff{签核 }by{的 }federal{联邦 }health{卫生 }agencies{机构 },{}the{}US{美国 }Department{服务部 }of{}Health{卫生 }and{与 }Human{公众 }Services{服务部 }said{表示 }Friday{}.{。 }
+
+#136Vaccines are free when people can find them , testing costs can add up , and treatments are still difficult to access .
+当 人们 能够 找到 疫苗 时 ， 疫苗 是 免费 的 ， 检测 成本 可能 会 增加 ， 并且 治疗 仍然 难以 获得 。
+Vaccines{疫苗 疫苗 }are{是 }free{免费 }when{当 }people{人们 }can{能够 }find{找到 }them{},{， }testing{检测 }costs{成本 }can{会 }add{增加 }up{},{， }and{并且 }treatments{治疗 }are{}still{仍然 }difficult{难以 }to{难以 }access{获得 }.{。 }
+
+#137Charness said the fact that the infection can come back this way after treatment presents some questions .
+Charness 说 ， 治疗 后 感染 可以 以 这种 方式 复发 的 事实 提出 了 一些 问题 。
+Charness{Charness }said{说 }the{的 }fact{事实 }that{， }the{}infection{感染 }can{可以 }come{复发 }back{复发 }this{这种 }way{方式 }after{后 }treatment{治疗 }presents{提出 }some{一些 }questions{问题 }.{。 }
+
+#138The state has gotten more than 60,000 doses of the Jynneos monkeypox vaccine , the US Department of Health and Human Services says .
+美国 卫生 与 公众 服务部 表示 ， 该州 已经 获得 了 超过 60 ， 000 剂 Jynneos 猴痘 疫苗 。
+The{该州 }state{该州 }has{已经 }gotten{获得 }more{超过 }than{超过 }60,000{60 ， 000 }doses{剂 }of{}the{}Jynneos{Jynneos }monkeypox{猴痘 }vaccine{疫苗 },{， }the{}US{美国 }Department{服务部 }of{}Health{卫生 }and{与 }Human{公众 }Services{服务部 }says{表示 }.{。 }
+
+#139He said they 've found at least two instances in which people have transmitted to others when their infection recurs .
+他 说 ， 他们 发现 了 至少 两 个 例子 ， 当 人们 的 感染 复发 时 ， 他们 已经 传播 给 他人 。
+He{他 }said{说 }they{他们 }'ve{}found{发现 }at{至少 }least{至少 }two{两 }instances{例子 }in{， }which{， }people{人们 }have{已经 }transmitted{传播 }to{给 }others{他人 }when{当 }their{的 }infection{感染 }recurs{复发 }.{。 }
+
+#140The federal health adviser said it 's understandable that some in the LGBTQ community are frustrated and feel left behind .
+联邦 卫生 顾问 表示 ， 可以 理解 的 是 ， LGBTQ 社区 中 的 一些 人 感到 沮丧 ， 感到 被 抛 在 后面 。
+The{}federal{联邦 }health{卫生 }adviser{顾问 }said{表示 }it{}'s{可以 的 }understandable{理解 }that{， }some{一些 }in{中 }the{的 }LGBTQ{LGBTQ }community{社区 }are{感到 }frustrated{沮丧 }and{， }feel{感到 }left{抛 }behind{后面 }.{。 }
+
+#141Currently , the only people who can get monkeypox vaccines are those with a known exposure , Walensky said .
+目前 ， 唯一 可以 获得 猴痘 疫苗 的 人 是 那些 已 知 暴露 的 人 ， Walensky 说 。
+Currently{目前 },{， }the{}only{唯一 }people{人 }who{的 }can{可以 }get{获得 }monkeypox{猴痘 }vaccines{疫苗 }are{是 }those{那些 }with{}a{}known{知 }exposure{暴露 },{， }Walensky{Walensky }said{说 }.{。 }
+
+#142That 's in addition to 105 million bivalent boosters the US government has purchased from Pfizer .
+此外 ， 美国 政府 还 从 辉瑞 公司 购买 了 1.05 亿 个 二价 助推器 。
+That{此外 }'s{}in{}addition{此外 }to{了 }105{1.05 }million{亿 }bivalent{二价 }boosters{助推器 }the{}US{美国 }government{政府 }has{}purchased{购买 }from{从 }Pfizer{辉瑞 }.{。 }
+
+#143His organization was one of the signers of the letter to the CDC demanding a bigger response .
+他 的 组织 是 给 疾病 预防 控制 中心 的 信 的 签署 人 之一 ， 要求 做出 更 大 的 回应 。
+His{他 }organization{组织 }was{是 }one{之一 }of{}the{的 }signers{签署 人 }of{的 }the{的 }letter{信 }to{给 }the{}CDC{中心 }demanding{要求 }a{做出 }bigger{更 }response{回应 }.{。 }
+
+#144So it 's actually very difficult to roll out because you have to train people in a new vaccine methodology , " said Dr.
+因此 ， 实际上 很 难 推广 ， 因为 你 必须 对 人们 进行 新 的 疫苗 方法 培训 ， “ 博士 说 。
+So{因此 }it{， }'s{}actually{实际上 }very{很 }difficult{难 }to{}roll{推广 }out{}because{因为 }you{你 }have{必须 }to{}train{培训 }people{人们 }in{进行 }a{的 }new{新 }vaccine{疫苗 }methodology{方法 },{， }"{“ }said{说 }Dr.{博士 。 }
+
+#145As of Friday , New York City 's public health department website says all available appointments for vaccines have been filled at this time .
+截至 周五 ， 纽约市 公共 卫生 部门 网站 称 ， 目前 所有 可用 的 疫苗 预约 都 已 填补 。
+As{截至 }of{截至 }Friday{周五 },{， }New{纽约市 }York{纽约市 }City{纽约市 }'s{}public{公共 }health{卫生 }department{部门 }website{网站 }says{称 }all{所有 }available{可用 }appointments{预约 }for{}vaccines{疫苗 }have{已 }been{}filled{填补 }at{}this{目前 }time{目前 }.{。 }
+
+#146New York has 1,247 probable or confirmed monkeypox cases , according to data from the US Centers for Disease Control and Prevention .
+根据 美国 疾病 控制 和 预防 中心 的 数据 ， 纽约 有 1 ， 247 例 可能 或 确诊 的 猴 痘 病例 。
+New{纽约 }York{纽约 }has{有 }1,247{1 ， 247 }probable{可能 }or{或 }confirmed{确诊 }monkeypox{猴 痘 }cases{病例 },{， }according{根据 }to{}data{数据 }from{}the{的 }US{美国 }Centers{中心 }for{}Disease{疾病 }Control{控制 }and{和 }Prevention{预防 }.{。 }
+
+#147The bacteria that causes a rare , serious disease called melioidosis has been detected in water and soil samples in Mississippi , the US Centers for Disease Control and Prevention said Wednesday .
+美国 疾病 控制 和 预防 中心 周三 表示 ， 在 密西西比州 的 水 和 土壤 样本 中 已经 检测 到 导致 一 种 罕见 的 严重 疾病 类 巨变 性 的 细菌 。
+The{的 }bacteria{细菌 }that{}causes{导致 }a{一 }rare{罕见 },{}serious{严重 }disease{疾病 }called{类 }melioidosis{巨变 }has{已经 }been{已经 }detected{检测 }in{}water{水 }and{和 }soil{土壤 }samples{样本 }in{在 }Mississippi{密西西比州 },{， }the{}US{美国 }Centers{中心 }for{}Disease{疾病 }Control{控制 }and{和 }Prevention{预防 }said{表示 }Wednesday{周三 }.{。 }
+
+#148On Tuesday , HHS also activated the CDC 's Emergency Operations Center to give the agency more flexibility and manpower to manage the nation 's monkeypox response .
+周二 ， HHS 还 启动 了 CDC 的 紧急 行动 中心 ， 为 该 机构 提供 更 大 的 灵活性 和 人力 来 管理 该国 的 猴 痘 反应 。
+On{}Tuesday{周二 },{， }HHS{HHS }also{还 }activated{启动 }the{}CDC{CDC }'s{的 }Emergency{紧急 }Operations{行动 }Center{中心 }to{， }give{提供 }the{该 }agency{机构 }more{更 }flexibility{灵活性 }and{和 }manpower{人力 }to{来 }manage{管理 }the{该国 }nation{该国 }'s{的 }monkeypox{猴 痘 }response{反应 }.{。 }
+
+#149The agency also recommends that people wear a mask for 10 days after their symptoms come back .
+该 机构 还 建议 人们 在 症状 复发 后 10 天 内 戴 口罩 。
+The{该 }agency{机构 }also{还 }recommends{建议 }that{}people{人们 }wear{戴 }a{}mask{口罩 }for{在 }10{10 }days{天 }after{后 }their{}symptoms{症状 }come{}back{复发 }.{。 }
+
+#150Neither the baby nor its parents had any other close contacts before they got sick .
+婴儿 及其 父母 在 生病 之前 都 没有 任何 其他 密切 接触 者 。
+Neither{没有 }the{}baby{婴儿 }nor{及其 }its{及其 }parents{父母 }had{没有 }any{任何 }other{其他 }close{密切 }contacts{接触 }before{之前 }they{}got{}sick{生病 }.{。 }
+
+#151The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or who are at high risk .
+该 报告 设定 了 “ 纳克 ” 关注 水平 ， 并 鼓励 临床 医生 对 担心 暴露 或 高 风险 的 患者 进行 血液 检查 。
+The{该 }report{报告 }sets{设定 }"{“ }nanogram{纳克 }"{” }levels{水平 }of{}concern{关注 }and{并 }encourages{鼓励 }clinicians{临床 医生 }to{}conduct{进行 }blood{血液 }tests{检查 }on{对 }patients{患者 }who{的 }are{}worried{担心 }about{}exposure{暴露 }or{或 }who{的 }are{}at{}high{高 }risk{风险 }.{。 }
+
+#152And while communicating by text or email is n't as impersonal as social media , Akbari recommended that people call their friends .
+虽然 通过 短信 或 电子 邮件 进行 交流 并 不 像 社交 媒体 那样 没有 人情味 ， 但 Akbari 建议 人们 打电话 给 他们 的 朋友 。
+And{}while{虽然 }communicating{交流 }by{通过 }text{短信 }or{或 }email{邮件 }is{并 }n't{不 }as{}impersonal{人情味 }as{像 }social{社交 }media{媒体 },{， }Akbari{Akbari }recommended{建议 }that{}people{人们 }call{打电话 }their{他们 }friends{朋友 }.{。 }
+
+#153Since the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她 补充 说 ， 由于 人们 接触 的 主要 方式 是 通过 私人 沟通 方式 ， 因此 可能 发生 的 最 糟糕 的 情况 是 收件人 没有 回应 。
+Since{由于 }the{的 }primary{主要 }way{方式 }people{人们 }reach{接触 }out{}is{是 }through{通过 }private{私人 }means{方式 }of{}communication{沟通 },{， }the{的 }worst{最 }that{的 }can{可能 }happen{发生 }is{是 }that{}the{}recipient{收件人 }does{}not{没有 }respond{回应 },{}she{她 }added{补充 }.{。 }
+
+#154The CDC says an average of 12 cases are reported to the agency each year .
+疾病 预防 控制 中心 表示 ， 每年 平均 有 12 例 病例 报告 给 该 机构 。
+The{}CDC{中心 }says{表示 }an{}average{平均 }of{有 }12{12 }cases{病例 }are{}reported{报告 }to{给 }the{该 }agency{机构 }each{每年 }year{每年 }.{。 }
+
+#155The CDC says that wearing a condom may help , but alone , it probably will not protect against the spread of monkeypox .
+疾病 预防 控制 中心 表示 ， 戴 避孕套 可能 会 有所 帮助 ， 但 仅 凭 它 可能 无法 防止 猴痘 的 传播 。
+The{}CDC{中心 }says{表示 }that{， }wearing{戴 }a{}condom{避孕套 }may{可能 }help{帮助 },{， }but{但 }alone{仅 },{}it{它 }probably{可能 }will{可能 }not{无法 }protect{防止 }against{防止 }the{的 }spread{传播 }of{}monkeypox{猴痘 }.{。 }
+
+#156" The National Academies are asked to do studies that would be free of the effects of advocacy , special interests , and politics , and are looked at as a trusted neutral body , " said Dr.
+“ 国家 科学院 被 要求 进行 不 受 倡导 ， 特殊 利益 和 政治 影响 的 研究 ， 并 被 视为 一个 值得 信赖 的 中立 机构 ， ” 博士 说 。
+"{“ }The{}National{国家 }Academies{科学院 }are{被 }asked{要求 }to{}do{进行 }studies{研究 }that{}would{}be{}free{不 }of{受 }the{的 }effects{影响 }of{}advocacy{倡导 },{， }special{特殊 }interests{利益 },{}and{和 }politics{政治 },{， }and{并 }are{被 }looked{视为 }at{}as{视为 }a{一个 }trusted{信赖 }neutral{中立 }body{机构 },{， }"{” }said{说 }Dr.{博士 。 }
+
+#157It 's a scene playing out in public health departments and clinics across the country as the monkeypox outbreak spreads .
+随着 猴痘 疫情 的 蔓延 ， 全国 各地 的 公共 卫生 部门 和 诊所 都 在 上演 。
+It{}'s{在 }a{在 }scene{}playing{上演 }out{}in{}public{公共 }health{卫生 }departments{部门 }and{和 }clinics{诊所 }across{全国 各地 }the{}country{全国 }as{随着 }the{的 }monkeypox{猴痘 }outbreak{疫情 }spreads{蔓延 }.{。 }
+
+#158This new study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴 里 说 ， 这项 新 研究 可以 帮助 平息 人们 在 联系 朋友 时 面临 的 焦虑 。
+This{这项 }new{新 }study{研究 }can{可以 }help{帮助 }calm{平息 }the{的 }anxiety{焦虑 }that{}people{人们 }face{}when{}it{}comes{面临 }to{在 }contacting{联系 }friends{朋友 },{， }Akbari{阿克巴 里 }said{说 }.{。 }
+
+#159People who work with the federal government say they are working hard on the issue .
+与 联邦 政府 合作 的 人 说 ， 他们 正在 这个 问题 上 努力 工作 。
+People{人 }who{的 }work{合作 }with{与 }the{}federal{联邦 }government{政府 }say{说 }they{他们 }are{正在 }working{工作 }hard{}on{正在 }the{这个 }issue{问题 }.{。 }
+
+#160To get over some of this discomfort , take notice of automatic thought patterns that arise when thinking about communicating with a friend , and try to push back against them , Kirmayer said .
+为了 克服 一些 不适 ， 请 注意 在 考虑 与 朋友 交流 时 出现 的 自动 思维 模式 ， 并 试图 反击 它们 ， Kirmayer 说 。
+To{为了 }get{克服 }over{}some{一些 }of{}this{}discomfort{不适 },{， }take{}notice{注意 }of{的 }automatic{自动 }thought{思维 }patterns{模式 }that{}arise{出现 }when{在 时 }thinking{考虑 }about{}communicating{交流 }with{与 }a{}friend{朋友 },{， }and{并 }try{试图 }to{}push{反击 }back{}against{反击 }them{它们 },{， }Kirmayer{Kirmayer }said{说 }.{。 }
+
+#161The CDC spokesperson said the agency " encourages anyone who suspects they have monkeypox to reach out to their clinician to get tested since there is more than enough testing capacity .
+疾病 预防 控制 中心 发言人 表示 ， 该 机构 “ 鼓励 任何 怀疑 自己 患 有 猴痘 的 人 联系 他们 的 临床 医生 进行 检测 ， 因为 检测 能力 绰绰有余 。
+The{}CDC{中心 }spokesperson{发言人 }said{表示 }the{该 }agency{机构 }"{“ }encourages{鼓励 }anyone{任何 }who{的 }suspects{怀疑 }they{自己 }have{有 }monkeypox{猴痘 }to{}reach{联系 }out{}to{}their{他们 }clinician{临床 医生 }to{进行 }get{进行 }tested{检测 }since{因为 }there{绰绰有余 }is{}more{绰绰有余 }than{}enough{}testing{检测 }capacity{能力 }.{。 }
+
+#162The US Food and Drug Administration advised vaccine makers in June to update the boosters to add an Omicron BA .
+美国 食品 和 药物 管理局 建议 疫苗 制造商 在 6 月份 更新 加强 剂 以 添加 Omicron BA 。
+The{}US{美国 }Food{食品 }and{和 }Drug{药物 }Administration{管理局 }advised{建议 }vaccine{疫苗 }makers{制造商 }in{在 }June{6 }to{}update{更新 }the{}boosters{加强 剂 }to{以 }add{添加 }an{}Omicron{Omicron }BA{BA }.{。 }
+
+#163Cahill said his organization has been advocating for the US to declare monkeypox a public health emergency .
+卡希尔 说 ， 他 的 组织 一直 在 倡导 美国 宣布 猴痘 为 公共 卫生 紧急 情况 。
+Cahill{卡希尔 }said{说 }his{他 }organization{组织 }has{一直 }been{在 }advocating{倡导 }for{}the{}US{美国 }to{}declare{宣布 }monkeypox{猴痘 }a{为 }public{公共 }health{卫生 }emergency{紧急 }.{。 }
+
+#164It will release more vaccines to areas with the highest case rates , and it will scale up testing , making tests available at five commercial laboratories in addition to an existing network of public health labs .
+它 将 向 病例 率 最高 的 地区 发布 更 多 疫苗 ， 并 将 扩大 检测 范围 ， 除了 现有 的 公共 卫生 实验室 网络 外 ， 还 将 在 五 个 商业 实验室 提供 检测 。
+It{它 }will{将 }release{发布 }more{更 }vaccines{疫苗 }to{向 }areas{地区 }with{}the{}highest{最高 }case{病例 }rates{率 },{， }and{并 }it{}will{将 }scale{扩大 }up{扩大 }testing{检测 },{， }making{提供 }tests{检测 }available{}at{在 }five{五 }commercial{商业 }laboratories{实验室 实验室 }in{， }addition{除了 }to{除了 }an{的 }existing{现有 }network{网络 }of{的 }public{公共 }health{卫生 }labs{}.{。 }
+
+#165Caveney added that as doctors learn more about monkeypox , he expects testing numbers to increase .
+Caveney 补充 说 ， 随着 医生 对 猴 痘 的 了解 越来越 多 ， 他 预计 检测 数量 会 增加 。
+Caveney{Caveney }added{补充 }that{， }as{随着 }doctors{医生 }learn{了解 }more{越来越 }about{对 }monkeypox{猴 痘 },{， }he{他 }expects{预计 }testing{检测 }numbers{数量 }to{会 }increase{增加 }.{。 }
+
+#166Currently , people 5 and older are eligible for a first booster shot , but only those 50 and older and some immunocompromised people are eligible for second boosters .
+目前 ， 5 岁 及 以上 的 人 有 资格 获得 第一 次 加强 注射 ， 但 只有 50 岁 及 以上 的 人 和 一些 免疫 功能 低下 的 人 有 资格 获得 第二 次 加强 剂 。
+Currently{目前 },{， }people{人 }5{5 }and{及 }older{以上 }are{有 }eligible{资格 }for{获得 }a{}first{第一 }booster{加强 }shot{注射 },{， }but{但 }only{只有 }those{}50{50 }and{及 }older{以上 }and{和 }some{一些 }immunocompromised{免疫 低下 }people{人 }are{有 }eligible{资格 }for{获得 }second{第二 }boosters{加强 剂 }.{。 }
+
+#167They say more research is needed to understand whether there could be any connection to the drug .
+他们 说 ， 需要 更 多 的 研究 来 了解 是否 与 药物 有 任何 联系 。
+They{他们 }say{说 }more{更 }research{研究 }is{}needed{需要 }to{来 }understand{了解 }whether{是否 }there{}could{}be{有 }any{任何 }connection{联系 }to{与 }the{}drug{药物 }.{。 }
+
+#168In these experiments , reaching out was defined as a phone call , text , email , note or small gift .
+在 这些 实验 中 ， 伸出 援手 被 定义 为 电话 ， 短信 ， 电子 邮件 ， 便笺 或 小 礼物 。
+In{在 }these{这些 }experiments{实验 },{， }reaching{伸出 }out{伸出 }was{被 }defined{定义 }as{为 }a{}phone{电话 }call{},{， }text{短信 },{， }email{邮件 },{， }note{便笺 }or{或 }small{小 }gift{礼物 }.{。 }
+
+#169In Seattle , King County health officials say they have received only 4,720 doses of Jynneos .
+在 西雅图 ， 金 县 卫生 官员 表示 ， 他们 只 接受 了 4 ， 720 剂 Jynneos 。
+In{在 }Seattle{西雅图 },{， }King{金 }County{县 }health{卫生 }officials{官员 }say{表示 }they{他们 }have{}received{接受 }only{只 }4,720{4 ， 720 }doses{剂 }of{}Jynneos{Jynneos }.{。 }
+
+#170The first is a newer , modern vaccine called Jynneos which is manufactured by the Danish company Bavarian Nordic .
+第一 种 是 一 种 较 新 的 现代 疫苗 ， 称为 Jynneos ， 由 丹麦 公司 巴伐利亚 北欧 公司 生产 。
+The{}first{第一 }is{是 }a{一 }newer{较 新 },{的 }modern{现代 }vaccine{疫苗 }called{称为 }Jynneos{Jynneos }which{， }is{}manufactured{生产 }by{由 }the{}Danish{丹麦 }company{公司 }Bavarian{巴伐利亚 }Nordic{北欧 }.{。 }
+
+#171But a variety of insecurities can prevent us from reaching out , said Akbari , who was not involved in the study .
+但是 ， 各种 不 安全感 可能 会 阻止 我们 伸出 援手 ， 没有 参与 这项 研究 的 Akbari 说 。
+But{但是 }a{}variety{各种 }of{}insecurities{不 安全感 }can{会 }prevent{阻止 }us{我们 }from{}reaching{伸出 }out{援手 },{}said{说 }Akbari{Akbari },{， }who{的 }was{}not{没有 }involved{参与 }in{}the{这项 }study{研究 }.{。 }
+
+#172Some experts though have said it 's now too late to stop what we had the tools to stop earlier .
+不过 ， 一些 专家 表示 ， 现在 停止 我们 早点 停止 的 工具 为时已晚 。
+Some{一些 }experts{专家 }though{不过 }have{}said{表示 }it{为时已晚 }'s{}now{现在 }too{为时已晚 }late{为时已晚 }to{}stop{停止 }what{}we{我们 }had{}the{的 }tools{工具 }to{}stop{停止 }earlier{早点 }.{。 }
+
+#173The other complications is that the ACAM vaccine uses a live , but weakened version of a virus to inoculate a person .
+另 一个 并发症 是 ACAM 疫苗 使用 活 的 ， 但 弱化 的 病毒 版本 来 接种 一个 人 。
+The{}other{另 }complications{并发症 }is{是 }that{}the{}ACAM{ACAM }vaccine{疫苗 }uses{使用 }a{}live{活 },{， }but{但 }weakened{弱化 }version{版本 }of{的 }a{}virus{病毒 }to{来 }inoculate{接种 }a{一个 }person{人 }.{。 }
+
+#174Updated shots would need to be authorized by the FDA and recommended by the US Centers for Disease Control and Prevention .
+更新 的 注射 需要 得到 FDA 的 授权 ， 并 由 美国 疾病 控制 和 预防 中心 推荐 。
+Updated{更新 }shots{注射 }would{}need{需要 }to{}be{得到 }authorized{授权 }by{得到 }the{的 }FDA{FDA }and{并 }recommended{推荐 }by{由 }the{}US{美国 }Centers{中心 }for{}Disease{疾病 }Control{控制 }and{和 }Prevention{预防 }.{。 }
+
+#175That 's only 6 % of the 80,000 doses they would like to have to cover the 40,000 people at elevated or high risk of monkeypox .
+这 只是 他们 希望 必须 覆盖 40 ， 000 名猴 痘 高 风险 或 高 风险 人群 的 80 ， 000 剂 疫苗 中 的 6% 。
+That{这 }'s{只是 }only{只是 }6{6% }%{6% }of{}the{的 的 }80,000{， 000 80 }doses{疫苗 }they{他们 }would{必须 }like{希望 }to{}have{}to{}cover{覆盖 }the{的 }40,000{40 000 }people{人群 }at{}elevated{高 }or{或 }high{高 }risk{风险 }of{}monkeypox{名猴 痘 }.{。 }
+
+#176Pennsylvanian Hope Grasse , who was diagnosed with stage 4 cancer at age 25 after growing up near a naval base , described how her doctors laughed when she mentioned chemical exposure .
+宾夕法尼亚州 的 霍普 · 格拉斯 在 25 岁 时 在 海军 基地 附近 长大 后 被 诊断 出 患 有 4 期 癌症 ， 他 描述 了 当 她 提到 化学品 暴露 时 ， 她 的 医生 如何 大笑 。
+Pennsylvanian{宾夕法尼亚州 的 }Hope{霍普 }Grasse{格拉斯 },{}who{}was{被 }diagnosed{诊断 }with{有 }stage{期 }4{4 }cancer{癌症 }at{在 }age{岁 }25{25 }after{后 }growing{长大 }up{}near{附近 }a{}naval{海军 }base{基地 },{， }described{描述 }how{如何 }her{她 }doctors{医生 }laughed{大笑 }when{当 }she{她 }mentioned{提到 }chemical{化学品 }exposure{暴露 }.{。 }
+
+#177JAMA and other medical journals have also offered information about how to diagnose , test for and treat monkeypox .
+JAMA 和 其他 医学 期刊 也 提供 了 有关 如何 诊断 ， 测试 和 治疗 猴痘 的 信息 。
+JAMA{JAMA }and{和 }other{其他 }medical{医学 }journals{期刊 }have{}also{也 }offered{提供 }information{信息 }about{有关 }how{如何 }to{}diagnose{诊断 },{， }test{测试 }for{}and{和 }treat{治疗 }monkeypox{猴痘 }.{。 }
+
+#178The San Francisco Department of Public Health has confirmed 261 cases of monkeypox in the city , while California has a total of 799 cases .
+旧金山 公共 卫生部 已 确认 该市 有 261 例 猴 痘 病例 ， 而 加利福尼亚州 共有 799 例 。
+The{}San{旧金山 }Francisco{旧金山 }Department{卫生部 }of{}Public{公共 }Health{卫生部 }has{已 }confirmed{确认 }261{261 }cases{病例 }of{}monkeypox{猴 痘 }in{}the{该市 }city{该市 },{， }while{而 }California{加利福尼亚州 }has{共有 }a{}total{共有 }of{}799{799 }cases{例 }.{。 }
+
+#179HHS announced Friday an agreement to purchase 66 million doses of Moderna 's bivalent booster shot for potential use in fall and winter .
+HHS 周五 宣布 达成 协议 ， 购买 6600 万剂 Moderna 的 二价 加强 剂 疫苗 ， 用于 秋季 和 冬季 的 潜在 用途 。
+HHS{HHS }announced{宣布 }Friday{周五 }an{达成 }agreement{协议 }to{， }purchase{购买 }66{6600 }million{万剂 }doses{万剂 Moderna }of{的 }Moderna{}'s{的 }bivalent{二价 }booster{加强 }shot{疫苗 }for{用于 }potential{潜在 }use{用途 }in{用于 }fall{秋季 }and{和 }winter{冬季 }.{。 }
+
+#180Currently , 10 states would be considered to be in the first tier for priority in ordering vaccines .
+目前 ， 10 个州 将 被 视为 优先 订购 疫苗 的 第一 梯队 。
+Currently{目前 },{， }10{10 }states{个州 }would{将 }be{被 }considered{视为 }to{视为 }be{}in{}the{的 }first{第一 }tier{梯队 }for{}priority{优先 }in{}ordering{订购 }vaccines{疫苗 }.{。 }
+
+#181But , the US does n't have enough doses of Jynneos to vaccinate all who might want it , so public health officials are also considering whether to use a second , older type of vaccine called ACAM .
+但是 ， 美国 没有 足够 的 Jynneos 剂量 来 为 所有 可能 想 要 的 人 接种 疫苗 ， 因此 公共 卫生 官员 也 在 考虑 是否 使用 第二 种 名为 ACAM 的 较 旧 疫苗 。
+But{但是 },{， }the{}US{美国 }does{}n't{没有 }have{没有 }enough{足够 }doses{剂量 }of{的 }Jynneos{Jynneos }to{来 }vaccinate{接种 疫苗 }all{所有 }who{的 人 }might{可能 }want{想 要 }it{},{， }so{因此 }public{公共 }health{卫生 }officials{官员 }are{在 }also{也 }considering{考虑 }whether{是否 }to{}use{使用 }a{}second{第二 },{}older{旧 }type{种 }of{的 }vaccine{疫苗 }called{名为 }ACAM{ACAM }.{。 }
+
+#182So far in the United States , there have been 306 cases of monkeypox identified across 28 jurisdictions .
+到 目前 为止 ， 在 美国 ， 在 28 个 司法 管辖区 已经 发现 了 306 例 猴 痘 病例 。
+So{到 }far{目前 }in{在 }the{}United{美国 }States{},{， }there{}have{已经 }been{发现 了 }306{306 }cases{病例 }of{}monkeypox{猴 痘 }identified{发现 }across{在 }28{28 }jurisdictions{管辖区 }.{。 }
+
+#183" We will weigh any decision on declaring a public health emergency based on the responses we 're seeing throughout the country .
+“ 我们 将 根据 我们 在 全国 各地 看到 的 反应 来 权衡 宣布 公共 卫生 紧急状态 的 任何 决定 。
+"{“ }We{我们 }will{将 }weigh{权衡 }any{任何 }decision{决定 }on{来 }declaring{宣布 }a{}public{公共 }health{卫生 }emergency{紧急状态 }based{根据 }on{根据 }the{的 }responses{反应 }we{我们 }'re{}seeing{看到 }throughout{各地 }the{}country{全国 }.{。 }
+
+#184The US has not made such an emergency declaration , which would provide more money and staff , help with data collection and help cut through red tape to better fight the outbreak .
+美国 尚未 做出 这样 的 紧急 声明 ， 这 将 提供 更 多 的 资金 和 人员 ， 帮助 收集 数据 ， 并 帮助 减少 繁文缛节 ， 以 更 好 地 对抗 疫情 。
+The{}US{美国 }has{尚未 }not{尚未 }made{做出 }such{这样 }an{的 }emergency{紧急 }declaration{声明 },{， }which{这 }would{将 }provide{提供 }more{更 }money{资金 }and{和 }staff{人员 },{， }help{帮助 }with{}data{数据 }collection{收集 }and{并 }help{帮助 }cut{减少 }through{}red{繁文缛节 }tape{繁文缛节 }to{以 }better{更 好 }fight{对抗 }the{}outbreak{疫情 }.{。 }
+
+#185Since the start of June , the CDC says , it has been doing extensive education and outreach to the LGBTQ community .
+疾病 预防 控制 中心 说 ， 自 6 月初 以来 ， 它 一直 在 对 LGBTQ 社区 进行 广泛 的 教育 和 外展 活动 。
+Since{自 }the{}start{月初 }of{}June{6 },{}the{}CDC{中心 }says{说 },{， }it{它 }has{一直 }been{一直 在 }doing{进行 }extensive{广泛 }education{教育 }and{和 }outreach{外展 }to{对 }the{}LGBTQ{LGBTQ }community{社区 }.{。 }
+
+#186Bottom line is , we need to stay ahead of it and be able to end this outbreak .
+底线 是 ， 我们 需要 保持 领先 ， 并 能够 结束 这 场 疫情 。
+Bottom{底线 }line{底线 }is{是 },{， }we{我们 }need{需要 }to{需要 }stay{保持 }ahead{领先 }of{}it{}and{并 }be{}able{能够 }to{}end{结束 }this{这 }outbreak{疫情 }.{。 }
+
+#187San Francisco 's health department requested 35,000 doses to meet the overwhelming demand there but said it has received only 12,000 doses as of Thursday .
+旧金山 卫生 部门 要求 35 ， 000 剂 ， 以 满足 那里 的 压倒性 需求 ， 但 表示 截至 周四 仅 收到 12 ， 000 剂 。
+San{旧金山 }Francisco{旧金山 }'s{}health{卫生 }department{部门 }requested{要求 }35,000{35 ， 000 }doses{剂 }to{以 }meet{满足 }the{的 }overwhelming{压倒性 }demand{需求 }there{那里 }but{但 }said{表示 }it{}has{}received{收到 }only{仅 }12,000{12 ， 000 }doses{剂 }as{截至 }of{截至 }Thursday{周四 }.{。 }
+
+#188As helpful as it is , though , researchers say people should be aware the drug may not completely extinguish the infection .
+然而 ， 尽管 这 是 有 帮助 的 ， 但 研究 人员 表示 ， 人们 应该 意识 到 这种 药物 可能 无法 完全 消灭 感染 。
+As{尽管 }helpful{帮助 }as{尽管 }it{这 }is{是 },{， }though{然而 },{}researchers{研究 }say{表示 }people{人们 }should{应该 }be{}aware{意识 }the{这种 }drug{药物 }may{可能 }not{无法 }completely{完全 }extinguish{消灭 }the{}infection{感染 }.{。 }
+
+#189The US Food and Drug Administration has authorized 786,000 additional doses of the Jynneos vaccine , and jurisdictions can place orders starting Friday .
+美国 食品 和 药物 管理局 已 授权 额外 接种 786 ， 000 剂 Jynneos 疫苗 ， 各 司法 管辖区 可以 从 周五 开始 下 订单 。
+The{}US{美国 }Food{食品 }and{和 }Drug{药物 }Administration{管理局 }has{已 }authorized{授权 }786,000{786 ， 000 }additional{额外 }doses{剂 }of{}the{}Jynneos{Jynneos }vaccine{疫苗 },{， }and{， }jurisdictions{管辖区 }can{可以 }place{下 }orders{订单 }starting{开始 }Friday{周五 }.{。 }
+
+#190San Francisco became the first major US city to declare a local health emergency on monkeypox in an effort to strengthen the city 's preparedness and response amid high demand for the vaccine .
+旧金山 成为 美国 第一 个 宣布 当地 猴痘 卫生 紧急 状况 的 主要 城市 ， 以便 在 疫苗 需求 旺盛 的 情况 下 加强 该市 的 防范 和 应 对 。
+San{旧金山 }Francisco{旧金山 }became{成为 }the{}first{第一 }major{主要 }US{美国 }city{城市 }to{}declare{宣布 }a{}local{当地 }health{卫生 }emergency{紧急 }on{}monkeypox{猴痘 }in{， }an{以便 }effort{以便 }to{}strengthen{加强 }the{该市 }city{该市 }'s{的 }preparedness{防范 }and{和 }response{应 }amid{下 }high{旺盛 }demand{需求 }for{}the{}vaccine{疫苗 }.{。 }
+
+#191" It 's presumed not to be safe to be able to be used in people with HIV , " Varma said .
+“ 据 推测 ， 能够 用于 艾滋病毒 感染者 是 不 安全 的 ， ” 瓦尔 玛说 。
+"{“ }It{}'s{是 }presumed{推测 }not{不 }to{的 }be{是 }safe{安全 }to{}be{}able{能够 }to{}be{}used{用于 }in{用于 }people{感染者 }with{}HIV{艾滋病毒 },{， }"{” }Varma{瓦尔 玛说 }said{玛说 }.{。 }
+
+#192Combined , the US government 's agreements with Moderna and Pfizer would make about 171 million bivalent vaccine booster doses available for the fall and winter , should they be authorized and recommended .
+美国 政府 与 Moderna 和 辉瑞 公司 达成 的 协议 将 使 其 在 秋季 和 冬季 提供 约 1.71 亿剂 二价 疫苗 加强 剂 ， 如果 它们 得到 授权 和 推荐 的话 。
+Combined{},{}the{}US{美国 }government{政府 }'s{的 }agreements{协议 }with{与 }Moderna{Moderna }and{和 }Pfizer{辉瑞 }would{将 }make{使 提供 }about{约 }171{1.71 }million{亿剂 }bivalent{二价 }vaccine{疫苗 }booster{加强 }doses{剂 }available{}for{在 }the{}fall{秋季 }and{和 }winter{冬季 },{， }should{如果 }they{它们 }be{得到 }authorized{授权 }and{和 }recommended{推荐 }.{。 }
+
+#193It 's impossible to avoid rejection , so learning how to be OK with it can allow people to become more resilient , Akbari said .
+Akbari 说 ， 避免 被 拒绝 是 不 可能 的 ， 所以 学习 如何 接受 它 可以 让 人们 变 得 更 有 弹性 。
+It{}'s{是 }impossible{不 }to{的 }avoid{避免 }rejection{拒绝 },{， }so{所以 }learning{学习 }how{如何 }to{}be{}OK{接受 }with{接受 }it{它 }can{可以 }allow{让 }people{人们 }to{}become{变 }more{更 }resilient{弹性 },{}Akbari{Akbari }said{说 }.{。 }
+
+#194For another , some people who have monkeypox symptoms may not seek care for fear of being stigmatized .
+另一方面 ， 一些 有 猴 痘 症状 的 人 可能 不 会 寻求 治疗 ， 因为 害怕 被 污名 化 。
+For{}another{另一方面 },{， }some{一些 }people{人 }who{的 }have{有 }monkeypox{猴 痘 }symptoms{症状 }may{可能 }not{不 }seek{寻求 }care{治疗 }for{因为 }fear{害怕 }of{因为 }being{被 }stigmatized{污名 化 }.{。 }
+
+#195Ned Calonge , an associate professor of epidemiology at the Colorado School of Public Health and chair of the committee that wrote the report .
+Ned Calonge ， 科罗拉多 公共 卫生 学院 流行病学 副教授 ， 撰写 该 报告 的 委员会 主席 。
+Ned{Ned }Calonge{Calonge },{， }an{}associate{副教授 }professor{副教授 }of{}epidemiology{流行病学 }at{}the{}Colorado{科罗拉多 }School{学院 }of{}Public{公共 }Health{卫生 }and{， }chair{主席 }of{}the{的 }committee{委员会 }that{}wrote{撰写 }the{该 }report{报告 }.{。 }
+
+#196The declaration , which goes into effect Monday , is a legal action that allows city departments to mobilize and coordinate more effectively , Mayor London Breed 's office said in a statement .
+该 声明 于 周一 生效 ， 是 一 项 法律 行动 ， 允许 城市 部门 更 有效 地 动员 和 协调 ， 市长 伦敦 布里 德 的 办公室 在 一 份 声明 中 说 。
+The{该 }declaration{声明 },{}which{}goes{}into{于 }effect{生效 }Monday{周一 },{， }is{是 }a{一 }legal{法律 }action{行动 }that{， }allows{允许 }city{城市 }departments{部门 }to{地 }mobilize{动员 }and{和 }coordinate{协调 }more{更 }effectively{有效 },{， }Mayor{市长 }London{伦敦 }Breed{布里 德 }'s{的 }office{办公室 }said{说 }in{在 }a{一 }statement{声明 }.{。 }
+
+#197Jay Varma , professor and director of the Cornell Center for Pandemic Prevention and Response in New York City .
+Jay Varma ， 纽约市 康奈尔 大学 流行病 预防 和 应 对 中心 教授 兼 主任 。
+Jay{Jay }Varma{Varma },{， }professor{教授 }and{兼 }director{主任 }of{}the{}Cornell{康奈尔 }Center{中心 }for{}Pandemic{流行病 }Prevention{预防 }and{和 }Response{应 }in{}New{纽约市 }York{纽约市 }City{纽约市 }.{。 }
+
+#198There 's also no sign that the virus has changed or mutated to develop some kind of resistance to the drug .
+也 没有 迹象 表明 病毒 已经 改变 或 突变 以 对 药物 产生 某种 耐药性 。
+There{}'s{}also{也 }no{没有 }sign{迹象 }that{表明 }the{}virus{病毒 }has{已经 }changed{改变 }or{或 }mutated{突变 }to{以 }develop{产生 }some{某种 }kind{某种 }of{}resistance{耐药性 }to{对 }the{}drug{药物 }.{。 }
+
+#199But at the end of the day , we need vaccines , and we need them yesterday .
+但 归根结底 ， 我们 需要 疫苗 ， 我们 昨天 就 需要 疫苗 。
+But{但 }at{归根结底 }the{}end{归根结底 }of{}the{}day{},{， }we{我们 }need{需要 }vaccines{疫苗 },{}and{， }we{我们 }need{需要 }them{疫苗 }yesterday{昨天 }.{。 }
+
+#200A CDC spokesperson said there has been " robust outreach to clinicians and the general public to increase awareness of monkeypox risk factors , symptoms and testing options .
+CDC 发言人 表示 ， 已经 “ 与 临床 医生 和 公众 进行 了 强有力 的 接触 ， 以 提高 对 猴 痘 风险 因素 ， 症状 和 检测 选择 的 认识 。
+A{}CDC{CDC }spokesperson{发言人 }said{表示 }there{}has{已经 }been{进行 }"{“ }robust{强有力 }outreach{接触 }to{与 }clinicians{临床 医生 }and{和 }the{}general{}public{公众 }to{以 }increase{提高 }awareness{认识 }of{对 }monkeypox{猴 痘 }risk{风险 }factors{因素 },{， }symptoms{症状 }and{和 }testing{检测 }options{选择 }.{。 }
+
+#201Because of this , the CDC says , there 's no reason to think that more treatment is needed .
+因此 ， 疾病 预防 控制 中心 说 ， 没有 理由 认为 需要 更 多 的 治疗 。
+Because{因此 }of{}this{因此 },{， }the{}CDC{中心 }says{说 },{， }there{}'s{}no{没有 }reason{理由 }to{}think{认为 }that{认为 }more{更 }treatment{治疗 }is{}needed{需要 }.{。 }
+
+#202There are 300,000 doses that were being held by the manufacturer that are currently on the way .
+制造商 目前 正在 持有 300 , 000 剂 疫苗 。
+There{}are{}300,000{300 , 000 }doses{剂 疫苗 }that{}were{}being{正在 }held{持有 }by{}the{}manufacturer{制造商 }that{}are{正在 }currently{目前 }on{}the{}way{}.{。 }
+
+#203One of the major public clinics offering the vaccine there had to shut down Tuesday when it ran out after vaccinating 600 people .
+那里 提供 疫苗 的 主要 公共 诊所 之一 在 为 600 人 接种 疫苗 后于 周二 用 完 后 不得不 关闭 。
+One{之一 }of{}the{的 }major{主要 }public{公共 }clinics{诊所 }offering{提供 }the{}vaccine{疫苗 }there{那里 }had{不得不 }to{不得不 }shut{关闭 }down{关闭 }Tuesday{周二 }when{}it{}ran{用 }out{完 }after{后 }vaccinating{}600{600 }people{人 }.{。 }
+
+#204When focusing on the possibility of rejection , one may deprive oneself of close friendships and enjoyable experiences , she added .
+她 补充 说 ， 当 关注 被 拒绝 的 可能性 时 ， 一个 人 可能 会 剥夺 自己 的 亲密 友谊 和 愉快 的 经历 。
+When{当 }focusing{关注 }on{}the{的 }possibility{可能性 }of{被 }rejection{拒绝 },{， }one{一个 }may{可能 会 }deprive{剥夺 }oneself{自己 }of{的 }close{亲密 }friendships{友谊 }and{和 }enjoyable{愉快 }experiences{经历 },{}she{她 }added{补充 }.{。 }
+
+#205Half of them have come from just two families , leading the researchers to conclude that such cases are not all that rare .
+其中 一半 仅 来自 两 个 家庭 ， 这 使 研究 人员 得出 结论 ， 此类 病例 并 不少 见 。
+Half{一半 }of{其中 }them{其中 }have{}come{来自 }from{来自 }just{仅 }two{两 }families{家庭 },{， }leading{使 }the{}researchers{研究 }to{得出 }conclude{结论 }that{， }such{此类 }cases{病例 }are{}not{不少 }all{}that{}rare{见 }.{。 }
+
+#206Vaccination should occur within two weeks of a possible exposure , And the sooner you can get vaccinated after the exposure , the better . "
+疫苗 接种 应 在 可能 接触 后 的 两 周 内 进行 ， 接触 后 越 早 接种 越 好 。 ”
+Vaccination{疫苗 接种 }should{应 }occur{进行 }within{在 }two{两 }weeks{周 }of{的 }a{的 }possible{可能 }exposure{接触 },{， }And{， }the{越 }sooner{早 }you{}can{}get{}vaccinated{接种 }after{后 }the{}exposure{接触 },{}the{越 }better{好 }.{。 }"{” }
+
+#207While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak , San Francisco and New York state began sounding the alarm Thursday .
+当 联邦 官员 权衡 围绕 猴痘 爆发 的 全国 公共 卫生 紧急 声明 时 ， 旧金山 和 纽约州 周四 开始 拉响 警报 。
+While{当 }federal{联邦 }officials{官员 }weigh{权衡 }a{的 }nationwide{全国 }public{公共 }health{卫生 }emergency{紧急 }declaration{声明 }around{围绕 }the{}monkeypox{猴痘 }outbreak{爆发 },{， }San{旧金山 }Francisco{旧金山 }and{和 }New{纽约州 }York{纽约州 }state{纽约州 }began{开始 }sounding{拉响 }the{}alarm{警报 }Thursday{周四 }.{。 }
+
+#208Younger generations have become conditioned to communication that does n't happen in real time , she said .
+她 说 ， 年轻 一代 已经 习惯 于 不 实时 发生 的 交流 。
+Younger{年轻 }generations{一代 }have{已经 }become{}conditioned{习惯 }to{于 }communication{交流 }that{的 }does{}n't{不 }happen{发生 }in{}real{实时 }time{实时 },{， }she{她 }said{说 }.{。 }
+
+#209" It indicates that you can transmit during rebound even before you develop symptoms , " Charness said .
+“ 这 表明 你 甚至 在 出现 症状 之前 就 可以 在 反弹 期间 传播 ， ” 查 内斯 说 。
+"{“ }It{这 }indicates{表明 }that{}you{你 }can{可以 }transmit{传播 }during{期间 }rebound{反弹 }even{甚至 }before{之前 }you{}develop{出现 }symptoms{症状 },{， }"{” }Charness{查 内斯 }said{说 }.{。 }
+
+#210Symptoms of melioidosis depend on where someone is infected but may include fever , pain or swelling , ulcers , coughing , chest pain , trouble breathing , weight loss , muscle or joint pain , disorientation , headache and seizures .
+类 鼻疽 的 症状 取决于 感染 的 部位 ， 但 可能 包括 发烧 、 疼痛 或 肿胀 、 溃疡 、 咳嗽 、 胸痛 、 呼吸 困难 、 体重 减轻 、 肌肉 或 关节 疼痛 、 定向 障碍 、 头痛 和 癫痫 发作 。
+Symptoms{症状 }of{的 }melioidosis{鼻疽 }depend{取决于 }on{取决于 }where{部位 }someone{}is{}infected{感染 }but{但 }may{可能 }include{包括 }fever{发烧 },{、 }pain{疼痛 }or{或 }swelling{肿胀 },{、 }ulcers{溃疡 },{、 }coughing{咳嗽 },{、 }chest{胸痛 }pain{胸痛 },{、 }trouble{}breathing{呼吸 },{、 }weight{体重 }loss{困难 减轻 },{}muscle{肌肉 }or{或 }joint{关节 }pain{疼痛 },{、 }disorientation{},{、 }headache{头痛 }and{和 }seizures{癫痫 }.{。 }
+
+#211Burkholderia pseudomallei was found in the Gulf Coast region of Mississippi , the first detection of the bacteria in the environment in the US .
+Burkholderia pseudomallei 是 在 密西西比州 墨西哥湾 沿岸 地区 发现 的 ， 这 是 美国 首 次 在 环境 中 检测 到 这种 细菌 。
+Burkholderia{Burkholderia }pseudomallei{pseudomallei }was{是 }found{发现 }in{在 }the{}Gulf{墨西哥湾 }Coast{沿岸 }region{地区 }of{}Mississippi{密西西比州 },{， }the{是 }first{首 }detection{检测 }of{}the{这种 }bacteria{细菌 }in{在 }the{}environment{环境 }in{}the{}US{美国 }.{。 }
+
+#212" Findings by the National Academies not only impact how scientists and physicians look at a topic , but how regulators and Congress do as well , " said Birnbaum , who was not involved in the report .
+“ 国家 科学院 的 调查 结果 不仅 影响 科学家 和 医生 如何 看待 一个 话题 ， 而且 影响 监管 机构 和 国会 的 表现 ， ” 伯恩 鲍姆 说 ， 他 没有 参与 该 报告 。
+"{“ }Findings{调查 结果 }by{的 }the{}National{国家 }Academies{科学院 }not{不仅 }only{不仅 }impact{影响 }how{如何 }scientists{科学家 }and{和 }physicians{医生 }look{看待 }at{看待 }a{一个 }topic{话题 },{， }but{而且 }how{影响 }regulators{监管 机构 }and{和 }Congress{国会 }do{表现 }as{}well{},{， }"{” }said{说 }Birnbaum{伯恩 鲍姆 },{， }who{他 }was{}not{没有 }involved{参与 }in{}the{该 }report{报告 }.{。 }
+
+#213Other harm reduction actions include minimizing sexual activity with multiple or anonymous sexual partners , " CDC Director Dr.
+其他 减少 伤害 的 措施 包括 尽量 减少 与 多 个 或 匿名性 伴侣 的 性 活动 ， ” 疾病 预防 控制 中心 主任 博士 说 。
+Other{其他 }harm{伤害 }reduction{减少 }actions{措施 }include{包括 }minimizing{减少 }sexual{性 }activity{活动 }with{与 }multiple{多 }or{或 }anonymous{匿名性 }sexual{匿名性 }partners{伴侣 },{， }"{” }CDC{中心 }Director{主任 }Dr.{博士 。 }
+
+#214" Pfizer and Moderna have indicated that they anticipate the modified vaccines being available as early as September , " an FDA spokesperson said .
+“ 辉瑞 和 Moderna 已经 表示 ， 他们 预计 修改 后 的 疫苗 最 早 将 于 9 月 上市 ， ” FDA 发言人 说 。
+"{“ }Pfizer{辉瑞 }and{和 }Moderna{Moderna }have{已经 }indicated{表示 }that{， }they{他们 }anticipate{预计 }the{的 }modified{修改 }vaccines{疫苗 }being{将 }available{上市 }as{于 }early{早 }as{}September{9 },{， }"{” }an{}FDA{FDA }spokesperson{发言人 }said{说 }.{。 }
+
+#215pseudomallei is typically found in tropical regions , and US cases are usually connected to travel .
+pseudomallei 通常 在 热带 地区 发现 ， 美国 病例 通常 与 旅行 有关 。
+pseudomallei{pseudomallei }is{}typically{通常 }found{发现 }in{在 }tropical{热带 }regions{地区 },{}and{， }US{美国 }cases{病例 }are{}usually{通常 }connected{有关 }to{与 }travel{旅行 }.{。 }
+
+#216On Monday , more than 100 members of Congress wrote a letter to the Biden administration urging additional funding for sexual health clinics to improve the monkeypox response effort .
+周一 ， 100 多 名 国会 议员 致信 拜登 政府 ， 敦促 为 性健康 诊所 提供 额外 资金 ， 以 改善 猴痘 应 对 工作 。
+On{}Monday{周一 },{， }more{}than{}100{100 }members{议员 }of{}Congress{国会 }wrote{致信 }a{}letter{}to{致信 }the{}Biden{拜登 }administration{政府 }urging{敦促 }additional{额外 }funding{资金 }for{为 }sexual{性健康 }health{性健康 }clinics{诊所 }to{以 }improve{改善 }the{}monkeypox{猴痘 }response{应 }effort{工作 }.{。 }
+
+#217" They made me feel small ; they made me feel stupid and embarrassed even just asking the question , " she said at an April 2021 town hall , which was quoted in the report .
+她 在 2021 年 4 月 的 市政厅 说 ： “ 他们 让 我 觉得 自己 很 渺小 ； 他们 让 我 感到 愚蠢 和 尴尬 ， 即使 只是 问 这个 问题 。 ”
+"{“ }They{他们 }made{让 }me{我 }feel{觉得 }small{渺小 };{； }they{他们 }made{让 }me{我 }feel{感到 }stupid{愚蠢 }and{和 }embarrassed{尴尬 }even{即使 }just{只是 }asking{问 }the{这个 }question{问题 },{}"{” }she{她 }said{说 }at{在 }an{的 }April{4 }2021{2021 }town{市政厅 }hall{市政厅 },{， }which{}was{}quoted{}in{}the{}report{}.{。 }
+
+#218In Washington , the federal government is continuing to monitor the response to monkeypox and will use that to consider whether to declare the outbreak a public health emergency , HHS Secretary Xavier Becerra said Thursday .
+美国 卫生 与 公众 服务部 部长 泽维尔 · 贝 塞拉 周四 表示 ， 在 华盛顿 ， 联邦 政府 正在 继续 监测 对 猴 痘 的 反应 ， 并 将 以此 来 考虑 是否 宣布 此次 疫情 为 突发 公共 卫生 事件 。
+In{在 }Washington{华盛顿 },{， }the{}federal{联邦 }government{政府 }is{正在 }continuing{继续 }to{正在 }monitor{监测 }the{的 }response{反应 }to{对 }monkeypox{猴 痘 }and{并 }will{将 }use{以此 }that{以此 }to{来 }consider{考虑 }whether{是否 }to{}declare{宣布 }the{此次 }outbreak{疫情 }a{为 }public{公共 }health{卫生 }emergency{事件 },{}HHS{}Secretary{部长 }Xavier{泽维尔 }Becerra{贝 塞拉 }said{表示 }Thursday{周四 }.{。 }
+
+#219The government will make 56,000 of those doses available to states in the first phase of the roll out .
+在 推广 的 第一 阶段 ， 政府 将 向 各州 提供 56 , 000 剂 。
+The{}government{政府 }will{将 }make{提供 }56,000{56 , 000 }of{}those{}doses{剂 }available{}to{向 }states{各州 }in{在 }the{的 }first{第一 }phase{阶段 }of{}the{}roll{推广 }out{推广 }.{。 }
+
+#220It might feel awkward to pick up the phone and make a call , but the connection will likely be more genuine , she added .
+她 补充 说 ， 拿 起 电话 打电话 可能 会 感觉 很 尴尬 ， 但 这种 联系 可能 会 更加 真实 。
+It{}might{可能 }feel{感觉 }awkward{尴尬 }to{}pick{拿 }up{起 }the{}phone{电话 }and{}make{打电话 }a{}call{打电话 },{， }but{但 }the{这种 }connection{联系 }will{会 }likely{可能 }be{}more{更加 }genuine{真实 },{}she{她 }added{补充 }.{。 }
+
+#221Researchers are investigating whether the virus can be spread by someone who has no symptoms or through semen , vaginal fluids and fecal matter , according to the CDC .
+据 疾病 预防 控制 中心 称 ， 研究 人员 正在 调查 该 病毒 是否 可以 通过 没有 症状 的 人 或 通过 精液 、 阴道 液 和 粪便 传播 。
+Researchers{研究 人员 }are{正在 }investigating{调查 }whether{是否 }the{该 }virus{病毒 }can{可以 }be{}spread{传播 }by{}someone{人 }who{的 }has{}no{没有 }symptoms{症状 }or{或 }through{通过 }semen{精液 },{、 }vaginal{阴道 }fluids{液 }and{和 }fecal{粪便 }matter{粪便 },{， }according{据 }to{}the{}CDC{}.{。 }
+
+#222Today , Ornish is trying to do for the brain what he did for the heart .
+今天 ， Ornish 正在 努力 为 大脑 做 他 为 心脏 所 做 的 事情 。
+Today{今天 },{， }Ornish{Ornish }is{正在 }trying{努力 }to{正在 }do{做 }for{为 }the{}brain{大脑 }what{}he{他 }did{做 }for{为 }the{}heart{心脏 }.{。 }
+
+#223But even with that education , it can be difficult to detect a case of monkeypox , in part because the rash is n't always distinctive , Caveney said .
+但 即使 有 这样 的 教育 ， 也 很 难 发现 猴痘 病例 ， 部分 原因 是 皮疹 并 不 总是 很 独特 ， 卡维尼 说 。
+But{但 }even{即使 }with{有 }that{这样 }education{教育 },{， }it{}can{}be{}difficult{难 }to{}detect{发现 }a{}case{病例 }of{}monkeypox{猴痘 },{， }in{}part{部分 }because{是 }the{}rash{皮疹 }is{总是 }n't{不 }always{总是 }distinctive{独特 },{， }Caveney{卡维尼 }said{说 }.{。 }
+
+#224The US has ordered more of this vaccine , and the government plans to make 1.25 million more doses of the Jynneos vaccine available through the summer and fall , the administration said .
+政府 表示 ， 美国 已 订购 了 更 多 这种 疫苗 ， 政府 计划 在 夏季 和 秋季 再生产 125 万剂 Jynneos 疫苗 。
+The{}US{美国 }has{已 }ordered{订购 }more{更 }of{了 }this{这种 }vaccine{疫苗 },{}and{， }the{}government{政府 }plans{计划 }to{}make{再生产 }1.25{125 }million{万剂 }more{}doses{万剂 }of{}the{}Jynneos{Jynneos }vaccine{疫苗 }available{}through{在 }the{在 }summer{夏季 }and{和 }fall{秋季 },{}the{}administration{}said{表示 }.{。 }
+
+#225Michael Osterholm who directs the Center for Infectious Disease Research and Policy at the University of Minnesota .
+Michael Osterholm 是 明尼苏达 大学 传染病 研究 与 政策 中心 的 负责人 。
+Michael{Michael }Osterholm{Osterholm }who{是 }directs{负责人 }the{的 }Center{中心 }for{}Infectious{传染病 }Disease{传染病 }Research{研究 }and{与 }Policy{政策 }at{}the{}University{大学 }of{}Minnesota{明尼苏达 }.{。 }
+
+#226It 's certainly conceivable that there are other people out there who do n't have symptoms and still have a viral rebound . "
+当然 可以 想象 ， 还有 其他人 没有 症状 ， 但 仍 有 病毒 反弹 。 ”
+It{当然 }'s{可以 }certainly{当然 }conceivable{想象 }that{， }there{还有 }are{还有 }other{其他人 }people{其他人 }out{}there{}who{}do{}n't{没有 }have{没有 }symptoms{症状 }and{， 但 }still{仍 }have{有 }a{}viral{病毒 }rebound{反弹 }.{。 }"{” }
+
+#227As of Friday , the United States has than 5,000 probable or confirmed monkeypox cases , according to CDC data .
+根据 疾病 预防 控制 中心 的 数据 ， 截至 周五 ， 美国 有 超过 5 , 000 例 可能 或 确诊 的 猴 痘 病例 。
+As{截至 }of{截至 }Friday{周五 },{， }the{}United{美国 }States{}has{有 }than{超过 }5,000{5 , 000 }probable{可能 }or{或 }confirmed{确诊 }monkeypox{猴 痘 }cases{病例 },{}according{根据 }to{根据 }CDC{中心 }data{数据 }.{。 }
+
+#228He did n't have any symptoms when he saw the baby , who was his grandson , but about eight hours later , he started to feel ill again .
+当 他 看到 婴儿 ， 也 就是 他 的 孙子 时 ， 他 没有 任何 症状 ， 但 大约 八 小时 后 ， 他 又 开始 感到 不适 。
+He{他 }did{}n't{没有 }have{没有 }any{任何 }symptoms{症状 }when{当 }he{他 }saw{看到 }the{}baby{婴儿 },{， }who{也 }was{就是 }his{他 }grandson{孙子 },{， }but{但 }about{大约 }eight{八 }hours{小时 }later{后 },{， }he{他 }started{开始 }to{}feel{感到 }ill{不适 }again{又 }.{。 }
+
+#229According the White House , over the past two months , filled prescriptions for Paxlovid have climbed from about 27,000 a week to 182,000 a week .
+据 白宫 称 ， 在 过去 的 两 个 月 里 ， Paxlovid 的 处方 已 从 每周 约 27 , 000 份 攀升 至 每周 182 , 000 份 。
+According{据 }the{}White{白宫 }House{白宫 },{， }over{在 }the{的 }past{过去 }two{两 }months{月 },{， }filled{}prescriptions{处方 }for{}Paxlovid{Paxlovid }have{已 }climbed{攀升 }from{从 }about{约 }27,000{27 , 000 }a{每周 }week{每周 }to{至 }182,000{182 , 000 }a{每周 }week{每周 }.{。 }
+
+#230So are firefighters , workers in fluorochemical manufacturing plants and those who live near commercial airports , military bases , landfills , incinerators , wastewater treatment plants and farms where contaminated sewage sludge is used .
+消防员 、 氟化物 制造厂 的 工人 以及 居住 在 商业 机场 、 军事基地 、 垃圾 填埋场 、 焚化炉 、 废水 处理 厂 和 使用 受 污染 污水 污泥 的 农场 附近 的 人 也 是 如此 。
+So{如此 }are{是 }firefighters{消防员 },{、 }workers{工人 }in{}fluorochemical{氟化物 }manufacturing{制造厂 }plants{制造厂 }and{以及 }those{人 }who{的 }live{居住 }near{在 }commercial{商业 }airports{机场 },{、 }military{军事基地 }bases{军事基地 },{、 }landfills{垃圾 填埋场 },{、 }incinerators{焚化炉 },{、 }wastewater{废水 }treatment{处理 }plants{厂 }and{和 }farms{农场 }where{的 }contaminated{污染 }sewage{}sludge{污泥 }is{}used{使用 }.{。 }
+
+#231Health officials in the US have also advised reducing sex partners but used softer language .
+美国 的 卫生 官员 也 建议 减少 性 伴侣 ， 但 使用 了 更 温和 的 语言 。
+Health{卫生 }officials{官员 }in{的 }the{的 }US{美国 }have{}also{也 }advised{建议 }reducing{减少 }sex{性 }partners{伴侣 }but{但 }used{使用 }softer{更 温和 }language{语言 }.{。 }
+
+#232In late June , vaccine makers said boosters updated to target Omicron showed a stronger immune response than the current vaccines .
+6 月 下旬 ， 疫苗 制造商 表示 ， 针对 Omicron 更新 的 增强 剂 显示 出 比 目前 的 疫苗 更 强 的 免疫 反应 。
+In{}late{下旬 }June{6 },{， }vaccine{疫苗 }makers{制造商 }said{表示 }boosters{剂 }updated{更新 }to{针对 }target{针对 }Omicron{Omicron }showed{显示 }a{的 }stronger{更 }immune{免疫 }response{反应 }than{比 }the{的 }current{目前 }vaccines{疫苗 }.{。 }
+
+#233Critics have also charged that the United States is not offering enough testing to monitor the spread of the virus , which is thought to be more widespread than current case counts suggest .
+批评者 还 指责 美国 没有 提供 足够 的 检测 来 监测 病毒 的 传播 ， 这种 传播 被 认为 比 目前 的 病例 数 所 显示 的 更 广泛 。
+Critics{批评者 }have{}also{还 }charged{指责 }that{}the{}United{美国 }States{}is{}not{没有 }offering{提供 }enough{足够 }testing{检测 }to{来 }monitor{监测 }the{的 }spread{传播 }of{}the{}virus{病毒 },{， }which{这种 }is{被 }thought{认为 }to{认为 }be{}more{更 }widespread{广泛 }than{比 }current{目前 }case{病例 }counts{数 }suggest{显示 }.{。 }
+
+#234They 're scared and do n't know how they can realistically keep themselves safe with a lack of vaccines .
+他们 很 害怕 ， 不 知道 如何 在 缺乏 疫苗 的 情况 下 切实 保证 自己 的 安全 。
+They{他们 }'re{很 }scared{害怕 }and{， }do{}n't{不 }know{知道 }how{如何 }they{}can{}realistically{切实 }keep{保证 }themselves{自己 }safe{安全 }with{在 }a{的 的 }lack{缺乏 }of{的 }vaccines{疫苗 }.{。 }
+
+#235Moderna and Pfizer booster shots updated to target Omicron coronavirus subvariants could be available in early fall , pending signoff by federal health agencies , the US Department of Health and Human Services said Friday .
+美国 卫生 与 公众 服务部 周五 表示 ， 针对 Omicron 冠状 病毒 子 变体 的 更新 后 的 Moderna 和 辉瑞 加强 注射 可能 会 在 初秋 上市 ， 等待 联邦 卫生 机构 的 批准 。
+Moderna{Moderna }and{和 }Pfizer{辉瑞 }booster{加强 注射 }shots{注射 }updated{更新 }to{}target{针对 }Omicron{Omicron }coronavirus{冠状 病毒 }subvariants{子 变体 }could{可能 会 }be{}available{上市 }in{在 }early{初秋 }fall{初秋 },{， }pending{等待 }signoff{批准 }by{的 }federal{联邦 }health{卫生 }agencies{机构 },{}the{}US{美国 }Department{服务部 }of{}Health{卫生 }and{与 }Human{公众 }Services{服务部 }said{表示 }Friday{}.{。 }
+
+#236Vaccines are free when people can find them , testing costs can add up , and treatments are still difficult to access .
+当 人们 可以 找到 疫苗 时 ， 疫苗 是 免费 的 ， 检测 成本 可能 会 增加 ， 而 治疗 仍然 难以 获得 。
+Vaccines{疫苗 疫苗 }are{是 }free{免费 }when{当 }people{人们 }can{可以 }find{找到 }them{},{， }testing{检测 }costs{成本 }can{会 }add{增加 }up{},{， }and{而 }treatments{治疗 }are{}still{仍然 }difficult{难以 }to{难以 }access{获得 }.{。 }
+
+#237Charness said the fact that the infection can come back this way after treatment presents some questions .
+Charness 说 ， 感染 可以 在 治疗 后 以 这种 方式 复发 的 事实 提出 了 一些 问题 。
+Charness{Charness }said{说 }the{的 }fact{事实 }that{， }the{}infection{感染 }can{可以 }come{复发 }back{}this{这种 }way{方式 }after{后 }treatment{治疗 }presents{提出 }some{一些 }questions{问题 }.{。 }
+
+#238The state has gotten more than 60,000 doses of the Jynneos monkeypox vaccine , the US Department of Health and Human Services says .
+美国 卫生 与 公众 服务部 表示 ， 该州 已经 接种 了 超过 60 , 000 剂 Jynneos 猴痘 疫苗 。
+The{该州 }state{该州 }has{已经 }gotten{接种 }more{超过 }than{超过 }60,000{60 , 000 }doses{剂 }of{}the{}Jynneos{Jynneos }monkeypox{猴痘 }vaccine{疫苗 },{， }the{}US{美国 }Department{服务部 }of{}Health{卫生 }and{与 }Human{公众 }Services{服务部 }says{表示 }.{。 }
+
+#239He said they 've found at least two instances in which people have transmitted to others when their infection recurs .
+他 说 ， 他们 至少 发现 了 两 次 感染 复发 的 病例 。
+He{他 }said{说 }they{他们 }'ve{}found{发现 }at{}least{至少 }two{两 }instances{病例 }in{}which{的 }people{}have{}transmitted{}to{}others{}when{}their{}infection{感染 }recurs{}.{。 }
+
+#240The federal health adviser said it 's understandable that some in the LGBTQ community are frustrated and feel left behind .
+联邦 健康 顾问 表示 ， LGBTQ 社区 中 的 一些 人 感到 沮丧 并 感到 被 抛 在 后面 ， 这 是 可以 理解 的 。
+The{}federal{联邦 }health{健康 }adviser{顾问 }said{表示 }it{这 }'s{是 }understandable{理解 }that{， }some{一些 }in{中 }the{的 }LGBTQ{LGBTQ }community{社区 }are{感到 }frustrated{沮丧 }and{并 }feel{感到 }left{抛 }behind{后面 }.{。 }
+
+#241Currently , the only people who can get monkeypox vaccines are those with a known exposure , Walensky said .
+Walensky 说 ， 目前 ， 唯一 可以 接种 猴痘 疫苗 的 人 是 已 知 接触 过 猴 痘 疫苗 的 人 。
+Currently{目前 },{， }the{}only{唯一 }people{人 }who{的 }can{可以 }get{接种 }monkeypox{猴痘 }vaccines{疫苗 }are{是 }those{人 }with{}a{}known{知 }exposure{接触 },{}Walensky{Walensky }said{说 }.{。 }
+
+#242That 's in addition to 105 million bivalent boosters the US government has purchased from Pfizer .
+这 是 美国 政府 从 辉瑞 公司 购买 的 1.05 亿 个 二价 增强 剂 的 补充 。
+That{这 }'s{是 }in{}addition{补充 }to{的 }105{1.05 }million{亿 }bivalent{二价 }boosters{增强 剂 }the{的 的 }US{美国 }government{政府 }has{}purchased{购买 }from{从 }Pfizer{辉瑞 }.{。 }
+
+#243His organization was one of the signers of the letter to the CDC demanding a bigger response .
+他 的 组织 是 向 疾病 预防 控制 中心 写信 的 签名者 之一 ， 要求 做出 更 大 的 回应 。
+His{他 }organization{组织 }was{是 }one{之一 }of{}the{的 }signers{签名者 }of{}the{}letter{写信 }to{向 }the{}CDC{中心 }demanding{要求 }a{做出 }bigger{更 }response{回应 }.{。 }
+
+#244So it 's actually very difficult to roll out because you have to train people in a new vaccine methodology , " said Dr.
+所以 实际上 很 难 推出 ， 因为 你 必须 对 人们 进行 新 的 疫苗 方法 培训 ， ” 博士 说 。
+So{所以 }it{}'s{}actually{实际上 }very{很 }difficult{难 }to{}roll{推出 }out{推出 }because{因为 }you{你 }have{必须 }to{}train{培训 }people{人们 }in{进行 }a{的 }new{新 }vaccine{疫苗 }methodology{方法 },{， }"{” }said{说 }Dr.{博士 。 }
+
+#245As of Friday , New York City 's public health department website says all available appointments for vaccines have been filled at this time .
+截至 周五 ， 纽约市 公共 卫生 部门 网站 表示 ， 目前 所有 可用 的 疫苗 预约 都 已 满员 。
+As{截至 }of{截至 }Friday{周五 },{， }New{纽约市 }York{纽约市 }City{纽约市 }'s{}public{公共 }health{卫生 }department{部门 }website{网站 }says{表示 }all{所有 }available{可用 }appointments{预约 }for{}vaccines{疫苗 }have{已 }been{}filled{满员 }at{}this{目前 }time{目前 }.{。 }
+
+#246New York has 1,247 probable or confirmed monkeypox cases , according to data from the US Centers for Disease Control and Prevention .
+根据 美国 疾病 控制 和 预防 中心 的 数据 ， 纽约 有 1 , 247 例 可能 或 确诊 的 猴 痘 病例 。
+New{纽约 }York{纽约 }has{有 }1,247{1 , 247 }probable{可能 }or{或 }confirmed{确诊 }monkeypox{猴 痘 }cases{病例 },{， }according{根据 }to{}data{数据 }from{}the{的 }US{美国 }Centers{中心 }for{}Disease{疾病 }Control{控制 }and{和 }Prevention{预防 }.{。 }
+
+#247The bacteria that causes a rare , serious disease called melioidosis has been detected in water and soil samples in Mississippi , the US Centers for Disease Control and Prevention said Wednesday .
+美国 疾病 控制 和 预防 中心 周三 表示 ， 在 密西西比州 的 水 和 土壤 样本 中 检测 到 导致 一 种 罕见 的 严重 疾病 称为 类 鼻疽 的 细菌 。
+The{的 }bacteria{细菌 }that{}causes{导致 }a{一 }rare{罕见 },{}serious{严重 }disease{疾病 }called{称为 }melioidosis{鼻疽 }has{}been{}detected{检测 }in{}water{水 }and{和 }soil{土壤 }samples{样本 }in{在 }Mississippi{密西西比州 },{， }the{}US{美国 }Centers{中心 }for{}Disease{疾病 }Control{控制 }and{和 }Prevention{预防 }said{表示 }Wednesday{周三 }.{。 }
+
+#248On Tuesday , HHS also activated the CDC 's Emergency Operations Center to give the agency more flexibility and manpower to manage the nation 's monkeypox response .
+周二 ， HHS 还 启动 了 CDC 的 紧急 行动 中心 ， 以 赋予 该 机构 更 多 的 灵活性 和 人力 来 管理 国家 的 猴 痘 响应 。
+On{}Tuesday{周二 },{， }HHS{HHS }also{还 }activated{启动 }the{了 }CDC{CDC }'s{的 }Emergency{紧急 }Operations{行动 }Center{中心 }to{以 }give{赋予 }the{该 }agency{机构 }more{更 }flexibility{灵活性 }and{和 }manpower{人力 }to{来 }manage{管理 }the{}nation{国家 }'s{的 }monkeypox{猴 痘 }response{响应 }.{。 }
+
+#249The agency also recommends that people wear a mask for 10 days after their symptoms come back .
+该 机构 还 建议 人们 在 症状 恢复 后 戴 口罩 10 天 。
+The{该 }agency{机构 }also{还 }recommends{建议 }that{}people{人们 }wear{戴 }a{}mask{口罩 }for{}10{10 }days{天 }after{后 }their{}symptoms{症状 }come{}back{恢复 }.{。 }
+
+#250Neither the baby nor its parents had any other close contacts before they got sick .
+婴儿 及其 父母 在 生病 之前 都 没有 任何 其他 密切 接触 者 。
+Neither{没有 }the{}baby{婴儿 }nor{及其 }its{及其 }parents{父母 }had{没有 }any{任何 }other{其他 }close{密切 }contacts{接触 }before{之前 }they{}got{}sick{生病 }.{。 }
+
+#251The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or who are at high risk .
+该 报告 设定 了 “ 纳克 ” 级别 的 关注 ， 并 鼓励 临床 医生 对 担心 暴露 或 处于 高 风险 的 患者 进行 血液 检查 。
+The{该 }report{报告 }sets{设定 }"{“ }nanogram{纳克 }"{” }levels{级别 }of{的 }concern{关注 }and{并 }encourages{鼓励 }clinicians{临床 医生 }to{}conduct{进行 }blood{血液 }tests{检查 }on{对 }patients{患者 }who{的 }are{}worried{担心 }about{}exposure{暴露 }or{或 }who{}are{}at{处于 }high{高 }risk{风险 }.{。 }
+
+#252And while communicating by text or email is n't as impersonal as social media , Akbari recommended that people call their friends .
+虽然 通过 文本 或 电子 邮件 进行 交流 不 像 社交 媒体 那样 没有 人情味 ， 但 Akbari 建议 人们 打电话 给 他们 的 朋友 。
+And{}while{虽然 }communicating{交流 }by{通过 }text{文本 }or{或 }email{邮件 }is{}n't{不 没有 }as{}impersonal{人情味 }as{像 }social{社交 }media{媒体 },{， }Akbari{Akbari }recommended{建议 }that{}people{人们 }call{打电话 }their{他们 }friends{朋友 }.{。 }
+
+#253Since the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她 补充 说 ， 由于 人们 联系 的 主要 方式 是 通过 私人 交流 方式 ， 因此 可能 发生 的 最 坏 情况 是 接收者 没有 回应 。
+Since{由于 }the{的 }primary{主要 }way{方式 }people{人们 }reach{联系 }out{}is{是 }through{通过 }private{私人 }means{方式 }of{}communication{交流 },{， }the{的 }worst{最 }that{的 }can{可能 }happen{发生 }is{是 }that{}the{}recipient{接收者 }does{}not{没有 }respond{回应 },{}she{她 }added{补充 }.{。 }
+
+#254The CDC says an average of 12 cases are reported to the agency each year .
+疾病 预防 控制 中心 表示 ， 每年 平均 向 该 机构 报告 12 例 病例 。
+The{}CDC{中心 }says{表示 }an{， }average{平均 }of{}12{12 }cases{病例 }are{}reported{报告 }to{向 }the{该 }agency{机构 }each{每年 }year{每年 }.{。 }
+
+#255The CDC says that wearing a condom may help , but alone , it probably will not protect against the spread of monkeypox .
+疾病 预防 控制 中心 表示 ， 戴 安全 套 可能 会 有所 帮助 ， 但 仅 凭 它 可能 无法 防止 猴痘 的 传播 。
+The{}CDC{中心 }says{表示 }that{， }wearing{戴 }a{}condom{安全 套 }may{可能 }help{帮助 },{， }but{但 }alone{仅 },{}it{它 }probably{可能 }will{可能 }not{无法 }protect{防止 }against{防止 }the{的 }spread{传播 }of{}monkeypox{猴痘 }.{。 }
+
+#256" The National Academies are asked to do studies that would be free of the effects of advocacy , special interests , and politics , and are looked at as a trusted neutral body , " said Dr.
+“ 国家 科学院 被 要求 进行 不 受 宣传 、 特殊 利益 和 政治 影响 的 研究 ， 并 被 视为 一个 值得 信赖 的 中立 机构 ， ” 博士 说 。
+"{“ }The{}National{国家 }Academies{科学院 }are{被 }asked{要求 }to{}do{进行 }studies{研究 }that{}would{}be{}free{不 }of{受 }the{的 }effects{影响 }of{}advocacy{宣传 },{、 }special{特殊 }interests{利益 },{}and{和 }politics{政治 },{， }and{并 }are{被 }looked{视为 }at{}as{视为 }a{一个 }trusted{信赖 }neutral{中立 }body{机构 },{， }"{” }said{说 }Dr.{博士 。 }
+
+#257It 's a scene playing out in public health departments and clinics across the country as the monkeypox outbreak spreads .
+随着 猴痘 疫情 的 蔓延 ， 全国 各地 的 公共 卫生 部门 和 诊所 都 在 上演 这样 的 场景 。
+It{这样 }'s{在 }a{的 }scene{场景 }playing{上演 }out{}in{}public{公共 }health{卫生 }departments{部门 }and{和 }clinics{诊所 }across{全国 各地 }the{的 }country{全国 }as{随着 }the{的 }monkeypox{猴痘 }outbreak{疫情 }spreads{蔓延 }.{。 }
+
+#258This new study can help calm the anxiety that people face when it comes to contacting friends , Akbari said .
+阿克巴 里 说 ， 这项 新 研究 可以 帮助 缓解 人们 在 联系 朋友 时 所 面临 的 焦虑 。
+This{这项 }new{新 }study{研究 }can{可以 }help{帮助 }calm{缓解 }the{的 }anxiety{焦虑 }that{}people{人们 }face{面临 }when{时 }it{所 }comes{}to{在 }contacting{联系 }friends{朋友 },{， }Akbari{阿克巴 里 }said{说 }.{。 }
+
+#259People who work with the federal government say they are working hard on the issue .
+与 联邦 政府 合作 的 人 表示 ， 他们 正在 努力 解决 这个 问题 。
+People{人 }who{的 }work{合作 }with{与 }the{}federal{联邦 }government{政府 }say{表示 }they{他们 }are{正在 }working{努力 }hard{努力 }on{解决 }the{这个 }issue{问题 }.{。 }
+
+#260To get over some of this discomfort , take notice of automatic thought patterns that arise when thinking about communicating with a friend , and try to push back against them , Kirmayer said .
+Kirmayer 说 ， 为了 克服 这种 不适 ， 请 注意 在 考虑 与 朋友 交流 时 出现 的 自动 思维 模式 ， 并 尝试 反击 它们 。
+To{为了 }get{克服 }over{克服 }some{}of{}this{这种 }discomfort{不适 },{， }take{}notice{注意 }of{的 }automatic{自动 }thought{思维 }patterns{模式 }that{}arise{出现 }when{在 }thinking{考虑 }about{}communicating{交流 }with{与 }a{}friend{朋友 },{， }and{并 }try{尝试 }to{}push{反击 }back{}against{反击 }them{它们 },{}Kirmayer{Kirmayer }said{说 }.{。 }
+
+#261The CDC spokesperson said the agency " encourages anyone who suspects they have monkeypox to reach out to their clinician to get tested since there is more than enough testing capacity .
+疾控 中心 发言人 表示 ， 该 机构 “ 鼓励 任何 怀疑 自己 患 有 猴痘 的 人 联系 他们 的 临床 医生 进行 检测 ， 因为 检测 能力 已经 足够 了 。
+The{}CDC{疾控 }spokesperson{发言人 }said{表示 }the{该 }agency{机构 }"{“ }encourages{鼓励 }anyone{任何 }who{的 }suspects{怀疑 }they{自己 }have{有 }monkeypox{猴痘 }to{}reach{联系 }out{}to{}their{他们 }clinician{临床 医生 }to{进行 }get{进行 }tested{检测 }since{因为 }there{已经 }is{已经 }more{}than{已经 }enough{足够 }testing{检测 }capacity{能力 }.{。 }
+
+#262The US Food and Drug Administration advised vaccine makers in June to update the boosters to add an Omicron BA .
+美国 食品 和 药物 管理局 在 6 月 建议 疫苗 制造商 更新 助推器 以 添加 Omicron BA 。
+The{}US{美国 }Food{食品 }and{和 }Drug{药物 }Administration{管理局 }advised{建议 }vaccine{疫苗 }makers{制造商 }in{在 }June{6 }to{}update{更新 }the{}boosters{助推器 }to{以 }add{添加 }an{}Omicron{Omicron }BA{BA }.{。 }
+
+#263Cahill said his organization has been advocating for the US to declare monkeypox a public health emergency .
+卡希尔 说 ， 他 的 组织 一直 在 倡导 美国 宣布 猴痘 为 突发 公共 卫生 事件 。
+Cahill{卡希尔 }said{说 }his{他 }organization{组织 }has{一直 }been{在 }advocating{倡导 }for{}the{}US{美国 }to{}declare{宣布 }monkeypox{猴痘 }a{为 }public{公共 }health{卫生 }emergency{事件 }.{。 }
+
+#264It will release more vaccines to areas with the highest case rates , and it will scale up testing , making tests available at five commercial laboratories in addition to an existing network of public health labs .
+它 将 向 病例 率 最高 的 地区 发布 更 多 疫苗 ， 并 将 扩大 检测 规模 ， 除了 现有 的 公共 卫生 实验室 网络 外 ， 还 将 在 五 个 商业 实验室 提供 检测 。
+It{它 }will{将 }release{发布 }more{更 }vaccines{疫苗 }to{向 }areas{地区 }with{}the{}highest{最高 }case{病例 }rates{率 },{， }and{并 }it{}will{将 }scale{扩大 }up{扩大 }testing{检测 },{， }making{提供 }tests{检测 }available{}at{在 }five{五 }commercial{商业 }laboratories{实验室 实验室 }in{}addition{除了 }to{除了 }an{的 }existing{现有 }network{网络 }of{的 }public{公共 }health{卫生 }labs{}.{。 }
+
+#265Caveney added that as doctors learn more about monkeypox , he expects testing numbers to increase .
+Caveney 补充 说 ， 随着 医生 对 猴 痘 的 了解 越来越 多 ， 他 预计 检测 数量 会 增加 。
+Caveney{Caveney }added{补充 }that{， }as{随着 }doctors{医生 }learn{了解 }more{越来越 }about{对 }monkeypox{猴 痘 },{， }he{他 }expects{预计 }testing{检测 }numbers{数量 }to{会 }increase{增加 }.{。 }
+
+#266Currently , people 5 and older are eligible for a first booster shot , but only those 50 and older and some immunocompromised people are eligible for second boosters .
+目前 ， 5 岁 及 以上 的 人 有 资格 进行 第一 次 加强 注射 ， 但 只有 50 岁 及 以上 的 人 和 一些 免疫 功能 低下 的 人 有 资格 进行 第二 次 加强 注射 。
+Currently{目前 },{， }people{人 }5{5 }and{及 }older{以上 }are{有 }eligible{资格 }for{进行 }a{}first{第一 }booster{加强 注射 }shot{注射 },{， }but{但 }only{只有 }those{}50{50 }and{及 }older{以上 }and{和 }some{一些 }immunocompromised{免疫 低下 }people{人 }are{有 }eligible{资格 }for{进行 }second{第二 }boosters{加强 注射 }.{。 }
+
+#267They say more research is needed to understand whether there could be any connection to the drug .
+他们 说 需要 更 多 的 研究 来 了解 是否 与 这种 药物 有 任何 联系 。
+They{他们 }say{说 }more{更 }research{研究 }is{}needed{需要 }to{来 }understand{了解 }whether{是否 }there{}could{}be{有 }any{任何 }connection{联系 }to{与 }the{这种 }drug{药物 }.{。 }
+
+#268In these experiments , reaching out was defined as a phone call , text , email , note or small gift .
+在 这些 实验 中 ， 伸出 援手 被 定义 为 电话 、 短信 、 电子 邮件 、 便 条 或 小 礼物 。
+In{在 }these{这些 }experiments{实验 },{， }reaching{伸出 }out{伸出 }was{被 }defined{定义 }as{为 }a{}phone{电话 }call{},{、 }text{短信 },{、 }email{邮件 },{、 }note{条 }or{或 }small{小 }gift{礼物 }.{。 }
+
+#269In Seattle , King County health officials say they have received only 4,720 doses of Jynneos .
+在 西雅图 ， 金 县 卫生 官员 说 他们 只 接受 了 4 , 720 剂 Jynneos 。
+In{在 }Seattle{西雅图 },{， }King{金 }County{县 }health{卫生 }officials{官员 }say{说 }they{他们 }have{}received{接受 }only{只 }4,720{4 , 720 }doses{剂 }of{}Jynneos{Jynneos }.{。 }
+
+#270The first is a newer , modern vaccine called Jynneos which is manufactured by the Danish company Bavarian Nordic .
+第一 种 是 由 丹麦 巴伐利亚 北欧 公司 生产 的 一 种 名为 Jynneos 的 新型 现代 疫苗 。
+The{}first{第一 }is{是 }a{一 }newer{新型 },{}modern{现代 }vaccine{疫苗 }called{名为 }Jynneos{Jynneos }which{的 }is{}manufactured{生产 }by{由 }the{}Danish{丹麦 }company{公司 }Bavarian{}Nordic{北欧 }.{。 }
+
+#271But a variety of insecurities can prevent us from reaching out , said Akbari , who was not involved in the study .
+但 没有 参与 这项 研究 的 阿克巴 里 说 ， 各种 不 安全感 会 阻止 我们 伸出 援手 。
+But{但 }a{}variety{各种 }of{}insecurities{不 安全感 }can{会 }prevent{阻止 }us{我们 }from{}reaching{伸出 }out{伸出 援手 },{}said{说 }Akbari{阿克巴 里 },{， }who{的 }was{}not{没有 }involved{参与 }in{参与 }the{这项 }study{研究 }.{。 }
+
+#272Some experts though have said it 's now too late to stop what we had the tools to stop earlier .
+不过 ， 一些 专家 表示 ， 现在 停止 我们 有 工具 更 早 停止 的 事情 为时已晚 。
+Some{一些 }experts{专家 }though{不过 }have{}said{表示 }it{为时已晚 }'s{}now{现在 }too{}late{为时已晚 }to{}stop{停止 }what{}we{我们 }had{有 }the{的 }tools{工具 }to{}stop{停止 }earlier{早 }.{。 }
+
+#273The other complications is that the ACAM vaccine uses a live , but weakened version of a virus to inoculate a person .
+其他 并发症 是 ACAM 疫苗 使用 活 的 但 弱化 的 病毒 版本 来 接种 人 。
+The{}other{其他 }complications{并发症 }is{是 }that{}the{}ACAM{ACAM }vaccine{疫苗 }uses{使用 }a{}live{活 },{的 }but{但 }weakened{弱化 }version{版本 }of{的 }a{}virus{病毒 }to{来 }inoculate{接种 }a{}person{人 }.{。 }
+
+#274Updated shots would need to be authorized by the FDA and recommended by the US Centers for Disease Control and Prevention .
+更新 的 镜头 需要 得到 FDA 的 授权 并 得到 美国 疾病 控制 和 预防 中心 的 推荐 。
+Updated{更新 }shots{镜头 }would{}need{需要 }to{}be{得到 }authorized{授权 }by{得到 }the{的 }FDA{FDA }and{并 }recommended{推荐 }by{得到 }the{}US{美国 }Centers{中心 }for{}Disease{疾病 }Control{控制 }and{和 }Prevention{预防 }.{。 }
+
+#275That 's only 6 % of the 80,000 doses they would like to have to cover the 40,000 people at elevated or high risk of monkeypox .
+这 只是 他们 想 要 覆盖 40 , 000 名猴 痘 高危 或 高危 人群 的 80 , 000 剂 疫苗 中 的 6% 。
+That{这 }'s{只是 }only{只是 }6{6% }%{6% }of{}the{的 }80,000{, 000 80 000 }doses{疫苗 }they{他们 }would{}like{想 }to{要 }have{}to{要 }cover{覆盖 }the{的 }40,000{40 000 }people{人群 }at{}elevated{高危 }or{或 }high{高危 }risk{}of{}monkeypox{名猴 痘 }.{。 }
+
+#276Pennsylvanian Hope Grasse , who was diagnosed with stage 4 cancer at age 25 after growing up near a naval base , described how her doctors laughed when she mentioned chemical exposure .
+宾夕法尼亚州 的 霍普 格拉斯 在 海军 基地 附近 长大 ， 25 岁 ​ ​ 时 被 诊断 出 患 有 4 期 癌症 ， 她 描述 了 当 她 提到 化学 暴露 时 她 的 医生 是 如何 笑 的 。
+Pennsylvanian{宾夕法尼亚州 的 }Hope{}Grasse{格拉斯 },{}who{， }was{被 }diagnosed{诊断 }with{有 }stage{期 }4{4 }cancer{癌症 }at{时 }age{岁 }25{25 }after{}growing{长大 }up{长大 }near{附近 }a{}naval{海军 }base{基地 },{， }described{描述 }how{如何 }her{她 }doctors{医生 }laughed{笑 }when{当 }she{她 }mentioned{提到 }chemical{化学 }exposure{暴露 }.{。 }
+
+#277JAMA and other medical journals have also offered information about how to diagnose , test for and treat monkeypox .
+JAMA 和 其他 医学 期刊 也 提供 了 有关 如何 诊断 、 检测 和 治疗 猴痘 的 信息 。
+JAMA{JAMA }and{和 }other{其他 }medical{医学 }journals{期刊 }have{}also{也 }offered{提供 }information{信息 }about{有关 }how{如何 }to{}diagnose{诊断 },{、 }test{检测 }for{}and{和 }treat{治疗 }monkeypox{猴痘 }.{。 }
+
+#278The San Francisco Department of Public Health has confirmed 261 cases of monkeypox in the city , while California has a total of 799 cases .
+旧金山 公共 卫生部 已 确认 该市 有 261 例 猴 痘 病例 ， 而 加利福尼亚州 共有 799 例 。
+The{}San{旧金山 }Francisco{旧金山 }Department{卫生部 }of{}Public{公共 }Health{卫生部 }has{已 }confirmed{确认 }261{261 }cases{病例 }of{}monkeypox{猴 痘 }in{}the{该市 }city{该市 },{， }while{而 }California{加利福尼亚州 }has{共有 }a{}total{共有 }of{}799{799 }cases{例 }.{。 }
+
+#279HHS announced Friday an agreement to purchase 66 million doses of Moderna 's bivalent booster shot for potential use in fall and winter .
+HHS 周五 宣布 了 一 项 协议 ， 将 购买 6600 万剂 Moderna 的 二价 增强 剂 ， 以 供 秋季 和 冬季 使用 。
+HHS{HHS }announced{宣布 }Friday{周五 }an{一 }agreement{协议 }to{， }purchase{购买 }66{6600 }million{万剂 }doses{万剂 Moderna }of{}Moderna{}'s{的 }bivalent{二价 }booster{增强 }shot{剂 }for{以 }potential{}use{使用 }in{}fall{秋季 }and{和 }winter{冬季 }.{。 }
+
+#280Currently , 10 states would be considered to be in the first tier for priority in ordering vaccines .
+目前 ， 10 个州 将 被 视为 优先 订购 疫苗 的 第一 梯队 。
+Currently{目前 },{， }10{10 }states{个州 }would{将 }be{被 }considered{视为 }to{视为 }be{}in{}the{的 }first{第一 }tier{梯队 }for{}priority{优先 }in{}ordering{订购 }vaccines{疫苗 }.{。 }
+
+#281But , the US does n't have enough doses of Jynneos to vaccinate all who might want it , so public health officials are also considering whether to use a second , older type of vaccine called ACAM .
+但是 ， 美国 没有 足够 剂量 的 Jynneos 来 为 所有 可能 需要 它 的 人 接种 疫苗 ， 因此 公共 卫生 官员 也 在 考虑 是否 使用 第二 种 更 老 的 疫苗 ， 称为 ACAM 。
+But{但是 },{， }the{}US{美国 }does{}n't{没有 }have{没有 }enough{足够 }doses{剂量 }of{的 }Jynneos{Jynneos }to{来 }vaccinate{接种 疫苗 }all{所有 }who{}might{可能 }want{需要 }it{它 },{， }so{因此 }public{公共 }health{卫生 }officials{官员 }are{在 }also{也 }considering{考虑 }whether{是否 }to{}use{使用 }a{}second{第二 },{}older{老 }type{种 }of{的 }vaccine{疫苗 }called{称为 }ACAM{ACAM }.{。 }
+
+#282So far in the United States , there have been 306 cases of monkeypox identified across 28 jurisdictions .
+到 目前 为止 ， 在 美国 ， 已 在 28 个 司法 管辖区 发现 了 306 例 猴 痘 病例 。
+So{到 }far{目前 }in{在 }the{}United{美国 }States{},{， }there{}have{已 }been{了 }306{306 }cases{病例 }of{}monkeypox{猴 痘 }identified{发现 }across{在 }28{28 }jurisdictions{管辖区 }.{。 }
+
+#283" We will weigh any decision on declaring a public health emergency based on the responses we 're seeing throughout the country .
+“ 我们 将 根据 我们 在 全国 范围 内 看到 的 反应 ， 权衡 关于 宣布 公共 卫生 紧急 事件 的 任何 决定 。
+"{“ }We{我们 }will{将 }weigh{权衡 }any{任何 }decision{决定 }on{关于 }declaring{宣布 }a{}public{公共 }health{卫生 }emergency{紧急 }based{根据 }on{根据 }the{的 }responses{反应 }we{我们 }'re{}seeing{看到 }throughout{全国 内 }the{}country{全国 }.{。 }
+
+#284The US has not made such an emergency declaration , which would provide more money and staff , help with data collection and help cut through red tape to better fight the outbreak .
+美国 没有 做出 这样 的 紧急 声明 ， 这 将 提供 更 多 的 资金 和 人员 ， 帮助 收集 数据 ， 帮助 减少 繁文缛节 ， 更 好 地 抗击 疫情 。
+The{}US{美国 }has{}not{没有 }made{做出 }such{这样 }an{的 }emergency{紧急 }declaration{声明 },{， }which{这 }would{将 }provide{提供 }more{更 }money{资金 }and{和 }staff{人员 },{， }help{帮助 }with{}data{数据 }collection{收集 }and{， }help{帮助 }cut{减少 }through{}red{繁文缛节 }tape{繁文缛节 }to{}better{更 好 }fight{抗击 }the{}outbreak{疫情 }.{。 }
+
+#285Since the start of June , the CDC says , it has been doing extensive education and outreach to the LGBTQ community .
+CDC 表示 ， 自 6 月初 以来 ， 它 一直 在 对 LGBTQ 社区 进行 广泛 的 教育 和 宣传 。
+Since{自 }the{}start{月初 }of{}June{6 },{}the{}CDC{CDC }says{表示 },{， }it{它 }has{一直 }been{一直 在 }doing{进行 }extensive{广泛 }education{教育 }and{和 }outreach{宣传 }to{对 }the{的 }LGBTQ{LGBTQ }community{社区 }.{。 }
+
+#286Bottom line is , we need to stay ahead of it and be able to end this outbreak .
+底线 是 ， 我们 需要 保持 领先 并 能够 结束 这 次 爆发 。
+Bottom{底线 }line{底线 }is{是 },{， }we{我们 }need{需要 }to{需要 }stay{保持 }ahead{领先 }of{}it{}and{并 }be{}able{能够 }to{能够 }end{结束 }this{这 }outbreak{爆发 }.{。 }
+
+#287San Francisco 's health department requested 35,000 doses to meet the overwhelming demand there but said it has received only 12,000 doses as of Thursday .
+旧金山 卫生 部门 要求 提供 35 , 000 剂 以 满足 那里 的 巨大 需求 ， 但 表示 截至 周四 只 收到 了 12 , 000 剂 。
+San{旧金山 }Francisco{旧金山 }'s{}health{卫生 }department{部门 }requested{要求 }35,000{35 , 000 }doses{剂 }to{以 }meet{满足 }the{的 }overwhelming{巨大 }demand{需求 }there{那里 }but{但 }said{表示 }it{}has{了 }received{收到 }only{只 }12,000{12 , 000 }doses{剂 }as{截至 }of{截至 }Thursday{周四 }.{。 }
+
+#288As helpful as it is , though , researchers say people should be aware the drug may not completely extinguish the infection .
+尽管 如此 ， 研究 人员 表示 ， 尽管 这种 药物 很 有 帮助 ， 但 人们 应该 意识 到 这种 药物 可能 无法 完全 消除 感染 。
+As{尽管 }helpful{帮助 }as{}it{}is{很 },{， }though{尽管 但 },{， }researchers{研究 }say{表示 }people{人们 }should{应该 }be{}aware{意识 }the{这种 这种 }drug{药物 药物 }may{可能 }not{无法 }completely{完全 }extinguish{消除 }the{}infection{感染 }.{。 }
+
+#289The US Food and Drug Administration has authorized 786,000 additional doses of the Jynneos vaccine , and jurisdictions can place orders starting Friday .
+美国 食品 和 药物 管理局 已 授权 786 , 000 剂 额外 剂量 的 Jynneos 疫苗 ， 司法 管辖区 可以 从 周五 开始 下 订单 。
+The{}US{美国 }Food{食品 }and{和 }Drug{药物 }Administration{管理局 }has{已 }authorized{授权 }786,000{786 , 000 }additional{额外 }doses{剂量 }of{的 }the{}Jynneos{Jynneos }vaccine{疫苗 },{， }and{， }jurisdictions{管辖区 }can{可以 }place{下 }orders{订单 }starting{开始 }Friday{周五 }.{。 }
+
+#290San Francisco became the first major US city to declare a local health emergency on monkeypox in an effort to strengthen the city 's preparedness and response amid high demand for the vaccine .
+旧金山 成为 美国 第一 个 宣布 当地 发生 猴痘 卫生 紧急 情况 的 主要 城市 ， 以 在 疫苗 需求 旺盛 的 情况 下 加强 该市 的 准备 和 应 对 工作 。
+San{旧金山 }Francisco{旧金山 }became{成为 }the{}first{第一 }major{主要 }US{美国 }city{城市 }to{}declare{宣布 }a{}local{当地 }health{卫生 }emergency{紧急 }on{}monkeypox{猴痘 }in{， }an{}effort{以 }to{}strengthen{加强 }the{该市 }city{该市 }'s{的 }preparedness{准备 }and{和 }response{应 }amid{在 情况 下 }high{旺盛 }demand{需求 }for{}the{}vaccine{疫苗 }.{。 }
+
+#291" It 's presumed not to be safe to be able to be used in people with HIV , " Varma said .
+“ 据 推测 ， 能够 用于 艾滋病毒 感染者 是 不 安全 的 ， ” Varma 说 。
+"{“ }It{}'s{是 }presumed{推测 }not{不 }to{的 }be{}safe{安全 }to{}be{}able{能够 }to{}be{}used{用于 }in{用于 }people{感染者 }with{}HIV{艾滋病毒 },{， }"{” }Varma{Varma }said{说 }.{。 }
+
+#292Combined , the US government 's agreements with Moderna and Pfizer would make about 171 million bivalent vaccine booster doses available for the fall and winter , should they be authorized and recommended .
+如果 获得 授权 和 推荐 ， 美国 政府 与 Moderna 和 辉瑞 公司 的 协议 将 在 秋季 和 冬季 提供 约 1.71 亿剂 二价 疫苗 加强 剂 。
+Combined{},{， }the{}US{美国 }government{政府 }'s{的 }agreements{协议 }with{与 }Moderna{Moderna }and{和 }Pfizer{辉瑞 }would{将 }make{提供 }about{约 }171{1.71 }million{亿剂 }bivalent{二价 }vaccine{疫苗 }booster{加强 }doses{剂 }available{}for{在 }the{}fall{秋季 }and{和 }winter{冬季 },{}should{如果 }they{}be{获得 }authorized{授权 }and{和 }recommended{推荐 }.{。 }
+
+#293It 's impossible to avoid rejection , so learning how to be OK with it can allow people to become more resilient , Akbari said .
+阿克巴 里 说 ， 避免 拒绝 是 不 可能 的 ， 所以 学习 如何 接受 它 可以 让 人们 变 得 更 有 弹性 。
+It{}'s{是 }impossible{不 }to{的 }avoid{避免 }rejection{拒绝 },{， }so{所以 }learning{学习 }how{如何 }to{}be{接受 }OK{接受 }with{接受 }it{它 }can{可以 }allow{让 }people{人们 }to{}become{变 }more{更 }resilient{弹性 },{}Akbari{阿克巴 里 }said{说 }.{。 }
+
+#294For another , some people who have monkeypox symptoms may not seek care for fear of being stigmatized .
+另一方面 ， 一些 有 猴 痘 症状 的 人 可能 因为 害怕 被 污名 化 而 不 会 寻求 治疗 。
+For{}another{另一方面 },{， }some{一些 }people{人 }who{的 }have{有 }monkeypox{猴 痘 }symptoms{症状 }may{可能 }not{不 }seek{寻求 }care{治疗 }for{因为 }fear{害怕 }of{}being{被 }stigmatized{污名 化 }.{。 }
+
+#295Ned Calonge , an associate professor of epidemiology at the Colorado School of Public Health and chair of the committee that wrote the report .
+科罗拉多 公共 卫生 学院 流行病学 副教授 、 撰写 该 报告 的 委员会 主席 内 德 · 卡隆奇 。
+Ned{德 }Calonge{卡隆奇 },{}an{}associate{副教授 }professor{副教授 }of{}epidemiology{流行病学 }at{}the{}Colorado{科罗拉多 }School{学院 }of{}Public{公共 }Health{卫生 }and{、 }chair{主席 }of{}the{的 }committee{委员会 }that{}wrote{撰写 }the{该 }report{报告 }.{。 }
+
+#296The declaration , which goes into effect Monday , is a legal action that allows city departments to mobilize and coordinate more effectively , Mayor London Breed 's office said in a statement .
+伦敦 市长 办公室 在 一 份 声明 中 说 ， 该 声明 于 周一 生效 ， 是 一 项 法律 行动 ， 可以 让 市政府 部门 更 有效 地 动员 和 协调 。
+The{该 }declaration{声明 },{}which{}goes{}into{于 }effect{生效 }Monday{周一 },{， }is{是 }a{一 }legal{法律 }action{行动 }that{， }allows{可以 让 }city{市政府 }departments{部门 }to{}mobilize{动员 }and{和 }coordinate{协调 }more{更 }effectively{有效 },{}Mayor{市长 }London{伦敦 }Breed{}'s{}office{办公室 }said{说 }in{在 }a{一 }statement{声明 }.{。 }
+
+#297Jay Varma , professor and director of the Cornell Center for Pandemic Prevention and Response in New York City .
+纽约市 康奈尔 大 流行 预防 和 应 对 中心 教授 兼 主任 杰伊 · 瓦玛 。
+Jay{杰伊 }Varma{瓦玛 },{}professor{教授 }and{兼 }director{主任 }of{}the{}Cornell{康奈尔 }Center{中心 }for{}Pandemic{流行 }Prevention{预防 }and{和 }Response{应 }in{}New{纽约市 }York{纽约市 }City{纽约市 }.{。 }
+
+#298There 's also no sign that the virus has changed or mutated to develop some kind of resistance to the drug .
+也 没有 迹象 表明 该 病毒 已 发生 变化 或 突变 以 产生 对 该 药物 的 某种 抗性 。
+There{}'s{}also{也 }no{没有 }sign{迹象 }that{表明 }the{该 }virus{病毒 }has{已 }changed{变化 }or{或 }mutated{突变 }to{以 }develop{产生 }some{某种 }kind{某种 }of{的 }resistance{抗性 }to{对 }the{该 }drug{药物 }.{。 }
+
+#299But at the end of the day , we need vaccines , and we need them yesterday .
+但 归根结底 ， 我们 需要 疫苗 ， 而且 我们 昨天 还 需要 它们 。
+But{但 }at{归根结底 }the{}end{归根结底 }of{}the{}day{},{， }we{我们 }need{需要 }vaccines{疫苗 },{， }and{而且 }we{我们 }need{需要 }them{它们 }yesterday{昨天 }.{。 }
+
+#300A CDC spokesperson said there has been " robust outreach to clinicians and the general public to increase awareness of monkeypox risk factors , symptoms and testing options .
+疾病 预防 控制 中心 的 一 位 发言人 说 ， 已经 “ 与 临床 医生 和 公众 进行 了 强有力 的 宣传 ， 以 提高 对 猴 痘 风险 因素 、 症状 和 检测 选择 的 认识 。
+A{一 }CDC{中心 }spokesperson{发言人 }said{说 }there{}has{已经 }been{进行 }"{“ }robust{强有力 }outreach{宣传 }to{与 }clinicians{临床 医生 }and{和 }the{}general{}public{公众 }to{以 }increase{提高 }awareness{认识 }of{对 }monkeypox{猴 痘 }risk{风险 }factors{因素 },{、 }symptoms{症状 }and{和 }testing{检测 }options{选择 }.{。 }
+

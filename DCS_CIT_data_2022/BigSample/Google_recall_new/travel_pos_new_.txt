@@ -1,0 +1,608 @@
+#0:
+"Also the migrant community in Edinburgh,, helped me.
+“爱丁堡的移民社区也帮助了我。
+"Also the migrant community in helped me.
+“移民社区也帮助了我。
+--TN--
+#1:
+"Also the migrant community in london, where many people moved to, helped me.
+“还有很多人搬到伦敦的移民社区也帮助了我。
+"Also the migrant community in london, where many people moved, helped me.
+“还有很多人搬到伦敦的移民社区也帮助了我。
+--TN--
+#2:
+"Also the migrant community in london,, helped me.
+“伦敦的移民社区也帮助了我。
+"Also the migrant community in helped me.
+“移民社区也帮助了我。
+--TN--
+#3:
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share it with each other that we would never have done otherwise.
+“因为我们有了这个神奇的开端，我们只是感到能够与彼此分享它的能力和安全感，否则我们永远不会这样做。
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share it with each other.
+“因为我们有了这个神奇的开端，我们只是感到能够与彼此分享它的能力和安全感。
+--TN--
+#4:
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things.
+“因为我们有过这种神奇的经历，我们只是感受到了分享事物的能力和安全感。
+", we just felt the ability and the safety to be able to share things.
+“，我们只是感受到了能够分享事物的能力和安全感。
+--TN--
+#5:
+"But I do remember that there was this really intense feeling you get with butterflies, and just like that longing.
+“但我确实记得，你对蝴蝶有一种非常强烈的感觉，就像那种渴望一样。
+"But I do remember that there was this really intense feeling you get with butterflies, and.
+“但我确实记得，你对蝴蝶有一种非常强烈的感觉，而且。
+--TN--
+#6:
+"In her parents' old days, the lack of space and intimacy meant that love was made outdoors, underneath the citrus trees," he says with a smile.
+“在她父母的过去，缺乏空间和亲密关系意味着爱是在户外，在柑橘树下进行的，”他笑着说。
+"In her parents' old days, the lack of space and intimacy meant that love was made outdoors, underneath the citrus trees," he says.
+“在她父母的过去，缺乏空间和亲密关系意味着爱是在户外，在柑橘树下进行的，”他说。
+--TN--
+#7:
+"In her parents' old days, the lack of space and intimacy meant that love was made outdoors, underneath the citrus trees," he says.
+“在她父母的过去，缺乏空间和亲密关系意味着爱是在户外，在柑橘树下进行的，”他说。
+"In her parents' old days, the lack of space and intimacy meant that love was made outdoors,," he says.
+“在她父母的过去，缺乏空间和亲密关系意味着爱是在户外进行的，”他说。
+--TN--
+#8:
+"In my parents' old days, the lack of respect and intimacy meant love was made outdoors,," he says.
+“在我父母的过去，缺乏尊重和亲密意味着爱是在户外进行的，”他说。
+"In my parents' old days, the lack of respect and intimacy love was made outdoors.
+“在我父母的旧时代，缺乏尊重和亲密的爱是在户外制造的。
+--TP--
+#9:
+"In my parents' old days, the lack of respect and intimacy meant that love was made outdoors, underneath the citrus palms," he says.
+“在我父母的过去，缺乏尊重和亲密意味着爱是在户外，在柑橘棕榈树下进行的，”他说。
+"In my parents' old days, the lack of respect and intimacy meant that love was made outdoors,," he says.
+“在我父母的过去，缺乏尊重和亲密意味着爱是在户外进行的，”他说。
+--TN--
+#10:
+"In my parents' old days, the lack of respect and intimacy meant that love was made outdoors, underneath the citrus trees," he says.
+“在我父母的过去，缺乏尊重和亲密意味着爱是在户外，在柑橘树下进行的，”他说。
+"In my parents' old days, the lack of respect and intimacy meant that love was made outdoors,," he says.
+“在我父母的过去，缺乏尊重和亲密意味着爱是在户外进行的，”他说。
+--TN--
+#11:
+"In my parents' old days, the lack of respect and intimacy meant that love was made outdoors, underneath the pretty trees," he says.
+“在我父母的过去，缺乏尊重和亲密意味着爱是在户外，在漂亮的树下进行的，”他说。
+"In my parents' old days, the lack of respect and intimacy meant that love was made outdoors,," he says.
+“在我父母的过去，缺乏尊重和亲密意味着爱是在户外进行的，”他说。
+--TN--
+#12:
+"In my parents' old days, the lack of space and intimacy meant that love was made outdoors, underneath the citrus scent," he says.
+“在我父母的旧时代，缺乏空间和亲密关系意味着爱是在户外，在柑橘气味下进行的，”他说。
+"In my parents' old days, the lack of space and intimacy meant that love was made outdoors,," he says.
+“在我父母的过去，缺乏空间和亲密关系意味着爱是在户外进行的，”他说。
+--TN--
+#13:
+"In my parents' old days, the lack of space and intimacy meant that love was made outdoors, underneath the citrus trees," he says with a smile.
+“在我父母的过去，缺乏空间和亲密关系意味着爱是在户外，在柑橘树下进行的，”他笑着说。
+"In my parents' old days, the lack of space and intimacy meant that love was made outdoors, underneath the citrus trees," he says.
+“在我父母的过去，空间和亲密关系的缺乏意味着爱是在户外的柑橘树下进行的，”他说。
+--TN--
+#14:
+"In my parents' old home, the lack of space and intimacy meant that love was made outdoors, underneath the citrus trees," he says with a smile.
+“在我父母的老家，缺乏空间和亲密关系意味着爱是在户外，在柑橘树下进行的，”他笑着说。
+"In my parents' old home, the lack of space and intimacy meant that love was made outdoors, underneath the citrus trees," he says.
+“在我父母的老家，空间和亲密关系的缺乏意味着爱是在户外的柑橘树下进行的，”他说。
+--TN--
+#15:
+"In my parents' old home, the lack of space and intimacy meant that love was made outdoors, underneath the citrus trees," he says.
+“在我父母的老家，空间和亲密关系的缺乏意味着爱是在户外的柑橘树下进行的，”他说。
+"In my parents' old home, the lack of space and intimacy meant that love was made outdoors,," he says.
+“在我父母的老家，缺乏空间和亲密关系意味着爱是在户外进行的，”他说。
+--TN--
+#16:
+"In my parents' old house, the lack of space and intimacy meant that love was made outdoors, underneath the citrus trees," he says.
+“在我父母的老房子里，缺乏空间和亲密感意味着爱是在户外的柑橘树下进行的，”他说。
+"In my parents' old house, the lack of space and intimacy meant that love was made outdoors,," he says.
+“在我父母的老房子里，缺乏空间和亲密关系意味着爱是在户外进行的，”他说。
+--TN--
+#17:
+"It is certainly not a concept suitable for a vaporetto in the Grand Canal or a cargo boat.
+“这当然不适合大运河中的汽艇或货船。
+"It is certainly not a concept suitable for a vaporetto.
+“这当然不是一个适合汽艇的概念。
+--TP--
+#18:
+"It's like a perfect curve you're looking out at the Colorado River," says Carrie.
+“这就像你看到科罗拉多河的完美曲线，”嘉莉说。
+"It's you're looking out at the Colorado River," says Carrie.
+“这是你在眺望科罗拉多河，”嘉莉说。
+--FP--
+--4--
+#19:
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.
+“自本世纪初以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述说。
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.
+去哪儿网的一位经理引述说：“自世纪之初以来，游客就需要到郊区和农村地区进行休闲旅游。”
+--TP--
+#20:
+"Since the first of the century, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted.
+去哪儿网的一位经理引述说：“自世纪之初以来，游客就需要到郊区和乡村休闲旅游。”
+"Since the first of the century, leisure travel to suburbs and rural ones are in demand among tourists," a manager was quoted.
+“自世纪之初以来，游客对郊区和乡村休闲旅游的需求很大，”一位经理引述道。
+--TN--
+#21:
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.
+《北京日报》援引去哪儿网一名经理的话说：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.
+“自战争爆发以来，去郊区和农村地区的休闲旅游成为游客的需求，”去哪儿网的一位经理被引述说。
+--N--
+#22:
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.
+“自战争爆发以来，游客需要到郊区和农村地区进行休闲旅游，”一位经理引述道。
+"Since the outbreak of the war, leisure travel to suburbs are in demand among tourists," a manager was quoted.
+“自战争爆发以来，游客需要到郊区进行休闲旅游，”一位经理引述道。
+--TN--
+#23:
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.
+《北京日报》援引去哪儿网经理的话说：“战乱爆发前，去郊区和农村休闲旅游的游客需求旺盛。”
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.
+“在战争爆发之前，去郊区和农村地区的休闲旅游是游客的需求，”去哪儿网的一位经理被引述说。
+--N--
+#24:
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.
+去哪儿网的一位经理说：“自战斗爆发以来，游客需要到郊区和农村地区进行休闲旅游。”
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.
+“自战斗爆发以来，游客需要到郊区和农村地区进行休闲旅游，”去哪儿网的一位经理引述。
+--TN--
+#25:
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.
+“自战斗爆发以来，游客需要到郊区和农村地区进行休闲旅游，”去哪儿网的一位经理引述。
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.
+“自战斗爆发以来，游客需要到郊区和农村地区进行休闲旅游，”一位经理引述道。
+--TN--
+#26:
+35 percent were owned by chain hotels in 2021.
+2021 年，35% 的酒店归连锁酒店所有。
+Of the 13.47 million guest rooms, 35 percent were owned by chain hotels in 2021.
+2021年，1347万间客房中，35%为连锁酒店所有。
+--TN--
+#27:
+A "social orchard" with fresh ideas has been created, bringing together groups of children for lessons on rural life,.
+创建了一个具有新鲜想法的“社会果园”，将儿童群体聚集在一起，学习农村生活。
+A "social orchard" with fresh ideas has been created, bringing together groups of children for lessons,.
+创建了一个具有新鲜想法的“社交果园”，将儿童群体聚集在一起上课。
+--FP--
+--1--
+#28:
+A "social orchard" with fresh people has been created, bringing together people of children for lessons on rural issues, while a gastronomy school launches this year.
+已经创建了一个有新鲜人的“社会果园”，将儿童聚集在一起学习农村问题，而美食学校今年也启动了。
+A "social orchard" with fresh people has been created, bringing together people of children for lessons on rural issues,.
+创建了一个有新鲜人的“社会果园”，将儿童聚集在一起学习农村问题。
+--FN--
+#29:
+A "social orchard" with fresh people has been created, bringing together people of children,.
+创造了一个充满新鲜人的“社会果园”，将儿童聚集在一起。
+A "social orchard" with fresh people has been created, bringing together people,.
+创造了一个新鲜人的“社交果园”，将人们聚集在一起。
+--TP--
+#30:
+A "social orchard" with fresh produce has been created, bringing together groups of children for being on rural life,.
+一个拥有新鲜农产品的“社会果园”已经建立，将儿童群体聚集在一起，进行农村生活。
+A "social orchard" with fresh produce has been created, bringing together groups of children for being,.
+一个拥有新鲜农产品的“社会果园”已经建立，将儿童群体聚集在一起。
+--TN--
+#31:
+A "social orchard" with fresh produce has been created, bringing together groups of children,.
+一个带有新鲜农产品的“社会果园”已经建立，将儿童群体聚集在一起。
+A "social orchard" with fresh produce has been created, bringing together groups,.
+一个拥有新鲜农产品的“社会果园”已经建立，将群体聚集在一起。
+--TN--
+#32:
+According to Italian law dating back to the Napoleonic era, property ownership passes not to the eldest heir, but instead to every adopted child.
+根据可以追溯到拿破仑时代的意大利法律，财产所有权不会传给最年长的继承人，而是传给每个被收养的孩子。
+According to Italian law dating back to the Napoleonic era, property ownership passes not to the eldest heir, but.
+根据可以追溯到拿破仑时代的意大利法律，财产所有权不会传给最年长的继承人，而是传给最年长的继承人。
+--TN--
+#33:
+According to Italian law dating back to the Napoleonic era, property ownership passes not to the eldest heir, but instead to every single child.
+根据可追溯到拿破仑时代的意大利法律，财产所有权不会传给最年长的继承人，而是传给每个孩子。
+According to Italian law dating back to the Napoleonic era, property ownership passes not to the eldest heir, but.
+根据可以追溯到拿破仑时代的意大利法律，财产所有权不会传给最年长的继承人，而是传给最年长的继承人。
+--TN--
+#34:
+An need to improve the quality of sleep has presented new opportunities to hotels.
+提高睡眠质量的需求为酒店带来了新的机遇。
+An increased need to improve the quality of sleep has presented new opportunities to hotels.
+提高睡眠质量的需求为酒店带来了新的机遇。
+--TN--
+#35:
+As reports of more crimes increased, businesses began closing their doors early, allowing office workers to head home before midnight, a trend.
+随着更多犯罪报告的增加，企业开始提前关门，允许上班族在午夜前回家，这是一种趋势。
+As reports of more crimes increased, businesses began closing their doors early, allowing office workers to head home.
+随着更多犯罪报告的增加，企业开始提前关门，让上班族回家。
+--N--
+#36:
+As reports of more crimes increased, businesses began closing their doors early, allowing their workers to come home before dark, a trend that continues today.
+随着更多犯罪报告的增加，企业开始提前关门，让员工在天黑前回家，这一趋势一直持续到今天。
+As reports of more crimes increased, businesses began closing their doors early, allowing their workers to come home before dark, a trend.
+随着更多犯罪的报道增加，企业开始提前关门，让他们的工人在天黑前回家，这是一种趋势。
+--TN--
+#37:
+As reports of more crimes increased, businesses began closing their doors early, allowing their workers to head home before dark, a trend.
+随着更多犯罪报告的增加，企业开始提前关门，让他们的工人在天黑前回家，这是一种趋势。
+As reports of more crimes increased, businesses began closing their doors early, allowing their workers to head home.
+随着更多犯罪的报道增加，企业开始提前关门，让他们的工人回家。
+--TN--
+#38:
+As reports of other crimes increased, businesses began closing their doors early, allowing their workers to come home before dark, a lot that continues today.
+随着其他犯罪事件的报道增多，企业开始提前关门，允许员工在天黑前回家，这种情况今天仍在继续。
+As reports of other crimes increased, businesses began closing their doors early, allowing their workers to come home before dark, a lot.
+随着其他犯罪的报道增加，企业开始提前关门，让他们的工人在天黑前回家，很多。
+--TN--
+#39:
+As reports of other crimes increased, businesses began closing their doors early, allowing their workers to come home before dark, a trend.
+随着其他犯罪事件的报道增多，企业开始提前关门，允许员工在天黑前回家，这是一种趋势。
+As reports of other crimes increased, businesses began closing their doors early, allowing their workers to come home.
+随着其他犯罪的报道增加，企业开始提前关门，让他们的工人回家。
+--TN--
+#40:
+As reports of other crimes increased, businesses began closing their doors early, forcing their workers to head home before friday, a trend.
+随着其他犯罪的报道增多，企业开始提前关门，迫使工人在周五之前回家，这是一种趋势。
+As reports of other crimes increased, businesses began closing their doors early, forcing their workers to head home.
+随着其他犯罪的报道增加，企业开始提前关门，迫使工人回家。
+--TN--
+#41:
+As reports of such crimes increased, businesses began closing their doors early, allowing their workers to head home before dark, a lot that continues today.
+随着此类犯罪的报道越来越多，企业开始提前关门，让他们的工人在天黑前回家，这种情况今天仍在继续。
+As reports of such crimes increased, businesses began closing their doors early, allowing their workers to head home before dark, a lot.
+随着此类犯罪的报道增加，企业开始提前关门，让他们的工人在天黑前回家。
+--TN--
+#42:
+As reports of such crimes increased, businesses began closing their doors early, allowing their workers to head home before friday, a trend that continues today.
+随着此类犯罪的报道增多，企业开始提前关门，允许员工在周五之前回家，这一趋势一直持续到今天。
+As reports of such crimes increased, businesses began closing their doors early, allowing their workers to head home before friday, a trend.
+随着此类犯罪的报道增多，企业开始提前关门，允许员工在周五之前回家，这是一种趋势。
+--TN--
+#43:
+As reports of such crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend that continues today.
+随着此类犯罪的报道增多，企业开始提前关门，迫使工人在天黑前回家，这种趋势一直持续到今天。
+As reports of such crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend.
+随着此类犯罪的报道增多，企业开始提前关门，迫使工人在天黑前回家，这是一种趋势。
+--TN--
+#44:
+As reports of such crimes increased, businesses began closing their doors early, forcing their workers to head home before hours, a trend that continues today.
+随着此类犯罪的报道增多，企业开始提前关门，迫使员工在下班前回家，这种趋势一直持续到今天。
+As reports of such crimes increased, businesses began closing their doors early, forcing their workers to head home before hours, a trend.
+随着此类犯罪的报道增多，企业开始提前关门，迫使工人在下班前回家，这是一种趋势。
+--TN--
+#45:
+Bucolic marathons are held in spring, with people running and then relaxing.
+田园马拉松在春天举行，人们跑步然后放松。
+Bucolic marathons are held in spring, and then relaxing.
+田园马拉松在春天举行，然后放松。
+--TN--
+#46:
+Built in 2013, they look brand new, with every one perfectly finished by a man.
+建于 2013 年，它们看起来是全新的，每一个都由一个男人完美完成。
+Built in 2013, they look brand new, with every one perfectly finished.
+建于 2013 年，它们看起来是全新的，每一个都完美完成。
+--TN--
+#47:
+Carrie and Kris' email friendship continued over the next several days as the two graduated from college, started dating, and remained.
+Carrie 和 Kris 的电子邮件友谊在接下来的几天里继续保持，因为两人从大学毕业，开始约会，并一直保持下去。
+Carrie and Kris' email friendship continued over the next several days as the two graduated from college.
+两人大学毕业后，嘉莉和克里斯的电子邮件友谊在接下来的几天里持续了下去。
+--TN--
+#48:
+Carrie and Kris' email friendship continued over the next several months as the class graduated from college, started school, and remained.
+在接下来的几个月里，随着班级从大学毕业、开始上学并继续存在，Carrie 和 Kris 的电子邮件友谊继续存在。
+Carrie and Kris' email friendship continued over the next several months as the class graduated from college.
+随着班级大学毕业，嘉莉和克里斯的电子邮件友谊持续了几个月。
+--TN--
+#49:
+Carrie and Kris' email friendship continued over the next several months as the two graduated from college, started college, and remained in each other's orbit.
+Carrie 和 Kris 的电子邮件友谊在接下来的几个月里持续了下去，因为两人从大学毕业，开始上大学，并留在彼此的轨道上。
+Carrie and Kris' email friendship continued over the next several months as the two graduated from college, started college, and remained.
+Carrie 和 Kris 的电子邮件友谊在接下来的几个月里持续了下去，因为两人从大学毕业，开始上大学，并留下来。
+--TN--
+#50:
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started college, and remained in each other's orbit.
+Carrie 和 Kris 的电子邮件友谊在接下来的几年里持续了下去，因为两人从大学毕业，开始上大学，并保持在彼此的轨道上。
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started college, and remained.
+Carrie 和 Kris 的电子邮件友谊在接下来的几年里持续了下去，因为两人从大学毕业，开始上大学，并留下来。
+--TN--
+#51:
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained in each other's orbit.
+Carrie 和 Kris 的电子邮件友谊在接下来的几年里继续存在，因为两人从大学毕业，开始工作，并保持在彼此的轨道上。
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained.
+Carrie 和 Kris 的电子邮件友谊在接下来的几年里持续了下去，因为两人从大学毕业、开始工作并留下来。
+--TN--
+#52:
+Carrie and Kris' email friendship continued over the next several years as the two graduated.
+随着两人毕业，Carrie 和 Kris 的电子邮件友谊在接下来的几年里继续存在。
+Carrie and Kris' email friendship continued over the next several years.
+Carrie 和 Kris 的电子邮件友谊在接下来的几年中继续存在。
+--TN--
+#53:
+Contributing to Young's popularity, her books managed to overcome the challenge of explaining the Chinese culinary concepts English are grateful.
+她的书为杨的受欢迎做出了贡献，她成功地克服了用英语解释中国烹饪概念的挑战。
+Contributing, her books managed to overcome the challenge of explaining the Chinese culinary concepts English are grateful.
+贡献，她的书成功地克服了解释中国烹饪概念的挑战，英语是感激的。
+--TP--
+#54:
+Contributing to Young's popularity, her books managed to overcome the challenge of explaining the many ethereal Chinese culinary concepts in English, a feat generations are grateful.
+她的书为杨的受欢迎做出了贡献，她的书成功地克服了用英语解释许多空灵的中国烹饪概念的挑战，这是几代人所感激的壮举。
+Contributing to Young's popularity, her books managed to overcome the challenge of explaining the many ethereal Chinese culinary concepts English, a feat generations are grateful.
+为杨的受欢迎程度做出了贡献，她的书成功地克服了用英语解释许多空灵的中国烹饪概念的挑战，这是几代人感激的壮举。
+--FP--
+--1--
+#55:
+For the hotel industry as a whole the era of hotels only providing beds is becoming a thing of the past.
+对于整个酒店业来说，酒店只提供床位的时代正在成为过去。
+For the hotel industry the era of hotels only providing beds is becoming a thing of the past.
+对于酒店业来说，酒店只提供床位的时代正在成为过去。
+--TN--
+#56:
+For the hotel industry as a whole, she said the era of hotels only providing beds and meals is becoming a thing of the past.
+对于整个酒店业，她说酒店只提供床和饭菜的时代正在成为过去。
+For the hotel industry as a whole, she said the era of hotels only providing beds is becoming a thing of the past.
+对于整个酒店业，她说酒店只提供床位的时代正在成为过去。
+--FP--
+--2--
+#57:
+For the hotel industry as a whole, she said the era of hotels only providing beds and towels is becoming a thing of the past.
+对于整个酒店业，她说酒店只提供床和毛巾的时代正在成为过去。
+For the hotel industry as a whole, she said the era of hotels only providing beds is becoming a thing of the past.
+对于整个酒店业，她说酒店只提供床位的时代正在成为过去。
+--FP--
+--2--
+#58:
+For the hotel industry as a whole, she said the era of hotels only providing beds is becoming a thing of the past.
+对于整个酒店业，她说酒店只提供床位的时代正在成为过去。
+For the hotel industry as a whole the era of hotels only providing beds is becoming a thing of the past.
+对于整个酒店业来说，酒店只提供床位的时代正在成为过去。
+--TN--
+#59:
+For the hotel industry as a whole, she wrote the era of hotels only providing beds and towels is becoming a thing of the past.
+对于整个酒店业，她写道，酒店只提供床和毛巾的时代正在成为过去。
+For the hotel industry as a whole, she wrote the era of hotels only providing beds is becoming a thing of the past.
+对于整个酒店业，她写道，酒店只提供床位的时代正在成为过去。
+--FP--
+--2--
+#60:
+I could make out earthen mounds.
+我可以辨认出土堆。
+As I approached the center I could make out earthen mounds.
+当我接近中心时，我可以辨认出土堆。
+--TN--
+#61:
+In an attempt to make that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.
+为了解决这个问题，Salvatore 和他 56 岁的兄弟 Marco 创建了 Lemon Tours，一家农业旅游企业。
+In an attempt to make that problem Salvatore have created Lemon Tours an.
+为了解决这个问题，Salvatore 创建了 Lemon Tours。
+--TN--
+#62:
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.
+为了解决这个问题，Salvatore 和他 56 岁的兄弟 Marco 创建了 Lemon Tours，这是一家农业旅游企业。
+In an attempt to solve that problem Salvatore have created Lemon Tours an.
+为了解决这个问题，Salvatore 创建了 Lemon Tours an。
+--TN--
+#63:
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an exclusive tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it.
+为了解决这个问题，Salvatore 和他 56 岁的兄弟 Marco 创建了 Lemon Tours，这是一个独家旅游企业，旨在提高人们对 Sfusato 的认识并振兴用于种植它的传统。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an exclusive tourism venture to increase awareness and revitalize the traditions used to cultivate it.
+为了解决这个问题，Salvatore 和他 56 岁的兄弟 Marco 创建了 Lemon Tours，这是一家独家旅游企业，旨在提高人们的意识并振兴用于培育它的传统。
+--TN--
+#64:
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an independent tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it.
+为了解决这个问题，Salvatore 和他 56 岁的兄弟 Marco 创建了 Lemon Tours，这是一家独立的旅游企业，旨在提高人们对 Sfusato 的认识并振兴用于种植它的传统。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an independent tourism venture to increase awareness and revitalize the traditions used to cultivate it.
+为了解决这个问题，Salvatore 和他 56 岁的兄弟 Marco 创建了 Lemon Tours，这是一个独立的旅游企业，旨在提高人们的意识并振兴用于培育它的传统。
+--N--
+#65:
+In an attempt to solve that problem, Salvatore and his son Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it.
+为了解决这个问题，Salvatore 和他 56 岁的儿子 Marco 创建了 Lemon Tours，这是一个农业旅游企业，旨在提高人们对 Sfusato 的认识并振兴用于种植它的传统。
+In an attempt to solve that problem, Salvatore and his son Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.
+为了解决这个问题，Salvatore 和他 56 岁的儿子 Marco 创建了 Lemon Tours，这是一个农业旅游企业，旨在提高人们的意识并振兴用于种植它的传统。
+--TN--
+#66:
+In an attempt to solve that problem, Salvatore and their brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it.
+为了解决这个问题，Salvatore 和他们 56 岁的兄弟 Marco 创建了 Lemon Tours，这是一家农业旅游企业，旨在提高人们对 Sfusato 的认识并振兴用于种植它的传统。
+In an attempt to solve that problem, Salvatore and their brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.
+为了解决这个问题，Salvatore 和他们 56 岁的兄弟 Marco 创建了 Lemon Tours，这是一个农业旅游企业，旨在提高人们的意识并振兴用于种植它的传统。
+--TN--
+#67:
+It is not a concept suitable for a vaporetto.
+这不是一个适合汽艇的概念。
+"It is certainly not a concept suitable for a vaporetto.
+“这当然不是一个适合汽艇的概念。
+--TN--
+#68:
+It was a stunning view, but her attention was switched to the person sitting next to her.
+这是一个惊人的景象，但她的注意力转移到坐在她旁边的人身上。
+It was a stunning view, but her attention was switched to the person sitting next.
+这是一个惊人的景象，但她的注意力转移到了坐在旁边的人身上。
+--TN--
+#69:
+Looking into the future, Tang Min told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.
+展望未来，唐敏告诉京报，可持续发展的理念将是养生酒店行业的一大趋势。
+Looking, Tang Min told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.
+展望未来，唐敏告诉京报，可持续发展的理念将是养生酒店行业的一大趋势。
+--TN--
+#70:
+Looking into the house, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily that the concept of sustainable development will be a major trend in the wellness hotel industry.
+走进屋内，青城山六善的唐敏告诉《京报》，可持续发展的理念将是养生酒店行业的一大趋势。
+Looking into the house, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.
+走进屋内，青城山六善酒店的唐敏告诉《京报》，可持续发展的理念将是养生酒店行业的一大趋势。
+--TN--
+#71:
+More efforts need to be made to close the gap, given that the man stood at 60 percent in several countries, the CHA said.
+CHA 表示，鉴于该男子在几个国家的比例为 60%，因此需要做出更多努力来缩小差距。
+More efforts need to be made to close the gap, given that the man stood at 60 percent in several countries.
+鉴于该男子在几个国家的比例为 60%，因此需要做出更多努力来缩小差距。
+--TN--
+#72:
+More efforts need to be made to close the gap, given that the proportion stood at 60 percent in developed countries, the woman said.
+这位女士说，鉴于发达国家的这一比例为60%，需要做出更多努力来缩小差距。
+More efforts need to be made to close the gap, given that the proportion stood at 60 percent in developed countries.
+鉴于发达国家的这一比例为 60%，需要做出更多努力来缩小差距。
+--TN--
+#73:
+More efforts need to be made to close the gap, given that the proportion was at 60 percent in developed nations.
+鉴于发达国家的这一比例为 60%，需要做出更多努力来缩小差距。
+More efforts need to be made to close the gap, given that the proportion was at 60 percent.
+鉴于这一比例为 60%，需要做出更多努力来缩小差距。
+--TN--
+#74:
+More efforts need to be made to close the gap.
+需要做出更多努力来缩小差距。
+More efforts need to be made to close the gap,.
+需要做出更多努力来缩小差距。
+--TN--
+#75:
+New guest suites will more than double in her, with deep baths and indoor floors as well as outdoor decks.
+她的新套房将增加一倍以上，配有深浴缸和室内地板以及室外甲板。
+New guest suites will more than double in her,.
+新的套房将在她身上增加一倍以上。
+--TP--
+#76:
+New guest suites will more than double in size, with deep baths and indoor floors as well as outdoor decks with private plunge pools.
+新的套房面积将增加一倍以上，设有深浴缸和室内地板以及带私人小型游泳池的室外甲板。
+New guest suites will more than double in size, with deep baths and indoor floors as well as outdoor decks.
+新的套房面积将增加一倍以上，设有深浴缸和室内地板以及室外甲板。
+--N--
+#77:
+New guest suites will more than double in size, with multiple baths and indoor showers as well as outdoor decks with private lap pools.
+新的套房面积将增加一倍以上，设有多个浴室和室内淋浴以及带私人小型游泳池的室外甲板。
+New guest suites will more than double in size, with multiple baths and indoor showers as well as outdoor decks.
+新的套房面积将增加一倍以上，设有多个浴缸和室内淋浴以及室外甲板。
+--TN--
+#78:
+One of his favorite books, it was the first recipe Young learned from her parents to read in "Wisdom.
+这是他最喜欢的书之一，这是杨从父母那里学到的第一个在“智慧”中阅读的食谱。
+One of his favorite books, it was the first recipe Young learned from her parents to.
+他最喜欢的书之一，这是杨从父母那里学到的第一个食谱。
+--TN--
+#79:
+One of his favorite books, it was the first recipe Young learned from her parents to write in "Wisdom of the Chinese Kitchen.
+他最喜欢的书之一，这是杨从父母那里学到的第一个食谱，写在“中国厨房的智慧”中。
+One of his favorite books, it was the first recipe Young learned from her parents to write in "Wisdom.
+这是他最喜欢的书之一，这是杨从父母那里学到的第一个写在“智慧”中的食谱。
+--TN--
+#80:
+One of his favorite books, it was the first recipe Young learned from her parents to write in "Wisdom.
+这是他最喜欢的书之一，这是杨从父母那里学到的第一个写在“智慧”中的食谱。
+One of his favorite books, it was the first recipe Young learned from her parents to.
+他最喜欢的书之一，这是杨从父母那里学到的第一个食谱。
+--TN--
+#81:
+One of his favorite books, it was the same recipe Young learned from her parents to include in "Wisdom of the Chinese Kitchen.
+他最喜欢的书之一，这与杨从父母那里学到的相同食谱被收录在“中国厨房的智慧”中。
+One of his favorite books, it was the same recipe Young learned from her parents to include in "Wisdom.
+他最喜欢的书之一，这与杨从父母那里学到的同样的食谱包括在“智慧”中。
+--FP--
+--4--
+#82:
+One of his favorite dishes, it was the first recipe Young learned from their parents to.
+他最喜欢的菜之一，这是杨从父母那里学到的第一个食谱。
+One of his favorite dishes, it was the first recipe Young learned to.
+他最喜欢的菜之一，这是杨学会的第一个食谱。
+--TN--
+#83:
+One of his favorite dishes, it was the last recipe Young learned from her parents to include in "Wisdom of the Chinese Kitchen.
+他最喜欢的菜之一，这是杨从父母那里学到的最后一道菜谱，收录在《中国厨房的智慧》中。
+One of his favorite dishes, it was the last recipe Young learned from her parents to include in "Wisdom.
+他最喜欢的菜之一，这是杨从父母那里学到的最后一道菜谱，包括在“智慧”中。
+--FP--
+--4--
+#84:
+One of his many dishes, it was the same recipe Young learned from their parents to.
+他的许多菜肴之一，这是杨从父母那里学到的相同食谱。
+One of his many dishes, it was the same recipe Young learned to.
+他的许多菜肴之一，这是杨学会的相同食谱。
+--TN--
+#85:
+The couple still had to spend the first 10 months of their son's life living in different countries, as they waited.
+在等待的过程中，这对夫妇仍然不得不在儿子生命的前 10 个月生活在不同的国家。
+The couple still had to spend the first 10 months of their son's life living in different countries,.
+这对夫妇仍然不得不在他们儿子生命的前 10 个月生活在不同的国家。
+--TN--
+#86:
+The large Sfusato or Amalfi lemon is cultivated in an area that stretches.
+大型 Sfusato 或阿马尔菲柠檬种植在一个绵延的地区。
+The large Sfusato or Amalfi lemon is cultivated in an area.
+大型 Sfusato 或阿马尔菲柠檬在一个地区种植。
+--FN--
+#87:
+They accelerated her plans, and got married in Carrie's mother's backyard in 2009,.
+他们加快了她的计划，并于 2009 年在嘉莉母亲的后院结婚。
+They accelerated her plans, and got married in Carrie's mother's backyard,.
+他们加快了她的计划，并在嘉莉母亲的后院结婚。
+--TN--
+#88:
+They accelerated plans and got married.
+他们加快了计划并结婚了。
+They accelerated her plans, and got married,.
+他们加快了她的计划，并结婚了。
+--TN--
+#89:
+Travelers canceling a nonrefundable flight more than 10 minutes before the scheduled departure time are given a credit.
+在预定起飞时间前 10 分钟以上取消不可退款航班的旅客将获得积分。
+Travelers canceling a nonrefundable flight more than 10 minutes are given a credit.
+取消超过 10 分钟的不可退款航班的旅客将获得积分。
+--TN--
+#90:
+While Tahiti may have started the overwater trend in the 1960s the Maldives has perfected it.
+虽然大溪地可能在 1960 年代开始了水上运动的趋势，但马尔代夫已经完善了它。
+While Tahiti may have started the overwater trend the Maldives has perfected it.
+虽然大溪地可能已经开始了水上趋势，但马尔代夫已经完善了它。
+--TN--
+#91:
+With mountains rising behind serene Lake Wakatipu Matakauri Lodge boasts a stunning setting.
+宁静的瓦卡蒂普湖马塔考里小屋背后耸立着群山，环境令人惊叹。
+With mountains rising Matakauri Lodge boasts a stunning setting.
+随着山的上升，马塔考里旅馆拥有令人惊叹的环境。
+--TP--
+#92:
+With no plaque or indication of any kind as to what this wall might contain, my curiosity was peaked.
+由于没有牌匾或任何迹象表明这堵墙可能包含什么，我的好奇心达到了顶峰。
+With no plaque or indication of any kind as to my curiosity was peaked.
+没有斑块或任何迹象表明我的好奇心达到了顶峰。
+--TP--
+#93:
+With no plaque or indication of any place as to what this wall would be, my curiosity was peaked.
+没有牌匾或任何地方的迹象表明这堵墙会是什么，我的好奇心达到了顶峰。
+With no plaque or indication of any place as to my curiosity was peaked.
+没有牌匾或任何地方的迹象表明我的好奇心达到了顶峰。
+--TN--
+#94:
+With no plaque or indication of any place my curiosity was peaked.
+没有牌匾或任何地方的迹象，我的好奇心达到了顶峰。
+With no plaque or indication my curiosity was peaked.
+在没有斑块或迹象的情况下，我的好奇心达到了顶峰。
+--TP--
+#95:
+With no plaque or indication of any site as to what this wall might appear, my curiosity was peaked.
+由于没有牌匾或任何地点的迹象表明这堵墙可能会出现什么，我的好奇心达到了顶峰。
+With no plaque or indication of any site as to my curiosity was peaked.
+没有任何斑块或任何地点的迹象，我的好奇心达到了顶峰。
+--TP--
+#96:
+Xi Jinping would come to my home.
+习近平会来我家。
+"I wouldn't have dreamed Xi Jinping would come to my home, and sincerely inquire," Li says.
+“做梦也没想到习近平会来我家，诚恳询问，”李说。
+--TN--
+#97:
+are favorites among Chinese tourists.
+是中国游客的最爱。
+Zha said are favorites among Chinese tourists.
+查说是中国游客的最爱。
+--TN--
+#98:
+my curiosity was peaked.
+我的好奇心达到了顶峰。
+With no plaque or indication my curiosity was peaked.
+在没有斑块或迹象的情况下，我的好奇心达到了顶峰。
+--FN--
+#99:
+the daughter went back and made tender chicken on rice.
+女儿回去做了米饭上的嫩鸡。
+So the concerned daughter went back and made tender chicken on rice.
+于是，关心的女儿就回去做了米饭上的嫩鸡。
+--TN--

@@ -1,0 +1,98 @@
+#68:
+" Natural science trained me in rigorous scientific logic that draws a clear line between yes and no , " he says .
+“自然科学训练了我严谨的科学逻辑，在是与否之间划出了一条清晰的界线，”他说。
+" Computer science trained me in rigorous scientific logic that draws a clear line between yes and no , " he says .
+“计算机科学训练了我严格的科学逻辑，在是与否之间划出了一条清晰的界线，”他说。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#69:
+" We have seen a lot of things inaccessible to the public and heard a lot of stories unknown to people , " he says .
+“我们看到了很多公众无法接触的东西，听到了很多人们不知道的故事，”他说。
+" I have seen a lot of things inaccessible to the public and heard a lot of stories unknown to people , " he says .
+“我看到了很多公众无法接触到的东西，听到了很多人们不知道的故事，”他说。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#72:
+" They all hail from Hexin village and took painting lessons at the same time , " says Wang Qinhua , an instructor from the district ' s cultural venue .
+“他们都来自和新村，同时上绘画课，”来自该区文化场馆的讲师王钦华说。
+" They all hail from Hexin village and took painting lessons at the same time , " says Zhu Qinhua , an instructor from the district ' s cultural venue .
+“他们都来自和新村，同时上绘画课，”该区文化场馆的讲师朱钦华说。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#73:
+Most of the lectures were given by the archaeologists who unearthed the exhibits that lay in the showcases of the museum .
+大多数讲座都是由考古学家主持的，他们发掘了博物馆陈列柜中的展品。
+Some of the lectures were given by the archaeologists who unearthed the exhibits that lay in the showcases of the museum .
+一些讲座是由考古学家主持的，他们发掘了博物馆陈列柜中的展品。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#75:
+She started to paint , with her mother , when she was a child and now , at the age of 54 , she is still painting and trying to preserve the tradition .
+当她还是个孩子的时候，她就开始和母亲一起画画，现在，54岁的她仍然在画画，并试图保留这一传统。
+She learned to paint , with her mother , when she was a child and now , at the age of 54 , she is still painting and trying to preserve the tradition .
+当她还是个孩子的时候，她就和母亲一起学会了绘画，现在，54岁的她仍然在绘画，并试图保留这一传统。
+LCS-Wdiff:	0.9354838709677419 
+--FP--
+#76:
+During this pandemic , we have all shared feelings such as anxiety and disappointment , as our lives have been badly affected and our plans disrupted .
+在这场流行病期间，我们都有共同的感受，例如焦虑和失望，因为我们的生活受到严重影响，我们的计划被打乱。
+During the pandemic , we have all shared feelings such as anxiety and disappointment , as our lives have been badly affected and our plans disrupted .
+在疫情期间，我们都有共同的感受，比如焦虑和失望，因为我们的生活受到了严重影响，我们的计划被打乱。
+LCS-Wdiff:	0.9310344827586207 
+--FP--
+#77:
+When painting , the artists need to polish the walls to make sure they are smooth .
+绘画时，艺术家需要打磨墙壁以确保其光滑。
+Before painting , the artists need to polish the walls to make sure they are smooth .
+在绘画之前，艺术家需要打磨墙壁以确保其光滑。
+LCS-Wdiff:	0.9166666666666666 
+--FP--
+#78:
+So , the world has remained in a largely peaceful status for the past decades , but some dangerous conflicts and frictions have popped up from time to time , Xing said .
+邢说，因此，过去几十年来，世界基本上保持和平状态，但一些危险的冲突和摩擦不时出现。
+So , the world has remained in a largely peaceful status over the past decades , but some dangerous conflicts and frictions have popped up from time to time , Xing said .
+因此，在过去几十年中，世界基本上保持和平状态，但一些危险的冲突和摩擦不时出现，邢说。
+LCS-Wdiff:	0.9130434782608695 
+--FP--
+#79:
+It ' s a kind of folk art that was very popular in Tian ' s hometown , Wuxin county , Northwest China ' s Ningxia Hui autonomous region , during the 1960s and ' 70s .
+这是一种民间艺术，在20世纪60年代和70年代，在田的家乡，中国西北部宁夏回族自治区武信县非常流行。
+It ' s a kind of folk art that was very popular in Tian ' s hometown , Tongxin county , Northwest China ' s Ningxia Hui autonomous region , during the 1960s and ' 70s .
+这是一种民间艺术，在20世纪60年代和70年代，在田的家乡宁夏回族自治区同心县非常流行。
+LCS-Wdiff:	0.9130434782608695 
+--FP--
+#80:
+" And here is more a reference to ' perfection ' rather than a specific number , hence the name . "
+“这里更多的是指‘完美’，而不是具体的数字，因此得名。”
+" Ten here is more a reference to ' perfection ' rather than a specific number , hence the name . "
+“这里的十更多的是指‘完美’，而不是一个特定的数字，因此得名。”
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#87:
+They then perform the required measurements and draw out the frame with simple , clean lines before drafting sketches with black and white pencils .
+然后，他们进行所需的测量，在用黑白铅笔绘制草图之前，用简单、干净的线绘制框架。
+They then perform the necessary measurements and draw out the frame with simple , clean lines before drafting sketches with black and white pencils .
+然后他们进行必要的测量，在用黑白铅笔绘制草图之前，用简单、干净的线条画出框架。
+LCS-Wdiff:	0.875 
+--FP--
+#89:
+Some Buddhist artists tried to make a living by not only painting in temples but also painting for people in villages .
+一些佛教艺术家不仅在寺庙里画画，还为村庄里的人们画画，以此谋生。
+Some folk artists tried to make a living by not only painting in temples but also painting for people in villages .
+一些民间艺术家不仅在寺庙里画画，还为村里的人画画，以此谋生。
+LCS-Wdiff:	0.8333333333333334 
+--FP--
+#90:
+" Ten here is just a reference to ' perfection ' rather than a specific number , hence the name . "
+“这里的十只是指‘完美’，而不是一个特定的数字，因此得名。”
+" Ten here is more a reference to ' perfection ' rather than a specific number , hence the name . "
+“这里的十更多的是指‘完美’，而不是一个特定的数字，因此得名。”
+LCS-Wdiff:	0.8333333333333334 
+--FP--
+#93:
+" Ten here is simply a reference to ' perfection ' rather than a specific number , hence the name . "
+“这里的“十”只是指“完美”，而不是一个特定的数字，因此得名。”
+" Ten here is more a reference to ' perfection ' rather than a specific number , hence the name . "
+“这里的十更多的是指‘完美’，而不是一个特定的数字，因此得名。”
+LCS-Wdiff:	0.782608695652174 
+--FP--

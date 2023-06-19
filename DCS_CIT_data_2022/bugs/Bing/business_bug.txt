@@ -1,0 +1,1934 @@
+sent_id = 0
+add [0]
+add [1]
+add [2]
+With the anticipated boom in NEV sales the need for power batteries a key component of NEVs is apparent.;随着新能源汽车销售的预期繁荣，对动力电池的需求是显而易见的，这是新能源汽车的关键组成部分。
+With the anticipated boom in NEV sales globally the need for power batteries a key component of NEVs is apparent.;随着全球新能源汽车销售的蓬勃发展，对动力电池的需求是显而易见的，这是新能源汽车的关键组成部分。
+预期
+
+add [3]
+add [4]
+add [5]
+With the anticipated boom in NEV sales globally in the coming years,, the need for power batteries － a key component of NEVs is apparent.;随着未来几年全球新能源汽车销售的预计增长，对动力电池的需求 - 新能源汽车的关键部件是显而易见的。
+With the anticipated boom in NEV sales globally in the coming years, said Wang Jing, a research supervisor, the need for power batteries － a key component of NEVs is apparent.;研究主管王静表示，随着未来几年全球新能源汽车销售的蓬勃发展，对动力电池的需求 - 新能源汽车的关键组件是显而易见的。
+预计 增长
+
+add [6]
+add [7]
+
+sent_id = 1
+add [0]
+add [1]
+Customs data showed China's exports of solar components to Europe rose to 16.7 GW, 145 percent higher.;海关数据显示，中国对欧洲的太阳能组件出口升至16.7吉瓦，高出145%。
+Customs data showed China's exports of solar components to Europe during the first quarter rose to 16.7 GW, 145 percent higher.;海关数据显示，中国第一季度对欧洲的太阳能组件出口升至16.7吉瓦，增长145%。
+高出
+
+add [2]
+Customs data showed China's exports of solar components to Europe during the first quarter rose to 16.7 GW, 145 percent higher.;海关数据显示，中国第一季度对欧洲的太阳能组件出口升至16.7吉瓦，增长145%。
+Customs data showed China's exports of solar components to Europe during the first quarter rose to 16.7 GW, 145 percent higher compared.;海关数据显示，中国第一季度对欧洲的太阳能组件出口升至16.7吉瓦，比上报145%。
+增长
+
+add [3]
+Customs data showed China's exports of solar components to Europe during the first quarter rose to 16.7 GW, 145 percent higher compared.;海关数据显示，中国第一季度对欧洲的太阳能组件出口升至16.7吉瓦，比上报145%。
+Customs data showed China's exports of solar components to Europe during the first quarter rose to 16.7 GW, 145 percent higher compared with the same period.;海关数据显示，中国第一季度对欧洲的太阳能组件出口升至16.7吉瓦，同比增长145%。
+上报
+
+add [4]
+Customs data showed China's exports of solar components to Europe during the first quarter rose to 16.7 GW, 145 percent higher compared with the same period.;海关数据显示，中国第一季度对欧洲的太阳能组件出口升至16.7吉瓦，同比增长145%。
+Customs data showed China's exports of solar components to Europe during the first quarter rose to 16.7 GW, 145 percent higher compared with the same period of 2021.;海关数据显示，中国第一季度对欧洲的太阳能组件出口升至16.7吉瓦，比2021年同期高出145%。
+增长
+
+add [5]
+
+sent_id = 2
+add [0]
+add [1]
+add [2]
+
+sent_id = 3
+add [0]
+the growth in employers' compensation costs moderated.;雇主薪酬成本的增长有所缓和。
+Overall, the growth in employers' compensation costs moderated slightly, coming in.;总体而言，雇主薪酬成本的增长略有放缓。
+缓和
+
+add [1]
+add [2]
+
+sent_id = 4
+add [0]
+add [1]
+add [2]
+Europe has already managed to whittle down Russia's share of its gas supply from 40% last year,.;欧洲已经设法将俄罗斯的天然气供应份额从去年的40%削减。
+Europe has already managed to whittle down Russia's share of its gas supply from 40% last year to just 20%,.;欧洲已经设法将俄罗斯在天然气供应中的份额从去年的40%降至20%。
+削减
+
+add [3]
+add [4]
+add [5]
+Europe has already managed to whittle down Russia's share of its gas supply from 40% last year to just 20% in June, according.;据欧洲统计，欧洲已经设法将俄罗斯在天然气供应中的份额从去年的40%降至6月份的20%。
+Europe has already managed to whittle down Russia's share of its gas supply from 40% last year to just 20% in June, according to economics.;根据经济原因，欧洲已经设法将俄罗斯在天然气供应中的份额从去年的40%降至6月份的20%。
+统计
+
+add [6]
+add [7]
+Europe has already managed to whittle down Russia's share of its gas supply from 40% last year to just 20% in June, according to economics think.;根据经济学人士认为，欧洲已经设法将俄罗斯在天然气供应中的份额从去年的40%降至6月份的20%。
+Europe has already managed to whittle down Russia's share of its gas supply from 40% last year to just 20% in June, according to economics think tank Bruegel.;根据经济智库Bruegel的数据，欧洲已经设法将俄罗斯在天然气供应中的份额从去年的40%降至6月份的20%。
+人士
+
+
+sent_id = 5
+add [0]
+add [1]
+add [2]
+
+sent_id = 6
+add [0]
+add [1]
+add [2]
+
+sent_id = 7
+add [0]
+add [1]
+add [2]
+
+sent_id = 8
+add [0]
+add [1]
+add [2]
+add [3]
+If customers are buying fewer products, companies won't place new orders, which will weigh.;如果客户购买的产品较少，公司将不会下新订单，这将带来负担。
+If customers are buying fewer products, companies won't place new orders, which will weigh on factory output.;如果客户购买的产品较少，公司将不会下新订单，这将对工厂产量造成压力。
+负担
+
+
+sent_id = 9
+add [0]
+total compensation costs jumped 5.;总补偿成本跃升5。
+However,, total compensation costs jumped 5.;然而，总薪酬成本跃升了5。
+补偿
+
+add [1]
+add [2]
+However, over the course, total compensation costs jumped 5.;然而，在整个过程中，总薪酬成本跃升了5。
+However, over the course of the season ending, total compensation costs jumped 5.;然而，在赛季结束时，总薪酬成本跃升了5。
+过程
+
+However, over the course, total compensation costs jumped 5.;然而，在整个过程中，总薪酬成本跃升了5。
+However, over the course of the year ending, total compensation costs jumped 5.;然而，在截至年底的一年中，总薪酬成本跃升了5。
+过程
+
+add [3]
+However, over the years of the year ending, total compensation costs jumped 5.;然而，在截至年底的几年里，总薪酬成本跃升了5。
+However, over the years of the year ending in June, total compensation costs jumped 5.;然而，在截至6月的一年中，总薪酬成本跃升了5。
+年底
+
+However, over the summer of the season ending, total compensation costs jumped 5.;然而，在赛季结束的夏季，总薪酬成本跃升了5。
+However, over the summer of the season ending in france, total compensation costs jumped 5.;然而，在法国结束的赛季的夏天，总赔偿成本跃升了5。
+薪酬
+
+However, over the summer of the year ending, total compensation costs jumped 5.;然而，在年底的夏季，总薪酬成本跃升了5。
+However, over the summer of the year ending in june, total compensation costs jumped 5.;然而，在截至6月的一年夏季，总薪酬成本跃升了5。
+年底
+
+However, over the summer of the year ending, total compensation costs jumped 5.;然而，在年底的夏季，总薪酬成本跃升了5。
+However, over the summer of the year ending in June, total compensation costs jumped 5.;然而，在截至6月的一年中，总薪酬成本跃升了5。
+年底 夏季
+
+However, over the course of the series ending, total compensation costs jumped 5.;然而，在系列结束的过程中，总薪酬成本跃升了5。
+However, over the course of the series ending in June, total compensation costs jumped 5.;然而，在6月结束的系列赛期间，总薪酬成本跃升了5。
+过程
+
+However, over the course of the year ending, total compensation costs jumped 5.;然而，在截至年底的一年中，总薪酬成本跃升了5。
+However, over the course of the year ending in June, total compensation costs jumped 5.;然而，在截至6月的一年中，总薪酬成本跃升了5。
+年底
+
+
+sent_id = 10
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 11
+add [0]
+add [1]
+add [2]
+
+sent_id = 12
+add [0]
+add [1]
+add [2]
+
+sent_id = 13
+add [0]
+add [1]
+add [2]
+India then decided to stop the export of all vaccines, preventing SII from keeping up.;印度随后决定停止所有疫苗的出口，防止SII跟上。
+India then decided to stop the export of all vaccines, preventing SII from keeping up with its commitments elsewhere.;印度随后决定停止所有疫苗的出口，阻止SII履行其在其他地方的承诺。
+跟上
+
+
+sent_id = 14
+add [0]
+add [1]
+add [2]
+
+sent_id = 15
+add [0]
+add [1]
+
+sent_id = 16
+add [0]
+add [1]
+add [2]
+"The elders told me not to throw my money away," said Daga,.;“长老们告诉我不要把钱扔掉，”达加说。
+"The elders in my family told me not to throw my money away," said Daga,.;“我家里的长辈告诉我不要把钱扔掉，”达加说。
+长老
+
+add [3]
+add [4]
+
+sent_id = 17
+add [0]
+add [1]
+add [2]
+
+sent_id = 18
+add [0]
+add [1]
+Boeing suspended deliveries of the 787 after the FAA raised concerns.;在美国联邦航空局提出担忧后，波音公司暂停了787的交付。
+Boeing suspended deliveries of the 787 after the FAA raised concerns about its proposed inspection method.;波音公司暂停了787的交付，此前美国联邦航空局对其拟议的检查方法表示担忧。
+提出
+
+
+sent_id = 19
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 20
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+The commercial caused a storm on social media, where critics including various celebrities blasted its innuendo as making light.;这则广告在社交媒体上引起了轩然，包括各种名人在内的评论家抨击其影射是轻描淡写的。
+The commercial caused a storm on social media, where critics including various celebrities blasted its innuendo as making light of rape.;这则广告在社交媒体上引起了一场风暴，包括各种名人在内的评论家抨击其影射是轻视强奸。
+轩然 轻描淡写
+
+
+sent_id = 21
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+
+sent_id = 22
+add [0]
+add [1]
+add [2]
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for banks and businesses to borrow money.;当美联储加息时，银行和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to make money.;当美联储加息时，它使人们和企业赚钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for banks and businesses to borrow money.;当美联储加息时，银行和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to make money.;当美联储加息时，它使人们和企业赚钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for banks and businesses to borrow money.;当美联储加息时，银行和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to make money.;当美联储加息时，它使人们和企业赚钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it less expensive.;当美联储加息时，它使它变得更便宜。
+When the Fed raises rates, it makes it less expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本降低。
+变得 便宜
+
+When the Fed raises rates, it makes it less expensive.;当美联储加息时，它使它变得更便宜。
+When the Fed raises rates, it makes it less expensive for banks and businesses to borrow money.;当美联储加息时，银行和企业借钱的成本就会降低。
+变得 便宜
+
+When the Fed raises rates, it makes it less expensive.;当美联储加息时，它使它变得更便宜。
+When the Fed raises rates, it makes it less expensive for people and businesses to get money.;当美联储加息时，它使人们和企业获得资金的成本降低。
+变得 便宜
+
+When the Fed raises rates, it makes it less expensive.;当美联储加息时，它使它变得更便宜。
+When the Fed raises rates, it makes it less expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本降低。
+变得 便宜
+
+When the Fed raises rates, it makes it less expensive.;当美联储加息时，它使它变得更便宜。
+When the Fed raises rates, it makes it less expensive for people and businesses to borrow books.;当美联储加息时，它使人们和企业借书的成本降低。
+变得 便宜
+
+When the Fed raises rates, it makes it less expensive.;当美联储加息时，它使它变得更便宜。
+When the Fed raises rates, it makes it less expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本降低。
+变得 便宜
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for banks and businesses to borrow money.;当美联储加息时，银行和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to make money.;当美联储加息时，它使人们和企业赚钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本更高。
+变得 昂贵
+
+When the Fed raises rates, it makes it more expensive.;当美联储加息时，它会使它变得更加昂贵。
+When the Fed raises rates, it makes it more expensive for people and businesses to borrow money.;当美联储加息时，它使人们和企业借钱的成本更高。
+变得 昂贵
+
+
+sent_id = 23
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 24
+add [0]
+add [1]
+
+sent_id = 25
+add [0]
+add [1]
+add [2]
+Shell is anticipating more growth, conversation and local partnership opportunities in China where it once had a presence, a top company official said.;一位高级公司官员表示，壳牌预计在中国将有更多的增长、对话和本地合作机会，而中国曾经在中国也有业务。
+Shell is anticipating more growth, conversation and local partnership opportunities in China where it once had a presence for 128 years, a top company official said.;一位高级公司官员表示，壳牌预计在中国将有更多的增长、对话和本地合作机会，它曾经在中国有128年的历史。
+业务
+
+Shell is anticipating more growth, time and local partnership opportunities in China where it has had no presence, a top company official said.;一位高级公司官员表示，壳牌预计在中国将有更多的增长，时间和本地合作机会，而在中国，它没有业务。
+Shell is anticipating more growth, time and local partnership opportunities in China where it has had no presence for 128 years, a top company official said.;一位高级公司官员表示，壳牌预计在中国将有更多的增长，时间和本地合作机会，它已经128年没有了。
+业务
+
+Shell is anticipating more growth, investment and local partnership opportunities in China where it has had no presence, a top company official said.;一位高级公司官员表示，壳牌预计在中国将有更多的增长，投资和本地合作机会，而中国还没有业务。
+Shell is anticipating more growth, investment and local partnership opportunities in China where it has had no presence for 128 years, a top company official said.;一位高级公司官员表示，壳牌预计在中国将有更多的增长，投资和本地合作机会，它已经128年没有了。
+业务
+
+
+sent_id = 26
+add [0]
+add [1]
+Reindustrialization is occurring against the backdrop of a clamor for tax allowances.;再工业化是在要求免税的呼声的背景下发生的。
+Reindustrialization is occurring against the backdrop of a clamor for tax depreciation allowances or deductions.;再工业化是在要求税收折旧津贴或扣除额的呼声的背景下发生的。
+免税
+
+add [2]
+Reindustrialization is occurring against the backdrop of a clamor for tax depreciation allowances or deductions.;再工业化是在要求税收折旧津贴或扣除额的呼声的背景下发生的。
+Reindustrialization is occurring against the backdrop of a clamor for tax depreciation allowances or deductions for research and development.;再工业化是在要求税收折旧津贴或扣除研发费用的背景下发生的。
+呼声
+
+add [3]
+Reindustrialization is occurring against the backdrop of a clamor for tax depreciation allowances or deductions for research and development.;再工业化是在要求税收折旧津贴或扣除研发费用的背景下发生的。
+Reindustrialization is occurring against the backdrop of a clamor for tax depreciation allowances or deductions for research and development by Hong Kong companies.;再工业化是在要求香港公司提供折旧免税额或扣除研发费用的背景下发生的。
+津贴
+
+add [4]
+
+sent_id = 27
+add [0]
+add [1]
+add [2]
+Locking up a product is the final part a retailer will take before removing it altogether, and stores say they.;锁定产品是零售商在完全移除产品之前要采取的最后一部分，商店说他们。
+Locking up a product is the final part a retailer will take before removing it altogether, and stores say they are resorting more frequently.;锁定产品是零售商在完全删除产品之前要采取的最后一部分，商店表示他们正在更频繁地使用。
+移除
+
+Locking up a product is the final part a retailer will take before removing it altogether, and stores say they.;锁定产品是零售商在完全移除产品之前要采取的最后一部分，商店说他们。
+Locking up a product is the final part a retailer will take before removing it altogether, and stores say they are resorting more frequently.;锁定产品是零售商在完全删除产品之前要采取的最后一部分，商店表示他们正在更频繁地使用。
+移除
+
+Locking up a product is the final part a retailer will take before removing it altogether, and stores say they.;锁定产品是零售商在完全移除产品之前要采取的最后一部分，商店说他们。
+Locking up a product is the final part a retailer will take before removing it altogether, and stores say they are resorting more frequently.;锁定产品是零售商在完全删除产品之前要采取的最后一部分，商店表示他们正在更频繁地使用。
+移除
+
+Locking up a product is the final part a retailer will take before removing it altogether, and stores say they.;锁定产品是零售商在完全移除产品之前要采取的最后一部分，商店说他们。
+Locking up a product is the final part a retailer will take before removing it altogether, and stores say they are resorting more frequently.;锁定产品是零售商在完全删除产品之前要采取的最后一部分，商店表示他们正在更频繁地使用。
+移除
+
+add [3]
+Locking up a wall is the final step a house will take before removing it altogether, and stores say they are resorting more frequently.;锁上一堵墙是房子在完全拆除之前要采取的最后一步，商店说他们更频繁地求助。
+Locking up a wall is the final step a house will take before removing it altogether, and stores say they are resorting to this measure more frequently.;锁上一堵墙是房子在完全拆除之前要采取的最后一步，商店表示他们正在更频繁地采取这一措施。
+求助
+
+Locking up a wall is the final step a retailer would take before removing it altogether, and stores say they are resorting more frequently.;锁墙是零售商在完全拆除之前采取的最后一步，商店表示他们更频繁地诉诸。
+Locking up a wall is the final step a retailer would take before removing it altogether, and stores say they are resorting to this measure more frequently.;锁墙是零售商在完全拆除墙之前采取的最后一步，商店表示他们正在更频繁地采取这一措施。
+诉诸
+
+Locking up a hill is the final step a house will take before removing it altogether, and stores say they are resorting more frequently.;锁上一座山是房子在完全拆除之前要采取的最后一步，商店表示他们更频繁地求助。
+Locking up a hill is the final step a house will take before removing it altogether, and stores say they are resorting to this measure more frequently.;锁上一座山是房子在完全拆除之前要采取的最后一步，商店表示他们正在更频繁地采取这一措施。
+求助
+
+Locking up a hill is the final step a tree will take before removing it altogether, and stores say they are resorting more frequently.;锁上一座山是一棵树在完全移除之前要采取的最后一步，商店表示他们正在更频繁地求助。
+Locking up a hill is the final step a tree will take before removing it altogether, and stores say they are resorting to this measure more frequently.;锁上一座山是一棵树在完全移除之前要采取的最后一步，商店表示他们正在更频繁地采取这种措施。
+求助
+
+add [4]
+
+sent_id = 28
+add [0]
+add [1]
+
+sent_id = 29
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 30
+add [0]
+add [1]
+And finally, the subpoena demands any documents or communication Barr provided.;最后，传票要求Barr提供的任何文件或通信。
+And finally, the subpoena demands any documents or communication Barr provided to the House committee investigating the January 6 attack.;最后，传票要求巴尔向调查1月6日袭击事件的众议院委员会提供任何文件或通信。
+Barr
+
+add [2]
+
+sent_id = 31
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 32
+add [0]
+add [1]
+add [2]
+The continent has grappled with supply shortages for months amid an escalating economic conflict.;在不断升级的经济冲突中，非洲大陆几个月来一直在努力解决供应短缺问题。
+The continent has grappled with supply shortages for months amid an escalating economic conflict between Moscow and Brussels.;几个月来，在莫斯科和布鲁塞尔之间不断升级的经济冲突中，欧洲大陆一直在努力应对供应短缺。
+解决
+
+add [3]
+The continent has grappled with supply shortages for months amid an escalating economic conflict between Moscow and Brussels.;几个月来，在莫斯科和布鲁塞尔之间不断升级的经济冲突中，欧洲大陆一直在努力应对供应短缺。
+The continent has grappled with supply shortages for months amid an escalating economic conflict between Moscow and Brussels over the war.;几个月来，在莫斯科和布鲁塞尔之间因战争而不断升级的经济冲突中，欧洲大陆一直在努力解决供应短缺问题。
+应对
+
+add [4]
+
+sent_id = 33
+add [0]
+add [1]
+add [2]
+add [3]
+The it said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday.;它表示，它已自愿要求其所有媒体合作伙伴从周六开始停止播放广告的变体。
+The it said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate response.;它表示，它已自愿要求其所有媒体合作伙伴从周六开始停止播放广告的变化，并立即做出回应。
+变体
+
+The it said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday.;它表示，它已自愿要求其所有媒体合作伙伴从周六开始停止播放广告的变体。
+The it said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate success.;它表示，它自愿要求所有媒体合作伙伴从周六开始停止播放广告的变化，并立即取得了成功。
+变体
+
+The he said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday.;他说，它已自愿要求所有媒体合作伙伴从周六开始停止播放广告的变体。
+The he said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate response.;他说，它已自愿要求所有媒体合作伙伴从周六开始停止播放广告的变化，并立即做出回应。
+变体
+
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday.;该品牌表示，它已自愿要求所有媒体合作伙伴从周六开始停止播放广告的变体。
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate response.;该品牌表示，它已自愿要求所有媒体合作伙伴从周六开始停止播放广告的变化，并立即做出回应。
+变体
+
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday.;该品牌表示，它已自愿要求所有媒体合作伙伴从周六开始停止播放广告的变体。
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate effect.;该品牌表示，它已自愿要求所有媒体合作伙伴从周六开始停止播放广告的变化，并立即生效。
+变体
+
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday.;该品牌表示，它已自愿要求所有媒体合作伙伴从周六开始停止播放广告的变体。
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate response.;该品牌表示，它已自愿要求所有媒体合作伙伴从周六开始停止播放广告的变化，并立即做出回应。
+变体
+
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday.;该品牌表示，它已自愿要求所有媒体合作伙伴从周六开始停止播放广告的变体。
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate effect.;该品牌表示，它已自愿要求所有媒体合作伙伴从周六开始停止播放广告的变化，并立即生效。
+变体
+
+
+sent_id = 34
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 35
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 36
+add [0]
+add [1]
+add [2]
+
+sent_id = 37
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+
+sent_id = 38
+add [0]
+add [1]
+add [2]
+
+sent_id = 39
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 40
+add [0]
+Walmart slashed its profit outlook.;沃尔玛大幅下调了利润前景。
+See here: This week, Walmart slashed its profit outlook, warning.;看这里：本周，沃尔玛下调了利润前景，警告。
+大幅
+
+add [1]
+
+sent_id = 41
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 42
+add [0]
+add [1]
+
+sent_id = 43
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+In the united States, inflation has held steady at around 2% a year for the better part.;在美国，通货膨胀率长期稳定在每年2%左右。
+In the united States, inflation has held steady at around 2% a year for the better part of four years.;在美国，通货膨胀率在四年的大部分时间里一直稳定在每年2%左右。
+长期
+
+In the united States, inflation has held steady at around 2% a year for the better part.;在美国，通货膨胀率长期稳定在每年2%左右。
+In the united States, inflation has held steady at around 2% a year for the better part of four decades.;在美国，四十年的大部分时间里，通货膨胀率一直稳定在每年2%左右。
+长期
+
+In the united States, inflation has held steady at around 2% a day for the better things.;在美国，通货膨胀率稳定在每天2%左右，以用于更好的事情。
+In the united States, inflation has held steady at around 2% a day for the better things of four men.;在美国，通货膨胀率稳定在每天2%左右，因为四个男人的更好事情。
+用于
+
+In the united States, inflation has held steady at around 2% a day for the better things.;在美国，通货膨胀率稳定在每天2%左右，以用于更好的事情。
+In the united States, inflation has held steady at around 2% a day for the better things of four decades.;在美国，通货膨胀率稳定在每天2%左右，因为四十年来情况更好。
+用于 事情
+
+In the united States, inflation has held steady at around 2% a day for the better part.;在美国，通货膨胀率长期稳定在每天2%左右。
+In the united States, inflation has held steady at around 2% a day for the better part of four years.;在美国，通货膨胀率在四年的大部分时间里一直稳定在每天2%左右。
+长期
+
+In the united States, inflation has held steady at around 2% a day for the better part.;在美国，通货膨胀率长期稳定在每天2%左右。
+In the united States, inflation has held steady at around 2% a day for the better part of four decades.;在美国，通货膨胀率在四十年的大部分时间里一直稳定在每天2%左右。
+长期
+
+In the united States, inflation has held steady at around 2% a year for the better part.;在美国，通货膨胀率长期稳定在每年2%左右。
+In the united States, inflation has held steady at around 2% a year for the better part of four years.;在美国，通货膨胀率在四年的大部分时间里一直稳定在每年2%左右。
+长期
+
+In the united States, inflation has held steady at around 2% a year for the better part.;在美国，通货膨胀率长期稳定在每年2%左右。
+In the united States, inflation has held steady at around 2% a year for the better part of four decades.;在美国，四十年的大部分时间里，通货膨胀率一直稳定在每年2%左右。
+长期
+
+In the United states, inflation has held steady at around 2% a day for the better things.;在美国，通货膨胀率稳定在每天2%左右，以用于更好的事情。
+In the United states, inflation has held steady at around 2% a day for the better things of four men.;在美国，通货膨胀率稳定在每天2%左右，因为四个男人的好东西。
+用于 事情
+
+In the United states, inflation has held steady at around 2% a day for the better things.;在美国，通货膨胀率稳定在每天2%左右，以用于更好的事情。
+In the United states, inflation has held steady at around 2% a day for the better things of four decades.;在美国，通货膨胀率稳定在每天2%左右，因为四十年来情况更好。
+用于 事情
+
+In the United states, inflation has held steady at around 2% a day for the better part.;在美国，通货膨胀率长期稳定在每天2%左右。
+In the United states, inflation has held steady at around 2% a day for the better part of four years.;在美国，通货膨胀率在四年的大部分时间里一直稳定在每天2%左右。
+长期
+
+In the United states, inflation has held steady at around 2% a day for the better part.;在美国，通货膨胀率长期稳定在每天2%左右。
+In the United states, inflation has held steady at around 2% a day for the better part of four decades.;在美国，通货膨胀率在四十年的大部分时间里一直稳定在每天2%左右。
+长期
+
+In the United kingdom, inflation has held steady at around 2% a year for the better part.;在英国，通货膨胀率长期稳定在每年2%左右。
+In the United kingdom, inflation has held steady at around 2% a year for the better part of four years.;在英国，通货膨胀率在四年的大部分时间里一直稳定在每年2%左右。
+长期
+
+In the United kingdom, inflation has held steady at around 2% a year for the better part.;在英国，通货膨胀率长期稳定在每年2%左右。
+In the United kingdom, inflation has held steady at around 2% a year for the better part of four decades.;在英国，通货膨胀率在四十年的大部分时间里一直稳定在每年2%左右。
+长期
+
+In the United kingdom, inflation has held steady at around 2% a day for the better part.;在英国，通货膨胀率长期稳定在每天2%左右。
+In the United kingdom, inflation has held steady at around 2% a day for the better part of four weeks.;在英国，通货膨胀率在四周的大部分时间里一直稳定在每天2%左右。
+长期
+
+In the United kingdom, inflation has held steady at around 2% a day for the better part.;在英国，通货膨胀率长期稳定在每天2%左右。
+In the United kingdom, inflation has held steady at around 2% a day for the better part of four decades.;在英国，四十年的大部分时间里，通货膨胀率一直稳定在每天2%左右。
+长期
+
+In the United kingdom, inflation has held steady at around 2% a year for the better part.;在英国，通货膨胀率长期稳定在每年2%左右。
+In the United kingdom, inflation has held steady at around 2% a year for the better part of four years.;在英国，通货膨胀率在四年的大部分时间里一直稳定在每年2%左右。
+长期
+
+In the United kingdom, inflation has held steady at around 2% a year for the better part.;在英国，通货膨胀率长期稳定在每年2%左右。
+In the United kingdom, inflation has held steady at around 2% a year for the better part of four decades.;在英国，通货膨胀率在四十年的大部分时间里一直稳定在每年2%左右。
+长期
+
+In the United States, inflation has held steady at around 2% a year for the better part.;在美国，通货膨胀率长期稳定在每年2%左右。
+In the United States, inflation has held steady at around 2% a year for the better part of four years.;在美国，通货膨胀率在四年的大部分时间里一直稳定在每年2%左右。
+长期
+
+In the United States, inflation has held steady at around 2% a year for the better part.;在美国，通货膨胀率长期稳定在每年2%左右。
+In the United States, inflation has held steady at around 2% a year for the better part of four decades.;在美国，通货膨胀率在四十年的大部分时间里一直稳定在每年2%左右。
+长期
+
+In the United States, inflation has held steady at around 2% a day for the better things.;在美国，通货膨胀率稳定在每天2%左右，以提供更好的事情。
+In the United States, inflation has held steady at around 2% a day for the better things of four men.;在美国，四个男人的通货膨胀率稳定在每天2%左右。
+提供 事情
+
+In the United States, inflation has held steady at around 2% a day for the better things.;在美国，通货膨胀率稳定在每天2%左右，以提供更好的事情。
+In the United States, inflation has held steady at around 2% a day for the better things of four decades.;在美国，通货膨胀率稳定在每天2%左右，因为四十年来情况更好。
+提供 事情
+
+In the United States, inflation has held steady at around 2% a year for the better part.;在美国，通货膨胀率长期稳定在每年2%左右。
+In the United States, inflation has held steady at around 2% a year for the better part of four years.;在美国，通货膨胀率在四年的大部分时间里一直稳定在每年2%左右。
+长期
+
+In the United States, inflation has held steady at around 2% a year for the better part.;在美国，通货膨胀率长期稳定在每年2%左右。
+In the United States, inflation has held steady at around 2% a year for the better part of four decades.;在美国，通货膨胀率在四十年的大部分时间里一直稳定在每年2%左右。
+长期
+
+
+sent_id = 44
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 45
+add [0]
+add [1]
+add [2]
+add [3]
+It makes sense, though, for job seekers to try finding jobs with companies that are less vulnerable.;然而，对于求职者来说，尝试在不那么脆弱的公司找到工作是有道理的。
+It makes sense, though, for job seekers to try finding jobs with companies that are less vulnerable to the economy's troubles.;不过，对于求职者来说，尝试在那些不那么容易受到经济困境影响的公司找到工作是有道理的。
+脆弱
+
+It makes sense, too, for job seekers to try finding jobs with companies that are less vulnerable.;对于求职者来说，尝试在不那么脆弱的公司找到工作也是有道理的。
+It makes sense, too, for job seekers to try finding jobs with companies that are less vulnerable to the economy's troubles.;对于求职者来说，尝试在那些不那么容易受到经济困境影响的公司找到工作也是有道理的。
+脆弱
+
+It makes sense, therefore, for job seekers to try finding jobs with companies that are less vulnerable.;因此，对于求职者来说，尝试在不那么脆弱的公司找到工作是有道理的。
+It makes sense, therefore, for job seekers to try finding jobs with companies that are less vulnerable to the economy's troubles.;因此，对于求职者来说，尝试在不那么容易受到经济困境影响的公司找到工作是有道理的。
+脆弱
+
+
+sent_id = 46
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 47
+add [0]
+add [1]
+
+sent_id = 48
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+
+sent_id = 49
+add [0]
+how to do better remote sales.;如何做更好的远程销售。
+"Honestly,, the whole world has had to understand how to do better than sales," he added.;“老实说，整个世界都必须了解如何做得比销售更好，”他补充说。
+远程
+
+add [1]
+
+sent_id = 50
+add [0]
+add [1]
+
+sent_id = 51
+add [0]
+add [1]
+The Cyberspace Administration said the firm had breached the country's cybersecurity law.;网络空间管理局表示，该公司违反了该国的网络安全法。
+The Cyberspace Administration of China said the firm had breached the country's cybersecurity law.;中国国家互联网信息办公室表示，该公司违反了该国的网络安全法。
+管理局
+
+add [2]
+add [3]
+
+sent_id = 52
+add [0]
+add [1]
+add [2]
+
+sent_id = 53
+add [0]
+add [1]
+add [2]
+add [3]
+Regulators when that the employees opened deposit accounts, credit cards and lines of credit.;监管机构认为员工开立存款账户、信用卡和信用额度时。
+Regulators when that the employees opened deposit accounts, credit cards and lines of credit that carried high interest rates and expensive fees.;监管机构认为员工开设存款账户、信用卡和信用额度时，这些账户的利率高昂，费用高昂。
+开立
+
+Regulators when that the employees opened deposit accounts, credit cards and lines of credit.;监管机构认为员工开立存款账户、信用卡和信用额度时。
+Regulators when that the employees opened deposit accounts, credit cards and lines of credit that carried high interest rates and expensive books.;监管机构认为员工开设存款账户、信用卡和信用额度时，利率高，账簿昂贵。
+开立
+
+Regulators when that the employees opened deposit accounts, credit cards and lines of credit.;监管机构认为员工开立存款账户、信用卡和信用额度时。
+Regulators when that the employees opened deposit accounts, credit cards and lines of credit that carried high interest rates and expensive fees.;监管机构认为员工开设存款账户、信用卡和信用额度时，这些账户的利率高昂，费用高昂。
+开立
+
+add [4]
+add [5]
+
+sent_id = 54
+add [0]
+add [1]
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market.;中国可再生能源制造商可能会见证来自欧洲市场的订单增加。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the government is planning a faster transition, said analysts.;分析师表示，中国可再生能源制造商可能会看到来自欧洲市场的订单增加，因为政府正在计划更快的过渡。
+见证
+
+add [2]
+Chinese renewable manufacturers are likely to witness a boost in orders from the global market as the continent is planning a faster transition, said analysts.;分析师表示，中国可再生能源制造商可能会见证全球市场订单的增加，因为非洲大陆正在计划更快的转型。
+Chinese renewable manufacturers are likely to witness a boost in orders from the global market as the continent is planning a faster transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会看到全球市场订单的增加，因为非洲大陆正计划更快地向清洁能源过渡。
+见证 转型
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the global market as the government is planning a faster transition, said analysts.;分析师表示，随着政府计划加快转型，中国可再生能源制造商可能会见证全球市场订单的增加。
+Chinese renewable manufacturers are likely to witness a boost in orders from the global market as the government is planning a faster transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会看到全球市场订单的增加，因为政府正计划更快地向清洁能源过渡。
+加快 转型 见证
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the global market as the city is planning a faster transition, said analysts.;分析师表示，中国可再生能源制造商可能会见证全球市场订单的增加，因为该市正在计划更快的过渡。
+Chinese renewable manufacturers are likely to witness a boost in orders from the global market as the city is planning a faster transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会看到全球市场订单的增加，因为该市正计划更快地向清洁能源过渡。
+见证
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the global market as the continent is planning a faster transition, said analysts.;分析师表示，中国可再生能源制造商可能会见证全球市场订单的增加，因为非洲大陆正在计划更快的转型。
+Chinese renewable manufacturers are likely to witness a boost in orders from the global market as the continent is planning a faster transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会看到全球市场订单的增加，因为非洲大陆正计划更快地向清洁能源过渡。
+见证 转型
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European union as the continent is planning a full transition, said analysts.;分析师表示，随着欧洲大陆计划全面转型，中国可再生能源制造商可能会见证欧盟订单的增加。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European union as the continent is planning a full transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会看到来自欧盟的订单增加，因为欧洲大陆正计划向清洁能源全面过渡。
+转型 见证
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European commission as the government is planning a faster transition, said analysts.;分析师表示，中国可再生能源制造商可能会看到欧盟委员会的订单增加，因为政府正计划加快过渡。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European commission as the government is planning a faster transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会看到欧盟委员会的订单增加，因为政府正计划更快地向清洁能源过渡。
+加快
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European commission as the continent is planning a full transition, said analysts.;分析师表示，中国可再生能源制造商可能会看到欧盟委员会的订单增加，因为欧洲大陆正在计划全面转型。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European commission as the continent is planning a full transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会看到欧盟委员会的订单增加，因为欧洲大陆正计划向清洁能源全面过渡。
+转型
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the continent is planning a faster future, said analysts.;分析师表示，中国可再生能源制造商可能会见证欧洲市场订单的增加，因为欧洲大陆正在计划一个更快的未来。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the continent is planning a faster future to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会看到来自欧洲市场的订单增加，因为欧洲大陆正在计划一个更快的清洁能源未来。
+见证
+
+add [3]
+Chinese renewable manufacturers are likely to witness a boost in orders from the global market as the continent is planning a faster future to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会见证全球市场订单的增加，因为非洲大陆正在计划一个更快的清洁能源未来。
+Chinese renewable manufacturers are likely to witness a boost in orders from the global market as the continent is planning a faster future to clean energy to replace alternative fuels, said analysts.;分析师表示，中国可再生能源制造商可能会见证全球市场订单的增加，因为非洲大陆正在计划更快地将清洁能源取代替代燃料。
+未来
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the global market as the continent is planning a faster future to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会见证全球市场订单的增加，因为非洲大陆正在计划一个更快的清洁能源未来。
+Chinese renewable manufacturers are likely to witness a boost in orders from the global market as the continent is planning a faster future to clean energy to replace fossil fuel, said analysts.;分析师表示，中国可再生能源制造商可能会见证全球市场订单的增加，因为非洲大陆正在计划更快地采用清洁能源来取代化石燃料。
+未来
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European commission as the continent is planning a faster future to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会看到欧盟委员会的订单增加，因为欧洲大陆正在计划一个更快的清洁能源未来。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European commission as the continent is planning a faster future to clean energy to reduce fossil fuels, said analysts.;分析师表示，中国可再生能源制造商可能会看到欧盟委员会的订单增加，因为欧洲大陆正在计划更快地发展清洁能源以减少化石燃料。
+未来
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the continent is planning a faster transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会见证欧洲市场订单的增加，因为欧洲大陆正计划更快地向清洁能源过渡。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the continent is planning a faster transition to clean energy to reduce fossil fuels, said analysts.;分析师表示，中国可再生能源制造商可能会看到来自欧洲市场的订单增加，因为欧洲大陆正计划更快地向清洁能源过渡，以减少化石燃料。
+见证
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the community is planning a faster transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会见证欧洲市场订单的增加，因为社区正计划更快地向清洁能源过渡。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the community is planning a faster transition to clean energy to replace fossil fuels, said analysts.;分析师表示，中国可再生能源制造商可能会看到来自欧洲市场的订单增加，因为社区正计划更快地过渡到清洁能源以取代化石燃料。
+见证
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the community is planning a faster transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会见证欧洲市场订单的增加，因为社区正计划更快地向清洁能源过渡。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the community is planning a faster transition to clean energy to reduce fossil fuels, said analysts.;分析师表示，中国可再生能源制造商可能会看到来自欧洲市场的订单增加，因为社区正计划更快地过渡到清洁能源以减少化石燃料。
+见证
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the community is planning a faster transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会见证欧洲市场订单的增加，因为社区正计划更快地向清洁能源过渡。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the community is planning a faster transition to clean energy to replace fossil fuels, said analysts.;分析师表示，中国可再生能源制造商可能会看到来自欧洲市场的订单增加，因为社区正计划更快地过渡到清洁能源以取代化石燃料。
+见证
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the community is planning a faster transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会见证欧洲市场订单的增加，因为社区正计划更快地向清洁能源过渡。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the community is planning a faster transition to clean energy to replace fossil one, said analysts.;分析师表示，中国可再生能源制造商可能会看到来自欧洲市场的订单增加，因为社区正计划更快地过渡到清洁能源以取代化石能源。
+见证
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the community is planning a faster transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会见证欧洲市场订单的增加，因为社区正计划更快地向清洁能源过渡。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the community is planning a faster transition to clean energy to replace fossil fuels, said analysts.;分析师表示，中国可再生能源制造商可能会看到来自欧洲市场的订单增加，因为社区正计划更快地过渡到清洁能源以取代化石燃料。
+见证
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the continent is planning a faster future to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会看到来自欧洲市场的订单增加，因为欧洲大陆正在计划一个更快的清洁能源未来。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the continent is planning a faster future to clean energy to replace fossil fuels, said analysts.;分析师表示，中国可再生能源制造商可能会见证欧洲市场订单的增加，因为欧洲大陆正在计划更快地采用清洁能源来取代化石燃料。
+未来
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the continent is planning a faster future to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会看到来自欧洲市场的订单增加，因为欧洲大陆正在计划一个更快的清洁能源未来。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the continent is planning a faster future to clean energy to replace fossil fuels, said analysts.;分析师表示，中国可再生能源制造商可能会见证欧洲市场订单的增加，因为欧洲大陆正在计划更快地采用清洁能源来取代化石燃料。
+未来
+
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the continent is planning a faster transition to clean energy, said analysts.;分析师表示，中国可再生能源制造商可能会见证欧洲市场订单的增加，因为欧洲大陆正计划更快地向清洁能源过渡。
+Chinese renewable manufacturers are likely to witness a boost in orders from the European market as the continent is planning a faster transition to clean energy to reduce fossil fuels, said analysts.;分析师表示，中国可再生能源制造商可能会看到来自欧洲市场的订单增加，因为欧洲大陆正计划更快地向清洁能源过渡，以减少化石燃料。
+见证
+
+
+sent_id = 55
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+
+sent_id = 56
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 57
+add [0]
+They get charged by the sea.;他们被大海冲锋。
+"They get charged by the sea, so they can extend their lifetime almost indefinitely," Chao said.;“他们被海上收费，所以他们几乎可以无限期地延长他们的寿命，”Chao说。
+大海 冲锋
+
+
+sent_id = 58
+add [0]
+add [1]
+add [2]
+
+sent_id = 59
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 60
+add [0]
+add [1]
+
+sent_id = 61
+add [0]
+add [1]
+add [2]
+
+sent_id = 62
+add [0]
+add [1]
+
+sent_id = 63
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 64
+add [0]
+add [1]
+But Li didn't show up for two livestreaming events that were scheduled.;但李没有参加预定的两场直播活动。
+But Li didn't show up for two livestreaming events that were scheduled for the following days.;但李没有参加接下来几天安排的两场直播活动。
+预定
+
+
+sent_id = 65
+add [0]
+add [1]
+add [2]
+While it may not be many big hit films in fact there will still be movies to go see.;虽然它可能不是很多大热门电影，但实际上仍然会有电影去看。
+While it may not be many big hit films in fact over the next few weeks there will still be movies to go see.;虽然在未来几周内，可能没有多少大热门电影，但仍然会有电影去看。
+实际上
+
+While it may not be many big hit films in fact there will still be movies to go see.;虽然它可能不是很多大热门电影，但实际上仍然会有电影去看。
+While it may not be many big hit films in fact over the last few weeks there will still be movies to go see.;虽然在过去的几周里，可能不是很多热门电影，但仍然会有电影去看。
+实际上
+
+While it may not be many big hit films in fact there will still be movies to go see.;虽然它可能不是很多大热门电影，但实际上仍然会有电影去看。
+While it may not be many big hit films in fact over the next few weeks there will still be movies to go see.;虽然在未来几周内，可能没有多少大热门电影，但仍然会有电影去看。
+实际上
+
+While there may not be many big budget films in fact there will still be movies to go see.;虽然实际上可能没有很多大预算电影，但仍然会有电影去看。
+While there may not be many big budget films in fact over the next few weeks there will still be movies to go see.;虽然在接下来的几周内，可能没有很多大预算电影，但仍然会有电影去看。
+实际上
+
+While there may not be many big budget films in fact there will still be movies to go see.;虽然实际上可能没有很多大预算电影，但仍然会有电影去看。
+While there may not be many big budget films in fact over the last few weeks there will still be movies to go see.;虽然在过去的几周里，可能没有很多大预算电影，但仍然会有电影去看。
+实际上
+
+While there may not be many big budget films in fact there will still be movies to go see.;虽然实际上可能没有很多大预算电影，但仍然会有电影去看。
+While there may not be many big budget films in fact over the next few weeks there will still be movies to go see.;虽然在接下来的几周内，可能没有很多大预算电影，但仍然会有电影去看。
+实际上
+
+add [3]
+While it may not be many big hit films in theaters over the first few weeks there will still be movies to go see.;虽然在最初的几周内，影院的热映电影可能并不多，但仍然会有电影可以去看。
+While it may not be many big hit films in theaters over the first few weeks, there will still be movies to go see.;虽然在最初的几周内，影院里可能没有多少大热门电影，但仍然会有电影可以去看。
+热映
+
+
+sent_id = 66
+add [0]
+add [1]
+add [2]
+Coming next week: The US jobs report for July will be closely scrutinized the is slowing faster than.;下周出炉：美国7月就业报告将受到密切关注，其放缓速度将快于此。
+Coming next week: The US jobs report for July will be closely scrutinized for evidence the is slowing faster than.;下周：美国7月就业报告将受到严格审查，以证明其放缓速度快于此。
+出炉 关注
+
+add [3]
+add [4]
+
+sent_id = 67
+add [0]
+Domestic renewable manufacturers aim to actively grasp the opportunities;国内可再生能源制造商瞄准积极把握机遇
+Domestic renewable manufacturers aim to' actively grasp the opportunities;国内可再生能源制造商旨在“积极把握机遇”
+瞄准
+
+add [1]
+add [2]
+Domestic renewable manufacturers aim to' actively grasp the opportunities', global share;国内可再生能源制造商旨在“积极把握机遇”，全球份额
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing value, global share;国内可再生能源制造商在见证价值、全球占有率后，旨在“积极把握机遇”
+份额
+
+Domestic renewable manufacturers aim to' actively grasp the opportunities', global share;国内可再生能源制造商旨在“积极把握机遇”，全球份额
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing shared, global share;国内可再生能源制造商在见证全球共享后，旨在“积极把握机遇”
+份额
+
+add [3]
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing value, global share;国内可再生能源制造商在见证价值、全球占有率后，旨在“积极把握机遇”
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing value in place, global share;国内可再生能源制造商的目标是在见证价值到位后“积极把握机遇”，全球份额
+占有率
+
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing value, global share;国内可再生能源制造商在见证价值、全球占有率后，旨在“积极把握机遇”
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing value in water, global share;国内可再生能源制造商在见证水的价值后，旨在“积极把握机遇”，全球份额
+占有率
+
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing value, global share;国内可再生能源制造商在见证价值、全球占有率后，旨在“积极把握机遇”
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing value in orders, global share;国内可再生能源制造商在见证订单，全球份额的价值后，旨在“积极把握机遇”
+占有率
+
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing rise, global share;国内可再生能源制造商瞄准“积极把握机遇”后见证上升，全球份额
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing rise in production, global share;国内可再生能源制造商的目标是在见证产量上升后“积极把握机遇”，全球份额上升
+瞄准
+
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing rise, global share;国内可再生能源制造商瞄准“积极把握机遇”后见证上升，全球份额
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing rise in demand, global share;国内可再生能源制造商的目标是在见证需求上升后“积极把握机遇”，全球份额
+瞄准
+
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing rise, global share;国内可再生能源制造商瞄准“积极把握机遇”后见证上升，全球份额
+Domestic renewable manufacturers aim to' actively grasp the opportunities' after witnessing rise in orders, global share;国内可再生能源制造商的目标是在见证订单上升后“积极把握机遇”，全球份额上升
+瞄准
+
+
+sent_id = 68
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 69
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 70
+add [0]
+the bank has extended 100.3 billion yuan of loans.;银行已发放贷款1003亿元。
+So far, the bank has extended 100.3 billion yuan of loans to support the building.;截至目前，该行已发放贷款1003亿元用于扶持该楼。
+银行
+
+add [1]
+So far, the bank has extended 100.3 billion yuan of loans to support the building.;截至目前，该行已发放贷款1003亿元用于扶持该楼。
+So far, the bank has extended 100.3 billion yuan of loans to support the building of garbage and sewage treatment facilities.;截至目前，该行已发放贷款1003亿元，用于支持垃圾和污水处理设施建设。
+扶持
+
+add [2]
+add [3]
+
+sent_id = 71
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+In January, the International Monetary Fund warned of Macao's "overreliance on the gaming sector," which it said had been brought.;今年1月，国际货币基金组织（IMF）警告澳门“过度依赖博彩业”，称澳门已经提起了赌博业。
+In January, the International Monetary Fund warned of Macao's "overreliance on the gaming sector," which it said had been brought into focus.;今年1月，国际货币基金组织（IMF）警告澳门“过度依赖博彩业”，称这已成为焦点。
+提起
+
+add [6]
+
+sent_id = 72
+add [0]
+add [1]
+
+sent_id = 73
+add [0]
+add [1]
+"Every ten years, these waves of dramatic and exaggerated governance appear right.;“每十年，这些戏剧性和夸张的治理浪潮似乎是正确的。
+"Every ten years, these waves of dramatic and exaggerated governance appear right before the", adding.;“每隔十年，这些戏剧性和夸张的治理浪潮就会出现在”之前“，并补充说。
+正确
+
+"Every five years, these waves of dramatic and exaggerated governance appear right.;“每五年，这些戏剧性和夸张的治理浪潮似乎是正确的。
+"Every five years, these waves of dramatic and exaggerated governance appear right before the", adding.;“每隔五年，这些戏剧性和夸张的治理浪潮就会出现在”之前“，并补充说。
+正确
+
+"Every five years, these waves of dramatic and exaggerated governance appear right.;“每五年，这些戏剧性和夸张的治理浪潮似乎是正确的。
+"Every five years, these waves of dramatic and exaggerated governance appear right before the", adding.;“每隔五年，这些戏剧性和夸张的治理浪潮就会出现在”之前“，并补充说。
+正确
+
+"Every five minutes, these waves of dramatic and exaggerated governance appear right.;“每隔五分钟，这些戏剧性和夸张的治理浪潮似乎是正确的。
+"Every five minutes, these waves of dramatic and exaggerated governance appear right before the", adding.;“每隔五分钟，这些戏剧性和夸张的治理浪潮就会出现在”之前“，并补充说。
+正确
+
+"Every five years, two waves of dramatic and exaggerated governance appear right.;“每五年，两波戏剧性和夸张的治理浪潮似乎是正确的。
+"Every five years, two waves of dramatic and exaggerated governance appear right before the", adding.;“每五年，就会有两波戏剧性和夸张的治理浪潮出现在”之前，“并补充说。
+正确
+
+"Every five years, these waves of dramatic and exaggerated governance appear right.;“每五年，这些戏剧性和夸张的治理浪潮似乎是正确的。
+"Every five years, these waves of dramatic and exaggerated governance appear right before the", adding.;“每隔五年，这些戏剧性和夸张的治理浪潮就会出现在”之前“，并补充说。
+正确
+
+add [2]
+add [3]
+add [4]
+
+sent_id = 74
+add [0]
+add [1]
+add [2]
+add [3]
+While having fewer hands in the store increased profits for chains it has left stores.;虽然商店里的人手较少，但增加了连锁店的利润，它已经离开了商店。
+While having fewer hands in the store increased profits for chains in recent decades it has left stores.;虽然近几十年来，商店的手数较少，但连锁店的利润有所增加，它已经离开了商店。
+人手
+
+add [4]
+While having fewer hands in the store increased profits for it in recent year it has left stores.;虽然商店里的人手较少，但近年来增加了它的利润，它已经离开了商店。
+While having fewer hands in the store increased profits for it in recent year, it has left stores say.;虽然近年来商店的手数减少增加了它的利润，但它已经离开了商店。
+人手
+
+While having fewer hands in the store increased profits for it in recent decades it has left stores.;虽然近几十年来，商店的手数较少，但它的利润增加了，但它已经离开了商店。
+While having fewer hands in the store increased profits for it in recent decades, it has left stores say.;虽然近几十年来，商店里的人手越来越少，这增加了它的利润，但它已经离开了商店。
+手数
+
+While having fewer hands in the store increased profits for people in recent years it has left stores.;虽然近年来商店的手数减少，但增加了人们的利润，它已经离开了商店。
+While having fewer hands in the store increased profits for people in recent years, it has left stores say.;虽然近年来在商店中的人手较少增加了人们的利润，但它已经离开了商店。
+手数
+
+While having fewer hands in the store increased profits for chains in recent decades it has left stores.;虽然近几十年来，商店的手数较少，但连锁店的利润有所增加，它已经离开了商店。
+While having fewer hands in the store increased profits for chains in recent decades, it has left stores say.;虽然近几十年来，商店里的人手越来越少，增加了连锁店的利润，但它已经离开了商店。
+手数
+
+add [5]
+add [6]
+While having fewer eyes in the store increased profits for chains in those decades, it has left stores in court cases say.;虽然在商店里的眼睛越来越少，这几十年来增加了连锁店的利润，但它在法庭案件中留下了商店。
+While having fewer eyes in the store increased profits for chains in those decades, it has left stores in court cases without so many visible personnel say.;虽然在那几十年里，商店里的眼睛越来越少，增加了连锁店的利润，但它让商店在法庭案件中没有那么多可见的人员说。
+留下
+
+While having fewer eyes in the store increased profits for chains in those decades, it has left stores in court cases say.;虽然在商店里的眼睛越来越少，这几十年来增加了连锁店的利润，但它在法庭案件中留下了商店。
+While having fewer eyes in the store increased profits for chains in those decades, it has left stores in court cases without as many visible personnel say.;虽然在那几十年里，商店里的眼睛越来越少，增加了连锁店的利润，但它在法庭案件中让商店没有那么多可见的人员说。
+留下
+
+While having fewer eyes in the store increased profits for chains in those decades, it has left stores in court cases say.;虽然在商店里的眼睛越来越少，这几十年来增加了连锁店的利润，但它在法庭案件中留下了商店。
+While having fewer eyes in the store increased profits for chains in those decades, it has left stores in court cases without as many visible personnel say.;虽然在那几十年里，商店里的眼睛越来越少，增加了连锁店的利润，但它在法庭案件中让商店没有那么多可见的人员说。
+留下
+
+While having fewer eyes in the store increased profits for chains in those decades, it has left stores in court cases say.;虽然在商店里的眼睛越来越少，这几十年来增加了连锁店的利润，但它在法庭案件中留下了商店。
+While having fewer eyes in the store increased profits for chains in those decades, it has left stores in court cases without as many trusted personnel say.;虽然在那几十年里，商店里的眼睛越来越少，增加了连锁店的利润，但它在法庭案件中让商店没有那么多值得信赖的人员说。
+留下
+
+While having fewer eyes in the store increased profits for chains in those decades, it has left stores in court cases say.;虽然在商店里的眼睛越来越少，这几十年来增加了连锁店的利润，但它在法庭案件中留下了商店。
+While having fewer eyes in the store increased profits for chains in those decades, it has left stores in court cases without as many visible personnel say.;虽然在那几十年里，商店里的眼睛越来越少，增加了连锁店的利润，但它在法庭案件中让商店没有那么多可见的人员说。
+留下
+
+While having fewer eyes in the store increased profits for chains in recent decades, it has left stores in court cases say.;虽然近几十年来，商店中的眼睛越来越少，增加了连锁店的利润，但它在法庭案件中留下了商店。
+While having fewer eyes in the store increased profits for chains in recent decades, it has left stores in court cases without as many professional personnel say.;虽然近几十年来，商店中较少的眼睛增加了连锁店的利润，但它在法庭案件中使商店没有那么多专业人员所说的。
+留下
+
+While having fewer hands in the store increased profits for people in two decades, it has left stores in court cases say.;虽然二十年来商店的手数减少增加了人们的利润，但它在法庭案件中留下了商店。
+While having fewer hands in the store increased profits for people in two decades, it has left stores in court cases without so many visible personnel say.;虽然二十年来，商店里的人手越来越少，这增加了人们的利润，但它在法庭案件中让商店没有那么多可见的人员说。
+手数 留下
+
+While having fewer hands in the store increased profits for people in two decades, it has left stores in court cases say.;虽然二十年来商店的手数减少增加了人们的利润，但它在法庭案件中留下了商店。
+While having fewer hands in the store increased profits for people in two decades, it has left stores in court cases without very many visible personnel say.;虽然二十年来商店里的人手越来越少，增加了人们的利润，但它在法庭案件中让商店没有很多可见的人员说。
+手数 留下
+
+While having fewer hands in the store increased profits for people in two decades, it has left stores in court cases say.;虽然二十年来商店的手数减少增加了人们的利润，但它在法庭案件中留下了商店。
+While having fewer hands in the store increased profits for people in two decades, it has left stores in court cases without as many visible personnel say.;虽然二十年来，商店里的人手越来越少，这增加了人们的利润，但它在法庭案件中使商店没有那么多可见的人员说。
+手数 留下
+
+While having fewer hands in the store increased profits for people in two decades, it has left stores in court cases say.;虽然二十年来商店的手数减少增加了人们的利润，但它在法庭案件中留下了商店。
+While having fewer hands in the store increased profits for people in two decades, it has left stores in court cases without as many qualified personnel say.;虽然二十年来，商店里的人手越来越少，这增加了人们的利润，但它在法庭案件中使商店没有那么多合格人员说。
+手数 留下
+
+While having fewer hands in the store increased profits for people in two decades, it has left stores in court cases say.;虽然二十年来商店的手数减少增加了人们的利润，但它在法庭案件中留下了商店。
+While having fewer hands in the store increased profits for people in two decades, it has left stores in court cases without as many visible personnel say.;虽然二十年来，商店里的人手越来越少，这增加了人们的利润，但它在法庭案件中使商店没有那么多可见的人员说。
+手数 留下
+
+While having fewer hands in the store increased profits for people in recent years, it has left stores in court cases say.;虽然近年来商店的手数减少增加了人们的利润，但它在法庭案件中留下了商店。
+While having fewer hands in the store increased profits for people in recent years, it has left stores in court cases without so many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但它使商店在法庭案件中没有那么多可见的人员说。
+留下
+
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases say.;虽然近年来商店的手数减少增加了人们的利润，但它在法庭案件中留下了商店。
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases without very many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但它使商店在法庭案件中没有很多可见的人员说。
+留下
+
+While having fewer hands in the store increased profits for people in recent decades, it has left stores in court cases say.;虽然近几十年来，商店里的人手越来越少，这增加了人们的利润，但它在法庭案件中留下了商店。
+While having fewer hands in the store increased profits for people in recent decades, it has left stores in court cases without very many visible personnel say.;虽然近几十年来，商店里的人手较少，增加了人们的利润，但它在法庭案件中使商店没有很多可见的人员说。
+留下
+
+While having fewer hands in the store increased profits for people in recent decades, it has left stores in court cases say.;虽然近几十年来，商店里的人手越来越少，这增加了人们的利润，但它在法庭案件中留下了商店。
+While having fewer hands in the store increased profits for people in recent decades, it has left stores in court cases without as many professional personnel say.;虽然近几十年来，商店里的人手较少，增加了人们的利润，但它在法庭案件中使商店没有那么多专业人员说的那样。
+留下
+
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases say.;虽然近年来商店的手数减少增加了连锁店的利润，但在某些情况下，它已经离开了商店。
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases without as many as personnel say.;虽然近年来在商店中的人手较少增加了连锁店的利润，但在某些情况下，商店没有工作人员所说的那么多。
+手数
+
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases say.;虽然近年来商店的手数减少增加了连锁店的利润，但在某些情况下，它已经离开了商店。
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases without as many visible people say.;虽然近年来在商店中的人手较少增加了连锁店的利润，但在某些情况下，商店并没有像许多可见的人所说的那样。
+手数
+
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases say.;虽然近年来商店的手数减少增加了连锁店的利润，但在某些情况下，它已经离开了商店。
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases without as many visible friends say.;虽然近年来在商店中的人手较少增加了连锁店的利润，但在某些情况下，商店却没有许多可见的朋友所说的。
+手数
+
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases say.;虽然近几十年来，商店里工人的减少增加了连锁店的利润，但它在商业案例中留下了商店。
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases without so many visible personnel say.;虽然近几十年来，商店里工人的减少增加了连锁店的利润，但它已经让商店在商业案例中没有那么多可见的人员说。
+留下
+
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases say.;虽然近几十年来，商店里工人的减少增加了连锁店的利润，但它在商业案例中留下了商店。
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases without as many visible personnel say.;虽然近几十年来，商店中工人的减少增加了连锁店的利润，但它使商店在商业案例中没有那么多可见的人员说。
+留下
+
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases say.;虽然近几十年来，商店里工人的减少增加了连锁店的利润，但它在商业案例中留下了商店。
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases without as many visible personnel say.;虽然近几十年来，商店中工人的减少增加了连锁店的利润，但它使商店在商业案例中没有那么多可见的人员说。
+留下
+
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases say.;虽然近几十年来，商店里工人的减少增加了连锁店的利润，但它在商业案例中留下了商店。
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases without as many professional personnel say.;虽然近几十年来，商店里工人的减少增加了连锁店的利润，但它使商店在商业案例中没有那么多专业人员所说的。
+留下
+
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases say.;虽然近几十年来，商店里工人的减少增加了连锁店的利润，但它在商业案例中留下了商店。
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases without as many as personnel say.;虽然近几十年来，商店中工人的减少增加了连锁店的利润，但它使商店在商业案例中没有工作人员所说的那么多。
+留下
+
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases say.;虽然近几十年来，商店里工人的减少增加了连锁店的利润，但它在商业案例中留下了商店。
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases without as many visible people say.;虽然近几十年来，商店里工人的减少增加了连锁店的利润，但它使商店在商业案例中没有许多可见的人说的那样。
+留下
+
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases say.;虽然近几十年来，商店里工人的减少增加了连锁店的利润，但它在商业案例中留下了商店。
+While having fewer workers in the store increased profits for chains in recent decades, it has left stores in business cases without as many visible personnel say.;虽然近几十年来，商店中工人的减少增加了连锁店的利润，但它使商店在商业案例中没有那么多可见的人员说。
+留下
+
+add [7]
+While having fewer hands in the store increased profits for it in two decades, it has left stores in their cases without so many visible personnel say.;虽然二十年来，商店里的人手越来越少，这增加了它的利润，但它已经让商店在他们的案例中没有那么多可见的人员说。
+While having fewer hands in the store increased profits for it in two decades, it has left stores in their cases without so many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然二十年来商店的人手越来越少，但它的利润增加了，但它已经让商店没有那么多可见的人员来阻止入店行窃。
+案例
+
+While having fewer hands in the store increased profits for it in two decades, it has left stores in their cases without as many visible personnel say.;虽然二十年来商店的手数减少增加了它的利润，但它已经让商店在他们的案例中没有那么多可见的人员说。
+While having fewer hands in the store increased profits for it in two decades, it has left stores in their cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然二十年来商店的人手越来越少，但它增加了它的利润，但它已经让商店没有那么多可见的人员来阻止入店行窃。
+手数 案例
+
+While having fewer hands in the store increased profits for it in two decades, it has left stores in their cases without as many good personnel say.;虽然二十年来，商店里的人手越来越少，这增加了它的利润，但在他们的案例中，商店没有那么多优秀的人员说。
+While having fewer hands in the store increased profits for it in two decades, it has left stores in their cases without as many good personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然二十年来商店的人手越来越少，但它的利润增加了，但事实证明，商店没有那么多优秀的人员来阻止入店行窃。
+案例
+
+While having fewer hands in the store increased profits for it in two decades, it has left stores in their cases without as many visible people say.;虽然在商店里的人手越来越少，这在二十年内增加了它的利润，但它已经让商店在他们的案例中没有许多可见的人说的那样。
+While having fewer hands in the store increased profits for it in two decades, it has left stores in their cases without as many visible people to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然二十年来商店的人手越来越少，但它增加了它的利润，但它已经让商店没有那么多可见的人来阻止入店行窃。
+案例
+
+While having fewer hands in the store increased profits for it in two decades, it has left stores in their cases without as many visible personnel say.;虽然二十年来商店的手数减少增加了它的利润，但它已经让商店在他们的案例中没有那么多可见的人员说。
+While having fewer hands in the store increased profits for it in two decades, it has left stores in their cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然二十年来商店的人手越来越少，但它增加了它的利润，但它已经让商店没有那么多可见的人员来阻止入店行窃。
+手数 案例
+
+While having fewer hands in the store increased profits for it in recent years, it has left stores in some cases without so many visible personnel say.;虽然近年来商店的手数减少增加了它的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for it in recent years, it has left stores in some cases without so many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但增加了它的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for it in recent years, it has left stores in some cases without as many visible personnel say.;虽然近年来商店的手数减少增加了它的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for it in recent years, it has left stores in some cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但增加了它的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for it in recent years, it has left stores in some cases without as many as personnel say.;虽然近年来商店的手数减少增加了它的利润，但在某些情况下，它已经使商店没有工作人员所说的那么多。
+While having fewer hands in the store increased profits for it in recent years, it has left stores in some cases without as many as personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但增加了它的利润，但在某些情况下，商店没有那么多的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for it in recent years, it has left stores in some cases without as many visible personnel say.;虽然近年来商店的手数减少增加了它的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for it in recent years, it has left stores in some cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但增加了它的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for it in recent year, it has left stores in court cases without so many visible personnel say.;虽然近年来商店的手数减少增加了它的利润，但它在法庭案件中留下了商店，而没有那么多可见的人员说。
+While having fewer hands in the store increased profits for it in recent year, it has left stores in court cases without so many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但它在法庭案件中使商店没有那么多可见的人员来阻止入店行窃。
+手数 减少 利润 留下
+
+While having fewer hands in the store increased profits for it in recent year, it has left stores in court cases without as many visible personnel say.;虽然近年来商店的人手较少，增加了它的利润，但它在法庭案件中留下了商店，而没有许多可见的人员所说的。
+While having fewer hands in the store increased profits for it in recent year, it has left stores in court cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但它增加了利润，但它在法庭案件中没有那么多可见的人员来阻止入店行窃。
+留下
+
+While having fewer hands in the store increased profits for it in recent year, it has left stores in court cases without as many female personnel say.;虽然近年来商店的手数减少增加了它的利润，但它在法庭案件中使商店没有那么多女性人员所说的。
+While having fewer hands in the store increased profits for it in recent year, it has left stores in court cases without as many female personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但它在法庭案件中使商店没有那么多女性人员来阻止入店行窃。
+手数 减少 利润
+
+While having fewer hands in the store increased profits for it in recent year, it has left stores in court cases without as many visible people say.;虽然近年来商店的手数减少增加了它的利润，但它在法庭案件中留下了商店，而没有许多可见的人所说的。
+While having fewer hands in the store increased profits for it in recent year, it has left stores in court cases without as many visible people to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但它增加了利润，但它在法庭案件中没有那么多可见的人来阻止入店行窃。
+手数 留下
+
+While having fewer hands in the store increased profits for it in recent year, it has left stores in court cases without as many visible friends say.;虽然近年来商店的手数减少增加了它的利润，但它在法庭案件中留下了商店，而没有许多可见的朋友所说的。
+While having fewer hands in the store increased profits for it in recent year, it has left stores in court cases without as many visible friends to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但它在法庭案件中使商店没有那么多可见的朋友来阻止入店行窃。
+手数 减少 利润 留下
+
+While having fewer hands in the store increased profits for it in recent year, it has left stores in court cases without as many visible personnel say.;虽然近年来商店的人手较少，增加了它的利润，但它在法庭案件中留下了商店，而没有许多可见的人员所说的。
+While having fewer hands in the store increased profits for it in recent year, it has left stores in court cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但它增加了利润，但它在法庭案件中没有那么多可见的人员来阻止入店行窃。
+留下
+
+While having fewer hands in the store increased profits for it in recent year, it has left stores in some cases without so many visible personnel say.;虽然近年来商店的手数减少增加了它的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for it in recent year, it has left stores in some cases without so many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但它增加了利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for it in recent year, it has left stores in some cases without as many visible personnel say.;虽然近年来商店的手数减少增加了它的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for it in recent year, it has left stores in some cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但增加了它的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for it in recent year, it has left stores in some cases without as many as personnel say.;虽然近年来商店的手数减少增加了它的利润，但在某些情况下，它已经使商店没有像工作人员所说的那样多。
+While having fewer hands in the store increased profits for it in recent year, it has left stores in some cases without as many as personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少增加了它的利润，但在某些情况下，商店没有那么多的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for it in recent year, it has left stores in some cases without as many visible people say.;虽然近年来商店的手数减少增加了它的利润，但在某些情况下，商店并没有像许多可见的人所说的那样。
+While having fewer hands in the store increased profits for it in recent year, it has left stores in some cases without as many visible people to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但它增加了利润，但在某些情况下，商店没有那么多可见的人来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for it in recent year, it has left stores in some cases without as many visible personnel say.;虽然近年来商店的手数减少增加了它的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for it in recent year, it has left stores in some cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但增加了它的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for it in recent decades, it has left stores in their cases without so many visible personnel say.;虽然近几十年来，商店里的人手越来越少，这增加了它的利润，但它已经让商店在他们的案例中没有那么多可见的人员说。
+While having fewer hands in the store increased profits for it in recent decades, it has left stores in their cases without so many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近几十年来商店的人手较少，增加了它的利润，但它已经让商店没有那么多可见的人员来阻止入店行窃。
+案例
+
+While having fewer hands in the store increased profits for it in recent decades, it has left stores in their cases without as many visible personnel say.;虽然近几十年来，商店里的人手越来越少，这增加了它的利润，但它已经让商店在他们的案例中没有那么多可见的人员说。
+While having fewer hands in the store increased profits for it in recent decades, it has left stores in their cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近几十年来商店的人手较少，增加了它的利润，但它已经让商店没有那么多可见的人员来阻止入店行窃。
+案例
+
+While having fewer hands in the store increased profits for it in recent decades, it has left stores in their cases without as many female personnel say.;虽然近几十年来，商店里的人手较少，这增加了它的利润，但它已经让商店在他们的案例中没有那么多女性人员说。
+While having fewer hands in the store increased profits for it in recent decades, it has left stores in their cases without as many female personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近几十年来商店的人手较少增加了它的利润，但它已经使商店没有那么多的女性人员来阻止入店行窃。
+案例
+
+While having fewer hands in the store increased profits for it in recent decades, it has left stores in their cases without as many visible people say.;虽然近几十年来，商店里的人手越来越少，这增加了它的利润，但它已经让商店在他们的案例中没有许多可见的人说的那样。
+While having fewer hands in the store increased profits for it in recent decades, it has left stores in their cases without as many visible people to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近几十年来商店的人手较少，增加了它的利润，但它已经让商店没有那么多可见的人来阻止入店行窃。
+案例
+
+While having fewer hands in the store increased profits for it in recent decades, it has left stores in their cases without as many visible personnel say.;虽然近几十年来，商店里的人手越来越少，这增加了它的利润，但它已经让商店在他们的案例中没有那么多可见的人员说。
+While having fewer hands in the store increased profits for it in recent decades, it has left stores in their cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近几十年来商店的人手较少，增加了它的利润，但它已经让商店没有那么多可见的人员来阻止入店行窃。
+案例
+
+While having fewer hands in the store increased profits for people in two decades, it has left stores in some cases without as many as personnel say.;虽然二十年来，商店里的人手越来越少，这增加了人们的利润，但在某些情况下，商店却没有工作人员所说的那么多。
+While having fewer hands in the store increased profits for people in two decades, it has left stores in some cases without as many as personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然二十年来商店的人手越来越少，但在某些情况下，商店没有那么多的人员来阻止入店行窃。
+利润
+
+While having fewer hands in the store increased profits for people in recent years, it has left stores in court cases without so many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但它使商店在法庭案件中没有那么多可见的人员说。
+While having fewer hands in the store increased profits for people in recent years, it has left stores in court cases without so many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了人们的利润，但它在法庭案件中没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent years, it has left stores in court cases without very many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但它在法庭案件中使商店没有很多可见的人员说。
+While having fewer hands in the store increased profits for people in recent years, it has left stores in court cases without very many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但近年来人们的利润有所增加，但法院案件中的商店没有很多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent years, it has left stores in court cases without as many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但它在法庭案件中使商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for people in recent years, it has left stores in court cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了人们的利润，但它在法庭案件中使商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent years, it has left stores in court cases without as many visible people say.;虽然近年来商店的手数减少增加了人们的利润，但它在法庭案件中使商店没有像许多可见的人所说的那样。
+While having fewer hands in the store increased profits for people in recent years, it has left stores in court cases without as many visible people to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但近年来人们的利润有所增加，但在法庭案件中，商店没有那么多可见的人来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent years, it has left stores in court cases without as many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但它在法庭案件中使商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for people in recent years, it has left stores in court cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了人们的利润，但它在法庭案件中使商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent years, it has left stores in some cases without so many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for people in recent years, it has left stores in some cases without so many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了人们的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent years, it has left stores in some cases without as many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for people in recent years, it has left stores in some cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了人们的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent years, it has left stores in some cases without as many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for people in recent years, it has left stores in some cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了人们的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent years, it has left stores in some cases without as many female personnel say.;虽然近年来商店的手数减少增加了人们的利润，但在某些情况下，商店却没有许多女性人员所说的。
+While having fewer hands in the store increased profits for people in recent years, it has left stores in some cases without as many female personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少增加了人们的利润，但在某些情况下，商店没有那么多的女性人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent years, it has left stores in some cases without as many visible people say.;虽然近年来商店的手数减少增加了人们的利润，但在某些情况下，商店并没有像许多可见的人所说的那样。
+While having fewer hands in the store increased profits for people in recent years, it has left stores in some cases without as many visible people to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了人们的利润，但在某些情况下，商店没有那么多可见的人来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent years, it has left stores in some cases without as many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for people in recent years, it has left stores in some cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了人们的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases without so many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但它在法庭案件中留下了商店，而没有那么多可见的人员说。
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases without so many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了人们的利润，但它在法庭案件中使商店没有那么多可见的人员来阻止入店行窃。
+手数 留下
+
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases without very many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但它使商店在法庭案件中没有很多可见的人员说。
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases without very many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少增加了人们的利润，但它使商店在法庭案件中没有很多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases without as many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但它在法庭案件中使商店没有许多可见的人员所说的。
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但增加了人们的利润，但它使商店在法庭案件中没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases without as many hired personnel say.;虽然近年来商店的手数减少增加了人们的利润，但它在法庭案件中使商店没有像许多雇用人员所说的那样。
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases without as many hired personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了人们的利润，但它在法庭案件中使商店没有那么多雇用人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases without as many visible people say.;虽然近年来商店的手数减少增加了人们的利润，但它在法庭案件中使商店没有像许多可见的人所说的那样。
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases without as many visible people to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了人们的利润，但它使商店在法庭案件中没有那么多可见的人来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases without as many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但它在法庭案件中使商店没有许多可见的人员所说的。
+While having fewer hands in the store increased profits for people in recent year, it has left stores in court cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，但增加了人们的利润，但它使商店在法庭案件中没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent year, it has left stores in some cases without as many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for people in recent year, it has left stores in some cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少增加了人们的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent year, it has left stores in some cases without so many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for people in recent year, it has left stores in some cases without so many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少增加了人们的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent year, it has left stores in some cases without as many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for people in recent year, it has left stores in some cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少增加了人们的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent year, it has left stores in some cases without as many hired personnel say.;虽然近年来商店的手数减少增加了人们的利润，但在某些情况下，商店没有许多雇用人员所说的。
+While having fewer hands in the store increased profits for people in recent year, it has left stores in some cases without as many hired personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了人们的利润，但在某些情况下，商店没有那么多的雇用人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent year, it has left stores in some cases without as many visible people say.;虽然近年来商店的手数减少增加了人们的利润，但在某些情况下，商店并没有像许多可见的人所说的那样。
+While having fewer hands in the store increased profits for people in recent year, it has left stores in some cases without as many visible people to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少增加了人们的利润，但在某些情况下，商店没有那么多可见的人来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for people in recent year, it has left stores in some cases without as many visible personnel say.;虽然近年来商店的手数减少增加了人们的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for people in recent year, it has left stores in some cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少增加了人们的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for chains in two decades, it has left stores in court cases without as many visible personnel say.;虽然二十年来，商店的手数减少增加了连锁店的利润，但它使商店在法庭案件中没有那么多可见的人员说。
+While having fewer hands in the store increased profits for chains in two decades, it has left stores in court cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然二十年来商店的人手越来越少，增加了连锁店的利润，但它在法庭案件中没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for chains in two decades, it has left stores in court cases without as many visible personnel say.;虽然二十年来，商店的手数减少增加了连锁店的利润，但它使商店在法庭案件中没有那么多可见的人员说。
+While having fewer hands in the store increased profits for chains in two decades, it has left stores in court cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然二十年来商店的人手越来越少，增加了连锁店的利润，但它在法庭案件中没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for chains in two decades, it has left stores in some cases without as many as personnel say.;虽然二十年来，商店的手数减少增加了连锁店的利润，但在某些情况下，商店没有工作人员所说的那么多。
+While having fewer hands in the store increased profits for chains in two decades, it has left stores in some cases without as many as personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然二十年来商店的人手越来越少，增加了连锁店的利润，但在某些情况下，商店没有那么多的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for chains in recent years, it has left stores in court cases without so many visible personnel say.;虽然近年来商店的手数减少增加了连锁店的利润，但它在法庭案件中使商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for chains in recent years, it has left stores in court cases without so many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了连锁店的利润，但它在法庭案件中没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for chains in recent years, it has left stores in court cases without as many visible personnel say.;虽然近年来商店的手数减少增加了连锁店的利润，但它在法庭案件中使商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for chains in recent years, it has left stores in court cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了连锁店的利润，但它在法庭案件中没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for chains in recent years, it has left stores in court cases without as many visible personnel say.;虽然近年来商店的手数减少增加了连锁店的利润，但它在法庭案件中使商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for chains in recent years, it has left stores in court cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少，增加了连锁店的利润，但它在法庭案件中没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in court cases without so many visible personnel say.;虽然近年来商店的手数减少增加了连锁店的利润，但它在法庭案件中使商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in court cases without so many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家表示，虽然近年来商店的人手较少增加了连锁店的利润，但它在法庭案件中使商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in court cases without as many visible people say.;虽然近年来商店的手数减少增加了连锁店的利润，但它使商店在法庭案件中没有像许多可见的人所说的那样。
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in court cases without as many visible people to deter shoplifting, crime prevention experts say.;犯罪预防专家表示，虽然近年来商店的人手较少增加了连锁店的利润，但它使商店在法庭案件中没有那么多可见的人来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases without so many visible personnel say.;虽然近年来商店的手数减少增加了连锁店的利润，但在某些情况下，商店没有那么多可见的人员说。
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases without so many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家表示，虽然近年来商店的人手较少增加了连锁店的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+手数
+
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases without as many visible personnel say.;虽然近年来门店的手数减少增加了连锁店的利润，但在某些情况下，商店却没有那么多可见的人员说。
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少增加了连锁店的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+门店 手数
+
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases without as many visible friends say.;虽然近年来在商店中的人手较少增加了连锁店的利润，但在某些情况下，商店却没有许多可见的朋友所说的。
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases without as many visible friends to deter shoplifting, crime prevention experts say.;犯罪预防专家表示，虽然近年来商店的手数减少增加了连锁店的利润，但在某些情况下，商店没有那么多可见的朋友来阻止入店行窃。
+人手
+
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases without as many visible personnel say.;虽然近年来门店的手数减少增加了连锁店的利润，但在某些情况下，商店却没有那么多可见的人员说。
+While having fewer hands in the store increased profits for chains in recent year, it has left stores in some cases without as many visible personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近年来商店的人手较少增加了连锁店的利润，但在某些情况下，商店没有那么多可见的人员来阻止入店行窃。
+门店 手数
+
+While having fewer hands in the store increased profits for chains in recent decades, it has left stores in court cases without as many visible people say.;虽然近几十年来，商店里的人手越来越少，这增加了连锁店的利润，但它在法庭案件中让商店没有像许多可见的人所说的那样。
+While having fewer hands in the store increased profits for chains in recent decades, it has left stores in court cases without as many visible people to deter shoplifting, crime prevention experts say.;犯罪预防专家说，虽然近几十年来，商店的人手越来越少，增加了连锁店的利润，但在法庭上，商店没有那么多可见的人来阻止入店行窃。
+案件
+
+While having fewer hands in the store increased profits for chains in recent decades, it has left stores in some cases without as many as personnel say.;虽然近几十年来，商店的手数减少增加了连锁店的利润，但在某些情况下，商店却没有工作人员所说的那么多。
+While having fewer hands in the store increased profits for chains in recent decades, it has left stores in some cases without as many as personnel to deter shoplifting, crime prevention experts say.;犯罪预防专家表示，虽然近几十年来，商店里的人手较少，增加了连锁店的利润，但在某些情况下，商店没有那么多的人员来阻止入店行窃。
+手数
+
+
+sent_id = 75
+add [0]
+It was and I had half of a full charge.;是的，我有一半的全额充电。
+It was only about 160 miles south and I still had half of a full charge.;它只向南走了大约160英里，我仍然有一半的满电。
+全额 充电
+
+add [1]
+It was only about 160 miles south and I still had half of a full charge.;它只向南走了大约160英里，我仍然有一半的满电。
+It was only about 160 miles south from my hotel and I still had half of a full charge.;它距离我的酒店只有大约160英里，我仍然有一半的全额费用。
+满电
+
+It was only about 160 miles south and I still had half of a full charge.;它只向南走了大约160英里，我仍然有一半的满电。
+It was only about 160 miles south from my mother and I still had half of a full charge.;它离我母亲只有大约160英里的南边，我仍然有一半的电量。
+满电
+
+It was only about 160 miles south and I still had half of a full charge.;它只向南走了大约160英里，我仍然有一半的满电。
+It was only about 160 miles south from my own and I still had half of a full charge.;它距离我自己的距离只有大约160英里，我仍然有一半的全额充电。
+满电
+
+It was only about 160 miles south and I still had half of a full charge.;它只向南走了大约160英里，我仍然有一半的满电。
+It was only about 160 miles south from my hotel and I still had half of a full charge.;它距离我的酒店只有大约160英里，我仍然有一半的全额费用。
+满电
+
+
+sent_id = 76
+add [0]
+add [1]
+add [2]
+add [3]
+"In fact, we do see rising level of uncertainty regarding keeping up," he added.;“事实上，我们确实看到跟上步伐的不确定性上升，”他补充说。
+"In fact, we do see rising level of uncertainty regarding keeping up to political taboos and red lines," he added.;“事实上，我们确实看到在遵守政治禁忌和红线方面存在越来越多的不确定性，”他补充说。
+跟上 步伐
+
+"In addition, we do see rising level of uncertainty regarding keeping up," he added.;“此外，我们确实看到跟上步伐的不确定性上升，”他补充说。
+"In addition, we do see rising level of uncertainty regarding keeping up to political taboos and red lines," he added.;“此外，我们确实看到在遵守政治禁忌和红线方面存在越来越多的不确定性，”他补充说。
+跟上 步伐
+
+"In general, we do see rising level of uncertainty regarding keeping up," he added.;“总的来说，我们确实看到跟上步伐的不确定性上升，”他补充说。
+"In general, we do see rising level of uncertainty regarding keeping up to political taboos and red lines," he added.;“总的来说，我们确实看到在遵守政治禁忌和红线方面存在越来越多的不确定性，”他补充说。
+跟上 步伐
+
+
+sent_id = 77
+add [0]
+add [1]
+Companies have been reticent to let go of anybody, "said Andrew Challenger, senior vice president.;公司一直不愿放弃任何人，“高级副总裁安德鲁挑战者说。
+Companies have been reticent to let go of anybody, "said Andrew Challenger, senior vice president of global outplacement firm Challenger Gray& Christmas.;公司一直不愿放开任何人，“全球新职介绍公司Challenger Gray&Christmas的高级副总裁Andrew Challenger说。
+挑战者
+
+
+sent_id = 78
+add [0]
+add [1]
+Darshan Mehta, the managing director, said the partnership was rooted in the strong growth potential Pret.;董事总经理Darshan Mehta表示，这种合作关系植根于强大的增长潜力Pret。
+Darshan Mehta, the managing director of Reliance Brands, said the partnership was rooted in the strong growth potential Pret.;Reliance Brands董事总经理Darshan Mehta表示，此次合作植根于强大的增长潜力Pret。
+关系
+
+add [2]
+add [3]
+add [4]
+add [5]
+Darshan Mehta, the managing director of Reliance Brands, said in a statement that the partnership was rooted in the "strong growth potential" Pret.;Reliance Brands董事总经理Darshan Mehta在一份声明中表示，这种合作关系植根于“强劲的增长潜力”Pret。
+Darshan Mehta, the managing director of Reliance Brands, said in a statement that the partnership was rooted in the "strong growth potential" of the Pret brand and India's food and beverage industry.;Reliance Brands董事总经理Darshan Mehta在一份声明中表示，此次合作植根于Pret品牌和印度食品和饮料行业的“强劲增长潜力”。
+关系
+
+
+sent_id = 79
+add [0]
+add [1]
+In two weeks government officials have tried to lift the spirits of the internet industry.;在两周内，政府官员试图提振互联网行业的精神。
+In two weeks, some government officials have tried to lift the spirits of the internet industry and pledged to support tech companies.;在两周内，一些政府官员试图振奋互联网行业的精神，并承诺支持科技公司。
+提振
+
+In two weeks government officials have tried to lift the spirits of the internet industry.;在两周内，政府官员试图提振互联网行业的精神。
+In two weeks, chinese government officials have tried to lift the spirits of the internet industry and pledged to support tech companies.;在两周内，中国政府官员试图振奋互联网行业的精神，并承诺支持科技公司。
+提振
+
+In two weeks government officials have tried to lift the spirits of the internet industry.;在两周内，政府官员试图提振互联网行业的精神。
+In two weeks, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies.;在两周内，政府高级官员试图振奋互联网行业的精神，并承诺支持创业公司。
+提振
+
+In two weeks government officials have tried to lift the spirits of the internet industry.;在两周内，政府官员试图提振互联网行业的精神。
+In two weeks, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies.;在两周内，政府高级官员试图振奋互联网行业的精神，并承诺支持互联网公司。
+提振
+
+In two weeks government officials have tried to lift the spirits of the internet industry.;在两周内，政府官员试图提振互联网行业的精神。
+In two weeks, top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies.;在两周内，政府高级官员试图振奋互联网行业的精神，并承诺支持科技公司。
+提振
+
+In recent years government officials have tried to lift the spirits of the internet industry.;近年来，政府官员试图提振互联网行业的精神。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies.;近年来，政府高层官员试图振奋互联网行业的精神，并承诺支持创业公司。
+提振
+
+In recent weeks government officials have tried to lift the spirits of the internet industry.;最近几周，政府官员试图提振互联网行业的精神。
+In recent weeks, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies.;最近几周，政府高级官员试图振奋互联网行业的精神，并承诺支持互联网公司。
+提振
+
+In recent weeks government officials have tried to lift the spirits of the internet industry.;最近几周，政府官员试图提振互联网行业的精神。
+In recent weeks, top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies.;最近几周，政府高级官员试图振奋互联网行业的精神，并承诺支持科技公司。
+提振
+
+add [2]
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies.;近年来，政府高层官员试图提振互联网行业的精神，并承诺支持科技公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek.;近年来，政府高级官员试图振奋互联网行业的精神，并承诺支持寻求互联网行业的科技公司。
+高层 提振
+
+add [3]
+add [4]
+In two weeks, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to grow.;在两周内，政府高级官员试图振奋互联网行业的精神，并承诺支持寻求成长的互联网公司。
+In two weeks, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to grow in niche markets.;在两周内，政府高级官员试图提振互联网行业的精神，并承诺支持寻求在利基市场增长的互联网公司。
+成长
+
+In recent years, chinese government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to grow.;近年来，中国政府官员试图提振互联网行业的精神，并承诺支持寻求增长的科技公司。
+In recent years, chinese government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to grow in niche markets.;近年来，中国政府官员试图振奋互联网行业的精神，并承诺支持寻求在利基市场发展的科技公司。
+增长
+
+In recent years, chinese government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to grow.;近年来，中国政府官员试图提振互联网行业的精神，并承诺支持寻求增长的科技公司。
+In recent years, chinese government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to grow in overseas markets.;近年来，中国政府官员试图提振互联网行业的精神，并承诺支持寻求在海外市场发展的科技公司。
+增长
+
+In recent years, chinese government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to grow.;近年来，中国政府官员试图提振互联网行业的精神，并承诺支持寻求增长的科技公司。
+In recent years, chinese government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to grow in overseas markets.;近年来，中国政府官员试图提振互联网行业的精神，并承诺支持寻求在海外市场发展的科技公司。
+增长
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to become.;近年来，政府高层官员试图振奋互联网行业的精神，并承诺支持那些寻求成为互联网行业的初创公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to become in overseas companies.;近年来，政府高级官员试图提振互联网行业的精神，并承诺支持那些寻求成为海外公司的初创公司。
+高层
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to become.;近年来，政府高层官员试图振奋互联网行业的精神，并承诺支持那些寻求成为互联网行业的初创公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to become in overseas markets.;近年来，政府高级官员试图提振互联网行业的精神，并承诺支持寻求进入海外市场的初创公司。
+高层
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to become.;近年来，政府高层官员试图振奋互联网行业的精神，并承诺支持那些寻求成为互联网行业的初创公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to become in overseas markets.;近年来，政府高级官员试图提振互联网行业的精神，并承诺支持寻求进入海外市场的初创公司。
+高层
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to list.;近年来，政府高层官员试图提振互联网行业的精神，并承诺支持寻求上市的初创公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to list in select markets.;近年来，政府高级官员试图提振互联网行业的精神，并承诺支持寻求在特定市场上市的初创公司。
+高层
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to list.;近年来，政府高层官员试图提振互联网行业的精神，并承诺支持寻求上市的初创公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to list in overseas markets.;近年来，政府高级官员试图提振互联网行业的精神，并承诺支持寻求在海外市场上市的初创公司。
+高层
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to list.;近年来，政府高层官员试图提振互联网行业的精神，并承诺支持寻求上市的初创公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to list in overseas lists.;近年来，政府高层官员试图提振互联网行业的精神，并承诺支持那些寻求在海外上市的创业公司。
+初创
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to list.;近年来，政府高层官员试图提振互联网行业的精神，并承诺支持寻求上市的初创公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support startup companies that seek to list in overseas markets.;近年来，政府高级官员试图提振互联网行业的精神，并承诺支持寻求在海外市场上市的初创公司。
+高层
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to grow.;近年来，政府高层官员试图振奋互联网行业的精神，并承诺支持寻求成长的互联网公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to grow in niche markets.;近年来，政府高级官员试图振奋互联网行业的精神，并承诺支持寻求在利基市场增长的互联网公司。
+高层 成长
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to become.;近年来，政府高层官员试图振奋互联网行业的精神，并承诺支持寻求成为互联网行业的互联网公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to become in overseas companies.;近年来，政府高层试图振奋互联网行业的精神，并承诺支持寻求成为海外公司的互联网公司。
+官员
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to list.;近年来，政府高层官员试图振奋互联网行业的精神，并承诺支持寻求上市的互联网公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to list in major markets.;近年来，政府高级官员试图振奋互联网行业的精神，并承诺支持寻求在主要市场上市的互联网公司。
+高层
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to list.;近年来，政府高层官员试图振奋互联网行业的精神，并承诺支持寻求上市的互联网公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to list in overseas listings.;近年来，政府高层试图振奋互联网行业的精神，并承诺支持寻求在海外上市的互联网公司。
+官员
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to become.;近年来，政府高级官员试图提振互联网行业的精神，并承诺支持寻求成为互联网行业的科技公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to become in overseas companies.;近年来，政府高层官员试图振奋互联网行业的精神，并承诺支持那些寻求成为海外公司的科技公司。
+提振
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to list.;近年来，政府高层官员试图提振互联网行业的精神，并承诺支持寻求上市的科技公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to list in major markets.;近年来，政府高级官员试图提振互联网行业的精神，并承诺支持寻求在主要市场上市的科技公司。
+高层
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to list.;近年来，政府高层官员试图提振互联网行业的精神，并承诺支持寻求上市的科技公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to list in overseas markets.;近年来，政府高级官员试图提振互联网行业的精神，并承诺支持寻求在海外市场上市的科技公司。
+高层
+
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to list.;近年来，政府高层官员试图提振互联网行业的精神，并承诺支持寻求上市的科技公司。
+In recent years, top government officials have tried to lift the spirits of the internet industry and pledged to support tech companies that seek to list in overseas markets.;近年来，政府高级官员试图提振互联网行业的精神，并承诺支持寻求在海外市场上市的科技公司。
+高层
+
+In recent weeks, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to grow.;最近几周，政府高级官员试图振奋互联网行业的精神，并承诺支持寻求增长的互联网公司。
+In recent weeks, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to grow in overseas markets.;最近几周，政府高级官员试图提振互联网行业的精神，并承诺支持寻求在海外市场发展的互联网公司。
+增长
+
+In recent weeks, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to grow.;最近几周，政府高级官员试图振奋互联网行业的精神，并承诺支持寻求增长的互联网公司。
+In recent weeks, top government officials have tried to lift the spirits of the internet industry and pledged to support internet companies that seek to grow in overseas markets.;最近几周，政府高级官员试图提振互联网行业的精神，并承诺支持寻求在海外市场发展的互联网公司。
+增长
+
+
+sent_id = 80
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 81
+add [0]
+5 billion charge due to 787 delivery delays.;由于787交付延迟，收取了50亿的费用。
+5 billion charge due to 787 delivery delays and customer concessions.;由于787交货延迟和客户优惠，收取50亿。
+费用
+
+add [1]
+add [2]
+5 billion charge due to 787 delivery delays and customer concessions, and another$ 1 billion.;由于787的交付延迟和客户优惠，收取了50亿美元的费用，另外还有10亿美元。
+5 billion charge due to 787 delivery delays and customer concessions, and another$ 1 billion in abnormal production costs stemming.;由于787的交付延迟和客户让步，50亿美元的费用，另外还有10亿美元的异常生产成本。
+优惠 收取
+
+add [3]
+
+sent_id = 82
+add [0]
+add [1]
+It wants to find the right balance where she is not disconnected.;它希望找到她不断开连接的正确平衡。
+It wants to find the right balance where she is not disconnected from the global progress.;它希望找到适当的平衡，使她不与全球进步脱节。
+正确
+
+It wants to find the right balance where it is not disconnected.;它希望在不断开连接的地方找到正确的平衡。
+It wants to find the right balance where it is not disconnected from the scientific progress.;它希望找到正确的平衡，而不是与科学进步脱节。
+地方
+
+It wants to find the right balance where it is not disconnected.;它希望在不断开连接的地方找到正确的平衡。
+It wants to find the right balance where it is not disconnected from the global balance.;它希望找到正确的平衡，而不是与全球平衡脱节。
+地方
+
+It wants to find the right balance where it is not disconnected.;它希望在不断开连接的地方找到正确的平衡。
+It wants to find the right balance where it is not disconnected from the global grid.;它希望找到正确的平衡，而不是与全球电网断开连接。
+地方
+
+It wants to find the right balance where it is not disconnected.;它希望在不断开连接的地方找到正确的平衡。
+It wants to find the right balance where it is not disconnected from the global progress.;它希望找到正确的平衡，而不是与全球进步脱节。
+地方
+
+add [2]
+It wants to find the right balance where it is not disconnected from the global grid.;它希望找到正确的平衡，而不是与全球电网断开连接。
+It wants to find the right balance where it is not disconnected from the global grid in games and other tech.;它希望找到正确的平衡，而不是在游戏和其他技术中与全球网格脱节。
+电网
+
+add [3]
+It wants to find the right balance where he is not disconnected from the global network in computers and other tech.;它希望找到正确的平衡，使他不会与计算机和其他技术领域的全球网络脱节。
+It wants to find the right balance where he is not disconnected from the global network in computers and other tech, but it wants to also address concerns regarding cryptocurrency.;它希望找到正确的平衡，在那里他不会与计算机和其他技术的全球网络断开连接，但它也希望解决有关加密货币的担忧。
+领域 脱节
+
+It wants to find the right balance where he is not disconnected from the global network in ethernet and other tech.;它希望找到正确的平衡，使他不会与以太网和其他技术领域的全球网络断开连接。
+It wants to find the right balance where he is not disconnected from the global network in ethernet and other tech, but it wants to also address concerns regarding cryptocurrency.;它希望找到正确的平衡，在那里他不会与以太网和其他技术的全球网络断开连接，但它也希望解决有关加密货币的担忧。
+领域
+
+It wants to find the right balance where it is not disconnected from the global grid in games and other tech.;它希望找到正确的平衡，而不是在游戏和其他技术中与全球网格脱节。
+It wants to find the right balance where it is not disconnected from the global grid in games and other tech, but it wants to also address concerns regarding cryptocurrency.;它希望找到正确的平衡，而不是在游戏和其他技术领域与全球电网脱节，但它也希望解决有关加密货币的担忧。
+网格
+
+
+sent_id = 83
+add [0]
+add [1]
+add [2]
+"If we want to keep Earth," he said, "we have got to get a lot smarter about what's going on in the ocean.;“如果我们想保留地球，”他说，“我们必须对海洋中发生的事情更加聪明。
+"If we want to keep Earth as a place," he said, "we have got to get a lot smarter about what's going on in the ocean.;“如果我们想把地球作为一个地方，”他说，“我们必须对海洋中发生的事情更加聪明。
+保留
+
+add [3]
+
+sent_id = 84
+add [0]
+
+sent_id = 85
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 86
+add [0]
+add [1]
+
+sent_id = 87
+add [0]
+add [1]
+add [2]
+add [3]
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide," he said.;“在第二阶段，我们预计太阳能系统将在全球范围内迎来另一波大规模安装，”他说。
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide that solar module crew may slightly adjust," he said.;“在第二阶段，我们预计太阳能系统将在全球范围内接受另一波大规模安装，太阳能组件工作人员可能会稍微调整，”他说。
+迎来
+
+add [4]
+"In the second half, we expect solar systems will embrace another wave of massive installations given that solar system prices may slightly adjust," he said.;“在下半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能系统的价格可能会略有调整，”他说。
+"In the second half, we expect solar systems will embrace another wave of massive installations given that solar system prices may slightly adjust to a less desirable level," he said.;“在下半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能系统价格可能会略微调整到不太理想的水平，”他说。
+略有
+
+"In the second half, we expect solar systems will embrace another wave of massive installations given that solar module prices should slightly adjust," he said.;“在下半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能组件价格应该略有调整，”他说。
+"In the second half, we expect solar systems will embrace another wave of massive installations given that solar module prices should slightly adjust to a less pricier level," he said.;“在下半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能组件价格应该会稍微调整到一个不太贵的水平，”他说。
+略有
+
+"In the first half, we expect solar systems will embrace another wave of massive installations given that solar module prices should slightly adjust," he said.;“在上半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能组件价格应该略有调整，”他说。
+"In the first half, we expect solar systems will embrace another wave of massive installations given that solar module prices should slightly adjust to a less desirable level," he said.;“在上半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能组件价格应该会略微调整到不太理想的水平，”他说。
+略有
+
+"In the first half, we expect solar systems will embrace another wave of massive installations given that solar module prices should slightly adjust," he said.;“在上半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能组件价格应该略有调整，”他说。
+"In the first half, we expect solar systems will embrace another wave of massive installations given that solar module prices should slightly adjust to a less pricier level," he said.;“在上半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能组件价格应该会稍微调整到一个不那么贵的水平，”他说。
+略有
+
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide that solar module prices may slightly adjust," he said.;“在第二阶段，我们预计太阳能系统将迎来全球另一波大规模安装，太阳能组件价格可能会略有调整，”他说。
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide that solar module prices may slightly adjust to a less desirable level," he said.;“在第二阶段，我们预计太阳能系统将在全球范围内迎来另一波大规模安装，太阳能组件价格可能会略微调整到不太理想的水平，”他说。
+略有
+
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide that solar module prices may slightly adjust," he said.;“在第二阶段，我们预计太阳能系统将迎来全球另一波大规模安装，太阳能组件价格可能会略有调整，”他说。
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide that solar module prices may slightly adjust to a less pricier level," he said.;“在第二阶段，我们预计太阳能系统将在全球范围内迎来另一波大规模安装，太阳能组件价格可能会略微调整到价格较低的水平，”他说。
+略有
+
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide that solar system prices may slightly adjust," he said.;“在第二阶段，我们预计太阳能系统将迎来全球另一波大规模安装，太阳能系统价格可能会略有调整，”他说。
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide that solar system prices may slightly adjust to a less pricier level," he said.;“在第二阶段，我们预计太阳能系统将在全球范围内迎来另一波大规模安装，太阳能系统价格可能会略微调整到价格较低的水平，”他说。
+略有
+
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide that solar module prices might slightly adjust," he said.;“在第二阶段，我们预计太阳能系统将迎来全球另一波大规模安装，太阳能组件价格可能会略有调整，”他说。
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide that solar module prices might slightly adjust to a less pricier level," he said.;“在第二阶段，我们预计太阳能系统将在全球范围内迎来另一波大规模安装，太阳能组件价格可能会略微调整到价格较低的水平，”他说。
+略有
+
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide that solar module prices may slightly adjust," he said.;“在第二阶段，我们预计太阳能系统将迎来全球另一波大规模安装，太阳能组件价格可能会略有调整，”他说。
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide that solar module prices may slightly adjust to a less desirable level," he said.;“在第二阶段，我们预计太阳能系统将在全球范围内迎来另一波大规模安装，太阳能组件价格可能会略微调整到不太理想的水平，”他说。
+略有
+
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide that solar module prices may slightly adjust," he said.;“在第二阶段，我们预计太阳能系统将迎来全球另一波大规模安装，太阳能组件价格可能会略有调整，”他说。
+"In the second phase, we expect solar systems will embrace another wave of massive installations worldwide that solar module prices may slightly adjust to a less pricier level," he said.;“在第二阶段，我们预计太阳能系统将在全球范围内迎来另一波大规模安装，太阳能组件价格可能会略微调整到价格较低的水平，”他说。
+略有
+
+"In the second phase, we expect solar systems will embrace another wave of massive installations given that solar system prices may slightly adjust," he said.;“在第二阶段，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能系统的价格可能会略有调整，”他说。
+"In the second phase, we expect solar systems will embrace another wave of massive installations given that solar system prices may slightly adjust to a less pricier level," he said.;“在第二阶段，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能系统价格可能会略微调整到价格较低的水平，”他说。
+略有
+
+"In the second half, we expect solar systems will embrace another wave of massive installations given that solar system prices may slightly adjust," he said.;“在下半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能系统的价格可能会略有调整，”他说。
+"In the second half, we expect solar systems will embrace another wave of massive installations given that solar system prices may slightly adjust to a less desirable level," he said.;“在下半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能系统价格可能会略微调整到不太理想的水平，”他说。
+略有
+
+"In the second half, we expect solar systems will embrace another wave of massive installations given that solar module prices should slightly adjust," he said.;“在下半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能组件价格应该略有调整，”他说。
+"In the second half, we expect solar systems will embrace another wave of massive installations given that solar module prices should slightly adjust to a less pricier level," he said.;“在下半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能组件价格应该会稍微调整到一个不太贵的水平，”他说。
+略有
+
+"In the second half, we expect solar systems will embrace another wave of massive installations given that solar system prices may slightly adjust," he said.;“在下半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能系统的价格可能会略有调整，”他说。
+"In the second half, we expect solar systems will embrace another wave of massive installations given that solar system prices may slightly adjust to a less desirable level," he said.;“在下半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能系统价格可能会略微调整到不太理想的水平，”他说。
+略有
+
+"In the second half, we expect solar systems will embrace another wave of massive installations given that solar module prices should slightly adjust," he said.;“在下半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能组件价格应该略有调整，”他说。
+"In the second half, we expect solar systems will embrace another wave of massive installations given that solar module prices should slightly adjust to a less pricier level," he said.;“在下半年，我们预计太阳能系统将迎来另一波大规模安装，因为太阳能组件价格应该会稍微调整到一个不太贵的水平，”他说。
+略有
+
+"In the second half, we expect solar power will embrace another wave of massive installations given that solar power prices may slightly adjust," he said.;“在下半年，我们预计太阳能发电将迎来另一波大规模安装，因为太阳能价格可能会略有调整，”他说。
+"In the second half, we expect solar power will embrace another wave of massive installations given that solar power prices may slightly adjust to a less pricier level," he said.;“在下半年，我们预计太阳能发电将迎来另一波大规模安装，因为太阳能发电价格可能会略微调整到价格较低的水平，”他说。
+略有
+
+"In the first half, we expect solar power will embrace another wave of massive installations given that solar module prices should slightly adjust," he said.;“在上半年，我们预计太阳能发电将迎来另一波大规模安装，因为太阳能组件价格应该略有调整，”他说。
+"In the first half, we expect solar power will embrace another wave of massive installations given that solar module prices should slightly adjust to a less pricier level," he said.;“在上半年，我们预计太阳能发电将迎来另一波大规模安装，因为太阳能组件价格应该会稍微调整到一个不太贵的水平，”他说。
+略有
+
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module prices may slightly adjust," he said.;“在第二阶段，我们预计太阳能发电将在全球范围内迎来另一波大规模安装，太阳能组件价格可能会略有调整，”他说。
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module prices may slightly adjust to a less desirable level," he said.;“在第二阶段，我们预计太阳能发电将迎来全球另一波大规模安装，太阳能组件价格可能会略微调整到不太理想的水平，”他说。
+略有
+
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module prices may slightly adjust," he said.;“在第二阶段，我们预计太阳能发电将在全球范围内迎来另一波大规模安装，太阳能组件价格可能会略有调整，”他说。
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module prices may slightly adjust to a less pricier level," he said.;“在第二阶段，我们预计太阳能发电将迎来全球另一波大规模安装，太阳能组件价格可能会略微调整到价格较低的水平，”他说。
+略有
+
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar power prices may slightly adjust," he said.;“在第二阶段，我们预计太阳能发电将迎来全球另一波大规模安装，太阳能价格可能会略有调整，”他说。
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar power prices may slightly adjust to a less pricier level," he said.;“在第二阶段，我们预计太阳能发电将在全球范围内迎来另一波大规模安装，太阳能价格可能会略微调整到价格较低的水平，”他说。
+略有
+
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module readings may slightly adjust," he said.;“在第二阶段，我们预计太阳能发电将迎来全球另一波大规模安装，太阳能组件读数可能会略有调整，”他说。
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module readings may slightly adjust to a less sensitive level," he said.;“在第二阶段，我们预计太阳能发电将在全球范围内迎来另一波大规模安装，太阳能组件读数可能会略微调整到不太敏感的水平，”他说。
+略有
+
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module readings may slightly adjust," he said.;“在第二阶段，我们预计太阳能发电将迎来全球另一波大规模安装，太阳能组件读数可能会略有调整，”他说。
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module readings may slightly adjust to a less pricier level," he said.;“在第二阶段，我们预计太阳能发电将在全球范围内迎来另一波大规模安装，太阳能组件读数可能会略微调整到价格较低的水平，”他说。
+略有
+
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module times may slightly adjust," he said.;“在第二阶段，我们预计太阳能发电将迎来全球另一波大规模安装浪潮，太阳能组件时间可能会略有调整，”他说。
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module times may slightly adjust to a less pricier level," he said.;“在第二阶段，我们预计太阳能发电将在全球范围内迎来另一波大规模安装，太阳能组件时间可能会略微调整到价格较低的水平，”他说。
+浪潮 略有
+
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module prices might slightly adjust," he said.;“在第二阶段，我们预计太阳能发电将迎来全球另一波大规模安装，太阳能组件价格可能会略有调整，”他说。
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module prices might slightly adjust to a less pricier level," he said.;“在第二阶段，我们预计太阳能发电将在全球范围内迎来另一波大规模安装，太阳能组件价格可能会略微调整到价格较低的水平，”他说。
+略有
+
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module prices may slightly adjust," he said.;“在第二阶段，我们预计太阳能发电将在全球范围内迎来另一波大规模安装，太阳能组件价格可能会略有调整，”他说。
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module prices may slightly adjust to a less desirable level," he said.;“在第二阶段，我们预计太阳能发电将迎来全球另一波大规模安装，太阳能组件价格可能会略微调整到不太理想的水平，”他说。
+略有
+
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module prices may slightly adjust," he said.;“在第二阶段，我们预计太阳能发电将在全球范围内迎来另一波大规模安装，太阳能组件价格可能会略有调整，”他说。
+"In the second phase, we expect solar power will embrace another wave of massive installations worldwide that solar module prices may slightly adjust to a less pricier level," he said.;“在第二阶段，我们预计太阳能发电将迎来全球另一波大规模安装，太阳能组件价格可能会略微调整到价格较低的水平，”他说。
+略有
+
+"In the second phase, we expect solar power will embrace another wave of massive installations given that solar power prices may slightly adjust," he said.;“在第二阶段，我们预计太阳能发电将迎来另一波大规模安装，因为太阳能价格可能会略有调整，”他说。
+"In the second phase, we expect solar power will embrace another wave of massive installations given that solar power prices may slightly adjust to a less pricier level," he said.;“在第二阶段，我们预计太阳能发电将迎来另一波大规模安装，因为太阳能发电价格可能会略微调整到价格较低的水平，”他说。
+略有
+
+"In the second half, we expect solar power will embrace another wave of massive installations given that solar power prices may slightly adjust," he said.;“在下半年，我们预计太阳能发电将迎来另一波大规模安装，因为太阳能价格可能会略有调整，”他说。
+"In the second half, we expect solar power will embrace another wave of massive installations given that solar power prices may slightly adjust to a less pricier level," he said.;“在下半年，我们预计太阳能发电将迎来另一波大规模安装，因为太阳能发电价格可能会略微调整到价格较低的水平，”他说。
+略有
+
+"In the second half, we expect solar power will embrace another wave of massive installations given that solar power prices may slightly adjust," he said.;“在下半年，我们预计太阳能发电将迎来另一波大规模安装，因为太阳能价格可能会略有调整，”他说。
+"In the second half, we expect solar power will embrace another wave of massive installations given that solar power prices may slightly adjust to a less pricier level," he said.;“在下半年，我们预计太阳能发电将迎来另一波大规模安装，因为太阳能发电价格可能会略微调整到价格较低的水平，”他说。
+略有
+
+
+sent_id = 88
+add [0]
+add [1]
+Known, the robot allows its operators to feel like they're underwater explorers.;众所周知，机器人让操作员感觉自己是水下探险家。
+Known as OceanOneK, the robot allows its operators to feel like they're underwater explorers.;该机器人被称为OceanOneK，它让操作员感觉自己是水下探险家。
+众所周知
+
+add [2]
+
+sent_id = 89
+add [0]
+add [1]
+add [2]
+
+sent_id = 90
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 91
+add [0]
+add [1]
+A television commercial for a male body spray has been taken off the air in India,.;一个男性身体喷雾的电视广告已经在印度的空中撤下。
+A television commercial for a male body spray has been taken off the air in India, after critics said.;批评人士说，在印度，一则男性身体喷雾剂的电视广告已被撤下。
+空中
+
+add [2]
+add [3]
+
+sent_id = 92
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 93
+add [0]
+summer's hits The Rise of Gru can continue to rack up ticket sales.;夏季的热门歌曲《Gru的崛起》可以继续提高门票销量。
+Also,, this summer's hits like "Top Gun: Maverick" and "Minions: The Rise of Gru" can continue to rack up ticket sales.;此外，今年夏天的热门歌曲“Top Gun：Maverick”和“Minions：The Rise of Gru”可以继续提高门票销量。
+崛起
+
+add [1]
+add [2]
+Also, with the lack, this summer's hits like "Top Gun: Maverick" and "Minions: The Rise of Gru" can continue to rack up ticket sales.;此外，由于缺乏，今年夏天的热门歌曲“Top Gun：Maverick”和“Minions：The Rise of Gru”可以继续提高门票销量。
+Also, with the lack of films hitting theaters, this summer's hits like "Top Gun: Maverick" and "Minions: The Rise of Gru" can continue to rack up ticket sales.;此外，由于缺乏电影进入影院，今年夏天的热门电影“Top Gun：Maverick”和“Minions：The Rise of Gru”可以继续提高票房收入。
+歌曲 门票 销量
+
+
+sent_id = 94
+add [0]
+add [1]
+
+sent_id = 95
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+
+sent_id = 96
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 97
+add [0]
+add [1]
+
+sent_id = 98
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 99
+add [0]
+add [1]
+

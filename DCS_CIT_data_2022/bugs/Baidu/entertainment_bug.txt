@@ -1,0 +1,2616 @@
+sent_id = 0
+add [0]
+add [1]
+add [2]
+According to Mero Lopez was he started.;根据梅罗·洛佩兹的说法，他是个新手。
+According to Mero, Lopez was working and was looking to expand he started.;据梅罗说，洛佩兹正在工作，并希望在他开始时扩大规模。
+新手
+
+add [3]
+According to Mero, Lopez was working and was looking to expand he started.;据梅罗说，洛佩兹正在工作，并希望在他开始时扩大规模。
+According to Mero, Lopez was working for a small company and was looking to expand he started.;据梅罗说，洛佩兹当时在一家小公司工作，并希望在他开始的时候扩大业务。
+规模
+
+add [4]
+add [5]
+According to Mero, Lopez was working for a small company that specialized and was looking to expand he started.;据梅罗说，洛佩兹当时在一家小公司工作，该公司是一家专业化的公司，并希望在他创办的公司进行扩张。
+According to Mero, Lopez was working for a small company that specialized in independent films and was looking to expand he started.;据梅罗说，洛佩兹当时在一家专门从事独立电影的小公司工作，并希望在他创办的公司进行扩张。
+专业化
+
+add [6]
+add [7]
+According to Mero, Lopez was working for a small company that specialized in independent films and was looking to expand into management he started.;据梅罗说，洛佩兹在一家小公司工作，该公司专门从事独立电影，并希望扩展到他创办的管理层。
+According to Mero, Lopez was working for a small company that specialized in independent films and was looking to expand into management when he started advocating.;据梅罗说，洛佩兹当时在一家专门从事独立电影的小公司工作，并在开始倡导独立电影时希望扩大到管理层。
+创办
+
+add [8]
+According to Mero, Lopez was working for a small company that specialized in independent films and was looking to expand into management when he started advocating.;据梅罗说，洛佩兹当时在一家专门从事独立电影的小公司工作，并在开始倡导独立电影时希望扩大到管理层。
+According to Mero, Lopez was working for a small company that specialized in independent films and was looking to expand into management when he started advocating for Mero.;据梅洛说，洛佩兹当时在一家专门从事独立电影的小公司工作，他开始为梅洛代言时，正打算扩展到管理层。
+倡导 希望
+
+
+sent_id = 1
+add [0]
+add [1]
+
+sent_id = 2
+add [0]
+add [1]
+The movies outlined and the glimpse provided indicate Marvel is eager to restore the epic scope.;概述的电影和提供的一瞥表明，漫威渴望恢复史诗般的视野。
+The movies outlined for season 5 and the glimpse provided indicate Marvel is eager to restore the epic scope.;第五季的电影大纲和提供的一瞥表明，漫威渴望恢复史诗般的视野。
+概述
+
+The movies outlined and the glimpse provided indicate Marvel is eager to restore the epic scope.;概述的电影和提供的一瞥表明，漫威渴望恢复史诗般的视野。
+The movies outlined for Phase 5 and the glimpse provided indicate Marvel is eager to restore the epic scope.;第五阶段的电影和提供的一瞥表明，漫威渴望恢复史诗般的视野。
+概述
+
+add [2]
+The movies outlined for season 5 and the glimpse provided indicate Marvel is eager to restore the epic scope.;第五季的电影大纲和提供的一瞥表明，漫威渴望恢复史诗般的视野。
+The movies outlined for season 5 and the glimpse provided of Phase 6 indicate Marvel is eager to restore the epic scope.;第五季的电影大纲和第六阶段的一瞥表明漫威渴望恢复史诗般的视野。
+提供
+
+add [3]
+The movies outlined for episode 5 and the glimpse provided of Phase 6 indicate Marvel is eager to restore the epic scope.;第五集概述的电影和第六阶段提供的一瞥表明，漫威渴望恢复史诗般的视野。
+The movies outlined for episode 5 and the glimpse provided of Phase 6 indicate that Marvel is eager to restore the epic scope associated.;第五集概述的电影和第六阶段提供的一瞥表明，漫威渴望恢复与之相关的史诗般的范围。
+视野
+
+The movies outlined for Phase 5 and the glimpse provided of Phase 6 indicate Marvel is eager to restore the epic scope.;第5阶段概述的电影和第6阶段提供的一瞥表明，漫威渴望恢复史诗般的视野。
+The movies outlined for Phase 5 and the glimpse provided of Phase 6 indicate that Marvel is eager to restore the epic scope associated.;第5阶段概述的电影和第6阶段提供的一瞥表明，漫威渴望恢复与之相关的史诗般的范围。
+视野
+
+add [4]
+add [5]
+add [6]
+The movies outlined for season 5 and the glimpse provided of Phase 6 indicate that Marvel is eager to restore the epic scope associated with the story that culminated.;第五季的电影大纲和第六阶段的一瞥表明，漫威渴望恢复与最终故事相关的史诗般的范围。
+The movies outlined for season 5 and the glimpse provided of Phase 6 indicate that Marvel is eager to restore the epic scope associated with the story that culminated in "Endgame.;第五季的电影大纲和第六阶段的一瞥表明，漫威渴望恢复以《终局》为高潮的故事的史诗般范围。
+相关
+
+The movies outlined for episode 5 and the glimpse provided of Phase 6 indicate that Marvel is eager to restore the epic scope associated with the story that culminated.;第五集概述的电影和第六阶段提供的一瞥表明，漫威渴望恢复与最终故事相关的史诗范围。
+The movies outlined for episode 5 and the glimpse provided of Phase 6 indicate that Marvel is eager to restore the epic scope associated with the story that culminated in "Endgame.;第五集概述的电影和第六阶段提供的一瞥表明，漫威渴望恢复以《终局》为高潮的故事的史诗般范围。
+相关
+
+The movies outlined for Phase 5 and the glimpse provided of Phase 6 indicate that Marvel is eager to restore the epic scope associated with the story that culminated.;第五阶段概述的电影和第六阶段提供的一瞥表明，漫威渴望恢复与最终故事相关的史诗范围。
+The movies outlined for Phase 5 and the glimpse provided of Phase 6 indicate that Marvel is eager to restore the epic scope associated with the story that culminated in "Endgame.;第五阶段概述的电影和第六阶段提供的一瞥表明，漫威渴望恢复以《终局》为高潮的故事的史诗般范围。
+相关
+
+
+sent_id = 3
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+
+sent_id = 4
+add [0]
+add [1]
+
+sent_id = 5
+add [0]
+you honor my father Paul Sorvino.;你尊敬我父亲保罗·索维诺。
+", you honor my father, Paul Sorvino,," she said.;“这就是我父亲保罗·索维诺的荣耀，”她说。
+尊敬
+
+add [1]
+", you honor my father, Paul Sorvino,," she said.;“这就是我父亲保罗·索维诺的荣耀，”她说。
+"When you give me this award, you honor my father, Paul Sorvino,," she said.;“当你给我这个奖项时，你是在纪念我的父亲保罗·索维诺，”她说。
+荣耀
+
+add [2]
+add [3]
+add [4]
+add [5]
+
+sent_id = 6
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+
+sent_id = 7
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 8
+add [0]
+there being a problem with having the best of both worlds.;这两个世界都是最好的，这是一个问题。
+But I do not see there being a problem with having the best of both worlds.;但我不认为两者兼得会有什么问题。
+世界
+
+
+sent_id = 9
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 10
+add [0]
+Marvel was going through a phase.;漫威正在经历一个阶段。
+Accomplish that, and we might look around and say Marvel was going through a phase.;要做到这一点，我们可能会环顾四周，说惊奇漫画正在经历一个阶段。
+漫威
+
+add [1]
+Accomplish that, and we might look around and say Marvel was going through a phase.;要做到这一点，我们可能会环顾四周，说惊奇漫画正在经历一个阶段。
+Accomplish that, and by 2025 we might look around and say Marvel was going through a phase.;要做到这一点，到2025年，我们可能会环顾四周，说漫威正在经历一个阶段。
+惊奇 漫画
+
+add [2]
+
+sent_id = 11
+add [0]
+She He lived his truth.;她和他按照自己的真理生活。
+She also honored his uncle He lived his truth.;她还向他的叔叔表示敬意，因为他遵循了自己的真理。
+生活
+
+add [1]
+add [2]
+She also honored her when in her 2019 speech He lived his truth.;当他在2019年的演讲中实践了自己的真理时，她也向她致敬。
+She also honored her when in her 2019 speech while accepting a GLAAD award: "He lived his truth.;她在2019年接受GLAAD奖时的演讲中也对她表示了敬意：“他实践了自己的真理。
+致敬
+
+She also honored her when in his 2019 speech He lived his truth.;当他在2019年的演讲中实践了自己的真理时，她也向她致敬。
+She also honored her when in his 2019 speech while accepting a GLAAD award: "He lived his truth.;在2019年接受GLAAD奖的演讲中，她还向她表示敬意：“他实践了自己的真理。
+致敬
+
+She also honored her when in a 2019 speech He lived his truth.;在2019年的一次演讲中，他实践了自己的真理，她也向她致敬。
+She also honored her when in a 2019 speech while accepting a GLAAD award: "He lived his truth.;她在2019年接受GLAAD奖时的一次演讲中也对她表示了敬意：“他实践了自己的真理。
+致敬
+
+
+sent_id = 12
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+"We similar, we not congruent," Mero said of him and Desus during Hoffa's podcast, which appears to have been recorded.;“我们是相似的，我们不是一致的，”梅罗在霍法的播客中谈到他和德苏斯，这似乎是有记录的。
+"We similar, we not congruent," Mero said of him and Desus during Hoffa's podcast, which appears to have been recorded before the split.;“我们相似，我们不一致，”梅罗在霍法的播客中谈到他和德苏斯时说，这似乎是在分裂之前录制的。
+记录
+
+
+sent_id = 13
+add [0]
+add [1]
+Smith charged the stage and hit Rock, Jada Pinkett Smith's hairstyle,.;史密斯冲向舞台，击中了岩石，贾达·平克特·史密斯的发型，。
+Smith charged the stage and hit Rock after he made a joke, Jada Pinkett Smith's hairstyle,.;史密斯开了一个玩笑，贾达·平克特·史密斯的发型，然后冲上舞台，撞上了岩石，。
+冲向 击中
+
+add [2]
+add [3]
+add [4]
+Smith charged the stage and hit Rock after he made a joke about his wife, Jada Pinkett Smith's hairstyle, who suffers.;史密斯在开了一个关于他妻子贾达·平克特·史密斯的发型的玩笑后，冲上了舞台，撞上了岩石。
+Smith charged the stage and hit Rock after he made a joke about his wife, Jada Pinkett Smith's hairstyle, who suffers from alopecia.;史密斯开了一个关于他妻子贾达·平克特·史密斯（Jada Pinkett Smith）患有脱发的玩笑后，冲上了舞台，大发雷霆。
+发型 岩石
+
+
+sent_id = 14
+add [0]
+Renaissance is.;文艺复兴正在兴起。
+"Renaissance" is that,, and the Grammy winner's eagerly awaited,.;“文艺复兴”是指，以及格莱美奖得主热切期待的，。
+兴起
+
+add [1]
+"Renaissance" is that,, and the Grammy winner's eagerly awaited,.;“文艺复兴”是指，以及格莱美奖得主热切期待的，。
+"Renaissance" is that, of course, and the Grammy winner's eagerly awaited,.;“文艺复兴”当然是人们期待已久的格莱美奖得主，。
+热切
+
+add [2]
+add [3]
+
+sent_id = 15
+add [0]
+add [1]
+add [2]
+
+sent_id = 16
+add [0]
+add [1]
+add [2]
+
+sent_id = 17
+add [0]
+add [1]
+"And, some, not all, are aspiring to do things.;“而且，有些人，而不是所有人，有志于做事。
+"And, some of us, not all, are aspiring to do things.;“而且，我们中的一些人，不是所有人，都渴望做事。
+有志于
+
+add [2]
+add [3]
+add [4]
+"And, some of us, not all of us, are aspiring to do things outside.;“而且，我们中的一些人，而不是所有人，都渴望在外面做事。
+"And, some of us, not all of us, are aspiring to do things outside of the class.;“而且，我们中的一些人，而不是所有人，都渴望做课外活动。
+做事
+
+
+sent_id = 18
+add [0]
+she said before her death The Death of the Mighty Thor.;她在临死前说强大的雷神之死。
+Remember that, "she said before her death The Death of the Mighty Thor.;记住这一点，”她在临死前说，“伟大的雷神之死。”。
+强大
+
+add [1]
+add [2]
+
+sent_id = 19
+add [0]
+it's going to be a long act.;这将是一场漫长的演出。
+"Well, don't worry, it's going to be a long act," he said, clarifying his comments.;“好吧，别担心，这将是一个漫长的过程，”他说，并澄清了自己的评论。
+演出
+
+
+sent_id = 20
+add [0]
+the Marvel Cinematic Universe introduces a version of Jane Foster.;漫威电影宇宙介绍了简·福斯特的一个版本。
+With the new day the Marvel Cinematic Universe introduces a version of Jane Foster.;随着新的一天的到来，漫威电影宇宙推出了简·福斯特的一个版本。
+介绍
+
+add [1]
+With the new film the Marvel Cinematic Universe introduces a version of Jane Foster.;在新电影《漫威电影宇宙》中，简·福斯特的一个版本问世。
+With the new film, the Marvel Cinematic Universe introduces a version of Jane Foster.;在这部新片中，漫威电影宇宙推出了简·福斯特的一个版本。
+问世
+
+add [2]
+add [3]
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years ago.;凭借这部新电影，《漫威电影宇宙》推出了简·福斯特的一个版本，她在近10年前首次亮相。
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the comics almost 10 years ago.;随着新的一部，漫威电影宇宙推出了简·福斯特的一个版本，她在近10年前首次出现在漫画中。
+亮相
+
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years ago.;凭借这部新电影，《漫威电影宇宙》推出了简·福斯特的一个版本，她在近10年前首次亮相。
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the series almost 10 years ago.;在这部新电影中，漫威电影宇宙推出了简·福斯特的一个版本，她在近10年前首次出现在该系列中。
+亮相
+
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years ago.;凭借这部新电影，《漫威电影宇宙》推出了简·福斯特的一个版本，她在近10年前首次亮相。
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the comics almost 10 years ago.;随着新的一部，漫威电影宇宙推出了简·福斯特的一个版本，她在近10年前首次出现在漫画中。
+亮相
+
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years ago.;凭借这部新电影，《漫威电影宇宙》推出了简·福斯特的一个版本，她在近10年前首次亮相。
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the comics almost 10 years ago.;随着新的一部，漫威电影宇宙推出了简·福斯特的一个版本，她在近10年前首次出现在漫画中。
+亮相
+
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years ago.;凭借这部新电影，《漫威电影宇宙》推出了简·福斯特的一个版本，她在近10年前首次亮相。
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the series almost 10 years ago.;在这部新电影中，漫威电影宇宙推出了简·福斯特的一个版本，她在近10年前首次出现在该系列中。
+亮相
+
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years ago.;凭借这部新电影，《漫威电影宇宙》推出了简·福斯特的一个版本，她在近10年前首次亮相。
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the comics almost 10 years ago.;随着新的一部，漫威电影宇宙推出了简·福斯特的一个版本，她在近10年前首次出现在漫画中。
+亮相
+
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years later.;凭借这部新电影，《漫威电影宇宙》推出了简·福斯特的一个版本，她在近10年后首次亮相。
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the comics almost 10 years later.;随着新的一部，漫威电影宇宙介绍了简·福斯特的一个版本，她在将近10年后首次出现在漫画中。
+亮相
+
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years later.;凭借这部新电影，《漫威电影宇宙》推出了简·福斯特的一个版本，她在近10年后首次亮相。
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the series almost 10 years later.;在这部新电影中，漫威电影宇宙推出了简·福斯特的一个版本，她在近10年后首次出现在该系列中。
+亮相
+
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years later.;凭借这部新电影，《漫威电影宇宙》推出了简·福斯特的一个版本，她在近10年后首次亮相。
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the comics almost 10 years later.;随着新的一部，漫威电影宇宙介绍了简·福斯特的一个版本，她在将近10年后首次出现在漫画中。
+亮相
+
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years ago.;凭借这部新电影，《漫威电影宇宙》推出了简·福斯特的一个版本，她在近10年前首次亮相。
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the comics almost 10 years ago.;随着新的一部，漫威电影宇宙推出了简·福斯特的一个版本，她在近10年前首次出现在漫画中。
+亮相
+
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years ago.;凭借这部新电影，《漫威电影宇宙》推出了简·福斯特的一个版本，她在近10年前首次亮相。
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the series almost 10 years ago.;在这部新电影中，漫威电影宇宙推出了简·福斯特的一个版本，她在近10年前首次出现在该系列中。
+亮相
+
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years ago.;凭借这部新电影，《漫威电影宇宙》推出了简·福斯特的一个版本，她在近10年前首次亮相。
+With the new one, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the comics almost 10 years ago.;随着新的一部，漫威电影宇宙推出了简·福斯特的一个版本，她在近10年前首次出现在漫画中。
+亮相
+
+With the new film, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years later.;在这部新片中，漫威电影宇宙介绍了简·福斯特的一个版本，她在近10年后首次亮相。
+With the new film, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the film almost 10 years later.;在这部新片中，漫威电影宇宙介绍了简·福斯特的一个版本，她在将近10年后首次出现在电影中。
+亮相
+
+With the new film, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years later.;在这部新片中，漫威电影宇宙介绍了简·福斯特的一个版本，她在近10年后首次亮相。
+With the new film, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the series almost 10 years later.;在这部新片中，漫威电影宇宙介绍了简·福斯特的一个版本，她在将近10年后首次出现在该系列中。
+亮相
+
+With the new film, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared almost 10 years later.;在这部新片中，漫威电影宇宙介绍了简·福斯特的一个版本，她在近10年后首次亮相。
+With the new film, the Marvel Cinematic Universe introduces a version of Jane Foster who first appeared in the comics almost 10 years later.;在这部新片中，漫威电影宇宙介绍了简·福斯特的一个版本，她在将近10年后首次出现在漫画中。
+亮相
+
+
+sent_id = 21
+add [0]
+add [1]
+add [2]
+"on ABC in canada and will host the main show.;在加拿大的ABC电视台播出，并将主持主要节目。
+"on ABC in canada and will host the main show for a year.;他将在加拿大ABC电视台主持一年的主要节目。
+播出
+
+"on ABC in canada and will host the main show.;在加拿大的ABC电视台播出，并将主持主要节目。
+"on ABC in canada and will host the main show for a week.;他将在加拿大ABC电视台主持一周的主要节目。
+播出
+
+"on ABC in canada and will host the main show.;在加拿大的ABC电视台播出，并将主持主要节目。
+"on ABC in canada and will host the main show for a period.;他将在加拿大ABC电视台主持一段时间的主要节目。
+播出
+
+"on ABC in australia and will host the main show.;在澳大利亚的ABC电视台播出，并将主持主要节目。
+"on ABC in australia and will host the main show for a year.;他将在澳大利亚ABC电视台主持一年的主要节目。
+播出
+
+add [3]
+add [4]
+"on ABC in australia and will host the main show for a week of time.;在澳大利亚的ABC电视台播出，并将主持为期一周的主要节目。
+"on ABC in australia and will host the main show for a week of time beginning.;在澳大利亚的ABC电视台播出，并将主持一周的主要节目。
+为期
+
+add [5]
+"on ABC in canada and will host the main show for a week of shows beginning.;他将在加拿大ABC电视台主持为期一周的主要节目。
+"on ABC in canada and will host the main show for a week of shows beginning in January.;他将在加拿大ABC电视台主持一周的主要节目，从一月份开始。
+为期
+
+"on ABC in australia and will host the main show for a week of shows beginning.;在澳大利亚的ABC电视台播出，并将主持为期一周的主要节目。
+"on ABC in australia and will host the main show for a week of shows beginning in January.;他将在澳大利亚ABC电视台主持一周的主要节目，从一月份开始。
+播出 为期
+
+"on ABC in primetime and will host the main show for a week of shows beginning.;在美国广播公司黄金时段播出，并将主持为期一周的主要节目。
+"on ABC in primetime and will host the main show for a week of shows beginning in January.;“在美国广播公司黄金时段播出，并将在一月份开始的一周内主持主要节目。
+为期
+
+
+sent_id = 22
+add [0]
+add [1]
+add [2]
+
+sent_id = 23
+add [0]
+add [1]
+Producers for the beloved game show have decided to keep Mayim Bialik Ken Jennings in place as Jeopardy.;深受喜爱的游戏节目制作人决定保留马伊姆·比亚利克·肯·詹宁斯作为《危险边缘》的角色。
+Producers for the beloved game show have decided to keep former "Big Bang Theory" star Mayim Bialik and champ Ken Jennings in place as Jeopardy.;备受喜爱的游戏节目制作人决定保留前《生活大爆炸》明星玛伊姆·比亚利克和冠军肯·詹宁斯饰演的《危险边缘》。
+角色
+
+add [2]
+add [3]
+Producers for the beloved game show have decided to keep former "Big Bang Theory" star Mayim Bialik and champ Ken Jennings in place as "Jeopardy.;备受喜爱的游戏节目制作人决定保留前《生活大爆炸》明星玛伊姆·比亚利克和冠军肯·詹宁斯饰演的《危险边缘》。
+Producers for the beloved game show have decided to keep former "Big Bang Theory" star Mayim Bialik and champ Ken Jennings in place as "Jeopardy" hosts,.;备受喜爱的游戏节目制作人决定保留前《生活大爆炸》明星玛伊姆·比亚利克和冠军肯·詹宁斯担任《危险》主持人，。
+饰演 边缘
+
+add [4]
+add [5]
+
+sent_id = 24
+add [0]
+add [1]
+Bey honors him Uncle Jonny made my dress.;贝向他致敬，我的衣服是琼尼叔叔做的。
+Bey honors him with him: "Uncle Jonny made my dress," she sings on "Heated.;贝用他来纪念他：“琼尼叔叔做了我的衣服，”她在“热”上唱道。
+致敬
+
+add [2]
+Bey honors him with him: "Uncle Jonny made my dress," she sings on "Heated.;贝用他来纪念他：“琼尼叔叔做了我的衣服，”她在“热”上唱道。
+Bey honors him with him of the greatest songs: "Uncle Jonny made my dress," she sings on "Heated.;贝用他最伟大的歌曲向他致敬：“琼尼叔叔做了我的衣服，”她在“热”上唱道。
+纪念
+
+Bey honors him with him: "Uncle Jonny made my dress," she sings on "Heated.;贝用他来纪念他：“琼尼叔叔做了我的衣服，”她在“热”上唱道。
+Bey honors him with him of the greatest song: "Uncle Jonny made my dress," she sings on "Heated.;贝伊以他最伟大的歌曲《乔尼叔叔做了我的衣服》向他致敬，她在《加热》中唱道。
+纪念
+
+Bey honors him with him: "Uncle Jonny made my dress," she sings on "Heated.;贝用他来纪念他：“琼尼叔叔做了我的衣服，”她在“热”上唱道。
+Bey honors him with him of the greatest lines: "Uncle Jonny made my dress," she sings on "Heated.;贝伊用他最伟大的诗句向他致敬：“琼尼叔叔做了我的衣服，”她在“热情洋溢”中唱道。
+纪念
+
+Bey honors him with one: "Uncle Jonny made my dress," she sings on "Heated.;贝伊用一首歌向他致敬：“琼尼叔叔做了我的衣服，”她在“加热”节目中唱道。
+Bey honors him with one of the three lines: "Uncle Jonny made my dress," she sings on "Heated.;贝用三句台词中的一句来纪念他：“琼尼叔叔做了我的衣服，”她在“热”上唱道。
+致敬 节目
+
+Bey honors him with one: "Uncle Jonny made my dress," she sings on "Heated.;贝伊用一首歌向他致敬：“琼尼叔叔做了我的衣服，”她在“加热”节目中唱道。
+Bey honors him with one of the greatest songs: "Uncle Jonny made my dress," she sings on "Heated.;贝用一首最伟大的歌曲来纪念他：“乔尼叔叔做了我的衣服，”她在“加热”节目中唱道。
+致敬
+
+Bey honors him with one: "Uncle Jonny made my dress," she sings on "Heated.;贝伊用一首歌向他致敬：“琼尼叔叔做了我的衣服，”她在“加热”节目中唱道。
+Bey honors him with one of the greatest hits: "Uncle Jonny made my dress," she sings on "Heated.;贝伊以一首最伟大的歌曲向他致敬：“乔尼叔叔做了我的裙子，”她在“热”中唱道。
+衣服 节目
+
+Bey honors him with one: "Uncle Jonny made my dress," she sings on "Heated.;贝伊用一首歌向他致敬：“琼尼叔叔做了我的衣服，”她在“加热”节目中唱道。
+Bey honors him with one of the greatest lines: "Uncle Jonny made my dress," she sings on "Heated.;贝用一句最伟大的台词向他致敬：“琼尼叔叔做了我的衣服，”她在“热”上唱道。
+节目
+
+add [3]
+Bey honors him with him of the greatest song: "Uncle Jonny made my dress," she sings on "Heated.;贝伊以他最伟大的歌曲《乔尼叔叔做了我的衣服》向他致敬，她在《加热》中唱道。
+Bey honors him with him of the greatest song on the album: "Uncle Jonny made my dress," she sings on "Heated.;Bey以专辑中最伟大的歌曲“Jonny叔叔做了我的裙子”向他致敬，她在“加热”中唱道。
+衣服
+
+Bey honors him with him of the greatest song: "Uncle Jonny made my dress," she sings on "Heated.;贝伊以他最伟大的歌曲《乔尼叔叔做了我的衣服》向他致敬，她在《加热》中唱道。
+Bey honors him with him of the greatest song on the album: "Uncle Jonny made my dress," she sings on "Heated.;Bey以专辑中最伟大的歌曲“Jonny叔叔做了我的裙子”向他致敬，她在“加热”中唱道。
+衣服
+
+Bey honors him with him of the greatest lines: "Uncle Jonny made my dress," she sings on "Heated.;贝伊用他最伟大的诗句向他致敬：“琼尼叔叔做了我的衣服，”她在“热情洋溢”中唱道。
+Bey honors him with him of the greatest lines on the show: "Uncle Jonny made my dress," she sings on "Heated.;贝在节目中用最伟大的台词向他致敬：“琼尼叔叔做了我的衣服，”她在“热”上唱道。
+诗句
+
+Bey honors him with one of the greatest songs: "Uncle Jonny made my dress," she sings on "Heated.;贝用一首最伟大的歌曲来纪念他：“乔尼叔叔做了我的衣服，”她在“加热”节目中唱道。
+Bey honors him with one of the greatest songs on the album: "Uncle Jonny made my dress," she sings on "Heated.;贝伊用专辑中最伟大的歌曲之一向他致敬：“乔尼叔叔做了我的衣服，”她在“加热”中唱道。
+纪念 节目
+
+Bey honors him with one of the greatest songs: "Uncle Jonny made my dress," she sings on "Heated.;贝用一首最伟大的歌曲来纪念他：“乔尼叔叔做了我的衣服，”她在“加热”节目中唱道。
+Bey honors him with one of the greatest songs on the show: "Uncle Jonny made my dress," she sings on "Heated.;贝伊用节目中最伟大的歌曲之一向他致敬：“乔尼叔叔做了我的衣服，”她在“加热”节目中唱道。
+纪念
+
+Bey honors him with one of the greatest songs: "Uncle Jonny made my dress," she sings on "Heated.;贝用一首最伟大的歌曲来纪念他：“乔尼叔叔做了我的衣服，”她在“加热”节目中唱道。
+Bey honors him with one of the greatest songs on the album: "Uncle Jonny made my dress," she sings on "Heated.;贝伊用专辑中最伟大的歌曲之一向他致敬：“乔尼叔叔做了我的衣服，”她在“加热”中唱道。
+纪念 节目
+
+Bey honors him with one of the greatest lines: "Uncle Jonny made my dress," she sings on "Heated.;贝用一句最伟大的台词向他致敬：“琼尼叔叔做了我的衣服，”她在“热”上唱道。
+Bey honors him with one of the greatest lines on the show: "Uncle Jonny made my dress," she sings on "Heated.;贝用节目中最伟大的台词之一来纪念他：“琼尼叔叔做了我的衣服，”她在“热”上唱道。
+致敬
+
+Bey honors him with one of the greatest lines: "Uncle Jonny made my dress," she sings on "Heated.;贝用一句最伟大的台词向他致敬：“琼尼叔叔做了我的衣服，”她在“热”上唱道。
+Bey honors him with one of the greatest lines on the series: "Uncle Jonny made my dress," she sings on "Heated.;Bey用系列中最伟大的一句台词来纪念他：“Jonny叔叔做了我的衣服，”她在“加热”节目中唱道。
+致敬
+
+Bey honors him with one of the greatest lines: "Uncle Jonny made my dress," she sings on "Heated.;贝用一句最伟大的台词向他致敬：“琼尼叔叔做了我的衣服，”她在“热”上唱道。
+Bey honors him with one of the greatest lines on the album: "Uncle Jonny made my dress," she sings on "Heated.;贝用专辑中最伟大的一句台词来纪念他：“乔尼叔叔做了我的衣服，”她在“热”上唱道。
+致敬
+
+
+sent_id = 25
+add [0]
+add [1]
+
+sent_id = 26
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+Bronx native Mero described Lopez as a smart, "South side Jamaica, Queens kid" who graduated with honors from college and came.;布朗克斯土生土长的梅罗形容洛佩兹是一个聪明的“牙买加南区，皇后区的孩子”，他以优异的成绩从大学毕业并来到这里。
+Bronx native Mero described Lopez as a smart, "South side Jamaica, Queens kid" who graduated with honors from college and came across Mero's comedy writing.;布朗克斯土生土长的梅洛形容洛佩兹是一个聪明的“牙买加南区，皇后区的孩子”，他以优异的成绩从大学毕业，偶然发现了梅洛的喜剧作品。
+来到
+
+add [5]
+
+sent_id = 27
+add [0]
+how strong the Backstreet Boys are.;后街男孩多强壮啊。
+The successful second leg is showing how strong the Backstreet Boys are.;成功的第二回合展示了后街男孩的实力。
+强壮
+
+add [1]
+The successful second leg is showing how strong the Backstreet Boys are.;成功的第二回合展示了后街男孩的实力。
+The successful second leg of the DNA World Tour is showing how strong the Backstreet Boys are.;DNA世界巡回赛第二站的成功展示了后街男孩的实力。
+回合
+
+add [2]
+The successful second leg of the DNA World Tour is showing how strong the Backstreet Boys are.;DNA世界巡回赛第二站的成功展示了后街男孩的实力。
+The successful second leg of the DNA World Tour is showing how strong the Backstreet Boys are after three decades.;DNA世界巡回赛第二站的成功展示了后街男孩在30年后的强大。
+实力
+
+
+sent_id = 28
+add [0]
+add [1]
+
+sent_id = 29
+add [0]
+There is history behind Mero loyalty to Lopez.;梅罗对洛佩兹的忠诚有着悠久的历史。
+There is history behind Mero's seeming loyalty to Lopez.;梅洛对洛佩兹表面上的忠诚有其历史渊源。
+悠久
+
+add [1]
+add [2]
+There is history behind Mero's seeming loyalty to Lopez that dates back to well.;梅洛表面上对洛佩兹的忠诚背后有一段历史，可以追溯到威尔士。
+There is history behind Mero's seeming loyalty to Lopez that dates back to well before the show came to be.;梅洛似乎对洛佩兹的忠诚背后有着悠久的历史，可以追溯到该剧诞生之前。
+表面 威尔士
+
+
+sent_id = 30
+add [0]
+busted on set great things coming AQUAMAN 2 my.;在我的《水瓶座2》中，拍摄了一部很棒的电影。
+busted on set all great things coming AQUAMAN 2 all my aloha j.;拍摄了《水瓶座2》和《我的阿罗哈j。
+电影
+
+add [1]
+
+sent_id = 31
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+Sweeney didn't want to dive too much into that with the publication saying, "I fully trust in the filmmakers that I work, and I 'm always so excited.;斯威尼不想在这方面投入太多，因为该出版物说：“我完全信任我工作的电影制作人，我总是很兴奋。
+Sweeney didn't want to dive too much into that with the publication saying, "I fully trust in the filmmakers that I work with, and I 'm always so excited.;斯威尼不想在这方面投入太多，因为该出版物说：“我完全信任与我合作的电影制作人，我总是很兴奋。
+工作
+
+add [6]
+add [7]
+Sweeney didn't want to dive too much into that with the publication saying, "I fully trust in the filmmakers that I work with, and I 'm always so excited for.;斯威尼不想在这方面投入太多，因为该出版物说：“我完全信任与我合作的电影制作人，我总是为此感到兴奋。
+Sweeney didn't want to dive too much into that with the publication saying, "I fully trust in the filmmakers that I work with, and I 'm always so excited for whatever Sam writes.;斯威尼不想在这方面投入太多，因为该出版物说：“我完全信任与我合作的电影制作人，无论山姆写什么，我都非常兴奋。
+感到
+
+
+sent_id = 32
+add [0]
+add [1]
+
+sent_id = 33
+add [0]
+add [1]
+add [2]
+A recent report by Puck News cited their manager Victor Lopez as the cause of a schism.;帕克新闻最近的一篇报道称他们的经理维克托·洛佩兹是导致分裂的原因。
+A recent report by Puck News cited their manager Victor Lopez as the cause of a schism between Desus and Mero,.;《冰球新闻》最近的一篇报道称，他们的经纪人维克托·洛佩兹是德苏斯和梅洛之间分歧的原因，。
+导致
+
+add [3]
+add [4]
+
+sent_id = 34
+add [0]
+add [1]
+Devoted Marvel fans will have to wait and see Waititi brings's.;忠实的漫威迷们将不得不拭目以待Waiti带来的惊喜。
+Devoted Marvel fans will have to wait and see how director Taika Waititi brings Jane Foster's Thor.;致力于漫威的粉丝们将不得不拭目以待，看看导演泰卡·维蒂蒂如何带来简·福斯特的《雷神》。
+忠实 迷们 Waiti 惊喜
+
+add [2]
+add [3]
+Devoted Marvel fans will have to wait and see how director Taika Waititi brings Jane Foster's Thor to life.;致力于漫威的粉丝们将不得不拭目以待，看看导演泰卡·维蒂蒂如何将简·福斯特的雷神带入生活。
+Devoted Marvel fans will have to wait and see how director Taika Waititi brings Jane Foster's Thor to life when the film hits theaters this weekend.;致力于漫威的粉丝们将不得不拭目以待，看看导演泰卡·维蒂蒂（Taika Waititi）如何将简·福斯特（Jane Foster）的《雷神》（Thor）在本周末上映。
+带入
+
+
+sent_id = 35
+add [0]
+Peele takes off in.;皮尔在机场起飞。
+Yet Peele also takes off in.;然而，皮尔也在2010年起飞。
+机场
+
+add [1]
+add [2]
+add [3]
+Yet Peele also takes off in a few odd directions, including a weird detour.;然而，皮尔也在几个奇怪的方向上起飞，包括一个奇怪的绕道。
+Yet Peele also takes off in a few odd directions, including a weird detour via flashbacks.;然而，皮尔也朝着一些奇怪的方向发展，包括通过闪回的怪异迂回。
+起飞
+
+add [4]
+Yet Peele also takes off in a few odd directions, including a weird detour via flashbacks.;然而，皮尔也朝着一些奇怪的方向发展，包括通过闪回的怪异迂回。
+Yet Peele also takes off in a few odd directions, including a weird detour via flashbacks that displays his gift.;然而，皮尔也朝着一些奇怪的方向发展，包括通过倒叙来展示他的天赋。
+闪回 迂回
+
+add [5]
+add [6]
+
+sent_id = 36
+add [0]
+don't hold your breath.;不要屏住呼吸。
+That's not an awful bargain, but don't hold your breath.;这不是一个糟糕的交易，但不要屏息以待。
+屏住 呼吸
+
+add [1]
+add [2]
+
+sent_id = 37
+add [0]
+The Academy has sanctioned Smith from attending the Oscars.;学院已批准史密斯参加奥斯卡。
+The Academy has sanctioned Smith by banning him from attending the Oscars.;学院禁止史密斯参加奥斯卡颁奖典礼，以此来制裁他。
+批准
+
+add [1]
+The Academy has sanctioned Smith by banning him from attending the Oscars.;学院禁止史密斯参加奥斯卡颁奖典礼，以此来制裁他。
+The Academy has sanctioned Smith by banning him from attending the Oscars for the next 10 years.;学院已批准史密斯在未来10年内不得参加奥斯卡颁奖典礼。
+禁止 制裁
+
+
+sent_id = 38
+add [0]
+add [1]
+After they run the restaurant will go on tour.;他们经营完饭馆后，他们将继续参观。
+After they run in beverly Hills the restaurant will go on tour.;他们在比佛利山庄跑步后，餐厅将继续巡演。
+经营 参观
+
+After they run the restaurant will go on tour.;他们经营完饭馆后，他们将继续参观。
+After they run in Beverly Hills the restaurant will go on tour.;他们在比佛利山庄跑步后，餐厅将继续巡演。
+经营 参观
+
+add [2]
+After they run in beverly Hills the restaurant will go on tour.;他们在比佛利山庄跑步后，餐厅将继续巡演。
+After they run in beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+跑步
+
+After they run in beverly Hills the restaurant will go on tour.;他们在比佛利山庄跑步后，餐厅将继续巡演。
+After they run in beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago,.;他们在比佛利山（beverly Hills）跑步后，这家餐厅将继续巡演，前往纽瓦约克（nueva York）、迈阿密（Miami）、旧金山（San Francisco）和芝加哥（Chicago），。
+山庄
+
+After they run in beverly Hills the restaurant will go on tour.;他们在比佛利山庄跑步后，餐厅将继续巡演。
+After they run in beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago,.;他们在比佛利山庄（beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+跑步
+
+After they run in beverly Hills the restaurant will go on tour.;他们在比佛利山庄跑步后，餐厅将继续巡演。
+After they run in beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago,.;他们在比佛利山（beverly Hills）跑步后，这家餐厅将继续巡演，前往新奥尔良、迈阿密、旧金山和芝加哥，。
+山庄
+
+After they run in beverly Hills the restaurant will go on tour.;他们在比佛利山庄跑步后，餐厅将继续巡演。
+After they run in beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+跑步
+
+After they run in Beverly Hills the restaurant will go on tour.;他们在比佛利山庄跑步后，餐厅将继续巡演。
+After they run in Beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（Beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+跑步
+
+After they run in Beverly Hills the restaurant will go on tour.;他们在比佛利山庄跑步后，餐厅将继续巡演。
+After they run in Beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago,.;他们在比佛利山（Beverly Hills）跑步后，这家餐厅将继续巡演，前往纽瓦约克（nueva York）、迈阿密（Miami）、旧金山（San Francisco）和芝加哥（Chicago），。
+山庄
+
+After they run in Beverly Hills the restaurant will go on tour.;他们在比佛利山庄跑步后，餐厅将继续巡演。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago,.;他们在比佛利山庄（Beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+跑步
+
+After they run in Beverly Hills the restaurant will go on tour.;他们在比佛利山庄跑步后，餐厅将继续巡演。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago,.;他们在比佛利山（Beverly Hills）跑步后，这家餐厅将继续巡演，前往新奥尔良、迈阿密、旧金山和芝加哥，。
+山庄
+
+After they run in Beverly Hills the restaurant will go on tour.;他们在比佛利山庄跑步后，餐厅将继续巡演。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（Beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+跑步
+
+add [3]
+After they run in beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将抵达纽约、迈阿密、旧金山和芝加哥，。
+Hills
+
+After they run in beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago in the coming years,.;他们在比佛利山庄开业后，这家餐厅将进行巡演，在未来几年将在纽约、迈阿密、旧金山和芝加哥开业，。
+Hills
+
+After they run in beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将抵达纽约、迈阿密、旧金山和芝加哥，。
+Hills
+
+After they run in beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago,.;他们在比佛利山（beverly Hills）跑步后，这家餐厅将继续巡演，前往纽瓦约克（nueva York）、迈阿密（Miami）、旧金山（San Francisco）和芝加哥（Chicago），。
+After they run in beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将在纽约、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步 约克 San Francisco Chicago
+
+After they run in beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago,.;他们在比佛利山（beverly Hills）跑步后，这家餐厅将继续巡演，前往纽瓦约克（nueva York）、迈阿密（Miami）、旧金山（San Francisco）和芝加哥（Chicago），。
+After they run in beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将在纽约、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步 约克 San Francisco Chicago
+
+After they run in beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago,.;他们在比佛利山（beverly Hills）跑步后，这家餐厅将继续巡演，前往纽瓦约克（nueva York）、迈阿密（Miami）、旧金山（San Francisco）和芝加哥（Chicago），。
+After they run in beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将在纽约、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步 约克 San Francisco Chicago
+
+After they run in beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago,.;他们在比佛利山庄（beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将抵达纽约、迈阿密、旧金山和芝加哥，。
+Hills
+
+After they run in beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago,.;他们在比佛利山庄（beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago in the coming years,.;他们在比佛利山庄开业后，这家餐厅将进行巡演，在未来几年将在纽约、迈阿密、旧金山和芝加哥开业，。
+Hills
+
+After they run in beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago,.;他们在比佛利山庄（beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将抵达纽约、迈阿密、旧金山和芝加哥，。
+Hills
+
+After they run in beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago,.;他们在比佛利山（beverly Hills）跑步后，这家餐厅将继续巡演，前往新奥尔良、迈阿密、旧金山和芝加哥，。
+After they run in beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将在新奥尔良、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步
+
+After they run in beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago,.;他们在比佛利山（beverly Hills）跑步后，这家餐厅将继续巡演，前往新奥尔良、迈阿密、旧金山和芝加哥，。
+After they run in beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将在新奥尔良、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步
+
+After they run in beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago,.;他们在比佛利山（beverly Hills）跑步后，这家餐厅将继续巡演，前往新奥尔良、迈阿密、旧金山和芝加哥，。
+After they run in beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming years,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几年将在新奥尔良、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步
+
+After they run in beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago,.;他们在比佛利山（beverly Hills）跑步后，这家餐厅将继续巡演，前往新奥尔良、迈阿密、旧金山和芝加哥，。
+After they run in beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将在新奥尔良、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步
+
+After they run in beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将抵达纽约、迈阿密、旧金山和芝加哥，。
+Hills
+
+After they run in beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago in the coming years,.;他们在比佛利山庄开业后，这家餐厅将进行巡演，在未来几年将在纽约、迈阿密、旧金山和芝加哥开业，。
+Hills
+
+After they run in beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将抵达纽约、迈阿密、旧金山和芝加哥，。
+Hills
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（Beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in Beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将抵达纽约、迈阿密、旧金山和芝加哥，。
+Hills
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（Beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in Beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago in the coming years,.;他们在比佛利山庄开业后，这家餐厅将进行巡演，在未来几年将在纽约、迈阿密、旧金山和芝加哥开业，。
+Hills
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（Beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in Beverly Hills, the restaurant will go on tour, hitting new York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将抵达纽约、迈阿密、旧金山和芝加哥，。
+Hills
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago,.;他们在比佛利山（Beverly Hills）跑步后，这家餐厅将继续巡演，前往纽瓦约克（nueva York）、迈阿密（Miami）、旧金山（San Francisco）和芝加哥（Chicago），。
+After they run in Beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将在纽约、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步 约克 San Francisco Chicago
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago,.;他们在比佛利山（Beverly Hills）跑步后，这家餐厅将继续巡演，前往纽瓦约克（nueva York）、迈阿密（Miami）、旧金山（San Francisco）和芝加哥（Chicago），。
+After they run in Beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将在纽约、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步 约克 San Francisco Chicago
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago,.;他们在比佛利山（Beverly Hills）跑步后，这家餐厅将继续巡演，前往纽瓦约克（nueva York）、迈阿密（Miami）、旧金山（San Francisco）和芝加哥（Chicago），。
+After they run in Beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将在纽约、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步 约克 San Francisco Chicago
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago,.;他们在比佛利山庄（Beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将抵达纽约、迈阿密、旧金山和芝加哥，。
+Hills
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago,.;他们在比佛利山庄（Beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago in the coming years,.;他们在比佛利山庄开业后，这家餐厅将进行巡演，在未来几年将在纽约、迈阿密、旧金山和芝加哥开业，。
+Hills
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago,.;他们在比佛利山庄（Beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New york, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将抵达纽约、迈阿密、旧金山和芝加哥，。
+Hills
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago,.;他们在比佛利山（Beverly Hills）跑步后，这家餐厅将继续巡演，前往新奥尔良、迈阿密、旧金山和芝加哥，。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将在新奥尔良、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago,.;他们在比佛利山（Beverly Hills）跑步后，这家餐厅将继续巡演，前往新奥尔良、迈阿密、旧金山和芝加哥，。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将在新奥尔良、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago,.;他们在比佛利山（Beverly Hills）跑步后，这家餐厅将继续巡演，前往新奥尔良、迈阿密、旧金山和芝加哥，。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming years,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几年将在新奥尔良、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago,.;他们在比佛利山（Beverly Hills）跑步后，这家餐厅将继续巡演，前往新奥尔良、迈阿密、旧金山和芝加哥，。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New orleans, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将在新奥尔良、迈阿密、旧金山和芝加哥开业，。
+Hills 跑步
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（Beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将抵达纽约、迈阿密、旧金山和芝加哥，。
+Hills
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（Beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago in the coming years,.;他们在比佛利山庄开业后，这家餐厅将进行巡演，在未来几年将在纽约、迈阿密、旧金山和芝加哥开业，。
+Hills
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago,.;他们在比佛利山庄（Beverly Hills）开业后，这家餐厅将继续巡演，前往纽约、迈阿密、旧金山和芝加哥，。
+After they run in Beverly Hills, the restaurant will go on tour, hitting New York, Miami, San Francisco and Chicago in the coming months,.;他们在比佛利山庄开业后，这家餐厅将继续巡演，在未来几个月内将抵达纽约、迈阿密、旧金山和芝加哥，。
+Hills
+
+add [4]
+After they run in beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago in the coming weeks,.;他们在比佛利山（beverly Hills）开店后，这家餐厅将继续巡演，在未来几周内将抵达纽瓦约克（nueva York）、迈阿密（Miami）、旧金山（San Francisco）和芝加哥（Chicago），。
+After they run in beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago in the coming weeks, through Spring 2023.;在比佛利山庄开业后，这家餐厅将继续巡演，在接下来的几周里，一直到2023年春季，将在纽约、迈阿密、旧金山和芝加哥开业。
+Hills 开店 约克 San Francisco Chicago
+
+After they run in Beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago in the coming weeks,.;他们在比佛利山（Beverly Hills）开店后，这家餐厅将继续巡演，在未来几周内将抵达纽瓦约克（nueva York）、迈阿密（Miami）、旧金山（San Francisco）和芝加哥（Chicago），。
+After they run in Beverly Hills, the restaurant will go on tour, hitting nueva York, Miami, San Francisco and Chicago in the coming weeks, through Spring 2023.;在比佛利山庄开业后，这家餐厅将继续巡演，在接下来的几周里，一直到2023年春季，将在纽约、迈阿密、旧金山和芝加哥开业。
+Hills 开店 约克 San Francisco Chicago
+
+
+sent_id = 39
+add [0]
+Mario Diaz and Jessica Sherif personalize the presentation.;马里奥·迪亚兹和杰西卡·谢里夫对演讲进行了个性化。
+Directors Mario Diaz and Jessica Sherif also personalize the presentation featured,.;导演马里奥·迪亚兹（Mario Diaz）和杰西卡·谢里夫（Jessica Sherif）也对专题介绍进行了个性化，。
+演讲
+
+add [1]
+Directors Mario Diaz and Jessica Sherif also personalize the presentation featured,.;导演马里奥·迪亚兹（Mario Diaz）和杰西卡·谢里夫（Jessica Sherif）也对专题介绍进行了个性化，。
+Directors Mario Diaz and Jessica Sherif also personalize the presentation by interviewing the children featured,.;导演马里奥·迪亚兹（Mario Diaz）和杰西卡·谢里夫（Jessica Sherif）也通过采访特辑中的儿童来个性化演示，。
+专题
+
+add [2]
+Directors Mario Diaz and Jessica Sherif also personalize the presentation by interviewing the children featured,.;导演马里奥·迪亚兹（Mario Diaz）和杰西卡·谢里夫（Jessica Sherif）也通过采访特辑中的儿童来个性化演示，。
+Directors Mario Diaz and Jessica Sherif also personalize the presentation by interviewing the children of some featured,.;导演马里奥·迪亚兹（Mario Diaz）和杰西卡·谢里夫（Jessica Sherif）也通过采访一些特写演员的孩子来个性化演示，。
+特辑
+
+add [3]
+Directors Mario Diaz and Jessica Sherif also personalize the presentation by interviewing the children of some featured,.;导演马里奥·迪亚兹（Mario Diaz）和杰西卡·谢里夫（Jessica Sherif）也通过采访一些特写演员的孩子来个性化演示，。
+Directors Mario Diaz and Jessica Sherif also personalize the presentation by interviewing the children of some of the past comedians featured,.;导演马里奥·迪亚兹（Mario Diaz）和杰西卡·谢里夫（Jessica Sherif）也通过采访一些过去的喜剧演员的孩子来个性化演示，。
+特写
+
+add [4]
+
+sent_id = 40
+add [0]
+I I will always return to.;我会永远回到你身边。
+If I have a new album I I will always return to.;如果我有一张新专辑，我会一直回到它。
+永远 身边
+
+add [1]
+add [2]
+If I have a second album, which only reflects I I will always return to told CNN.;“如果我有第二张专辑，它只反映了我，我将永远回到CNN，”他告诉CNN。
+If I have a second album, which only reflects on my heart I I will always return to told CNN.;“如果我有第二张专辑，它只反映了我的内心，”我告诉CNN。
+永远 回到
+
+If I have a successful business, it only reflects I I will always return to told CNN.;“如果我有一个成功的企业，它只反映了我将永远回到CNN，”他告诉CNN。
+If I have a successful business, it only reflects on my life I I will always return to told CNN.;“如果我有一个成功的事业，它只会反映我的生活，我将永远回到这里，”CNN告诉记者。
+企业
+
+If I have a successful business, it only reflects I I will always return to told CNN.;“如果我有一个成功的企业，它只反映了我将永远回到CNN，”他告诉CNN。
+If I have a successful business, it only reflects on my own I I will always return to told CNN.;“如果我有一个成功的事业，它只反映在我自己身上，我将永远回到这里，”CNN告诉记者。
+企业
+
+add [3]
+If I have a new album, it only reflects on my life I I will always return to told CNN.;“如果我有一张新专辑，它只反映了我的生活，我将永远回到这里，”CNN告诉记者。
+If I have a new album, it only reflects on my life with the band, I I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我与乐队的生活，我将永远回到那里，”麦克莱恩告诉CNN。
+记者
+
+If I have a new album, it only reflects on my life I I will always return to told CNN.;“如果我有一张新专辑，它只反映了我的生活，我将永远回到这里，”CNN告诉记者。
+If I have a new album, it only reflects on my life with the club, I I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在俱乐部的生活，我将永远回到那里，”麦克莱恩告诉CNN。
+记者
+
+If I have a new album, it only reflects on my life I I will always return to told CNN.;“如果我有一张新专辑，它只反映了我的生活，我将永远回到这里，”CNN告诉记者。
+If I have a new album, it only reflects on my life with the group, I I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我与乐队的生活，我将永远回到那里，”麦克莱恩告诉CNN。
+记者
+
+If I have a new album, it only reflects on my heart I I will always return to told CNN.;“如果我有一张新专辑，它只反映了我的内心，我将永远回到这里，”CNN告诉记者。
+If I have a new album, it only reflects on my heart with the album, I I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我的心与专辑，我将永远回到，”麦克莱恩告诉CNN。
+记者
+
+If I have a new album, it only reflects on my heart I I will always return to told CNN.;“如果我有一张新专辑，它只反映了我的内心，我将永远回到这里，”CNN告诉记者。
+If I have a new album, it only reflects on my heart with the artist, I I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我对这位艺术家的感情，我将永远回到他那里，”麦克莱恩告诉CNN。
+内心 记者
+
+If I have a new album, it only reflects on my heart I I will always return to told CNN.;“如果我有一张新专辑，它只反映了我的内心，我将永远回到这里，”CNN告诉记者。
+If I have a new album, it only reflects on my heart with the group, I I will always return to, "McLean told CNN.;如果我有一张新专辑，它只会反映出我对乐队的感情，我将永远回到那里，”麦克莱恩告诉CNN。
+内心 记者
+
+If I have a second album, which only reflects on my heart I I will always return to told CNN.;“如果我有第二张专辑，它只反映了我的内心，”我告诉CNN。
+If I have a second album, which only reflects on my heart with the group, I I will always return to, "McLean told CNN.;如果我有第二张专辑，这张专辑只反映了我对乐队的感情，我将永远回到那里，”麦克莱恩告诉CNN。
+内心
+
+If I have a second album, it only reflects on my success I I will always return to told CNN.;“如果我有第二张专辑，它只反映了我的成功，我将永远回到CNN，”他告诉CNN。
+If I have a second album, it only reflects on my success with the band, I I will always return to, "McLean told CNN.;如果我有第二张专辑，那只会反映出我在乐队的成功，我会一直回来，”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, it only reflects on my life I I will always return to told CNN.;“如果我有第二张专辑，它只反映了我的生活，我将永远回到这里，”CNN告诉记者。
+If I have a second album, it only reflects on my life with the band, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我与乐队的生活，我将永远回到那里，”麦克莱恩告诉CNN。
+记者
+
+If I have a second album, it only reflects on my life I I will always return to told CNN.;“如果我有第二张专辑，它只反映了我的生活，我将永远回到这里，”CNN告诉记者。
+If I have a second album, it only reflects on my life with the beatles, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我与披头士的生活，我将永远回到那里，”麦克莱恩告诉CNN。
+记者
+
+If I have a second album, it only reflects on my life I I will always return to told CNN.;“如果我有第二张专辑，它只反映了我的生活，我将永远回到这里，”CNN告诉记者。
+If I have a second album, it only reflects on my life with the group, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我与乐队的生活，我将永远回到那里，”麦克莱恩告诉CNN。
+记者
+
+If I have a second album, it only reflects on my heart I I will always return to told CNN.;“如果我有第二张专辑，它只反映了我的内心，我将永远回到这里，”CNN告诉记者。
+If I have a second album, it only reflects on my heart with the album, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我的心与专辑，我将永远回到，”麦克莱恩告诉CNN。
+记者
+
+If I have a second album, it only reflects on my heart I I will always return to told CNN.;“如果我有第二张专辑，它只反映了我的内心，我将永远回到这里，”CNN告诉记者。
+If I have a second album, it only reflects on my heart with the music, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只会用音乐反映我的内心，我将永远回到它，”麦克莱恩告诉CNN。
+记者
+
+If I have a second album, it only reflects on my heart I I will always return to told CNN.;“如果我有第二张专辑，它只反映了我的内心，我将永远回到这里，”CNN告诉记者。
+If I have a second album, it only reflects on my heart with the group, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只会反映出我对乐队的感情，我会永远回到那里，”麦克莱恩告诉CNN。
+内心 记者
+
+If I have a second album, it only reflects on my success I I will always return to told CNN.;“如果我有第二张专辑，它只反映了我的成功，我将永远回到CNN，”他告诉CNN。
+If I have a second album, it only reflects on my success with the band, I I will always return to, "McLean told CNN.;如果我有第二张专辑，那只会反映出我在乐队的成功，我会一直回来，”麦克莱恩告诉CNN。
+永远
+
+If I have a successful career, it only reflects on my life I I will always return to told CNN.;“如果我有一个成功的职业生涯，它只反映了我的生活，我将永远回到这里，”CNN告诉记者。
+If I have a successful career, it only reflects on my life with the club, I I will always return to, "McLean told CNN.;如果我有一个成功的职业生涯，这只会反映我在俱乐部的生活，我将永远回到这里，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful career, it only reflects on my life I I will always return to told CNN.;“如果我有一个成功的职业生涯，它只反映了我的生活，我将永远回到这里，”CNN告诉记者。
+If I have a successful career, it only reflects on my life with the children, I I will always return to, "McLean told CNN.;如果我有一个成功的职业生涯，它只反映了我和孩子们的生活，我将永远回到这里，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful career, it only reflects on my life I I will always return to told CNN.;“如果我有一个成功的职业生涯，它只反映了我的生活，我将永远回到这里，”CNN告诉记者。
+If I have a successful career, it only reflects on my life with the group, I I will always return to, "McLean told CNN.;如果我有一个成功的职业生涯，它只会反映出我在团队中的生活，我将永远回到这里，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful business, it only reflects on my success I I will always return to told CNN.;“如果我有一个成功的企业，它只反映了我的成功，我将永远回到这里，”CNN告诉记者。
+If I have a successful business, it only reflects on my success with the business, I I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映了我在企业中的成功，我将永远回到它，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful business, it only reflects on my success I I will always return to told CNN.;“如果我有一个成功的企业，它只反映了我的成功，我将永远回到这里，”CNN告诉记者。
+If I have a successful business, it only reflects on my success with the club, I I will always return to, "McLean told CNN.;如果我有一个成功的事业，它只反映了我在俱乐部的成功，我将永远回到这里，”麦克莱恩告诉CNN。
+企业 记者
+
+If I have a successful business, it only reflects on my success I I will always return to told CNN.;“如果我有一个成功的企业，它只反映了我的成功，我将永远回到这里，”CNN告诉记者。
+If I have a successful business, it only reflects on my success with the group, I I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映了我在团队中的成功，我将永远回到这里，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful business, it only reflects on my life I I will always return to told CNN.;“如果我有一个成功的事业，它只会反映我的生活，我将永远回到这里，”CNN告诉记者。
+If I have a successful business, it only reflects on my life with the others, I I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只会反映出我和其他人的生活，我将永远回到这里，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful business, it only reflects on my life I I will always return to told CNN.;“如果我有一个成功的事业，它只会反映我的生活，我将永远回到这里，”CNN告诉记者。
+If I have a successful business, it only reflects on my life with the club, I I will always return to, "McLean told CNN.;如果我有一个成功的事业，它只会反映我在俱乐部的生活，我将永远回到这里，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful business, it only reflects on my life I I will always return to told CNN.;“如果我有一个成功的事业，它只会反映我的生活，我将永远回到这里，”CNN告诉记者。
+If I have a successful business, it only reflects on my life with the group, I I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只会反映出我在该集团的生活，我将永远回到那里，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful business, it only reflects on my own I I will always return to told CNN.;“如果我有一个成功的事业，它只反映在我自己身上，我将永远回到这里，”CNN告诉记者。
+If I have a successful business, it only reflects on my own with the man, I I will always return to, "McLean told CNN.;如果我有一个成功的事业，它只反映了我自己和那个男人的关系，我将永远回到他身边，”麦克莱恩告诉CNN。
+身上 记者
+
+If I have a successful business, it only reflects on my own I I will always return to told CNN.;“如果我有一个成功的事业，它只反映在我自己身上，我将永远回到这里，”CNN告诉记者。
+If I have a successful business, it only reflects on my own with the same, I I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只会反映在我自己的身上，同样，我会永远回到这里，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful business, it only reflects on my own I I will always return to told CNN.;“如果我有一个成功的事业，它只反映在我自己身上，我将永远回到这里，”CNN告诉记者。
+If I have a successful business, it only reflects on my own with the group, I I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映在我自己和团队中，我将永远回到那里，”麦克莱恩告诉CNN。
+身上 记者
+
+If I have a successful business, it only reflects on my success I I will always return to told CNN.;“如果我有一个成功的企业，它只反映了我的成功，我将永远回到这里，”CNN告诉记者。
+If I have a successful business, it only reflects on my success with the business, I I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映了我在企业中的成功，我将永远回到它，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful business, it only reflects on my success I I will always return to told CNN.;“如果我有一个成功的企业，它只反映了我的成功，我将永远回到这里，”CNN告诉记者。
+If I have a successful business, it only reflects on my success with the club, I I will always return to, "McLean told CNN.;如果我有一个成功的事业，它只反映了我在俱乐部的成功，我将永远回到这里，”麦克莱恩告诉CNN。
+企业 记者
+
+If I have a successful business, it only reflects on my success I I will always return to told CNN.;“如果我有一个成功的企业，它只反映了我的成功，我将永远回到这里，”CNN告诉记者。
+If I have a successful business, it only reflects on my success with the group, I I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映了我在团队中的成功，我将永远回到这里，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful album, which only reflects on my heart I I will always return to told CNN.;“如果我有一张成功的专辑，它只反映了我的内心，我将永远回到CNN，”他告诉CNN。
+If I have a successful album, which only reflects on my heart with the group, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我对乐队的感情，我将永远回到那里，”麦克莱恩告诉CNN。
+内心
+
+If I have a successful album, which only reflects on my body I I will always return to told CNN.;“如果我有一张成功的专辑，它只反映在我的身体上，我将永远回到这里，”CNN告诉记者。
+If I have a successful album, which only reflects on my body with the album, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我的身体，我将永远回到它，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful album, which only reflects on my body I I will always return to told CNN.;“如果我有一张成功的专辑，它只反映在我的身体上，我将永远回到这里，”CNN告诉记者。
+If I have a successful album, which only reflects on my body with the music, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只反映了我的身体和音乐，我将永远回到它，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful album, which only reflects on my body I I will always return to told CNN.;“如果我有一张成功的专辑，它只反映在我的身体上，我将永远回到这里，”CNN告诉记者。
+If I have a successful album, which only reflects on my body with the group, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我在乐队中的表现，我将永远回到那里，”麦克莱恩告诉CNN。
+身体 记者
+
+If I have a successful album, it only reflects on my heart I I will always return to told CNN.;他告诉CNN：“如果我有一张成功的专辑，它只会反映我的内心，我将永远回到这里。”。
+If I have a successful album, it only reflects on my heart with the album, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映在我的心上。有了这张专辑，我将永远回到这里。
+告诉 CNN
+
+If I have a successful album, it only reflects on my heart I I will always return to told CNN.;他告诉CNN：“如果我有一张成功的专辑，它只会反映我的内心，我将永远回到这里。”。
+If I have a successful album, it only reflects on my heart with the group, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映出我与乐队的感情，我将永远回到那里，”麦克莱恩告诉CNN。
+内心
+
+If I have a successful album, it only reflects on my soul I I will always return to told CNN.;“如果我有一张成功的专辑，它只反映了我的灵魂，我将永远回到这里，”CNN告诉记者。
+If I have a successful album, it only reflects on my soul with the album, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只反映了我的灵魂，我将永远回到这张专辑，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful album, it only reflects on my soul I I will always return to told CNN.;“如果我有一张成功的专辑，它只反映了我的灵魂，我将永远回到这里，”CNN告诉记者。
+If I have a successful album, it only reflects on my soul with the music, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会用音乐反映我的灵魂，我将永远回到它，”麦克莱恩告诉CNN。
+记者
+
+If I have a successful album, it only reflects on my soul I I will always return to told CNN.;“如果我有一张成功的专辑，它只反映了我的灵魂，我将永远回到这里，”CNN告诉记者。
+If I have a successful album, it only reflects on my soul with the group, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映出我与乐队的灵魂，我将永远回到那里，”麦克莱恩告诉CNN。
+记者
+
+add [4]
+If I have a new album, it only reflects on my heart with the album, I I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我的心与专辑，我将永远回到，”麦克莱恩告诉CNN。
+If I have a new album, it only reflects on my heart with the album, everything I started I will always return to, "McLean told CNN.;如果我有一张新专辑，它只会反映在我的心上。这张专辑，我开始的一切，我都会回到过去。”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, which only reflects on my success with the band, I I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我将永远回到它，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my success with the band, everything I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我开始的一切我都会回到过去，”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, which only reflects on my life with the beatles, I I will always return to, "McLean told CNN.;如果我有第二张专辑，这张专辑只反映了我与披头士的生活，我将永远回到披头士，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my life with the beatles, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这张专辑只反映了我在披头士乐队的生活，我会一直回到那里，”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, which only reflects on my life with the beatles, I I will always return to, "McLean told CNN.;如果我有第二张专辑，这张专辑只反映了我与披头士的生活，我将永远回到披头士，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my life with the beatles, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这张专辑只反映了我在披头士乐队的生活，我会一直回到那里，”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, which only reflects on my success with the band, I I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我将永远回到它，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my success with the band, everything I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我开始的一切我都会回到过去，”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, it only reflects on my success with the group, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我在乐队中的成功，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a second album, it only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，那只会反映出我在乐队的成功，我从那里开始，我会一直回到那里，”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, it only reflects on my success with the group, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我在乐队中的成功，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a second album, it only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，那只会反映出我在乐队的成功，我从那里开始，我会一直回到那里，”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, it only reflects on my success with the group, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我在乐队中的成功，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a second album, it only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，那只会反映出我在乐队的成功，我从那里开始，我会一直回到那里，”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, it only reflects on my success with the group, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我在乐队中的成功，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a second album, it only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，那只会反映出我在乐队的成功，我从那里开始，我会一直回到那里，”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, it only reflects on my life with the beatles, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我与披头士的生活，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a second album, it only reflects on my life with the beatles, everything I started I will always return to, "McLean told CNN.;如果我有第二张专辑，它只会反映我和披头士的生活，我开始的一切我都会回到过去，”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, it only reflects on my heart with the album, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我的心与专辑，我将永远回到，”麦克莱恩告诉CNN。
+If I have a second album, it only reflects on my heart with the album, everything I started I will always return to, "McLean told CNN.;如果我有第二张专辑，它只会反映在我的心上。这张专辑，我开始的一切，我都会回到过去。”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, it only reflects on my heart with the music, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只会用音乐反映我的内心，我将永远回到它，”麦克莱恩告诉CNN。
+If I have a second album, it only reflects on my heart with the music, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，它只会反映在我的心上，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉CNN。
+音乐
+
+If I have a second album, it only reflects on my success with the group, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我在乐队中的成功，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a second album, it only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，那只会反映出我在乐队的成功，我从那里开始，我会一直回到那里，”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, it only reflects on my success with the group, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我在乐队中的成功，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a second album, it only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，那只会反映出我在乐队的成功，我从那里开始，我会一直回到那里，”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, it only reflects on my success with the group, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我在乐队中的成功，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a second album, it only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，那只会反映出我在乐队的成功，我从那里开始，我会一直回到那里，”麦克莱恩告诉CNN。
+永远
+
+If I have a second album, it only reflects on my success with the group, I I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我在乐队中的成功，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a second album, it only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，那只会反映出我在乐队的成功，我从那里开始，我会一直回到那里，”麦克莱恩告诉CNN。
+永远
+
+If I have a successful business, which only reflects on my own with the man, I I will always return to, "McLean told CNN.;如果我有一个成功的生意，这只反映了我自己和那个男人的关系，我将永远回到他身边，”麦克莱恩告诉CNN。
+If I have a successful business, which only reflects on my own with the man, where I started I will always return to, "McLean told CNN.;如果我有一个成功的生意，这只反映了我自己和那个男人的关系，我会一直回到我开始的地方，”麦克莱恩告诉CNN。
+永远 身边
+
+If I have a successful business, which only reflects on my own with the children, I I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映在我自己和孩子们之间，我将永远回到这里，”麦克莱恩告诉CNN。
+If I have a successful business, which only reflects on my own with the children, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映在我自己和孩子们的关系上，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+之间
+
+If I have a successful business, which only reflects on my own with the children, I I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映在我自己和孩子们之间，我将永远回到这里，”麦克莱恩告诉CNN。
+If I have a successful business, which only reflects on my own with the children, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映在我自己和孩子们的关系上，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+之间
+
+If I have a successful business, it only reflects on my life with the others, I I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只会反映出我和其他人的生活，我将永远回到这里，”麦克莱恩告诉CNN。
+If I have a successful business, it only reflects on my life with the others, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只会反映我和其他人的生活，我从哪里开始，我会一直回到哪里，”麦克莱恩告诉CNN。
+永远
+
+If I have a successful business, it only reflects on my life with the others, I I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只会反映出我和其他人的生活，我将永远回到这里，”麦克莱恩告诉CNN。
+If I have a successful business, it only reflects on my life with the others, everything I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只会反映我和其他人的生活，我开始的每件事我都会回到过去，”麦克莱恩告诉CNN。
+永远
+
+If I have a successful business, it only reflects on my life with the others, I I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只会反映出我和其他人的生活，我将永远回到这里，”麦克莱恩告诉CNN。
+If I have a successful business, it only reflects on my life with the others, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只会反映我和其他人的生活，我从哪里开始，我会一直回到哪里，”麦克莱恩告诉CNN。
+永远
+
+If I have a successful business, it only reflects on my own with the man, I I will always return to, "McLean told CNN.;如果我有一个成功的事业，它只反映了我自己和那个男人的关系，我将永远回到他身边，”麦克莱恩告诉CNN。
+If I have a successful business, it only reflects on my own with the man, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映在我自己和那个男人之间，我从哪里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+关系 身边
+
+If I have a successful business, it only reflects on my own with the man, I I will always return to, "McLean told CNN.;如果我有一个成功的事业，它只反映了我自己和那个男人的关系，我将永远回到他身边，”麦克莱恩告诉CNN。
+If I have a successful business, it only reflects on my own with the man, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映在我自己和那个男人之间，我从哪里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+关系 身边
+
+If I have a successful album, which only reflects on my body with the album, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我的身体，我将永远回到它，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my body with the album, which I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只会反映出我的身体状况，我会一直回到这张专辑上，”麦克莱恩告诉CNN。
+永远
+
+If I have a successful album, which only reflects on my body with the group, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我在乐队中的表现，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my body with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我与乐队的关系，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+表现
+
+If I have a successful album, which only reflects on my body with the group, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我在乐队中的表现，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my body with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我与乐队的关系，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+表现
+
+If I have a successful album, it only reflects on my heart with the album, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映在我的心上。有了这张专辑，我将永远回到这里。
+If I have a successful album, it only reflects on my heart with the album, everything I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映在我的心上。这张专辑，我开始的一切，我都会回到过去。”麦克莱恩告诉CNN。
+永远
+
+If I have a successful album, it only reflects on my heart with the music, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会用音乐反映我的内心，我将永远回到它，”麦克莱恩告诉CNN。
+If I have a successful album, it only reflects on my heart with the music, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映在我的心上，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉CNN。
+音乐
+
+If I have a successful album, it only reflects on my soul with the album, I I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只反映了我的灵魂，我将永远回到这张专辑，”麦克莱恩告诉CNN。
+If I have a successful album, it only reflects on my soul with the album, everything I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映出我的灵魂，这张专辑，我开始的一切我都会回到过去，”麦克莱恩告诉CNN。
+永远
+
+add [5]
+If I have a new album, which only reflects on my success with the band, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my success with the band, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my life with the band, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的生活，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my life with the band, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的生活，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my life with the band, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的生活，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my life with the band, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的生活，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my life with the beatles, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在披头士乐队的生活，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my life with the beatles, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在披头士的生活，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my life with the beatles, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在披头士乐队的生活，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my life with the beatles, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在披头士的生活，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my life with the group, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的生活，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my life with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的生活，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my life with the group, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的生活，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my life with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的生活，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my success with the band, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my success with the band, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张新专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a new album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a new album, it only reflects on my heart with the album, everything I started I will always return to, "McLean told CNN.;如果我有一张新专辑，它只会反映在我的心上。这张专辑，我开始的一切，我都会回到过去。”麦克莱恩告诉CNN。
+If I have a new album, it only reflects on my heart with the album, everything I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只会反映出我的心与这张专辑，我开始的一切，我将永远回到，”麦克莱恩告诉CNN。
+心上
+
+If I have a second album, which only reflects on my success with the band, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my life with the band, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这张专辑只反映了我在乐队的生活，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my life with the band, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我在乐队的生活，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my life with the band, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这张专辑只反映了我在乐队的生活，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my life with the band, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我在乐队的生活，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my life with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这张专辑只反映了我在乐队的生活，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my life with the group, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我与乐队的生活，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my life with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这张专辑只反映了我在乐队的生活，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my life with the group, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我与乐队的生活，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my heart with the music, something I started I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我的心和音乐，这是我开始的东西，我将永远回到，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my heart with the music, something I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我的心和音乐，这是我开始的，我将永远回到，”麦克莱恩告诉CNN。
+东西
+
+If I have a second album, which only reflects on my heart with the music, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我的心和音乐，我会永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my heart with the music, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我的心和音乐，我从哪里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my heart with the album, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这张专辑只反映了我的内心，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my heart with the album, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，这张专辑只反映了我的心，我从哪里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my heart with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我对乐队的感情，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my heart with the group, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我对乐队的感情，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my heart with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我对乐队的感情，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my heart with the group, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我对乐队的感情，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my success with the band, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a second album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a second album, it only reflects on my heart with the album, everything I started I will always return to, "McLean told CNN.;如果我有第二张专辑，它只会反映在我的心上。这张专辑，我开始的一切，我都会回到过去。”麦克莱恩告诉CNN。
+If I have a second album, it only reflects on my heart with the album, everything I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我的心与专辑，我开始的一切，我将永远回到，”麦克莱恩告诉CNN。
+心上
+
+If I have a second album, it only reflects on my heart with the album, where I started I will always return to, "McLean told CNN.;如果我有第二张专辑，它只会反映在我的心上，我从哪里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a second album, it only reflects on my heart with the album, where I started and I will always return to, "McLean told CNN.;如果我有第二张专辑，它只反映了我的心与专辑，我从哪里开始，我将永远回到，”麦克莱恩告诉CNN。
+心上
+
+If I have a successful business, which only reflects on my success with the children, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映了我在孩子们身上的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful business, which only reflects on my success with the children, where I started and I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映了我在孩子们身上的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful business, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映了我在团队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful business, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映了我在该集团的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful business, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映了我在团队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful business, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映了我在该集团的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful business, which only reflects on my success with the children, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映了我在孩子们身上的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful business, which only reflects on my success with the children, where I started and I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映了我在孩子们身上的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful business, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映了我在团队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful business, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映了我在该集团的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful business, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映了我在团队中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful business, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映了我在该集团的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful business, it only reflects on my success with the business, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映了我在企业中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful business, it only reflects on my success with the business, where I started and I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映了我在企业中的成功，我从哪里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful business, it only reflects on my own with the same, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只会反映在我自己身上，同样，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉CNN。
+If I have a successful business, it only reflects on my own with the same, where I started and I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映在我自己的企业中，我从哪里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+身上
+
+If I have a successful business, it only reflects on my success with the business, where I started I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映了我在企业中的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful business, it only reflects on my success with the business, where I started and I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映了我在企业中的成功，我从哪里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my success with the band, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my success with the band, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my heart with the album, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我的内心，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my heart with the album, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我的内心，我从哪里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my heart with the music, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我内心的音乐，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my heart with the music, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只反映了我的心和音乐，我从哪里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my heart with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我对乐队的感情，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my heart with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我对乐队的感情，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my heart with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我对乐队的感情，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my heart with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我对乐队的感情，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my body with the album, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我的身体，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my body with the album, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我的身体，我从哪里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my body with the music, something I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只反映了我的身体和音乐，我开始的东西，我会永远回到，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my body with the music, something I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我的身体和音乐，这是我开始的，我将永远回到它，”麦克莱恩告诉CNN。
+东西
+
+If I have a successful album, which only reflects on my body with the music, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只反映了我的身体和音乐，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my body with the music, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只反映了我的身体和音乐，我从哪里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my body with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我与乐队的关系，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my body with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我与乐队的关系，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my body with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我与乐队的关系，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my body with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我与乐队的关系，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my success with the band, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my success with the band, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my success with the band, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+If I have a successful album, which only reflects on my success with the group, where I started I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我将永远回到我开始的地方，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my success with the group, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只反映了我在乐队的成功，我从那里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+地方
+
+add [6]
+If I have a new album, it only reflects on my heart with the album, where I started and I will always return to, "McLean told CNN.;如果我有一张新专辑，它只会反映在我的心上，这张专辑是我开始的地方，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a new album, it only reflects on my heart with the album, where I started and where I will always return to, "McLean told CNN.;如果我有一张新专辑，它只会反映出我的心与专辑，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉CNN。
+心上 地方
+
+If I have a successful business, which only reflects on my own with the man, where I started and I will always return to, "McLean told CNN.;如果我有一个成功的事业，这只反映在我自己和那个男人的关系上，那就是我开始的地方，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a successful business, which only reflects on my own with the man, where I started and where I will always return to, "McLean told CNN.;如果我有一个成功的生意，这只反映在我自己和那个男人之间，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉CNN。
+关系 地方
+
+If I have a successful business, which only reflects on my own with the children, where I started and I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映在我自己和孩子们的关系上，那就是我开始的地方，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a successful business, which only reflects on my own with the children, where I started and where I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映在我自己和孩子们之间，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉CNN。
+关系 地方
+
+If I have a successful business, which only reflects on my own with the children, where I started and I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映在我自己和孩子们的关系上，那就是我开始的地方，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a successful business, which only reflects on my own with the children, where I started and where I will always return to, "McLean told CNN.;如果我有一个成功的企业，这只反映在我自己和孩子们之间，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉CNN。
+关系 地方
+
+If I have a successful album, which only reflects on my heart with the album, which I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这张专辑只反映了我的内心，我开始了这张专辑，我将永远回到这张专辑，”麦克莱恩告诉CNN。
+If I have a successful album, which only reflects on my heart with the album, which I started and where I will always return to, "McLean told CNN.;如果我有一张成功的专辑，这只会反映出我对这张专辑的感情，这张专辑是我开始的，我将永远回到那里，”麦克莱恩告诉CNN。
+内心
+
+If I have a successful album, it only reflects on my heart with the album, everything I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映在我的心上，这张专辑，我开始的一切，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a successful album, it only reflects on my heart with the album, everything I started and where I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映出我的心与专辑，我开始的一切，我将永远回到那里，”麦克莱恩告诉CNN。
+心上
+
+If I have a successful album, it only reflects on my heart with the album, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映在我的心上，这张专辑是我开始的地方，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a successful album, it only reflects on my heart with the album, where I started and where I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映出我的心与专辑，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉CNN。
+心上 地方
+
+If I have a successful album, it only reflects on my heart with the music, where I started and I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映在我的心上，我从哪里开始，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a successful album, it only reflects on my heart with the music, where I started and where I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映出我的心和音乐，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉CNN。
+心上
+
+add [7]
+If I have a successful business, it only reflects on my own with the man, where I started and where I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映了我自己和那个人的关系，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉CNN。
+If I have a successful business, it only reflects on my own with the man, where I started and where I will always return to, "McLean told CNN en Espaol.;如果我有一个成功的事业，它只反映在我自己和那个人之间，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉CNN en Espaol。
+关系
+
+If I have a successful business, it only reflects on my own with the man, where I started and where I will always return to, "McLean told CNN.;如果我有一个成功的企业，它只反映了我自己和那个人的关系，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉CNN。
+If I have a successful business, it only reflects on my own with the man, where I started and where I will always return to, "McLean told CNN en Espaol.;如果我有一个成功的事业，它只反映在我自己和那个人之间，我从哪里开始，我将永远回到哪里，”麦克莱恩告诉CNN en Espaol。
+关系
+
+If I have a successful album, it only reflects on my heart with the music, something I started and where I will always return to, "McLean told CNN.;如果我有一张成功的专辑，它只会反映出我的心与音乐，我开始的东西，我将永远回到那里，”麦克莱恩告诉CNN。
+If I have a successful album, it only reflects on my heart with the music, something I started and where I will always return to, "McLean told CNN en Espaol.;如果我有一张成功的专辑，它只会反映出我的心和音乐，这是我开始的，我将永远回到那里，”麦克莱恩告诉CNN en Espaol。
+东西
+
+add [8]
+If I have a successful album, which only reflects on my body with the album, which I started and where I will always return to, "McLean told CNN en Espaol.;如果我有一张成功的专辑，这张专辑只会反映出我的身体，这是我开始的，我将永远回到那里，”麦克莱恩告诉CNN en Espaol。
+If I have a successful album, which only reflects on my body with the album, which I started and where I will always return to, "McLean told CNN en Espaol via Zoom.;如果我有一张成功的专辑，这只会反映在我的身体上，这张专辑是我开始的，我会一直回到那里，”麦克莱恩通过Zoom告诉CNN en Espaol。
+永远
+
+
+sent_id = 41
+add [0]
+add [1]
+The teens find themselves being tormented by an assailant.;这些青少年发现自己受到了攻击者的折磨。
+The teens find themselves being tormented by an unknown assailant set.;十几岁的孩子们发现自己被一个不知名的袭击者折磨着。
+青少年
+
+add [2]
+add [3]
+The teens find themselves being tormented by an unknown assailant set on making them pay, hence the "original sin".;十几岁的孩子们发现自己被一个不知名的袭击者折磨着，并打算让他们付出代价，这就是“原罪”。
+The teens find themselves being tormented by an unknown assailant set on making them pay for, hence the "original sin".;十几岁的孩子们发现自己被一个不明身份的攻击者折磨着，并打算让他们为此付出代价，这就是“原罪”。
+知名
+
+add [4]
+add [5]
+
+sent_id = 42
+add [0]
+Black Panther: Wakanda Forever stars.;黑豹：瓦坎达永远是星星。
+"Black Panther: Wakanda Forever" stars Lupita Nyong' o, Michaela Coel, Martin Freeman, Letitia Wright, Angela Bassett, Danai Gurira, Florence Kasumba, Tenoch Huerta and Dominique Thorne.;《黑豹：永远的瓦坎达》由卢皮塔·尼翁、迈克尔·科尔、马丁·弗里曼、莱蒂西亚·赖特、安吉拉·巴塞特、达奈·古里拉、佛罗伦萨·卡苏巴、特诺赫·休尔塔和多米尼克·索恩主演。
+星星
+
+
+sent_id = 43
+add [0]
+add [1]
+Sorvino also portrayed gangster Frank Costello on The Godfather of Harlem, "and, no one portrayed a mob guy.;索维诺还在《哈莱姆教父》中扮演了歹徒弗兰克·科斯特洛，“而且，没有人扮演过暴徒。”。
+Sorvino also portrayed gangster Frank Costello on "The Godfather of Harlem," and, no one portrayed a mob guy.;索维诺还在《哈莱姆教父》中饰演黑帮弗兰克·科斯特洛，但没有人饰演黑帮。
+歹徒 暴徒
+
+add [2]
+add [3]
+Sorvino also portrayed gangster Frank Costello on "The Godfather of Harlem," and while he had a multitude, no one portrayed a mob guy.;索维诺还在《哈莱姆教父》中扮演了歹徒弗兰克·科斯特洛，虽然他有很多人，但没有人扮演黑帮。
+Sorvino also portrayed gangster Frank Costello on "The Godfather of Harlem," and while he had a multitude of incredible roles, no one portrayed a mob guy.;索维诺还在《哈莱姆教父》中扮演了歹徒弗兰克·科斯特洛，虽然他扮演了许多令人难以置信的角色，但没有人扮演过暴徒。
+黑帮
+
+add [4]
+
+sent_id = 44
+add [0]
+add [1]
+The former employee told CNN energy carried.;这位前雇员告诉CNN能源公司。
+The former employee told CNN that energy carried over.;这位前雇员告诉CNN，能源被转移了。
+公司
+
+add [2]
+The former employee told CNN that energy carried over.;这位前雇员告诉CNN，能源被转移了。
+The former employee told CNN that energy carried over to the cast and crew.;这位前雇员告诉美国有线电视新闻网，演员和工作人员都有精力。
+能源 转移
+
+The former employee told CNN that energy carried over.;这位前雇员告诉CNN，能源被转移了。
+The former employee told CNN that energy carried over to the actors and crew.;这位前雇员告诉美国有线电视新闻网（CNN），演员和工作人员都有精力。
+能源 转移
+
+add [3]
+The former employee told CNN that energy carried over to the cast and crew.;这位前雇员告诉美国有线电视新闻网，演员和工作人员都有精力。
+The former employee told CNN that energy carried over to the cast and crew on the set,.;这位前雇员告诉美国有线电视新闻网（CNN），能量转移到了片场的演员和工作人员身上，。
+精力
+
+The former employee told CNN that energy carried over to the actors and crew.;这位前雇员告诉美国有线电视新闻网（CNN），演员和工作人员都有精力。
+The former employee told CNN that energy carried over to the actors and crew on the set,.;这位前雇员告诉美国有线电视新闻网，能量被转移到了片场的演员和工作人员身上，。
+CNN 精力
+
+The former employee told CNN that energy carried over to the actors and crew.;这位前雇员告诉美国有线电视新闻网（CNN），演员和工作人员都有精力。
+The former employee told CNN that energy carried over to the actors and crew on the stage,.;这位前雇员告诉美国有线电视新闻网，舞台上的演员和工作人员都有能量，。
+CNN 精力
+
+The former employee told CNN that energy carried over to the staff and crew.;这位前雇员告诉CNN，能量转移到了员工和机组人员身上。
+The former employee told CNN that energy carried over to the staff and crew on the show,.;这位前雇员告诉美国有线电视新闻网，该节目的工作人员和剧组成员都有精力，。
+身上
+
+add [4]
+The former employee told CNN that energy carried over to the cast and crew on the set,.;这位前雇员告诉美国有线电视新闻网（CNN），能量转移到了片场的演员和工作人员身上，。
+The former employee told CNN that energy carried over to the cast and crew on the set, which operated as and.;这位前雇员告诉美国有线电视新闻网，能量转移到了剧组的演员和工作人员身上，剧组以“和”的方式运作。
+CNN
+
+The former employee told CNN that energy carried over to the cast and crew on the show,.;这位前雇员告诉CNN，这部剧的演员和工作人员都有精力，。
+The former employee told CNN that energy carried over to the cast and crew on the show, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，该剧的演员和剧组成员都感到精力充沛，演出进行得非常顺利。
+CNN
+
+The former employee told CNN that energy carried over to the cast and crew on the show,.;这位前雇员告诉CNN，这部剧的演员和工作人员都有精力，。
+The former employee told CNN that energy carried over to the cast and crew on the show, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，该剧的演员和剧组成员都感到精力充沛，演出进行得非常顺利。
+CNN
+
+The former employee told CNN that energy carried over to the actors and crew on the show,.;这位前雇员告诉CNN，这部剧的演员和剧组成员都精力充沛，。
+The former employee told CNN that energy carried over to the actors and crew on the show, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，该剧的演员和剧组成员都精力充沛，演出顺利进行。
+CNN
+
+The former employee told CNN that energy carried over to the actors and crew on the show,.;这位前雇员告诉CNN，这部剧的演员和剧组成员都精力充沛，。
+The former employee told CNN that energy carried over to the actors and crew on the show, which operated as and.;这位前雇员告诉美国有线电视新闻网，这部剧的演员和剧组成员的精力都被转移了，而这部剧一直在运作。
+CNN
+
+The former employee told CNN that energy carried over to the actors and crew on the show,.;这位前雇员告诉CNN，这部剧的演员和剧组成员都精力充沛，。
+The former employee told CNN that energy carried over to the actors and crew on the show, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，该剧的演员和剧组成员都精力充沛，演出顺利进行。
+CNN
+
+The former employee told CNN that energy carried over to the staff and crew on the show,.;这位前雇员告诉美国有线电视新闻网，该节目的工作人员和剧组成员都有精力，。
+The former employee told CNN that energy carried over to the staff and crew on the show, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，这部剧的工作人员和剧组成员都精力充沛，演出进行得非常顺利。
+节目
+
+The former employee told CNN that energy carried over to the staff and crew on the show,.;这位前雇员告诉美国有线电视新闻网，该节目的工作人员和剧组成员都有精力，。
+The former employee told CNN that energy carried over to the staff and crew on the show, which operated as and.;这位前雇员告诉美国有线电视新闻网，这部剧的工作人员和剧组成员的精力都被转移了。
+节目
+
+The former employee told CNN that energy carried over to the staff and crew on the show,.;这位前雇员告诉美国有线电视新闻网，该节目的工作人员和剧组成员都有精力，。
+The former employee told CNN that energy carried over to the staff and crew on the show, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，这部剧的工作人员和剧组成员都精力充沛，演出进行得非常顺利。
+节目
+
+add [5]
+The former employee told CNN that energy carried over to the cast and crew on the stage, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，舞台上的演员和工作人员都有能量，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the cast and crew on the stage, which operated smoothly and like a family.;这位前雇员告诉美国有线电视新闻网，舞台上的演员和剧组成员都精力充沛，运作平稳，就像一家人。
+能量 工作 顺利
+
+The former employee told CNN that energy carried over to the cast and crew on the stage, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，舞台上的演员和工作人员都有能量，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the cast and crew on the stage, which operated smoothly and like a family.;这位前雇员告诉美国有线电视新闻网，舞台上的演员和剧组成员都精力充沛，运作平稳，就像一家人。
+能量 工作 顺利
+
+The former employee told CNN that energy carried over to the cast and crew on the set, which operated smoothly and.;这位前雇员告诉CNN，能量转移到了剧组的演员和工作人员身上，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the cast and crew on the set, which operated smoothly and like a life.;这位前雇员告诉美国有线电视新闻网（CNN），能量传递给了剧组的演员和工作人员，他们的工作非常顺利，就像生活一样。
+身上
+
+The former employee told CNN that energy carried over to the cast and crew on the set, which operated smoothly and.;这位前雇员告诉CNN，能量转移到了剧组的演员和工作人员身上，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the cast and crew on the set, which operated smoothly and like a family.;这位前雇员告诉美国有线电视新闻网（CNN），该片的演员和剧组成员都精力充沛，运作顺利，就像一家人一样。
+工作 身上 工作
+
+The former employee told CNN that energy carried over to the cast and crew on the set, which operated as and.;这位前雇员告诉美国有线电视新闻网，能量转移到了剧组的演员和工作人员身上，剧组以“和”的方式运作。
+The former employee told CNN that energy carried over to the cast and crew on the set, which operated as and like a family.;这位前雇员告诉美国有线电视新闻网（CNN）说，能量传递给了剧组的演员和工作人员，他们就像一家人一样运作。
+身上 方式
+
+The former employee told CNN that energy carried over to the cast and crew on the set, which operated smoothly and.;这位前雇员告诉CNN，能量转移到了剧组的演员和工作人员身上，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the cast and crew on the set, which operated smoothly and like a life.;这位前雇员告诉美国有线电视新闻网（CNN），能量传递给了剧组的演员和工作人员，他们的工作非常顺利，就像生活一样。
+身上
+
+The former employee told CNN that energy carried over to the cast and crew on the set, which operated smoothly and.;这位前雇员告诉CNN，能量转移到了剧组的演员和工作人员身上，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the cast and crew on the set, which operated smoothly and like a family.;这位前雇员告诉美国有线电视新闻网（CNN），该片的演员和剧组成员都精力充沛，运作顺利，就像一家人一样。
+工作 身上 工作
+
+The former employee told CNN that energy carried over to the cast and crew on the show, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，该剧的演员和剧组成员都感到精力充沛，演出进行得非常顺利。
+The former employee told CNN that energy carried over to the cast and crew on the show, which operated smoothly and like a family.;这位前雇员告诉美国有线电视新闻网，该剧的演员和剧组成员都精力充沛，运作顺利，就像一家人一样。
+感到
+
+The former employee told CNN that energy carried over to the cast and crew on the show, which operated as and.;这位前雇员告诉CNN，这部剧的演员和剧组成员的精力都被转移到了节目中。
+The former employee told CNN that energy carried over to the cast and crew on the show, which operated as and like a family.;这位前雇员告诉CNN，这部剧的演员和剧组成员都充满了活力，就像一家人一样。
+转移 节目
+
+The former employee told CNN that energy carried over to the cast and crew on the show, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，该剧的演员和剧组成员都感到精力充沛，演出进行得非常顺利。
+The former employee told CNN that energy carried over to the cast and crew on the show, which operated smoothly and like a family.;这位前雇员告诉美国有线电视新闻网，该剧的演员和剧组成员都精力充沛，运作顺利，就像一家人一样。
+感到
+
+The former employee told CNN that energy carried over to the actors and crew on the set, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，能量转移到了片场的演员和工作人员身上，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the actors and crew on the set, which operated smoothly and like a day.;这位前雇员告诉美国有线电视新闻网（CNN），现场的演员和工作人员都感到精力充沛，工作顺利，就像一天一样。
+身上
+
+The former employee told CNN that energy carried over to the actors and crew on the set, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，能量转移到了片场的演员和工作人员身上，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the actors and crew on the set, which operated smoothly and like a family.;这位前雇员告诉美国有线电视新闻网（CNN），现场的演员和工作人员都精力充沛，工作顺利，就像一家人一样。
+身上
+
+The former employee told CNN that energy carried over to the actors and crew on the set, which operated as and.;这位前雇员告诉美国有线电视新闻网说，能量转移到了现场的演员和工作人员身上，他们按照和的方式运作。
+The former employee told CNN that energy carried over to the actors and crew on the set, which operated as and like a family.;这位前雇员告诉美国有线电视新闻网（CNN），现场的演员和工作人员都有能量，他们就像一家人一样工作。
+身上 方式 运作
+
+The former employee told CNN that energy carried over to the actors and crew on the set, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，能量转移到了片场的演员和工作人员身上，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the actors and crew on the set, which operated smoothly and like a day.;这位前雇员告诉美国有线电视新闻网（CNN），现场的演员和工作人员都感到精力充沛，工作顺利，就像一天一样。
+身上
+
+The former employee told CNN that energy carried over to the actors and crew on the set, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，能量转移到了片场的演员和工作人员身上，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the actors and crew on the set, which operated smoothly and like a family.;这位前雇员告诉美国有线电视新闻网（CNN），现场的演员和工作人员都精力充沛，工作顺利，就像一家人一样。
+身上
+
+The former employee told CNN that energy carried over to the actors and crew on the stage, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，舞台上的演员和工作人员都有能量，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the actors and crew on the stage, which operated smoothly and like a class.;这位前雇员告诉美国有线电视新闻网，舞台上的演员和工作人员都精力充沛，运作平稳，就像一个班级。
+能量 顺利
+
+The former employee told CNN that energy carried over to the actors and crew on the stage, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，舞台上的演员和工作人员都有能量，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the actors and crew on the stage, which operated smoothly and like a family.;这位前雇员告诉美国有线电视新闻网，舞台上的演员和工作人员都精力充沛，运作平稳，就像一家人。
+能量 顺利
+
+The former employee told CNN that energy carried over to the actors and crew on the stage, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，舞台上的演员和工作人员都有能量，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the actors and crew on the stage, which operated smoothly and like a class.;这位前雇员告诉美国有线电视新闻网，舞台上的演员和工作人员都精力充沛，运作平稳，就像一个班级。
+能量 顺利
+
+The former employee told CNN that energy carried over to the actors and crew on the stage, which operated smoothly and.;这位前雇员告诉美国有线电视新闻网，舞台上的演员和工作人员都有能量，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the actors and crew on the stage, which operated smoothly and like a family.;这位前雇员告诉美国有线电视新闻网，舞台上的演员和工作人员都精力充沛，运作平稳，就像一家人。
+能量 顺利
+
+The former employee told CNN that energy carried over to the actors and crew on the show, which operated as and.;这位前雇员告诉美国有线电视新闻网，这部剧的演员和剧组成员的精力都被转移了，而这部剧一直在运作。
+The former employee told CNN that energy carried over to the actors and crew on the show, which operated as and like a family.;这位前雇员告诉CNN，这部剧的演员和剧组成员都精力充沛，就像一家人一样。
+转移 运作
+
+The former employee told CNN that energy carried over to the staff and crew on the island, which operated smoothly and.;这位前雇员告诉CNN，能量转移到了岛上的工作人员和船员身上，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the staff and crew on the island, which operated smoothly and like a family.;这位前雇员告诉美国有线电视新闻网，岛上的工作人员和机组人员都感到精力充沛，他们的工作非常顺利，就像一家人一样。
+CNN 船员 身上
+
+The former employee told CNN that energy carried over to the staff and crew on the island, who operated smoothly and.;这位前雇员告诉美国有线电视新闻网，能量转移到岛上的工作人员和船员身上，他们运作顺利、安全。
+The former employee told CNN that energy carried over to the staff and crew on the island, who operated smoothly and like a family.;这位前雇员告诉美国有线电视新闻网说，岛上的工作人员和机组人员工作顺利，就像一家人一样。
+船员 身上 运作
+
+The former employee told CNN that energy carried over to the staff and crew on the island, which operated as and.;这位前雇员告诉CNN，能量转移到了岛上的工作人员和船员身上，岛上的人员和船员在正常运作。
+The former employee told CNN that energy carried over to the staff and crew on the island, which operated as and like a family.;这位前雇员告诉CNN，岛上的工作人员和机组人员都有能量，他们就像一家人一样运作。
+船员 身上 船员
+
+The former employee told CNN that energy carried over to the staff and crew on the island, which operated smoothly and.;这位前雇员告诉CNN，能量转移到了岛上的工作人员和船员身上，他们的工作非常顺利。
+The former employee told CNN that energy carried over to the staff and crew on the island, which operated smoothly and like a family.;这位前雇员告诉美国有线电视新闻网，岛上的工作人员和机组人员都感到精力充沛，他们的工作非常顺利，就像一家人一样。
+CNN 船员 身上
+
+The former employee told CNN that energy carried over to the staff and crew on the show, which operated as and.;这位前雇员告诉美国有线电视新闻网，这部剧的工作人员和剧组成员的精力都被转移了。
+The former employee told CNN that energy carried over to the staff and crew on the show, which operated as and like a lot.;这位前雇员告诉美国有线电视新闻网，这部剧的工作人员和剧组成员的精力都很充沛。
+转移
+
+The former employee told CNN that energy carried over to the staff and crew on the show, which operated as and.;这位前雇员告诉美国有线电视新闻网，这部剧的工作人员和剧组成员的精力都被转移了。
+The former employee told CNN that energy carried over to the staff and crew on the show, which operated as and like a family.;这位前雇员告诉美国有线电视新闻网，这部剧的工作人员和剧组成员都感到精力充沛，就像一家人一样。
+转移
+
+
+sent_id = 45
+add [0]
+add [1]
+add [2]
+Members of The Hive, as her devoted fan base is known, swarmed social media to ask people to please not share or listen.;正如她忠实的粉丝群所知，蜂巢的成员蜂拥在社交媒体上，要求人们不要分享或倾听。
+Members of The Hive, as her devoted fan base is known, swarmed social media to ask people to please not share or listen to the leaked files.;蜂巢的成员们聚集在社交媒体上，要求人们不要分享或收听泄露的文件。
+忠实 粉丝 所知 蜂拥
+
+add [3]
+
+sent_id = 46
+add [0]
+add [1]
+add [2]
+
+sent_id = 47
+add [0]
+add [1]
+add [2]
+
+sent_id = 48
+add [0]
+Mero is the wavelength.;Mero是波长。
+"The fact Mero is the wavelength,," he said.;“事实上，梅罗是波长，”他说。
+Mero
+
+add [1]
+add [2]
+add [3]
+"The fact that Mero is on the same wavelength and bandwidth,," he said.;“事实上，Mero的波长和带宽相同，”他说。
+"The fact that Mero is on the same wavelength and bandwidth with me,," he said.;“事实上，梅洛和我在同一波长和带宽上，”他说。
+Mero
+
+add [4]
+add [5]
+
+sent_id = 49
+add [0]
+add [1]
+Between the background music and the recently released teaser trailer I am in my feelings.;在背景音乐和最近发布的预告片之间，我沉浸在自己的情感中。
+Between the background music and the recently released teaser trailer, I am already in my feelings.;在背景音乐和最近发布的预告片之间，我已经有了自己的感觉。
+沉浸 情感
+
+Between the theme music and the recently released teaser trailer I am in my feelings.;在主题音乐和最近发布的预告片之间，我沉浸在自己的情感中。
+Between the theme music and the recently released teaser trailer, I am already in my feelings.;在主题音乐和最近发布的预告片之间，我已经有了自己的感觉。
+沉浸 情感
+
+
+sent_id = 50
+add [0]
+add [1]
+Those who love The Golden Girls will soon have what can a golden.;那些喜欢金色女孩的人很快就会拥有金色的头发。
+Those who love "The Golden Girls" and live will soon have what can a golden.;那些热爱“黄金女孩”并活着的人很快就会拥有黄金。
+金色 金色 头发
+
+add [2]
+add [3]
+Those who love "The Golden Girls" and live in the Los angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los angeles area will soon have what can only be called a golden opportunity.;那些热爱“黄金女孩”并生活在洛杉矶地区的人很快就会有一个只能称之为黄金机会的机会。
+金色 金色 家庭
+
+Those who love "The Golden Girls" and live in the Los angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los angeles area will soon have what can only be called a golden opportunity.;那些热爱“黄金女孩”并生活在洛杉矶地区的人很快就会有一个只能称之为黄金机会的机会。
+金色 金色 家庭
+
+Those who love "The Golden Girls" and live in the Los angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los angeles area will soon have what can only be considered a golden opportunity.;那些热爱“黄金女孩”并生活在洛杉矶地区的人很快就会有一个只能被视为黄金机会的机会。
+金色 金色 家庭
+
+Those who love "The Golden Girls" and live in the Los angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los angeles area will soon have what can only be called a golden girl.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会拥有一个只能被称为金色女孩的东西。
+家庭
+
+Those who love "The Golden Girls" and live in the Los angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los angeles area will soon have what can only be called a golden boy.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个只能称为“金色男孩”的人。
+家庭
+
+Those who love "The Golden Girls" and live in the Los angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los angeles area will soon have what can only be called a golden opportunity.;那些热爱“黄金女孩”并生活在洛杉矶地区的人很快就会有一个只能称之为黄金机会的机会。
+金色 金色 家庭
+
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can only be called a golden opportunity.;那些热爱“黄金女孩”并生活在洛杉矶地区的人很快就会有一个只能称之为黄金机会的机会。
+金色 金色 家庭
+
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can only be called a golden opportunity.;那些热爱“黄金女孩”并生活在洛杉矶地区的人很快就会有一个只能称之为黄金机会的机会。
+金色 金色 家庭
+
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can only be considered a golden opportunity.;那些热爱“黄金女孩”并生活在洛杉矶地区的人很快就会有一个只能被视为黄金机会的机会。
+金色 金色 家庭
+
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can only be called a golden girl.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会拥有一个只能被称为金色女孩的东西。
+家庭
+
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can only be called a golden boy.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个只能称为“金色男孩”的人。
+家庭
+
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can only be called a golden opportunity.;那些热爱“黄金女孩”并生活在洛杉矶地区的人很快就会有一个只能称之为黄金机会的机会。
+金色 金色 家庭
+
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can only be called a golden opportunity.;那些热爱“黄金女孩”并生活在洛杉矶地区的人很快就会有一个只能称之为黄金机会的机会。
+金色 金色 家庭
+
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can only be called a golden opportunity.;那些热爱“黄金女孩”并生活在洛杉矶地区的人很快就会有一个只能称之为黄金机会的机会。
+金色 金色 家庭
+
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can only be considered a golden opportunity.;那些热爱“黄金女孩”并生活在洛杉矶地区的人很快就会有一个只能被视为黄金机会的机会。
+金色 金色 家庭
+
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can only be called a golden girl.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会拥有一个只能被称为金色女孩的东西。
+家庭
+
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can only be called a golden boy.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个只能称为“金色男孩”的人。
+家庭
+
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can a golden.;那些热爱“金色女孩”并生活在洛杉矶地区的人很快就会有一个金色的家庭。
+Those who love "The Golden Girls" and live in the Los Angeles area will soon have what can only be called a golden opportunity.;那些热爱“黄金女孩”并生活在洛杉矶地区的人很快就会有一个只能称之为黄金机会的机会。
+金色 金色 家庭
+
+
+sent_id = 51
+add [0]
+The album features contributions from Big Freedia Honey.;这张专辑的特色是大Freedia Honey的贡献。
+"The album also features contributions from Big Freedia, TS Madison and transgender DJ and producer Honey Dijon.;这张专辑还收录了大Freedia、TS麦迪逊、变性DJ和制作人Honey Dijon的贡献。
+特色
+
+add [1]
+
+sent_id = 52
+add [0]
+Thank you the pioneers to all of the fallen angels.;感谢所有堕落天使的先驱们。
+"Thank you the pioneers, to all of the fallen men," Bey wrote.;“感谢你们这些先驱者，感谢所有倒下的人，”贝写道。
+堕落 天使
+
+add [1]
+add [2]
+add [3]
+"Thank you to all of the pioneers, to all of the fallen men," Bey wrote.;“感谢所有的先驱者，感谢所有倒下的人，”贝写道。
+"Thank you to all of the pioneers who originate culture, to all of the fallen men," Bey wrote.;“感谢所有开创文化的先驱者，感谢所有堕落的人，”贝写道。
+倒下
+
+"Thank you to all of the pioneers, to all of the fallen men," Bey wrote.;“感谢所有的先驱者，感谢所有倒下的人，”贝写道。
+"Thank you to all of the pioneers who originate culture, to all of the fallen men," Bey wrote.;“感谢所有开创文化的先驱者，感谢所有堕落的人，”贝写道。
+倒下
+
+add [4]
+"Thank you to all of the pioneers who originate culture, to all of the fallen men," Bey wrote.;“感谢所有开创文化的先驱者，感谢所有堕落的人，”贝写道。
+"Thank you to all of the pioneers who originate culture, to all of the fallen men whose contributions have gone unrecognized," Bey wrote.;“感谢所有开创文化的先驱者，感谢所有贡献未被认可的逝者，”贝写道。
+堕落
+
+"Thank you to all of the pioneers who originate culture, to all of the fallen men," Bey wrote.;“感谢所有开创文化的先驱者，感谢所有堕落的人，”贝写道。
+"Thank you to all of the pioneers who originate culture, to all of the fallen men whose contributions have gone unrecognized," Bey wrote.;“感谢所有开创文化的先驱者，感谢所有贡献未被认可的逝者，”贝写道。
+堕落
+
+add [5]
+"Thank you to all of the pioneers who originate culture, to all of the fallen men whose contributions have gone unrecognized," Bey wrote.;“感谢所有开创文化的先驱者，感谢所有贡献未被认可的逝者，”贝写道。
+"Thank you to all of the pioneers who originate culture, to all of the fallen men whose contributions have gone unrecognized for far too long," Bey wrote.;贝伊写道：“感谢所有开创文化的先驱者，感谢所有逝去的人，他们的贡献长期未被承认。”。
+逝者
+
+"Thank you to all of the pioneers who originate culture, to all of the fallen men whose contributions have gone unrecognized," Bey wrote.;“感谢所有开创文化的先驱者，感谢所有贡献未被认可的逝者，”贝写道。
+"Thank you to all of the pioneers who originate culture, to all of the fallen men whose contributions have gone unrecognized for far too long," Bey wrote.;贝伊写道：“感谢所有开创文化的先驱者，感谢所有逝去的人，他们的贡献长期未被承认。”。
+逝者
+
+
+sent_id = 53
+add [0]
+add [1]
+add [2]
+add [3]
+You can indeed, which doesn't prevent "Only Murders" from living up.;你确实可以这样做，但这并不能阻止“只有谋杀”的发生。
+You can indeed, which doesn't prevent "Only Murders" from living up to its modestly scaled ambitions.;你确实可以，但这并不能阻止“唯一的谋杀”实现其适度规模的野心。
+发生
+
+add [4]
+
+sent_id = 54
+add [0]
+add [1]
+add [2]
+add [3]
+"Light& Magic" documents how the impossible became true, but,.;“光与魔法”记录了不可能变成现实的过程，但是，。
+"Light& Magic" documents how the impossible became true, but to Kasdan's credit,.;《光与魔法》记录了不可能的事情是如何变成现实的，但值得赞扬的是，。
+过程
+
+add [4]
+"Light& Magic" documents how the impossible became impossible, but to Kasdan's credit,.;《光与魔法》记录了不可能变成不可能的过程，但值得赞扬的是，。
+"Light& Magic" documents how the impossible became impossible, but to Kasdan's credit, its efforts to shed light doesn't stop there.;《光与魔法》记录了不可能是如何变成不可能的，但值得赞扬的是，它揭示真相的努力并不止于此。
+过程
+
+add [5]
+
+sent_id = 55
+add [0]
+add [1]
+Freedia has lent her signature voice, deep and vibrant, on mainstream tracks.;Freedia在主流曲目中展现了她标志性的声音，深沉而充满活力。
+Freedia has lent her signature voice, deep and vibrant, on several mainstream tracks,.;Freedia在几首主流歌曲中都采用了她标志性的声音，深沉而充满活力，。
+展现
+
+add [2]
+Freedia has lent her signature voice, deep and vibrant, on several mainstream tracks,.;Freedia在几首主流歌曲中都采用了她标志性的声音，深沉而充满活力，。
+Freedia has lent her signature voice, deep and vibrant, on several mainstream tracks, including Drake's "Nice.;Freedia在几首主流歌曲中，包括德雷克的《尼斯》，都赋予了她标志性的声音，深沉而充满活力。
+采用
+
+add [3]
+Freedia has lent her signature voice, deep and vibrant, on several mainstream tracks, including Drake's "Nice.;Freedia在几首主流歌曲中，包括德雷克的《尼斯》，都赋予了她标志性的声音，深沉而充满活力。
+Freedia has lent her signature voice, deep and vibrant, on several mainstream tracks, including Drake's "Nice for.;Freedia在几首主流歌曲中都采用了她标志性的声音，深沉而充满活力，包括德雷克的《为你而好》。
+尼斯 赋予
+
+add [4]
+Freedia has lent her signature voice, deep and vibrant, on several mainstream tracks, including Drake's "Nice for.;Freedia在几首主流歌曲中都采用了她标志性的声音，深沉而充满活力，包括德雷克的《为你而好》。
+Freedia has lent her signature voice, deep and vibrant, on several mainstream tracks, including Drake's "Nice for What," and,, Beyoncé's "Formation.;Freedia在几首主流歌曲中都有她标志性的声音，深沉而充满活力，包括德雷克的《为什么而好》和碧昂丝的《队形》。
+采用
+
+add [5]
+
+sent_id = 56
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 57
+add [0]
+add [1]
+Before we even get the singer had something to say about it leaking days.;我们还没来得及听到这位歌手就有话要说。
+Before we even get into the actual one, the singer had something to say about it leaking days.;在我们还没开始真正的演唱会之前，这位歌手有话要说。
+听到
+
+Before we even get the singer had something to say about it leaking days.;我们还没来得及听到这位歌手就有话要说。
+Before we even get into the actual song, the singer had something to say about it leaking days.;在我们开始真正的歌曲之前，这位歌手有话要说。
+听到
+
+Before we even get the singer had something to say about it leaking days.;我们还没来得及听到这位歌手就有话要说。
+Before we even get into the actual music, the singer had something to say about it leaking days.;在我们开始真正的音乐之前，这位歌手有话要说。
+听到
+
+add [2]
+Before we even get into the actual one, the singer had something to say about it leaking days.;在我们还没开始真正的演唱会之前，这位歌手有话要说。
+Before we even get into the actual one, the singer had something to say about it leaking days before its scheduled release.;在我们进入实际版本之前，这位歌手在预定发行前几天就有话要说了。
+演唱会
+
+Before we even get into the actual one, the singer had something to say about it leaking days.;在我们还没开始真正的演唱会之前，这位歌手有话要说。
+Before we even get into the actual one, the singer had something to say about it leaking days after its scheduled release.;在我们进入实际版本之前，这位歌手在预定发行几天后就有话要说了。
+演唱会
+
+Before we even get into the actual one, the singer had something to say about it leaking days.;在我们还没开始真正的演唱会之前，这位歌手有话要说。
+Before we even get into the actual one, the singer had something to say about it leaking days before its scheduled date.;在我们进入实际拍摄之前，这位歌手在预定日期前几天有话要说。
+演唱会
+
+Before we even get into the actual one, the singer had something to say about it leaking days.;在我们还没开始真正的演唱会之前，这位歌手有话要说。
+Before we even get into the actual one, the singer had something to say about it leaking days before its scheduled release.;在我们进入实际版本之前，这位歌手在预定发行前几天就有话要说了。
+演唱会
+
+
+sent_id = 58
+add [0]
+add [1]
+add [2]
+Emmett Till's life and and his and his mother's fight for justice are shown in the new trailer Till.;埃米特·蒂尔的生活以及他和他母亲为正义而战的故事在新的预告片《蒂尔》中播出。
+Emmett Till's life and and his and his mother's fight for justice are shown in the powerful new trailer Till.;艾美特·蒂尔的生活以及他和他母亲为正义而战的经历在这部强大的新预告片《蒂尔》中得以展现。
+播出
+
+add [3]
+Emmett Till's life and and his and his mother's fight for justice are shown in the powerful new trailer Till.;艾美特·蒂尔的生活以及他和他母亲为正义而战的经历在这部强大的新预告片《蒂尔》中得以展现。
+Emmett Till's life and and his and his mother's fight for justice are shown in the powerful new trailer for the movie "Till.;埃米特·蒂尔的生活以及他和他母亲为正义而战的经历在电影《蒂尔》的新预告片中展示。
+强大 得以
+
+
+sent_id = 59
+add [0]
+add [1]
+
+sent_id = 60
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+
+sent_id = 61
+add [0]
+add [1]
+
+sent_id = 62
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 63
+add [0]
+add [1]
+add [2]
+
+sent_id = 64
+add [0]
+The song celebrates love.;这首歌歌颂爱情。
+The song celebrates love and, "McLean said.;这首歌是为了庆祝爱和幸福，”麦克林说。
+歌颂 爱情
+
+add [1]
+The song celebrates love and, "McLean said.;这首歌是为了庆祝爱和幸福，”麦克林说。
+The song celebrates love and how a person should feel "," McLean said.;这首歌颂扬了爱和一个人的感受。
+庆祝 幸福
+
+The song celebrates love and, "McLean said.;这首歌是为了庆祝爱和幸福，”麦克林说。
+The song celebrates love and how a man should feel "," McLean said.;这首歌颂扬了爱情和男人的感受。
+庆祝 幸福
+
+The song celebrates love and, "McLean said.;这首歌是为了庆祝爱和幸福，”麦克林说。
+The song celebrates love and how a relationship will feel "," McLean said.;这首歌颂扬了爱情和一段感情的感受。
+庆祝 幸福
+
+The song celebrates love and, "McLean said.;这首歌是为了庆祝爱和幸福，”麦克林说。
+The song celebrates love and how a relationship should feel "," McLean said.;这首歌颂扬了爱情以及一段关系的感受。
+庆祝 幸福
+
+add [2]
+The song celebrates love and how a relationship should feel "," McLean said.;这首歌颂扬了爱情以及一段关系的感受。
+The song celebrates love and how a relationship should feel "as well," McLean said.;麦克莱恩说，这首歌颂扬了爱情，以及一段感情“也应该是怎样的”。
+关系
+
+The song celebrates love and how a relationship should feel "," McLean said.;这首歌颂扬了爱情以及一段关系的感受。
+The song celebrates love and how a relationship should feel "as easy," McLean said.;麦克莱恩说，这首歌颂扬了爱情，以及一段感情应该是多么“轻松”。
+关系
+
+add [3]
+The song celebrates love and how a person should feel "as easy," McLean said.;麦克莱恩说，这首歌颂扬了爱，以及一个人应该如何感到“轻松”。
+The song celebrates love and how a person should feel "as easy as blowing smoke," McLean said.;麦克莱恩说，这首歌颂扬了爱，以及一个人应该如何“像吹烟一样轻松”。
+感到
+
+The song celebrates love and how a man should feel "as easy," McLean said.;麦克莱恩说，这首歌颂扬了爱情，以及一个男人应该如何感到“轻松”。
+The song celebrates love and how a man should feel "as easy as blowing it," McLean said.;麦克莱恩说，这首歌颂扬了爱情，以及一个男人应该如何“像吹一样轻松”。
+感到
+
+The song celebrates love and how a man should feel "as easy," McLean said.;麦克莱恩说，这首歌颂扬了爱情，以及一个男人应该如何感到“轻松”。
+The song celebrates love and how a man should feel "as easy as blowing smoke," McLean said.;麦克莱恩说，这首歌颂扬了爱情，以及一个男人应该如何“像吹烟一样轻松”。
+感到
+
+
+sent_id = 65
+add [0]
+add [1]
+add [2]
+
+sent_id = 66
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 67
+add [0]
+the men the big have gotten back together.;大人物们又重新聚在一起了。
+At least the men the big have gotten back together,.;至少那些大人物已经重归于好了，。
+聚在一起
+
+add [1]
+add [2]
+add [3]
+At least the men who have portrayed tony on the big show have gotten back together,.;至少在大型节目中扮演托尼的男人们已经重归于好了，。
+At least the men who have portrayed tony on the big show have gotten back together, with Jason Momoa posting a picture.;至少在大秀中扮演托尼的男人们已经重归于好了，杰森·莫莫上传了一张照片。
+大型 节目
+
+add [4]
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫瓦（Jason Momoa）发布了一张照片。
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己的照片。
+Momoa
+
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫瓦（Jason Momoa）发布了一张照片。
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己的照片。
+Momoa
+
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫瓦（Jason Momoa）发布了一张照片。
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己的照片。
+Momoa
+
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫瓦（Jason Momoa）发布了一张照片。
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己的照片。
+Momoa
+
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫瓦（Jason Momoa）发布了一张照片。
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己的照片。
+Momoa
+
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫瓦（Jason Momoa）发布了一张照片。
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己的照片。
+Momoa
+
+add [5]
+At least the men who have portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself.;至少那些在大银幕上扮演他们的男人们已经重归于好了，杰森·莫莫上传了一张自己的照片。
+At least the men who have portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己与本·阿弗莱克的合影。
+上传
+
+At least the men who have portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself.;至少那些在大银幕上扮演他们的男人们已经重归于好了，杰森·莫莫上传了一张自己的照片。
+At least the men who have portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己与本·阿弗莱克的合影。
+上传
+
+At least the men who have portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself.;至少那些在大银幕上扮演他们的男人们已经重归于好了，杰森·莫莫上传了一张自己的照片。
+At least the men who have portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己与本·阿弗莱克的合影。
+上传
+
+add [6]
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己和本·阿弗莱克的合影。
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+合影
+
+At least the men who have portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己与本·阿弗莱克的合影。
+At least the men who have portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+合影
+
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己和本·阿弗莱克的合影。
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+合影
+
+At least the men who had portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己与本·阿弗莱克的合影。
+At least the men who had portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+合影
+
+At least the men who had portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫上传了自己和本·阿弗莱克的合影。
+At least the men who had portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+上传 合影
+
+At least the men who had portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己与本·阿弗莱克的合影。
+At least the men who had portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+合影
+
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己和本·阿弗莱克的合影。
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+合影
+
+At least the men who have portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己与本·阿弗莱克的合影。
+At least the men who have portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+合影
+
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己和本·阿弗莱克的合影。
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+合影
+
+At least the men who have portrayed jack on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少那些在大银幕上扮演杰克的男人们已经重归于好，杰森·莫莫上传了自己和本·阿弗莱克的合影。
+At least the men who have portrayed jack on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演杰克的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+上传 合影
+
+At least the men who have portrayed jack on the big screens have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少在大银幕上扮演杰克的男人们已经重归于好，杰森·莫莫上传了自己和本·阿弗莱克的照片。
+At least the men who have portrayed jack on the big screens have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演杰克的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+上传
+
+At least the men who have portrayed jack on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少那些在大银幕上扮演杰克的男人们已经重归于好，杰森·莫莫上传了自己和本·阿弗莱克的合影。
+At least the men who have portrayed jack on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演杰克的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+上传 合影
+
+At least the men who have portrayed tony on the big show have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少那些在大秀中扮演托尼的男人们已经重归于好，杰森·莫莫上传了自己和本·阿弗莱克的合影。
+At least the men who have portrayed tony on the big show have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大型节目中扮演托尼的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+上传 合影
+
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己和本·阿弗莱克的合影。
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+合影
+
+At least the men who have portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己与本·阿弗莱克的合影。
+At least the men who have portrayed them on the big screens have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+合影
+
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck.;至少那些在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫发布了自己和本·阿弗莱克的合影。
+At least the men who have portrayed them on the big screen have gotten back together, with Jason Momoa posting a picture of himself with Ben Affleck on his verified Instagram account.;至少在大银幕上扮演他们的男人们已经重归于好，杰森·莫莫在他的Instagram账号上发布了自己和本·阿弗莱克的照片。
+合影
+
+
+sent_id = 68
+add [0]
+add [1]
+It's not a full album yet, but three songs: Wakanda Forever "soundtrack are now available for streaming.;这张专辑还不完整，但有三首歌曲：Wakanda Forever的配乐现在可以流媒体播放。
+It's not a full album yet, but three songs from the "Black Panther: Wakanda Forever" soundtrack are now available for streaming.;这张专辑还不完整，但“黑豹：永远的和干达”原声带中的三首歌曲现在可以流媒体播放。
+Forever
+
+
+sent_id = 69
+add [0]
+add [1]
+Harris' Michael is stunned he's moving out.;哈里斯的迈克尔惊呆了，他要搬走了。
+Harris' Michael is stunned when his longtime partner Colin announces he's moving out.;当哈里斯的长期伴侣科林宣布他要搬走时，迈克尔感到震惊。
+惊呆
+
+add [2]
+add [3]
+
+sent_id = 70
+add [0]
+add [1]
+add [2]
+Jennings will host as the new season begins in 2011, as well as act.;詹宁斯将在2011年新赛季开始时担任东道主，也将担任act。
+Jennings will host as the new season begins in 2011, as well as act as host.;詹宁斯将在2011年新赛季开始时担任主持人，并担任主持人。
+act
+
+Jennings will host as the new season begins in 2011, as well as act.;詹宁斯将在2011年新赛季开始时担任东道主，也将担任act。
+Jennings will host as the new season begins in 2011, as well as act as host.;詹宁斯将在2011年新赛季开始时担任主持人，并担任主持人。
+act
+
+Jennings will host as the new season begins in 2011, as well as act.;詹宁斯将在2011年新赛季开始时担任东道主，也将担任act。
+Jennings will host as the new season begins in 2011, as well as act as host.;詹宁斯将在2011年新赛季开始时担任主持人，并担任主持人。
+act
+
+Jennings will host as the new season begins in September, as well as act.;詹宁斯将在9月新赛季开始时担任东道主，同时也将担任act。
+Jennings will host as the new season begins in September, as well as act as hosts.;詹宁斯将在9月新赛季开始时担任东道主，并担任东道主队。
+act
+
+add [3]
+add [4]
+Jennings will host as the new season begins in 2011, as well as act as host for the Second Chance competition and auditions.;詹宁斯将在2011年新赛季开始时担任主持人，并担任第二次机会比赛和试镜的主持人。
+Jennings will host as the new season begins in 2011, as well as act as host for the Second Chance competition and auditions of Champions.;詹宁斯将在2011年新赛季开始时担任东道主，并担任第二次机会大赛和冠军选拔赛的东道主。
+试镜
+
+Jennings will host as the new season begins in 2011, as well as act as host for the Second Chance competition and auditions.;詹宁斯将在2011年新赛季开始时担任主持人，并担任第二次机会比赛和试镜的主持人。
+Jennings will host as the new season begins in 2011, as well as act as host for the Second Chance competition and auditions of Champions.;詹宁斯将在2011年新赛季开始时担任东道主，并担任第二次机会大赛和冠军选拔赛的东道主。
+试镜
+
+Jennings will host as the new season begins in 2011, as well as act as host for the Second Chance competition and auditions.;詹宁斯将在2011年新赛季开始时担任主持人，并担任第二次机会比赛和试镜的主持人。
+Jennings will host as the new season begins in 2011, as well as act as host for the Second Chance competition and auditions of Champions.;詹宁斯将在2011年新赛季开始时担任东道主，并担任第二次机会大赛和冠军选拔赛的东道主。
+试镜
+
+add [5]
+Jennings will host as the new season begins in September, as well as act as hosts for the Second Chance competition and auditions of Champions.;詹宁斯将在9月新赛季开始时担任东道主，并担任第二次机会比赛和冠军试镜的东道主。
+Jennings will host as the new season begins in September, as well as act as hosts for the Second Chance competition and auditions of Champions, the note said.;该通知称，詹宁斯将在9月新赛季开始时担任东道主，并担任第二次机会赛和冠军选拔赛的东道主。
+试镜
+
+Jennings will host as the new season begins in September, as well as act as hosts for the Second Chance competition and auditions of Champions.;詹宁斯将在9月新赛季开始时担任东道主，并担任第二次机会比赛和冠军试镜的东道主。
+Jennings will host as the new season begins in September, as well as act as hosts for the Second Chance competition and auditions of Champions, the announcement said.;公告称，詹宁斯将在9月新赛季开始时担任东道主，并担任第二次机会赛和冠军选拔赛的东道主。
+试镜
+
+Jennings will host as the new season begins in September, as well as act as hosts for the Second Chance competition and auditions of Champions.;詹宁斯将在9月新赛季开始时担任东道主，并担任第二次机会比赛和冠军试镜的东道主。
+Jennings will host as the new season begins in September, as well as act as hosts for the Second Chance competition and auditions of Champions, the announcement said.;公告称，詹宁斯将在9月新赛季开始时担任东道主，并担任第二次机会赛和冠军选拔赛的东道主。
+试镜
+
+
+sent_id = 71
+add [0]
+add [1]
+add [2]
+
+sent_id = 72
+add [0]
+add [1]
+add [2]
+add [3]
+Marvel's success has owed a great deal to the fact that its movies are seen as events.;漫威的成功在很大程度上归功于它的电影被视为事件。
+Marvel's success has owed a great deal to the fact that its movies are seen as events by fans, and the connectedness.;惊奇漫画的成功在很大程度上归功于它的电影被影迷视为事件，以及它的连通性。
+漫威
+
+add [4]
+add [5]
+Marvel's success has owed a great deal to the fact that its movies are seen as events by fans, and the connectedness of its universe.;惊奇漫画的成功在很大程度上归功于它的电影被影迷视为事件，以及它的宇宙的连通性。
+Marvel's success has owed a great deal to the fact that its movies are seen as events by fans, and the connectedness of its universe has undoubtedly contributed mightily.;漫威的成功在很大程度上要归功于粉丝们将其电影视为事件，而其宇宙的连通性无疑起到了巨大的作用。
+惊奇 漫画
+
+add [6]
+Marvel's success has owed a great deal to the fact that its movies are seen as events by fans, and the connectedness of its universe has undoubtedly contributed mightily.;漫威的成功在很大程度上要归功于粉丝们将其电影视为事件，而其宇宙的连通性无疑起到了巨大的作用。
+Marvel's success has owed a great deal to the fact that its movies are seen as events by fans, and the connectedness of its universe has undoubtedly contributed mightily to that dynamic.;漫威的成功在很大程度上要归功于粉丝们将其电影视为事件的事实，而其宇宙的连通性无疑为这一动态做出了巨大贡献。
+起到 作用
+
+
+sent_id = 73
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 74
+add [0]
+it's not the best record the.;这不是最好的记录。
+And even though' Smoke' is an amazing record, it's still not the best record the.;尽管《烟》是一张惊人的唱片，但它仍然不是最好的唱片。
+记录
+
+add [1]
+
+sent_id = 75
+add [0]
+he burst his Mira Sorvino dedicated her Award.;他冲破了米拉·索维诺的胸膛，将奖项献给了她。
+So soft he burst his Mira Sorvino dedicated her Award.;如此温柔，他冲破了米拉·索维诺献给她的奖品。
+胸膛
+
+add [1]
+add [2]
+So soft that he burst his Mira Sorvino dedicated her Award.;如此温柔，他打破了他的米拉·索维诺献给她的奖项。
+So soft that he burst into tears his Mira Sorvino dedicated her Award.;如此温柔，他泪流满面，他的米拉·索维诺为她颁奖。
+献给
+
+add [3]
+So soft that he burst into tears his Mira Sorvino dedicated her Award.;如此温柔，他泪流满面，他的米拉·索维诺为她颁奖。
+So soft that he burst into tears when his daughter Mira Sorvino dedicated her 1996 best supporting actress Academy Award.;当他的女儿米拉·索维诺（Mira Sorvino）为1996年奥斯卡最佳女配角颁奖时，他哭了起来。
+温柔 泪流满面
+
+add [4]
+So soft that he burst into tears when his daughter Mira Sorvino dedicated her 1996 best supporting actress Academy Award.;当他的女儿米拉·索维诺（Mira Sorvino）为1996年奥斯卡最佳女配角颁奖时，他哭了起来。
+So soft that he burst into tears when his daughter Mira Sorvino dedicated her 1996 best supporting actress Academy Award for her role.;当他的女儿米拉·索维诺（Mira Sorvino）将1996年奥斯卡最佳女配角奖颁给他的角色时，他哭了起来。
+颁奖
+
+add [5]
+So soft that he burst into tears when his daughter Mira Sorvino dedicated her 1996 best supporting actress Academy Award for her role.;当他的女儿米拉·索维诺（Mira Sorvino）将1996年奥斯卡最佳女配角奖颁给他的角色时，他哭了起来。
+So soft that he burst into tears when his daughter Mira Sorvino dedicated her 1996 best supporting actress Academy Award for her role in ".;当他的女儿米拉·索维诺（Mira Sorvino）因其在《红楼梦》中的角色而颁发1996年奥斯卡最佳女配角奖时，他哭了起来。
+颁给
+
+add [6]
+So soft that he burst into tears when his daughter Mira Sorvino dedicated her 1996 best supporting actress Academy Award for her role in ".;当他的女儿米拉·索维诺（Mira Sorvino）因其在《红楼梦》中的角色而颁发1996年奥斯卡最佳女配角奖时，他哭了起来。
+So soft that he burst into tears when his daughter Mira Sorvino dedicated her 1996 best supporting actress Academy Award for her role in "Mighty Aphrodite".;当他的女儿米拉·索维诺（Mira Sorvino）因在《强大的阿芙罗狄蒂》（Mighty Aphrodite）中的角色而将1996年奥斯卡最佳女配角奖颁给他时，他哭了起来。
+红楼梦
+
+add [7]
+So soft that he burst into tears when his daughter Mira Sorvino dedicated her 1996 best supporting actress Academy Award for her role in "Mighty Aphrodite".;当他的女儿米拉·索维诺（Mira Sorvino）因在《强大的阿芙罗狄蒂》（Mighty Aphrodite）中的角色而将1996年奥斯卡最佳女配角奖颁给他时，他哭了起来。
+So soft that he burst into tears when his daughter Mira Sorvino dedicated her 1996 best supporting actress Academy Award for her role in "Mighty Aphrodite" to him.;当他的女儿米拉·索维诺（Mira Sorvino）因在《强大的阿芙罗狄蒂》中的角色而将1996年奥斯卡最佳女配角奖献给他时，他非常温柔，哭了起来。
+颁给
+
+
+sent_id = 76
+add [0]
+Barrera holds up her end of the bargain.;巴雷拉坚持她的交易。
+Whether struggling to survive or exhibiting her workaholic side Barrera holds up her end of the bargain.;无论是挣扎着生存，还是展现出她工作狂的一面，巴雷拉都坚持着自己的底线。
+交易
+
+add [1]
+Whether struggling to survive or exhibiting her workaholic side Barrera holds up her end of the bargain.;无论是挣扎着生存，还是展现出她工作狂的一面，巴雷拉都坚持着自己的底线。
+Whether struggling to survive or exhibiting her workaholic side in the flashbacks Barrera holds up her end of the bargain.;无论是挣扎着生存，还是在闪回中展现出她工作狂的一面，巴雷拉都坚持着自己的承诺。
+底线
+
+add [2]
+add [3]
+Whether struggling to survive or exhibiting her workaholic side in the flashbacks, Barrera holds up her end of the bargain, but the writing.;无论是挣扎着生存，还是在倒叙中展现出她工作狂的一面，巴雷拉都坚持着自己的目标，但写作是成功的。
+Whether struggling to survive or exhibiting her workaholic side in the flashbacks, Barrera holds up her end of the bargain, but the writing simply doesn't.;无论是挣扎着生存，还是在闪回中展现出她工作狂的一面，巴雷拉都坚持着自己的交易目标，但写作根本没有。
+成功
+
+
+sent_id = 77
+add [0]
+add [1]
+add [2]
+
+sent_id = 78
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+
+sent_id = 79
+add [0]
+add [1]
+add [2]
+For Backstreet Boys' AJ McLean, pursuing a solo career doesn't mean he has to step away.;对于后街男孩的AJ McLean来说，追求个人职业并不意味着他必须离开。
+For Backstreet Boys' AJ McLean, pursuing a solo career doesn't mean he has to step away from the band.;对于后街男孩的AJ McLean来说，追求独唱生涯并不意味着他必须离开乐队。
+职业
+
+add [3]
+add [4]
+
+sent_id = 80
+add [0]
+he needed to distance himself from Mero.;他需要远离梅罗。
+Mero said he needed to distance himself from Mero.;梅洛说他需要和梅洛保持距离。
+远离
+
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+
+sent_id = 81
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+
+sent_id = 82
+add [0]
+add [1]
+Neither it has revealed what they are working on next and it remains to be seen.;这两份报告都没有透露他们下一步的工作，还有待观察。
+Neither it has revealed what they are working on next and it remains to be seen if the two will reunite professionally or personally.;两人都没有透露下一步的工作，两人是否会在职业上或个人上重聚还有待观察。
+报告
+
+Neither it has revealed what they are working on next and it remains to be seen.;这两份报告都没有透露他们下一步的工作，还有待观察。
+Neither it has revealed what they are working on next and it remains to be seen if the two will reunite professionally or personally.;两人都没有透露下一步的工作，两人是否会在职业上或个人上重聚还有待观察。
+报告
+
+Neither it has revealed what they are working on next and it remains to be seen.;这两份报告都没有透露他们下一步的工作，还有待观察。
+Neither it has revealed what they are working on next and it remains to be seen if the two would reunite professionally or personally.;两人都没有透露下一步的工作，两人是否会在职业上或个人上重聚还有待观察。
+报告
+
+Neither it has revealed what they are working on next and it remains to be seen.;这两份报告都没有透露他们下一步的工作，还有待观察。
+Neither it has revealed what they are working on next and it remains to be seen if the two will reunite together or personally.;两人都没有透露下一步的工作内容，两人是否会重聚还是亲自重聚还有待观察。
+报告
+
+Neither it has revealed what they are working on next and it remains to be seen.;这两份报告都没有透露他们下一步的工作，还有待观察。
+Neither it has revealed what they are working on next and it remains to be seen if the two will reunite professionally or together.;两人都没有透露下一步的工作内容，两人是否会在职业上或一起重聚还有待观察。
+报告
+
+Neither it has revealed what they are working on next and it remains to be seen.;这两份报告都没有透露他们下一步的工作，还有待观察。
+Neither it has revealed what they are working on next and it remains to be seen if the two will reunite professionally or both.;两人都没有透露下一步的工作内容，两人是否会在职业上重聚或两者都重聚还有待观察。
+报告
+
+Neither it has revealed what they are working on next and it remains to be seen.;这两份报告都没有透露他们下一步的工作，还有待观察。
+Neither it has revealed what they are working on next and it remains to be seen if the two will reunite professionally or personally.;两人都没有透露下一步的工作，两人是否会在职业上或个人上重聚还有待观察。
+报告
+
+Neither man has revealed what they are working on next and it remains to be named.;两人都没有透露他们下一步的工作内容，这一点尚待确定。
+Neither man has revealed what they are working on next and it remains to be named if the two will reunite professionally or personally.;两人都没有透露他们下一步的工作，两人是否会在职业上或个人上重聚仍有待确定。
+内容 尚待
+
+Neither man has revealed what they are working on next and it remains to be named.;两人都没有透露他们下一步的工作内容，这一点尚待确定。
+Neither man has revealed what they are working on next and it remains to be named if the two will reunite professionally or personally.;两人都没有透露他们下一步的工作，两人是否会在职业上或个人上重聚仍有待确定。
+内容 尚待
+
+Neither man has revealed what they are working on next and it remains to be named.;两人都没有透露他们下一步的工作内容，这一点尚待确定。
+Neither man has revealed what they are working on next and it remains to be named if the two would reunite professionally or personally.;两人都没有透露他们下一步的工作，两人是否会在职业上或个人上重聚仍有待确定。
+内容 尚待
+
+Neither man has revealed what they are working on next and it remains to be named.;两人都没有透露他们下一步的工作内容，这一点尚待确定。
+Neither man has revealed what they are working on next and it remains to be named if the two will compete professionally or personally.;两人都没有透露他们下一步的工作，两人是否会在职业上或个人上竞争仍有待确定。
+内容 尚待
+
+Neither man has revealed what they are working on next and it remains to be named.;两人都没有透露他们下一步的工作内容，这一点尚待确定。
+Neither man has revealed what they are working on next and it remains to be named if the two will reunite together or personally.;两人都没有透露他们下一步的工作，两人是否会重聚还是亲自重聚仍有待确定。
+内容 尚待
+
+Neither man has revealed what they are working on next and it remains to be named.;两人都没有透露他们下一步的工作内容，这一点尚待确定。
+Neither man has revealed what they are working on next and it remains to be named if the two will reunite professionally or not.;两人都没有透露他们下一步的工作，两人是否会在职业上重聚还有待确定。
+内容 尚待
+
+Neither man has revealed what they are working on next and it remains to be named.;两人都没有透露他们下一步的工作内容，这一点尚待确定。
+Neither man has revealed what they are working on next and it remains to be named if the two will reunite professionally or otherwise.;两人都没有透露他们下一步的工作，两人是否会在职业上重聚还有待确定。
+内容 尚待
+
+Neither man has revealed what they are working on next and it remains to be named.;两人都没有透露他们下一步的工作内容，这一点尚待确定。
+Neither man has revealed what they are working on next and it remains to be named if the two will reunite professionally or personally.;两人都没有透露他们下一步的工作，两人是否会在职业上或个人上重聚仍有待确定。
+内容 尚待
+
+
+sent_id = 83
+add [0]
+add [1]
+In April he feels like he's flying or drowning.;在四月份，他感觉自己像是在飞或是淹死。
+In April, he tweeted a screenshot Note he feels like he's flying or drowning.;今年4月，他在推特上发布了一条截图，他感觉自己在飞或淹死。
+像是
+
+add [2]
+add [3]
+add [4]
+add [5]
+
+sent_id = 84
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+"The number one priority amongst the five of us is Backstreet Boys, which is," he said.;“我们五个人中的头号优先事项是后街男孩，也就是说，”他说。
+"The number one priority amongst the five of us is Backstreet Boys, which is at the epicenter," he said.;“在我们五个人中，后街男孩排在第一位，这是震中，”他说。
+优先 事项
+
+
+sent_id = 85
+add [0]
+add [1]
+Smith says he spent the months replaying.;史密斯说他花了几个月的时间重播。
+Smith says he "spent the last three months replaying and understanding the nuance and the complexities.;史密斯说他“在过去的三个月里重温并理解了其中的细微差别和复杂性。
+时间 重播
+
+add [2]
+add [3]
+Smith says he "spent the last three months replaying and understanding the nuance and the complexities of.;史密斯说他“在过去的三个月里重温并理解了这个过程的细微差别和复杂性。
+Smith says he "spent the last three months replaying and understanding the nuance and the complexities of what happened.;史密斯说，他“在过去三个月里重温并理解了所发生事情的细微差别和复杂性。
+过程
+
+add [4]
+
+sent_id = 86
+add [0]
+add [1]
+add [2]
+Beyoncé cements her ability to go beyond just singing with songs.;碧昂丝巩固了她超越单纯唱歌的能力。
+Beyoncé cements her ability to go beyond just singing with songs like "Cozy" and "Church Girl.;碧昂丝加强了她的能力，不仅仅是唱“舒适”和“教堂女孩”。
+超越
+
+add [3]
+add [4]
+add [5]
+Beyoncé cements her ability to go beyond just singing with songs like "Cozy" and "Church Girl," in which she gives us a sample.;碧昂斯用《舒适》和《教堂女孩》等歌曲来巩固她的能力，她给了我们一个样本。
+Beyoncé cements her ability to go beyond just singing with songs like "Cozy" and "Church Girl," in which she gives us a sample of her ability to spit a little bit.;碧昂斯用《舒适》和《教堂女孩》等歌曲来强化自己的能力，在这些歌曲中，她向我们展示了自己的吐痰能力。
+样本
+
+
+sent_id = 87
+add [0]
+add [1]
+add [2]
+
+sent_id = 88
+add [0]
+add [1]
+Rock has made subtle nods to the slap in comedy shows, but he has not publicly addressed it.;洛克在喜剧节目中对这一耳光表示了微妙的赞同，但他没有公开表示过。
+Rock has made subtle nods to the slap in comedy shows in the months, but he has not publicly addressed it.;在过去的几个月里，洛克对喜剧节目中的“耳光”做出了微妙的回应，但他没有公开回应。
+赞同
+
+Rock has made subtle nods to the slap in comedy shows, but he has not publicly addressed it.;洛克在喜剧节目中对这一耳光表示了微妙的赞同，但他没有公开表示过。
+Rock has made subtle nods to the slap in comedy shows in the months, but he has not publicly addressed it.;在过去的几个月里，洛克对喜剧节目中的“耳光”做出了微妙的回应，但他没有公开回应。
+赞同
+
+add [2]
+Rock has made subtle nods to the slap in comedy shows in the uk, but he has not publicly addressed it.;洛克对英国喜剧节目中的“耳光”表示了微妙的赞同，但他并没有公开发表意见。
+Rock has made subtle nods to the slap in comedy shows in the uk since, but he has not publicly addressed it.;自那以后，洛克对英国喜剧节目中的“耳光”表示了微妙的赞同，但他没有公开表示过。
+意见
+
+Rock has made subtle nods to the slap in comedy shows in the months, but he has not publicly addressed it.;在过去的几个月里，洛克对喜剧节目中的“耳光”做出了微妙的回应，但他没有公开回应。
+Rock has made subtle nods to the slap in comedy shows in the months ahead, but he has not publicly addressed it.;在接下来的几个月里，洛克对喜剧节目中的“耳光”表示了微妙的赞同，但他没有公开表示。
+做出
+
+Rock has made subtle nods to the slap in comedy shows in the months, but he has not publicly addressed it.;在过去的几个月里，洛克对喜剧节目中的“耳光”做出了微妙的回应，但他没有公开回应。
+Rock has made subtle nods to the slap in comedy shows in the months since, but he has not publicly addressed it.;在此后的几个月里，洛克对喜剧节目中的“耳光”表示了微妙的赞同，但他没有公开表示过。
+做出
+
+Rock has made subtle nods to the slap in comedy shows in the uk, but he has not publicly addressed it.;洛克对英国喜剧节目中的“耳光”表示了微妙的赞同，但他并没有公开发表意见。
+Rock has made subtle nods to the slap in comedy shows in the uk since, but he has not publicly addressed it.;自那以后，洛克对英国喜剧节目中的“耳光”表示了微妙的赞同，但他没有公开表示过。
+意见
+
+Rock has made subtle nods to the slap in comedy shows in the months, but he has not publicly addressed it.;在过去的几个月里，洛克对喜剧节目中的“耳光”做出了微妙的回应，但他没有公开回应。
+Rock has made subtle nods to the slap in comedy shows in the months ahead, but he has not publicly addressed it.;在接下来的几个月里，洛克对喜剧节目中的“耳光”表示了微妙的赞同，但他没有公开表示。
+做出
+
+Rock has made subtle nods to the slap in comedy shows in the months, but he has not publicly addressed it.;在过去的几个月里，洛克对喜剧节目中的“耳光”做出了微妙的回应，但他没有公开回应。
+Rock has made subtle nods to the slap in comedy shows in the months since, but he has not publicly addressed it.;在此后的几个月里，洛克对喜剧节目中的“耳光”表示了微妙的赞同，但他没有公开表示过。
+做出
+
+add [3]
+
+sent_id = 89
+add [0]
+add [1]
+add [2]
+add [3]
+Later, both men admitted to killing Till but they were indemnified from further justice.;后来，两人都承认杀害了蒂尔，但他们得到了进一步的司法赔偿。
+Later, both men admitted to killing Till but they were indemnified from further justice by double jeopardy.;后来，两人都承认杀害了蒂尔，但他们因双重危险而免于进一步的审判。
+司法 赔偿
+
+
+sent_id = 90
+add [0]
+add [1]
+
+sent_id = 91
+add [0]
+add [1]
+add [2]
+The younger Phillippe has been mostly delving into music prior, releasing his debut track in 2020.;年轻的菲利普此前一直在钻研音乐，在2020年发行了他的首张曲目。
+The younger Phillippe has been mostly delving into music prior to acting, releasing his debut track in 2020.;年轻的菲利普在演戏之前主要研究音乐，在2020年发行了他的首张曲目。
+此前
+
+
+sent_id = 92
+add [0]
+A look at some of the shows and movies streaming Netflix.;看看Netflix流媒体播放的一些节目和电影。
+A look at some of the shows and movies streaming on Netflix, Amazon, Hulu and Disney+.;看看Netflix、亚马逊、Hulu和迪斯尼+上的一些节目和电影流。
+流媒体 播放
+
+add [1]
+
+sent_id = 93
+add [0]
+
+sent_id = 94
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+The two were each favorites of Black Twitter for their witty tweets, before coming together professionally in December 2013 to offer their takes on pop culture, "Desus vs.;这两人都因其诙谐的推特而成为黑人推特的最爱，然后于2013年12月正式走到一起，展示他们对流行文化的看法。
+The two were each favorites of Black Twitter for their witty tweets, before coming together professionally in December 2013 to offer their takes on pop culture with the Complex podcast, "Desus vs.;这两人都因其诙谐的推特而成为黑人推特的最爱，然后于2013年12月正式走到一起，通过复杂的播客“Desus vs。
+展示 流行 文化 看法
+
+
+sent_id = 95
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+
+sent_id = 96
+add [0]
+add [1]
+add [2]
+add [3]
+I 'm a passionate dog mom myself, so I wanted to ask you a little bit about your journey, and.;我自己也是一个热情的狗妈妈，所以我想问你一点关于你的旅程，还有。
+I 'm a passionate dog mom myself, so I wanted to ask you a little bit about your journey as a dog dad, and.;我自己也是一个热情的狗妈妈，所以我想问你一点关于你作为狗爸爸的经历，还有。
+旅程
+
+add [4]
+add [5]
+add [6]
+
+sent_id = 97
+add [0]
+add [1]
+add [2]
+According to end this new album is Act I recorded the.;据end介绍，这张新专辑是我录制的。
+According to end, this new album is just "Act I" recorded the.;根据end的说法，这张新专辑只是“第一幕”录制的。
+介绍
+
+add [3]
+According to end, this new album is just "Act I" recorded the.;根据end的说法，这张新专辑只是“第一幕”录制的。
+According to end, this new album is just "Act I" of three recorded the.;根据end的说法，这张新专辑只是三张唱片中的“第一幕”。
+录制
+
+According to her, this new album is just "Act I" recorded the.;据她说，这张新专辑只是“第一幕”录制的。
+According to her, this new album is just "Act I" of three recorded the.;据她说，这张新专辑只是三张唱片中的“第一幕”。
+录制
+
+add [4]
+
+sent_id = 98
+add [0]
+add [1]
+He later quipped, "Anyone words hurt has never been punched in the face.;他后来打趣道：“任何受到伤害的人从来没有被打到过脸上。
+He later quipped, "Anyone who says words hurt has never been punched in the face.;他后来打趣道：“任何说伤害话的人从来没有被打过脸。
+脸上
+
+
+sent_id = 99
+add [0]
+add [1]
+Smith sighs then offers his thoughts an altercation.;史密斯叹了口气，然后提出了自己的想法。
+Smith sighs then offers his thoughts about an altercation.;史密斯叹了口气，然后提出了他对争吵的看法。
+想法
+
+add [2]
+

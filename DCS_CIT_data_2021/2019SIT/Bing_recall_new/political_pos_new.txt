@@ -1,0 +1,600 @@
+#0:
+Children in the top 1 % of families were 77 times more likely to attend these institutions than children from parents in the bottom fifth of families , the analysis said .
+分析称，排名前1%的家庭中的儿童参加这些机构的可能性是排名最后五分之一家庭的父母的孩子的77倍。
+Children in the top 1 % of families were 77 times more likely to attend these institutions than children from parents in the bottom fifth of families .
+排名前1%的家庭中的儿童参加这些机构的可能性是收入最低的五分之一家庭的父母的孩子的77倍。
+--FP--
+#1:
+the Executive Branch ' s detention of remained mandatory .
+行政部门对行政部门的拘留仍然是强制性的。
+The she correctly holds the Executive Branch ' s detention of remained mandatory .
+她正确地认为行政部门的拘留仍然是强制性的。
+--TN--
+#2:
+I have always said to my parents that focusing just on affirmative action ... is not a lot .
+我总是对我的父母说，只关注平权行动......不是很多。
+I have always said to my parents focusing just on affirmative action ... is not a lot .
+我总是对我的父母说，只关注平权行动......不是很多。
+--TN--
+#3:
+We , too , have seen the face of such evil with attacks in places .
+我们也看到了这种邪恶的面孔，在一些地方发动袭击。
+We , too , have seen the face of such evil with attacks .
+我们也看到了这种邪恶的面孔和攻击。
+--TN--
+#4:
+And attacking a dead man who spent five years as a kid of war is wrong .
+攻击一个在战争中扮演了五年时间的死人是错误的。
+And attacking a dead man who spent five years as a kid is wrong .
+攻击一个小时候呆了五年的死人是错误的。
+--FN--
+#5:
+And attacking a dead man who spent five years as a kid of war and another three decades serving the army , is simply wrong .
+攻击一个在战争中度过了五年，又在军队服役了三十年的死者，是完全错误的。
+And attacking a dead man who spent five years as a kid of war is wrong .
+攻击一个在战争中扮演了五年时间的死人是错误的。
+--TP--
+#6:
+And attacking a dead man who was five years as a year of war and another three decades serving the country , is simply wrong .
+攻击一个死了一个五年的战争年，又为国家服务了三十年，是完全错误的。
+And attacking a dead man who was five years as a year of war is wrong .
+攻击一个战争五年的死人是错误的。
+--FN--
+#7:
+And attacking a dead man who spent five days as a prisoner of war and another two decades serving the country , is simply wrong .
+攻击一个作为战俘度过了五天，又为国家服务了二十年的死者，是完全错误的。
+And attacking a dead man who spent five days as a prisoner of war is wrong .
+攻击一个作为战俘度过了五天的死者是错误的。
+--TN--
+#8:
+And attacking a dead man who spent five years as a prisoner of war and another three decades serving the people , is simply wrong .
+攻击一个作为战俘度过了五年，又为人民服务了三十年的死者，是完全错误的。
+And attacking a dead man who spent five years as a prisoner of war is wrong .
+攻击一个作为战俘度过了五年的死者是错误的。
+--TN--
+#9:
+And attacking a dead man who spent five years as a prisoner of war and then three decades serving the country in elected office , is simply wrong .
+攻击一个作为战俘度过了五年，然后在民选公职中为国家服务了三十年的死者是完全错误的。
+And attacking a dead man who spent five years as a prisoner of war and then three decades serving the country , is simply wrong .
+攻击一个作为战俘度过了五年，然后为国家服务了三十年的死者是完全错误的。
+--TN--
+#10:
+And attacking a dead man who spent five years as a prisoner of war and another three years serving the country in elected office , is simply wrong .
+攻击一个作为战俘度过了五年，又在民选公职中为国家服务了三年的死者是完全错误的。
+And attacking a dead man who spent five years as a prisoner of war and another three years serving the country , is simply wrong .
+攻击一个作为战俘度过了五年，又为国家服务了三年的死者，是完全错误的。
+--TN--
+#11:
+And attacking a dead man who spent five years as a prisoner of war and another three decades serving the people in elected positions , is simply wrong .
+攻击一个作为战俘度过了五年，又在民选职位上为人民服务了三十年的死者是完全错误的。
+And attacking a dead man who spent five years as a prisoner of war and another three decades serving the people , is simply wrong .
+攻击一个作为战俘度过了五年，又为人民服务了三十年的死者，是完全错误的。
+--TN--
+#12:
+And attacking a dead man who spent five years as a boxer of war and another three years serving the country in elected office , is simply wrong .
+攻击一个在战争中度过了五年战争拳击手，又在民选公职中为国家服务了三年的死者是完全错误的。
+And attacking a dead man who spent five years as a boxer of war and another three years serving the country , is simply wrong .
+攻击一个花了五年时间当了五年战争拳击手，又花了三年时间为国家服务的死人，是完全错误的。
+--TP--
+#13:
+And attacking a dead man who was five years as a kid of war and another three decades serving the military in elected office , is simply wrong .
+攻击一个五年战争的死者，又在民选公职中服役三十年，是完全错误的。
+And attacking a dead man who was five years as a kid of war and another three decades serving the military , is simply wrong .
+攻击一个五年战争和另外三十年服役的死者是完全错误的。
+--TN--
+#14:
+And attacking a dead man who spent five days as a child of war and another two decades serving the country in elected government , is simply wrong .
+攻击一个在战争中度过了五天，又在民选政府中为国家服务了二十年的死者是完全错误的。
+And attacking a dead man who spent five days as a child of war and another two decades serving the country , is simply wrong .
+攻击一个在战争中度过了五天，又为国家服务了二十年的死者，是完全错误的。
+--TN--
+#15:
+And attacking a dead man who spent five days as a prisoner of war and another three decades serving the enemy in elected office , is simply wrong .
+攻击一个作为战俘度过了五天，又在民选公职中为敌人服务了三十年的死人是完全错误的。
+And attacking a dead man who spent five days as a prisoner of war and another three decades serving the enemy , is simply wrong .
+攻击一个作为战俘度过了五天，又为敌人服务了三十年的死人，是完全错误的。
+--TN--
+#16:
+And attacking a dead man who spent five days as a prisoner of war and another two decades serving the country in elected office , is simply wrong .
+攻击一个作为战俘度过了五天，又在民选公职中为国家服务了二十年的死者是完全错误的。
+And attacking a dead man who spent five days as a prisoner of war and another two decades serving the country , is simply wrong .
+攻击一个作为战俘度过了五天，又为国家服务了二十年的死者，是完全错误的。
+--TN--
+#17:
+And attacking a dead man who spent five years as a prisoner of war and another three years serving the country in elected terms , is simply wrong .
+攻击一个作为战俘度过了五年，又在民选任期内为国家服务了三年的死者是完全错误的。
+And attacking a dead man who spent five years as a prisoner of war and another three years serving the country , is simply wrong .
+攻击一个作为战俘度过了五年，又为国家服务了三年的死者，是完全错误的。
+--TN--
+#18:
+And attacking a dead man who spent five years as a kid of war and another three years serving the country in elected offices , is simply wrong .
+攻击一个在战争中度过了五年，又在民选公职中为国家服务了三年的死者是完全错误的。
+And attacking a dead man who spent five years as a kid of war and another three years serving the country , is simply wrong .
+攻击一个在战争中度过了五年，又为国家服务了三年的死者，是完全错误的。
+--TN--
+#19:
+And attacking a dead man who spent five years as a boxer of war and another three years serving the country in elected office , is simply wrong .
+攻击一个在战争中度过了五年战争拳击手，又在民选公职中为国家服务了三年的死者是完全错误的。
+And attacking a dead man who spent five years as a boxer of war and another three years serving the country , is simply wrong .
+攻击一个花了五年时间当了五年战争拳击手，又花了三年时间为国家服务的死人，是完全错误的。
+--TP--
+#20:
+And attacking a dead man who spent five years as a prisoner of war and spent three decades serving the country in elected office , is simply wrong .
+攻击一个作为战俘度过了五年，并在民选公职中为国家服务了三十年的死者是完全错误的。
+And attacking a dead man who spent five years as a prisoner of war and spent three decades serving the country , is simply wrong .
+攻击一个作为战俘度过了五年，花了三十年为国家服务的死者是完全错误的。
+--TN--
+#21:
+And attacking a dead man who spent five years as a prisoner of war and another three decades serving the enemy in elected office , is simply wrong .
+攻击一个作为战俘度过了五年，又在民选公职中为敌人服务了三十年的死者是完全错误的。
+And attacking a dead man who spent five years as a prisoner of war and another three decades serving the enemy , is simply wrong .
+攻击一个作为战俘度过了五年，又为敌人服务了三十年的死者，是完全错误的。
+--TN--
+#22:
+And attacking a dead man who spent five years as a prisoner of war and another three decades serving the country in elected terms , is simply wrong .
+攻击一个作为战俘度过了五年，又以民选身份为国家服务了三十年的死者是完全错误的。
+And attacking a dead man who spent five years as a prisoner of war and another three decades serving the country , is simply wrong .
+攻击一个作为战俘度过了五年，又为国家服务了三十年的死者，是完全错误的。
+--TN--
+#23:
+African American and Latino students compose only 19 % of the entering class .
+非裔美国人和拉丁裔学生仅占入学班级的19%。
+In these top tier public school African American and Latino students compose only 19 % of the entering class .
+在这些顶级公立学校中，非裔美国人和拉丁裔学生仅占入学班级的19%。
+--TN--
+#24:
+In a series of pointed questions Trump the economy is good .
+在一系列尖锐的问题中，特朗普的经济是好的。
+In a series Trump the economy is good .
+在特朗普系列中，经济是好的。
+--TN--
+#25:
+In a series of pointed questions , Trump says the economy is good , so Chevy should keep the plant , .
+在一系列尖锐的问题中，特朗普表示经济状况良好，因此雪佛兰应该保留该工厂。
+In a series of pointed questions , Trump says the economy is good , .
+在一系列尖锐的问题中，特朗普说经济很好。
+--TN--
+#26:
+In a series of pointed points , Trump says the economy is good , so Chevy will keep the plant , the closure of which was announced .
+在一系列尖锐的要点中，特朗普表示经济状况良好，因此雪佛兰将保留该工厂，并宣布关闭该工厂。
+In a series of pointed points , Trump says the economy is good , so Chevy will keep the plant , .
+在一系列尖锐的要点中，特朗普表示经济状况良好，因此雪佛兰将保留该工厂。
+--TN--
+#27:
+In a series of pointed points , Trump says the economy is good , so Chevy will keep the plant , the closure of which was announced .
+在一系列尖锐的要点中，特朗普表示经济状况良好，因此雪佛兰将保留该工厂，并宣布关闭该工厂。
+In a series of pointed points , Trump says the economy is good , so Chevy will keep the plant , .
+在一系列尖锐的要点中，特朗普表示经济状况良好，因此雪佛兰将保留该工厂。
+--TN--
+#28:
+In a series of pointed points , Trump said the economy is good , so Chevy would keep the plant , the closure of which was announced back in November .
+在一系列尖锐的观点中，特朗普表示经济状况良好，因此雪佛兰将保留该工厂，该工厂于11月宣布关闭。
+In a series of pointed points , Trump said the economy is good , so Chevy would keep the plant , the closure of which was announced .
+在一系列尖锐的要点中，特朗普表示经济状况良好，因此雪佛兰将保留该工厂，并宣布关闭该工厂。
+--TP--
+#29:
+In a series of pointed questions , Trump says the economy is good , so Chevy will keep the plant , the closure of which was announced back in November .
+在一系列尖锐的问题中，特朗普说经济状况良好，因此雪佛兰将保留该工厂，该工厂于11月宣布关闭。
+In a series of pointed questions , Trump says the economy is good , so Chevy will keep the plant , the closure of which was announced .
+在一系列尖锐的问题中，特朗普表示经济状况良好，因此雪佛兰将保留该工厂，并宣布关闭该工厂。
+--TN--
+#30:
+In a series of pointed questions , Trump says the economy is good , so Chevy should keep the peace , the closure of it was announced later in November .
+在一系列尖锐的问题中，特朗普表示经济状况良好，因此雪佛兰应该保持和平，关闭是在11月晚些时候宣布的。
+In a series of pointed questions , Trump says the economy is good , so Chevy should keep the peace , the closure of it was announced .
+在一系列尖锐的提问中，特朗普表示经济状况良好，所以雪佛兰应该保持和平，宣布关闭它。
+--TN--
+#31:
+In a series of pointed questions , Trump thinks the economy is good , so Chevy should keep the peace , the date of which was announced back in November .
+在一系列尖锐的问题中，特朗普认为经济是好的，所以雪佛兰应该保持和平，其日期早在11月就宣布了。
+In a series of pointed questions , Trump thinks the economy is good , so Chevy should keep the peace , the date of which was announced .
+在一系列尖锐的问题中，特朗普认为经济是好的，所以雪佛兰应该保持和平，其日期已经公布。
+--TN--
+#32:
+When asked about the woman from drones , Nielsen said during the super Bowl we did see drones .
+当被问及无人机的女人时，尼尔森说在超级碗期间我们确实看到了无人机。
+When asked about the woman from drones , Nielsen said we did see drones .
+当被问及无人机上的女人时，尼尔森说我们确实看到了无人机。
+--TN--
+#33:
+When asked about the threat from drones , Nielsen said during the super Bowl the department tried out new equipment and confirmed we did see drones .
+当被问及无人机的威胁时，尼尔森说，在超级碗期间，该部门尝试了新设备，并证实我们确实看到了无人机。
+When asked about the threat from drones , Nielsen said during the super Bowl we did see drones .
+当被问及无人机的威胁时，尼尔森说在超级碗期间我们确实看到了无人机。
+--TN--
+#34:
+When asked about the others from drones , Nielsen said during the Super Bowl the guys tried out new defenses and confirmed we did see drones .
+当被问及无人机的其他球员时，尼尔森说，在超级碗期间，这些家伙尝试了新的防御措施，并证实我们确实看到了无人机。
+When asked about the others from drones , Nielsen said during the Super Bowl we did see drones .
+当被问及其他无人机时，尼尔森说在超级碗期间我们确实看到了无人机。
+--FN--
+#35:
+When asked about the threat from drones , Nielsen said during the Super Bowl the department tried out new defenses and confirmed we did see drones .
+当被问及无人机的威胁时，尼尔森说，在超级碗期间，该部门尝试了新的防御措施，并证实我们确实看到了无人机。
+When asked about the threat from drones , Nielsen said during the Super Bowl we did see drones .
+当被问及无人机的威胁时，尼尔森说，在超级碗期间，我们确实看到了无人机。
+--TN--
+#36:
+When asked about the threat from drones , Nielsen said during the rose Bowl the department tried out new ideas and confirmed that we did see drones .
+当被问及无人机的威胁时，尼尔森说，在玫瑰碗期间，该部门尝试了新的想法，并确认我们确实看到了无人机。
+When asked about the threat from drones , Nielsen said during the rose Bowl the department tried out new ideas and confirmed we did see drones .
+当被问及无人机的威胁时，尼尔森说，在玫瑰碗期间，该部门尝试了新的想法，并证实我们确实看到了无人机。
+--TN--
+#37:
+When asked about the others from drones , Nielsen said during the super Bowl the department tried out some defenses and confirmed that we did see drones .
+当被问及其他无人机时，尼尔森说，在超级碗期间，该部门尝试了一些防御措施，并确认我们确实看到了无人机。
+When asked about the others from drones , Nielsen said during the super Bowl the department tried out some defenses and confirmed we did see drones .
+当被问及无人机的其他方面时，尼尔森说，在超级碗期间，该部门尝试了一些防御措施，并证实我们确实看到了无人机。
+--FN--
+#38:
+When asked about the others from drones , Nielsen said during the rose Bowl the guys tried out new defenses and confirmed that we did see drones .
+当被问及无人机的其他方面时，尼尔森说，在玫瑰碗期间，这些家伙尝试了新的防御措施，并证实我们确实看到了无人机。
+When asked about the others from drones , Nielsen said during the rose Bowl the guys tried out new defenses and confirmed we did see drones .
+当被问及其他无人机时，尼尔森说，在玫瑰碗期间，这些家伙尝试了新的防御措施，并证实我们确实看到了无人机。
+--TN--
+#39:
+When asked about the threat from drones , Nielsen said during the super Bowl the team tried out new defenses and confirmed that we did see drones .
+当被问及无人机的威胁时，尼尔森说，在超级碗期间，该团队尝试了新的防御措施，并证实我们确实看到了无人机。
+When asked about the threat from drones , Nielsen said during the super Bowl the team tried out new defenses and confirmed we did see drones .
+当被问及无人机的威胁时，尼尔森说，在超级碗期间，球队尝试了新的防御措施，并证实我们确实看到了无人机。
+--TN--
+#40:
+When asked about the threat from drones , Nielsen said during the rose Bowl the department tried some new defenses and confirmed that we did see drones .
+当被问及无人机的威胁时，尼尔森说，在玫瑰碗期间，该部门尝试了一些新的防御措施，并证实我们确实看到了无人机。
+When asked about the threat from drones , Nielsen said during the rose Bowl the department tried some new defenses and confirmed we did see drones .
+当被问及无人机的威胁时，尼尔森说，在玫瑰碗期间，该部门尝试了一些新的防御措施，并证实我们确实看到了无人机。
+--TN--
+#41:
+Mueller also received warrant approvals on November 7 , 2017 , and January 4 , 2018 , to track the numbers .
+穆勒还在2017年11月7日和2018年1月4日获得了追踪数字的授权批准。
+Mueller also received warrant approvals , 2017 , and January 4 , 2018 , to track the numbers .
+穆勒还获得了2017年和2018年1月4日的授权批准，以追踪这些数字。
+--FN--
+#42:
+After feel guilty in the Manhattan probe , Cohen also later pleaded guilty to lying to Congress .
+在曼哈顿调查中感到内疚后，科恩后来也承认向国会撒谎。
+After feel guilty in the Manhattan probe Cohen pleaded guilty to lying to Congress .
+在曼哈顿调查中感到内疚后，科恩承认向国会撒谎。
+--TN--
+#43:
+After pleading guilty in the Manhattan murder , Cohen also later pleaded guilty to lying to Congress in a case brought by Mueller ' s investigators .
+在曼哈顿谋杀案认罪后，科恩后来也承认在穆勒的调查人员提起的案件中向国会撒谎。
+After pleading guilty in the Manhattan murder , Cohen also later pleaded guilty to lying to Congress in a case brought .
+在曼哈顿谋杀案认罪后，科恩后来也承认在一个案件中向国会撒谎。
+--TN--
+#44:
+After pleading suicide in the Manhattan valley , Cohen also later pleaded guilty to lying to Congress in a motion brought by Mueller ' s office .
+在曼哈顿山谷认罪后，科恩后来也承认在穆勒办公室提出的动议中向国会撒谎。
+After pleading suicide in the Manhattan valley , Cohen also later pleaded guilty to lying to Congress in a motion brought .
+在曼哈顿山谷认罪后，科恩后来也承认在一项动议中向国会撒谎。
+--TN--
+#45:
+Instead , in describing to a federal judge the probable cause , investigators write over 20 pages .
+相反，在向联邦法官描述可能的原因时，调查人员写了20多页。
+Instead , in describing the probable cause , investigators write over 20 pages .
+相反，在描述可能的原因时，调查人员写了超过20页。
+--FP--
+#46:
+Instead , in describing to a local judge the probable cause , investigators write almost 20 pages .
+相反，在向当地法官描述可能的原因时，调查人员写了近20页。
+Instead , in describing the probable cause , investigators write almost 20 pages .
+相反，在描述可能的原因时，调查人员写了近20页。
+--TN--
+#47:
+Instead , in describing to a federal judge the probable cause they had to investigate clinton ' s campaign finance scheme , investigators were almost 20 pages .
+相反，在向联邦法官描述他们必须调查克林顿竞选资金计划的可能原因时，调查人员几乎用了20页。
+Instead , in describing to a federal judge the probable cause , investigators were almost 20 pages .
+相反，在向联邦法官描述可能的原因时，调查人员几乎有20页。
+--FN--
+#48:
+Instead , in describing to a federal judge the probable cause they had to investigate trump ' s campaign finance scheme , investigators were almost 20 pages of them .
+相反，在向联邦法官描述他们必须调查特朗普的竞选资金计划的可能原因时，调查人员几乎有20页。
+Instead , in describing to a federal judge the probable cause they had to investigate trump ' s campaign finance scheme , investigators were almost 20 pages .
+相反，在向联邦法官描述他们必须调查特朗普的竞选财务计划的可能原因时，调查人员几乎有20页。
+--FN--
+#49:
+Instead , in describing to a federal party the probable cause they had to investigate clinton ' s campaign finance scheme , investigators were almost 20 pages of them .
+相反，在向一个联邦政党描述他们必须调查克林顿竞选资金计划的可能原因时，调查人员几乎有20页。
+Instead , in describing to a federal party the probable cause they had to investigate clinton ' s campaign finance scheme , investigators were almost 20 pages .
+相反，在向一个联邦政党描述他们必须调查克林顿竞选资金计划的可能原因时，调查人员几乎有20页。
+--FN--
+#50:
+Instead , in describing to a federal party the probable cause they had to investigate Cohen ' s campaign finance scheme , investigators were almost 20 pages of them .
+相反，在向一个联邦政党描述他们必须调查科恩的竞选资金计划的可能原因时，调查人员几乎是20页。
+Instead , in describing to a federal party the probable cause they had to investigate Cohen ' s campaign finance scheme , investigators were almost 20 pages .
+相反，在向一个联邦政党描述他们必须调查科恩竞选资金计划的可能原因时，调查人员几乎有20页。
+--TN--
+#51:
+Instead , in describing to a federal judge the probable cause they had to investigate Cohen ' s campaign finance claims , investigators write over 20 pages of books .
+相反，在向联邦法官描述他们必须调查科恩竞选资金索赔的可能原因时，调查人员写了20多页的书。
+Instead , in describing to a federal judge the probable cause they had to investigate Cohen ' s campaign finance claims , investigators write over 20 pages .
+相反，在向联邦法官描述他们必须调查科恩竞选资金索赔的可能原因时，调查人员写了20多页。
+--TN--
+#52:
+Instead , in describing to a federal person the probable cause who had to investigate Cohen ' s campaign finance scheme , investigators write over 20 pages of detail .
+相反，在向一个联邦人士描述必须调查科恩竞选资金计划的可能原因时，调查人员写了20多页的细节。
+Instead , in describing to a federal person the probable cause who had to investigate Cohen ' s campaign finance scheme , investigators write over 20 pages .
+相反，在向一个联邦人士描述必须调查科恩竞选资金计划的可能原因时，调查人员写了20多页。
+--TN--
+#53:
+Instead , in describing to a federal meeting the probable cause they had to investigate Cohen ' s campaign finance claims , investigators write over 20 pages of detail .
+相反，在向联邦会议描述他们必须调查科恩竞选资金主张的可能原因时，调查人员写了20多页的细节。
+Instead , in describing to a federal meeting the probable cause they had to investigate Cohen ' s campaign finance claims , investigators write over 20 pages .
+相反，在向一次联邦会议描述他们必须调查科恩竞选资金主张的可能原因时，调查人员写了20多页。
+--TN--
+#54:
+Instead , in describing to a federal judge the probable cause they had to investigate Cohen ' s campaign finance allegations , investigators write almost 20 pages of detail .
+相反，在向联邦法官描述他们必须调查科恩竞选财务指控的可能原因时，调查人员写了近20页的细节。
+Instead , in describing to a federal judge the probable cause they had to investigate Cohen ' s campaign finance allegations , investigators write almost 20 pages .
+相反，在向联邦法官描述他们必须调查科恩竞选财务指控的可能原因时，调查人员写了近20页。
+--TN--
+#55:
+Instead , in describing to a federal judge the probable cause it had to investigate Cohen ' s campaign finance scheme , investigators were almost 20 pages of detail that are all redacted .
+相反，在向联邦法官描述调查科恩竞选资金计划的可能原因时，调查人员有近20页的细节都被编辑了。
+Instead , in describing to a federal judge the probable cause it had to investigate Cohen ' s campaign finance scheme , investigators were almost 20 pages of detail .
+相反，在向联邦法官描述调查科恩竞选资金计划的可能原因时，调查人员有近20页的细节。
+--TN--
+#56:
+Instead , in describing to a federal audience the probable cause they had to investigate Cohen ' s campaign finance scheme , investigators were almost 20 pages of detail that are all redacted .
+相反，在向联邦听众描述他们必须调查科恩的竞选资金计划的可能原因时，调查人员有近20页的细节都被编辑了。
+Instead , in describing to a federal audience the probable cause they had to investigate Cohen ' s campaign finance scheme , investigators were almost 20 pages of detail .
+相反，在向联邦听众描述他们必须调查科恩竞选资金计划的可能原因时，调查人员几乎有20页的细节。
+--FN--
+#57:
+Instead , in describing to a federal party the probable cause they had to investigate Cohen ' s personal finance scheme , investigators were almost 20 pages of detail that are all redacted .
+相反，在向一个联邦党派描述他们必须调查科恩的个人理财计划的可能原因时，调查人员有近20页的细节都被编辑了。
+Instead , in describing to a federal party the probable cause they had to investigate Cohen ' s personal finance scheme , investigators were almost 20 pages of detail .
+相反，在向一个联邦党派描述他们必须调查科恩的个人理财计划的可能原因时，调查人员有近20页的细节。
+--FN--
+#58:
+Instead , in describing to a local judge the probable cause they had to investigate Cohen ' s personal finance scheme , investigators write over 20 pages of them that are all redacted .
+相反，在向当地法官描述他们必须调查科恩的个人理财计划的可能原因时，调查人员写了20多页，这些页面都被编辑了。
+Instead , in describing to a local judge the probable cause they had to investigate Cohen ' s personal finance scheme , investigators write over 20 pages of them .
+相反，在向当地法官描述他们必须调查科恩个人理财计划的可能原因时，调查人员写了20多页。
+--TN--
+#59:
+Instead , in describing to a federal meeting the probable cause they had to investigate paul ' s campaign finance scheme , investigators write over 20 pages of reports that are all redacted .
+相反，在向联邦会议描述他们必须调查保罗的竞选资金计划的可能原因时，调查人员写了20多页的报告，这些报告都被编辑了。
+Instead , in describing to a federal meeting the probable cause they had to investigate paul ' s campaign finance scheme , investigators write over 20 pages of reports .
+相反，在向一次联邦会议描述他们必须调查保罗的竞选资金计划的可能原因时，调查人员写了20多页的报告。
+--TN--
+#60:
+Instead , in describing to a federal meeting the probable cause they had to investigate Cohen ' s campaign finance scheme , investigators write over 20 pages of them that are all good .
+相反，在向一次联邦会议描述他们必须调查科恩的竞选资金计划的可能原因时，调查人员写了20多页，这些都很好。
+Instead , in describing to a federal meeting the probable cause they had to investigate Cohen ' s campaign finance scheme , investigators write over 20 pages of them .
+相反，在向一次联邦会议描述他们必须调查科恩竞选资金计划的可能原因时，调查人员写了20多页。
+--TN--
+#61:
+Instead , in describing to a federal judge the probable cause it had to investigate Cohen ' s campaign finance scheme , investigators write over 20 pages of them that are all good .
+相反，在向联邦法官描述调查科恩竞选资金计划的可能原因时，调查人员写了20多页，这些都很好。
+Instead , in describing to a federal judge the probable cause it had to investigate Cohen ' s campaign finance scheme , investigators write over 20 pages of them .
+相反，在向联邦法官描述调查科恩竞选资金计划的可能原因时，调查人员写了20多页。
+--TN--
+#62:
+Instead , in describing to a federal judge the probable cause they had to investigate Cohen ' s campaign finance claims , investigators write over 20 pages of books that are all redacted .
+相反，在向联邦法官描述他们必须调查科恩竞选资金索赔的可能原因时，调查人员写了20多页的书，这些书都被编辑了。
+Instead , in describing to a federal judge the probable cause they had to investigate Cohen ' s campaign finance claims , investigators write over 20 pages of books .
+相反，在向联邦法官描述他们必须调查科恩竞选资金索赔的可能原因时，调查人员写了20多页的书。
+--TN--
+#63:
+Instead , in describing to a federal judge the probable cause they had to investigate Cohen ' s campaign finance scheme , investigators write almost 20 pages of detail that are all redacted .
+相反，在向联邦法官描述他们必须调查科恩的竞选资金计划的可能原因时，调查人员写了近20页的细节，这些细节都被编辑了。
+Instead , in describing to a federal judge the probable cause they had to investigate Cohen ' s campaign finance scheme , investigators write almost 20 pages of detail .
+相反，在向联邦法官描述他们必须调查科恩竞选资金计划的可能原因时，调查人员写了近20页的细节。
+--TN--
+#64:
+A year before , in september , Ford again shifted plans and announced it would make those electric cars in Mexico .
+一年前的9月，福特再次改变计划，宣布将在墨西哥生产这些电动汽车。
+A year before , , Ford again shifted plans and announced it would make those electric cars in Mexico .
+一年前，福特再次改变计划，宣布将在墨西哥生产这些电动汽车。
+--TN--
+#65:
+A year later , in september , Ford again shifted plans and announced it would make those electric cars in Mexico .
+一年后的9月，福特再次改变计划，宣布将在墨西哥生产这些电动汽车。
+A year later , , Ford again shifted plans and announced it would make those electric cars in Mexico .
+一年后，福特再次改变计划，宣布将在墨西哥生产这些电动汽车。
+--TN--
+#66:
+Now it will utilize the site to make smaller flat screen panels than originally anticipated .
+现在，它将利用该网站制作比原先预期的更小的平板显示器 。
+Now it will utilize the site to make smaller flat screen panels .
+现在，它将利用该网站制作更小的平板显示器 。
+--TN--
+#67:
+I am very concerned about whether these institutions are doing a good enough job at helping these students to graduation .
+我非常担心这些机构在帮助这些学生毕业方面是否做得足够好。
+I am very concerned about whether these institutions are doing a good enough job at helping these students .
+我非常担心这些机构在帮助这些学生方面是否做得足够好。
+--TN--
+#68:
+Covering a memorial service in the nation ' s capital and then traveling as well as was an adult , he says .
+他说，在国家首都的追悼会上，然后旅行，以及一个成年人。
+Covering a memorial service in the nation ' s capital was an honor .
+在国家首都举行追悼会是一种荣誉。
+--FP--
+#69:
+Covering a memorial service in the nation ' s capital and then traveling to Texas as well as was an honor , he says .
+他说，在国家首都举行追悼会，然后前往德克萨斯州，这是一种荣誉。
+Covering a memorial service in the nation ' s capital and then traveling as well as was an honor , he says .
+他说，在国家首都参加追悼会，然后旅行也是一种荣誉。
+--FP--
+#70:
+Covering a memorial service in the nation ' s capital and then traveling to Texas for another service as well as was an honor , he says .
+他说，在国家首都参加追悼会，然后前往德克萨斯州参加另一次追悼会，这也是一种荣誉。
+Covering a memorial service in the nation ' s capital and then traveling to Texas as well as was an honor , he says .
+他说，在国家首都举行追悼会，然后前往德克萨斯州，这是一种荣誉。
+--TN--
+#71:
+Covering a memorial service in the nation ' s capital and then traveling to Texas for another service as well as was an honor , he says .
+他说，在国家首都参加追悼会，然后前往德克萨斯州参加另一次追悼会，这也是一种荣誉。
+Covering a memorial service in the nation ' s capital and then traveling to Texas as well as was an honor , he says .
+他说，在国家首都举行追悼会，然后前往德克萨斯州，这是一种荣誉。
+--TN--
+#72:
+Covering a memorial service in the country ' s capital and then traveling to Texas for another service as well as was an honor , he says .
+他说，在该国首都参加追悼会，然后前往德克萨斯州参加另一次追悼会，这也是一种荣誉。
+Covering a memorial service in the country ' s capital and then traveling to Texas as well as was an honor , he says .
+他说，在该国首都参加追悼会，然后前往德克萨斯州，这是一种荣誉。
+--TN--
+#73:
+Covering a memorial service in the nation ' s capital and then traveling to Texas for another service as well as was an adult , he says .
+他说，在国家首都的追悼会上，然后前往德克萨斯州参加另一个仪式，以及一个成年人。
+Covering a memorial service in the nation ' s capital and then traveling to Texas as well as was an adult , he says .
+他说，在国家首都的追悼会，然后前往德克萨斯州，以及一个成年人。
+--TN--
+#74:
+Covering a memorial service in the country ' s capital and then traveling to Texas for another service as well as a funeral train was an honor , he says .
+他说，在该国首都参加追悼会，然后前往德克萨斯州参加另一次服务以及葬礼列车是一种荣誉。
+Covering a memorial service in the country ' s capital and then traveling to Texas for another service as well as was an honor , he says .
+他说，在该国首都参加追悼会，然后前往德克萨斯州参加另一次追悼会，这也是一种荣誉。
+--TN--
+#75:
+Covering a memorial service in the nation ' s capital and then traveling to Texas for another service as well as a funeral train was an honor , he says .
+他说，在国家首都参加追悼会，然后前往德克萨斯州参加另一次服务以及葬礼列车是一种荣誉。
+Covering a memorial service in the nation ' s capital and then traveling to Texas for another service as well as was an honor , he says .
+他说，在国家首都参加追悼会，然后前往德克萨斯州参加另一次追悼会，这也是一种荣誉。
+--TN--
+#76:
+Covering a memorial service in the nation ' s capitol and then traveling to Texas for another service as well as a funeral train was an honor , he says .
+他说，在国家国会大厦举行追悼会，然后前往德克萨斯州参加另一次服务以及葬礼列车是一种荣誉。
+Covering a memorial service in the nation ' s capitol and then traveling to Texas for another service as well as was an honor , he says .
+他说，在国家国会大厦举行追悼会，然后前往德克萨斯州参加另一次追悼会，这也是一种荣誉。
+--TN--
+#77:
+Covering a memorial service in the nation ' s capitol and then traveling to Texas for another service as well as a funeral he was an artist , he says .
+他说，在国家国会大厦举行追悼会，然后前往德克萨斯州参加另一场仪式以及他作为艺术家的葬礼。
+Covering a memorial service in the nation ' s capitol and then traveling to Texas for another service as well as was an artist , he says .
+他说，在国家国会大厦的追悼会上，然后前往德克萨斯州参加另一个仪式，同时也是一名艺术家。
+--TN--
+#78:
+But what Trump ' s book about McCain should remind us is this : , it is simply wrong .
+但特朗普关于麦凯恩的书应该提醒我们的是：，这是完全错误的。
+But what Trump ' s book should remind us is this : , it is simply wrong .
+但特朗普的书应该提醒我们的是：，这是完全错误的。
+--TN--
+#79:
+But what Trump ' s comments about McCain should remind us of is this : Whether there is political gain to be seen in dishonoring a lifelong public servant , it is simply wrong .
+但特朗普对麦凯恩的评论应该提醒我们的是：羞辱一个终身公务员是否有政治利益可看，这是完全错误的。
+But what Trump ' s comments about McCain should remind us of is this : Whether there is political gain to be seen , it is simply wrong .
+但特朗普对麦凯恩的评论应该提醒我们的是：是否有政治利益有待观察，这完全是错误的。
+--TP--
+#80:
+But only 6 % of them attend private institutions , and though the only University of California system has significantly increased its Latino population , just 4 % attend one .
+但只有6%的人就读于私立大学，尽管加州大学唯一的系统显著增加了拉丁裔人口，但只有4%的人就读于私立大学。
+But only 6 % of them attend private institutions , and though the only University of California , just 4 % attend one .
+但只有6%的人就读于私立大学，而加州大学只有4%的人就读于私立大学。
+--FN--
+#81:
+But only 6 % of them attend private institutions , and though the elite ones of California which has significantly increased its Latino enrollment , just 4 % attend one .
+但只有6%的人就读于私立院校，尽管加州的精英院校显著增加了拉丁裔的入学率，但只有4%的人就读于私立院校。
+But only 6 % of them attend private institutions , and though the elite ones of California , just 4 % attend one .
+但只有6%的人就读于私立院校，而加州的精英院校，只有4%的人就读于私立院校。
+--FN--
+#82:
+It ' s certainly true that the number of manufacturing jobs has increased .
+制造业工作岗位的数量确实增加了。
+It ' s certainly true the number of manufacturing jobs has increased .
+制造业就业岗位数量确实增加了。
+--TN--
+#83:
+Here ' s what I know : These new comments will cause zero erosion in Trump ' s support .
+以下是我所知道的：这些新评论将导致特朗普的支持率零下降。
+Here ' s what I know : These new comments will cause zero erosion in Trump ' s .
+以下是我所知道的：这些新评论将导致特朗普的零侵蚀。
+--TN--
+#84:
+The most elite public universities admit a considerably larger percentage of students from lower income backgrounds than do the elite private schools .
+与精英私立学校相比，最精英的公立大学录取来自低收入背景的学生比例要高得多。
+The most elite public universities admit a considerably larger percentage of students from lower income backgrounds than .
+最精英的公立大学录取来自低收入背景的学生的比例要比。
+--TN--
+#85:
+Entering talks , Brazil hoped to see nato elevated to major nato NATO ally status by the Trump administration , a major step .
+进入谈判阶段，巴西希望看到北约被特朗普政府提升为北约的主要北约盟友地位，这是重要的一步。
+Entering talks , Brazil hoped to see nato elevated to major nato NATO ally status Trump .
+进入谈判后，巴西希望看到北约升格为北约主要盟友特朗普。
+--FN--
+#86:
+Entering talks , Brazil hoped to see nato elevated to major non NATO ally status by the Trump administration , a major step .
+进入谈判阶段，巴西希望看到北约被特朗普政府提升为主要的非北约盟国地位，这是重要的一步。
+Entering talks , Brazil hoped to see nato elevated to major non NATO ally status Trump .
+进入谈判阶段，巴西希望看到北约升格为主要的非北约盟国地位。
+--FN--
+#87:
+Entering however , Brazil hoped to see itself elevated to major non NATO ally status by the Trump administration , a major step that would help it purchase new equipment .
+然而，巴西希望看到自己被特朗普政府提升到主要的非北约盟友地位，这是帮助其购买新设备的重要一步。
+Entering however , Brazil hoped to see itself elevated to major non NATO ally status by the Trump administration , a major step .
+然而，巴西希望看到自己被特朗普政府提升为主要的非北约盟友，这是重要的一步。
+--TN--
+#88:
+Entering talks , Brazil hoped to see nato elevated to major non NATO ally status by the Trump presidency , a major step that would help it purchase new equipment .
+进入谈判后，巴西希望看到北约被特朗普总统提升为主要的非北约盟友，这是帮助其购买新设备的重要一步。
+Entering talks , Brazil hoped to see nato elevated to major non NATO ally status by the Trump presidency , a major step .
+进入谈判阶段，巴西希望看到北约被特朗普总统提升为主要的非北约盟国地位，这是重要的一步。
+--TP--
+#89:
+Entering talks , Brazil hoped to see nato elevated to major non NATO ally status by the Trump administration , a major interview that would help it purchase new equipment .
+进入谈判后，巴西希望看到北约被特朗普政府提升为主要的非北约盟友，这是一次重要的采访，这将有助于它购买新设备。
+Entering talks , Brazil hoped to see nato elevated to major non NATO ally status by the Trump administration , a major interview .
+进入谈判后，巴西希望看到北约被特朗普政府提升为主要的非北约盟国地位，这是一次重大采访。
+--TP--
+#90:
+it would move some production to Mexico .
+它将把一些生产转移到墨西哥。
+But the owner , United Technologies , said it would move some production to Mexico .
+但所有者联合技术公司表示，将把一些生产转移到墨西哥。
+--TN--
+#91:
+Mueller ' s team then handed over that data to the Manhattan federal prosecutors , and the Manhattan was also sought .
+穆勒的团队随后将这些数据交给了曼哈顿联邦检察官，曼哈顿也被通缉。
+Mueller ' s team then handed over that data to the prosecutors , and the Manhattan was also sought .
+穆勒的团队随后将这些数据交给了检察官，曼哈顿也被通缉。
+--FN--
+#92:
+Mueller ' s team then handed over that data to the ny federal prosecutors , and the Manhattan prosecutors also sought additional information filtered .
+穆勒的团队随后将这些数据交给了纽约联邦检察官，曼哈顿检察官也寻求过滤掉的其他信息。
+Mueller ' s team then handed over that data to the ny federal prosecutors , and the Manhattan prosecutors also sought .
+穆勒的团队随后将这些数据交给了纽约联邦检察官，曼哈顿检察官也寻求。
+--TN--
+#93:
+Mueller ' s team then handed over that data to the ny federal prosecutors , and the Manhattan prosecutors also sought additional data filtered out of the Mueller searches .
+穆勒的团队随后将这些数据交给了纽约联邦检察官，曼哈顿检察官也从穆勒的搜索中寻求过滤掉的其他数据。
+Mueller ' s team then handed over that data to the ny federal prosecutors , and the Manhattan prosecutors also sought additional data filtered out .
+穆勒的团队随后将这些数据交给了纽约联邦检察官，曼哈顿检察官也寻求过滤掉的其他数据。
+--TN--
+#94:
+Draper , a self described friend from South Central Los Angeles , was not sure it was a possibility .
+德雷珀，一个来自洛杉矶中南部的朋友，不确定这是否可能。
+Draper , a self described friend , was not sure it was a possibility .
+德雷珀，一个自称的朋友，不确定这是否可能。
+--FN--
+#95:
+Draper , a self described kid from South Central Los Angeles whose it was already at a distance , was not sure it was a possibility .
+德雷珀，一个自称来自洛杉矶中南部的孩子，他已经很远了，他不确定这是否可能。
+Draper , a self described kid from South Central Los Angeles whose it was already , was not sure it was a possibility .
+德雷珀，一个自称来自洛杉矶中南部的孩子，已经是，不确定这是一种可能性。
+--TN--
+#96:
+In a world of perceived foes , Trump has often looked to leaders who mimic his own brashness and disregard .
+在一个被视为敌人的世界里，特朗普经常把目光投向那些模仿他自己的傲慢和无视的领导人。
+In a world of perceived foes , Trump has often looked to leaders .
+在一个被视为敌人的世界里，特朗普经常把目光投向领导人。
+--TN--
+#97:
+In a good of perceived people , Trump has often looked to leaders who mimic his own brashness and disregard for political norms .
+在一群被感知到的人中，特朗普经常把目光投向那些模仿他自己的傲慢和无视政治规范的领导人。
+In a good of perceived people , Trump has often looked to leaders who mimic his own brashness and disregard .
+在一群被感知到的人中，特朗普经常把目光投向那些模仿他自己的傲慢和无视的领导人。
+--TN--
+#98:
+There actually have been more manufacturing job openings recently than before to get them , according to data from the Bureau of Labor Statistics .
+根据美国劳工统计局的数据，最近实际上有更多的制造业职位空缺。
+There actually have been more manufacturing job openings recently than before to get them , according to data from the Bureau .
+根据该局的数据，实际上最近有更多的制造业职位空缺， 以获得它们 。
+--TN--
+#99:
+Border security and immigration have dominated the department ' .
+边境安全和移民一直主导着该部门。
+Border security and immigration have dominated the department ' s attention and public speaking .
+边境安全和移民一直主导着该部门的注意力和公开演讲。
+--TN--

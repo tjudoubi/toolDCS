@@ -1,0 +1,42 @@
+#16:
+Songs from popular Chinese operas were also performed , including The Red Guards on Honghu Lake , which premiered in Beijing in 1959 to mark the 60th anniversary of the founding of the People ' s Republic of China .
+还演出了流行的中国戏曲歌曲，包括1959年在北京首演的《洪湖红卫兵》，以纪念中华人民共和国成立60周年。
+Songs from popular Chinese operas were also performed , including The Red Guards on Honghu Lake , which premiered in Beijing in 1959 to mark the 10th anniversary of the founding of the People ' s Republic of China .
+还演出了流行的中国戏曲歌曲，包括1959年在北京首演的《洪湖红卫兵》，以纪念中华人民共和国成立十周年。
+LCS-Wdiff:	1.0 
+--FN--
+#25:
+And up until that point , I had wanted to be a social scientist who worked on China in social sciences .
+在那之前，我一直想成为一名在中国从事社会科学工作的社会科学家。
+Because up until that point , I had wanted to be a social scientist who worked on China in social sciences .
+因为在那之前，我一直想成为一名在中国从事社会科学工作的社会科学家。
+LCS-Wdiff:	1.0 
+--FN--
+#35:
+But up until that point , I had wanted to be a social scientist who worked on China in social sciences .
+但在那之前，我一直想成为一名在中国从事社会科学工作的社会科学家。
+Because up until that point , I had wanted to be a social scientist who worked on China in social sciences .
+因为在那之前，我一直想成为一名在中国从事社会科学工作的社会科学家。
+LCS-Wdiff:	1.0 
+--FN--
+#64:
+As the sun set on a hot summer evening this month , a leisurely breeze wafted across Gangzaihou Beach on Jiulangyu Island , a short ferry ride from Xiamen , Fujian province .
+本月一个炎热的夏夜，夕阳西下，悠闲的微风吹过九浪屿岛上的港仔后海滩，从福建省厦门乘船不远。
+As the sun set on a hot summer evening this month , a leisurely breeze wafted across Gangzaihou Beach on Gulangyu Island , a short ferry ride from Xiamen , Fujian province .
+本月一个炎热的夏夜，夕阳西下，悠闲的微风吹过鼓浪屿上的港仔后海滩，从福建省厦门乘船不远。
+LCS-Wdiff:	1.0 
+--FN--
+#85:
+Zhang and the girls trained hard , and soon , teachers and students noticed great improvement in the team , which attracted more students to join .
+张老师和姑娘们刻苦训练，很快，老师和同学们就发现队伍有了很大的进步，吸引了更多的同学加入。
+Zhang and the girls trained hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+张老师和姑娘们刻苦训练，很快，老师和同学们的队伍有了很大的进步，吸引了更多的同学加入。
+LCS-Wdiff:	1.0 
+--FN--
+#95:
+Last year , a renovated granary rose in Wuxing , a village in Yiyang city in north of Chengdu , Sichuan province .
+去年，四川省成都市北部益阳市五星村的一株经过翻修的粮仓玫瑰。
+Last year , a renovated granary rose in Wuxing , a village in Deyang city in north of Chengdu , Sichuan province .
+去年，四川省成都市北部德阳市五星村的一株经过翻修的粮仓玫瑰。
+LCS-Wdiff:	1.0 
+--FN--

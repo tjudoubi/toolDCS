@@ -1,0 +1,2408 @@
+sent_id = 0
+add [0]
+add [1]
+
+sent_id = 1
+add [0]
+She was impressed by the which carries a miniature version The Analects Confucius.;《论语》的缩影版给她留下了深刻的印象。
+She was impressed by the creative design which carries a miniature version The Analects Confucius.;她对带有《论语》微型版的创意设计印象深刻。
+缩影 留下
+
+add [1]
+She was impressed by the creative design which carries a miniature version The Analects Confucius.;她对带有《论语》微型版的创意设计印象深刻。
+She was impressed by the creative design of the admission ticket, which carries a miniature version The Analects Confucius.;入场券的创意设计给她留下了深刻的印象，入场券上印有《论语》的微型版本。
+带有
+
+add [2]
+add [3]
+
+sent_id = 2
+add [0]
+Xanadu is situated idyllically.;世外桃源坐落在田园诗般的地方。
+Xanadu is situated idyllically amid the Xar Tala globeflower prairie and Xandii Gool wetlands.;世外桃源田园般地坐落在Xar Tala globeflower草原和Xandii Gool湿地之间。
+地方
+
+add [1]
+add [2]
+
+sent_id = 3
+add [0]
+add [1]
+
+sent_id = 4
+add [0]
+add [1]
+add [2]
+
+sent_id = 5
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 6
+add [0]
+add [1]
+add [2]
+Zha said that the capital, are favorites among Chinese tourists, adding.;查说，北京是中国游客的最爱，他补充说。
+Zha said that in addition the capital, are favorites among Chinese tourists, adding.;查说，除首都外，它也是中国游客的最爱。
+补充
+
+add [3]
+add [4]
+Zha said that in addition to Bodh Gaya, destinations, the capital, are favorites among Chinese tourists, adding.;查说，除了菩提迦耶，首都目的地也是中国游客的最爱，他补充道。
+Zha said that in addition to Bodh Gaya, destinations such as Nalanda, Rajgir, Vaishali and Patna, the capital, are favorites among Chinese tourists, adding.;查说，除了菩提迦耶，纳兰达、拉吉尔、瓦伊沙利和首都巴特纳等景点也是中国游客的最爱，他补充道。
+目的地
+
+add [5]
+Zha said that in addition to Bodh Gaya, destinations such as Nalanda, Rajgir, Vaishali and Patna, the capital, are favorites among Chinese tourists, adding.;查说，除了菩提迦耶，纳兰达、拉吉尔、瓦伊沙利和首都巴特纳等景点也是中国游客的最爱，他补充道。
+Zha said that in addition to Bodh Gaya, destinations such as Nalanda, Rajgir, Vaishali and Patna, the capital of Bihar, are favorites among Chinese tourists, adding.;查说，除了菩提迦耶，纳兰达、拉吉尔、瓦伊沙利和比哈尔邦首府巴特纳等景点也是中国游客的最爱，他补充道。
+首都
+
+add [6]
+add [7]
+Zha said that in addition to Bodh Gaya, destinations such as Nalanda, Rajgir, Vaishali and Patna, the capital of Bihar, are favorites among Chinese tourists, adding that the state is also home.;查说，除了菩提迦耶，纳兰达、拉吉尔、瓦伊沙利和比哈尔邦首府巴特纳等景点也是中国游客的最爱，并补充说，该州也是中国的家园。
+Zha said that in addition to Bodh Gaya, destinations such as Nalanda, Rajgir, Vaishali and Patna, the capital of Bihar, are favorites among Chinese tourists, adding that the state is also home to numerous stupas.;查说，除了菩提迦耶，纳兰达、拉吉尔、瓦伊沙利和比哈尔邦首府巴特纳等景点也是中国游客的最爱，并补充说，该州还有许多佛塔。
+家园
+
+
+sent_id = 7
+add [0]
+add [1]
+add [2]
+
+sent_id = 8
+add [0]
+add [1]
+add [2]
+
+sent_id = 9
+add [0]
+add [1]
+Its long lap pool is the perfect spot to watch the light change,.;它的长腿游泳池是观看光线变化的最佳场所，。
+Its long lap pool is the perfect spot to watch the light change, whether you 've selected a sunrise or sunset villa.;无论您选择的是日出别墅还是日落别墅，它的长腿泳池都是观看光线变化的完美场所。
+最佳
+
+
+sent_id = 10
+add [0]
+add [1]
+add [2]
+
+sent_id = 11
+add [0]
+add [1]
+The couple still had to spend the first 10 months of's,.;这对夫妇仍然要在20世纪的头10个月里度过，。
+The couple still had to spend the first 10 months of their son's life living,.;这对夫妇仍然不得不在儿子生命的头10个月里生活，。
+世纪
+
+add [2]
+add [3]
+add [4]
+
+sent_id = 12
+add [0]
+he was going to to visit Carrie.;他打算去看望嘉莉。
+Kris remembers telling his mother to say he was going to to visit Carrie.;克里斯记得他告诉母亲说他要去看望嘉莉。
+打算
+
+add [1]
+
+sent_id = 13
+add [0]
+add [1]
+add [2]
+"Most tourists who come to Amalfi are unaware of this system just across the main road," explains De Pasquale, leaving farmers cut off.;“大多数来阿马尔菲的游客都不知道主干道对面的这个系统，”德·帕斯夸尔解释道，农民们被切断了联系。
+"Most tourists who come to Amalfi are unaware of this system just across the main road," explains De Pasquale, leaving farmers cut off from the tourism dollars pouring.;“大多数来阿马尔菲的游客都不知道这条大路对面的系统，”德·帕斯夸尔解释说，这让农民们无法享受旅游收入。
+主干道 切断
+
+add [3]
+
+sent_id = 14
+add [0]
+add [1]
+add [2]
+
+sent_id = 15
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 16
+add [0]
+The increasing demand energizes accommodation in rural areas.;不断增长的需求为农村地区的住房注入了活力。
+"The increasing demand energizes accommodation in rural areas,.";“不断增长的需求为农村地区的住房提供了动力。”
+活力
+
+add [1]
+add [2]
+"The increasing demand energizes accommodation in rural areas, with some having outperformed hotels.";“不断增长的需求为农村地区的住宿提供了动力，其中一些地区的表现优于酒店。”
+"The increasing demand energizes accommodation in rural areas, with some having outperformed hotels in downtown areas.";“不断增长的需求刺激了农村地区的住宿，其中一些酒店的表现超过了市中心地区的酒店。”
+提供 动力
+
+
+sent_id = 17
+add [0]
+add [1]
+
+sent_id = 18
+add [0]
+the concept of sustainable development will be a major trend in the wellness hotel industry.;可持续发展的概念将是健康酒店行业的一大趋势。
+Looking, Tang Min told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.;唐敏告诉《京报》，展望未来，可持续发展理念将成为健康酒店行业的一大趋势。
+概念
+
+add [1]
+Looking, Tang Min told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.;唐敏告诉《京报》，展望未来，可持续发展理念将成为健康酒店行业的一大趋势。
+Looking into the house, Tang Min told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.;看着房子，唐敏告诉《京报》，可持续发展的概念将是健康酒店行业的一大趋势。
+理念
+
+Looking, Tang Min told Jing Daily the concept of sustainable development will become a major trend in the wellness hotel industry.;唐敏告诉《京报》，展望未来，可持续发展理念将成为健康酒店行业的一大趋势。
+Looking into the house, Tang Min told Jing Daily the concept of sustainable development will become a major trend in the wellness hotel industry.;看着房子，唐敏告诉《京报》，可持续发展的概念将成为健康酒店行业的一大趋势。
+理念
+
+Looking, Tang Min told Jing Daily the concept of sustainable development will be a new trend in the wellness hotel industry.;唐敏告诉《京报》，展望未来，可持续发展理念将成为健康酒店行业的新趋势。
+Looking into the room, Tang Min told Jing Daily the concept of sustainable development will be a new trend in the wellness hotel industry.;看着房间，唐敏告诉《京报》，可持续发展的概念将成为健康酒店行业的新趋势。
+理念
+
+Looking, Tang Min told Jing Daily the concept of sustainable development will be a new trend in the wellness hotel industry.;唐敏告诉《京报》，展望未来，可持续发展理念将成为健康酒店行业的新趋势。
+Looking into the house, Tang Min told Jing Daily the concept of sustainable development will be a new trend in the wellness hotel industry.;看着房子，唐敏告诉《京报》，可持续发展的概念将是健康酒店行业的新趋势。
+理念
+
+Looking, Tang Min told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.;唐敏告诉《京报》，展望未来，可持续发展理念将成为健康酒店行业的一大趋势。
+Looking into the house, Tang Min told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.;看着房子，唐敏告诉《京报》，可持续发展的概念将是健康酒店行业的一大趋势。
+理念
+
+add [2]
+Looking into the house, Tang Min told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.;看着房子，唐敏告诉《京报》，可持续发展的概念将是健康酒店行业的一大趋势。
+Looking into the house, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.;看着房子，青城山六感唐敏告诉《京报》，可持续发展理念将是健康酒店行业的一大趋势。
+概念
+
+Looking into the house, Tang Min told Jing Daily the concept of sustainable development will become a major trend in the wellness hotel industry.;看着房子，唐敏告诉《京报》，可持续发展的概念将成为健康酒店行业的一大趋势。
+Looking into the house, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily the concept of sustainable development will become a major trend in the wellness hotel industry.;看着房子，青城山六感的唐敏告诉《京报》，可持续发展理念将成为健康酒店行业的一大趋势。
+概念
+
+Looking into the house, Tang Min told Jing Daily the concept of sustainable development will be a new trend in the wellness hotel industry.;看着房子，唐敏告诉《京报》，可持续发展的概念将是健康酒店行业的新趋势。
+Looking into the house, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily the concept of sustainable development will be a new trend in the wellness hotel industry.;看着房子，青城山六感的唐敏告诉《京报》，可持续发展理念将是健康酒店行业的新趋势。
+概念
+
+Looking into the house, Tang Min told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.;看着房子，唐敏告诉《京报》，可持续发展的概念将是健康酒店行业的一大趋势。
+Looking into the house, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.;看着房子，青城山六感唐敏告诉《京报》，可持续发展理念将是健康酒店行业的一大趋势。
+概念
+
+add [3]
+Looking into the room, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.;看着房间，拥有六种感官的唐敏告诉《京报》，可持续发展的理念将是健康酒店行业的一大趋势。
+Looking into the room, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily that the concept of sustainable development will be a major trend in the wellness hotel industry.;看着房间，青城山六感的唐敏告诉《京报》，可持续发展理念将是健康酒店行业的一大趋势。
+拥有 感官
+
+Looking into the future, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.;展望未来，拥有六种感官的唐敏告诉《京报》，可持续发展理念将是健康酒店行业的一大趋势。
+Looking into the future, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily that the concept of sustainable development will be a major trend in the wellness hotel industry.;展望未来，青城山六感酒店的唐敏告诉《京报》，可持续发展理念将是健康酒店行业的一大趋势。
+拥有 感官
+
+Looking into the future, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily the concept of sustainable development will become a major trend in the wellness hotel industry.;展望未来，拥有六种感官的唐敏青城山告诉《京报》，可持续发展理念将成为健康酒店行业的一大趋势。
+Looking into the future, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily that the concept of sustainable development will become a major trend in the wellness hotel industry.;展望未来，青城山六感酒店的唐敏告诉《京报》，可持续发展理念将成为健康酒店行业的一大趋势。
+拥有 感官
+
+Looking into the room, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily the concept of sustainable development will be a new trend in the wellness hotel industry.;看着房间，拥有六种感官的唐敏告诉《京报》，可持续发展的概念将是健康酒店行业的一个新趋势。
+Looking into the room, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily that the concept of sustainable development will be a new trend in the wellness hotel industry.;看着房间，青城山六感的唐敏告诉《京报》，可持续发展理念将成为健康酒店行业的新趋势。
+拥有 感官 概念
+
+Looking into the house, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily the concept of sustainable development will be a new trend in the wellness hotel industry.;看着房子，青城山六感的唐敏告诉《京报》，可持续发展理念将是健康酒店行业的新趋势。
+Looking into the house, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily that the concept of sustainable development will be a new trend in the wellness hotel industry.;看着房子，唐敏和六感青城山告诉《京报》，可持续发展的概念将是健康酒店行业的新趋势。
+理念
+
+Looking into the future, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily the concept of sustainable development will be a new trend in the wellness hotel industry.;展望未来，拥有六种感官的唐敏青城山告诉《京报》，可持续发展理念将是健康酒店行业的新趋势。
+Looking into the future, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily that the concept of sustainable development will be a new trend in the wellness hotel industry.;展望未来，青城山六感酒店的唐敏告诉《京报》，可持续发展理念将成为健康酒店行业的新趋势。
+拥有 感官
+
+Looking into the room, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.;看着房间，拥有六种感官的唐敏告诉《京报》，可持续发展的理念将是健康酒店行业的一大趋势。
+Looking into the room, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily that the concept of sustainable development will be a major trend in the wellness hotel industry.;看着房间，青城山六感的唐敏告诉《京报》，可持续发展理念将是健康酒店行业的一大趋势。
+拥有 感官
+
+Looking into the future, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily the concept of sustainable development will be a major trend in the wellness hotel industry.;展望未来，拥有六种感官的唐敏告诉《京报》，可持续发展理念将是健康酒店行业的一大趋势。
+Looking into the future, Tang Min with Six Senses Qing Cheng Mountain told Jing Daily that the concept of sustainable development will be a major trend in the wellness hotel industry.;展望未来，青城山六感酒店的唐敏告诉《京报》，可持续发展理念将是健康酒店行业的一大趋势。
+拥有 感官
+
+
+sent_id = 19
+add [0]
+add [1]
+New guest suites will more than double in,.;新的客房套房将增加一倍以上，。
+New guest suites will more than double in size,.;新的套房面积将增加一倍以上，。
+客房
+
+add [2]
+New guest suites will more than double in her,.;新的客房套房将增加一倍以上，。
+New guest suites will more than double in her, with deep bathrooms and indoor showers as well as outdoor decks.;她的新套房将增加一倍以上，配有深浴室、室内淋浴和室外甲板。
+新的 客房
+
+add [3]
+
+sent_id = 20
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+
+sent_id = 21
+add [0]
+add [1]
+add [2]
+add [3]
+Of the 13.47 million guest rooms across the country, 35 percent were owned by chain hotels in 2021, up 4 percentage points,.;2021，全国1347万间客房中，35%为连锁酒店所有，增长了4个百分点，。
+Of the 13.47 million guest rooms across the country, 35 percent were owned by chain hotels in 2021, up 4 percentage points from 2020,.;2021，全国1347万间客房中，35%为连锁酒店所有，比2020年上升了4个百分点，。
+增长
+
+add [4]
+add [5]
+
+sent_id = 22
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+add [7]
+
+sent_id = 23
+add [0]
+add [1]
+add [2]
+
+sent_id = 24
+add [0]
+the migrant community in helped.;澳大利亚的移民社区也提供了帮助。
+"Also the migrant community in helped me.;“此外，中国的移民社区也帮助了我。
+澳大利亚 提供
+
+add [1]
+add [2]
+add [3]
+"Also the migrant community in london, where many people moved, helped me.;“伦敦的移民社区也帮助了我，那里有很多人搬家。
+"Also the migrant community in london, where many people moved to, helped me.;“伦敦的移民社区也帮助了我，许多人都搬到了那里。
+搬家
+
+"Also the migrant community in Edinburgh, where many people moved, helped me.;“爱丁堡的移民社区也帮助了我，那里有很多人搬家。
+"Also the migrant community in Edinburgh, where many people moved to, helped me.;“爱丁堡的移民社区也帮助了我，许多人都搬到了那里。
+搬家
+
+add [4]
+
+sent_id = 25
+add [0]
+a wellness hotel should provide care guest's body.;健康酒店应为客人的身体提供护理。
+Moreover, a wellness hotel should provide care guest's body, and try to foster a harmonious relationship, space, people and services,.;此外，健康酒店应该照顾客人的身体，并努力培养和谐的关系、空间、人员和服务，。
+应为 提供
+
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 26
+add [0]
+add [1]
+add [2]
+It was a good view, but her attention soon switched to the person sitting next.;景色不错，但她的注意力很快就转移到了坐在旁边的那个人身上。
+It was a good view, but her attention soon switched to the person sitting next to him.;这是一个很好的视角，但她的注意力很快转移到了坐在他旁边的那个人身上。
+景色
+
+
+sent_id = 27
+add [0]
+add [1]
+add [2]
+
+sent_id = 28
+add [0]
+add [1]
+
+sent_id = 29
+add [0]
+we felt the ability and to be able to share things.;我们感受到了分享事物的能力。
+", we just felt the ability and the safety to be able to share it.;“，我们只是觉得能够分享它的能力和安全。
+事物
+
+add [1]
+add [2]
+add [3]
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这个神奇的开始，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other that we would never have done otherwise.;“因为我们有了一个神奇的开始，我们感到有能力和安全感能够彼此分享我们从未做过的事情。
+东西
+
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这个神奇的开始，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other that we wouldn't have done otherwise.;“因为我们有了一个神奇的开始，我们感到有能力和安全能够彼此分享我们原本不会做的事情。
+东西
+
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each others.;“因为我们有了这个神奇的开始，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each others that we would never have done otherwise.;“因为我们有了一个神奇的开始，我们感到有能力和安全感能够彼此分享我们从未做过的事情。
+东西
+
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each others.;“因为我们有了这个神奇的开始，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each others that we wouldn't have done otherwise.;“因为我们有了一个神奇的开始，我们感觉到了与他人分享我们原本无法做到的事情的能力和安全感。
+东西
+
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这个神奇的开始，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other that we would never have done otherwise.;“因为我们有了一个神奇的开始，我们感到有能力和安全感能够彼此分享我们从未做过的事情。
+东西
+
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这个神奇的开始，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other that we wouldn't have done otherwise.;“因为我们有了一个神奇的开始，我们感到有能力和安全能够彼此分享我们原本不会做的事情。
+东西
+
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这种神奇的体验，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each other that we would never have done otherwise.;“因为我们有了这种神奇的体验，我们只是觉得有能力和安全感，能够彼此分享我们从未做过的事情。
+东西
+
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这种神奇的体验，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each other that we would probably have done otherwise.;“因为我们有了这种神奇的体验，我们只是觉得有能力和安全感能够彼此分享我们原本可能会做的事情。
+东西
+
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这种神奇的体验，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each other that we wouldn't have done otherwise.;“因为我们有了这种神奇的体验，我们只是觉得有能力和安全感能够彼此分享我们原本不会做的事情。
+东西
+
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each person.;“因为我们有这种神奇的体验，我们感觉到了与每个人分享东西的能力和安全感。
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each person that we would never have done otherwise.;“因为我们有了这种神奇的体验，我们感觉到了与每个人分享我们永远不会做的事情的能力和安全感。
+东西
+
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each person.;“因为我们有这种神奇的体验，我们感觉到了与每个人分享东西的能力和安全感。
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each person that we wouldn't have done otherwise.;“因为我们有了这种神奇的体验，我们感觉到了与每个人分享我们原本不会做的事情的能力和安全感。
+东西
+
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这种神奇的体验，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each other that we would never have done otherwise.;“因为我们有了这种神奇的体验，我们只是觉得有能力和安全感，能够彼此分享我们从未做过的事情。
+东西
+
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这种神奇的体验，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each other that we would probably have done otherwise.;“因为我们有了这种神奇的体验，我们只是觉得有能力和安全感能够彼此分享我们原本可能会做的事情。
+东西
+
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这种神奇的体验，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical experience, we just felt the ability and the safety to be able to share things with each other that we wouldn't have done otherwise.;“因为我们有了这种神奇的体验，我们只是觉得有能力和安全感能够彼此分享我们原本不会做的事情。
+东西
+
+"Because we had this magical relationship, we just felt the ability and the safety to be able to share things with each other.;“因为我们有这种神奇的关系，我们只是觉得能够彼此分享东西的能力和安全。
+"Because we had this magical relationship, we just felt the ability and the safety to be able to share things with each other that we would never have done otherwise.;“因为我们有这种神奇的关系，我们只是觉得有能力和安全感，能够彼此分享我们原本不会做的事情。
+东西
+
+"Because we had this magical relationship, we just felt the ability and the safety to be able to share things with each other.;“因为我们有这种神奇的关系，我们只是觉得能够彼此分享东西的能力和安全。
+"Because we had this magical relationship, we just felt the ability and the safety to be able to share things with each other that we wouldn't have done otherwise.;“因为我们有这种神奇的关系，我们只是觉得有能力和安全感能够彼此分享我们原本不会做的事情。
+东西
+
+"Because we had this magical relationship, we just felt the ability and the safety to be able to share things with each others.;“因为我们有这种神奇的关系，我们只是觉得能够彼此分享东西的能力和安全。
+"Because we had this magical relationship, we just felt the ability and the safety to be able to share things with each others that we would never have done otherwise.;“因为我们有这种神奇的关系，我们只是觉得有能力和安全感，能够彼此分享我们原本不会做的事情。
+东西
+
+"Because we had this magical relationship, we just felt the ability and the safety to be able to share things with each others.;“因为我们有这种神奇的关系，我们只是觉得能够彼此分享东西的能力和安全。
+"Because we had this magical relationship, we just felt the ability and the safety to be able to share things with each others that we wouldn't have done otherwise.;“因为我们有这种神奇的关系，我们只是觉得有能力和安全感能够彼此分享我们原本不会做的事情。
+东西
+
+"Because we had this magical relationship, we just felt the ability and the safety to be able to share things with each other.;“因为我们有这种神奇的关系，我们只是觉得能够彼此分享东西的能力和安全。
+"Because we had this magical relationship, we just felt the ability and the safety to be able to share things with each other that we would never have done otherwise.;“因为我们有这种神奇的关系，我们只是觉得有能力和安全感，能够彼此分享我们原本不会做的事情。
+东西
+
+"Because we had this magical relationship, we just felt the ability and the safety to be able to share things with each other.;“因为我们有这种神奇的关系，我们只是觉得能够彼此分享东西的能力和安全。
+"Because we had this magical relationship, we just felt the ability and the safety to be able to share things with each other that we wouldn't have done otherwise.;“因为我们有这种神奇的关系，我们只是觉得有能力和安全感能够彼此分享我们原本不会做的事情。
+东西
+
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这个神奇的开始，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other that we would never have done otherwise.;“因为我们有了一个神奇的开始，我们感到有能力和安全感能够彼此分享我们从未做过的事情。
+东西
+
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这个神奇的开始，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other that we wouldn't have done otherwise.;“因为我们有了一个神奇的开始，我们感到有能力和安全能够彼此分享我们原本不会做的事情。
+东西
+
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each others.;“因为我们有了这个神奇的开始，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each others that we would never have done otherwise.;“因为我们有了一个神奇的开始，我们感到有能力和安全感能够彼此分享我们从未做过的事情。
+东西
+
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each others.;“因为我们有了这个神奇的开始，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each others that we wouldn't have done otherwise.;“因为我们有了一个神奇的开始，我们感觉到了与他人分享我们原本无法做到的事情的能力和安全感。
+东西
+
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这个神奇的开始，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other that we would never have done otherwise.;“因为我们有了一个神奇的开始，我们感到有能力和安全感能够彼此分享我们从未做过的事情。
+东西
+
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other.;“因为我们有了这个神奇的开始，我们感觉到了能够彼此分享东西的能力和安全感。
+"Because we had this magical beginning, we just felt the ability and the safety to be able to share things with each other that we wouldn't have done otherwise.;“因为我们有了一个神奇的开始，我们感到有能力和安全能够彼此分享我们原本不会做的事情。
+东西
+
+
+sent_id = 30
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+Bucolic marathons are held in spring, with people running up and down the vineyards and then relaxing at the little piazza where villagers once met to chat.;乡村马拉松比赛在春天举行，人们在葡萄园里跑来跑去，然后在村民们曾经见面聊天的小广场上放松。
+Bucolic marathons are held in spring, with people running up and down the vineyards and then relaxing at the little piazza where villagers once met to chat in the evenings.;乡村马拉松在春天举行，人们在葡萄园里跑来跑去，然后在小广场放松，晚上村民们曾在那里见面聊天。
+比赛
+
+add [6]
+add [7]
+Bucolic marathons are held in spring, with people running up and down the vineyards and then relaxing at the little piazza where villagers once met to chat in the evenings after working.;乡村马拉松比赛在春天举行，人们在葡萄园里跑来跑去，然后在小广场上放松。晚上，村民们下班后在那里见面聊天。
+Bucolic marathons are held in spring, with people running up and down the vineyards and then relaxing at the little piazza where villagers once met to chat in the evenings after working in the fields.;乡村马拉松比赛在春天举行，人们在葡萄园里跑来跑去，然后在小广场上放松。村民们在田间劳动后，晚上在那里见面聊天。
+下班
+
+
+sent_id = 31
+add [0]
+Its 24 overwater villas have infinity plunge pools.;它的24座水上别墅拥有无限的水下游泳池。
+Its 24 striking overwater villas have infinity plunge pools and sublimely serene views.;它的24座引人注目的水上别墅拥有无限的游泳池和极其宁静的景色。
+水下
+
+add [1]
+
+sent_id = 32
+add [0]
+add [1]
+add [2]
+The large Sfusato or Amalfi lemon is cultivated in an area.;大的Sfusato或Amalfi柠檬是在一个地区种植的。
+The large Sfusato or Amalfi lemon is cultivated in an area that stretches.;大柠檬或阿马尔菲柠檬种植在一片绵延的土地上。
+Sfusato Amalfi 地区
+
+add [3]
+The large Sfusato or Amalfi lemon is cultivated in an area that stretches.;大柠檬或阿马尔菲柠檬种植在一片绵延的土地上。
+The large Sfusato or Amalfi lemon is cultivated in an area that stretches along the Tyrrhenian Sea.;大的Sfusato或Amalfi柠檬种植在沿Tyrrhenian海延伸的地区。
+绵延
+
+add [4]
+add [5]
+
+sent_id = 33
+add [0]
+The end of the palace city contained.;宫殿城的尽头被围住了。
+The northern end of the palace city contained one remains, identified.;宫城北端有一具遗骸，已确认。
+尽头 围住
+
+add [1]
+add [2]
+The northern end of the palace city contained one of Xanadu's largest remains, identified.;皇宫城的北端有一处世外桃源最大的遗骸，已确认。
+The northern end of the palace city contained one of Xanadu's largest remains, identified as the Muqing Pavilion,.;宫城北端有一处世外桃源最大的遗迹，被称为木青亭，。
+遗骸 确认
+
+add [3]
+
+sent_id = 34
+add [0]
+the resort works with Manta Trust researchers.;该度假村与Manta Trust研究人员合作。
+With a noticeable juvenile manta ray population the resort works with Manta Trust researchers.;该度假村与曼塔信托基金的研究人员合作，发现了数量可观的年轻蝠鲼。
+Trust
+
+add [1]
+With a noticeable juvenile manta ray population the resort works with Manta Trust researchers.;该度假村与曼塔信托基金的研究人员合作，发现了数量可观的年轻蝠鲼。
+With a noticeable juvenile manta ray population in the atoll's Maamunagau Lagoon the resort works with Manta Trust researchers.;该度假村与manta Trust的研究人员合作，在环礁岛的Maamunagau泻湖有着引人注目的年轻蝠鲼种群。
+信托 基金 发现 数量 可观
+
+add [2]
+With a noticeable juvenile manta ray population in the atoll's Maamunagau Lagoon the resort works with Manta Trust researchers.;该度假村与manta Trust的研究人员合作，在环礁岛的Maamunagau泻湖有着引人注目的年轻蝠鲼种群。
+With a noticeable juvenile manta ray population in the atoll's Maamunagau Lagoon, the resort works with Manta Trust researchers to aid.;该度假村与曼塔信托基金的研究人员合作，在环礁岛的Maamunagau泻湖有着引人注目的年轻蝠鲼种群。
+Trust
+
+add [3]
+add [4]
+With a noticeable juvenile manta ray population in the atoll's Maamunagau Lagoon, the resort works with Manta Trust researchers to aid in the education and conservation.;在环礁岛的Maamunagau泻湖，有着引人注目的年轻蝠鲼种群，度假村与蝠鲼信托基金的研究人员合作，帮助开展教育和保护工作。
+With a noticeable juvenile manta ray population in the atoll's Maamunagau Lagoon, the resort works with Manta Trust researchers to aid in the education and conservation of these giant, playful fish and their habitat.;在环礁岛的Maamunagau泻湖，有着引人注目的年轻蝠鲼种群，度假村与蝠鲼信托基金的研究人员合作，帮助教育和保护这些巨大、好玩的鱼及其栖息地。
+工作
+
+
+sent_id = 35
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+From time to time, Li Fashun will reminisce about the visit of a special guest to his abode.;李发顺会不时回忆一位特邀嘉宾到访他的住所。
+From time to time, Li Fashun will reminisce about the visit of a special guest to his abode in Simola Va village.;李发顺将不时回忆一位特邀嘉宾访问他在西莫拉瓦村的住所。
+到访
+
+add [6]
+
+sent_id = 36
+add [0]
+add [1]
+The tourism market is accelerating its recovery with the summer holiday co.;随着暑假公司的成立，旅游市场正在加速复苏。
+The tourism market is accelerating its recovery with the summer holiday co and it will drive a rapid rebound, Xie said.;谢说，旅游市场正在通过暑假公司加速复苏，并将推动快速反弹。
+成立
+
+add [2]
+
+sent_id = 37
+add [0]
+add [1]
+add [2]
+
+sent_id = 38
+add [0]
+add [1]
+add [2]
+Li believes that better things are yet to come.;李相信更好的事情还没有到来。
+Li believes that better things are yet to come for his village.;李相信他的村庄还有更好的事情要做。
+到来
+
+add [3]
+
+sent_id = 39
+add [0]
+add [1]
+add [2]
+But today they have been either abandoned or turned into holiday homes.;但今天，它们要么被遗弃，要么被改造成度假屋。
+But today they have been either abandoned or turned into holiday homes and illegal ones.;但今天，它们要么被遗弃，要么变成度假屋和非法房屋。
+改造
+
+But today they have been either abandoned or turned into holiday homes.;但今天，它们要么被遗弃，要么被改造成度假屋。
+But today they have been either abandoned or turned into holiday homes and illegal constructions.;但今天，它们要么被遗弃，要么变成度假屋和非法建筑。
+改造
+
+
+sent_id = 40
+add [0]
+add [1]
+
+sent_id = 41
+add [0]
+add [1]
+The National Cultural Heritage Administration, the art Museum and museums will attend the travel mart.;国家文化遗产管理局、艺术博物馆和博物馆将参加旅游博览会。
+The National Cultural Heritage Administration, the art Museum and museums from other schools will attend the travel mart.;国家文化遗产管理局、艺术博物馆和其他学校的博物馆将参加旅游市场。
+博览会
+
+The National Cultural Heritage Administration, the Palace Museum and others will attend the travel mart.;国家文化遗产管理局、故宫博物院和其他机构将参加旅游博览会。
+The National Cultural Heritage Administration, the Palace Museum and others from other provinces will attend the travel mart.;国家文化遗产管理局、故宫博物院和其他各省的代表将参加此次旅游博览会。
+机构
+
+The National Cultural Heritage Administration, the Palace Museum and others will attend the travel mart.;国家文化遗产管理局、故宫博物院和其他机构将参加旅游博览会。
+The National Cultural Heritage Administration, the Palace Museum and others from other places will attend the travel mart.;国家文化遗产管理局、故宫博物院和其他来自其他地方的人将参加旅游博览会。
+机构
+
+The National Cultural Heritage Administration, the Palace Museum and others will attend the travel mart.;国家文化遗产管理局、故宫博物院和其他机构将参加旅游博览会。
+The National Cultural Heritage Administration, the Palace Museum and others from other provinces will attend the travel mart.;国家文化遗产管理局、故宫博物院和其他各省的代表将参加此次旅游博览会。
+机构
+
+
+sent_id = 42
+add [0]
+add [1]
+add [2]
+
+sent_id = 43
+add [0]
+add [1]
+add [2]
+Faced with the prospect, those soothing moments of natural splendor will continue to linger in my mind.;面对这一前景，那些自然美景的舒缓时刻将继续萦绕在我的脑海中。
+Faced with the prospect of another sweltering summer, those soothing moments of natural splendor will continue to linger in my mind.;面对又一个闷热的夏天，那些自然美景的舒缓时刻将继续萦绕在我的脑海中。
+前景
+
+add [3]
+
+sent_id = 44
+add [0]
+add [1]
+add [2]
+
+sent_id = 45
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 46
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+Kris had spotted Carrie earlier that day, on one of the stations that ferry visitors.;那天早些时候，克里斯在一个接送游客的车站发现了嘉莉。
+Kris had spotted Carrie earlier that day, on one of the stations that ferry visitors through the national park.;那天早些时候，克里斯在国家公园的一个车站发现了嘉莉。
+接送 游客
+
+
+sent_id = 47
+add [0]
+add [1]
+
+sent_id = 48
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 49
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 50
+add [0]
+add [1]
+"leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“游客们对郊区的休闲旅游需求很大。”。
+"before the outbreak leisure travel to suburbs are in demand among tourists," a manager was quoted.;“疫情爆发前，游客对郊区休闲旅游的需求很大，”一位经理说。
+报道 援引
+
+"leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“游客们对郊区的休闲旅游需求很大。”。
+"since the outbreak leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“自从疫情爆发以来，到郊区休闲旅游的游客越来越多。”。
+需求
+
+"leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“游客们对郊区的休闲旅游需求很大。”。
+"Since the outbreak leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“自从疫情爆发以来，到郊区休闲旅游的游客越来越多。”。
+需求
+
+add [2]
+"before the outbreak leisure travel to suburbs are in demand among tourists," a manager was quoted.;“疫情爆发前，游客对郊区休闲旅游的需求很大，”一位经理说。
+"before the outbreak of the war, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“在战争爆发之前，游客们对到郊区休闲旅游的需求很大。”。
+疫情
+
+"before the outbreak leisure travel to suburbs are in demand among tourists," a manager was quoted.;“疫情爆发前，游客对郊区休闲旅游的需求很大，”一位经理说。
+"before the outbreak of the hostilities, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“在敌对行动爆发之前，游客们对郊区的休闲旅游需求很大。”。
+疫情
+
+"since the outbreak leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“自从疫情爆发以来，到郊区休闲旅游的游客越来越多。”。
+"since the outbreak of the fighting, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自从战斗爆发以来，游客们对到郊区休闲旅游的需求越来越大。”。
+疫情
+
+"Since the first leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“由于游客对第一次到郊区休闲旅游的需求很大。”。
+"Since the first of the century, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“自本世纪初以来，到郊区休闲旅游的游客越来越多。”。
+需求
+
+"Since the first leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“由于游客对第一次到郊区休闲旅游的需求很大。”。
+"Since the first of the pandemic, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“自从第一次疫情爆发以来，到郊区休闲旅游的游客越来越多。”。
+需求
+
+"Since the outbreak leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“自从疫情爆发以来，到郊区休闲旅游的游客越来越多。”。
+"Since the outbreak of the fighting, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自从战斗爆发以来，游客们对到郊区休闲旅游的需求越来越大。”。
+疫情
+
+add [3]
+"since the outbreak of the war, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，到郊区休闲旅游的游客越来越多。”。
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+越来越
+
+"since the outbreak of the war, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，到郊区休闲旅游的游客越来越多。”。
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+越来越
+
+"since the outbreak of the war, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，到郊区休闲旅游的游客越来越多。”。
+"since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和乡村城镇的休闲旅游需求很大。”。
+越来越
+
+"since the outbreak of the war, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，到郊区休闲旅游的游客越来越多。”。
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+越来越
+
+"since the outbreak of the fighting, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自从战斗爆发以来，游客们对到郊区休闲旅游的需求越来越大。”。
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求旺盛。”。
+越来越
+
+"since the outbreak of the fighting, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自从战斗爆发以来，游客们对到郊区休闲旅游的需求越来越大。”。
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求旺盛。”。
+越来越
+
+"since the outbreak of the fighting, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自从战斗爆发以来，游客们对到郊区休闲旅游的需求越来越大。”。
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求旺盛。”。
+越来越
+
+"Since the first of the century, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“自本世纪初以来，到郊区休闲旅游的游客越来越多。”。
+"Since the first of the century, leisure travel to suburbs and rural ones are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自本世纪初以来，游客对郊区和农村的休闲旅游需求不断增加。”。
+越来越
+
+"Since the outbreak of the war, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，到郊区休闲旅游的游客越来越多。”。
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+越来越
+
+"Since the outbreak of the war, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，到郊区休闲旅游的游客越来越多。”。
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+越来越
+
+"Since the outbreak of the war, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，到郊区休闲旅游的游客越来越多。”。
+"Since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和乡村城镇的休闲旅游需求很大。”。
+越来越
+
+"Since the outbreak of the war, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，到郊区休闲旅游的游客越来越多。”。
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+越来越
+
+"Since the outbreak of the fighting, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自从战斗爆发以来，游客们对到郊区休闲旅游的需求越来越大。”。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求旺盛。”。
+越来越
+
+"Since the outbreak of the fighting, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自从战斗爆发以来，游客们对到郊区休闲旅游的需求越来越大。”。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求旺盛。”。
+越来越
+
+"Since the outbreak of the fighting, leisure travel to suburbs are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自从战斗爆发以来，游客们对到郊区休闲旅游的需求越来越大。”。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求旺盛。”。
+越来越
+
+add [4]
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村地区的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+需求
+
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村地区的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+需求
+
+"since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和乡村城镇的休闲旅游需求很大。”。
+"since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村城镇的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+需求
+
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村地区的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+需求
+
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求旺盛。”。
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+旺盛
+
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求旺盛。”。
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+旺盛
+
+"since the outbreak of the fighting, leisure travel to suburbs and rural ones are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自从战斗爆发以来，游客们对郊区和农村的休闲旅游需求越来越大。”。
+"since the outbreak of the fighting, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村的休闲旅游需求不断增加，”去哪儿网的一位经理被引述。
+越来越
+
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求旺盛。”。
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+旺盛
+
+"since the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“自从疫情爆发以来，游客们对郊区和农村地区的休闲旅游需求越来越大。”。
+"since the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自从疫情爆发以来，到郊区和农村地区的休闲旅游在游客中很有需求，”去哪儿网的一位经理被引述。
+越来越
+
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自本世纪初以来，游客对郊区和农村地区的休闲旅游需求越来越大。”。
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自本世纪初以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+越来越
+
+"Since the first of the century, leisure travel to suburbs and rural ones are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自本世纪初以来，游客对郊区和农村的休闲旅游需求不断增加。”。
+"Since the first of the century, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted.;“自本世纪初以来，游客对郊区和农村的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+增加
+
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自本世纪初以来，游客对郊区和农村地区的休闲旅游需求越来越大。”。
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自本世纪初以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+越来越
+
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村地区的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+需求
+
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村地区的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+需求
+
+"Since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和乡村城镇的休闲旅游需求很大。”。
+"Since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村城镇的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+需求
+
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村地区的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+需求
+
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求旺盛。”。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+旺盛
+
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求旺盛。”。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+旺盛
+
+"Since the outbreak of the fighting, leisure travel to suburbs and rural ones are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自从战斗爆发以来，游客们对郊区和农村的休闲旅游需求越来越大。”。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村的休闲旅游需求不断增加，”去哪儿网的一位经理被引述。
+越来越
+
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话称：“自战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求旺盛。”。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+旺盛
+
+"Since the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager was quoted.;报道援引一位经理的话说：“自从疫情爆发以来，游客们对郊区和农村地区的休闲旅游需求越来越大。”。
+"Since the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自从疫情爆发以来，到郊区和农村地区的休闲旅游在游客中很有需求，”去哪儿网的一位经理被引述。
+越来越
+
+add [5]
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“在战争爆发之前，到郊区和农村地区的休闲旅游是游客的需求，”去哪儿网的一位经理被引述。
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“在战争爆发之前，游客们对郊区和农村地区的休闲旅游很有需求。”。
+引述
+
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“在战争爆发之前，到郊区和农村地区的休闲旅游是游客的需求，”去哪儿网的一位经理被引述。
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“在战争爆发之前，游客们对郊区和农村地区的休闲旅游很有需求。”。
+引述
+
+"before the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted.;“在战争爆发之前，到郊区和农村城镇的休闲旅游是游客的需求，”去哪儿网的一位经理被引述。
+"before the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“在战争爆发之前，游客们对郊区和乡镇的休闲旅游需求很大。”。
+引述
+
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“在战争爆发之前，到郊区和农村地区的休闲旅游是游客的需求，”去哪儿网的一位经理被引述。
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“在战争爆发之前，游客们对郊区和农村地区的休闲旅游很有需求。”。
+引述
+
+"before the outbreak of the hostilities, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“在敌对行动爆发之前，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"before the outbreak of the hostilities, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“在敌对行动爆发之前，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+引述
+
+"before the outbreak of the hostilities, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“在敌对行动爆发之前，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"before the outbreak of the hostilities, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“在敌对行动爆发之前，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+引述
+
+"before the outbreak of the hostilities, leisure travel to suburbs and rural districts are in demand among tourists," a manager of Qunar was quoted.;“在敌对行动爆发之前，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"before the outbreak of the hostilities, leisure travel to suburbs and rural districts are in demand among tourists," a manager of Qunar was quoted as saying.;“在敌对行动爆发之前，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+引述
+
+"before the outbreak of the hostilities, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“在敌对行动爆发之前，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"before the outbreak of the hostilities, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“在敌对行动爆发之前，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+引述
+
+"before the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“在疫情爆发之前，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"before the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“在疫情爆发之前，游客们对郊区和农村地区的休闲旅游需求很大。”。
+引述
+
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村地区的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+引述
+
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村地区的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+引述
+
+"since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村城镇的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+"since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，到郊区和农村城镇的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理如是说。
+引述
+
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村地区的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+引述
+
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+引述
+
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+引述
+
+"since the outbreak of the fighting, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村的休闲旅游需求不断增加，”去哪儿网的一位经理被引述。
+"since the outbreak of the fighting, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村的休闲旅游需求越来越大。”。
+增加 引述
+
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+引述
+
+"since the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自从疫情爆发以来，到郊区和农村地区的休闲旅游在游客中很有需求，”去哪儿网的一位经理被引述。
+"since the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从疫情爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+引述
+
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自本世纪初以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自本世纪初以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+引述
+
+"Since the first of the century, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted.;“自本世纪初以来，游客对郊区和农村的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"Since the first of the century, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted as saying.;“自本世纪初以来，游客对郊区和农村的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+引述
+
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自本世纪初以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自本世纪初以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+引述
+
+"Since the first of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自从第一次疫情爆发以来，游客对郊区和农村地区的休闲旅游需求越来越大，”去哪儿网的一位经理被引述。
+"Since the first of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从第一次疫情爆发以来，到郊区和农村地区休闲旅游的游客越来越多。”。
+需求 引述
+
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村地区的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+引述
+
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村地区的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+引述
+
+"Since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村城镇的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+"Since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，到郊区和农村城镇的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理如是说。
+引述
+
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战争爆发以来，到郊区和农村地区的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理被引述。
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+引述
+
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+引述
+
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+引述
+
+"Since the outbreak of the fighting, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村的休闲旅游需求不断增加，”去哪儿网的一位经理被引述。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村的休闲旅游需求越来越大。”。
+增加 引述
+
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自战斗爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理被引述。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+引述
+
+"Since the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted.;“自从疫情爆发以来，到郊区和农村地区的休闲旅游在游客中很有需求，”去哪儿网的一位经理被引述。
+"Since the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从疫情爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+引述
+
+add [6]
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“在战争爆发之前，游客们对郊区和农村地区的休闲旅游很有需求。”。
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿的一位经理的话说：“在战争爆发之前，游客们对郊区和农村地区的休闲旅游需求很大。”。
+报道
+
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“在战争爆发之前，游客们对郊区和农村地区的休闲旅游很有需求。”。
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿的一位经理的话说：“在战争爆发之前，游客们对郊区和农村地区的休闲旅游需求很大。”。
+报道
+
+"before the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“在战争爆发之前，游客们对郊区和乡镇的休闲旅游需求很大。”。
+"before the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿的一位经理的话说：“在战争爆发之前，游客们对去郊区和乡镇的休闲旅游很有需求。”。
+报道
+
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“在战争爆发之前，游客们对郊区和农村地区的休闲旅游很有需求。”。
+"before the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿的一位经理的话说：“在战争爆发之前，游客们对郊区和农村地区的休闲旅游需求很大。”。
+报道
+
+"before the outbreak of the hostilities, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“在敌对行动爆发之前，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+"before the outbreak of the hostilities, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿的一位经理的话说：“在敌对行动爆发之前，游客们对郊区和农村地区的休闲旅游需求很大。”。
+如是说
+
+"before the outbreak of the hostilities, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“在敌对行动爆发之前，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+"before the outbreak of the hostilities, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿的一位经理的话说：“在敌对行动爆发之前，游客们对郊区和农村地区的休闲旅游需求很大。”。
+如是说
+
+"before the outbreak of the hostilities, leisure travel to suburbs and rural districts are in demand among tourists," a manager of Qunar was quoted as saying.;“在敌对行动爆发之前，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+"before the outbreak of the hostilities, leisure travel to suburbs and rural districts are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿的一位经理的话说：“在敌对行动爆发之前，游客们对郊区和农村地区的休闲旅游需求很大。”。
+如是说
+
+"before the outbreak of the hostilities, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“在敌对行动爆发之前，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+"before the outbreak of the hostilities, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿的一位经理的话说：“在敌对行动爆发之前，游客们对郊区和农村地区的休闲旅游需求很大。”。
+如是说
+
+"before the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“在疫情爆发之前，游客们对郊区和农村地区的休闲旅游需求很大。”。
+"before the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“在疫情爆发之前，游客对郊区和农村地区的休闲旅游需求很大。”。
+报道
+
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+如是说
+
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+如是说
+
+"since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，到郊区和农村城镇的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理如是说。
+"since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自战争爆发以来，游客对郊区和农村城镇的休闲旅游需求很大。”。
+如是说
+
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+"since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+如是说
+
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游有了需求。”。
+报道
+
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游有了需求。”。
+报道
+
+"since the outbreak of the fighting, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村的休闲旅游需求越来越大。”。
+"since the outbreak of the fighting, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网一位经理的话说：“自从战斗爆发以来，游客们对郊区和农村的休闲旅游需求越来越大。”。
+报道
+
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+"since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游有了需求。”。
+报道
+
+"since the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从疫情爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+"since the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自从疫情爆发以来，游客对郊区和农村地区的休闲旅游需求越来越大。”。
+报道
+
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自本世纪初以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自本世纪初以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+报道
+
+"Since the first of the century, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted as saying.;“自本世纪初以来，游客对郊区和农村的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+"Since the first of the century, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网一位经理的话说：“自本世纪初以来，游客对郊区和农村的休闲旅游需求越来越大。”。
+如是说
+
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自本世纪初以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+"Since the first of the century, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自本世纪初以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+报道
+
+"Since the first of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从第一次疫情爆发以来，到郊区和农村地区休闲旅游的游客越来越多。”。
+"Since the first of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自疫情爆发以来，游客对郊区和农村地区的休闲旅游需求不断增加。”。
+报道 越来越
+
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+如是说
+
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+如是说
+
+"Since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，到郊区和农村城镇的休闲旅游在游客中很受欢迎，”去哪儿网的一位经理如是说。
+"Since the outbreak of the war, leisure travel to suburbs and rural towns are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自战争爆发以来，游客对郊区和农村城镇的休闲旅游需求很大。”。
+如是说
+
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大，”去哪儿网的一位经理如是说。
+"Since the outbreak of the war, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自战争爆发以来，游客对郊区和农村地区的休闲旅游需求很大。”。
+如是说
+
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游有了需求。”。
+报道
+
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游有了需求。”。
+报道
+
+"Since the outbreak of the fighting, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村的休闲旅游需求越来越大。”。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural ones are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网一位经理的话说：“自从战斗爆发以来，游客们对郊区和农村的休闲旅游需求越来越大。”。
+报道
+
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+"Since the outbreak of the fighting, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自从战斗爆发以来，游客们对郊区和农村地区的休闲旅游有了需求。”。
+报道
+
+"Since the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying.;据报道，去哪儿网的一位经理说：“自从疫情爆发以来，游客们对郊区和农村地区的休闲旅游需求很大。”。
+"Since the outbreak of the pandemic, leisure travel to suburbs and rural areas are in demand among tourists," a manager of Qunar was quoted as saying by Beijing Daily.;《北京日报》援引去哪儿网的一位经理的话说：“自从疫情爆发以来，游客对郊区和农村地区的休闲旅游需求越来越大。”。
+报道
+
+
+sent_id = 51
+add [0]
+Domestic hospitality can get a vital upgrade.;国内接待服务可以得到重要的提升。
+Domestic hospitality can get a vital upgrade if they absorb more independent hoteliers and implement localization strategies.;如果国内酒店能够吸收更多的独立酒店经营者，并实施本地化战略，则国内酒店业可以获得至关重要的升级。
+接待 服务
+
+add [1]
+add [2]
+
+sent_id = 52
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 53
+add [0]
+add [1]
+The she says there is a need to drastically reduce the effects produced by motor boats.;她说，有必要大幅降低机动船产生的影响。
+The she says there is a need to "drastically reduce the effects produced by motor boats.;她说，有必要“大幅度减少摩托艇产生的影响”。
+机动船
+
+The organization says there is a need to drastically reduce the effects produced by motor boats.;该组织表示，有必要大幅减少机动船产生的影响。
+The organization says there is a need to "drastically reduce the effects produced by motor boats.;该组织表示，有必要“大幅度减少摩托艇产生的影响”。
+机动船
+
+
+sent_id = 54
+add [0]
+add [1]
+add [2]
+add [3]
+Buddhists around the world consider the temple city of Bodh Gaya in Bihar state, about 500 kilometers, one.;全世界的佛教徒都认为比哈尔邦的菩提迦耶是一个寺庙城市，大约有500公里。
+Buddhists around the world consider the temple city of Bodh Gaya in Bihar state, about 500 kilometers from Kolkata, one.;世界各地的佛教徒认为比哈尔邦的菩萨加亚是一个寺庙城市，距离加尔各答约500公里。
+菩提
+
+add [4]
+add [5]
+
+sent_id = 55
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+With no plaque or indication of any place as to my curiosity was peaked.;没有任何牌匾或任何地方的迹象，我的好奇心达到顶峰。
+With no plaque or indication of any place as to what this wall would be, my curiosity was peaked.;由于没有任何牌匾或迹象表明这堵墙是什么，我的好奇心达到了顶峰。
+地方
+
+With no plaque or indication of any place as to my curiosity was peaked.;没有任何牌匾或任何地方的迹象，我的好奇心达到顶峰。
+With no plaque or indication of any place as to what this wall should be, my curiosity was peaked.;由于没有任何关于这堵墙应该是什么的牌匾或指示，我的好奇心达到了顶峰。
+地方 迹象
+
+With no plaque or indication of any place as to my curiosity was peaked.;没有任何牌匾或任何地方的迹象，我的好奇心达到顶峰。
+With no plaque or indication of any place as to what this wall might be, my curiosity was peaked.;由于没有任何牌匾或迹象表明这堵墙可能是什么，我的好奇心达到了顶峰。
+地方
+
+With no plaque or indication of any place as to my curiosity was peaked.;没有任何牌匾或任何地方的迹象，我的好奇心达到顶峰。
+With no plaque or indication of any place as to what this wall might appear, my curiosity was peaked.;由于没有任何关于这堵墙可能会出现什么的斑块或迹象，我的好奇心达到了顶峰。
+牌匾 地方
+
+With no plaque or indication of any place as to my curiosity was peaked.;没有任何牌匾或任何地方的迹象，我的好奇心达到顶峰。
+With no plaque or indication of any place as to what this wall might be, my curiosity was peaked.;由于没有任何牌匾或迹象表明这堵墙可能是什么，我的好奇心达到了顶峰。
+地方
+
+With no plaque or indication of any site as to my curiosity was peaked.;由于没有任何斑块或迹象表明有任何网站，我的好奇心达到了顶峰。
+With no plaque or indication of any site as to what this wall would be, my curiosity was peaked.;由于没有关于这堵墙是什么的牌匾或任何地点的迹象，我的好奇心达到了顶峰。
+斑块 网站
+
+With no plaque or indication of any site as to my curiosity was peaked.;由于没有任何斑块或迹象表明有任何网站，我的好奇心达到了顶峰。
+With no plaque or indication of any site as to what this wall should be, my curiosity was peaked.;由于没有关于这堵墙应该是什么的牌匾或任何地点的指示，我的好奇心达到了顶峰。
+斑块 迹象 网站
+
+With no plaque or indication of any site as to my curiosity was peaked.;由于没有任何斑块或迹象表明有任何网站，我的好奇心达到了顶峰。
+With no plaque or indication of any site as to what this wall might be, my curiosity was peaked.;由于没有关于这堵墙可能是什么的牌匾或任何地点的迹象，我的好奇心达到了顶峰。
+斑块 网站
+
+With no plaque or indication of any site as to my curiosity was peaked.;由于没有任何斑块或迹象表明有任何网站，我的好奇心达到了顶峰。
+With no plaque or indication of any site as to what this wall might appear, my curiosity was peaked.;由于没有任何关于这堵墙可能出现什么的斑块或迹象，我的好奇心达到了顶峰。
+网站
+
+With no plaque or indication of any site as to my curiosity was peaked.;由于没有任何斑块或迹象表明有任何网站，我的好奇心达到了顶峰。
+With no plaque or indication of any site as to what this wall might be, my curiosity was peaked.;由于没有关于这堵墙可能是什么的牌匾或任何地点的迹象，我的好奇心达到了顶峰。
+斑块 网站
+
+With no plaque or indication of any place as to my curiosity was peaked.;没有任何牌匾或任何地方的迹象，我的好奇心达到顶峰。
+With no plaque or indication of any place as to what this wall would be, my curiosity was peaked.;由于没有任何牌匾或迹象表明这堵墙是什么，我的好奇心达到了顶峰。
+地方
+
+With no plaque or indication of any place as to my curiosity was peaked.;没有任何牌匾或任何地方的迹象，我的好奇心达到顶峰。
+With no plaque or indication of any place as to what this wall should be, my curiosity was peaked.;由于没有任何关于这堵墙应该是什么的牌匾或指示，我的好奇心达到了顶峰。
+地方 迹象
+
+With no plaque or indication of any place as to my curiosity was peaked.;没有任何牌匾或任何地方的迹象，我的好奇心达到顶峰。
+With no plaque or indication of any place as to what this wall might be, my curiosity was peaked.;由于没有任何牌匾或迹象表明这堵墙可能是什么，我的好奇心达到了顶峰。
+地方
+
+With no plaque or indication of any place as to my curiosity was peaked.;没有任何牌匾或任何地方的迹象，我的好奇心达到顶峰。
+With no plaque or indication of any place as to what this wall might appear, my curiosity was peaked.;由于没有任何关于这堵墙可能会出现什么的斑块或迹象，我的好奇心达到了顶峰。
+牌匾 地方
+
+With no plaque or indication of any place as to my curiosity was peaked.;没有任何牌匾或任何地方的迹象，我的好奇心达到顶峰。
+With no plaque or indication of any place as to what this wall might be, my curiosity was peaked.;由于没有任何牌匾或迹象表明这堵墙可能是什么，我的好奇心达到了顶峰。
+地方
+
+With no plaque or indication of any site as to my curiosity was peaked.;由于没有任何斑块或迹象表明有任何网站，我的好奇心达到了顶峰。
+With no plaque or indication of any site as to what this wall would be, my curiosity was peaked.;由于没有关于这堵墙是什么的牌匾或任何地点的迹象，我的好奇心达到了顶峰。
+斑块 网站
+
+With no plaque or indication of any site as to my curiosity was peaked.;由于没有任何斑块或迹象表明有任何网站，我的好奇心达到了顶峰。
+With no plaque or indication of any site as to what this wall should be, my curiosity was peaked.;由于没有关于这堵墙应该是什么的牌匾或任何地点的指示，我的好奇心达到了顶峰。
+斑块 迹象 网站
+
+With no plaque or indication of any site as to my curiosity was peaked.;由于没有任何斑块或迹象表明有任何网站，我的好奇心达到了顶峰。
+With no plaque or indication of any site as to what this wall might be, my curiosity was peaked.;由于没有关于这堵墙可能是什么的牌匾或任何地点的迹象，我的好奇心达到了顶峰。
+斑块 网站
+
+With no plaque or indication of any site as to my curiosity was peaked.;由于没有任何斑块或迹象表明有任何网站，我的好奇心达到了顶峰。
+With no plaque or indication of any site as to what this wall might appear, my curiosity was peaked.;由于没有任何关于这堵墙可能出现什么的斑块或迹象，我的好奇心达到了顶峰。
+网站
+
+With no plaque or indication of any site as to my curiosity was peaked.;由于没有任何斑块或迹象表明有任何网站，我的好奇心达到了顶峰。
+With no plaque or indication of any site as to what this wall might be, my curiosity was peaked.;由于没有关于这堵墙可能是什么的牌匾或任何地点的迹象，我的好奇心达到了顶峰。
+斑块 网站
+
+
+sent_id = 56
+add [0]
+add [1]
+add [2]
+Carrie and Kris' email friendship continued over the next several months as the class graduated.;在接下来的几个月里，随着班级的毕业，嘉莉和克里斯的电子邮件友谊持续不断。
+Carrie and Kris' email friendship continued over the next several months as the class graduated from college.;在接下来的几个月里，随着全班同学大学毕业，卡莉和克里斯的电子邮件友谊一直在延续。
+班级
+
+add [3]
+Carrie and Kris' email friendship continued over the next several months as the class graduated from govt.;在接下来的几个月里，随着班级从政府学院毕业，卡莉和克里斯的电子邮件友谊一直在延续。
+Carrie and Kris' email friendship continued over the next several months as the class graduated from govt, started school, and remained.;在接下来的几个月里，随着该班从政府部门毕业、开始上学并继续留在学校，嘉莉和克里斯的电子邮件友谊持续不断。
+班级 学院
+
+Carrie and Kris' email friendship continued over the next several months as the class graduated from govt.;在接下来的几个月里，随着班级从政府学院毕业，卡莉和克里斯的电子邮件友谊一直在延续。
+Carrie and Kris' email friendship continued over the next several months as the class graduated from govt, started college, and remained.;在接下来的几个月里，凯莉和克里斯的电子邮件友谊一直在延续，因为他们从政府毕业，开始上大学，并一直保持着这种友谊。
+班级
+
+Carrie and Kris' email friendship continued over the next several months as the class graduated from govt.;在接下来的几个月里，随着班级从政府学院毕业，卡莉和克里斯的电子邮件友谊一直在延续。
+Carrie and Kris' email friendship continued over the next several months as the class graduated from govt, started working, and remained.;在接下来的几个月里，随着该班从政府部门毕业、开始工作并继续留在学校，嘉莉和克里斯的电子邮件友谊得以延续。
+班级 学院
+
+add [4]
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained.;在接下来的几年里，随着两人大学毕业、开始工作并继续留在家中，嘉莉和克里斯的电子邮件友谊得以延续。
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained in each other's orbit.;在接下来的几年里，随着两人大学毕业、开始工作并保持在彼此的轨道上，嘉莉和克里斯的电子邮件友谊持续不断。
+留在 家中
+
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained.;在接下来的几年里，随着两人大学毕业、开始工作并继续留在家中，嘉莉和克里斯的电子邮件友谊得以延续。
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained in each other's orbit.;在接下来的几年里，随着两人大学毕业、开始工作并保持在彼此的轨道上，嘉莉和克里斯的电子邮件友谊持续不断。
+留在 家中
+
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained.;在接下来的几年里，随着两人大学毕业、开始工作并继续留在家中，嘉莉和克里斯的电子邮件友谊得以延续。
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained in each other's orbit.;在接下来的几年里，随着两人大学毕业、开始工作并保持在彼此的轨道上，嘉莉和克里斯的电子邮件友谊持续不断。
+留在 家中
+
+Carrie and Kris' email friendship continued over the next several months as the two graduated from college, started working, and remained.;在接下来的几个月里，随着两人大学毕业、开始工作并继续留在家中，嘉莉和克里斯的电子邮件友谊得以延续。
+Carrie and Kris' email friendship continued over the next several months as the two graduated from college, started working, and remained in each other's orbit.;在接下来的几个月里，随着两人大学毕业，开始工作，并保持在彼此的轨道上，嘉莉和克里斯的电子邮件友谊持续不断。
+留在 家中
+
+Carrie and Kris' email friendship continued over the next several months after the two graduated from college, started college, and remained.;卡莉和克里斯从大学毕业、开始上大学并继续留在家中后，他们的电子邮件友谊在接下来的几个月里继续保持着。
+Carrie and Kris' email friendship continued over the next several months after the two graduated from college, started college, and remained in each other's orbit.;在两人大学毕业、开始上大学并保持在彼此的轨道上之后，卡莉和克里斯的电子邮件友谊持续了几个月。
+留在 家中
+
+Carrie and Kris' email friendship continued over the next several months as the class graduated from govt, started school, and remained.;在接下来的几个月里，随着该班从政府部门毕业、开始上学并继续留在学校，嘉莉和克里斯的电子邮件友谊持续不断。
+Carrie and Kris' email friendship continued over the next several months as the class graduated from govt, started school, and remained in each other's orbit.;在接下来的几个月里，凯莉和克里斯的电子邮件友谊一直在延续，因为他们从政府毕业，开始上学，并保持在彼此的轨道上。
+留在
+
+Carrie and Kris' email friendship continued over the next several months as the class graduated from govt, started working, and remained.;在接下来的几个月里，随着该班从政府部门毕业、开始工作并继续留在学校，嘉莉和克里斯的电子邮件友谊得以延续。
+Carrie and Kris' email friendship continued over the next several months as the class graduated from govt, started working, and remained in each other's orbit.;在接下来的几个月里，凯莉和克里斯的电子邮件友谊一直在延续，因为他们从政府毕业，开始工作，并保持在彼此的轨道上。
+留在 学校
+
+Carrie and Kris' email friendship continued over the next several months as the class graduated from college, started college, and remained.;在接下来的几个月里，随着全班学生从大学毕业、开始上大学并继续留在学校，嘉莉和克里斯的电子邮件友谊持续不断。
+Carrie and Kris' email friendship continued over the next several months as the class graduated from college, started college, and remained in each other's orbit.;在接下来的几个月里，随着全班同学从大学毕业，开始上大学，卡莉和克里斯的电子邮件友谊一直在延续，并保持在彼此的轨道上。
+留在
+
+Carrie and Kris' email friendship continued over the next several months as the two graduated from college, started working, and remained.;在接下来的几个月里，随着两人大学毕业、开始工作并继续留在家中，嘉莉和克里斯的电子邮件友谊得以延续。
+Carrie and Kris' email friendship continued over the next several months as the two graduated from college, started working, and remained in each other's orbit.;在接下来的几个月里，随着两人大学毕业，开始工作，并保持在彼此的轨道上，嘉莉和克里斯的电子邮件友谊持续不断。
+留在 家中
+
+Carrie and Kris' email friendship continued over the next several days after the two graduated from college, started college, and remained.;卡莉和克里斯在大学毕业、开始上大学并继续留在家中后的几天里，电子邮件友谊一直在延续。
+Carrie and Kris' email friendship continued over the next several days after the two graduated from college, started college, and remained in each other's orbit.;在两人大学毕业、开始上大学并保持在彼此的轨道上之后，卡莉和克里斯的电子邮件友谊持续了几天。
+留在 家中
+
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained.;在接下来的几年里，随着两人大学毕业、开始工作并继续留在家中，嘉莉和克里斯的电子邮件友谊得以延续。
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained in each other's orbit.;在接下来的几年里，随着两人大学毕业、开始工作并保持在彼此的轨道上，嘉莉和克里斯的电子邮件友谊持续不断。
+留在 家中
+
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained.;在接下来的几年里，随着两人大学毕业、开始工作并继续留在家中，嘉莉和克里斯的电子邮件友谊得以延续。
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained in each other's orbit.;在接下来的几年里，随着两人大学毕业、开始工作并保持在彼此的轨道上，嘉莉和克里斯的电子邮件友谊持续不断。
+留在 家中
+
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained.;在接下来的几年里，随着两人大学毕业、开始工作并继续留在家中，嘉莉和克里斯的电子邮件友谊得以延续。
+Carrie and Kris' email friendship continued over the next several years as the two graduated from college, started working, and remained in each other's orbit.;在接下来的几年里，随着两人大学毕业、开始工作并保持在彼此的轨道上，嘉莉和克里斯的电子邮件友谊持续不断。
+留在 家中
+
+
+sent_id = 57
+add [0]
+add [1]
+So the concerned daughter went back and made tender chicken on rice.;因此，这位忧心忡忡的女儿回去做了嫩鸡饭。
+So the concerned daughter went back to her family's home and made tender chicken on rice.;因此，这位忧心忡忡的女儿回到了家中，做了米饭鸡。
+鸡饭
+
+add [2]
+
+sent_id = 58
+add [0]
+Matakauri Lodge boasts a stunning setting.;Matakauri Lodge拥有令人惊叹的环境。
+With mountains rising Matakauri Lodge boasts a stunning setting.;Matakauri Lodge山峦起伏，环境优美。
+拥有
+
+add [1]
+add [2]
+With mountains rising behind serene Lake Wakatipu Matakauri Lodge boasts a stunning setting.;马塔卡里小屋坐落在宁静的瓦卡蒂普湖后面，群山耸立，环境优美。
+With mountains rising behind serene Lake Wakatipu, Matakauri Lodge boasts a stunning setting.;Matakauri Lodge酒店位于宁静的瓦卡蒂普湖（Lake Wakatipu）后面，拥有令人惊叹的环境。
+小屋 群山 耸立
+
+add [3]
+With mountains rising behind serene Lake Wakatipu, Matakauri Lodge boasts a stunning setting.;Matakauri Lodge酒店位于宁静的瓦卡蒂普湖（Lake Wakatipu）后面，拥有令人惊叹的环境。
+With mountains rising behind serene Lake Wakatipu, Matakauri Lodge boasts a stunning setting in New Zealand's South Island.;马塔卡里旅馆位于新西兰南岛，宁静的瓦卡蒂普湖后群山耸立，环境优美。
+ip 拥有
+
+
+sent_id = 59
+add [0]
+Built in they look brand new.;内置式，看起来全新。
+Built in 2013 they look brand new.;建于2013年，外观全新。
+内置式
+
+add [1]
+add [2]
+add [3]
+Built in 2013, they look brand new, with every inch perfectly finished.;建于2013年，外观全新，每一寸都完美无缺。
+Built in 2013, they look brand new, with every inch perfectly finished by a mr.;它们建于2013年，外观焕然一新，每一寸都由mr。
+完美无缺
+
+Built in 2013, they look brand new, with every inch perfectly finished.;建于2013年，外观全新，每一寸都完美无缺。
+Built in 2013, they look brand new, with every inch perfectly finished by a mr.;它们建于2013年，外观焕然一新，每一寸都由mr。
+完美无缺
+
+add [4]
+Built in 2013, they look brand new, with every inch perfectly finished by a mr.;它们建于2013年，外观焕然一新，每一寸都由mr。
+Built in 2013, they look brand new, with every inch perfectly finished by a mr of craftsmen.;它们建于2013年，外观焕然一新，每一寸都由一位工匠先生完美完成。
+mr
+
+Built in 2013, they look brand new, with every inch perfectly finished by a team.;建于2013年，外观全新，每一寸都由团队完美完成。
+Built in 2013, they look brand new, with every inch perfectly finished by a team of craftsmen.;它们建于2013年，外观焕然一新，每一寸都由一组工匠完美完成。
+团队
+
+Built in 2013, they look brand new, with every one perfectly finished by a man.;建于2013年，外观全新，每一件都由一名男子完美完成。
+Built in 2013, they look brand new, with every one perfectly finished by a man of craftsmen.;它们建于2013年，外观焕然一新，每一件都由一名工匠完美完成。
+男子
+
+Built in 2013, they look brand new, with every one perfectly finished by a team.;建于2013年，外观全新，每一件都由一个团队完美完成。
+Built in 2013, they look brand new, with every one perfectly finished by a team of craftsmen.;建于2013年，外观全新，每一件都由一组工匠完美完成。
+团队
+
+Built in 2013, they look brand new, with every person perfectly finished by a team.;建于2013年，外观焕然一新，每个人都由一个团队完美完成。
+Built in 2013, they look brand new, with every person perfectly finished by a team of craftsmen.;建于2013年，外观全新，每个人都由一组工匠完美完成。
+团队
+
+Built in 2013, they look brand new, with every inch perfectly finished by a mr.;它们建于2013年，外观焕然一新，每一寸都由mr。
+Built in 2013, they look brand new, with every inch perfectly finished by a mr of craftsmen.;它们建于2013年，外观焕然一新，每一寸都由一位工匠先生完美完成。
+mr
+
+Built in 2013, they look brand new, with every inch perfectly finished by a team.;建于2013年，外观全新，每一寸都由团队完美完成。
+Built in 2013, they look brand new, with every inch perfectly finished by a team of craftsmen.;它们建于2013年，外观焕然一新，每一寸都由一组工匠完美完成。
+团队
+
+add [5]
+
+sent_id = 60
+add [0]
+But Aceto is among the last guardians of this vulnerable tradition threatened by industrialization.;但Aceto是这一受工业化威胁的脆弱传统的最后守护者之一。
+But Aceto is among the last guardians of this vulnerable tradition now threatened by industrialization.;但Aceto是这一脆弱传统的最后捍卫者之一，现在正受到工业化的威胁。
+守护者
+
+add [1]
+add [2]
+But Aceto is among the last guardians of this vulnerable tradition now threatened by industrialization, changes.;但Aceto是这一脆弱传统的最后捍卫者之一，现在正受到工业化和变革的威胁。
+But Aceto is among the last guardians of this vulnerable tradition now threatened by industrialization, changes in society and climate change.;但Aceto是这一脆弱传统的最后捍卫者之一，目前正受到工业化、社会变化和气候变化的威胁。
+变革
+
+
+sent_id = 61
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 62
+add [0]
+add [1]
+Whether writing wok recipes or advocating she's not only doing for the Chinese communities.;无论是写炒锅食谱还是倡导，她都不仅仅是为中国社区做的。
+Whether writing wok recipes or advocating for Chinatowns she's not only doing for the Chinese communities.;无论是写炒菜食谱还是倡导唐人街，她都不仅仅是为中国社区做的。
+炒锅
+
+add [2]
+Whether writing wok recipes or advocating for Chinatowns she's not only doing for the Chinese communities.;无论是写炒菜食谱还是倡导唐人街，她都不仅仅是为中国社区做的。
+Whether writing wok recipes or advocating for Chinatowns, she says she's not only doing for the Chinese communities.;无论是写炒锅食谱还是倡导唐人街，她说她不仅仅是为中国社区做这些。
+炒菜
+
+add [3]
+add [4]
+
+sent_id = 63
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+For someone who has succeeded in convincing 140 people to offload their minuscule slice to create a big project it shouldn't be too hard.;对于一个已经成功说服140人放下他们的一小部分去创建一个大项目的人来说，这应该不会太难。
+For someone who has succeeded in convincing 140 people to offload their minuscule slice of property to create a big project it shouldn't be too hard.;对于一个成功说服140人卖掉他们的一小块财产来创建一个大项目的人来说，这应该不难。
+放下
+
+add [5]
+
+sent_id = 64
+add [0]
+The Wisdom of the Chinese Kitchen was published had a.;《中国厨房的智慧》一书出版，就有了很大的影响。
+"The' Wisdom of the Chinese Kitchen' was published and about 10 years ago I got a call had a," says Young.;“中国厨房的智慧”出版了，大约10年前，我接到一个电话，打了一个电话，”杨说。
+很大 影响
+
+add [1]
+"The' Wisdom of the Chinese Kitchen' was published and about 10 years later I got a call had a," says Young.;“中国厨房的智慧”出版了，大约10年后，我接到了一个电话，有了一个新的想法，”杨说。
+"The' Wisdom of the Chinese Kitchen' was published in 1999 and about 10 years later I got a call had a," says Young.;杨说：“1999年出版了《中国厨房的智慧》，大约10年后，我接到了一个电话，打了个电话。”。
+想法
+
+"The' Wisdom of the Chinese Kitchen' was published and about 10 years later I got a call had a," says Young.;“中国厨房的智慧”出版了，大约10年后，我接到了一个电话，有了一个新的想法，”杨说。
+"The' Wisdom of the Chinese Kitchen' was published in 1999 and about 10 years later I got a call had a," says Young.;杨说：“1999年出版了《中国厨房的智慧》，大约10年后，我接到了一个电话，打了个电话。”。
+想法
+
+add [2]
+
+sent_id = 65
+add [0]
+add [1]
+add [2]
+
+sent_id = 66
+add [0]
+love was made outdoors.;爱情是在户外进行的。
+", the lack and intimacy love was made outdoors.;“，缺乏和亲密的爱是在户外进行的。
+爱情
+
+add [1]
+add [2]
+"In my parents' old home, the lack and intimacy love was made outdoors.;“在我父母的老家里，缺乏亲密的爱是在户外进行的。
+"In my parents' old home, the lack of respect and intimacy love was made outdoors.;“在我父母的老房子里，缺乏尊重和亲密的爱是在户外制造的。
+家里
+
+add [3]
+"In my parents' old days, the lack of respect and intimacy love was made outdoors.;“在我父母的过去，缺乏尊重和亲密的爱是在户外制造的。
+"In my parents' old days, the lack of respect and intimacy meant love was made outdoors,," he says.;“在我父母的过去，缺乏尊重和亲密意味着爱是在户外进行的，”他说。
+制造
+
+"In my parents' old home, the lack of respect and intimacy love was made outdoors.;“在我父母的老房子里，缺乏尊重和亲密的爱是在户外制造的。
+"In my parents' old home, the lack of respect and intimacy meant love was made outdoors,," he says.;“在我父母的老家里，缺乏尊重和亲密意味着爱是在户外进行的，”他说。
+制造
+
+"In my parents' old days, the lack of respect and intimacy love was made outdoors.;“在我父母的过去，缺乏尊重和亲密的爱是在户外制造的。
+"In my parents' old days, the lack of respect and intimacy meant love was made outdoors,," he says.;“在我父母的过去，缺乏尊重和亲密意味着爱是在户外进行的，”他说。
+制造
+
+add [4]
+add [5]
+add [6]
+
+sent_id = 67
+add [0]
+it the last recipe Young learned to.;这是年轻人学会的最后一个食谱。
+One, it was the first recipe Young learned to.;第一，这是杨学会的第一个食谱。
+年轻人
+
+add [1]
+add [2]
+One of his favorite pieces, it was the first recipe Young learned to.;作为他最喜欢的作品之一，这是杨学会的第一个食谱。
+One of his favorite pieces, it was the first recipe Young learned from her parents to.;作为他最喜欢的作品之一，这是杨从父母那里学到的第一个烹饪方法。
+食谱
+
+One of his many dishes, it was the same recipe Young learned to.;这是他众多菜肴中的一道，也是杨学会的食谱。
+One of his many dishes, it was the same recipe Young learned from her parents to.;这是他众多菜肴中的一道，也是杨从父母那里学到的烹饪方法。
+食谱
+
+One of his many dishes, it was the same recipe Young learned to.;这是他众多菜肴中的一道，也是杨学会的食谱。
+One of his many dishes, it was the same recipe Young learned from her parents to.;这是他众多菜肴中的一道，也是杨从父母那里学到的烹饪方法。
+食谱
+
+One of his favorite books, it was the same recipe Young learned to.;这是他最喜欢的书之一，也是杨学会的食谱。
+One of his favorite books, it was the same recipe Young learned from their parents to.;这本书是他最喜欢的书之一，也是年轻人从父母那里学到的烹饪方法。
+食谱
+
+One of his favorite books, it was the same recipe Young learned to.;这是他最喜欢的书之一，也是杨学会的食谱。
+One of his favorite books, it was the same recipe Young learned from her parents to.;这本书是他最喜欢的书之一，也是杨从父母那里学到的烹饪方法。
+食谱
+
+One of his favorite dishes, it was the same recipe Young learned to.;这是他最喜欢的菜肴之一，也是杨学会的食谱。
+One of his favorite dishes, it was the same recipe Young learned from her parents to.;这是他最喜欢的菜肴之一，也是杨从父母那里学到的烹饪方法。
+食谱
+
+One of his favorite dishes, it was the same recipe Young learned to.;这是他最喜欢的菜肴之一，也是杨学会的食谱。
+One of his favorite dishes, it was the same recipe Young learned from her parents to.;这是他最喜欢的菜肴之一，也是杨从父母那里学到的烹饪方法。
+食谱
+
+add [3]
+One of his many dishes, it was the first recipe Young learned from her parents to.;作为他众多菜肴中的一道，这是杨从父母那里学到的第一道烹饪食谱。
+One of his many dishes, it was the first recipe Young learned from her parents to include in "Wisdom.;作为他众多菜肴中的一道，这是杨从父母那里学到的第一道被列入“智慧”的菜谱。
+烹饪
+
+One of his favorite pieces, it was the first recipe Young learned from their parents to.;作为他最喜欢的作品之一，这是年轻人从父母那里学到的第一个烹饪方法。
+One of his favorite pieces, it was the first recipe Young learned from their parents to include in "mr.;作为他最喜欢的作品之一，这是年轻人从父母那里学到的第一个食谱。
+方法
+
+One of his favorite books, it was the first recipe Young learned from their parents to.;这本书是他最喜欢的书之一，是年轻人从父母那里学到的第一本烹饪食谱。
+One of his favorite books, it was the first recipe Young learned from their parents to write in "Wisdom.;这是他最喜欢的书之一，也是年轻人从父母那里学到的第一本用“智慧”写作的食谱。
+烹饪
+
+One of his favorite books, it was the first recipe Young learned from their parents to.;这本书是他最喜欢的书之一，是年轻人从父母那里学到的第一本烹饪食谱。
+One of his favorite books, it was the first recipe Young learned from their parents to include in "mr.;这本书是他最喜欢的书之一，也是他从父母那里学到的第一本食谱。
+年轻人 烹饪
+
+One of his favorite books, it was the first recipe Young learned from their parents to.;这本书是他最喜欢的书之一，是年轻人从父母那里学到的第一本烹饪食谱。
+One of his favorite books, it was the first recipe Young learned from their parents to include in "Wisdom.;这本书是他最喜欢的书之一，是年轻人从父母那里学到的第一本包含在《智慧》中的食谱。
+烹饪
+
+One of his many dishes, it was the same recipe Young learned from their parents to.;这是他众多菜肴中的一道，也是年轻人从父母那里学到的烹饪方法。
+One of his many dishes, it was the same recipe Young learned from their parents to include in "Wisdom.;这是他众多菜肴中的一道，也是年轻人从父母那里学到的“智慧”菜谱。
+烹饪
+
+One of his many dishes, it was the same recipe Young learned from her parents to.;这是他众多菜肴中的一道，也是杨从父母那里学到的烹饪方法。
+One of his many dishes, it was the same recipe Young learned from her parents to include in "mr.;作为他众多菜肴中的一道，这是杨从父母那里学来的同一道菜谱。
+烹饪
+
+One of his many dishes, it was the same recipe Young learned from her parents to.;这是他众多菜肴中的一道，也是杨从父母那里学到的烹饪方法。
+One of his many dishes, it was the same recipe Young learned from her parents to include in "Wisdom.;这是他众多菜肴中的一道，也是杨从父母那里学来的“智慧”菜谱。
+烹饪
+
+One of his many dishes, it was the same recipe Young learned from her parents to.;这是他众多菜肴中的一道，也是杨从父母那里学到的烹饪方法。
+One of his many dishes, it was the same recipe Young learned from her parents to include in "mr.;作为他众多菜肴中的一道，这是杨从父母那里学来的同一道菜谱。
+烹饪
+
+One of his many dishes, it was the same recipe Young learned from her parents to.;这是他众多菜肴中的一道，也是杨从父母那里学到的烹饪方法。
+One of his many dishes, it was the same recipe Young learned from her parents to include in "Wisdom.;这是他众多菜肴中的一道，也是杨从父母那里学来的“智慧”菜谱。
+烹饪
+
+One of his favorite books, it was the same recipe Young learned from their parents to.;这本书是他最喜欢的书之一，也是年轻人从父母那里学到的烹饪方法。
+One of his favorite books, it was the same recipe Young learned from their parents to write in "Wisdom.;这是他最喜欢的书之一，也是年轻人从父母那里学到的写“智慧”的方法。
+烹饪
+
+One of his favorite books, it was the same recipe Young learned from their parents to.;这本书是他最喜欢的书之一，也是年轻人从父母那里学到的烹饪方法。
+One of his favorite books, it was the same recipe Young learned from their parents to include in "Wisdom.;这是他最喜欢的书之一，也是年轻人从父母那里学到的加入“智慧”的方法。
+烹饪
+
+One of his favorite books, it was the same recipe Young learned from her parents to.;这本书是他最喜欢的书之一，也是杨从父母那里学到的烹饪方法。
+One of his favorite books, it was the same recipe Young learned from her parents to write in "Wisdom.;这是他最喜欢的书之一，也是杨从父母那里学到的写“智慧”的方法。
+烹饪
+
+One of his favorite books, it was the same recipe Young learned from her parents to.;这本书是他最喜欢的书之一，也是杨从父母那里学到的烹饪方法。
+One of his favorite books, it was the same recipe Young learned from her parents to read in "Wisdom.;这是他最喜欢的书之一，也是杨从父母那里学到的阅读《智慧》的方法。
+烹饪
+
+One of his favorite books, it was the same recipe Young learned from her parents to.;这本书是他最喜欢的书之一，也是杨从父母那里学到的烹饪方法。
+One of his favorite books, it was the same recipe Young learned from her parents to include in "Wisdom.;这本书是他最喜欢的书之一，也是杨从父母那里学到的写在《智慧》一书中的秘方。
+烹饪
+
+One of his favorite dishes, it was the same recipe Young learned from her parents to.;这是他最喜欢的菜肴之一，也是杨从父母那里学到的烹饪方法。
+One of his favorite dishes, it was the same recipe Young learned from her parents to include in "mr.;这是他最喜欢的菜肴之一，也是杨从父母那里学来的食谱。
+烹饪 方法
+
+One of his favorite dishes, it was the same recipe Young learned from her parents to.;这是他最喜欢的菜肴之一，也是杨从父母那里学到的烹饪方法。
+One of his favorite dishes, it was the same recipe Young learned from her parents to include in "Wisdom.;这是他最喜欢的菜肴之一，也是杨从父母那里学到的加入“智慧”的菜谱。
+烹饪
+
+One of his favorite dishes, it was the same recipe Young learned from their parents to.;这是他最喜欢的菜肴之一，也是年轻人从父母那里学到的烹饪方法。
+One of his favorite dishes, it was the same recipe Young learned from their parents to include in "Wisdom.;这是他最喜欢的菜肴之一，也是年轻人从父母那里学到的“智慧”食谱。
+烹饪
+
+One of his favorite dishes, it was the same recipe Young learned from her parents to.;这是他最喜欢的菜肴之一，也是杨从父母那里学到的烹饪方法。
+One of his favorite dishes, it was the same recipe Young learned from her parents to include in "mr.;这是他最喜欢的菜肴之一，也是杨从父母那里学来的食谱。
+烹饪 方法
+
+One of his favorite dishes, it was the same recipe Young learned from her parents to.;这是他最喜欢的菜肴之一，也是杨从父母那里学到的烹饪方法。
+One of his favorite dishes, it was the same recipe Young learned from her parents to include in "Wisdom.;这是他最喜欢的菜肴之一，也是杨从父母那里学到的加入“智慧”的菜谱。
+烹饪
+
+add [4]
+One of his favorite pieces, it was the first recipe Young learned from her parents to include in "Wisdom.;作为他最喜欢的作品之一，这是杨从父母那里学到的第一个食谱，被纳入了《智慧》。
+One of his favorite pieces, it was the first recipe Young learned from her parents to include in "Wisdom of the Chinese Kitchen.;这是杨从父母那里学到的第一份食谱，也是他最喜欢的作品之一，被收录在《中国厨房的智慧》中。
+纳入
+
+One of his favorite books, it was the first recipe Young learned from their parents to include in "Wisdom.;这本书是他最喜欢的书之一，是年轻人从父母那里学到的第一本包含在《智慧》中的食谱。
+One of his favorite books, it was the first recipe Young learned from their parents to include in "Wisdom of the Chinese Kitchen.;这本书是他最喜欢的书之一，是年轻人从父母那里学到的第一本食谱，被收录在《中国厨房的智慧》中。
+包含
+
+One of his favorite books, it was the first recipe Young learned from her parents to read in "Wisdom.;这本书是他最喜欢的书之一，也是杨从父母那里学到的第一本读懂《智慧》的食谱。
+One of his favorite books, it was the first recipe Young learned from her parents to read in "Wisdom of the new Kitchen.;这是杨从父母那里学到的第一本食谱，是他最喜欢的书之一，在《新厨房的智慧》一书中读到。
+读懂
+
+One of his favorite books, it was the first recipe Young learned from her parents to read in "Wisdom.;这本书是他最喜欢的书之一，也是杨从父母那里学到的第一本读懂《智慧》的食谱。
+One of his favorite books, it was the first recipe Young learned from her parents to read in "Wisdom of the Chinese Kitchen.;这是杨从父母那里学到的第一本食谱，是他最喜欢的书之一，在《中国厨房的智慧》一书中读到。
+读懂
+
+One of his favorite books, it was the first recipe Young learned from her parents to include in "Wisdom.;作为他最喜欢的书之一，这是杨从父母那里学到的第一本包含在“智慧”中的食谱。
+One of his favorite books, it was the first recipe Young learned from her parents to include in "Wisdom of the Chinese Kitchen.;这是杨从父母那里学到的第一本食谱，也是他最喜欢的书之一，被收录在《中国厨房的智慧》中。
+包含
+
+One of his favorite list, it was the same recipe Young learned from their parents to write in "Wisdom.;这是他最喜欢的清单之一，也是年轻人从父母那里学到的写“智慧”的方法。
+One of his favorite list, it was the same recipe Young learned from their parents to write in "Wisdom of the second Kitchen.;这是他最喜欢的食谱之一，也是杨从父母那里学到的写在《第二厨房的智慧》中的食谱。
+年轻人
+
+One of his favorite list, it was the same recipe Young learned from their parents to write in "Wisdom.;这是他最喜欢的清单之一，也是年轻人从父母那里学到的写“智慧”的方法。
+One of his favorite list, it was the same recipe Young learned from their parents to write in "Wisdom of the Chinese Kitchen.;这是他最喜欢的食谱之一，也是杨从父母那里学到的写在“中国厨房的智慧”中的食谱。
+年轻人
+
+One of his favorite list, it was the same recipe Young learned from her parents to include in "Wisdom.;这是他最喜欢的一张单子，也是杨从父母那里学来的加入“智慧”的食谱。
+One of his favorite list, it was the same recipe Young learned from her parents to include in "Wisdom of the Chinese Kitchen.;这是杨从父母那里学到的同一个食谱，也是他最喜欢的食谱之一，被列入“中国厨房的智慧”。
+单子
+
+One of his favorite books, it was the same recipe Young learned from their parents to write in "Wisdom.;这是他最喜欢的书之一，也是年轻人从父母那里学到的写“智慧”的方法。
+One of his favorite books, it was the same recipe Young learned from their parents to write in "Wisdom of the west Kitchen.;这本书是他最喜欢的书之一，也是杨从父母那里学到的写在《西厨房的智慧》中的食谱。
+年轻人
+
+One of his favorite books, it was the same recipe Young learned from their parents to write in "Wisdom.;这是他最喜欢的书之一，也是年轻人从父母那里学到的写“智慧”的方法。
+One of his favorite books, it was the same recipe Young learned from their parents to write in "Wisdom of the Chinese Kitchen.;这本书是他最喜欢的书之一，也是杨从父母那里学到的写在《中国厨房的智慧》一书中的食谱。
+年轻人
+
+One of his favorite books, it was the same recipe Young learned from her parents to read in "Wisdom.;这是他最喜欢的书之一，也是杨从父母那里学到的阅读《智慧》的方法。
+One of his favorite books, it was the same recipe Young learned from her parents to read in "Wisdom of the home Kitchen.;这本书是他最喜欢的书之一，也是杨在《家庭厨房的智慧》中从父母那里学到的食谱。
+阅读
+
+One of his favorite books, it was the same recipe Young learned from her parents to read in "Wisdom.;这是他最喜欢的书之一，也是杨从父母那里学到的阅读《智慧》的方法。
+One of his favorite books, it was the same recipe Young learned from her parents to read in "Wisdom of the Chinese Kitchen.;这本书是他最喜欢的书之一，也是杨在《中国厨房的智慧》中从父母那里学到的食谱。
+阅读
+
+One of his favorite books, it was the same recipe Young learned from her parents to include in "Wisdom.;这本书是他最喜欢的书之一，也是杨从父母那里学到的写在《智慧》一书中的秘方。
+One of his favorite books, it was the same recipe Young learned from her parents to include in "Wisdom of the french Kitchen.;这本书是他最喜欢的书之一，也是杨从父母那里学到的食谱，被收录在《法国厨房的智慧》中。
+秘方
+
+One of his favorite books, it was the same recipe Young learned from her parents to include in "Wisdom.;这本书是他最喜欢的书之一，也是杨从父母那里学到的写在《智慧》一书中的秘方。
+One of his favorite books, it was the same recipe Young learned from her parents to include in "Wisdom of the english Kitchen.;这本书是他最喜欢的书之一，也是杨从父母那里学到的写在《英国厨房的智慧》中的食谱。
+秘方
+
+One of his favorite books, it was the same recipe Young learned from her parents to include in "Wisdom.;这本书是他最喜欢的书之一，也是杨从父母那里学到的写在《智慧》一书中的秘方。
+One of his favorite books, it was the same recipe Young learned from her parents to include in "Wisdom of the Chinese Kitchen.;这本书是杨最喜欢的书之一，也是她从父母那里学来的食谱，被收录在《中国厨房的智慧》中。
+秘方
+
+One of his favorite dishes, it was the same recipe Young learned from their parents to include in "Wisdom.;这是他最喜欢的菜肴之一，也是年轻人从父母那里学到的“智慧”食谱。
+One of his favorite dishes, it was the same recipe Young learned from their parents to include in "Wisdom of the western Kitchen.;这是他最喜欢的一道菜，也是杨从父母那里学到的“西方厨房的智慧”中包含的菜谱。
+年轻人
+
+One of his many dishes, it was the last recipe Young learned from her parents to her in "Wisdom.;作为他众多菜肴中的一道，这是杨在《智慧》中从父母那里学到的最后一道菜谱。
+One of his many dishes, it was the last recipe Young learned from her parents to her in "Wisdom of the Chinese Kitchen.;这是杨从父母那里学到的最后一道菜谱，也是他在《中国厨房的智慧》中的一道菜。
+众多
+
+One of his favorite dishes, it was the last recipe Young learned from her parents to her in "Wisdom.;作为他最喜欢的菜肴之一，这是杨在《智慧》中从父母那里学到的最后一道食谱。
+One of his favorite dishes, it was the last recipe Young learned from her parents to her in "Wisdom of the Chinese Kitchen.;这是杨从父母那里学到的最后一道菜谱，也是他最喜欢的菜之一。
+智慧
+
+One of his favorite dishes, it was the last recipe Young learned from her parents to her in "Wisdom.;作为他最喜欢的菜肴之一，这是杨在《智慧》中从父母那里学到的最后一道食谱。
+One of his favorite dishes, it was the last recipe Young learned from her parents to her in "Wisdom of the Chinese Kitchen.;这是杨从父母那里学到的最后一道菜谱，也是他最喜欢的菜之一。
+智慧
+
+One of his favorite dishes, it was the last recipe Young learned from her parents to her in "Wisdom.;作为他最喜欢的菜肴之一，这是杨在《智慧》中从父母那里学到的最后一道食谱。
+One of his favorite dishes, it was the last recipe Young learned from her parents to her in "Wisdom of the Chinese Kitchen.;这是杨从父母那里学到的最后一道菜谱，也是他最喜欢的菜之一。
+智慧
+
+
+sent_id = 68
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 69
+add [0]
+add [1]
+add [2]
+
+sent_id = 70
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 71
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 72
+add [0]
+add [1]
+"Making popcorn in the wok is actually very good.;“在锅里做爆米花其实很不错。
+"Making popcorn in the wok is actually very good for intensifying the patina.;“在锅里做爆米花实际上有助于强化铜锈。
+不错
+
+add [2]
+
+sent_id = 73
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 74
+add [0]
+Sustainability in personal health are expected to.;预计个人健康的可持续性将得到改善。
+Sustainability in personal health and that are expected to complement and exert a positive influence, she noted.;她指出，个人健康和健康的可持续性预计将起到补充和积极影响的作用。
+改善
+
+add [1]
+add [2]
+Sustainability in personal health and that in the natural world are expected to complement and exert a positive influence, she noted.;她指出，预计个人健康和自然世界的可持续性将起到补充和积极影响的作用。
+Sustainability in personal health and that in the natural world are expected to complement and exert a positive influence on each other, she noted.;她指出，个人健康的可持续性和自然世界的可持续性有望相互补充并产生积极影响。
+起到
+
+
+sent_id = 75
+add [0]
+add [1]
+add [2]
+add [3]
+Zha Liyou, Chinese consul general to Kolkata, highlighting the importance of Bodh Gaya, said it has the potential to trigger an influx of arrivals from China.;中国驻加尔各答总领事查立友强调了菩提迦耶的重要性，他说，菩提迦雅有可能引发来自中国的移民潮。
+Zha Liyou, Chinese consul general to Kolkata, highlighting the importance of Bodh Gaya as a major tourist destination, said it has the potential to trigger an influx of arrivals from China.;中国驻加尔各答总领事查立友强调了博德加亚作为主要旅游目的地的重要性，他说，博德加雅有可能引发中国游客的涌入。
+菩提 菩提 移民潮
+
+add [4]
+
+sent_id = 76
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+According to Italian law dating back to the fascist era, property ownership passes not to the eldest heir, but.;根据意大利法西斯时代的法律，财产所有权不是传给最年长的继承人，而是传给最年轻的继承人。
+According to Italian law dating back to the fascist era, property ownership passes not to the eldest heir, but instead to every single child.;根据意大利法西斯时代的法律，财产所有权不是传给长子，而是传给每个孩子。
+年长 继承人 年轻 继承人
+
+According to Italian law dating back to the fascist era, property ownership passes not to the eldest heir, but.;根据意大利法西斯时代的法律，财产所有权不是传给最年长的继承人，而是传给最年轻的继承人。
+According to Italian law dating back to the fascist era, property ownership passes not to the eldest heir, but instead to every single child.;根据意大利法西斯时代的法律，财产所有权不是传给长子，而是传给每个孩子。
+年长 继承人 年轻 继承人
+
+
+sent_id = 77
+add [0]
+add [1]
+The details were announced at a media conference at Langyuan Vintage a.;具体细节在朗源酒庄举行的媒体会议上公布。
+The details were announced at a media conference early this month at Langyuan Vintage a.;这些细节在本月初的一次媒体会议上公布。
+朗源 酒庄
+
+add [2]
+add [3]
+The details were announced at a media conference early this month at Langyuan Vintage, a cultural industrial park,.;本月初，在文化产业园朗园酒庄举行的媒体会议上公布了相关细节，。
+The details were announced at a media conference early this month at Langyuan Vintage, a cultural industrial park in the capital,.;这些细节在本月初首都文化产业园朗园酒庄举行的媒体会议上公布，。
+相关
+
+add [4]
+
+sent_id = 78
+add [0]
+add [1]
+"It is certainly not a concept suitable for a vaporetto.;“这肯定不是一个适合蒸汽发生器的概念。
+"It is certainly not a concept suitable for a vaporetto in the Grand Canal or a cargo boat.;“这肯定不是一个适合大运河蒸汽船或货船的概念。
+发生器
+
+
+sent_id = 79
+add [0]
+add [1]
+In an attempt to make that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to make that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to make that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to make that problem, Salvatore and their brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和他们56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to make that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to make that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to make that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to make that problem, Salvatore and his son Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的儿子Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to make that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to make that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an independent tourism venture.;为了解决这个问题，Salvatore和他56岁的兄弟Marco创建了一家独立的旅游企业Lemon Tours。
+柠檬
+
+In an attempt to make that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to make that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an exclusive tourism venture.;为了解决这个问题，Salvatore和他56岁的兄弟Marco创建了Lemon Tours，这是一家独家旅游企业。
+柠檬
+
+In an attempt to make that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to make that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and their brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和他们56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and his son Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的儿子Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an independent tourism venture.;为了解决这个问题，Salvatore和他56岁的兄弟Marco创建了独立的旅游企业Lemon Tours。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an exclusive tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了Lemon Tours，这是一家独家旅游企业。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and their brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和他们56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and his son Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的儿子Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an independent tourism venture.;为了解决这个问题，Salvatore和他56岁的兄弟Marco创建了独立的旅游企业Lemon Tours。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an exclusive tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了Lemon Tours，这是一家独家旅游企业。
+柠檬
+
+In an attempt to solve that problem Salvatore have created Lemon Tours an.;为了解决这个问题，萨尔瓦托创建了一个柠檬之旅。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+柠檬
+
+add [2]
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+Marco Tours
+
+In an attempt to solve that problem, Salvatore and their brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和他们56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+In an attempt to solve that problem, Salvatore and their brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+Marco Tours
+
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+Marco Tours
+
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+Marco Tours
+
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+Marco Tours
+
+In an attempt to solve that problem, Salvatore and their brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和他们56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+In an attempt to solve that problem, Salvatore and their brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+Marco Tours
+
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+Marco Tours
+
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了一家农业旅游企业Lemon Tours。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+Marco Tours
+
+add [3]
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了Lemon Tours，这是一家农业旅游企业，旨在提高人们对Sfusato的认识，并振兴用来培育它的传统。
+柠檬 柠檬
+
+In an attempt to solve that problem, Salvatore and their brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+In an attempt to solve that problem, Salvatore and their brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了Lemon Tours，这是一家农业旅游企业，旨在提高人们对Sfusato的认识，并振兴用来培育它的传统。
+柠檬 柠檬
+
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了Lemon Tours，这是一家农业旅游企业，旨在提高人们对Sfusato的认识，并振兴用来培育它的传统。
+柠檬 柠檬
+
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了Lemon Tours，这是一家农业旅游企业，旨在提高人们对Sfusato的认识，并振兴用来培育它的传统。
+柠檬 柠檬
+
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了Lemon Tours，这是一家农业旅游企业，旨在提高人们对Sfusato的认识，并振兴用来培育它的传统。
+柠檬 柠檬
+
+In an attempt to solve that problem, Salvatore and their brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+In an attempt to solve that problem, Salvatore and their brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了Lemon Tours，这是一家农业旅游企业，旨在提高人们对Sfusato的认识，并振兴用来培育它的传统。
+柠檬 柠檬
+
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了Lemon Tours，这是一家农业旅游企业，旨在提高人们对Sfusato的认识，并振兴用来培育它的传统。
+柠檬 柠檬
+
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness and revitalize the traditions used to cultivate it.;为了解决这一问题，萨尔瓦托雷和56岁的兄弟马可创建了柠檬旅游公司，这是一家农业旅游公司，旨在提高人们的认识，并振兴用于培育柠檬旅游的传统。
+In an attempt to solve that problem, Salvatore and his brother Marco, 56, have created Lemon Tours, an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it.;为了解决这个问题，Salvatore和56岁的兄弟Marco创建了Lemon Tours，这是一家农业旅游企业，旨在提高人们对Sfusato的认识，并振兴用来培育它的传统。
+柠檬 柠檬
+
+
+sent_id = 80
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+As reports of other crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend.;随着其他犯罪报告的增加，企业开始提前关门，迫使员工天黑前回家，这是一种趋势。
+As reports of other crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend that continues today.;随着其他犯罪报告的增加，企业开始提前关门，迫使工人天黑前回家，这一趋势一直持续到今天。
+员工
+
+As reports of other crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend.;随着其他犯罪报告的增加，企业开始提前关门，迫使员工天黑前回家，这是一种趋势。
+As reports of other crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend that continues today.;随着其他犯罪报告的增加，企业开始提前关门，迫使工人天黑前回家，这一趋势一直持续到今天。
+员工
+
+As reports of other crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend.;随着其他犯罪报告的增加，企业开始提前关门，迫使员工天黑前回家，这是一种趋势。
+As reports of other crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend that continues today.;随着其他犯罪报告的增加，企业开始提前关门，迫使工人天黑前回家，这一趋势一直持续到今天。
+员工
+
+As reports of other crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend.;随着其他犯罪报告的增加，企业开始提前关门，迫使员工天黑前回家，这是一种趋势。
+As reports of other crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend that continues today.;随着其他犯罪报告的增加，企业开始提前关门，迫使工人天黑前回家，这一趋势一直持续到今天。
+员工
+
+As reports of more crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend.;随着更多犯罪报告的增加，企业开始提前关门，迫使员工天黑前回家，这是一种趋势。
+As reports of more crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend that continues today.;随着更多犯罪报告的增加，企业开始提前关门，迫使工人天黑前回家，这一趋势一直持续到今天。
+员工
+
+As reports of more crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend.;随着更多犯罪报告的增加，企业开始提前关门，迫使员工天黑前回家，这是一种趋势。
+As reports of more crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend that continues today.;随着更多犯罪报告的增加，企业开始提前关门，迫使工人天黑前回家，这一趋势一直持续到今天。
+员工
+
+As reports of more crimes increased, businesses began closing their doors early, forcing their workers to head home before hours, a trend.;随着更多犯罪报告的增加，企业开始提前关门，迫使员工在下班前回家，这是一种趋势。
+As reports of more crimes increased, businesses began closing their doors early, forcing their workers to head home before hours, a trend that continues there.;随着更多犯罪报告的增加，企业开始提前关门，迫使员工在几个小时前回家，这一趋势仍在继续。
+下班
+
+As reports of more crimes increased, businesses began closing their doors early, forcing their workers to head home before hours, a trend.;随着更多犯罪报告的增加，企业开始提前关门，迫使员工在下班前回家，这是一种趋势。
+As reports of more crimes increased, businesses began closing their doors early, forcing their workers to head home before hours, a trend that continues today.;随着更多犯罪报告的增加，企业开始提前关门，迫使员工在几个小时前回家，这一趋势一直持续到今天。
+下班
+
+As reports of more crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend.;随着更多犯罪报告的增加，企业开始提前关门，迫使员工天黑前回家，这是一种趋势。
+As reports of more crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend that continues today.;随着更多犯罪报告的增加，企业开始提前关门，迫使工人天黑前回家，这一趋势一直持续到今天。
+员工
+
+As reports of more crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend.;随着更多犯罪报告的增加，企业开始提前关门，迫使员工天黑前回家，这是一种趋势。
+As reports of more crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend that continues today.;随着更多犯罪报告的增加，企业开始提前关门，迫使工人天黑前回家，这一趋势一直持续到今天。
+员工
+
+As reports of such crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend.;随着此类犯罪报告的增加，企业开始提前关门，迫使员工天黑前回家，这是一种趋势。
+As reports of such crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend that continues there.;随着此类犯罪报告的增加，企业开始提前关门，迫使工人天黑前回家，这一趋势在那里继续。
+员工
+
+As reports of such crimes increased, businesses began closing their doors early, forcing their workers to head home before hours, a trend.;随着此类犯罪报告的增加，企业开始提前关门，迫使员工在下班前回家，这是一种趋势。
+As reports of such crimes increased, businesses began closing their doors early, forcing their workers to head home before hours, a trend that continues today.;随着此类犯罪报告的增加，企业开始提前关门，迫使员工在几个小时前回家，这一趋势一直持续到今天。
+下班
+
+As reports of such crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend.;随着此类犯罪报告的增加，企业开始提前关门，迫使员工天黑前回家，这是一种趋势。
+As reports of such crimes increased, businesses began closing their doors early, forcing their workers to head home before dark, a trend that continues there.;随着此类犯罪报告的增加，企业开始提前关门，迫使工人天黑前回家，这一趋势在那里继续。
+员工
+
+
+sent_id = 81
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+"I think that people forget that Chinese food actually has such a long history in America dating from the 1840s, and that it is a very important thing," says Young.;杨说：“我认为人们忘记了中国菜在美国有着悠久的历史，可以追溯到19世纪40年代，这是一件非常重要的事情。”。
+"I think that people forget that Chinese food actually has such a long history in America dating from the 1840s, and that it is a very important thing in the American culinary landscape," says Young.;杨说：“我认为人们忘记了中国菜在美国有着悠久的历史，可以追溯到19世纪40年代，它在美国烹饪界非常重要。”。
+事情
+
+"I think that people forget that Chinese food actually has such a long history in America dating from the 1840s, and that it is a very important thing," says Young.;杨说：“我认为人们忘记了中国菜在美国有着悠久的历史，可以追溯到19世纪40年代，这是一件非常重要的事情。”。
+"I think that people forget that Chinese food actually has such a long history in America dating from the 1840s, and that it is a very important thing of the American cultural landscape," says Young.;杨说：“我认为人们忘记了中国菜在美国有着悠久的历史，可以追溯到19世纪40年代，它是美国文化景观中非常重要的一部分。”。
+事情
+
+"I think that people forget that Chinese food actually has such a long history in America dating from the 1840s, and that it is a very important thing," says Young.;杨说：“我认为人们忘记了中国菜在美国有着悠久的历史，可以追溯到19世纪40年代，这是一件非常重要的事情。”。
+"I think that people forget that Chinese food actually has such a long history in America dating from the 1840s, and that it is a very important thing of the American culinary heritage," says Young.;杨说：“我认为人们忘记了中国菜在美国有着悠久的历史，可以追溯到19世纪40年代，它是美国烹饪遗产中非常重要的一部分。”。
+事情
+
+"I think that people forget that Chinese food actually has such a long history in America dating from the 1840s, and that it is a very important thing," says Young.;杨说：“我认为人们忘记了中国菜在美国有着悠久的历史，可以追溯到19世纪40年代，这是一件非常重要的事情。”。
+"I think that people forget that Chinese food actually has such a long history in America dating from the 1840s, and that it is a very important thing of the American culinary tradition," says Young.;杨说：“我认为人们忘记了中国菜在美国有着悠久的历史，可以追溯到19世纪40年代，它是美国烹饪传统中非常重要的一部分。”。
+事情
+
+
+sent_id = 82
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 83
+add [0]
+add [1]
+add [2]
+add [3]
+
+sent_id = 84
+add [0]
+need to the foils means saving Venice won't be.;需要保护箔意味着拯救威尼斯将不会成功。
+However, that need to the foils means saving Venice won't be, said Dr Pierpaolo Campostrini, managing director.;然而，董事总经理Pierpaolo Campostrini博士说，这种需要意味着拯救威尼斯不会成功。
+保护
+
+add [1]
+add [2]
+However, that need for speed to raise the foils means saving Venice won't be, said Dr Pierpaolo Campostrini, managing director.;然而，董事总经理Pierpaolo Campostrini博士说，提高箔材速度的需要意味着拯救威尼斯不会成功。
+However, that need for speed to raise the foils means saving Venice won't be as easy, said Dr Pierpaolo Campostrini, managing director.;然而，董事总经理Pierpaolo Campostrini博士说，提高箔材速度的需要意味着拯救威尼斯不会那么容易。
+成功
+
+add [3]
+add [4]
+add [5]
+add [6]
+add [7]
+
+sent_id = 85
+add [0]
+add [1]
+
+sent_id = 86
+add [0]
+add [1]
+A "social orchard" has been created, bringing together people,.;创建了一个“社会果园”，将人们聚集在一起，。
+A "social orchard" with fresh air has been created, bringing together people,.;一个拥有新鲜空气的“社交果园”已经建成，将人们聚集在一起，。
+创建 社会
+
+A "social orchard" has been created, bringing together people,.;创建了一个“社会果园”，将人们聚集在一起，。
+A "social orchard" with fresh produce has been created, bringing together people,.;一个拥有新鲜农产品的“社会果园”已经建成，将人们聚集在一起，。
+创建
+
+add [2]
+A "social orchard" with fresh air has been created, bringing together people,.;一个拥有新鲜空气的“社交果园”已经建成，将人们聚集在一起，。
+A "social orchard" with fresh air has been created, bringing together people of children,.;一个有着新鲜空气的“社会果园”已经建成，把孩子们聚集在一起，。
+社交
+
+A "social orchard" with fresh produce has been created, bringing together people,.;一个拥有新鲜农产品的“社会果园”已经建成，将人们聚集在一起，。
+A "social orchard" with fresh produce has been created, bringing together people of children,.;一个有新鲜农产品的“社会果园”已经建立起来，把孩子们聚集在一起，。
+建成
+
+A "social orchard" with fresh people has been created, bringing together groups,.;一个由新人组成的“社会果园”已经建立起来，将不同群体聚集在一起，。
+A "social orchard" with fresh people has been created, bringing together groups of children,.;一个有新鲜人的“社会果园”已经建立起来，聚集了一群孩子，。
+新人 群体
+
+A "social orchard" with fresh ideas has been created, bringing together groups,.;一个有着新鲜想法的“社会果园”已经建立起来，将各个群体聚集在一起，。
+A "social orchard" with fresh ideas has been created, bringing together groups of children,.;一个有着新思想的“社会果园”已经建立起来，将一群孩子聚集在一起，。
+新鲜 群体
+
+A "social orchard" with fresh produce has been created, bringing together groups,.;一个拥有新鲜农产品的“社会果园”已经建立起来，将各种群体聚集在一起，。
+A "social orchard" with fresh produce has been created, bringing together groups of children,.;一个有新鲜农产品的“社会果园”已经建立起来，聚集了一群孩子，。
+群体
+
+add [3]
+A "social orchard" with fresh people has been created, bringing together groups of children,.;一个有新鲜人的“社会果园”已经建立起来，聚集了一群孩子，。
+A "social orchard" with fresh people has been created, bringing together groups of children for lessons,.;一个有新人的“社会果园”已经建立起来，聚集了一群孩子来上课，。
+新鲜
+
+add [4]
+A "social orchard" with fresh people has been created, bringing together people of children for lessons,.;一个有新鲜人的“社会果园”已经建立起来，把孩子们聚集在一起上课，。
+A "social orchard" with fresh people has been created, bringing together people of children for lessons on rural life,.;一个有新鲜人的“社会果园”已经建立起来，把孩子们聚集在一起，学习农村生活，。
+上课
+
+A "social orchard" with fresh people has been created, bringing together people of children for lessons,.;一个有新鲜人的“社会果园”已经建立起来，把孩子们聚集在一起上课，。
+A "social orchard" with fresh people has been created, bringing together people of children for lessons on rural issues,.;一个有新鲜人的“社会果园”已经建立，将儿童聚集在一起，学习农村问题，。
+上课
+
+A "social orchard" with fresh people has been created, bringing together people of children for lessons,.;一个有新鲜人的“社会果园”已经建立起来，把孩子们聚集在一起上课，。
+A "social orchard" with fresh people has been created, bringing together people of children for lessons on rural life,.;一个有新鲜人的“社会果园”已经建立起来，把孩子们聚集在一起，学习农村生活，。
+上课
+
+A "social orchard" with fresh air has been created, bringing together people of children for lessons,.;一个有着新鲜空气的“社会果园”已经建立起来，把孩子们聚集在一起上课，。
+A "social orchard" with fresh air has been created, bringing together people of children for lessons on rural life,.;一个有着新鲜空气的“社会果园”已经建立起来，把孩子们聚集在一起，学习农村生活，。
+上课
+
+A "social orchard" with fresh air has been created, bringing together people of children for lessons,.;一个有着新鲜空气的“社会果园”已经建立起来，把孩子们聚集在一起上课，。
+A "social orchard" with fresh air has been created, bringing together people of children for lessons on rural life,.;一个有着新鲜空气的“社会果园”已经建立起来，把孩子们聚集在一起，学习农村生活，。
+上课
+
+A "social orchard" with fresh produce has been created, bringing together people of children for lessons,.;一个有新鲜农产品的“社会果园”已经建立起来，把孩子们聚集在一起上课，。
+A "social orchard" with fresh produce has been created, bringing together people of children for lessons on rural life,.;一个有新鲜农产品的“社会果园”已经建立起来，把孩子们聚集在一起，学习农村生活，。
+上课
+
+A "social orchard" with fresh produce has been created, bringing together people of children for lessons,.;一个有新鲜农产品的“社会果园”已经建立起来，把孩子们聚集在一起上课，。
+A "social orchard" with fresh produce has been created, bringing together people of children for lessons on rural issues,.;一个有新鲜农产品的“社会果园”已经建立起来，将儿童聚集在一起学习农村问题，。
+上课
+
+A "social orchard" with fresh produce has been created, bringing together people of children for lessons,.;一个有新鲜农产品的“社会果园”已经建立起来，把孩子们聚集在一起上课，。
+A "social orchard" with fresh produce has been created, bringing together people of children for lessons on rural life,.;一个有新鲜农产品的“社会果园”已经建立起来，把孩子们聚集在一起，学习农村生活，。
+上课
+
+A "social orchard" with fresh people has been created, bringing together groups of children for lessons,.;一个有新人的“社会果园”已经建立起来，聚集了一群孩子来上课，。
+A "social orchard" with fresh people has been created, bringing together groups of children for lessons on rural life,.;一个有新鲜人的“社会果园”已经建立起来，聚集了一群孩子来上关于农村生活的课，。
+新人 上课
+
+A "social orchard" with fresh people has been created, bringing together groups of children for lessons,.;一个有新人的“社会果园”已经建立起来，聚集了一群孩子来上课，。
+A "social orchard" with fresh people has been created, bringing together groups of children for lessons on rural history,.;一个由新人组成的“社会果园”已经建立起来，聚集了一群孩子来上农村历史课，。
+上课
+
+A "social orchard" with fresh people has been created, bringing together groups of children for lessons,.;一个有新人的“社会果园”已经建立起来，聚集了一群孩子来上课，。
+A "social orchard" with fresh people has been created, bringing together groups of children for lessons on rural life,.;一个有新鲜人的“社会果园”已经建立起来，聚集了一群孩子来上关于农村生活的课，。
+新人 上课
+
+A "social orchard" with fresh ideas has been created, bringing together groups of children for lessons,.;一个有着新思想的“社会果园”已经建立起来，聚集了一群孩子来上课，。
+A "social orchard" with fresh ideas has been created, bringing together groups of children for lessons on rural life,.;一个有着新思想的“社会果园”已经建立起来，将一群孩子聚集在一起，学习农村生活，。
+上课
+
+A "social orchard" with fresh ideas has been created, bringing together groups of children for lessons,.;一个有着新思想的“社会果园”已经建立起来，聚集了一群孩子来上课，。
+A "social orchard" with fresh ideas has been created, bringing together groups of children for lessons on rural history,.;一个有着新思想的“社会果园”已经建立起来，聚集了一群孩子来上农村历史课，。
+上课
+
+A "social orchard" with fresh ideas has been created, bringing together groups of children for lessons,.;一个有着新思想的“社会果园”已经建立起来，聚集了一群孩子来上课，。
+A "social orchard" with fresh ideas has been created, bringing together groups of children for lessons on rural life,.;一个有着新思想的“社会果园”已经建立起来，将一群孩子聚集在一起，学习农村生活，。
+上课
+
+A "social orchard" with fresh produce has been created, bringing together groups of children for lessons,.;一个有新鲜农产品的“社会果园”已经建立起来，聚集了一群孩子来上课，。
+A "social orchard" with fresh produce has been created, bringing together groups of children for lessons on rural issues,.;一个有新鲜农产品的“社会果园”已经建立起来，聚集了一群儿童来上关于农村问题的课，。
+上课
+
+add [5]
+A "social orchard" with fresh people has been created, bringing together people of children for lessons on rural issues,.;一个有新鲜人的“社会果园”已经建立，将儿童聚集在一起，学习农村问题，。
+A "social orchard" with fresh people has been created, bringing together people of children for lessons on rural issues, while a gastronomy school launches this year.;一个由新人组成的“社会果园”已经建立起来，将孩子们聚集在一起学习农村问题，而一所美食学校也在今年开学。
+新鲜
+
+A "social orchard" with fresh air has been created, bringing together people of children for lessons on rural life,.;一个有着新鲜空气的“社会果园”已经建立起来，把孩子们聚集在一起，学习农村生活，。
+A "social orchard" with fresh air has been created, bringing together people of children for lessons on rural life, while a gastronomy school launches this year.;一个有着新鲜空气的“社交果园”已经建立起来，将孩子们聚集在一起学习农村生活的课程，而一所美食学校也在今年开学。
+社会
+
+A "social orchard" with fresh air has been created, bringing together people of children for lessons on rural habits,.;一个有着新鲜空气的“社会果园”已经建立起来，把孩子们聚集在一起学习农村习惯，。
+A "social orchard" with fresh air has been created, bringing together people of children for lessons on rural habits, while a gastronomy school launches this year.;一个有新鲜空气的“社交果园”已经建成，将儿童聚集在一起学习农村生活习惯，而一所美食学校今年也将成立。
+社会
+
+A "social orchard" with fresh air has been created, bringing together people of children for lessons on rural life,.;一个有着新鲜空气的“社会果园”已经建立起来，把孩子们聚集在一起，学习农村生活，。
+A "social orchard" with fresh air has been created, bringing together people of children for lessons on rural life, while a gastronomy school launches this year.;一个有着新鲜空气的“社交果园”已经建立起来，将孩子们聚集在一起学习农村生活的课程，而一所美食学校也在今年开学。
+社会
+
+A "social orchard" with fresh produce has been created, bringing together people of children for her on rural life,.;一个有新鲜农产品的“社会果园”已经建立起来，把孩子们聚集在一起，为她讲述农村生活，。
+A "social orchard" with fresh produce has been created, bringing together people of children for her on rural life, while a gastronomy school launches this year.;一个有新鲜农产品的“社会果园”已经建立起来，将她在农村生活中的孩子们聚集在一起，而一所美食学校今年也成立了。
+讲述
+
+A "social orchard" with fresh people has been created, bringing together groups of children for lessons on rural life,.;一个有新鲜人的“社会果园”已经建立起来，聚集了一群孩子来上关于农村生活的课，。
+A "social orchard" with fresh people has been created, bringing together groups of children for lessons on rural life, while a gastronomy school launches this year.;一个由新人组成的“社会果园”已经建立起来，将一群孩子聚集在一起学习农村生活课程，而一所美食学校今年也将成立。
+新鲜
+
+A "social orchard" with fresh people has been created, bringing together groups of children for lessons on rural life,.;一个有新鲜人的“社会果园”已经建立起来，聚集了一群孩子来上关于农村生活的课，。
+A "social orchard" with fresh people has been created, bringing together groups of children for lessons on rural life, while a gastronomy school launches this year.;一个由新人组成的“社会果园”已经建立起来，将一群孩子聚集在一起学习农村生活课程，而一所美食学校今年也将成立。
+新鲜
+
+A "social orchard" with fresh ideas has been created, bringing together groups of children for reading on my life,.;一个有着新鲜想法的“社会果园”已经建立起来，聚集了一群孩子来阅读我的生活，。
+A "social orchard" with fresh ideas has been created, bringing together groups of children for reading on my life, while a gastronomy school launches this year.;一个有着新鲜想法的“社交果园”已经建立起来，聚集了一群孩子来阅读我的生活，而一所美食学校今年也成立了。
+社会
+
+A "social orchard" with fresh ideas has been created, bringing together groups of children for reading on rural platforms,.;一个有着新鲜想法的“社会果园”已经建立起来，聚集了一群孩子在农村平台上阅读，。
+A "social orchard" with fresh ideas has been created, bringing together groups of children for reading on rural platforms, while a gastronomy school launches this year.;一个有着新鲜想法的“社交果园”已经建立起来，将一群孩子聚集在一起，在农村平台上阅读，而一所美食学校也在今年启动。
+社会
+
+
+sent_id = 87
+add [0]
+add [1]
+
+sent_id = 88
+add [0]
+add [1]
+add [2]
+add [3]
+More efforts need to be made to close the gap, given that the people stood.;鉴于人民的立场，需要作出更多努力来缩小差距。
+More efforts need to be made to close the gap, given that the people stood at 60 percent.;鉴于人口占60%，需要做出更多努力来缩小差距。
+立场
+
+add [4]
+More efforts need to be made to close the gap, given that the man stood at 60 percent.;鉴于该男子占60%，需要做出更多努力来缩小差距。
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries.;鉴于发达国家的男性比例为60%，需要做出更多努力来缩小这一差距。
+男子
+
+More efforts need to be made to close the gap, given that the man stood at 60 percent.;鉴于该男子占60%，需要做出更多努力来缩小差距。
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries.;鉴于发达国家的男性比例为60%，需要做出更多努力来缩小这一差距。
+男子
+
+add [5]
+More efforts need to be made to close the gap, given that the man stood at 60 percent in several countries.;鉴于该男子在几个国家的比例为60%，需要做出更多努力来缩小这一差距。
+More efforts need to be made to close the gap, given that the man stood at 60 percent in several countries, the CHA said.;CHA说，鉴于该男子在多个国家中占60%，需要做出更多努力来缩小这一差距。
+比例
+
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries.;鉴于发达国家的男性比例为60%，需要做出更多努力来缩小这一差距。
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries, the woman said.;这位女士说，鉴于男性在发达国家占60%，需要做出更多努力来缩小这一差距。
+比例
+
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries.;鉴于发达国家的男性比例为60%，需要做出更多努力来缩小这一差距。
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries, the man said.;该名男子说，鉴于该男子在发达国家占60%，需要做出更多努力来缩小这一差距。
+比例
+
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries.;鉴于发达国家的男性比例为60%，需要做出更多努力来缩小这一差距。
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries, the CHA said.;CHA说，鉴于该男子在发达国家占60%，需要做出更多努力来缩小这一差距。
+比例
+
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries.;鉴于发达国家的男性比例为60%，需要做出更多努力来缩小这一差距。
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries, the woman said.;这位女士说，鉴于男性在发达国家占60%，需要做出更多努力来缩小这一差距。
+比例
+
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries.;鉴于发达国家的男性比例为60%，需要做出更多努力来缩小这一差距。
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries, the man said.;该名男子说，鉴于该男子在发达国家占60%，需要做出更多努力来缩小这一差距。
+比例
+
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries.;鉴于发达国家的男性比例为60%，需要做出更多努力来缩小这一差距。
+More efforts need to be made to close the gap, given that the man stood at 60 percent in developed countries, the CHA said.;CHA说，鉴于该男子在发达国家占60%，需要做出更多努力来缩小这一差距。
+比例
+
+
+sent_id = 89
+add [0]
+her books managed to overcome the challenge of explaining the Chinese culinary concepts English.;她的书设法克服了用英语解释中国烹饪概念的挑战。
+Contributing, her books managed to overcome the challenge of explaining the Chinese culinary concepts English are grateful.;通过贡献，她的书成功地克服了解释中国烹饪概念的挑战。
+设法 英语
+
+add [1]
+Contributing, her books managed to overcome the challenge of explaining the Chinese culinary concepts English are grateful.;通过贡献，她的书成功地克服了解释中国烹饪概念的挑战。
+Contributing to Young's popularity, her books managed to overcome the challenge of explaining the Chinese culinary concepts English are grateful.;杨的书很受欢迎，她的书克服了解释中国烹饪概念的挑战。
+贡献 成功
+
+add [2]
+add [3]
+add [4]
+Contributing to Young's popularity, her books managed to overcome the challenge of explaining the many ethereal Chinese culinary concepts in English, a feat generations are grateful.;她的书成功地克服了用英语解释许多空灵的中国烹饪概念的挑战，为杨的流行做出了贡献，这是一项令几代人感激的壮举。
+Contributing to Young's popularity, her books managed to overcome the challenge of explaining the many ethereal Chinese culinary concepts in English, a feat generations of Chinese food writers and lovers are grateful.;杨的书成功地克服了用英语解释许多空灵的中国烹饪概念的挑战，这是一项成就，一代又一代的中国美食作家和爱好者都很感激。
+流行 壮举
+
+add [5]
+
+sent_id = 90
+add [0]
+add [1]
+However, he warned boats speed could be, and said.;然而，他警告说，船只的速度可能会下降。
+However, he warned that maneuvering the boats speed could be difficult, and said.;然而，他警告说，操纵船只的速度可能很困难，他说。
+下降
+
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+add [7]
+
+sent_id = 91
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+
+sent_id = 92
+add [0]
+add [1]
+add [2]
+add [3]
+For the hotel industry as a whole, she said the era of hotels only providing beds is becoming a thing of the past.;她说，就整个酒店业而言，酒店只提供床位的时代已经成为过去。
+For the hotel industry as a whole, she said the era of hotels only providing beds and towels is becoming a thing of the past.;她说，就整个酒店业而言，酒店只提供床和毛巾的时代已经成为过去。
+床位
+
+For the hotel industry as a whole, she wrote the era of hotels only providing beds is becoming a thing of the past.;她写道，就整个酒店业而言，酒店只提供床位的时代已经成为过去。
+For the hotel industry as a whole, she wrote the era of hotels only providing beds and towels is becoming a thing of the past.;她写道，就整个酒店业而言，酒店只提供床和毛巾的时代已经成为过去。
+床位
+
+For the hotel industry as a whole, she said the era of hotels only providing beds is becoming a thing of the past.;她说，就整个酒店业而言，酒店只提供床位的时代已经成为过去。
+For the hotel industry as a whole, she said the era of hotels only providing beds and towels is becoming a thing of the past.;她说，就整个酒店业而言，酒店只提供床和毛巾的时代已经成为过去。
+床位
+
+For the hotel industry as a whole, she said the era of hotels only providing beds is becoming a thing of the past.;她说，就整个酒店业而言，酒店只提供床位的时代已经成为过去。
+For the hotel industry as a whole, she said the era of hotels only providing beds and towels is becoming a thing of the past.;她说，就整个酒店业而言，酒店只提供床和毛巾的时代已经成为过去。
+床位
+
+For the hotel industry as a whole, she wrote the era of hotels only providing beds is becoming a thing of the past.;她写道，就整个酒店业而言，酒店只提供床位的时代已经成为过去。
+For the hotel industry as a whole, she wrote the era of hotels only providing beds and towels is becoming a thing of the past.;她写道，就整个酒店业而言，酒店只提供床和毛巾的时代已经成为过去。
+床位
+
+For the hotel industry as a whole, she said the era of hotels only providing beds is becoming a thing of the past.;她说，就整个酒店业而言，酒店只提供床位的时代已经成为过去。
+For the hotel industry as a whole, she said the era of hotels only providing beds and towels is becoming a thing of the past.;她说，就整个酒店业而言，酒店只提供床和毛巾的时代已经成为过去。
+床位
+
+For the hotel industry as a whole, she said the era of hotels only providing beds is becoming a thing of the past.;她说，就整个酒店业而言，酒店只提供床位的时代已经成为过去。
+For the hotel industry as a whole, she said the era of hotels only providing beds and towels is becoming a thing of the past.;她说，就整个酒店业而言，酒店只提供床和毛巾的时代已经成为过去。
+床位
+
+For the hotel industry as a whole, she wrote the era of hotels only providing beds is becoming a thing of the past.;她写道，就整个酒店业而言，酒店只提供床位的时代已经成为过去。
+For the hotel industry as a whole, she wrote the era of hotels only providing beds and towels is becoming a thing of the past.;她写道，就整个酒店业而言，酒店只提供床和毛巾的时代已经成为过去。
+床位
+
+For the hotel industry as a whole, she said the era of hotels only providing beds is becoming a thing of the past.;她说，就整个酒店业而言，酒店只提供床位的时代已经成为过去。
+For the hotel industry as a whole, she said the era of hotels only providing beds and towels is becoming a thing of the past.;她说，就整个酒店业而言，酒店只提供床和毛巾的时代已经成为过去。
+床位
+
+
+sent_id = 93
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+add [5]
+It hadn't worked, but now the girl from the bus was walking towards him, and sitting herself next to him on the edge.;这没用，但现在公共汽车上的女孩朝他走去，坐在他旁边的边缘上。
+It hadn't worked, but now the girl from the bus was walking towards him, and sitting herself next to him on the edge of the rock.;这没有奏效，但现在公共汽车上的女孩朝他走来，坐在他旁边的岩石边上。
+没用
+
+
+sent_id = 94
+add [0]
+add [1]
+Kris was still road tripping he picked's message.;克里斯还在路上，他收到了他的留言。
+Kris was still road tripping with his parents he picked's message.;克里斯仍然和父母一起在路上旅行，他选择了他的留言。
+收到
+
+add [2]
+Kris was still road tripping with his parents he picked's message.;克里斯仍然和父母一起在路上旅行，他选择了他的留言。
+Kris was still road tripping with his parents when he picked up Carrie's message.;当克里斯收到嘉莉的留言时，他还在和父母一起旅行。
+路上 选择
+
+add [3]
+Kris was still road tripping with his parents when he picked up Carrie's message.;当克里斯收到嘉莉的留言时，他还在和父母一起旅行。
+Kris was still road tripping with his parents when he picked up Carrie's message from a San Francisco internet cafe.;当克里斯从旧金山的一家网吧收到嘉莉的短信时，他还在和父母一起旅行。
+留言
+
+
+sent_id = 95
+add [0]
+add [1]
+add [2]
+add [3]
+Soaring gracefully over the Sydney city, the Crown Sydney opened at the end of 2020 after four years.;悉尼皇冠酒店优雅地矗立在悉尼市上空，历时四年，于2020年底开业。
+Soaring gracefully over the Sydney city, the Crown Sydney opened at the end of 2020 after four years of construction and a whopping$ 1.;悉尼皇冠酒店优雅地矗立在悉尼市上空，经过四年的建设，耗资1美元，于2020年底开业。
+历时
+
+Soaring gracefully over the Sydney city, the Crown Sydney opened at the end of 2020 after four years.;悉尼皇冠酒店优雅地矗立在悉尼市上空，历时四年，于2020年底开业。
+Soaring gracefully over the Sydney city, the Crown Sydney opened at the end of 2020 after four years of construction and a whopping$ 1.;悉尼皇冠酒店优雅地矗立在悉尼市上空，经过四年的建设，耗资1美元，于2020年底开业。
+历时
+
+Soaring gracefully over the Sydney river, the Crown Sydney opened at the end of 2020 after four years.;悉尼皇冠酒店优雅地矗立在悉尼河上，历时四年，于2020年底开业。
+Soaring gracefully over the Sydney river, the Crown Sydney opened at the end of 2020 after four years of construction and a whopping$ 1.;悉尼皇冠酒店优雅地矗立在悉尼河上，经过四年的建设，耗资1美元，于2020年底开业。
+历时
+
+Soaring gracefully over the Sydney river, the Crown Sydney opened at the end of 2020 after four years.;悉尼皇冠酒店优雅地矗立在悉尼河上，历时四年，于2020年底开业。
+Soaring gracefully over the Sydney river, the Crown Sydney opened at the end of 2020 after four years of construction and a whopping$ 1.;悉尼皇冠酒店优雅地矗立在悉尼河上，经过四年的建设，耗资1美元，于2020年底开业。
+历时
+
+Soaring gracefully over the Sydney skyline, the Crown Sydney opened at the end of 2020 after four years.;悉尼皇冠酒店优雅地矗立在悉尼的天际线上，历时四年，于2020年底开业。
+Soaring gracefully over the Sydney skyline, the Crown Sydney opened at the end of 2020 after four years of construction and a whopping$ 1.;悉尼皇冠酒店优雅地矗立在悉尼的天际线上，经过四年的建设，耗资1美元，于2020年底开业。
+历时
+
+
+sent_id = 96
+add [0]
+add [1]
+The top 50 Chinese hotel groups combined had nearly 4 million guest rooms, covering 85 percent.;中国排名前50位的酒店集团总共拥有近400万间客房，占85%。
+The top 50 Chinese hotel groups combined had nearly 4 million guest rooms, covering 85 percent of the large chain hotel market.;中国前50大酒店集团合计拥有近400万间客房，占大型连锁酒店市场的85%。
+排名
+
+The top 50 Chinese hotel groups combined had nearly 4 million guest rooms, covering 85 percent.;中国排名前50位的酒店集团总共拥有近400万间客房，占85%。
+The top 50 Chinese hotel groups combined had nearly 4 million guest rooms, covering 85 percent of the domestic chinese hotel market.;中国前50大酒店集团合计拥有近400万间客房，占中国国内酒店市场的85%。
+排名
+
+The top 50 Chinese hotel groups combined had nearly 4 million guest rooms, covering 85 percent.;中国排名前50位的酒店集团总共拥有近400万间客房，占85%。
+The top 50 Chinese hotel groups combined had nearly 4 million guest rooms, covering 85 percent of the domestic chain hotel corp.;中国前50大酒店集团合计拥有近400万间客房，占国内连锁酒店集团的85%。
+排名
+
+
+sent_id = 97
+add [0]
+add [1]
+For those patina is a brownish film of.;对于那些人来说，铜绿是一层褐色的黑色薄膜。
+For those who aren't familiar patina is a brownish film of.;对于那些不熟悉的人来说，patina是一种褐色的电影。
+铜绿 黑色 薄膜
+
+add [2]
+add [3]
+add [4]
+add [5]
+add [6]
+add [7]
+add [8]
+
+sent_id = 98
+add [0]
+add [1]
+If a glamorous city escape is more your style it doesn't get better than this.;如果一个迷人的城市逃脱更符合你的风格，那么没有比这更好的了。
+If a glamorous city escape is more your style, it doesn't get much better than this.;如果你更喜欢迷人的城市逃避，那就没有比这更好的了。
+符合 风格
+
+add [2]
+add [3]
+If a glamorous city escape is more your style, it doesn't get much better than this sleek urban oasis.;如果一个迷人的城市逃生更符合你的风格，那么它不会比这个时尚的城市绿洲更好。
+If a glamorous city escape is more your style, it doesn't get much better than this sleek urban oasis on Sunset Boulevard.;如果一个迷人的城市逃生更适合你的风格，那么它不会比日落大道上这片光滑的城市绿洲更好。
+时尚
+
+
+sent_id = 99
+add [0]
+add [1]
+add [2]
+add [3]
+add [4]
+

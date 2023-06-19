@@ -1,0 +1,133 @@
+#1:
+Those who love " The Golden Girls " and live in the Los Angeles area will soon have what could only be called a golden opportunity .
+那些热爱“黄金女郎”并居住在洛杉矶地区的人，很快就会拥有一个堪称千载难逢的机会。
+Those who love " The Golden Girls " and live in the Los Angeles area will soon have what can only be called a golden opportunity .
+那些热爱“黄金女郎”并居住在洛杉矶地区的人，很快就会有一个只能称为千载难逢的机会。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#2:
+Those who love " The Golden Girls " and live in the Los Angeles area will soon get what can only be called a golden opportunity .
+那些热爱“黄金女郎”并住在洛杉矶地区的人，很快就会得到一个只能称为千载难逢的机会。
+Those who love " The Golden Girls " and live in the Los Angeles area will soon have what can only be called a golden opportunity .
+那些热爱“黄金女郎”并居住在洛杉矶地区的人，很快就会有一个只能称为千载难逢的机会。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#5:
+It ' s not a full album yet , but two songs from the " Black Panther : Wakanda Forever " soundtrack are now available for streaming .
+这还不是一张完整的专辑，但是“Black Panther: Wakanda Forever”原声带中的两首歌曲现在可以流媒体播放了。
+It ' s not a full album yet , but three songs from the " Black Panther : Wakanda Forever " soundtrack are now available for streaming .
+这还不是一张完整的专辑，但是“Black Panther: Wakanda Forever”原声带中的三首歌曲现在可以流式传输了。
+LCS-Wdiff:	0.96 
+--FP--
+#10:
+There is history behind Mero ' s seeming loyalty to Lopez which dates back to well before the show came to be .
+Mero 看似对 Lopez 忠诚的背后有一段历史，这可以追溯到演出开始之前。
+There is history behind Mero ' s seeming loyalty to Lopez that dates back to well before the show came to be .
+梅罗对洛佩兹看似忠诚的背后有一段历史，可以追溯到演出开始之前。
+LCS-Wdiff:	0.875 
+--FP--
+#14:
+According to Mero , Lopez was working for a small company that specialized in independent films and was looking to expand into management when she started advocating for Mero .
+根据梅罗的说法，洛佩兹在一家专门从事独立电影的小公司工作，并在开始为梅罗宣传时正在寻求扩展到管理领域。
+According to Mero , Lopez was working for a small company that specialized in independent films and was looking to expand into management when he started advocating for Mero .
+根据 Mero 的说法，Lopez 在一家专门从事独立电影的小公司工作，并在开始为 Mero 宣传时正在寻求扩展到管理领域。
+LCS-Wdiff:	0.9310344827586207 
+--FP--
+#18:
+And even though ' Smoke ' is an amazing record , it ' s also not the best record on the album .
+尽管 'Smoke' 是一张了不起的唱片，但它也不是这张专辑中最好的唱片。
+And even though ' Smoke ' is an amazing record , it ' s still not the best record on the album .
+尽管 'Smoke' 是一张了不起的唱片，但它仍然不是专辑中最好的唱片。
+LCS-Wdiff:	0.95 
+--FP--
+#32:
+Smith posted a video to his verified Instagram account that Friday that began with the words on screen , " It ' s been a minute .
+上周五，史密斯在他经过验证的 Instagram 帐户上发布了一段视频，视频以屏幕上的文字开头，“已经过了一分钟。
+Smith posted a video to his verified Instagram account on Friday that began with the words on screen , " It ' s been a minute .
+史密斯 周五 在 他 经过 验证 的 Instagram 帐户 上 发布 了 一段 视频 , 视频 以 屏幕 上 的 文字 开头 , " 已经 一 分钟 了 .
+LCS-Wdiff:	0.7857142857142857 
+--FP--
+#34:
+" Blood and Bodies " will be McLean ' s second solo album and is set to release in early 2023 .
+《Blood and Bodies》将是 McLean 的第二张个人专辑，将于 2023 年初发行。
+" Sex and Bodies " will be McLean ' s second solo album and is set to release in early 2023 .
+《性与身体》将是麦克莱恩的第二张个人专辑，将于 2023 年初发行。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#37:
+" Black Panther " star Chadwick Boseman died in July 2020 after a battle with colon cancer that he kept private .
+《黑豹》明星查德维克·博斯曼在与结肠癌作斗争后于 2020 年 7 月去世，他一直保密。
+" Black Panther " star Chadwick Boseman died in August 2020 after a battle with colon cancer that he kept private .
+《黑豹》明星查德维克博斯曼在与结肠癌作斗争后于 2020 年 8 月去世，他一直保密。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#46:
+" He asked a lot of fair questions that I wanted to take some time to answer .
+“他问了很多我想花一些时间回答的公平问题。
+" You asked a lot of fair questions that I wanted to take some time to answer .
+“你问了很多公平的问题，我想花一些时间来回答。
+LCS-Wdiff:	0.6428571428571429 
+--FP--
+#49:
+" Visual effects create the magic that makes people want to go to the movies , " Lucas says , but his pal Steven Spielberg adds the cautionary note , " If the effects become the story , we ' ve lost our way .
+“视觉效果创造了让人想去看电影的魔力，”卢卡斯说，但他的朋友史蒂文斯皮尔伯格补充说，“如果效果变成故事，我们就迷失了方向。
+" Visual effects create the magic that makes people want to go to the movies , " Lucas says , but his pal Steven Spielberg adds the cautionary note , " When the effects become the story , we ' ve lost our way .
+“视觉效果创造了让人们想去看电影的魔力，”卢卡斯说，但他的朋友史蒂文斯皮尔伯格补充说，“当效果变成故事时，我们就迷失了方向。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#55:
+He added : " I ' m honored to say that I ' m a Backstreet Boy , and I ' m proud to be a Backstreet Boy in 2024 .
+他补充说：“我很荣幸地说我是后街男孩，我很自豪能在 2024 年成为后街男孩。
+He added : " I ' m honored to say that I ' m a Backstreet Boy , and I ' m proud to be a Backstreet Boy in 2022 .
+他补充说：“我很荣幸地说我是一名后街男孩，我很自豪能在 2022 年成为一名后街男孩。
+LCS-Wdiff:	0.9310344827586207 
+--FP--
+#57:
+A look at some of the shows and movies streaming through Netflix , Amazon , Hulu and Disney + in August .
+看看 8 月份通过 Netflix、亚马逊、Hulu 和 Disney+ 播放的一些节目和电影。
+A look at some of the shows and movies streaming on Netflix , Amazon , Hulu and Disney + in August .
+看看 8 月份在 Netflix、亚马逊、Hulu 和 Disney+ 上播放的一些节目和电影。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#63:
+" We similar , we not congruent , " Yaro said of him and Desus during Hoffa ' s podcast , which appears to have been recorded before the split .
+“我们相似，但我们不一致，”Yaro 在 Hoffa 的播客中谈到他和 Desus，这似乎是在分裂前录制的。
+" We similar , we not congruent , " Mero said of him and Desus during Hoffa ' s podcast , which appears to have been recorded before the split .
+“我们相似，但我们不一致，”梅罗在霍法的播客中谈到他和德苏斯，这似乎是在分裂前录制的。
+LCS-Wdiff:	0.9285714285714286 
+--FP--
+#78:
+Will Smith is " deeply remorseful " for slapping Chris Rock at the Academy Awards in March .
+威尔史密斯对三月份在奥斯卡颁奖典礼上打了克里斯洛克感到“深感懊悔”。
+Will Smith is " deeply remorseful " about slapping Chris Rock at the Academy Awards in March .
+威尔史密斯对在三月份的奥斯卡颁奖典礼上打克里斯洛克感到“深感懊悔”。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#79:
+That ' s quite an awful bargain , but if you ' re waiting for it to get better , well , do n ' t hold your breath .
+这是一笔非常糟糕的交易，但如果你在等待它变得更好，那么，不要屏住呼吸。
+That ' s not an awful bargain , but if you ' re waiting for it to get better , well , do n ' t hold your breath .
+这不是一个糟糕的交易，但如果你正在等待它变得更好，那么，不要屏住呼吸。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#89:
+Judge José Jesús Juberías argued that Shakira lived more than 200 days in Spain in each of those three years , making her liable to pay taxes in the country .
+法官 José Jesús Juberías 辩称，Shakira 在这三年中的每一年都在西班牙生活了 200 多天，这使她有责任在该国纳税。
+Judge Marco Jesús Juberías argued that Shakira lived more than 200 days in Spain in each of those three years , making her liable to pay taxes in the country .
+Marco Jesús Juberías 法官辩称，夏奇拉在这三年中的每一年都在西班牙生活了 200 多天，这使她有责任在该国纳税。
+LCS-Wdiff:	0.9393939393939394 
+--FP--
+#92:
+Beyoncé ' s " Renaissance " album dropped Friday so you may want to stay off social media and you do n ' t care about that .
+Beyoncé 的“Renaissance”专辑于周五发行，所以你可能想远离社交媒体，而你并不关心这些。
+Beyoncé ' s " Renaissance " album dropped Friday so you may want to stay off social media if you do n ' t care about that .
+Beyoncé 的“Renaissance”专辑于周五发行，所以如果你不在乎的话，不妨远离社交媒体。
+LCS-Wdiff:	0.7083333333333334 
+--FP--
+#93:
+Beyoncé ' s " Renaissance " album dropped Friday so you may want to stay off social media because you do n ' t care about that .
+Beyoncé 的“Renaissance”专辑于周五发行，所以你可能不想接触社交媒体，因为你不在乎。
+Beyoncé ' s " Renaissance " album dropped Friday so you may want to stay off social media if you do n ' t care about that .
+Beyoncé 的“Renaissance”专辑于周五发行，所以如果你不在乎的话，不妨远离社交媒体。
+LCS-Wdiff:	0.7619047619047619 
+--FP--

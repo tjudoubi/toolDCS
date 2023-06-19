@@ -1,0 +1,35 @@
+#35:
+Taiwan is also home base for several key Apple suppliers , including Foxconn , Pegatron and Unistron , and has become a global hub for the semiconductor chips used in most electronic devices .
+台湾也是包括富士康、和硕和 Unistron 在内的几家主要苹果供应商的总部所在地，并已成为大多数电子设备中使用的半导体芯片的全球中心。
+Taiwan is also home base for several key Apple suppliers , including Foxconn , Pegatron and Wistron , and has become a global hub for the semiconductor chips used in most electronic devices .
+台湾也是包括富士康、和硕和纬创在内的几家主要苹果供应商的总部所在地，并已成为大多数电子设备中使用的半导体芯片的全球中心。
+LCS-Wdiff:	1.0 
+--FN--
+#64:
+Zhang and the girls worked hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+张老师和姑娘们努力拼搏，很快，老师和同学们的队伍有了很大的进步，也吸引了更多的同学加入。
+Zhang and the girls trained hard , and soon , teachers and students saw great improvement in the team , which attracted more students to join .
+张老师和姑娘们刻苦训练，很快，老师和同学们的队伍有了很大的进步，吸引了更多的同学加入。
+LCS-Wdiff:	0.9642857142857143 
+--FN--
+#78:
+From the windows of every household , loud applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+家家户户的窗外，响亮的掌声和欢呼声对“大白”表示感谢，身穿白色个人防护服的无处不在的健康监测仪，在夜空中盘旋。
+From the windows of every household , warm applause and cheers to express gratitude toward the " big whites " , the ubiquitous health monitors clothed in white personal protective gear , were hovering in the night air .
+家家户户的窗外，热烈的掌声和欢呼声向“大白”表示感谢，身穿白色个人防护服的无处不在的健康监测仪，在夜空中盘旋。
+LCS-Wdiff:	0.9655172413793104 
+--FN--
+#80:
+Ball - throwing sport is growing in popularity , not least because of its non - contact and social aspects , Yang Feiyue reports .
+杨飞跃报告说，抛球运动越来越受欢迎，尤其是因为它的非接触性和社交性。
+Disc - throwing sport is growing in popularity , not least because of its non - contact and social aspects , Yang Feiyue reports .
+杨飞跃报告说，抛盘运动越来越受欢迎，尤其是因为它的非接触性和社交性。
+LCS-Wdiff:	1.0 
+--FN--
+#97:
+" China has been becoming more expensive for many years already , but what happened in the last year is it became more volatile , " said Allon .
+“多年来，中国的物价已经变得越来越贵，但去年发生的事情是它变得更加不稳定，”阿隆说。
+" China has been becoming more expensive for several years already , but what happened in the last year is it became more volatile , " said Allon .
+“几年来，中国的物价已经变得越来越贵，但去年发生的事情是它变得更加不稳定，”阿隆说。
+LCS-Wdiff:	1.0 
+--FN--

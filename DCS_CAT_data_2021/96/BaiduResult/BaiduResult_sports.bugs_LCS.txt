@@ -1,0 +1,1380 @@
+#0.0:
+People in the green area can not conduct any close contact with those having credentials in other colors .
+绿色区域的人不能与其他颜色的人进行任何密切接触。
+People in the green area do not conduct any close contact with those having credentials in other colors .
+绿色区域内的人不会与持有其他颜色证件的人进行任何密切接触。
+
+#1.0:
+People in the green area can not conduct any close contact with those having credentials in other colors .
+绿色区域的人不能与其他颜色的人进行任何密切接触。
+People in the green area can not conduct any close contact with those with credentials in other colors .
+绿色区域内的人员不能与持有其他颜色证件的人员进行任何密切接触。
+
+#2.0:
+People in the green area can not conduct any close contact with those having credentials in other colors .
+绿色区域的人不能与其他颜色的人进行任何密切接触。
+Those in the green area can not conduct any close contact with those having credentials in other colors .
+绿色区域内的人员不能与其他颜色的人员进行任何密切接触。
+
+#3.0:
+People in the green area can not conduct any close contact with those having credentials in other colors .
+绿色区域的人不能与其他颜色的人进行任何密切接触。
+People in the green area may not conduct any close contact with those having credentials in other colors .
+绿色区域内的人员不得与持有其他颜色证件的人员进行任何密切接触。
+
+#4.0:
+People in the green area can not conduct any close contact with those having credentials in other colors .
+绿色区域的人不能与其他颜色的人进行任何密切接触。
+People in the green area should not conduct any close contact with those having credentials in other colors .
+绿色区域的人员不应与其他颜色的人员进行任何密切接触。
+
+#7.0:
+Theo Walcott said he " feels like a kid again " after scoring his first goal since rejoining Southampton in their Premier League draw at Wolves .
+西奥·沃尔科特说，自从在与狼队的英超平局中重新加入南安普顿队以来，他打进了自己的第一个进球，之后他“感觉又像个孩子了”。
+Theo Walcott said he " feels like a kid again " before scoring his first goal since rejoining Southampton in their Premier League draw at Wolves .
+西奥·沃尔科特说，他“感觉自己又像个孩子了”，这是他在与狼队的英超平局中重返南安普顿队后攻入的第一个进球。
+
+#8.0:
+Theo Walcott said he " feels like a kid again " after scoring his first goal since rejoining Southampton in their Premier League draw at Wolves .
+西奥·沃尔科特说，自从在与狼队的英超平局中重新加入南安普顿队以来，他打进了自己的第一个进球，之后他“感觉又像个孩子了”。
+Theo Walcott said he " feels like a kid again " after scoring his first goal on rejoining Southampton in their Premier League draw at Wolves .
+西奥·沃尔科特（Theo Walcott）表示，在重新加入南安普顿队（Southampton）对阵狼队（Wolfs）的比赛中攻入第一球后，他“感觉自己又像个孩子了”。
+
+#9.0:
+Theo Walcott said he " feels like a kid again " after scoring his first goal since rejoining Southampton in their Premier League draw at Wolves .
+西奥·沃尔科特说，自从在与狼队的英超平局中重新加入南安普顿队以来，他打进了自己的第一个进球，之后他“感觉又像个孩子了”。
+Theo Walcott said he " feels like a kid again " after scoring his first goal since rejoining Southampton in the Premier League draw at Wolves .
+西奥·沃尔科特（Theo Walcott）说，自从在英超战平狼队的比赛中重新加入南安普顿队以来，他打进了自己的第一个进球，之后他“感觉又像个孩子了”。
+
+#10.0:
+Balancing a career in professional sport with being a social media sensation is a tightrope to walk .
+在职业体育生涯和社交媒体轰动之间取得平衡是一条走钢丝的捷径。
+Balancing a career in professional sport and being a social media sensation is a tightrope to walk .
+平衡职业体育生涯和社交媒体轰动是一条走钢丝。
+
+#11.0:
+Balancing a career in professional sport with being a social media sensation is a tightrope to walk .
+在职业体育生涯和社交媒体轰动之间取得平衡是一条走钢丝的捷径。
+Balancing a career in professional sport with becoming a social media sensation is a tightrope to walk .
+在职业体育生涯和成为社交媒体轰动人物之间取得平衡是一条走钢丝的捷径。
+
+#13.0:
+Balancing a career in professional sport with being a social media sensation is a tightrope to walk .
+在职业体育生涯和社交媒体轰动之间取得平衡是一条走钢丝的捷径。
+Balancing a career in professional sport by being a social media sensation is a tightrope to walk .
+通过成为社交媒体上的热门人物来平衡职业体育生涯是一条走钢丝的捷径。
+
+#14.0:
+Balancing a career in professional sport with being a social media sensation is a tightrope to walk .
+在职业体育生涯和社交媒体轰动之间取得平衡是一条走钢丝的捷径。
+Balancing a career in professional sport with being a social media celebrity is a tightrope to walk .
+在社交媒体中，成为一名职业运动员和一名职业运动员是一条平衡的钢索。
+
+#15.0:
+Due to the COVID - 19 pandemic , the event was staged behind closed doors and featured an all - domestic field .
+由于新冠肺炎大流行，这次活动是闭门进行的，其特色是全国内的活动。
+Due to the COVID - 19 pandemic , the event was held behind closed doors and featured an all - domestic field .
+由于新冠疫情，19场国内活动全部关闭。
+
+#16.0:
+Due to the COVID - 19 pandemic , the event was staged behind closed doors and featured an all - domestic field .
+由于新冠肺炎大流行，这次活动是闭门进行的，其特色是全国内的活动。
+Due to the COVID - 19 pandemic , the event was staged behind closed doors and included an all - domestic field .
+由于新冠肺炎大流行，该活动闭门进行，包括一个全国内的领域。
+
+#17.0:
+Due to the COVID - 19 pandemic , the event was staged behind closed doors and featured an all - domestic field .
+由于新冠肺炎大流行，这次活动是闭门进行的，其特色是全国内的活动。
+Due to the COVID - 19 pandemic , this event was staged behind closed doors and featured an all - domestic field .
+由于新冠肺炎大流行，本次活动闭门举行，以全国内为特色。
+
+#18.0:
+Due to the COVID - 19 pandemic , the event was staged behind closed doors and featured an all - domestic field .
+由于新冠肺炎大流行，这次活动是闭门进行的，其特色是全国内的活动。
+Due to the ADVID - 19 pandemic , the event was staged behind closed doors and featured an all - domestic field .
+由于ADVID-19大流行，该活动闭门举行，并以全国内为特色。
+
+#19.0:
+Due to the COVID - 19 pandemic , the event was staged behind closed doors and featured an all - domestic field .
+由于新冠肺炎大流行，这次活动是闭门进行的，其特色是全国内的活动。
+Due to the COVID - 19 pandemic , the event was staged behind closed doors and had an all - domestic field .
+由于新冠肺炎大流行，这次活动是闭门进行的，有一个全国内的领域。
+
+#20.0:
+Throughout the group and knockout stages , teams stayed in designated hotels where frequent medical testing was conducted .
+在小组赛和淘汰赛的整个阶段，球队都住在指定的酒店，在那里进行频繁的体检。
+During the group and knockout stages , teams stayed in designated hotels where frequent medical testing was conducted .
+在小组赛和淘汰赛阶段，参赛队都住在指定的酒店，在那里进行频繁的体检。
+
+#22.0:
+Throughout the group and knockout stages , teams stayed in designated hotels where frequent medical testing was conducted .
+在小组赛和淘汰赛的整个阶段，球队都住在指定的酒店，在那里进行频繁的体检。
+For the group and knockout stages , teams stayed in designated hotels where frequent medical testing was conducted .
+在小组赛和淘汰赛阶段，参赛队都住在指定的酒店，在那里进行频繁的体检。
+
+#23.0:
+Throughout the group and knockout stages , teams stayed in designated hotels where frequent medical testing was conducted .
+在小组赛和淘汰赛的整个阶段，球队都住在指定的酒店，在那里进行频繁的体检。
+In the group and knockout stages , teams stayed in designated hotels where frequent medical testing was conducted .
+在小组赛和淘汰赛阶段，参赛团队住在指定的酒店，在那里进行频繁的体检。
+
+#26.0:
+The lockdown accelerated things because I was doing a lot more streaming online and getting more into it .
+封锁加速了事情的发展，因为我在网上做了更多的流媒体，并且对它有了更多的了解。
+The slowdown accelerated things because I was doing a lot more streaming online and getting more into it .
+经济放缓加速了事情的发展，因为我在网上做了更多的流媒体工作，并且更多地投入其中。
+
+#28.0:
+The lockdown accelerated things because I was doing a lot more streaming online and getting more into it .
+封锁加速了事情的发展，因为我在网上做了更多的流媒体，并且对它有了更多的了解。
+The lockdown accelerated things because I was getting a lot more streaming online and getting more into it .
+封锁加速了事情的发展，因为我在网上获得了更多的流媒体，并对它有了更多的投入。
+
+#32.0:
+The launch of the 100 - ball competition this summer was postponed by a month because of the coronavirus pandemic
+由于冠状病毒大流行，今年夏天的100球比赛推迟了一个月
+The launch of the 100 - ball competition that summer was postponed by a month because of the coronavirus pandemic
+那年夏天，由于冠状病毒大流行，100球比赛的启动被推迟了一个月
+
+#35.0:
+A maximum of 4000 fans will be allowed at outdoor events in the lowest - risk areas when the four - week lockdown in England ends on 2 December .
+12月2日，英格兰为期四周的封锁结束后，在风险最低的地区，最多允许4000名球迷参加户外活动。
+A maximum of 4000 fans will be allowed at outdoor events in the lowest - risk areas when the five - week lockdown in England ends on 2 December .
+12月2日，英格兰为期五周的禁赛结束后，在风险最低的地区，最多允许4000名球迷参加户外活动。
+
+#39.0:
+A maximum of 4000 fans will be allowed at outdoor events in the lowest - risk areas when the four - week lockdown in England ends on 2 December .
+12月2日，英格兰为期四周的封锁结束后，在风险最低的地区，最多允许4000名球迷参加户外活动。
+A minimum of 4000 fans will be allowed at outdoor events in the lowest - risk areas when the four - week lockdown in England ends on 2 December .
+12月2日，英格兰为期四周的封锁结束后，将允许至少4000名球迷在风险最低的地区参加户外活动。
+
+#40.0:
+Rory McIlroy and his caddie Harry Diamond used to have a bet with each other during practice rounds .
+Rory McIlroy和他的球童Harry Diamond曾在练习赛中相互打赌。
+Rory McIlroy and his caddie Harry Diamond used to have a bet with each other before practice rounds .
+Rory McIlroy和他的球童Harry Diamond曾经在练习赛前相互打赌。
+
+#48.0:
+Saudi Arabia has rejected criticism after it was confirmed it would host its first Formula 1 race in 2021 .
+沙特阿拉伯在被证实将于2021举办第一届1式方程式比赛后遭到了批评。
+Saudi Arabia has rejected criticism after it was confirmed it would host its first Formula 1 race in 2022 .
+沙特阿拉伯在确认将在2022年举办其第一场一级方程式赛车后拒绝了批评。
+
+#49.0:
+Saudi Arabia has rejected criticism after it was confirmed it would host its first Formula 1 race in 2021 .
+沙特阿拉伯在被证实将于2021举办第一届1式方程式比赛后遭到了批评。
+Saudi Arabia has rejected criticism after it was confirmed it would host its first Formula 1 race in 2023 .
+沙特阿拉伯在确认将在2023年举办其第一场一级方程式比赛后拒绝了批评。
+
+#50.0:
+He could not produce all his power in the previous performances because he needed to save energy for the jumps .
+他无法在之前的表演中发挥出全部力量，因为他需要为跳跃节省能量。
+He did not produce all his power in the previous performances because he needed to save energy for the jumps .
+在之前的表演中，他没有发挥出所有的力量，因为他需要为跳跃节省能量。
+
+#52.0:
+He could not produce all his power in the previous performances because he needed to save energy for the jumps .
+他无法在之前的表演中发挥出全部力量，因为他需要为跳跃节省能量。
+He could not produce all his power in the previous performances so he needed to save energy for the jumps .
+他无法在之前的表演中发挥出所有的力量，所以他需要为跳跃节省能量。
+
+#54.0:
+He could not produce all his power in the previous performances because he needed to save energy for the jumps .
+他无法在之前的表演中发挥出全部力量，因为他需要为跳跃节省能量。
+He could not produce all his power during the previous performances because he needed to save energy for the jumps .
+在之前的表演中，他无法产生所有的力量，因为他需要为跳跃节省能量。
+
+#57.0:
+There is a medical team , made up of more than 10 professionals that is in constant contact with everyone .
+有一个医疗团队，由10多名专业人士组成，与每个人都保持着持续的联系。
+There is a medical team , made up of more than 10 professionals that is in regular contact with everyone .
+有一个医疗团队，由10多名专业人员组成，定期与每个人联系。
+
+#58.0:
+There is a medical team , made up of more than 10 professionals that is in constant contact with everyone .
+有一个医疗团队，由10多名专业人士组成，与每个人都保持着持续的联系。
+There is a medical team , made up of more than 10 professionals that is in daily contact with everyone .
+有一个医疗团队，由10多名专业人员组成，每天都与每个人保持联系。
+
+#61.0:
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year on Saturday night .
+周六晚上，不败的中国重量级拳手张志雷在好莱坞完成了他近一年来的第一场比赛。
+Unbeaten Chinese heavyweight Liu Zhilei produced a Hollywood finish for his first fight in nearly a year on Saturday night .
+周六晚上，不败的中国重量级选手刘志雷在好莱坞为他近一年来的第一场比赛创造了一个终点。
+
+#64.0:
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year on Saturday night .
+周六晚上，不败的中国重量级拳手张志雷在好莱坞完成了他近一年来的第一场比赛。
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight for nearly a year on Saturday night .
+周六晚上，不败的中国重量级拳手张志磊在好莱坞为他近一年来的第一场比赛画上了句号。
+
+#66.0:
+Burnley secured their first win in the Premier League this season as victory over Crystal Palace at Turf Moor moved them out of the relegation zone .
+伯恩利确保了他们本赛季在英超联赛中的第一场胜利，因为他们在草坪沼地战胜了水晶宫，从而将他们带出了降级区。
+Burnley achieved their first win in the Premier League this season as victory over Crystal Palace at Turf Moor moved them out of the relegation zone .
+伯恩利在本赛季的英超联赛中取得了他们的第一场胜利，因为他们在特鲁普摩尔球场战胜了水晶宫队，从而将他们带出了降级区。
+
+#68.0:
+Burnley secured their first win in the Premier League this season as victory over Crystal Palace at Turf Moor moved them out of the relegation zone .
+伯恩利确保了他们本赛季在英超联赛中的第一场胜利，因为他们在草坪沼地战胜了水晶宫，从而将他们带出了降级区。
+Burnley got their first win in the Premier League this season as victory over Crystal Palace at Turf Moor moved them out of the relegation zone .
+伯恩利在本赛季的英超联赛中获得了第一场胜利，因为他们在草坪沼地战胜了水晶宫队，从而走出了降级区。
+
+#69.0:
+Burnley secured their first win in the Premier League this season as victory over Crystal Palace at Turf Moor moved them out of the relegation zone .
+伯恩利确保了他们本赛季在英超联赛中的第一场胜利，因为他们在草坪沼地战胜了水晶宫，从而将他们带出了降级区。
+Burnley secured their first win in the Premier League this season as victory over Crystal Palace at Turf Moor took them out of the relegation zone .
+伯恩利在本赛季的英超联赛中取得了第一场胜利，这场胜利使他们走出了降级区。
+
+#71.0:
+There were times I could just hear the echo of my footsteps out there because I was running completely alone .
+有几次我能听到我的脚步声，因为我完全是一个人在跑步。
+There were times I could just hear the echo of my footsteps down there because I was running completely alone .
+有几次，我能听到脚下的脚步声，因为我完全是一个人在跑步。
+
+#77.0:
+Imagine being forced to spend two weeks alone in a hotel room ahead of the biggest competition of your life .
+想象一下，在你生命中最大的竞争面前，被迫独自在酒店房间里待上两周。
+Imagine being forced to spend two weeks alone in a hotel room ahead of the greatest competition of your life .
+想象一下，在你生命中最伟大的竞争之前，你被迫在酒店里独自度过两周。
+
+#78.0:
+Imagine being forced to spend two weeks alone in a hotel room ahead of the biggest competition of your life .
+想象一下，在你生命中最大的竞争面前，被迫独自在酒店房间里待上两周。
+Imagine being forced to spend two weeks alone in a hotel room ahead of the biggest competition of my life .
+想象一下，在我生命中最大的竞争之前，被迫独自在酒店房间里待上两周。
+
+#79.0:
+Imagine being forced to spend two weeks alone in a hotel room ahead of the biggest competition of your life .
+想象一下，在你生命中最大的竞争面前，被迫独自在酒店房间里待上两周。
+Imagine being forced to spend two weeks alone in a hotel room ahead of the biggest competition of his life .
+想象一下，在他生命中最大的竞争之前，被迫独自在酒店房间里待上两周。
+
+#85.0:
+On Saturday night after driving back from Houston , I started feeling a bit of a sore throat and a cough .
+周六晚上从休斯顿开车回来后，我开始感觉喉咙痛和咳嗽。
+On Sunday night after driving back from Houston , I started feeling a bit of a sore throat and a cough .
+从休斯顿开车回来后的周日晚上，我开始感到喉咙痛和咳嗽。
+
+#87.0:
+On Saturday night after driving back from Houston , I started feeling a bit of a sore throat and a cough .
+周六晚上从休斯顿开车回来后，我开始感觉喉咙痛和咳嗽。
+On Monday night after driving back from Houston , I started feeling a bit of a sore throat and a cough .
+周一晚上从休斯顿开车回来后，我开始感到喉咙痛和咳嗽。
+
+#88.0:
+On Saturday night after driving back from Houston , I started feeling a bit of a sore throat and a cough .
+周六晚上从休斯顿开车回来后，我开始感觉喉咙痛和咳嗽。
+On Wednesday night after driving back from Houston , I started feeling a bit of a sore throat and a cough .
+从休斯顿开车回来后的周三晚上，我开始感到喉咙痛和咳嗽。
+
+#91.0:
+He performed really well in the past camp , so that is a blow but we have got strength in depth .
+他在过去的训练营表现非常好，这是一个打击，但我们在深度上有力量。
+He performed really well during the past camp , so that is a blow but we have got strength in depth .
+他在过去的训练营中表现得非常好，这是一个打击，但我们在深度上有力量。
+
+#93.0:
+He performed really well in the past camp , so that is a blow but we have got strength in depth .
+他在过去的训练营表现非常好，这是一个打击，但我们在深度上有力量。
+He performed really well in the past camp , so that is a blow but I have got strength in depth .
+他在过去的训练营中表现得非常好，这是一个打击，但我在深度上有力量。
+
+#94.0:
+He performed really well in the past camp , so that is a blow but we have got strength in depth .
+他在过去的训练营表现非常好，这是一个打击，但我们在深度上有力量。
+They performed really well in the past camp , so that is a blow but we have got strength in depth .
+他们在过去的训练营表现非常好，这是一个打击，但我们在深度上有实力。
+
+#96.0:
+We just carry on and focus on the next game , the next competition and that ' s what we are doing .
+我们只是继续关注下一场比赛，下一场比赛，这就是我们正在做的。
+We all carry on and focus on the next game , the next competition and that ' s what we are doing .
+我们都在继续并专注于下一场比赛，下一场比赛，这就是我们正在做的。
+
+#97.0:
+We just carry on and focus on the next game , the next competition and that ' s what we are doing .
+我们只是继续关注下一场比赛，下一场比赛，这就是我们正在做的。
+We can carry on and focus on the next game , the next competition and that ' s what we are doing .
+我们可以继续并专注于下一场比赛，下一场比赛，这就是我们正在做的。
+
+#98.0:
+We just carry on and focus on the next game , the next competition and that ' s what we are doing .
+我们只是继续关注下一场比赛，下一场比赛，这就是我们正在做的。
+We must carry on and focus on the next game , the next competition and that ' s what we are doing .
+我们必须继续并专注于下一场比赛，下一场比赛，这就是我们正在做的。
+
+#101.0:
+She will for the first time in February at a training camp where the initial squad will start to be cut .
+今年2月，她将首次参加一个训练营，那里将开始削减最初的阵容。
+She will for the first time in February at a training camp when the initial squad will start to be cut .
+今年2月，她将首次参加训练营，届时首批阵容将开始缩减。
+
+#103.0:
+She will for the first time in February at a training camp where the initial squad will start to be cut .
+今年2月，她将首次参加一个训练营，那里将开始削减最初的阵容。
+She participated for the first time in February at a training camp where the initial squad will start to be cut .
+今年2月，她首次参加了一个训练营，最初的阵容将在那里开始缩减。
+
+#104.0:
+She will for the first time in February at a training camp where the initial squad will start to be cut .
+今年2月，她将首次参加一个训练营，那里将开始削减最初的阵容。
+She appeared for the first time in February at a training camp where the initial squad will start to be cut .
+今年2月，她首次出现在一个训练营，那里将开始削减最初的阵容。
+
+#110.0:
+I really just had to self - motivate a lot out there because it was a lonely , very quiet run without spectators .
+我真的需要自我激励，因为这是一场孤独的、非常安静的比赛，没有观众。
+I had just had to self - motivate a lot out there because it was a lonely , very quiet run without spectators .
+我不得不在那里自我激励，因为这是一场孤独、非常安静的比赛，没有观众。
+
+#111.0:
+I really just had to self - motivate a lot out there because it was a lonely , very quiet run without spectators .
+我真的需要自我激励，因为这是一场孤独的、非常安静的比赛，没有观众。
+I probably just had to self - motivate a lot out there because it was a lonely , very quiet run without spectators .
+我可能只是需要自我激励，因为这是一场孤独、非常安静的比赛，没有观众。
+
+#113.0:
+I really just had to self - motivate a lot out there because it was a lonely , very quiet run without spectators .
+我真的需要自我激励，因为这是一场孤独的、非常安静的比赛，没有观众。
+I really just had to self - motivate a lot out there and it was a lonely , very quiet run without spectators .
+我真的需要自我激励，这是一场没有观众的孤独而安静的比赛。
+
+#114.0:
+I really just had to self - motivate a lot out there because it was a lonely , very quiet run without spectators .
+我真的需要自我激励，因为这是一场孤独的、非常安静的比赛，没有观众。
+I really just had to self - motivate a lot out there because it was a lonely , very quiet run with spectators .
+我真的需要自我激励，因为这是一场孤独的、非常安静的、有观众的比赛。
+
+#115.0:
+Tears welled in his eyes as the emotion bubbled up inside , but Jack Nicklaus knew he had to keep playing .
+当情绪高涨时，他的眼里涌出了泪水，但杰克·尼克劳斯知道他必须继续比赛。
+Tears pooled in his eyes as the emotion bubbled up inside , but Jack Nicklaus knew he had to keep playing .
+当情绪高涨时，泪水涌上了他的眼睛，但杰克·尼克劳斯知道他必须继续比赛。
+
+#116.0:
+Tears welled in his eyes as the emotion bubbled up inside , but Jack Nicklaus knew he had to keep playing .
+当情绪高涨时，他的眼里涌出了泪水，但杰克·尼克劳斯知道他必须继续比赛。
+Tears welled in his eyes and the emotion bubbled up inside , but Jack Nicklaus knew he had to keep playing .
+泪水在他的眼中涌出，情绪在他的内心涌起，但杰克·尼克劳斯知道他必须继续比赛。
+
+#119.0:
+Tears welled in his eyes as the emotion bubbled up inside , but Jack Nicklaus knew he had to keep playing .
+当情绪高涨时，他的眼里涌出了泪水，但杰克·尼克劳斯知道他必须继续比赛。
+Tears welled in his eyes as the emotion bubbled up inside , and Jack Nicklaus knew he had to keep playing .
+当情绪在内心涌起时，泪水涌上了他的眼睛，杰克·尼克劳斯知道他必须继续比赛。
+
+#123.0:
+Daniil Medvedev had just won the biggest title of his career , the best victory of his life at the ATP Finals , but did not celebrate .
+丹尼尔·梅德韦杰夫刚刚在ATP总决赛中赢得了他职业生涯中最大的冠军，这是他一生中最好的胜利，但他没有庆祝。
+Danila Medvedev had just won the biggest title of his career , the best victory of his life at the ATP Finals , but did not celebrate .
+达尼拉·梅德韦杰夫刚刚在ATP决赛中赢得了他职业生涯中最大的冠军，这是他一生中最好的胜利，但没有庆祝。
+
+#127.0:
+I think the dancing and singing classes he took recently have really given him a better understanding of music and artistic expression .
+我认为他最近上的舞蹈和歌唱课确实让他对音乐和艺术表达有了更好的理解。
+I think the dancing and singing courses he took recently have really given him a better understanding of music and artistic expression .
+我认为他最近参加的舞蹈和歌唱课程真的让他对音乐和艺术表达有了更好的理解。
+
+#131.0:
+With all the group and previous knockout matches played behind closed door , tickets for the final were in extremely hot demand
+由于所有的小组赛和之前的淘汰赛都是闭门进行的，所以决赛的门票非常抢手
+With all the group and previous knockout matches played behind closed door , tickets for the final came in extremely hot demand
+由于所有的小组赛和之前的淘汰赛都是闭门进行的，决赛的门票需求量非常大
+
+#133.0:
+With all the group and previous knockout matches played behind closed door , tickets for the final were in extremely hot demand
+由于所有的小组赛和之前的淘汰赛都是闭门进行的，所以决赛的门票非常抢手
+With all the group and previous knockout matches played behind closed door , tickets for the final resulted in extremely hot demand
+由于所有的小组赛和之前的淘汰赛都是闭门进行的，所以决赛的门票需求非常旺盛
+
+#134.0:
+With all the group and previous knockout matches played behind closed door , tickets for the final were in extremely hot demand
+由于所有的小组赛和之前的淘汰赛都是闭门进行的，所以决赛的门票非常抢手
+With all the group and previous knockout matches played behind closed door , tickets for the final brought in extremely hot demand
+由于所有的小组赛和之前的淘汰赛都是闭门进行的，决赛的门票带来了极大的需求
+
+#135.0:
+He rented two houses for the week of the championship , moving between the two so nobody would know where he was .
+他在冠军周租了两栋房子，在两栋房子之间移动，这样就没人知道他在哪里。
+He rented two houses during the week of the championship , moving between the two so nobody would know where he was .
+在冠军赛的一周里，他租了两栋房子，在两栋房子之间移动，这样就没有人知道他在哪里。
+
+#136.0:
+He rented two houses for the week of the championship , moving between the two so nobody would know where he was .
+他在冠军周租了两栋房子，在两栋房子之间移动，这样就没人知道他在哪里。
+He rented two houses for the week of the championship , switching between the two so nobody would know where he was .
+他在冠军周租了两套房子，在两套房子之间切换，这样就没人知道他在哪里。
+
+#137.0:
+He rented two houses for the week of the championship , moving between the two so nobody would know where he was .
+他在冠军周租了两栋房子，在两栋房子之间移动，这样就没人知道他在哪里。
+He kept two houses for the week of the championship , moving between the two so nobody would know where he was .
+在冠军赛的这一周里，他保留了两栋房子，在两栋房子之间移动，这样就没有人知道他在哪里。
+
+#138.0:
+He rented two houses for the week of the championship , moving between the two so nobody would know where he was .
+他在冠军周租了两栋房子，在两栋房子之间移动，这样就没人知道他在哪里。
+He occupied two houses for the week of the championship , moving between the two so nobody would know where he was .
+在冠军赛的那一周，他住了两栋房子，在两栋房子之间移动，所以没人知道他在哪里。
+
+#139.0:
+He rented two houses for the week of the championship , moving between the two so nobody would know where he was .
+他在冠军周租了两栋房子，在两栋房子之间移动，这样就没人知道他在哪里。
+He had two houses for the week of the championship , moving between the two so nobody would know where he was .
+他在冠军周有两栋房子，在两栋房子之间移动，所以没人知道他在哪里。
+
+#142.0:
+Salford announced that compensation has now been agreed between all parties and have started the recruitment process for a new head coach .
+萨尔福德宣布，各方已就薪酬达成一致，并已开始招聘新主教练。
+Salford stated that compensation has now been agreed between all parties and have started the recruitment process for a new head coach .
+萨尔福德表示，各方现已就薪酬达成一致，并已开始招聘新主教练。
+
+#153.0:
+The horse received immediate veterinary care , however he was unable to be saved due to the nature of the injury sustained .
+这匹马立即接受了兽医护理，但由于受伤的性质，他无法获救。
+The animal received immediate veterinary care , however he was unable to be saved due to the nature of the injury sustained .
+这只动物立即接受了兽医护理，但由于受伤的性质，它无法获救。
+
+#154.0:
+The horse received immediate veterinary care , however he was unable to be saved due to the nature of the injury sustained .
+这匹马立即接受了兽医护理，但由于受伤的性质，他无法获救。
+The dog received immediate veterinary care , however he was unable to be saved due to the nature of the injury sustained .
+这只狗立即接受了兽医护理，但由于受伤的性质，它无法获救。
+
+#155.0:
+I know his season was n ' t the easiest one , whereas I have to say my season has actually been going quite well .
+我知道他的赛季并不轻松，但我不得不说，我的赛季实际上进行得很顺利。
+I think his season was n ' t the easiest one , whereas I have to say my season has actually been going quite well .
+我认为他的赛季不是最容易的一个，而我不得不说我的赛季实际上进行得很顺利。
+
+#156.0:
+I know his season was n ' t the easiest one , whereas I have to say my season has actually been going quite well .
+我知道他的赛季并不轻松，但我不得不说，我的赛季实际上进行得很顺利。
+I guess his season was n ' t the easiest one , whereas I have to say my season has actually been going quite well .
+我猜他的赛季不是最容易的一个，而我不得不说我的赛季实际上进行得很顺利。
+
+#157.0:
+I know his season was n ' t the easiest one , whereas I have to say my season has actually been going quite well .
+我知道他的赛季并不轻松，但我不得不说，我的赛季实际上进行得很顺利。
+I mean his season was n ' t the easiest one , whereas I have to say my season has actually been going quite well .
+我的意思是，他的赛季并不是最容易的一个，而我不得不说，我的赛季实际上进展得相当顺利。
+
+#158.0:
+I know his season was n ' t the easiest one , whereas I have to say my season has actually been going quite well .
+我知道他的赛季并不轻松，但我不得不说，我的赛季实际上进行得很顺利。
+I admit his season was n ' t the easiest one , whereas I have to say my season has actually been going quite well .
+我承认他的赛季并不是最容易的一个，而我不得不说我的赛季实际上进展得相当顺利。
+
+#159.0:
+I know his season was n ' t the easiest one , whereas I have to say my season has actually been going quite well .
+我知道他的赛季并不轻松，但我不得不说，我的赛季实际上进行得很顺利。
+I hope his season was n ' t the easiest one , whereas I have to say my season has actually been going quite well .
+我希望他的赛季不是最容易的一个，而我不得不说我的赛季实际上进展得很好。
+
+#163.0:
+I just need an opportunity to become the best in the world , which I strongly believe that Matchroom is able to provide .
+我只需要一个成为世界上最好的人的机会，我坚信Matchroom能够提供这个机会。
+I just need the opportunity to become the best in the world , which I strongly believe that Matchroom is able to provide .
+我只需要有机会成为世界上最好的，我坚信Matchroom能够提供这个机会。
+
+#165.0:
+The Champions League returns after a three - week break as we reach the business end of the group stages .
+冠军联赛在三周的休息后回归，我们将进入小组赛的商业阶段。
+The Champions League returns after a three - week break when we reach the business end of the group stages .
+当我们进入小组赛的商业阶段时，冠军联赛在休息三周后回归。
+
+#167.0:
+The Champions League returns after a three - week break as we reach the business end of the group stages .
+冠军联赛在三周的休息后回归，我们将进入小组赛的商业阶段。
+The Champions League returns after a three - week break and we reach the business end of the group stages .
+冠军联赛在三周休息后回归，我们进入了小组赛的商业阶段。
+
+#168.0:
+The Champions League returns after a three - week break as we reach the business end of the group stages .
+冠军联赛在三周的休息后回归，我们将进入小组赛的商业阶段。
+The Champions League returns after a four - week break as we reach the business end of the group stages .
+欧冠联赛在小组赛结束后休息了四周，然后回归。
+
+#169.0:
+The Champions League returns after a three - week break as we reach the business end of the group stages .
+冠军联赛在三周的休息后回归，我们将进入小组赛的商业阶段。
+The Champions League returns after a three - week break once we reach the business end of the group stages .
+一旦我们进入小组赛的商业阶段，冠军联赛将在休息三周后复出。
+
+#185.0:
+But there is one Woods landmark McIlroy can emulate at the Masters , which was postponed until November because of the coronavirus pandemic .
+但是，有一个里程碑式的事情麦克罗伊可以在大师赛上效仿，因为冠状病毒大流行，大师赛推迟到11月举行。
+But this is one Woods landmark McIlroy can emulate at the Masters , which was postponed until November because of the coronavirus pandemic .
+但这是麦克罗伊在大师赛上可以效仿的一个里程碑，因为冠状病毒大流行，大师赛推迟到了11月。
+
+#186.0:
+But there is one Woods landmark McIlroy can emulate at the Masters , which was postponed until November because of the coronavirus pandemic .
+但是，有一个里程碑式的事情麦克罗伊可以在大师赛上效仿，因为冠状病毒大流行，大师赛推迟到11月举行。
+But it is one Woods landmark McIlroy can emulate at the Masters , which was postponed until November because of the coronavirus pandemic .
+但这是麦克罗伊在大师赛上可以效仿的一个里程碑，因为冠状病毒大流行，大师赛推迟到了11月。
+
+#187.0:
+But there is one Woods landmark McIlroy can emulate at the Masters , which was postponed until November because of the coronavirus pandemic .
+但是，有一个里程碑式的事情麦克罗伊可以在大师赛上效仿，因为冠状病毒大流行，大师赛推迟到11月举行。
+But that is one Woods landmark McIlroy can emulate at the Masters , which was postponed until November because of the coronavirus pandemic .
+但这是麦克罗伊在大师赛上可以效仿的一个里程碑，因为冠状病毒大流行，大师赛推迟到了11月。
+
+#188.0:
+But there is one Woods landmark McIlroy can emulate at the Masters , which was postponed until November because of the coronavirus pandemic .
+但是，有一个里程碑式的事情麦克罗伊可以在大师赛上效仿，因为冠状病毒大流行，大师赛推迟到11月举行。
+Now there is one Woods landmark McIlroy can emulate at the Masters , which was postponed until November because of the coronavirus pandemic .
+现在，有一个标志性的项目麦克罗伊可以在大师赛上效仿，因为冠状病毒大流行，该项目被推迟到11月。
+
+#189.0:
+But there is one Woods landmark McIlroy can emulate at the Masters , which was postponed until November because of the coronavirus pandemic .
+但是，有一个里程碑式的事情麦克罗伊可以在大师赛上效仿，因为冠状病毒大流行，大师赛推迟到11月举行。
+But there is one Woods landmark McIlroy can emulate at the Masters , which was delayed until November because of the coronavirus pandemic .
+但是，有一个里程碑式的事件是麦克罗伊可以在大师赛上效仿的，因为冠状病毒大流行而推迟到11月。
+
+#190.0:
+He says the initial few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag .
+他说最初的几天很难应付，因为球员们已经适应了新的环境，而且时差也很严重。
+He says the initial few days were hard to deal with as players adjusted to their new settings and suffered from jet lag .
+他说，最初的几天很难应付，因为球员们适应了新的环境，并出现时差反应。
+
+#191.0:
+He says the initial few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag .
+他说最初的几天很难应付，因为球员们已经适应了新的环境，而且时差也很严重。
+He said the initial few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag .
+他说，最初的几天很难应付，因为球员们已经适应了新的环境，并出现了时差。
+
+#192.0:
+He says the initial few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag .
+他说最初的几天很难应付，因为球员们已经适应了新的环境，而且时差也很严重。
+He found the initial few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag .
+他发现最初的几天很难应付，因为球员们已经适应了新的环境，并出现了时差。
+
+#193.0:
+He says the initial few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag .
+他说最初的几天很难应付，因为球员们已经适应了新的环境，而且时差也很严重。
+He says the first few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag .
+他说，前几天很难应付，因为球员们适应了新的环境，并出现时差反应。
+
+#194.0:
+He says the initial few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag .
+他说最初的几天很难应付，因为球员们已经适应了新的环境，而且时差也很严重。
+He felt the initial few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag .
+他觉得最初的几天很难应付，因为球员们已经适应了新的环境，而且时差。
+
+#201.0:
+For our players , for our fans and for everyone involved in table tennis , today is the day that gets our sport back .
+对于我们的球员，对于我们的球迷，对于所有参与乒乓球运动的人来说，今天是我们的运动回归的日子。
+For our players , for our fans and for everyone involved in table tennis , today is the day that gets the sport back .
+对于我们的球员、我们的球迷和所有参与乒乓球运动的人来说，今天是这项运动回归的日子。
+
+#204.0:
+For our players , for our fans and for everyone involved in table tennis , today is the day that gets our sport back .
+对于我们的球员，对于我们的球迷，对于所有参与乒乓球运动的人来说，今天是我们的运动回归的日子。
+For our players , for our fans and for everyone involved in table tennis , this is the day that gets our sport back .
+对于我们的球员，对于我们的球迷，对于所有参与乒乓球运动的人来说，这是让我们的运动回归的一天。
+
+#205.0:
+China ' s Ding Junhui says he can not see many young players from his country matching his success any time soon because they are not dedicated enough .
+中国的丁俊晖说，他看不到很多来自中国的年轻球员很快就能与他的成功相媲美，因为他们不够专注。
+China ' s Ding Junhui says he can not see many young players in his country matching his success any time soon because they are not dedicated enough .
+中国的丁俊晖说，他看不到中国有多少年轻球员能很快与他的成功匹敌，因为他们不够敬业。
+
+#209.0:
+China ' s Ding Junhui says he can not see many young players from his country matching his success any time soon because they are not dedicated enough .
+中国的丁俊晖说，他看不到很多来自中国的年轻球员很快就能与他的成功相媲美，因为他们不够专注。
+China ' s Ding Junhui stated he can not see many young players from his country matching his success any time soon because they are not dedicated enough .
+中国队的丁俊晖表示，他看不到很多来自中国的年轻球员很快就能与他的成功相匹敌，因为他们不够专注。
+
+#210.0:
+I have already had a few calls with the tour ' s medical team and appreciate all the support and encouragement they have given me .
+我已经和巡演的医疗团队打了几个电话，感谢他们给我的支持和鼓励。
+I have already had a few calls with the tour ' s medical team and appreciate all the support and help they have given me .
+我已经接到几通巡回赛医疗队的电话，感谢他们对我的支持和帮助。
+
+#211.0:
+I have already had a few calls with the tour ' s medical team and appreciate all the support and encouragement they have given me .
+我已经和巡演的医疗团队打了几个电话，感谢他们给我的支持和鼓励。
+I have already had a few calls with the tour ' s medical team and appreciate all the support and advice they have given me .
+我已经和旅游团的医疗团队打了几个电话，感谢他们给我的支持和建议。
+
+#213.0:
+I have already had a few calls with the tour ' s medical team and appreciate all the support and encouragement they have given me .
+我已经和巡演的医疗团队打了几个电话，感谢他们给我的支持和鼓励。
+I have already had a few calls with the tour ' s medical team and appreciate all the support and attention they have given me .
+我已经接到几通巡回赛医疗队的电话，感谢他们对我的支持和关注。
+
+#214.0:
+I have already had a few calls with the tour ' s medical team and appreciate all the support and encouragement they have given me .
+我已经和巡演的医疗团队打了几个电话，感谢他们给我的支持和鼓励。
+I have already had a few calls with the tour ' s medical team and appreciate all the support and care they have given me .
+我已经和巡演的医疗团队打了几个电话，感谢他们对我的支持和照顾。
+
+#215.0:
+The beauty of the fact that Lando streams online means fans see him in his bedroom and they have that close affiliation to him .
+Lando streams online的美妙之处在于，粉丝们在他的卧室里看到了他，他们与他有着密切的联系。
+The beauty of the fact that Lando streams online means fans see him from his bedroom and they have that close affiliation to him .
+兰多在线直播的美妙之处在于，粉丝们从他的卧室里看到了他，他们与他有着密切的联系。
+
+#216.0:
+The beauty of the fact that Lando streams online means fans see him in his bedroom and they have that close affiliation to him .
+Lando streams online的美妙之处在于，粉丝们在他的卧室里看到了他，他们与他有着密切的联系。
+The fact of the fact that Lando streams online means fans see him in his bedroom and they have that close affiliation to him .
+兰多在线直播的事实意味着粉丝们在他的卧室里看到了他，他们和他有着密切的联系。
+
+#219.0:
+The beauty of the fact that Lando streams online means fans see him in his bedroom and they have that close affiliation to him .
+Lando streams online的美妙之处在于，粉丝们在他的卧室里看到了他，他们与他有着密切的联系。
+The beauty of the fact that Lando streams online makes fans see him in his bedroom and they have that close affiliation to him .
+Lando streams online的美妙之处让粉丝们在他的卧室里看到了他，他们与他有着密切的联系。
+
+#222.0:
+I am deeply honored to share a connection with Paine College and these scholarships , which will provide life - changing opportunities for the deserving recipients .
+我深感荣幸地与佩恩学院和这些奖学金分享联系，这些奖学金将为有资格的获奖者提供改变生活的机会。
+I am deeply honored to share a bond with Paine College and these scholarships , which will provide life - changing opportunities for the deserving recipients .
+我非常荣幸能与佩恩学院和这些奖学金分享一份纽带，这将为有资格获得奖学金的人提供改变生活的机会。
+
+#223.0:
+I am deeply honored to share a connection with Paine College and these scholarships , which will provide life - changing opportunities for the deserving recipients .
+我深感荣幸地与佩恩学院和这些奖学金分享联系，这些奖学金将为有资格的获奖者提供改变生活的机会。
+I am extremely honored to share a connection with Paine College and these scholarships , which will provide life - changing opportunities for the deserving recipients .
+我非常荣幸能与佩恩学院和这些奖学金分享我的经历，这些奖学金将为有资格的获奖者提供改变生活的机会。
+
+#224.0:
+I am deeply honored to share a connection with Paine College and these scholarships , which will provide life - changing opportunities for the deserving recipients .
+我深感荣幸地与佩恩学院和这些奖学金分享联系，这些奖学金将为有资格的获奖者提供改变生活的机会。
+I am truly honored to share a connection with Paine College and these scholarships , which will provide life - changing opportunities for the deserving recipients .
+我真的很荣幸能与佩恩学院和这些奖学金分享联系，这些奖学金将为有资格的获奖者提供改变生活的机会。
+
+#225.0:
+Such was the Saints dominance , they closed out the game with back up quarterback and former Buccaneers starter Jameis Winston taking the field .
+这就是圣徒队的统治地位，他们在比赛中以后卫四分卫和前海盗队先发球员贾梅斯·温斯顿上场结束了比赛。
+Such was the Saints dominance , they closed out the game with back up receiver and former Buccaneers starter Jameis Winston taking the field .
+这就是圣徒队的优势，他们以替补接球手和前海盗队先发球员贾梅斯·温斯顿上场结束了比赛。
+
+#227.0:
+Such was the Saints dominance , they closed out the game with back up quarterback and former Buccaneers starter Jameis Winston taking the field .
+这就是圣徒队的统治地位，他们在比赛中以后卫四分卫和前海盗队先发球员贾梅斯·温斯顿上场结束了比赛。
+Such was the Saints dominance , they closed out the game with back up quarterback and former Buccaneers starter Jameis Winston on the field .
+这就是圣徒队的统治地位，他们在比赛中以后防四分卫和前海盗队先发球员贾梅斯·温斯顿在场上结束了比赛。
+
+#229.0:
+Such was the Saints dominance , they closed out the game with back up quarterback and former Buccaneers starter Jameis Winston taking the field .
+这就是圣徒队的统治地位，他们在比赛中以后卫四分卫和前海盗队先发球员贾梅斯·温斯顿上场结束了比赛。
+Such was the Saints dominance , they closed out the game with back up quarterback and former Buccaneers quarterback Jameis Winston taking the field .
+这就是圣徒队的优势，他们在比赛中以后卫四分卫和前海盗队四分卫贾梅斯·温斯顿上场结束了比赛。
+
+#236.0:
+As a veteran of nearly 37 years of age , my physical strength and endurance will not allow me to fight with my teammates anymore .
+作为一名将近37岁的老兵，我的体力和耐力将不允许我再与队友战斗。
+As a veteran of nearly 37 years of age , my physical strength and endurance would not allow me to fight with my teammates anymore .
+作为一名将近37岁的老兵，我的体力和耐力让我无法再和队友们战斗了。
+
+#237.0:
+As a veteran of nearly 37 years of age , my physical strength and endurance will not allow me to fight with my teammates anymore .
+作为一名将近37岁的老兵，我的体力和耐力将不允许我再与队友战斗。
+As a veteran of nearly 37 years of age , my physical strength and endurance do not allow me to fight with my teammates anymore .
+作为一名将近37岁的老兵，我的体力和耐力让我无法再与队友战斗。
+
+#238.0:
+As a veteran of nearly 37 years of age , my physical strength and endurance will not allow me to fight with my teammates anymore .
+作为一名将近37岁的老兵，我的体力和耐力将不允许我再与队友战斗。
+As a veteran of nearly 37 years of age , my physical strength and endurance does not allow me to fight with my teammates anymore .
+作为一名将近37岁的老兵，我的体力和耐力让我无法再与队友战斗。
+
+#239.0:
+As a veteran of nearly 37 years of age , my physical strength and endurance will not allow me to fight with my teammates anymore .
+作为一名将近37岁的老兵，我的体力和耐力将不允许我再与队友战斗。
+As a veteran of nearly 37 years of age , my physical strength and endurance did not allow me to fight with my teammates anymore .
+作为一名将近37岁的老兵，我的体力和耐力让我无法再和队友们战斗了。
+
+#240.0:
+Players , coaches and referees are offered green credentials , while yellow and blue credentials are provided to reporters and staff in the arena respectively .
+运动员、教练和裁判将获得绿色证书，而竞技场的记者和工作人员将分别获得黄色和蓝色证书。
+Players , coaches and referees are offered green credentials , while red and blue credentials are provided to reporters and staff in the arena respectively .
+运动员、教练和裁判将获得绿色证书，而现场的记者和工作人员将分别获得红色和蓝色证书。
+
+#246.0:
+Garcia is the second player to have withdrawn because of the virus , after Joaquin Niemann pulled out last week following a positive test result .
+加西亚是第二个因病毒退出的球员，上周，在检测结果呈阳性后，华金·尼曼退出了比赛。
+Garcia became the second player to have withdrawn because of the virus , after Joaquin Niemann pulled out last week following a positive test result .
+加西亚成为第二个因病毒退出比赛的球员，上周，华金·尼曼在检测结果呈阳性后退出比赛。
+
+#247.0:
+Garcia is the second player to have withdrawn because of the virus , after Joaquin Niemann pulled out last week following a positive test result .
+加西亚是第二个因病毒退出的球员，上周，在检测结果呈阳性后，华金·尼曼退出了比赛。
+Garcia is the second player to have withdrawn because of the virus , after Joaquin Niemann pulled out last week following a negative test result .
+加西亚是第二个因病毒退出比赛的球员，上周在检测结果呈阴性后，华金·尼曼退出了比赛。
+
+#248.0:
+Garcia is the second player to have withdrawn because of the virus , after Joaquin Niemann pulled out last week following a positive test result .
+加西亚是第二个因病毒退出的球员，上周，在检测结果呈阳性后，华金·尼曼退出了比赛。
+Garcia is the second player to have withdrawn because of the virus , after Joaquin Niemann pulled out last week with a positive test result .
+加西亚是第二个因病毒退出比赛的球员，此前华金·尼曼（Joaquin Niemann）上周因检测结果呈阳性退出了比赛。
+
+#249.0:
+Garcia is the second player to have withdrawn because of the virus , after Joaquin Niemann pulled out last week following a positive test result .
+加西亚是第二个因病毒退出的球员，上周，在检测结果呈阳性后，华金·尼曼退出了比赛。
+Garcia is the second player to have withdrawn because of the virus , after Joaquin Niemann dropped out last week following a positive test result .
+加西亚是第二位因病毒退出比赛的球员，上周，华金·尼曼在检测结果呈阳性后退出比赛。
+
+#250.0:
+Bairstow , who has represented England in every format of the game , has been recently playing in the Indian Premier League with Sunrisers Hyderabad .
+贝尔斯托代表英格兰参加了各种形式的比赛，最近他与日出队海得拉巴队一起参加了印度超级联赛。
+Bairstow , who has represented England in every format of the game , has been recently playing in the Indian Premier League for Sunrisers Hyderabad .
+贝尔斯托代表英格兰参加了各种形式的比赛，最近他参加了印度超级联赛海得拉巴日出队的比赛。
+
+#251.0:
+Bairstow , who has represented England in every format of the game , has been recently playing in the Indian Premier League with Sunrisers Hyderabad .
+贝尔斯托代表英格兰参加了各种形式的比赛，最近他与日出队海得拉巴队一起参加了印度超级联赛。
+Bairstow , who has represented Ireland in every format of the game , has been recently playing in the Indian Premier League with Sunrisers Hyderabad .
+拜尔斯托曾代表爱尔兰参加过各种形式的比赛，最近他与日出队海得拉巴队一起参加了印度超级联赛。
+
+#262.0:
+Cesc Fabregas is well known for his technical ability and eye for a pass but the Spanish soccer star has turned his attention to a very different part of the game .
+塞斯克·法布雷加斯以他的技术能力和传球眼光而闻名，但这位西班牙足球明星已经将他的注意力转移到了比赛的另一个方面。
+Cesc Fabregas is well known for his technical ability and eye for a pass but the Spanish soccer star has turned his attention to a very different part of his game .
+塞斯克·法布雷加斯以他的技术能力和传球眼光而闻名，但这位西班牙足球明星已经把他的注意力转移到了他比赛中非常不同的部分。
+
+#264.0:
+Cesc Fabregas is well known for his technical ability and eye for a pass but the Spanish soccer star has turned his attention to a very different part of the game .
+塞斯克·法布雷加斯以他的技术能力和传球眼光而闻名，但这位西班牙足球明星已经将他的注意力转移到了比赛的另一个方面。
+Cesc Fabregas is well known for his passing ability and eye for a pass but the Spanish soccer star has turned his attention to a very different part of the game .
+塞斯克·法布雷加斯以传球能力和传球眼光而闻名，但这位西班牙足球明星将注意力转移到了比赛的另一个方面。
+
+#265.0:
+Amid the pandemic , the competition went digital World Cup winner Fabregas appeared live as a hologram .
+在疫情肆虐期间，世界杯冠军法布雷加斯以全息图的形式出现在现场。
+Amid the pandemic , the competition went digital World Cup winner Fabregas appeared live in a hologram .
+在疫情肆虐之际，世界杯冠军法布雷加斯在全息图中现身。
+
+#266.0:
+Amid the pandemic , the competition went digital World Cup winner Fabregas appeared live as a hologram .
+在疫情肆虐期间，世界杯冠军法布雷加斯以全息图的形式出现在现场。
+Amid the pandemic , the competition went digital World Cup winner Fabregas appeared again as a hologram .
+在疫情肆虐之际，数字世界杯冠军法布雷加斯再次以全息图的形式出现。
+
+#267.0:
+Amid the pandemic , the competition went digital World Cup winner Fabregas appeared live as a hologram .
+在疫情肆虐期间，世界杯冠军法布雷加斯以全息图的形式出现在现场。
+Amid the pandemic , the competition went digital World Cup winner Fabregas to live as a hologram .
+在疫情肆虐期间，这场比赛被世界杯冠军法布雷加斯用全息图记录了下来。
+
+#268.0:
+Amid the pandemic , the competition went digital World Cup winner Fabregas appeared live as a hologram .
+在疫情肆虐期间，世界杯冠军法布雷加斯以全息图的形式出现在现场。
+Amid the pandemic , the competition went digital World Cup winner Fabregas appeared disguised as a hologram .
+在大流行期间，比赛进行得如火如荼，世界杯冠军法布雷加斯伪装成全息图。
+
+#279.0:
+Former South African football international Anele Ngcongca died in a car accident on Monday , according to the country ' s IPSS Medical Rescue service .
+据南非IPSS医疗救援服务机构称，前南非足球国脚阿内尔·恩孔卡周一死于车祸。
+Former South African football international Anele Ngcongca died in a car accident on Monday , according to the country ' s HSS Medical Rescue service .
+据南非HSS医疗救援服务称，前南非足球国脚阿内尔·恩孔卡周一死于车祸。
+
+#281.0:
+Other videos on social media showed Bolt dancing with dozens of people , the majority of whom were not wearing masks and were not observing social distancing .
+社交媒体上的其他视频显示，博尔特与数十人共舞，其中大多数人没有戴口罩，也没有观察到社交距离。
+Other videos on social media featured Bolt dancing with dozens of people , the majority of whom were not wearing masks and were not observing social distancing .
+社交媒体上的其他视频还包括与数十人跳霹雳舞，其中大多数人没有戴口罩，也没有观察到社交距离。
+
+#284.0:
+Other videos on social media showed Bolt dancing with dozens of people , the majority of whom were not wearing masks and were not observing social distancing .
+社交媒体上的其他视频显示，博尔特与数十人共舞，其中大多数人没有戴口罩，也没有观察到社交距离。
+Other images on social media showed Bolt dancing with dozens of people , the majority of whom were not wearing masks and were not observing social distancing .
+社交媒体上的其他图片显示，与数十人跳霹雳舞，其中大多数人没有戴口罩，也没有观察到社交距离。
+
+#285.0:
+On that occasion , defending champions Mumbai were comfortable winners , securing a direct passage to the final and sending Delhi to a second - chance meeting with Sunrisers .
+那一次，卫冕冠军孟买轻松获胜，确保了直接进入决赛的机会，并让德里再次有机会与日出队相遇。
+On this occasion , defending champions Mumbai were comfortable winners , securing a direct passage to the final and sending Delhi to a second - chance meeting with Sunrisers .
+这一次，卫冕冠军孟买轻松获胜，确保了直接进入决赛，并让德里再次有机会与日出队相遇。
+
+#287.0:
+On that occasion , defending champions Mumbai were comfortable winners , securing a direct passage to the final and sending Delhi to a second - chance meeting with Sunrisers .
+那一次，卫冕冠军孟买轻松获胜，确保了直接进入决赛的机会，并让德里再次有机会与日出队相遇。
+On that occasion , defending champions Mumbai emerged comfortable winners , securing a direct passage to the final and sending Delhi to a second - chance meeting with Sunrisers .
+在那一次，卫冕冠军孟买成为了轻松的赢家，确保了直接进入决赛的通道，并让德里再次有机会与日出者会面。
+
+#288.0:
+On that occasion , defending champions Mumbai were comfortable winners , securing a direct passage to the final and sending Delhi to a second - chance meeting with Sunrisers .
+那一次，卫冕冠军孟买轻松获胜，确保了直接进入决赛的机会，并让德里再次有机会与日出队相遇。
+On that occasion , defending champions Mumbai were comfortable winners , ensuring a direct passage to the final and sending Delhi to a second - chance meeting with Sunrisers .
+在那一次，卫冕冠军孟买轻松获胜，确保了直接进入决赛，并让德里再次有机会与日出队会面。
+
+#289.0:
+On that occasion , defending champions Mumbai were comfortable winners , securing a direct passage to the final and sending Delhi to a second - chance meeting with Sunrisers .
+那一次，卫冕冠军孟买轻松获胜，确保了直接进入决赛的机会，并让德里再次有机会与日出队相遇。
+On that occasion , defending champions Mumbai were comfortable winners , earning a direct passage to the final and sending Delhi to a second - chance meeting with Sunrisers .
+在那次比赛中，卫冕冠军孟买轻松获胜，赢得了直接进入决赛的机会，并让德里再次有机会与日出队相遇。
+
+#296.0:
+We are starting reasonably small but with the dream of expanding and becoming a much bigger team throughout all esports and not just racing , he said .
+他说：“我们起步的规模相当小，但我们的梦想是在所有电子竞技项目中扩大并成为一支更大的球队，而不仅仅是在比赛中。”。
+We are starting reasonably small but with the dream of growing and becoming a much bigger team throughout all esports and not just racing , he said .
+他说：“我们起步的规模相当小，但我们的梦想是在所有电子竞技项目中发展壮大，成为一支更大的球队，而不仅仅是赛车。”。
+
+#298.0:
+We are starting reasonably small but with the dream of expanding and becoming a much bigger team throughout all esports and not just racing , he said .
+他说：“我们起步的规模相当小，但我们的梦想是在所有电子竞技项目中扩大并成为一支更大的球队，而不仅仅是在比赛中。”。
+They are starting reasonably small but with the dream of expanding and becoming a much bigger team throughout all esports and not just racing , he said .
+他说，他们起步的规模相当小，但他们的梦想是在所有电子竞技项目中扩大规模，成为一支更大的球队，而不仅仅是赛车。
+
+#304.0:
+Ding became the pride of his snooker - loving nation in 2005 when he won the China Open just after his 18th birthday .
+2005年，丁俊晖在18岁生日后赢得了中国网球公开赛冠军，成为他热爱斯诺克的国家的骄傲。
+Ding became the pride of his snooker - loving nation in 2005 when he won the China Open right after his 18th birthday .
+丁磊在2005年赢得了18岁生日后的中国网球公开赛，成为他热爱斯诺克的国家的骄傲。
+
+#308.0:
+In the fourth round , Zhang swarmed him with a series of lefts to the head , which sent the American to the canvas after just 49 seconds .
+在第四轮比赛中，张艺谋用一系列左撇子击中了他的头部，这让这位美国人在仅仅49秒后就进入了决赛。
+In the fourth round , Zhang swarmed him with a series of rights to the head , which sent the American to the canvas after just 49 seconds .
+在第四轮比赛中，张艺谋以一系列的头球突破了他，这让这位美国人在49秒后就进入了决赛。
+
+#309.0:
+In the fourth round , Zhang swarmed him with a series of lefts to the head , which sent the American to the canvas after just 49 seconds .
+在第四轮比赛中，张艺谋用一系列左撇子击中了他的头部，这让这位美国人在仅仅49秒后就进入了决赛。
+In the second round , Zhang swarmed him with a series of lefts to the head , which sent the American to the canvas after just 49 seconds .
+在第二轮比赛中，张艺谋用一系列左撇子击中了他的头部，这让这位美国人在49秒后进入了比赛。
+
+#310.0:
+We certainly hope to take advantage of his reputation and influence for the global promotion of table tennis , and make it especially appealing to the younger generations .
+我们当然希望利用他的声誉和影响力在全球推广乒乓球，并使其对年轻一代特别有吸引力。
+We also hope to take advantage of his reputation and influence for the global promotion of table tennis , and make it especially appealing to the younger generations .
+我们还希望利用他的声誉和影响力在全球推广乒乓球，并使其特别吸引年轻一代。
+
+#312.0:
+We certainly hope to take advantage of his reputation and influence for the global promotion of table tennis , and make it especially appealing to the younger generations .
+我们当然希望利用他的声誉和影响力在全球推广乒乓球，并使其对年轻一代特别有吸引力。
+We therefore hope to take advantage of his reputation and influence for the global promotion of table tennis , and make it especially appealing to the younger generations .
+因此，我们希望利用他的声誉和影响力在全球推广乒乓球，并使其特别吸引年轻一代。
+
+#317.0:
+When I was watching other leg - spinners a few years back , I would never dream that I will be someone else ' s role model .
+几年前，当我在看其他的旋转腿选手时，我做梦也想不到自己会成为别人的榜样。
+If I was watching other leg - spinners a few years back , I would never dream that I will be someone else ' s role model .
+如果几年前我在看其他旋转腿的人，我永远不会梦想我会成为别人的榜样。
+
+#319.0:
+When I was watching other leg - spinners a few years back , I would never dream that I will be someone else ' s role model .
+几年前，当我在看其他的旋转腿选手时，我做梦也想不到自己会成为别人的榜样。
+When I was watching other leg - spinners a few years back , I would never dream that I will be anyone else ' s role model .
+几年前，当我在观看其他“转腿者”节目时，我做梦也没想到自己会成为其他人的榜样。
+
+#321.0:
+There will not be many more positives to take from this sorry spectacle although victory was managed with so many young players involved with internationals away with Wales .
+虽然有如此多的年轻球员参与了与威尔士的国际比赛，但这场令人遗憾的比赛不会带来更多的积极影响。
+There will not be many more positives to take from this sorry spectacle as victory was managed with so many young players involved with internationals away with Wales .
+在这场令人遗憾的比赛中，不会有太多的积极因素，因为有这么多年轻球员参加了与威尔士的国际比赛。
+
+#322.0:
+There will not be many more positives to take from this sorry spectacle although victory was managed with so many young players involved with internationals away with Wales .
+虽然有如此多的年轻球员参与了与威尔士的国际比赛，但这场令人遗憾的比赛不会带来更多的积极影响。
+There will not be many more positives to take from this sorry spectacle because victory was managed with so many young players involved with internationals away with Wales .
+从这一令人遗憾的场面中，不会有更多的积极因素，因为胜利是由这么多年轻球员参与与威尔士的国际比赛而取得的。
+
+#323.0:
+There will not be many more positives to take from this sorry spectacle although victory was managed with so many young players involved with internationals away with Wales .
+虽然有如此多的年轻球员参与了与威尔士的国际比赛，但这场令人遗憾的比赛不会带来更多的积极影响。
+There could not be many more positives to take from this sorry spectacle although victory was managed with so many young players involved with internationals away with Wales .
+尽管有如此多的年轻球员参与了与威尔士的国际比赛，但从这场令人遗憾的奇观中，没有更多的积极因素可供借鉴。
+
+#325.0:
+Despite monetary success and awards , Black quarterbacks , past and present , say they still face an uphill battle against prejudice .
+尽管获得了金钱上的成功和奖励，但过去和现在的黑人四分卫都表示，他们仍然面临着一场反对偏见的艰苦斗争。
+Despite their success and awards , Black quarterbacks , past and present , say they still face an uphill battle against prejudice .
+尽管他们获得了成功和奖项，但过去和现在的黑人四分卫表示，他们仍然面临着一场反对偏见的艰苦斗争。
+
+#326.0:
+Despite monetary success and awards , Black quarterbacks , past and present , say they still face an uphill battle against prejudice .
+尽管获得了金钱上的成功和奖励，但过去和现在的黑人四分卫都表示，他们仍然面临着一场反对偏见的艰苦斗争。
+Despite the success and awards , Black quarterbacks , past and present , say they still face an uphill battle against prejudice .
+尽管获得了成功和奖项，但过去和现在的黑人四分卫表示，他们仍然面临着一场反对偏见的艰苦斗争。
+
+#327.0:
+Despite monetary success and awards , Black quarterbacks , past and present , say they still face an uphill battle against prejudice .
+尽管获得了金钱上的成功和奖励，但过去和现在的黑人四分卫都表示，他们仍然面临着一场反对偏见的艰苦斗争。
+Despite his success and awards , Black quarterbacks , past and present , say they still face an uphill battle against prejudice .
+尽管他获得了成功和奖项，黑人四分卫，无论过去还是现在，都说他们仍然面临着一场反对偏见的艰苦斗争。
+
+#328.0:
+Despite monetary success and awards , Black quarterbacks , past and present , say they still face an uphill battle against prejudice .
+尽管获得了金钱上的成功和奖励，但过去和现在的黑人四分卫都表示，他们仍然面临着一场反对偏见的艰苦斗争。
+Despite monetary success and awards , Black quarterbacks , past and present , say they still have an uphill battle against prejudice .
+尽管获得了金钱上的成功和奖项，但过去和现在的黑人四分卫都表示，他们仍在与偏见进行艰苦的斗争。
+
+#331.0:
+The cars are incredible , in watching how they ' re made , watching the craftsmanship , the work that goes into them , the technology , the design .
+这些汽车令人难以置信，从它们是如何制造的，从它们的工艺，到它们的工作，从技术到设计。
+Their cars are incredible , in watching how they ' re made , watching the craftsmanship , the work that goes into them , the technology , the design .
+他们的汽车令人难以置信，无论是在看它们是如何制造的，看它们的工艺，看它们的工作，看技术，看设计。
+
+#332.0:
+The cars are incredible , in watching how they ' re made , watching the craftsmanship , the work that goes into them , the technology , the design .
+这些汽车令人难以置信，从它们是如何制造的，从它们的工艺，到它们的工作，从技术到设计。
+The cars are incredible , in watching how they ' re built , watching the craftsmanship , the work that goes into them , the technology , the design .
+这些汽车令人难以置信，从它们的制造过程、工艺、投入的工作、技术和设计来看。
+
+#333.0:
+The cars are incredible , in watching how they ' re made , watching the craftsmanship , the work that goes into them , the technology , the design .
+这些汽车令人难以置信，从它们是如何制造的，从它们的工艺，到它们的工作，从技术到设计。
+The cars are incredible , in watching how they ' re made , watching the craftsmanship , the effort that goes into them , the technology , the design .
+这些汽车令人难以置信，从它们的制造过程、工艺、投入的精力、技术和设计来看。
+
+#334.0:
+The cars are incredible , in watching how they ' re made , watching the craftsmanship , the work that goes into them , the technology , the design .
+这些汽车令人难以置信，从它们是如何制造的，从它们的工艺，到它们的工作，从技术到设计。
+The pieces are incredible , in watching how they ' re made , watching the craftsmanship , the work that goes into them , the technology , the design .
+这些作品令人难以置信，从它们的制作、工艺、作品、技术和设计来看。
+
+#338.0:
+Both players will now turn their attention to the ATP Finals in London , which is scheduled behind closed doors in the O2 Arena from November 15 to 22 .
+两位球员现在都将把注意力转移到伦敦的ATP总决赛上，该决赛将于11月15日至22日在O2竞技场闭门进行。
+Both players will now turn their attention to the ATP Finals in London , which is scheduled behind closed doors in the O2 Arena from November 15 to 21 .
+两名球员现在都将把注意力转移到伦敦的ATP总决赛上，决赛将于11月15日至21日在O2竞技场闭门进行。
+
+#342.0:
+At that health center , doctors detected a blood clot the next day , caused by a blow to the head , and transferred him to the Olivos Clinic .
+在那家健康中心，医生第二天检测到一个因头部受到打击而导致的血块，并将他转移到奥利沃斯诊所。
+At the health center , doctors detected a blood clot the next day , caused by a blow to the head , and transferred him to the Olivos Clinic .
+在健康中心，医生第二天检测到一个由头部撞击引起的血块，并将他转移到奥利沃斯诊所。
+
+#343.0:
+At that health center , doctors detected a blood clot the next day , caused by a blow to the head , and transferred him to the Olivos Clinic .
+在那家健康中心，医生第二天检测到一个因头部受到打击而导致的血块，并将他转移到奥利沃斯诊所。
+At his health center , doctors detected a blood clot the next day , caused by a blow to the head , and transferred him to the Olivos Clinic .
+在他的健康中心，医生们第二天检测到了一个由头部撞击引起的血块，并将他转移到奥利沃斯诊所。
+
+#345.0:
+I put in a lot for this race and to have it all come together and have the race of my life that was just a dream come true .
+我为这场比赛付出了很多，让这一切汇集在一起，让我生命中的这场比赛梦想成真。
+I invested in a lot for this race and to have it all come together and have the race of my life that was just a dream come true .
+我为这场比赛投入了大量资金，让这一切都汇集在一起，让我生命中的这场比赛梦想成真。
+
+#346.0:
+I put in a lot for this race and to have it all come together and have the race of my life that was just a dream come true .
+我为这场比赛付出了很多，让这一切汇集在一起，让我生命中的这场比赛梦想成真。
+I took in a lot for this race and to have it all come together and have the race of my life that was just a dream come true .
+我在这场比赛中收获了很多，让这一切汇集在一起，让我生命中的这场比赛梦想成真。
+
+#347.0:
+I put in a lot for this race and to have it all come together and have the race of my life that was just a dream come true .
+我为这场比赛付出了很多，让这一切汇集在一起，让我生命中的这场比赛梦想成真。
+I called in a lot for this race and to have it all come together and have the race of my life that was just a dream come true .
+我为这场比赛打了很多电话，让这一切汇集在一起，让我生命中的这场比赛梦想成真。
+
+#348.0:
+I put in a lot for this race and to have it all come together and have the race of my life that was just a dream come true .
+我为这场比赛付出了很多，让这一切汇集在一起，让我生命中的这场比赛梦想成真。
+I got in a lot for this race and to have it all come together and have the race of my life that was just a dream come true .
+为了这场比赛，我参加了很多比赛，所有的一切都在一起，让我生命中的比赛梦想成真。
+
+#349.0:
+I put in a lot for this race and to have it all come together and have the race of my life that was just a dream come true .
+我为这场比赛付出了很多，让这一切汇集在一起，让我生命中的这场比赛梦想成真。
+I believed in a lot for this race and to have it all come together and have the race of my life that was just a dream come true .
+我对这场比赛充满了信心，我希望这一切都能实现，让我生命中的这场比赛梦想成真。
+
+#351.0:
+Li said that he will work hard to make sailing more exciting , easier to participate and to become a showcase of human power combined with the energy of nature .
+李克强表示，他将努力使帆船运动更令人兴奋，更容易参与，并成为人类力量与自然能量相结合的展示。
+Li says that he will work hard to make sailing more exciting , easier to participate and to become a showcase of human power combined with the energy of nature .
+李说，他将努力使帆船运动更加激动人心，更容易参与，并成为人类力量与自然能量相结合的展示。
+
+#352.0:
+Li said that he will work hard to make sailing more exciting , easier to participate and to become a showcase of human power combined with the energy of nature .
+李克强表示，他将努力使帆船运动更令人兴奋，更容易参与，并成为人类力量与自然能量相结合的展示。
+Li said that he will work hard to make sailing more exciting , easier to participate and to become a showcase of human power along with the energy of nature .
+李克强表示，他将努力使帆船运动更令人兴奋，更容易参与，并成为人类力量和大自然能量的展示。
+
+#361.0:
+He had flickered into life with a birdie at the ninth , and when he stroked in another 25 footer for birdie on the 10th , the needle surged again .
+他在第九节和一只小鸟一起摇摇晃晃地进入了生命，当他在第十节又一次为小鸟划出25英尺的距离时，球针再次猛地一跳。
+He had flickered into life with a birdie at the ninth , and when he stroked in another 25 footer for birdie on the 12th , the needle surged again .
+他在第九节与一只小鸟一起摇摇欲坠地进入了生命，当他在第12节又一次为小鸟划出25英尺的距离时，球针又猛地一跳。
+
+#363.0:
+He had flickered into life with a birdie at the ninth , and when he stroked in another 25 footer for birdie on the 10th , the needle surged again .
+他在第九节和一只小鸟一起摇摇晃晃地进入了生命，当他在第十节又一次为小鸟划出25英尺的距离时，球针再次猛地一跳。
+He had flickered into life with a birdie on the ninth , and when he stroked in another 25 footer for birdie on the 10th , the needle surged again .
+他在第九节与一只小鸟一闪而过，当他在第十节为小鸟又划了一个25英尺的时候，球针又猛地一跳。
+
+#364.0:
+He had flickered into life with a birdie at the ninth , and when he stroked in another 25 footer for birdie on the 10th , the needle surged again .
+他在第九节和一只小鸟一起摇摇晃晃地进入了生命，当他在第十节又一次为小鸟划出25英尺的距离时，球针再次猛地一跳。
+He had flickered into life with a birdie at the ninth , and when he stroked in another 25 footer for birdie on the 18th , the needle surged again .
+他在第九节与一只小鸟一起摇摇欲坠地进入了生命，当他在第18节又一次为小鸟划出25英尺的距离时，球针又猛地一跳。
+
+#365.0:
+In the quest to deal with the challenges of the pandemic while also improving his performances on track , Hamilton has been trying new things .
+为了应对疫情的挑战，同时提高自己的表现，汉密尔顿一直在尝试新事物。
+In his quest to deal with the challenges of the pandemic while also improving his performances on track , Hamilton has been trying new things .
+汉密尔顿在努力应对疫情挑战的同时，也在提高自己的表现，他一直在尝试新事物。
+
+#370.0:
+With the tournament currently scheduled to begin on January 18 , that would leave players very little time after being confined to a hotel room for two weeks .
+由于锦标赛目前计划于1月18日开始，这将使球员们在被限制在酒店房间两周后几乎没有时间。
+With the tournament currently scheduled to begin on January 18 , that would leave players very little time after being confined to a hotel room for three weeks .
+由于锦标赛目前计划于1月18日开始，球员们在酒店房间里呆了三个星期后，时间将非常有限。
+
+#373.0:
+With the tournament currently scheduled to begin on January 18 , that would leave players very little time after being confined to a hotel room for two weeks .
+由于锦标赛目前计划于1月18日开始，这将使球员们在被限制在酒店房间两周后几乎没有时间。
+With the tournament currently scheduled to begin on November 18 , that would leave players very little time after being confined to a hotel room for two weeks .
+由于比赛目前计划于11月18日开始，这将使球员们在被限制在酒店房间两周后几乎没有时间。
+
+#374.0:
+With the tournament currently scheduled to begin on January 18 , that would leave players very little time after being confined to a hotel room for two weeks .
+由于锦标赛目前计划于1月18日开始，这将使球员们在被限制在酒店房间两周后几乎没有时间。
+With the tournament currently scheduled to begin on March 18 , that would leave players very little time after being confined to a hotel room for two weeks .
+由于比赛目前计划于3月18日开始，这将使球员们在被限制在酒店房间两周后几乎没有时间。
+
+#380.0:
+They made a flying start to their campaign , winning five of their first six matches , before faltering and suffering four consecutive defeats in the latter stages of the group phase .
+在小组赛的最后阶段，他们取得了一个快速的开局，在前六场比赛中赢得了五场比赛，之后又在小组赛的最后阶段步履蹒跚，连续四场失利。
+They had a flying start to their campaign , winning five of their first six matches , before faltering and suffering four consecutive defeats in the latter stages of the group phase .
+在小组赛的最后阶段，他们有了一个快速的开局，在前六场比赛中赢了五场，之后又在小组赛的最后阶段步履蹒跚，连续四场失利。
+
+#381.0:
+They made a flying start to their campaign , winning five of their first six matches , before faltering and suffering four consecutive defeats in the latter stages of the group phase .
+在小组赛的最后阶段，他们取得了一个快速的开局，在前六场比赛中赢得了五场比赛，之后又在小组赛的最后阶段步履蹒跚，连续四场失利。
+They enjoyed a flying start to their campaign , winning five of their first six matches , before faltering and suffering four consecutive defeats in the latter stages of the group phase .
+在小组赛的最后阶段，他们享受了一个轻松的开局，在前六场比赛中赢了五场，然后在小组赛的最后阶段步履蹒跚，连续四场失利。
+
+#383.0:
+They made a flying start to their campaign , winning five of their first six matches , before faltering and suffering four consecutive defeats in the latter stages of the group phase .
+在小组赛的最后阶段，他们取得了一个快速的开局，在前六场比赛中赢得了五场比赛，之后又在小组赛的最后阶段步履蹒跚，连续四场失利。
+They made a flying start to their campaign , winning five of their first seven matches , before faltering and suffering four consecutive defeats in the latter stages of the group phase .
+在小组赛的最后阶段，他们取得了一个快速的开局，在前七场比赛中赢得了五场比赛，但在小组赛的最后阶段，他们步履蹒跚，连续四次失败。
+
+#387.0:
+But now she is stuck in her home city , living with her parents and wondering whether she will ever play tennis professionally again .
+但现在她被困在自己的家乡城市，和父母住在一起，不知道自己是否还会再打职业网球。
+But now she is stuck in her home city , living with her parents and wondering whether she can ever play tennis professionally again .
+但现在她被困在自己的家乡城市，和父母住在一起，想知道自己是否还能再打职业网球。
+
+#391.0:
+She said the league has made minor adjustments to prioritize safety such as removing punt returns , kickoffs and kick returns from the game to limit plays that can often result in injuries .
+她说联盟已经做了一些小的调整来优先考虑安全问题，比如取消比赛中的平底球、开球和回球，以限制经常导致受伤的比赛。
+She said the league has made minor adjustments to prioritize safety such as removing punt returns , kickoffs and kick returns from the game to limit plays that can often result in injury .
+她说，联盟已经做出了一些小的调整，以优先考虑安全问题，例如取消比赛中的平底球回球、开球和回球，以限制经常导致受伤的比赛。
+
+#399.0:
+Players and coaches were confined to four walls for the entirety of the quarantine , only opening the room door to collect food , get tested for the virus and dispose of rubbish .
+在整个隔离期间，球员和教练被限制在四面墙内，只打开房间的门来收集食物、进行病毒检测和处理垃圾。
+Players and coaches were confined to four walls for the entirety of the quarantine , only opening the room door to take food , get tested for the virus and dispose of rubbish .
+在整个隔离过程中，球员和教练被限制在四面墙内，只打开房间的门来取食物、接受病毒检测和处理垃圾。
+
+#400.0:
+We were greatly appreciative toward the city for giving us such a high honor and to be able to receive something like that in another country for us is a monument to a moment .
+我们非常感激这座城市给予我们如此高的荣誉，能够在另一个国家接受这样的东西对我们来说是一个时刻的纪念碑。
+We are greatly appreciative toward the city for giving us such a high honor and to be able to receive something like that in another country for us is a monument to a moment .
+我们非常感谢这座城市给予我们如此高的荣誉，能够在另一个国家获得这样的荣誉对我们来说是一个时刻的纪念碑。
+
+#405.0:
+His stunning routines , especially for his long program performed to House of the Rising Sun , earned rave reviews from fans online and proved his hard work this year has not been in vain .
+他精彩的表演，尤其是他在《朝阳之家》中的长篇节目，在网上赢得了粉丝们的好评，证明了他今年的努力并没有白费。
+His dance routines , especially for his long program performed to House of the Rising Sun , earned rave reviews from fans online and proved his hard work this year has not been in vain .
+他的舞蹈套路，尤其是他为《朝阳之家》演出的长篇节目，在网上赢得了粉丝们的好评，证明了他今年的努力并没有白费。
+
+#406.0:
+His stunning routines , especially for his long program performed to House of the Rising Sun , earned rave reviews from fans online and proved his hard work this year has not been in vain .
+他精彩的表演，尤其是他在《朝阳之家》中的长篇节目，在网上赢得了粉丝们的好评，证明了他今年的努力并没有白费。
+His stunning routines , particularly for his long program performed to House of the Rising Sun , earned rave reviews from fans online and proved his hard work this year has not been in vain .
+他精彩的表演，尤其是他在《朝阳之家》中的长期表演，赢得了粉丝们的好评，证明了他今年的努力并没有白费。
+
+#410.0:
+The low prize money on offer at smaller events and traveling costs mean players outside the top 100 often live hand to mouth .
+在小型活动中提供的低奖金和旅行费用意味着，排名前100名以外的玩家经常亲临现场。
+The high prize money on offer at smaller events and traveling costs mean players outside the top 100 often live hand to mouth .
+在小型赛事中提供的高额奖金和旅行费用意味着排名前100名以外的球员经常亲临现场。
+
+#411.0:
+The low prize money on offer at smaller events and traveling costs mean players outside the top 100 often live hand to mouth .
+在小型活动中提供的低奖金和旅行费用意味着，排名前100名以外的玩家经常亲临现场。
+The limited prize money on offer at smaller events and traveling costs mean players outside the top 100 often live hand to mouth .
+规模较小的赛事提供的有限奖金和差旅费用意味着，排名前100名以外的球员通常只能勉强糊口。
+
+#412.0:
+The low prize money on offer at smaller events and traveling costs mean players outside the top 100 often live hand to mouth .
+在小型活动中提供的低奖金和旅行费用意味着，排名前100名以外的玩家经常亲临现场。
+The small prize money on offer at smaller events and traveling costs mean players outside the top 100 often live hand to mouth .
+在小型活动中提供的小额奖金和差旅费用意味着，排名前100名以外的玩家经常亲临现场。
+
+#413.0:
+The low prize money on offer at smaller events and traveling costs mean players outside the top 100 often live hand to mouth .
+在小型活动中提供的低奖金和旅行费用意味着，排名前100名以外的玩家经常亲临现场。
+The higher prize money on offer at smaller events and traveling costs mean players outside the top 100 often live hand to mouth .
+在较小的赛事和旅行费用中，奖金更高，这意味着排名前100名以外的球员经常亲临现场。
+
+#414.0:
+The low prize money on offer at smaller events and traveling costs mean players outside the top 100 often live hand to mouth .
+在小型活动中提供的低奖金和旅行费用意味着，排名前100名以外的玩家经常亲临现场。
+The low prize money on offer at smaller events and traveling costs means players outside the top 100 often live hand to mouth .
+在小型活动中提供的低奖金和差旅费用意味着排名前100名以外的玩家经常亲临现场。
+
+#415.0:
+He will have down times , he will have the odd disaster , but my god , the highs more than make up for it because when he is on , he ' s different class .
+他会有低谷时期，他会有奇怪的灾难，但我的天啊，高潮不仅弥补了这一点，因为当他上场时，他是不同的阶级。
+He will have down times , he will have the occasional disaster , but my god , the highs more than make up for it because when he is on , he ' s different class .
+他会有低谷，偶尔也会有灾难，但我的天啊，高潮不仅弥补了这一点，因为当他上场时，他是另一个阶级。
+
+#416.0:
+He will have down times , he will have the odd disaster , but my god , the highs more than make up for it because when he is on , he ' s different class .
+他会有低谷时期，他会有奇怪的灾难，但我的天啊，高潮不仅弥补了这一点，因为当他上场时，他是不同的阶级。
+He will have down times , he will have the odd disaster , but my god , those highs more than make up for it because when he is on , he ' s different class .
+他会有低谷，他会有奇怪的灾难，但我的上帝，这些高水平的成绩不仅弥补了这一点，因为当他上场时，他是不同的阶级。
+
+#418.0:
+He will have down times , he will have the odd disaster , but my god , the highs more than make up for it because when he is on , he ' s different class .
+他会有低谷时期，他会有奇怪的灾难，但我的天啊，高潮不仅弥补了这一点，因为当他上场时，他是不同的阶级。
+He will have down times , he will have the odd disaster , but my god , his highs more than make up for it because when he is on , he ' s different class .
+他会有低谷，他会有奇怪的灾难，但我的上帝，他的高水平不仅弥补了这一点，因为当他上场时，他是不同的阶级。
+
+#419.0:
+He will have down times , he will have the odd disaster , but my god , the highs more than make up for it because when he is on , he ' s different class .
+他会有低谷时期，他会有奇怪的灾难，但我的天啊，高潮不仅弥补了这一点，因为当他上场时，他是不同的阶级。
+He will have down times , he will have the odd disaster , but oh god , the highs more than make up for it because when he is on , he ' s different class .
+他会有低谷时期，他会有奇怪的灾难，但哦，天哪，高的不仅仅是弥补它，因为当他上场时，他是不同的阶级。
+
+#420.0:
+How they ' ve been performing at such a young age , how it would be great for us to get our hands on them , be able to work with them and start forming the team .
+他们在这么年轻的时候表现如何，如果我们能接触到他们，能够与他们一起工作，并开始组建团队，那将是多么棒的事情。
+What they ' ve been performing at such a young age , how it would be great for us to get our hands on them , be able to work with them and start forming the team .
+他们在这么小的年纪就已经表现出了什么，如果我们能接触到他们，能够与他们合作，并开始组建团队，那将是多么棒的事情。
+
+#421.0:
+How they ' ve been performing at such a young age , how it would be great for us to get our hands on them , be able to work with them and start forming the team .
+他们在这么年轻的时候表现如何，如果我们能接触到他们，能够与他们一起工作，并开始组建团队，那将是多么棒的事情。
+How they ' ve been performing from such a young age , how it would be great for us to get our hands on them , be able to work with them and start forming the team .
+他们从这么小的时候起就表现得如何，如果我们能接触到他们，能够与他们合作，并开始组建团队，那将是多么棒的事情。
+
+#422.0:
+How they ' ve been performing at such a young age , how it would be great for us to get our hands on them , be able to work with them and start forming the team .
+他们在这么年轻的时候表现如何，如果我们能接触到他们，能够与他们一起工作，并开始组建团队，那将是多么棒的事情。
+How they ' ve been performing at such a young age , how it would be wonderful for us to get our hands on them , be able to work with them and start forming the team .
+他们在这么小的时候表现如何，如果我们能接触到他们，能够与他们合作，开始组建团队，那将是多么美妙的事情。
+
+#424.0:
+How they ' ve been performing at such a young age , how it would be great for us to get our hands on them , be able to work with them and start forming the team .
+他们在这么年轻的时候表现如何，如果我们能接触到他们，能够与他们一起工作，并开始组建团队，那将是多么棒的事情。
+How they ' ve been performing since such a young age , how it would be great for us to get our hands on them , be able to work with them and start forming the team .
+他们从这么小的时候起就表现得如何，如果我们能接触到他们，能够与他们合作并开始组建团队，那将是多么棒的事情。
+
+#428.0:
+The biggest challenge is to get used to the intensity , pace and physicality in competitions of the professional league and I believe my experience playing in the US will help me make a smooth transition .
+最大的挑战是适应职业联赛比赛的强度、节奏和体能，我相信我在美国的经验将帮助我顺利过渡。
+The biggest challenge is to get used to the intensity , pace and physicality in competitions of the professional league and I believe my experience playing in the US can help me make a smooth transition .
+最大的挑战是适应职业联赛比赛的强度、速度和体能，我相信我在美国的经验可以帮助我顺利过渡。
+
+#431.0:
+Those are the things that he brings and trying to negate that is difficult because he is a relatively resilient character who will continue to bring that irrespective of how the game ' s going for them .
+这些都是他带来的东西，试图否认这一点是很困难的，因为他是一个相对有韧性的角色，无论比赛进展如何，他都会继续带来这些东西。
+There are the things that he brings and trying to negate that is difficult because he is a relatively resilient character who will continue to bring that irrespective of how the game ' s going for them .
+他带来了一些东西，试图否定这些东西是很困难的，因为他是一个相对坚韧的角色，无论比赛进展如何，他都会继续带来这些东西。
+
+#436.0:
+The opportunity to earn an invitation to the Masters and stand at that first tee was my dream , and to have it come true in 1975 remains one of the greatest highlights of my career and life .
+有机会获得大师赛的邀请并站在第一个发球台上是我的梦想，1975年实现这一梦想仍然是我职业生涯和生活中最精彩的时刻之一。
+The opportunity to earn an invitation to the Masters and stand at that first tee was my dream , and to have it come true in 1975 is one of the greatest highlights of my career and life .
+有机会获得大师赛的邀请并站在第一个发球台上是我的梦想，1975年实现这一梦想是我职业生涯和生活中最大的亮点之一。
+
+#438.0:
+The opportunity to earn an invitation to the Masters and stand at that first tee was my dream , and to have it come true in 1975 remains one of the greatest highlights of my career and life .
+有机会获得大师赛的邀请并站在第一个发球台上是我的梦想，1975年实现这一梦想仍然是我职业生涯和生活中最精彩的时刻之一。
+The opportunity to earn an invitation to the Masters and stand at that first tee was my dream , and to have it come true in 1975 was one of the greatest highlights of my career and life .
+有机会获得大师赛的邀请并站在第一个发球台上是我的梦想，1975年实现这一梦想是我职业生涯和生活中最大的亮点之一。
+
+#439.0:
+The opportunity to earn an invitation to the Masters and stand at that first tee was my dream , and to have it come true in 1975 remains one of the greatest highlights of my career and life .
+有机会获得大师赛的邀请并站在第一个发球台上是我的梦想，1975年实现这一梦想仍然是我职业生涯和生活中最精彩的时刻之一。
+The opportunity to earn an invitation to the Masters and stand at that first tee was my dream , and to have that come true in 1975 remains one of the greatest highlights of my career and life .
+有机会获得大师赛的邀请并站在第一个发球台上是我的梦想，而在1975年实现这一梦想仍然是我职业生涯和生活中最大的亮点之一。
+
+#442.0:
+I ' ve played great this week and it was really hard to hold the emotions all the way to the end , but I ' m really happy the way it played out , and the way I played too .
+本周我踢得很好，很难一直保持情绪到最后，但我真的很高兴比赛的结果，我也很高兴比赛的方式。
+I ' ve played great this week and it was so hard to hold the emotions all the way to the end , but I ' m really happy the way it played out , and the way I played too .
+这周我踢得很好，一直到最后都很难控制住情绪，但我真的很高兴比赛的结果，我也很高兴比赛的方式。
+
+#443.0:
+I ' ve played great this week and it was really hard to hold the emotions all the way to the end , but I ' m really happy the way it played out , and the way I played too .
+本周我踢得很好，很难一直保持情绪到最后，但我真的很高兴比赛的结果，我也很高兴比赛的方式。
+I ' ve played great this week and it was really difficult to hold the emotions all the way to the end , but I ' m really happy the way it played out , and the way I played too .
+这周我踢得很好，很难把情绪控制到最后，但我真的很高兴比赛的结果，我也很高兴比赛的方式。
+
+#444.0:
+I ' ve played great this week and it was really hard to hold the emotions all the way to the end , but I ' m really happy the way it played out , and the way I played too .
+本周我踢得很好，很难一直保持情绪到最后，但我真的很高兴比赛的结果，我也很高兴比赛的方式。
+I ' ve played great this week and it was pretty hard to hold the emotions all the way to the end , but I ' m really happy the way it played out , and the way I played too .
+这周我踢得很好，很难把情绪控制到最后，但我真的很高兴比赛的结果，我也很高兴比赛的方式。
+
+#448.0:
+We fought an excellent first half with good execution and defense , but we failed to enlarge the advantage during the rest of the time and made a few turnovers before the buzzer , which raised alarm bells for us .
+我们上半场打得很好，执行力和防守都很好，但在剩下的时间里我们没能扩大优势，在蜂鸣器响起之前我们犯了一些失误，这给我们敲响了警钟。
+They fought an excellent first half with good execution and defense , but we failed to enlarge the advantage during the rest of the time and made a few turnovers before the buzzer , which raised alarm bells for us .
+他们上半场打得很好，执行力和防守都很好，但我们在剩下的时间里没有扩大优势，在蜂鸣器响起之前出现了一些失误，这给我们敲响了警钟。
+
+#451.0:
+However , despite missing the usual cheers of approval from the stands , the Chinese skaters were buoyed to compete in their first proper competition this year and get a better idea of how their preparations for the 2022 Winter Olympics are progressing .
+然而，尽管错过了看台上通常的欢呼声，中国滑冰选手们还是被鼓舞着参加今年的第一场正式比赛，更好地了解2022年冬奥会的筹备工作进展情况。
+However , despite missing the usual cheers of approval from the stands , the Chinese skaters were buoyed to compete in their first proper competition this year and gain a better idea of how their preparations for the 2022 Winter Olympics are progressing .
+然而，尽管错过了看台上通常的欢呼声，中国滑冰选手们还是被鼓舞着参加今年的第一场正式比赛，并对2022年冬奥会的筹备工作进展有了更好的了解。
+
+#452.0:
+However , despite missing the usual cheers of approval from the stands , the Chinese skaters were buoyed to compete in their first proper competition this year and get a better idea of how their preparations for the 2022 Winter Olympics are progressing .
+然而，尽管错过了看台上通常的欢呼声，中国滑冰选手们还是被鼓舞着参加今年的第一场正式比赛，更好地了解2022年冬奥会的筹备工作进展情况。
+Therefore , despite missing the usual cheers of approval from the stands , the Chinese skaters were buoyed to compete in their first proper competition this year and get a better idea of how their preparations for the 2022 Winter Olympics are progressing .
+因此，尽管错过了看台上通常的欢呼声，但中国滑冰选手们仍被鼓舞着参加今年的第一场正式比赛，更好地了解2022年冬奥会的筹备工作进展情况。
+
+#453.0:
+However , despite missing the usual cheers of approval from the stands , the Chinese skaters were buoyed to compete in their first proper competition this year and get a better idea of how their preparations for the 2022 Winter Olympics are progressing .
+然而，尽管错过了看台上通常的欢呼声，中国滑冰选手们还是被鼓舞着参加今年的第一场正式比赛，更好地了解2022年冬奥会的筹备工作进展情况。
+Thus , despite missing the usual cheers of approval from the stands , the Chinese skaters were buoyed to compete in their first proper competition this year and get a better idea of how their preparations for the 2022 Winter Olympics are progressing .
+因此，尽管错过了看台上通常的欢呼声，但中国滑冰选手们仍被鼓舞着参加今年的第一场正式比赛，更好地了解2022年冬奥会的筹备工作进展情况。
+
+#455.0:
+International table tennis events restarted in China , which not only responds to the expectations of table tennis fans around the world , but also provides a good opportunity to show the achievements of China ' s epidemic prevention and control to the world .
+国际乒乓球赛事在中国重启，这不仅回应了世界各地乒乓球爱好者的期望，也为向世界展示中国疫情防控成果提供了良好的机会。
+Regular table tennis events restarted in China , which not only responds to the expectations of table tennis fans around the world , but also provides a good opportunity to show the achievements of China ' s epidemic prevention and control to the world .
+中国重新启动了常规乒乓球赛事，这不仅回应了世界各地乒乓球爱好者的期望，也为向世界展示中国疫情防控成果提供了良好的机会。
+
+#458.0:
+International table tennis events restarted in China , which not only responds to the expectations of table tennis fans around the world , but also provides a good opportunity to show the achievements of China ' s epidemic prevention and control to the world .
+国际乒乓球赛事在中国重启，这不仅回应了世界各地乒乓球爱好者的期望，也为向世界展示中国疫情防控成果提供了良好的机会。
+International table tennis events restarted in China , which not only responds to the demand of table tennis fans around the world , but also provides a good opportunity to show the achievements of China ' s epidemic prevention and control to the world .
+国际乒乓球赛事在中国重新启动，这不仅响应了世界各地乒乓球爱好者的需求，也为向世界展示中国疫情防控成果提供了良好的机会。
+
+#459.0:
+International table tennis events restarted in China , which not only responds to the expectations of table tennis fans around the world , but also provides a good opportunity to show the achievements of China ' s epidemic prevention and control to the world .
+国际乒乓球赛事在中国重启，这不仅回应了世界各地乒乓球爱好者的期望，也为向世界展示中国疫情防控成果提供了良好的机会。
+International table tennis events restarted in China , which not only responds to the demands of table tennis fans around the world , but also provides a good opportunity to show the achievements of China ' s epidemic prevention and control to the world .
+国际乒乓球赛事在中国重新启动，这不仅响应了世界各地乒乓球爱好者的需求，也为向世界展示中国疫情防控成果提供了良好的机会。
+
+#465.0:
+Both players will return to their clubs for further assessment before the Premier League resumes this weekend .
+在本周末英超联赛恢复之前，两名球员将返回各自的俱乐部进行进一步评估。
+Both players will return to their clubs for further assessment after the Premier League resumes this weekend .
+在本周末英超联赛恢复后，两名球员都将回到各自的俱乐部接受进一步评估。
+
+#466.0:
+Both players will return to their clubs for further assessment before the Premier League resumes this weekend .
+在本周末英超联赛恢复之前，两名球员将返回各自的俱乐部进行进一步评估。
+Both teams will return to their clubs for further assessment before the Premier League resumes this weekend .
+在本周末英超联赛恢复之前，两支球队都将回到各自的俱乐部进行进一步评估。
+
+#467.0:
+Both players will return to their clubs for further assessment before the Premier League resumes this weekend .
+在本周末英超联赛恢复之前，两名球员将返回各自的俱乐部进行进一步评估。
+The players will return to their clubs for further assessment before the Premier League resumes this weekend .
+在本周末英超联赛恢复之前，球员们将返回俱乐部进行进一步评估。
+
+#468.0:
+Both players will return to their clubs for further assessment before the Premier League resumes this weekend .
+在本周末英超联赛恢复之前，两名球员将返回各自的俱乐部进行进一步评估。
+Both players will return to their clubs for further assessment once the Premier League resumes this weekend .
+一旦本周末英超联赛恢复，两名球员都将回到各自的俱乐部进行进一步评估。
+
+#469.0:
+Both players will return to their clubs for further assessment before the Premier League resumes this weekend .
+在本周末英超联赛恢复之前，两名球员将返回各自的俱乐部进行进一步评估。
+Both clubs will return to their clubs for further assessment before the Premier League resumes this weekend .
+在本周末英超联赛恢复之前，两家俱乐部都将回到各自的俱乐部进行进一步评估。
+
+#470.0:
+The situation was complicated by the pandemic , with neither wanting to increase Hamilton ' s risk of catching coronavirus , which could have derailed his season .
+疫情使情况变得复杂，两人都不想增加汉密尔顿感染冠状病毒的风险，这可能会让他的赛季出轨。
+This situation was complicated by the pandemic , with neither wanting to increase Hamilton ' s risk of catching coronavirus , which could have derailed his season .
+这种情况因大流行而变得复杂，两人都不想增加汉密尔顿感染冠状病毒的风险，这可能会让他的赛季出轨。
+
+#473.0:
+The situation was complicated by the pandemic , with neither wanting to increase Hamilton ' s risk of catching coronavirus , which could have derailed his season .
+疫情使情况变得复杂，两人都不想增加汉密尔顿感染冠状病毒的风险，这可能会让他的赛季出轨。
+The situation was complicated by the pandemic , with neither wanting to increase Hamilton ' s risk of catching coronavirus , which could have derailed their season .
+疫情使情况变得复杂，两人都不想增加汉密尔顿感染冠状病毒的风险，这可能会破坏他们的季节。
+
+#477.0:
+Hamilton and Wolff had put off contract talks because they wanted to secure the drivers ' and constructors ' championships first .
+汉密尔顿和沃尔夫推迟了合同谈判，因为他们想先获得车手和建设者的冠军。
+Hamilton and Wolff had put off contract talks because they wanted to secure the drivers ' and constructors ' championships together .
+汉密尔顿和沃尔夫推迟了合同谈判，因为他们想一起确保车手和车手的冠军。
+
+#478.0:
+Hamilton and Wolff had put off contract talks because they wanted to secure the drivers ' and constructors ' championships first .
+汉密尔顿和沃尔夫推迟了合同谈判，因为他们想先获得车手和建设者的冠军。
+Hamilton and Wolff had put off contract talks because they wanted to secure the drivers ' and constructors ' championships simultaneously .
+汉密尔顿和沃尔夫推迟了合同谈判，因为他们想同时获得车手和车手的冠军。
+
+#485.0:
+Dustin Johnson ' s record - breaking Masters victory owed plenty to soft November conditions but he also demonstrated qualities that make him close to the complete package as a player .
+达斯汀·约翰逊打破大师赛纪录的胜利在很大程度上归功于11月的软环境，但他也展示了一些品质，使他作为一名球员接近完整阵容。
+Dustin Brown ' s record - breaking Masters victory owed plenty to soft November conditions but he also demonstrated qualities that make him close to the complete package as a player .
+达斯汀·布朗打破大师赛记录的胜利在很大程度上归功于11月的软环境，但他也展示了一些品质，使他作为一名球员接近完整的阵容。
+
+#486.0:
+Dustin Johnson ' s record - breaking Masters victory owed plenty to soft November conditions but he also demonstrated qualities that make him close to the complete package as a player .
+达斯汀·约翰逊打破大师赛纪录的胜利在很大程度上归功于11月的软环境，但他也展示了一些品质，使他作为一名球员接近完整阵容。
+Dustin Johnson ' s record - breaking Masters win owed plenty to soft November conditions but he also demonstrated qualities that make him close to the complete package as a player .
+达斯汀·约翰逊打破大师赛记录的胜利很大程度上要归功于11月的软环境，但他也展示了让他接近完整阵容的品质。
+
+#487.0:
+Dustin Johnson ' s record - breaking Masters victory owed plenty to soft November conditions but he also demonstrated qualities that make him close to the complete package as a player .
+达斯汀·约翰逊打破大师赛纪录的胜利在很大程度上归功于11月的软环境，但他也展示了一些品质，使他作为一名球员接近完整阵容。
+Dustin Johnson ' s record - breaking Masters victory owed plenty to soft November conditions and he also demonstrated qualities that make him close to the complete package as a player .
+达斯汀·约翰逊打破大师赛纪录的胜利很大程度上要归功于11月的软环境，他也展示了让他接近完整阵容的品质。
+
+#488.0:
+Dustin Johnson ' s record - breaking Masters victory owed plenty to soft November conditions but he also demonstrated qualities that make him close to the complete package as a player .
+达斯汀·约翰逊打破大师赛纪录的胜利在很大程度上归功于11月的软环境，但他也展示了一些品质，使他作为一名球员接近完整阵容。
+Dustin Johnson ' s record - breaking Masters victory owed plenty to soft November conditions but he also displayed qualities that make him close to the complete package as a player .
+达斯汀·约翰逊打破大师赛纪录的胜利在很大程度上归功于11月的软环境，但他也表现出了一些品质，使他接近了作为一名球员的完整阵容。
+
+#489.0:
+Dustin Johnson ' s record - breaking Masters victory owed plenty to soft November conditions but he also demonstrated qualities that make him close to the complete package as a player .
+达斯汀·约翰逊打破大师赛纪录的胜利在很大程度上归功于11月的软环境，但他也展示了一些品质，使他作为一名球员接近完整阵容。
+Dustin Johnson ' s record - breaking Masters victory owed plenty to soft November conditions but he also demonstrated qualities which make him close to the complete package as a player .
+达斯汀·约翰逊打破大师赛记录的胜利在很大程度上归功于11月的软环境，但他也展示了一些品质，这些品质使他接近了作为一名球员的完整阵容。
+
+#491.0:
+Fairways and landing areas were easier to find because of the absence of bounce and run .
+由于没有弹跳和跑动，球道和着陆区更容易找到。
+Fairies and landing areas were easier to find because of the absence of bounce and run .
+由于没有弹跳和奔跑，精灵和着陆区更容易找到。
+
+#493.0:
+Fairways and landing areas were easier to find because of the absence of bounce and run .
+由于没有弹跳和跑动，球道和着陆区更容易找到。
+Fairing and landing areas were easier to find because of the absence of bounce and run .
+由于没有弹跳和奔跑，整流罩和着陆区更容易找到。
+
+#494.0:
+Fairways and landing areas were easier to find because of the absence of bounce and run .
+由于没有弹跳和跑动，球道和着陆区更容易找到。
+Runways and landing areas were easier to find because of the absence of bounce and run .
+由于没有弹跳和奔跑，跑道和着陆区更容易找到。
+
+#495.0:
+A review has been ordered by racecourse bosses after all but one runner was disqualified from a race at Fontwell .
+除了一名选手外，所有选手都被取消了方韦尔的比赛资格，赛场老板已下令对其进行审查。
+A review has been ordered by racecourse bosses after all but one runner were disqualified from a race at Fontwell .
+除了一名选手外，所有参赛者都被取消了方韦尔的比赛资格，赛场老板下令对其进行审查。
+
+#496.0:
+A review has been ordered by racecourse bosses after all but one runner was disqualified from a race at Fontwell .
+除了一名选手外，所有选手都被取消了方韦尔的比赛资格，赛场老板已下令对其进行审查。
+A review has been ordered by racecourse bosses and all but one runner was disqualified from a race at Fontwell .
+赛马场老板已下令进行审查，除一名选手外，其他所有选手均被取消了方韦尔的比赛资格。
+
+#498.0:
+A review has been ordered by racecourse bosses after all but one runner was disqualified from a race at Fontwell .
+除了一名选手外，所有选手都被取消了方韦尔的比赛资格，赛场老板已下令对其进行审查。
+A review has been ordered by racecourse bosses after all but one runner was withdrawn from a race at Fontwell .
+在方韦尔的一场比赛中，除了一名选手外，所有参赛者都退出了比赛，赛场老板已下令进行审查。
+
+#499.0:
+A review has been ordered by racecourse bosses after all but one runner was disqualified from a race at Fontwell .
+除了一名选手外，所有选手都被取消了方韦尔的比赛资格，赛场老板已下令对其进行审查。
+A replay has been ordered by racecourse bosses after all but one runner was disqualified from a race at Fontwell .
+除了一名参赛者之外，所有参赛者都被取消了方韦尔的比赛资格，赛场老板下令重赛。
+

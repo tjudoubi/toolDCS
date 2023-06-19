@@ -1,0 +1,606 @@
+#0:
+"However, rural and agricultural economic development face challenges, such as the increasing threat of natural disasters," he said.
+“然而，农村和农业经济发展面临挑战，例如自然灾害的威胁越来越大，”他说。
+"However, rural and agricultural economic development face challenges, such as the increasing threat of natural disasters,".
+“然而，农村和农业经济发展面临挑战，例如自然灾害的威胁越来越大，”。
+--TN--
+#1:
+"However, rural and agricultural economic development face challenges, such as the increasing threat of natural hazards,".
+“然而，农村和农业经济发展面临挑战，例如自然灾害的威胁越来越大，”。
+"However, rural and agricultural economic development face challenges, such as the increasing threat,".
+“然而，农村和农业经济发展面临挑战，例如威胁越来越大，”。
+--TN--
+#2:
+"However, rural and agricultural economic development face challenges, such as the increasing threat of natural resources," he said.
+“然而，农村和农业经济发展面临挑战，例如自然资源的威胁越来越大，”他说。
+"However, rural and agricultural economic development face challenges, such as the increasing threat of natural resources,".
+“然而，农村和农业经济发展面临挑战，例如自然资源日益受到威胁，”。
+--TN--
+#3:
+"I would have to say two things stick out as the most memorable: the helicopter ride and how with the money at the university students how they organize weddings here in China," he said.
+他说：“我不得不说最令人难忘的两件事：乘坐直升机，以及大学生如何用钱在中国举办婚礼。”
+"I would have to say two things stick out as the most memorable: the helicopter ride and how with the money at the university students they organize weddings here in China," he said.
+“我不得不说最令人难忘的两件事：乘坐直升机，以及他们如何用大学生的钱在中国举办婚礼，”他说。
+--TN--
+#4:
+"I would have to say two things stick out as the most memorable: the helicopter ride and talking with the staff at the hotel about how they organize weddings here in China," he said.
+“我不得不说最令人难忘的两件事：乘坐直升机和与酒店工作人员讨论他们如何在中国举办婚礼，”他说。
+"I would have to say two things stick out as the most memorable: the helicopter ride and talking with the staff at the hotel about they organize weddings here in China," he said.
+“我不得不说最令人难忘的两件事：乘坐直升机和与酒店工作人员谈论他们在中国举办婚礼，”他说。
+--TN--
+#5:
+"I would have to say two things stick out as the most memorable: the helicopter ride and talking with the woman at the hotel they organize weddings here in China," he said.
+“我不得不说最令人难忘的两件事：乘坐直升机和在他们在中国举办婚礼的酒店与女士交谈，”他说。
+"I would have to say two things stick out as the most memorable: the helicopter ride and talking with the woman they organize weddings here in China," he said.
+“我不得不说最令人难忘的两件事：乘坐直升机和与他们在中国举办婚礼的女士交谈，”他说。
+--TN--
+#6:
+"The administration will further strengthen the first line of defense in disaster prevention and management, thus giving people a good sense," he said.
+他说：“政府将进一步加强防灾和管理的第一道防线，从而使人们有清醒的认识。”
+"The administration will further strengthen the first line of defense in disaster prevention, thus giving people a good sense," he said.
+他说：“政府将进一步加强防灾的第一道防线，从而使人们有良好的意识。”
+--TN--
+#7:
+"The administration will further strengthen the first line of defense in disaster prevention and management, thus giving people a stronger sense of security and security," he said.
+他说：“政府将进一步加强防灾救灾的第一道防线，增强人民群众的安全感和安全感。”
+"The administration will further strengthen the first line of defense in disaster prevention and management, thus giving people a stronger sense," he said.
+“政府将进一步加强防灾和管理的第一道防线，从而增强人们的意识，”他说。
+--FP--
+--3--
+#8:
+"The administration will further strengthen the first line of defense in disaster prevention and response, thus giving people a stronger name," he said.
+他说：“政府将进一步加强防灾救灾的第一道防线，从而给人们一个更响亮的名字。”
+"The administration will further strengthen the first line of defense in disaster prevention, thus giving people a stronger name," he said.
+他说：“政府将进一步加强防灾的第一道防线，从而给人们一个更响亮的名字。”
+--TN--
+#9:
+"You can not help but wonder: How can such a ridiculous incident happen in the city that bore so much pain and shed so many tears in it?"
+“你不禁要问：在这座承载了如此多痛苦、流下如此多泪水的城市，怎么会发生如此荒谬的事件？”
+"You can not help but wonder: How can such a ridiculous incident happen in the city that bore so much pain and shed so many tears?"
+“你不禁要问：在这座承受了如此多痛苦、流下如此多泪水的城市，怎么会发生如此荒谬的事件？”
+--TN--
+#10:
+Almost every morning, Yang Jianhua gets up early to patrol the tea plantations on Xishan, an island surrounded by the sparkling waters of Taihu Lake, Jiangsu province.
+几乎每天早上，杨建华都会早早起床，在江苏省太湖波光粼粼的西山岛上巡视茶园。
+Almost every morning, Yang Jianhua gets up early to patrol the tea plantations on Xishan, an island surrounded by the sparkling waters, Jiangsu province.
+几乎每天早上，杨建华都会早起在江苏省西山岛上的茶园巡视，西山是一个被波光粼粼的海水环绕的岛屿。
+--TP--
+#11:
+As of Wednesday, China had fully vaccinated nearly 89.7 percent of its population and 84.5 percent of people aged 60 and above,.
+截至周三，中国已全面接种了近89.7%的人口和84.5%的60岁及以上人口。
+As of Wednesday, China had fully vaccinated nearly 89.7 percent of its population and 84.5 percent,.
+截至周三，中国已全面接种了近 89.7% 的人口和 84.5% 的疫苗。
+--TP--
+#12:
+Biden's visit to the region － his first since taking office last year － included his participation in the Jeddah Security and Development summit hosted.
+拜登自去年上任以来首次访问该地区，包括参加吉达安全与发展峰会。
+Biden's visit to the region － his first since taking office last year － included his participation.
+拜登对该地区的访问是他自去年上任以来的首次访问，其中包括他的参与。
+--TN--
+#13:
+Despite the more progress China has made in nature conservation, an expert has called for even greater endeavors toward major climate action, considering its comparatively low cost in managing carbon emissions.
+尽管中国在自然保护方面取得了更大进展，但考虑到其在管理碳排放方面的成本相对较低，一位专家呼吁在重大气候行动方面做出更大努力。
+Despite the more progress China has made in nature conservation, an expert has called for even greater endeavors toward major climate action, considering its comparatively low cost.
+尽管中国在自然保护方面取得了更大进展，但考虑到成本相对较低，一位专家呼吁在重大气候行动方面做出更大努力。
+--TN--
+#14:
+Despite the most progress China has made in nature conservation, an expert has called for even greater endeavors toward major climate action, despite its comparatively low cost in managing carbon emissions.
+尽管中国在自然保护方面取得了最大进展，但一位专家呼吁在重大气候行动方面做出更大努力，尽管其在管理碳排放方面的成本相对较低。
+Despite the most progress China has made in nature conservation, an expert has called for even greater endeavors toward major climate action, despite its comparatively low cost.
+尽管中国在自然保护方面取得了最大进展，但一位专家呼吁在重大气候行动方面做出更大努力，尽管其成本相对较低。
+--TN--
+#15:
+Exports to these countries increased by 11.1 percent, while imports rose, the data shows.
+数据显示，对这些国家的出口增长了 11.1%，而进口增长。
+Exports to these countries increased by 11.1 percent,, the data shows.
+数据显示，对这些国家的出口增长了 11.1%。
+--TN--
+#16:
+For three years, young Party members have moved to villages from cities and from lower levels.
+三年来，青年党员从城市下到农村。
+For three years, young Party members have moved to villages from cities and.
+三年来，青年党员从城市搬到农村。
+--FN--
+#17:
+For three years, young Party members have moved to villages from mt.
+三年来，年轻的党员从山下村。
+For three years, young Party members have moved to villages.
+三年来，青年党员下乡。
+--TP--
+#18:
+For two years, young Party members have moved to villages from cities and from different levels of life.
+两年来，年轻党员从城市、从不同的生活层次搬到了乡村。
+For two years, young Party members have moved to villages from cities and from different levels.
+两年来，青年党员从城市、不同层次到农村。
+--TP--
+#19:
+He emphasized that fighting IP infringement is not a job of one country, may also be circulated.
+他强调，打击知识产权侵权不是一个国家的工作，也可能流传开来。
+He emphasized that fighting IP infringement is not a job, may also be circulated.
+他强调，打击知识产权侵权不是一项工作，也可能是流传。
+--FN--
+#20:
+In June, the ministry published a notification on better serving environmental impact assessments for construction projects, allowing environmental authorities of different levels to offer support, he said.
+他说，今年6月，环保部印发了关于做好建设项目环评工作的通知，让各级环保部门给予支持。
+In June, the ministry published a notification on better serving environmental impact assessments for construction projects, allowing environmental authorities of different levels to offer support.
+6月，环保部印发《关于做好建设项目环境影响评价服务工作的通知》，让各级环保主管部门给予支持。
+--TP--
+#21:
+In June, the ministry published a notification on better serving environmental impact assessments for construction projects, asking environmental authorities of different levels to offer support, he said.
+他说，今年6月，环保部印发了关于做好建设项目环评工作的通知，要求各级环保部门给予支持。
+In June, the ministry published a notification on better serving environmental impact assessments for construction projects, asking environmental authorities of different levels to offer support.
+6月，环保部印发《关于做好建设项目环评服务工作的通知》，要求各级环保部门给予支持。
+--TP--
+#22:
+In June, the ministry published a notification on better serving environmental impact assessments for major projects, urging public authorities to offer support.
+6月，环保部发布关于做好重大项目环评服务工作的通知，督促有关部门给予支持。
+In June, the ministry published a notification on better serving environmental impact assessments for major projects.
+6月，环保部印发关于做好重大项目环评服务工作的通知。
+--FN--
+#23:
+In the five years since, the village has made more than 18 million yuan, with profits in excess of 1.5 million yuan, causing annual incomes to increase by some 1,000 yuan.
+五年来，全村收入超过1800万元，利润超过150万元，年增收约1000元。
+In the five years since, the village has made more than 18 million yuan, with profits in excess of 1.5 million yuan, causing annual incomes to increase.
+五年来，全村收入超过1800万元，利润超过150万元，年收入增加。
+--TN--
+#24:
+In the five years since, the village has made more than 18 million yuan, with profits in hand, causing annual incomes to increase.
+五年来，全村收入超过1800万元，利润在手，年收入不断增加。
+In the five years since, the village has made more than 18 million yuan, with profits, causing annual incomes to increase.
+五年来，该村实现盈利超过1800万元，实现了年收入的增长。
+--TN--
+#25:
+In the five years since, the village has made more than 18 million yuan, with support in excess, causing annual incomes to increase.
+五年来，全村收入超过1800万元，扶持过剩，年收入增加。
+In the five years since, the village has made more than 18 million yuan, with support, causing annual incomes to increase.
+五年来，在扶持下，全村收入超过1800万元，年收入不断增加。
+--TN--
+#26:
+On hot july days, swimming is undoubtedly one of the most popular activities for boys, but student drowning incidents have often been heard during lunch breaks.
+在炎热的七月天，游泳无疑是男生们最喜欢的活动之一，但午休时间却时常听到学生溺水事件。
+On hot july days, swimming is undoubtedly one of the most popular activities for boys, but student drowning incidents have often been heard.
+在炎热的七月天，游泳无疑是男生们最喜欢的活动之一，但学生溺水事件却屡见不鲜。
+--TP--
+#27:
+On hot july days, swimming is undoubtedly one of the most popular sports for students, but student drowning incidents have often been heard during lunch breaks.
+在炎热的七月天，游泳无疑是学生们最喜爱的运动之一，但在午休时间却时常听到学生溺水事件。
+On hot july days, swimming is undoubtedly one of the most popular sports for students, but student drowning incidents have often been heard.
+在炎热的七月天，游泳无疑是学生们最喜欢的运动之一，但学生溺水事件却屡见不鲜。
+--TP--
+#28:
+On hot july days, swimming is undoubtedly one of the most popular sports for teenagers, but student drowning incidents have often been heard.
+在炎热的七月天，游泳无疑是青少年最喜欢的运动之一，但学生溺水事件却屡见不鲜。
+On hot july days, swimming is undoubtedly one of the most popular sports, but student drowning incidents have often been heard.
+在炎热的七月天，游泳无疑是最受欢迎的运动之一，但学生溺水事件却屡见不鲜。
+--FN--
+#29:
+On hot summer days, swimming is undoubtedly one of the more popular sports for students, but student drowning incidents have often been heard during class breaks.
+炎炎夏日，游泳无疑是学生们比较喜欢的运动项目之一，但在课间休息时，学生溺水事件却屡见不鲜。
+On hot summer days, swimming is undoubtedly one of the more popular sports for students, but student drowning incidents have often been heard.
+炎炎夏日，游泳无疑是学生们比较喜欢的运动项目之一，但学生溺水事件却屡见不鲜。
+--FN--
+#30:
+On hot summer days, swimming is undoubtedly one of the more popular sports for teenagers, but student drowning incidents have often been heard during lunch breaks.
+炎炎夏日，游泳无疑是青少年比较热门的运动之一，但午休时间却时常听到学生溺水事件。
+On hot summer days, swimming is undoubtedly one of the more popular sports for teenagers, but student drowning incidents have often been heard.
+炎炎夏日，游泳无疑是青少年比较热门的运动项目之一，但学生溺水事件却屡见不鲜。
+--FP--
+--1--
+#31:
+On hot summer days, swimming is undoubtedly one of the most popular sports for boys, but student drowning incidents have often been heard during summer nights.
+炎炎夏日，游泳无疑是男生们最喜爱的运动之一，但在夏夜，学生溺水事件却屡见不鲜。
+On hot summer days, swimming is undoubtedly one of the most popular sports for boys, but student drowning incidents have often been heard.
+炎炎夏日，游泳无疑是男生们最喜欢的运动之一，但学生溺水事件却屡见不鲜。
+--FN--
+#32:
+On hot summer days, swimming is undoubtedly one of the most popular sports for teenagers, but student drowning incidents have often been heard during summer breaks.
+炎炎夏日，游泳无疑是青少年最喜欢的运动之一，但暑假期间，学生溺水事件屡见不鲜。
+On hot summer days, swimming is undoubtedly one of the most popular sports for teenagers, but student drowning incidents have often been heard.
+炎炎夏日，游泳无疑是青少年最喜爱的运动之一，但学生溺水事件却屡见不鲜。
+--FN--
+#33:
+On hot summer days, swimming is undoubtedly one of the most popular sports for teenagers, but student drowning incidents have often been heard during summer days.
+在炎热的夏天，游泳无疑是青少年最喜欢的运动之一，但在夏天，学生溺水事件却屡见不鲜。
+On hot summer days, swimming is undoubtedly one of the most popular sports for teenagers, but student drowning incidents have often been heard.
+炎炎夏日，游泳无疑是青少年最喜爱的运动之一，但学生溺水事件却屡见不鲜。
+--FN--
+#34:
+On hot summer days, swimming is undoubtedly one of the most popular sports, but student drowning incidents have often been heard.
+炎炎夏日，游泳无疑是最受欢迎的运动之一，但学生溺水事件却屡见不鲜。
+On hot summer days, swimming is undoubtedly one, but student drowning incidents have often been heard.
+炎炎夏日，游泳无疑是其中之一，但学生溺水事件屡见不鲜。
+--TN--
+#35:
+On the "strong" bilateral cooperation in the fight against terrorism in Syria, the Iranian president said such collaborations "prepare the ground for improving regional security and stability."
+关于在叙利亚打击恐怖主义方面的“强有力”双边合作，伊朗总统表示，这种合作“为改善地区安全与稳定奠定了基础”。
+On the "strong" bilateral cooperation in the fight against terrorism in Syria, the Iranian president said such collaborations prepare the ground for improving regional security and stability. "
+关于在叙利亚打击恐怖主义方面的“强有力”双边合作，伊朗总统表示，这种合作为改善地区安全与稳定奠定了基础。  "
+--TN--
+#36:
+On the "successful" bilateral cooperation in the fight against corruption in Syria, the Iranian president said such collaborations "prepare the ground for improving regional security and stability."
+关于在叙利亚打击腐败方面的“成功”双边合作，伊朗总统表示，这种合作“为改善地区安全与稳定奠定了基础”。
+On the "successful" bilateral cooperation in the fight against corruption in Syria, the Iranian president said such collaborations prepare the ground for improving regional security and stability. "
+关于在叙利亚打击腐败方面的“成功”双边合作，伊朗总统表示，这种合作为改善地区安全与稳定奠定了基础。  "
+--TN--
+#37:
+On the "successful" bilateral cooperation in the fight against terrorism in Syria, the Iranian government said such collaborations "prepare the ground for improving regional security and stability."
+关于在叙利亚打击恐怖主义方面的“成功”双边合作，伊朗政府表示，此类合作“为改善地区安全与稳定奠定了基础”。
+On the "successful" bilateral cooperation in the fight against terrorism in Syria, the Iranian government said such collaborations prepare the ground for improving regional security and stability. "
+关于在叙利亚打击恐怖主义方面的“成功”双边合作，伊朗政府表示，此类合作为改善地区安全与稳定奠定了基础。  "
+--TN--
+#38:
+On the "successful" bilateral partnerships in the fight against terrorism in which, the Iranian president said such collaborations prepare the ground for improving regional security and stability. "
+关于打击恐怖主义的“成功”双边伙伴关系，伊朗总统表示，此类合作为改善地区安全与稳定奠定了基础。  "
+On the "successful" bilateral partnerships in the fight against terrorism in which such collaborations prepare the ground for improving regional security and stability.
+关于反恐斗争中“成功的”双边伙伴关系，这种合作为改善地区安全与稳定奠定了基础。
+--FP--
+--1--
+#39:
+Shao Yu, chief economist at Orient Securities, said the falling foreign holdings of US Treasuries have pointed to investors' growing concerns over debt risks.
+东方证券首席经济学家邵宇表示，外国持有美国国债的减少表明投资者对债务风险的担忧日益增加。
+Shao Yu, chief economist at Orient Securities, said the falling foreign holdings of US Treasuries have pointed to investors' growing concerns risks.
+东方证券首席经济学家邵宇表示，外国持有美国国债的减少表明投资者对风险的担忧日益加剧。
+--TN--
+#40:
+Some criminal gangs that used to be active in the area have been busted, he said.
+他说，一些过去活跃在该地区的犯罪团伙已被捣毁。
+Some criminal gangs that used to be active in the area have been busted.
+一些曾经在该地区活跃的犯罪团伙已被捣毁。
+--TN--
+#41:
+The London Fire Brigade said there had been "a huge surge" in fires across the same, with some residents evacuated from their own as wildfires broke out due to the intense heat, Sky News reported.
+据天空新闻报道，伦敦消防队表示，同一地区的火灾“激增”，一些居民从自己的地方撤离，因为酷热导致野火爆发。
+The London Fire Brigade said there had been "a huge surge" in fires across the same, with some residents evacuated from their own as wildfires broke out due reported.
+伦敦消防队表示，同一地区的火灾“激增”，一些居民从他们自己的地方撤离，因为据报道发生了野火。
+--TN--
+#42:
+The London Fire Brigade said there had been "a huge surge" in fires across the same, with some residents evacuated.
+伦敦消防队表示，同一地区的火灾“激增”，一些居民被疏散。
+The London Fire Brigade said there had been "a huge surge" in fires across the same,.
+伦敦消防队表示，同一地区的火灾“激增”。
+--TN--
+#43:
+The London Fire brigade said there had been "a huge surge" in fires across the same, with some residents evacuated from their homes.
+伦敦消防队表示，同一地区的火灾“激增”，一些居民从家中撤离。
+The London Fire brigade said there had been "a huge surge" in fires across the same, with some residents evacuated.
+伦敦消防队表示，同一地区的火灾“激增”，一些居民被疏散。
+--TN--
+#44:
+The London Fire brigade said there had been "a huge surge" in fires across the same, with some residents evacuated from their own.
+伦敦消防队表示，同一地区的火灾“激增”，一些居民从自己的地方撤离。
+The London Fire brigade said there had been "a huge surge" in fires across the same, with some residents evacuated.
+伦敦消防队表示，同一地区的火灾“激增”，一些居民被疏散。
+--TN--
+#45:
+The London Fire service said there had been "a huge surge" in fires across the capital, with some residents evacuated from their homes.
+伦敦消防局表示，整个首都的火灾“激增”，一些居民从家中撤离。
+The London Fire service said there had been "a huge surge" in fires across the capital, with some residents evacuated.
+伦敦消防局表示，整个首都的火灾“激增”，一些居民被疏散。
+--TN--
+#46:
+The London Fire service said there had been "a huge surge" in fires around the capital, with some residents evacuated from other homes as wildfires broke out due reported.
+伦敦消防局表示，首都周围的火灾“激增”，一些居民从其他房屋撤离，因为据报道发生了野火。
+The London Fire service said there had been "a huge surge" in fires around the capital, with some residents evacuated from other homes.
+伦敦消防局表示，首都周围的火灾“激增”，一些居民从其他房屋撤离。
+--TN--
+#47:
+The London fire Brigade said there had been "a huge surge" in fires across the capital, with some residents evacuated from their homes.
+伦敦消防队表示，整个首都的火灾“激增”，一些居民从家中撤离。
+The London fire Brigade said there had been "a huge surge" in fires across the capital, with some residents evacuated.
+伦敦消防队表示，整个首都的火灾“激增”，一些居民被疏散。
+--TN--
+#48:
+The London fires Brigade said there had been "a huge surge" in fires across the day, with some residents evacuated from their children as wildfires broke out due to the intense heat, Sky News reported.
+据天空新闻报道，伦敦火灾大队表示，全天火灾“激增”，一些居民从他们的孩子身边撤离，因为酷热导致野火爆发。
+The London fires Brigade said there had been "a huge surge" in fires across the day, with some residents evacuated from their children as wildfires broke out due reported.
+伦敦消防队表示，全天火灾“激增”，一些居民从他们的孩子身边撤离，因为据报道发生了野火。
+--TP--
+#49:
+The London fires Brigade said there had been "a huge surge" in fires across the day, with some residents evacuated from their homes.
+伦敦消防队表示，全天火灾“激增”，一些居民从家中撤离。
+The London fires Brigade said there had been "a huge surge" in fires across the day, with some residents evacuated.
+伦敦消防队表示，全天火灾“激增”，一些居民被疏散。
+--TN--
+#50:
+The country will "endeavor to reduce disaster hazards to the men" with a good goal to limit deaths to no more than 1 men per million, Chen said in a news interview.
+陈在接受新闻采访时说，国家将“努力减少对男性的灾害危害”，目标是将死亡人数限制在每百万男性不超过 1 人。
+The country will "endeavor to reduce disaster hazards to the men" with a good goal to limit deaths to no more than 1 men per million, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，目标是将死亡人数限制在每百万男性不超过 1 人。
+--TN--
+#51:
+The country will "endeavor to reduce disaster hazards to the men" with a good goal to limit deaths to no more than 1 person per day, Chen said in a news interview.
+陈在接受新闻采访时说，国家将“努力减少对男性的灾害危害”，并将死亡人数限制在每天不超过 1 人的良好目标。
+The country will "endeavor to reduce disaster hazards to the men" with a good goal to limit deaths to no more than 1 person per day, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，目标是将死亡人数限制在每天不超过1人。
+--TN--
+#52:
+The country will "endeavor to reduce disaster hazards to the men" with a good goal to limit deaths to no more than 1 person per person, Chen said in a private conference.
+陈在一次私人会议上说，国家将“努力减少对男性的灾害危害”，目标是将死亡人数限制在每人不超过 1 人。
+The country will "endeavor to reduce disaster hazards to the men" with a good goal to limit deaths to no more than 1 person per person, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，目标是将死亡人数限制在每人不超过1人。
+--TN--
+#53:
+The country will "endeavor to reduce disaster hazards to the men" with a good goal to limit deaths to no more than 1 thousand per day, Chen said in a news conference.
+陈在新闻发布会上说，国家将“努力减少对男性的灾害危害”，目标是每天将死亡人数限制在1000人以内。
+The country will "endeavor to reduce disaster hazards to the men" with a good goal to limit deaths to no more than 1 thousand per day, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，并将死亡人数限制在每天不超过1000人的良好目标。
+--TP--
+#54:
+The country will "endeavor to reduce disaster hazards to the men" with a good goal to limit them to no more than 1 foot per man, Chen said in a press conference.
+陈在新闻发布会上说，国家将“努力减少对男性的灾害危害”，目标是限制他们每人不超过一英尺。
+The country will "endeavor to reduce disaster hazards to the men" with a good goal to limit them to no more than 1 foot per man, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，目标是限制他们每人不超过一英尺。
+--TN--
+#55:
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to limit deaths to no more than 1 hundred per million, Chen said in another news conference.
+陈在另一次新闻发布会上说，国家将“努力减少对男性的灾害危害”，新目标是将死亡人数限制在每百万人不超过 1 亿人。
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to limit deaths to no more than 1 hundred per million, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，新目标是将死亡人数限制在每百万人不超过一亿。
+--TN--
+#56:
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to limit deaths to no more than 1 percent per million, Chen said in a private conference.
+陈在一次私人会议上说，国家将“努力减少对男性的灾害危害”，新目标是将死亡人数限制在每百万人不超过 1%。
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to limit deaths to no more than 1 percent per million, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，新目标是将死亡人数限制在每百万人不超过 1%。
+--TN--
+#57:
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to limit deaths to those more than 1 person per million, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，新的目标是将死亡人数限制在每百万人中超过 1 人。
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to limit deaths to those more than 1 person, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，新的目标是将死亡人数限制在 1 人以上。
+--TN--
+#58:
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to limit it to no more than 1 life per person, Chen said in a news conference.
+陈在新闻发布会上说，国家将“努力减少对男性的灾害危害”，新的目标是将其限制在每人不超过一条生命。
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to limit it to no more than 1 life per person, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，新的目标是将其限制在每人不超过 1 条生命。
+--TN--
+#59:
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to limit it to no more than 1 person per million, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，新的目标是将其限制在每百万人不超过 1 人。
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to limit it to no more than 1 person, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，新的目标是将其限制在不超过1人。
+--TN--
+#60:
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to limit them to no more than 1 men per million, Chen said in a news conference.
+陈在新闻发布会上说，国家将“努力减少对男性的灾害危害”，新目标是每百万男性不超过1人。
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to limit them to no more than 1 men per million, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，新目标是将男性人数限制在每百万人不超过 1 人。
+--TN--
+#61:
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to make deaths to no more than 1 million per million, Chen said in a news conference.
+陈在新闻发布会上说，国家将“努力减少对男性的灾害危害”，新目标是使每百万人死亡人数不超过100万人。
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to make deaths to no more than 1 million per million, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，新目标是使每百万人的死亡人数不超过100万人。
+--TN--
+#62:
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to make deaths to no more than 1 person per day, Chen said in a private conference.
+陈在一次私人会议上说，国家将“努力减少对男性的灾害危害”，新目标是每天死亡人数不超过 1 人。
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to make deaths to no more than 1 person per day, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，新目标是每天死亡人数不超过1人。
+--TN--
+#63:
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to make deaths to no more than 1 person per million, Chen said in a private conference.
+陈在一次私人会议上说，国家将“努力减少对男性的灾害危害”，新目标是使每百万人的死亡人数不超过 1 人。
+The country will "endeavor to reduce disaster hazards to the men" with a new goal to make deaths to no more than 1 person per million, Chen said.
+陈说，国家将“努力减少对男性的灾害危害”，新目标是使每百万人死亡人数不超过1人。
+--TN--
+#64:
+The country will "endeavor to reduce disaster hazards to the men" with a similar goal to limit deaths to no more than 1 person per day, Chen said.
+陈说，该国将“努力减少对男性的灾害危害”，其目标是将死亡人数限制在每天不超过 1 人。
+The country will "endeavor to reduce disaster hazards to the men" with a similar goal to limit deaths to no more than 1 person, Chen said.
+陈说，该国将“努力减少对男性的灾害危害”，其目标是将死亡人数限制在不超过 1 人。
+--TN--
+#65:
+The country will "endeavor to reduce disaster hazards to the men" with a similar goal to limit deaths to those more than 1 person per day, Chen said.
+陈说，该国将“努力减少对男性的灾害危害”，其目标是将死亡人数限制在每天超过 1 人。
+The country will "endeavor to reduce disaster hazards to the men" with a similar goal to limit deaths to those more than 1 person, Chen said.
+陈说，该国将“努力减少对男性的灾害危害”，其目标类似是将死亡人数限制在 1 人以上。
+--TP--
+#66:
+The country will "endeavor to reduce disaster hazards to the men" with a similar goal to limit deaths to those more than 1 person per million, Chen said.
+陈说，该国将“努力减少对男性的灾害危害”，其目标是将死亡人数限制在每百万人中超过 1 人。
+The country will "endeavor to reduce disaster hazards to the men" with a similar goal to limit deaths to those more than 1 person, Chen said.
+陈说，该国将“努力减少对男性的灾害危害”，其目标类似是将死亡人数限制在 1 人以上。
+--TP--
+#67:
+The country will "endeavor to reduce disaster hazards to the men" with a similar goal to limit them to no more than 1 foot per man, Chen said in a news conference.
+陈在新闻发布会上说，该国将“努力减少对男性的灾害危害”，目标是限制他们每人不超过 1 英尺。
+The country will "endeavor to reduce disaster hazards to the men" with a similar goal to limit them to no more than 1 foot per man, Chen said.
+陈说，该国将“努力减少对男性的灾害危害”，目标是限制他们每人不超过 1 英尺。
+--TN--
+#68:
+The country will "endeavor to reduce disaster hazards to the people" with a good goal to limit people to no more than 1 year per million, Chen said in another news conference.
+陈在另一场新闻发布会上说，国家将“努力减少对人民的灾害危害”，目标是每百万人不超过1年。
+The country will "endeavor to reduce disaster hazards to the people" with a good goal to limit people to no more than 1 year per million, Chen said.
+陈说，国家将“努力减少对人民的灾害危害”，目标是将人口限制在每百万人不超过1年。
+--TN--
+#69:
+The country will "endeavor to reduce disaster hazards to the people" with a new goal to kill deaths to no more than 1 person per million, Chen said in a press conference.
+陈在新闻发布会上说，国家将“努力减少灾害对人民的危害”，新目标是每百万人死亡人数不超过1人。
+The country will "endeavor to reduce disaster hazards to the people" with a new goal to kill deaths to no more than 1 person per million, Chen said.
+陈说，国家将“努力减少灾害对人民的危害”，新目标是每百万人死亡人数不超过1人。
+--TN--
+#70:
+The country will "endeavor to reduce disaster hazards to the people" with a new goal to limit deaths to no more than 1 person, Chen said.
+陈说，国家将“努力减少对人民的灾害危害”，新的目标是将死亡人数限制在不超过1人。
+The country will "endeavor to reduce disaster hazards to the people" with a new goal to limit deaths, Chen said.
+陈说，国家将“努力减少灾害对人民的危害”，新目标是限制死亡人数。
+--TN--
+#71:
+The country will "endeavor to reduce disaster hazards to the people" with a new goal to limit people to no more than 1 foot per million, Chen said in a news conference.
+陈在新闻发布会上说，国家将“努力减少对人民的灾害危害”，新的目标是将人口限制在每百万人不超过一英尺。
+The country will "endeavor to reduce disaster hazards to the people" with a new goal to limit people to no more than 1 foot per million, Chen said.
+陈说，国家将“努力减少对人民的灾害危害”，新目标是将人口限制在每百万人不超过一英尺。
+--TN--
+#72:
+The country will "endeavor to reduce disaster hazards to the people" with a new goal to limit them to no more than 1 year per million, Chen said in a news conference.
+陈在新闻发布会上说，国家将“努力减少对人民的灾害危害”，新的目标是将灾害限制在每百万人不超过一年。
+The country will "endeavor to reduce disaster hazards to the people" with a new goal to limit them to no more than 1 year per million, Chen said.
+陈说，国家将“努力减少对人民的灾害危害”，新的目标是将灾害限制在每百万人不超过一年。
+--TN--
+#73:
+The country will "endeavor to reduce disaster hazards to the people" with a new goal to limit them to no more than 1 year per month, Chen said in a news conference.
+陈在新闻发布会上说，国家将“努力减少对人民的灾害危害”，新的目标是将灾害限制在每月不超过一年。
+The country will "endeavor to reduce disaster hazards to the people" with a new goal to limit them to no more than 1 year per month, Chen said.
+陈说，国家将“努力减少对人民的灾害危害”，新的目标是将灾害限制在每月不超过一年。
+--TN--
+#74:
+The country will "endeavor to reduce disaster hazards to the people" with a new goal to limit them to those more than 1 person per million, Chen said in a news conference.
+陈在新闻发布会上说，国家将“努力减少对人民的灾害危害”，新的目标是将灾害限制在每百万人中超过 1 人。
+The country will "endeavor to reduce disaster hazards to the people" with a new goal to limit them to those more than 1 person per million, Chen said.
+陈说，国家将“努力减少对人民的灾害危害”，新的目标是将灾害限制在每百万人中超过 1 人。
+--TN--
+#75:
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit deaths to no more than 1 person per million, Chen said in a news conference.
+陈在新闻发布会上说，国家将“努力减少对人民的灾害危害”，目标是将死亡人数限制在每百万人不超过 1 人。
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit deaths to no more than 1 person per million, Chen said.
+陈说，国家将“努力减少对人民的灾害危害”，其目标是将死亡人数限制在每百万人不超过 1 人。
+--FN--
+#76:
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit deaths to those more than 1 person per million, Chen said in a news conference.
+陈在新闻发布会上说，该国将“努力减少对人民的灾害危害”，其目标是将死亡人数限制在每百万人中超过 1 人。
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit deaths to those more than 1 person per million, Chen said.
+陈说，该国将“努力减少对人民的灾害危害”，并以类似的目标将死亡人数限制在每百万人中超过 1 人。
+--TP--
+#77:
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit people to no more than 1 million per day, Chen said.
+陈说，国家将“努力减少对人民的灾害危害”，目标是每天限制人数不超过100万人。
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit people to no more than 1 million, Chen said.
+陈说，国家将“努力减少对人民的灾害危害”，目标是限制人口不超过100万人。
+--TN--
+#78:
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit people to no more than 1 million per million, Chen said in a news conference.
+陈在新闻发布会上说，国家将“努力减少对人民的灾害危害”，目标是每百万人不超过100万人。
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit people to no more than 1 million per million, Chen said.
+陈说，该国将“努力减少对人民的灾害危害”，并以类似的目标将人口限制在每百万人不超过100万人。
+--TP--
+#79:
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit people to no more than 1 person per million, Chen said in a news conference.
+陈在新闻发布会上说，国家将“努力减少对人民的灾害危害”，其目标是将人口限制在每百万人不超过 1 人。
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit people to no more than 1 person per million, Chen said.
+陈说，国家将“努力减少对人民的灾害危害”，其目标是将人口限制在每百万人不超过 1 人。
+--FN--
+#80:
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit people to no more than 1 year per person, Chen said in a news conference.
+陈在新闻发布会上说，该国将“努力减少对人民的灾害危害”，并以类似的目标将人们限制在每人不超过 1 年。
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit people to no more than 1 year per person, Chen said.
+陈说，该国将“努力减少对人民的灾害危害”，其目标与将人限制在每人不超过一年的类似目标。
+--TN--
+#81:
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit them to no more than 1 year per million, Chen said in a news interview.
+陈在接受新闻采访时说，该国将“努力减少对人民的灾害危害”，并以类似的目标将灾害限制在每百万人中不超过一年。
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit them to no more than 1 year per million, Chen said.
+陈说，该国将“努力减少对人民的灾害危害”，并以类似的目标将灾害限制在每百万人中不超过一年。
+--TN--
+#82:
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit them to no more than 1 year per year, Chen said in her news conference.
+陈在新闻发布会上说，该国将“努力减少对人民的灾害危害”，并有类似的目标，将灾害限制在每年不超过 1 年。
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit them to no more than 1 year per year, Chen said.
+陈说，该国将“努力减少对人民的灾害危害”，其目标类似是将灾害限制在每年不超过 1 年。
+--TN--
+#83:
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit them to those more than 1 person per million, Chen said in a news conference.
+陈在新闻发布会上说，该国将“努力减少对人民的灾害危害”，并以类似的目标将灾害限制在每百万人中超过 1 人。
+The country will "endeavor to reduce disaster hazards to the people" with a similar goal to limit them to those more than 1 person per million, Chen said.
+陈说，该国将“努力减少对人民的灾害危害”，并以类似的目标将灾害限制在每百万人中超过 1 人。
+--TN--
+#84:
+The energy intensity in the country decreased 28.7 percent from 2011 to 2020, one of the fastest reductions, it noted.
+它指出，从 2011 年到 2020 年，该国的能源强度下降了 28.7%，这是下降最快的之一。
+The energy intensity in the country decreased 28.7 percent from 2011 to 2020, one, it noted.
+它指出，从 2011 年到 2020 年，该国的能源强度下降了 28.7%。
+--TN--
+#85:
+The film crew took them to many "amazing sites" and the staff at the resort gave them a lot about how to "incorporate modern character traits while still keeping traditional customs", Bradley said.
+布拉德利说，摄制组带他们去了许多“令人惊叹的景点”，度假村的工作人员向他们介绍了如何“在保留传统习俗的同时融入现代性格特征”。
+The film crew took them to many "amazing sites" and the staff at the resort gave them a lot about how to "incorporate modern character traits, Bradley said.
+布拉德利说，摄制组将他们带到了许多“令人惊叹的地点”，度假村的工作人员向他们介绍了如何“融入现代性格特征”。
+--TP--
+#86:
+The film crew took them to many "amazing sites" and the staff at the studio taught them a lot about how to "incorporate modern Chinese traits while still keeping chinese customs", Bradley said.
+布拉德利说，摄制组带他们去了许多“令人惊叹的地方”，工作室的工作人员教给他们很多关于如何“在保留中国风俗的同时融入现代中国特色”的知识。
+The film crew took them to many "amazing sites" and the staff at the studio taught them a lot about how to "incorporate modern Chinese traits, Bradley said.
+摄制组把他们带到了许多“令人惊叹的地方”，工作室的工作人员教了他们很多关于如何“融入现代中国特色，”布拉德利说。
+--FP--
+--2--
+#87:
+The film crew took them to many "amazing sites" and the staff at the studio taught them a lot about how to "incorporate modern Chinese traits while still keeping traditional customs", Bradley said.
+布拉德利说，摄制组带他们去了许多“令人惊叹的地方”，制片厂的工作人员教了他们很多关于如何“在保留传统习俗的同时融入现代中国特色”的知识。
+The film crew took them to many "amazing sites" and the staff at the studio taught them a lot about how to "incorporate modern Chinese traits, Bradley said.
+摄制组把他们带到了许多“令人惊叹的地方”，工作室的工作人员教了他们很多关于如何“融入现代中国特色，”布拉德利说。
+--FP--
+--2--
+#88:
+The film crew took them to many "filming sites" and the staff at the studio taught them a lot about how to "incorporate modern Chinese traits while still keeping traditional customs", Bradley said.
+布拉德利说，摄制组把他们带到了许多“拍摄地点”，工作室的工作人员教他们很多关于如何“在保留传统习俗的同时融入现代中国特色”。
+The film crew took them to many "filming sites" and the staff at the studio taught them a lot about how to "incorporate modern Chinese traits, Bradley said.
+摄制组把他们带到了许多“拍摄地点”，工作室的工作人员教了他们很多关于如何“融入现代中国特色，”布拉德利说。
+--TN--
+#89:
+The heat wave continued to engulf the continent on Wednesday, with Belgium and parts of Germany forecast to experience even higher temperatures.
+周三，热浪继续席卷欧洲大陆，预计比利时和德国部分地区的气温将更高。
+The heat wave continued to engulf the continent on Wednesday, with Belgium and parts forecast to experience even higher temperatures.
+周三，热浪继续席卷欧洲大陆，预计比利时和部分地区的气温将更高。
+--TN--
+#90:
+The most rigorous control measures must be included in their environmental impact assessment documents if some projects have the potential to directly affect the public with exhaust gas, noise, gas and hazardous waste.
+如果一些项目有可能直接影响公众的废气、噪声、瓦斯和危险废物，则必须将最严格的控制措施纳入其环境影响评价文件。
+The most rigorous control measures must be included in their environmental impact assessment documents if some projects have the potential to directly affect the public.
+如果某些项目有可能直接影响公众，则必须将最严格的控制措施纳入其环境影响评价文件。
+--TN--
+#91:
+The most rigorous control measures must be included in their environmental impact assessment documents if these projects have the potential to directly affect the public with natural gas, noise, wastewater and hazardous waste.
+如果这些项目有可能直接影响公众的天然气、噪声、废水和危险废物，则必须将最严格的控制措施纳入其环境影响评价文件。
+The most rigorous control measures must be included in their environmental impact assessment documents if these projects have the potential to directly affect the public.
+如果这些项目有可能直接影响公众，则必须在其环境影响评估文件中包含最严格的控制措施。
+--TN--
+#92:
+The sight cave shows a array of stalagmites.
+观景洞展示了一系列的石笋。
+The stunning sight cave shows a dramatic array of stalagmites, yellows and reds.
+令人惊叹的景观洞穴展示了一系列引人注目的石笋、黄色和红色。
+--TP--
+#93:
+The two agreed on joint efforts to promote practical cooperation in the field of the economy and industry, and to jointly cope.
+两国同意共同努力，推动经济和产业领域务实合作，共同应对。
+The two agreed on joint efforts to promote practical cooperation in the field of the economy and industry.
+两国同意共同努力，推动经济和产业领域务实合作。
+--TN--
+#94:
+They also called for prioritizing the mobilization of resources necessary for accelerated implementation of the national centers' road maps in line with Africa's New Public Health Order.
+他们还呼吁优先调动必要的资源，以根据非洲的新公共卫生秩序加速实施国家中心的路线图。
+They also called for prioritizing the mobilization of resources necessary for accelerated implementation of the national centers' road maps in line.
+他们还呼吁优先调动必要的资源，以加速实施国家中心的路线图。
+--TN--
+#95:
+While the Respect for Marriage has easily passed the House with a Democratic majority and the senate of 47 Republicans, it is likely to stall in the Senate.
+虽然《尊重婚姻》在民主党占多数的众议院和由 47 名共和党人组成的参议院轻松通过，但它很可能在参议院停滞不前。
+While the Respect for Marriage has easily passed the House with a Democratic majority and the senate of 47 Republicans it is likely to stall in the Senate.
+虽然“尊重婚姻”在民主党占多数的众议院和由 47 名共和党人组成的参议院轻松通过，但它很可能在参议院停滞不前。
+--TN--
+#96:
+While the Respect for justice Act easily passed the House with a Democratic majority and the senate of 47 Republicans, it is likely to stall in the Senate.
+虽然《尊重正义法》在民主党占多数的众议院和 47 名共和党人的参议院中轻松通过，但它很可能在参议院停滞不前。
+While the Respect for justice Act easily passed the House with a Democratic majority and the senate of 47 Republicans it is likely to stall in the Senate.
+虽然《尊重正义法》在民主党占多数的众议院和由 47 名共和党人组成的参议院轻松通过，但它很可能在参议院停滞不前。
+--TN--
+#97:
+While the Respect for life Act easily passed the House with a Democratic vote and the support of 47 Republicans, it is likely to stall in the evenly split Senate.
+虽然《尊重生命法案》在民主党投票和 47 名共和党人的支持下轻松通过了众议院，但它很可能在平分秋色的参议院中停滞不前。
+While the Respect for life Act easily passed the House with a Democratic vote and the support of 47 Republicans, it is likely to stall in the Senate.
+虽然《尊重生命法》在民主党投票和 47 名共和党人的支持下轻松通过了众议院，但它很可能在参议院停滞不前。
+--TN--
+#98:
+Yet after the absence of foreign ships the recovery remains slow.
+然而，在没有外国船只之后，复苏仍然缓慢。
+Yet after the absence the recovery remains slow.
+然而，在缺席之后，复苏仍然缓慢。
+--FP--
+--1--
+#99:
+Zeng said there are now more than 1 million hectares of corn and soybean crops.
+曾说，现在有超过100万公顷的玉米和大豆作物。
+Zeng said there are more than 1 million hectares of corn and soybean crops.
+曾说，玉米和大豆作物超过100万公顷。
+--TN--

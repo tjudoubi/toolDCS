@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f288e58c-8dba-4b70-b0d8-a1715ed429b4" name="Default Changelist" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RKVi46eKdGJs3SJyGdjWq4M0Go" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f288e58c-8dba-4b70-b0d8-a1715ed429b4" name="Default Changelist" comment="" />
+      <created>1686998883516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686998883516</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1686999096903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686999096903</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1686999185729</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686999185729</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1687000360474</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687000360474</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1687113304366">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="345" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1687113304366" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1687000909981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1687000909981" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1687000610772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1687000610772" />
+    <state x="640" y="310" key="Github.ShareDialog" timestamp="1686998922469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="640" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1686998922469" />
+    <state x="452" y="117" key="Github.UntrackedFilesDialog" timestamp="1686998934208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1686998934208" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1686999227764">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1686999227764" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1687000846262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1687000846262" />
+    <state x="470" y="146" key="VcsDiffUtil.ChangesDialog" timestamp="1687000690496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="146" key="VcsDiffUtil.ChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1687000690496" />
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1687000832196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1687000832196" />
+    <state x="555" y="199" key="git4idea.merge.GitMergeDialog" timestamp="1687000826923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="199" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1687000826923" />
+    <state x="480" y="199" key="git4idea.merge.GitPullDialog" timestamp="1687000885886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="480" y="199" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1687000885886" />
+    <state x="568" y="312" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1687000655505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="568" y="312" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1687000655505" />
+  </component>
+</project>

@@ -1,0 +1,600 @@
+#0:
+The situation was complicated by the pandemic.
+局势因疫情而复杂化。
+The situation was complicated by the pandemic, with neither wanting to increase Hamilton's risk of developing coronavirus.
+大流行使情况变得复杂，双方都不想增加汉密尔顿患冠状病毒的风险。
+--TP--
+#1:
+She said the league has made minor adjustments to prioritize safety such as the punt returns, kickoffs and kick returns from the field to limit plays that can often result in penalties.
+她说，联盟已经进行了一些小调整，以优先考虑安全性，例如弃踢回球、开球和场上回球，以限制通常会导致点球的比赛。
+She said the league has made minor adjustments to prioritize safety such as the punt returns, kickoffs and kick returns from the field.
+她说联盟已经做了一些小调整，以优先考虑安全性，例如弃踢返回、开球和从场上返回。
+--N--
+#2:
+The opportunity to earn an invitation to the Masters and stand at that first tee was my dream, and to have it come true in 1975 remains one of the career highlights.
+有机会获得美国大师赛的邀请并站在第一个发球台是我的梦想，而在 1975 年实现它仍然是职业生涯的亮点之一。
+The opportunity to earn an invitation to the Masters and stand at that first tee was my dream, and to have it come true in 1975.
+获得美国大师赛邀请并站在第一个发球台的机会是我的梦想，并在 1975 年实现了它。
+--N--
+#3:
+Players, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff in the game respectively.
+球员、教练员和裁判员获得绿色证书，而黄色和蓝色证书分别提供给比赛中的记者和工作人员。
+Players, coaches and referees are offered green credentials, while yellow and blue credentials are provided to reporters and staff.
+球员、教练员和裁判员获得绿色证书，而黄色和蓝色证书则提供给记者和工作人员。
+--N--
+#4:
+China's Ding Junhui says he cannot see many young players from his country matching his success any time soon.
+中国的丁俊晖说，他在短期内看不到很多来自中国的年轻球员与他的成功相提并论。
+China's Ding Junhui says he cannot see many young players matching his success any time soon.
+中国的丁俊晖说，他不会很快看到很多年轻球员与他的成功相提并论。
+--N--
+#5:
+The cars are incredible, in particular how they're made, and the craftsmanship, the work that goes into them, the technology.
+这些汽车令人难以置信，尤其是它们的制造方式、工艺、投入其中的工作以及技术。
+The cars are incredible, in particular how they're made, and the craftsmanship, the work that goes into them.
+这些汽车令人难以置信，尤其是它们的制造方式、工艺和投入其中的工作。
+--N--
+#6:
+We are starting reasonably small but with the dream of expanding and becoming a much bigger team throughout all esports and not just racing.
+我们的起步相当小，但我们的梦想是在所有电子竞技领域扩大并成为一支更大的团队，而不仅仅是赛车。
+We are starting reasonably small but with the dream of expanding and becoming a much bigger team.
+我们的起步相当小，但我们梦想着扩大并成为一个更大的团队。
+--N--
+#7:
+He found the initial few days were difficult to deal with as people adjusted to their new settings and suffered from jet lag.
+他发现最初的几天很难应付，因为人们适应了新的环境并遭受时差反应。
+He found the initial few days were difficult to deal with as people adjusted to their new settings.
+他发现最初的几天很难应付，因为人们适应了新环境。
+--N--
+#8:
+Unbeaten Chinese fighter Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year on Saturday night.
+不败的中国拳手张志磊在周六晚上为他近一年来的第一场比赛创造了好莱坞的成绩。
+Unbeaten Chinese fighter Zhang Zhilei produced a Hollywood finish for his first fight in nearly a year.
+不败的中国拳手张芷磊近一年来的首场比赛在好莱坞完成了一场比赛。
+--N--
+#9:
+Prior to the COVID-19 pandemic, the event was staged behind closed doors and was an all-domestic field.
+在 COVID-19 大流行之前，该活动是闭门进行的，并且是一个全国内的领域。
+Prior to the COVID-19 pandemic, the event was staged behind closed doors.
+在 COVID-19 大流行之前，该活动是闭门举行的。
+--N--
+#10:
+The cars are incredible, in watching how they are made, watching the craftsmanship, the energy that goes into them.
+这些汽车令人难以置信，看着它们是如何制造的，看着工艺，看着它们注入的能量。
+The cars are incredible, in watching how they are made, watching the craftsmanship.
+这些汽车令人难以置信，看着它们是如何制造的，看着工艺。
+--FN--
+#11:
+The cars are incredible, in particular how they're made, and the craftsmanship, the power that goes into them, the technology, the design.
+这些汽车令人难以置信，尤其是它们的制造方式、工艺、融入其中的力量、技术和设计。
+The cars are incredible, in particular how they're made, and the craftsmanship, the power that goes into them, the technology.
+这些汽车令人难以置信，尤其是它们的制造方式、工艺、融入其中的力量、技术。
+--N--
+#12:
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career at the ATP level, but did not participate.
+丹尼尔·梅德韦杰夫刚刚获得了职业生涯最大的冠军头衔，ATP级别的职业生涯最好的胜利，但没有参加。
+Daniil Medvedev had just won the biggest title of his career, the best victory of his career at the ATP level.
+丹尼尔·梅德韦杰夫刚刚赢得了他职业生涯中最大的冠军头衔，也是他职业生涯在 ATP 级别的最佳胜利。
+--N--
+#13:
+Balancing a career in professional sports with being a social media sensation is a tightrope to wal.
+在职业体育事业与成为社交媒体轰动之间取得平衡是一条走钢丝。
+Balancing a career in professional sports with being a social media sensation is a tightrope.
+平衡职业体育事业与成为社交媒体轰动是一条钢丝。
+--N--
+#14:
+He performed really well in the past camp, so that is a surprise but we have got strength in him.
+他在过去的训练营中表现非常好，所以这是一个惊喜，但我们在他身上得到了力量。
+He performed really well in the past camp, so that is a surprise.
+他在过去的训练营中表现得非常好，所以这是一个惊喜。
+--N--
+#15:
+We were greatly appreciative toward the city for giving us such a high honor and to be able to receive something like that in another city for us is a monument to a hero.
+我们非常感谢这座城市给予我们如此崇高的荣誉，能够在另一个城市获得这样的荣誉对我们来说是英雄的纪念碑。
+We were greatly appreciative toward the city for giving us such a high honor and to be able to receive something like that in another city.
+我们非常感谢这座城市给了我们如此高的荣誉，并且能够在另一个城市获得这样的荣誉。
+--N--
+#16:
+People cannot conduct any close contact.
+人们不能进行任何密切接触。
+People in the green zone cannot conduct any close contact.
+绿区人员不能进行任何近距离接触。
+--FN--
+#17:
+Players and coaches were confined to four walls for the entirety of the quarantine, only opening the front door to collect food, get treatment for the virus and dispose of rubbish.
+在整个隔离期间，球员和教练被限制在四堵墙内，只打开前门收集食物、接受病毒治疗和处理垃圾。
+Players and coaches were confined to four walls for the entirety of the quarantine, only opening the front door to collect food, get treatment for the virus.
+在整个隔离期间，球员和教练被限制在四堵墙内，只打开前门收集食物，接受病毒治疗。
+--N--
+#18:
+Despite monetary success and awards, Black quarterbacks, they still face an uphill battle against prejudice.
+尽管获得了金钱上的成功和奖励，黑人四分卫仍然面临着与偏见的艰苦斗争。
+Despite monetary success and awards, they still face an uphill battle against prejudice.
+尽管获得了金钱上的成功和奖励，他们仍然面临着与偏见的艰苦斗争。
+--N--
+#19:
+I am deeply honored to share a connection with Paine College and these people, which will provide great opportunities for the deserving students.
+我非常荣幸能与 Paine College 和这些人分享联系，这将为优秀的学生提供绝佳的机会。
+I am deeply honored to share a connection with Paine College and these people, which will provide great opportunities.
+我很荣幸能与潘恩学院和这些人分享联系，这将提供很好的机会。
+--N--
+#20:
+Cesc Fabregas is well known for his technical ability and eye for a pass but the Spanish rising star has turned his attention to a very specific part of the game.
+法布雷加斯以其技术能力和传球眼光而闻名，但这位西班牙后起之秀已经将注意力转向了比赛的一个非常具体的部分。
+Cesc Fabregas is well known for his technical ability and eye for a pass but the Spanish rising star has turned his attention.
+法布雷加斯以其技术能力和传球眼光而闻名，但这位西班牙后起之秀已经转移了他的注意力。
+--N--
+#21:
+However, despite missing the usual cheers of fans from the stands, the Chinese skaters were buoyed to compete in their first proper competition this year and get a better view of how their preparations for the 2022 Winter Olympics are progressing.
+然而，尽管错过了看台上球迷们通常的欢呼声，但中国花滑选手们还是有幸参加了他们今年的第一次正式比赛，并更好地了解了他们为 2022 年冬奥会所做的准备工作的进展情况。
+However, despite missing the usual cheers of fans from the stands, the Chinese skaters were buoyed to compete in their first proper competition this year.
+然而，尽管错过了看台上球迷们通常的欢呼声，但中国滑手们还是被鼓舞着参加了他们今年的第一次正式比赛。
+--N--
+#22:
+Athletes, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff in the field respectively.
+运动员、教练员和裁判员获得绿色证书，而记者和现场工作人员分别获得金色和蓝色证书。
+Athletes, coaches and referees are offered green credentials, while gold and blue credentials are provided to reporters and staff.
+运动员、教练员和裁判员获得绿色证书，而记者和工作人员则获得金色和蓝色证书。
+--N--
+#23:
+His stunning routines, especially for his long solos performed to House of the Rising Sun, earned rave reviews from fans online and proved his hard work this season has not been in vain.
+他惊人的套路，尤其是他在旭日之家的长时间独奏，在网上赢得了粉丝的好评，证明了他本赛季的努力并没有白费。
+His stunning routines, especially for his long solos performed to House of the Rising Sun, earned rave reviews from fans online and proved his hard work.
+他令人惊叹的套路，尤其是他为旭日之家表演的长时间独奏，在网上赢得了粉丝的好评，证明了他的努力。
+--FP--
+#24:
+His stunning routines, noted for his long program performed to House of the Rising Sun, earned rave reviews from fans online and proved his best work this year has not been in vain.
+他令人惊叹的套路，以他在旭日之家的长节目而闻名，在网上赢得了粉丝的好评，证明了他今年最好的作品并没有白费。
+His stunning routines, noted for his long program performed to House of the Rising Sun, earned rave reviews from fans online and proved his best work.
+他令人惊叹的套路，以他在旭日之家演出的长节目而闻名，在网上赢得了粉丝的好评，并证明了他的最佳作品。
+--FP--
+#25:
+Despite monetary rewards and awards, as quarterbacks, past and present, together they still face an uphill battle against prejudice, especially when entering the game.
+尽管有金钱奖励和奖励，作为四分卫，过去和现在，他们仍然共同面临着与偏见的艰苦战斗，尤其是在进入比赛时。
+Despite monetary rewards and awards, as quarterbacks, past and present, together they still face an uphill battle against prejudice.
+尽管有金钱奖励和奖励，作为四分卫，过去和现在，他们仍然共同面临着与偏见的艰苦战斗。
+--N--
+#26:
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in over a year on Saturday night.
+不败的中国重量级重量级人物张芷蕾在周六晚上为他一年多来的第一场比赛创造了好莱坞的成绩。
+Unbeaten Chinese heavyweight Zhang Zhilei produced a Hollywood finish for his first fight in over a year.
+不败的中国重量级重量级人物张芷蕾为他一年多来的第一场比赛创造了好莱坞的结局。
+--FP--
+#27:
+I was really looking forward to competing this week but will do everything I can to go as quickly as possible.
+我真的很期待这周的比赛，但我会尽我所能尽快参加比赛。
+I was really looking forward to competing this week but will do everything I can to go as quickly.
+我真的很期待这周的比赛，但我会尽我所能尽快参加比赛。
+--N--
+#28:
+Head coach Zhao Hongbo on Saturday told Xinhua that the team has been training continuously since March despite it being canceled in the first half of the year due to the war.
+周六，主教练赵洪波告诉新华社记者，尽管上半年因战事取消，球队自3月以来一直在持续训练。
+Head coach Zhao Hongbo on Saturday told Xinhua that the team has been training continuously since March despite it being canceled in the first half of the year.
+主教练赵洪波周六告诉新华社，尽管上半年取消了训练，但球队自3月份以来一直在继续训练。
+--N--
+#29:
+Despite the success and awards, for quarterbacks, past and present, and they still face an uphill battle against prejudice, especially when entering the game.
+尽管取得了成功和奖项，对于四分卫来说，过去和现在，他们仍然面临着与偏见的艰苦斗争，尤其是在进入比赛时。
+Despite the success and awards, for quarterbacks, past and present, and they still face an uphill battle against prejudice.
+尽管取得了成功和奖项，对于四分卫来说，过去和现在，他们仍然面临着与偏见的艰苦斗争。
+--N--
+#30:
+Organizers had equipped them with an exercise bike, a writing desk, a rocking chair, and a computer to assist with practice and preparation.
+组织者为他们配备了健身车、写字台、摇椅和电脑，以协助练习和准备。
+Organizers had equipped them with an exercise bike, a writing desk, a rocking chair, and a computer.
+组织者为他们配备了健身车、写字台、摇椅和电脑。
+--N--
+#31:
+But now she is stuck in her home city, alone with her parents and wondering whether she will ever play basketball professionally again.
+但现在她被困在她的家乡，独自和父母在一起，想知道她是否会再次打职业篮球。
+But now she is stuck in her home city, alone with her parents.
+但现在她被困在家乡，独自和父母在一起。
+--N--
+#32:
+The launch of the national competition this summer was postponed by a month because of the coronavirus pandemic.
+由于冠状病毒大流行，今年夏天的全国比赛的启动被推迟了一个月。
+The launch of the national competition this summer was postponed by a month.
+今年夏天全国比赛的启动推迟了一个月。
+--N--
+#33:
+The biggest challenge is to get used to the intensity.
+最大的挑战是适应强度。
+The biggest challenge is to get used to the intensity, pace and physicality in each of the professional league.
+最大的挑战是适应每个职业联赛的强度、速度和身体素质。
+--N--
+#34:
+Perez can be anonymous some weekends, but then he can produce these fine drives that come out of nowhere, to be best of the best or to snatch a podium, which he has done so many times.
+佩雷斯在某些周末可能是匿名的，但随后他可以制作出这些不知从何而来的精美驱动器，成为最好的或抢夺领奖台，他已经做过很多次了。
+Perez can be anonymous some weekends, but then he can produce these fine drives that come out of nowhere, to be best of the best or to snatch a podium.
+佩雷斯在某些周末可能是匿名的，但随后他可以制作出这些不知从何而来的精美驱动器，成为最好的或抢夺领奖台。
+--N--
+#35:
+The lockdown accelerated things.
+封锁加速了事情的发展。
+The lockdown accelerated things because I was doing a little more streaming online.
+锁定加速了事情，因为我在网上做更多的流媒体。
+--FN--
+#36:
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP Finals, but did not participate.
+丹尼尔·梅德韦杰夫刚刚在ATP总决赛上赢得了他职业生涯中最大的冠军，他一生中最好的冠军，但没有参加。
+Daniil Medvedev had just won the biggest title of his career, the best title of his life at the ATP Finals.
+丹尼尔·梅德韦杰夫刚刚在 ATP 总决赛上赢得了他职业生涯中最大的冠军头衔，也是他一生中最好的冠军头衔。
+--FN--
+#37:
+On that day, defending champions Mumbai were comfortable winners, securing a guaranteed passage to the final and qualifying Delhi to a second-chance meeting with Sunrisers.
+那天，卫冕冠军孟买轻松获胜，确保有机会进入决赛，并让德里获得第二次机会与 Sunrisers 会面。
+On that day, defending champions Mumbai were comfortable winners, securing a guaranteed passage to the final.
+那天，卫冕冠军孟买轻松获胜，确保有机会进入决赛。
+--N--
+#38:
+The cars are incredible, in watching how they are made, watching the craftsmanship, the work that comes into them, the technology.
+这些汽车令人难以置信，在观察它们的制造过程、工艺、投入其中的工作以及技术方面。
+The cars are incredible, in watching how they are made, watching the craftsmanship, the work that comes into them.
+这些汽车令人难以置信，在观察它们是如何制造的、观察工艺和投入其中的工作时。
+--FN--
+#39:
+We are starting reasonably small but with the dream of expanding and building a much bigger team throughout all esports and not just gaming, he added.
+他补充说，我们的起步相当小，但我们的梦想是在所有电子竞技领域扩大和建立一支更大的团队，而不仅仅是游戏。
+We are starting reasonably small but with the dream of expanding and building a much bigger team throughout all esports and not just gaming.
+我们的起步相当小，但我们的梦想是在所有电子竞技领域扩大和建立一支更大的团队，而不仅仅是游戏。
+--N--
+#40:
+There will not be many more positives to take from this sorry spectacle.
+从这个令人遗憾的景象中不会有更多的积极因素。
+There will not be many more positives to take from this sorry spectacle although victory was shared with so many young players involved with internationals away with Wales.
+这场令人遗憾的场面不会有更多的积极因素，尽管胜利是与众多与威尔士队一起参加国际比赛的年轻球员分享的。
+--N--
+#41:
+I put in a lot for this race and to have it all come together and have the time of my life.
+我为这场比赛付出了很多，让这一切融合在一起，度过了我一生中的时光。
+I put in a lot for this race and to have it all come together.
+我为这场比赛付出了很多，并将一切融合在一起。
+--N--
+#42:
+When I was with other leg-spinners a few years ago, i would never dream that maybe in the future I will be someone else's role model.
+几年前，当我和其他腿部旋转器在一起时，我做梦也想不到，也许将来我会成为别人的榜样。
+When I was with other leg-spinners a few years ago, i would never dream that I will be someone else's role model.
+几年前我和其他健身爱好者在一起的时候，我做梦也想不到自己会成为别人的榜样。
+--FP--
+#43:
+The days were really, really odd because your sleep pattern is messed up and you're out of contact with people.
+日子真的很奇怪，因为你的睡眠模式被搞砸了，而且你与人失去了联系。
+The days were really, really odd because your sleep pattern is messed up.
+日子真的很奇怪，因为你的睡眠模式搞砸了。
+--N--
+#44:
+He performed really well in the past camp, so that is a blow but we have the strength in depth.
+他在过去的训练营中表现非常好，所以这是一个打击，但我们有深度的力量。
+He performed really well in the past camp, so that is a blow.
+他在过去的训练营中表现得非常好，所以这是一个打击。
+--N--
+#45:
+Despite their success and awards, as quarterbacks, past and present, say they still face an uphill battle against prejudice.
+尽管他们取得了成功和奖项，但作为过去和现在的四分卫，他们表示他们仍然面临着与偏见的艰苦斗争。
+Despite their success and awards, as quarterbacks, past and present, they still face an uphill battle against prejudice.
+尽管他们的成功和奖项，作为四分卫，过去和现在，他们仍然面临着与偏见的艰苦战斗。
+--FN--
+#46:
+Despite monetary success and success, Black quarterbacks, past and present, know they still face an uphill battle against prejudice, especially when entering the league.
+尽管金钱上的成功和成功，过去和现在的黑人四分卫都知道他们仍然面临着与偏见的艰苦斗争，尤其是在进入联盟时。
+Despite monetary success and success, Black quarterbacks, past and present, know they still face an uphill battle against prejudice.
+尽管金钱上的成功和成功，过去和现在的黑人四分卫都知道他们仍然面临着与偏见的艰苦斗争。
+--N--
+#47:
+He said the initial few days were difficult to deal with as players adapted to their new settings and suffered from time lag.
+他说最初的几天很难处理，因为球员适应了他们的新环境并受到时间滞后的影响。
+He said the initial few days were difficult to deal with as players adapted to their new settings.
+他说最初的几天很难应付，因为球员适应了他们的新环境。
+--N--
+#48:
+The cars are incredible, in watching how they're done, watching the craftsmanship, the work that goes into them, the technology, the team.
+这些汽车令人难以置信，看着它们是如何完成的，看着它们的工艺、投入其中的工作、技术、团队。
+The cars are incredible, in watching how they're done, watching the craftsmanship, the work that goes into them, the technology.
+这些汽车令人难以置信，看着它们是如何完成的，看着它们的工艺，投入其中的工作，技术。
+--FN--
+#49:
+The Champions League returns after a long break as we reach the business stage of the group stages.
+随着我们进入小组赛的商业阶段，冠军联赛在经过长时间的休息后回归。
+The Champions League returns after a long break.
+冠军联赛在长时间的休息后回归。
+--N--
+#50:
+I was really looking forward to competing this week.
+我真的很期待这周的比赛。
+I was really looking forward to competing this week but will do all I can to return as quickly.
+我真的很期待这周的比赛，但我会尽我所能尽快回来。
+--N--
+#51:
+When I was the other leg-spinners a few years back, I would always dream that I will be someone else's role model.
+几年前，当我还是其他腿部旋转器时，我一直梦想自己会成为别人的榜样。
+When I was the other leg-spinners a few years back, I will be someone else's role model.
+几年前，当我是其他腿部旋转器时，我将成为别人的榜样。
+--FN--
+#52:
+The cars are incredible, in particular how they're made, and the craftsmanship, the work that comes into them, the technology, the team.
+这些汽车令人难以置信，尤其是它们的制造方式、工艺、投入其中的工作、技术、团队。
+The cars are incredible, in particular how they're made, and the craftsmanship, the work that comes into them, the technology.
+这些汽车令人难以置信，尤其是它们的制造方式、工艺、投入其中的工作以及技术。
+--FN--
+#53:
+For our part, for our fans and for everyone involved in table games, today is the day that gets our sport back.
+对于我们来说，对于我们的粉丝和参与桌面游戏的每个人来说，今天是让我们的运动回归的日子。
+For our part, for our fans, today is the day that gets our sport back.
+对于我们来说，对于我们的球迷来说，今天是让我们的运动回归的日子。
+--N--
+#54:
+I guess the dancing and music classes he took recently have really given him a better understanding.
+我想他最近上的舞蹈和音乐课确实让他有了更好的理解。
+I guess the dancing classes he took recently have really given him a better understanding.
+我想他最近上的舞蹈课确实让他有了更好的理解。
+--N--
+#55:
+We fought an excellent first half with good execution and defense, but we had to enlarge the advantage during the rest of the time and made a few turnovers before the end, which raised the bells for us.
+上半场我们打出了出色的执行力和防守，但我们不得不在剩下的时间里扩大优势，并在结束前犯了一些失误，这为我们敲响了警钟。
+We fought an excellent first half with good execution and defense, but we had to enlarge the advantage during the rest of the time and made a few turnovers before the end.
+上半场我们打得非常出色，执行力和防守都不错，但在剩下的时间里，我们不得不扩大优势，在比赛结束前出现了几次失误。
+--TP--
+#56:
+The cars are incredible, in watching how they were made, watching the craftsmanship, the energy that goes into them, the technology.
+这些汽车令人难以置信，在观察它们的制造过程、工艺、注入它们的能量和技术方面。
+The cars are incredible, in watching how they were made, watching the craftsmanship, the energy that goes into them.
+这些汽车令人难以置信，看着它们是如何制造的，看着工艺，看着它们注入的能量。
+--FP--
+#57:
+He said the initial few days were difficult to deal with as players adjusted to their current settings and suffered from time lag.
+他说最初的几天很难应付，因为球员们适应了他们目前的设置并且受到时间滞后的影响。
+He said the initial few days were difficult to deal with as players adjusted to their current settings.
+他说最初的几天很难处理，因为球员们已经适应了他们目前的设置。
+--N--
+#58:
+We just carry on and focus on the next game, the next competition and that's what we're doing.
+我们只是继续并专注于下一场比赛，下一场比赛，这就是我们正在做的事情。
+We just carry on and focus on the next game, the next competition.
+我们只是继续并专注于下一场比赛，下一场比赛。
+--N--
+#59:
+Perez can be anonymous some weekends, but then he can produce these fine drives that come out of nowhere, to be best of the rest or even snatch a podium, which he has done so many times in his machinery.
+佩雷斯在某些周末可能是匿名的，但随后他可以制造出这些不知从何而来的精美驱动器，成为其他人中的佼佼者，甚至抢夺领奖台，他在他的机器上做了很多次。
+Perez can be anonymous some weekends, but then he can produce these fine drives that come out of nowhere, to be best of the rest or even snatch a podium, which he has done so many times.
+佩雷斯在某些周末可能是匿名的，但随后他可以制作出这些不知从何而来的精美驱动器，成为其他人中的佼佼者，甚至抢夺领奖台，他已经做过很多次了。
+--N--
+#60:
+I think the dancing and singing classes he took recently have really given him a better understanding of music and facial expression.
+我认为他最近参加的舞蹈和唱歌课程确实让他对音乐和面部表情有了更好的理解。
+I think the dancing and singing classes he took recently have really given him a better understanding.
+我觉得他最近上的歌舞课真的让他有了更深入的了解。
+--N--
+#61:
+On that day, defending champions Mumbai were comfortable winners, securing a automatic passage to the final and sending Delhi to a final meeting with Sunrisers.
+那天，卫冕冠军孟买轻松获胜，确保自动进入决赛，并将德里送入与日出者队的决赛。
+On that day, defending champions Mumbai were comfortable winners, securing a automatic passage to the final.
+那天，卫冕冠军孟买轻松获胜，自动晋级决赛。
+--N--
+#62:
+Those are the things that he brings and trying to negate that is difficult because he is a very resilient character who will continue to bring that regardless of how the game's going for them.
+这些是他带来并试图否定的东西是很困难的，因为他是一个非常有韧性的角色，无论游戏如何进行，他都会继续带来这些。
+Those are the things that he brings and trying to negate that is difficult because he is a very resilient character who will continue to bring that regardless of how the game's going.
+这些是他带来并试图否定的东西是困难的，因为他是一个非常有韧性的角色，无论比赛如何进行，他都会继续带来这些。
+--N--
+#63:
+When I was the other leg-spinners a few years back, i would never dream that sometime in the future I will be someone else's role model.
+几年前，当我还是其他腿部旋转器时，我永远不会梦想在未来的某个时候，我会成为别人的榜样。
+When I was the other leg-spinners a few years back, i would never dream that I will be someone else's role model.
+几年前，当我还是其他腿部旋转器时，我做梦也不会想到自己会成为别人的榜样。
+--FP--
+#64:
+To his frustration, they talked about Patrick Mahomes' arm rather than his decision making as if brawn somehow was more than brain.
+令他沮丧的是，他们谈论的是帕特里克·马霍姆斯的手臂，而不是他的决策，好像肌肉不知何故不仅仅是大脑。
+To his frustration, they talked about Patrick Mahomes' arm rather than his decision.
+令他沮丧的是，他们谈论的是帕特里克·马霍姆斯的手臂，而不是他的决定。
+--N--
+#65:
+I really just had to self-motivate a lot out there because it was a lonely, very quiet run without me.
+我真的只需要在外面进行很多自我激励，因为没有我，这是一次孤独、非常安静的跑步。
+I really just had to self-motivate a lot out there because it was a lonely, very quiet run.
+我真的只需要自我激励很多，因为那是一次孤独、非常安静的跑步。
+--N--
+#66:
+The days were really, really odd because your sleep schedule is screwed up and you're out of contact with everyone else.
+这几天真的很奇怪，因为你的睡眠时间被搞砸了，而且你和其他人失去了联系。
+The days were really, really odd because your sleep schedule is screwed up and you're out of contact with everyone.
+这几天真的很奇怪，因为你的睡眠时间被搞砸了，而且你和每个人都失去了联系。
+--N--
+#67:
+Organizers had equipped them with an exercise bike, a small desk, a folding chair, and a computer to help with training and preparation.
+组织者为他们配备了一辆健身车、一张小桌子、一把折叠椅和一台电脑，以帮助他们进行训练和准备。
+Organizers had equipped them with an exercise bike, a small desk, a folding chair, and a computer.
+组织者为他们配备了一辆健身车、一张小桌子、一把折叠椅和一台电脑。
+--N--
+#68:
+Despite monetary rewards and awards, and quarterbacks, past and present, say they still face an uphill battle against prejudice, even when entering the league.
+尽管有金钱奖励和奖励，过去和现在的四分卫都表示，即使进入联盟，他们仍然面临着与偏见的艰苦斗争。
+Despite monetary rewards and awards, and quarterbacks, past and present, say they still face an uphill battle against prejudice.
+尽管有金钱奖励和奖励，过去和现在的四分卫都表示，他们仍然面临着与偏见的艰苦斗争。
+--N--
+#69:
+Saudi Arabia has rejected criticism.
+沙特阿拉伯拒绝批评。
+Saudi Arabia has rejected criticism after it was confirmed it would host its own Formula 1 race.
+沙特阿拉伯在确认将举办自己的一级方程式比赛后拒绝了批评。
+--FN--
+#70:
+Organizers had equipped them with an exercise bike, a small desk, a gaming table.
+组织者用锻炼骑自行车，一张小桌，游戏桌。
+Organizers had equipped them with an exercise bike, a small desk.
+组织者为他们配备了一辆健身车和一张小桌子。
+--TP--
+#71:
+Players and coaches were confined to four walls for the entirety of the quarantine, only opening the back door to collect food, get treatment for the virus and dispose of rubbish.
+在整个隔离期间，球员和教练被限制在四堵墙内，只有打开后门才能收集食物、接受病毒治疗和处理垃圾。
+Players and coaches were confined to four walls for the entirety of the quarantine, only opening the back door to collect food, get treatment for the virus.
+在整个隔离期间，球员和教练被限制在四堵墙内，只打开后门收集食物，接受病毒治疗。
+--N--
+#72:
+The cars are incredible, in particular how they're made, and the craftsmanship, the work that comes into them, the technology, the design.
+这些汽车令人难以置信，尤其是它们的制造方式、工艺、投入其中的工作、技术和设计。
+The cars are incredible, in particular how they're made, and the craftsmanship, the work that comes into them, the technology.
+这些汽车令人难以置信，尤其是它们的制造方式、工艺、投入其中的工作以及技术。
+--N--
+#73:
+When I was with other leg-spinners a few years ago, i would never dream that I will be someone else's role model.
+几年前我和其他健身爱好者在一起的时候，我做梦也想不到自己会成为别人的榜样。
+When I was with other leg-spinners a few years ago, I will be someone else's role model.
+几年前我和其他腿部旋转器在一起时，我会成为别人的榜样。
+--FP--
+#74:
+He said the initial few days were difficult to deal with as players adjust to their new settings.
+他说最初的几天很难应付，因为玩家要适应他们的新环境。
+He said the initial few days were difficult to deal with.
+他说最初的几天很难应付。
+--N--
+#75:
+Other videos on social media show Bolt dancing with dozens of people, the majority of whom were not wearing makeup and were not in social distancing.
+社交媒体上的其他视频显示，博尔特与数十人共舞，其中大多数人没有化妆，也没有保持社交距离。
+Other videos on social media show Bolt dancing with dozens of people, the majority of whom were not wearing makeup.
+社交媒体上的其他视频显示，博尔特与数十人共舞，其中大多数人没有化妆。
+--N--
+#76:
+The low prize money on offer at smaller tournaments and traveling costs mean players often live hand to mouth.
+小型锦标赛提供的低奖金和旅行费用意味着玩家经常只能勉强糊口。
+The low prize money on offer at smaller tournaments mean players often live hand to mouth.
+小型锦标赛提供的低奖金意味着玩家经常只能勉强糊口。
+--N--
+#77:
+Despite monetary success and success, Black quarterbacks, past and present, and they still face an uphill battle against prejudice, especially when in the league.
+尽管金钱上的成功和成功，过去和现在的黑人四分卫，他们仍然面临着与偏见的艰苦斗争，尤其是在联盟中。
+Despite monetary success and success, Black quarterbacks, past and present, and they still face an uphill battle against prejudice.
+尽管金钱上的成功和成功，过去和现在的黑人四分卫，他们仍然面临着与偏见的艰苦斗争。
+--N--
+#78:
+However, despite missing the usual round of approval from the stands, the Chinese skaters were buoyed to compete in their first proper competition this year and get a better understanding of how their preparations for the 2022 Winter Olympics are progressing.
+然而，尽管错过了通常的看台批准，中国滑手们还是有幸参加了今年的第一次正式比赛，并更好地了解了他们为 2022 年冬奥会准备的进展情况。
+However, despite missing the usual round of approval from the stands, the Chinese skaters were buoyed to compete in their first proper competition this year.
+然而，尽管错过了通常的看台批准，中国滑手们还是被鼓舞着参加了他们今年的第一场正式比赛。
+--TP--
+#79:
+Organizers had equipped them with an exercise bike, a small desk, a gaming console, and a computer to help with practice and practice.
+组织者用锻炼自行车，小桌，游戏控制台和电脑配备了它们，以帮助练习和实践。
+Organizers had equipped them with an exercise bike, a small desk, a gaming console, and a computer.
+组织者用健身自行车，小桌，游戏控制台和电脑配备了它们。
+--FP--
+#80:
+Li said that he will work hard to make sailing more exciting, easier to participate and to be a showcase of human power combined with the power of nature.
+李说，他将努力让帆船运动更精彩，更容易参与，成为人类力量与自然力量相结合的展示。
+Li said that he will work hard to make sailing more exciting, easier to participate and to be a showcase of human power.
+李说，他会努力让帆船运动更精彩，更容易参与，成为人类力量的展示。
+--N--
+#81:
+In the quest to deal with the challenges of the pandemic while also getting his performances on track, Hamilton has been trying new things.
+为了应对大流行的挑战，同时让自己的表现走上正轨，汉密尔顿一直在尝试新事物。
+In the quest to deal with the challenges of the pandemic, Hamilton has been trying new things.
+为了应对大流行的挑战，汉密尔顿一直在尝试新事物。
+--N--
+#82:
+Zhang swarmed him with a series of lefts to the head.
+张向他的头顶一连串的左手包围了他。
+In the fourth round, Zhang swarmed him with a series of lefts to the head.
+第四回合，张某向他的头顶一连串左路围攻。
+--N--
+#83:
+With the tournament being scheduled to begin on January 18, that would leave players very little time after being confined to a hotel room for two weeks.
+由于比赛计划于 1 月 18 日开始，球员们在被限制在酒店房间两周后几乎没有时间。
+With the tournament being scheduled to begin on January 18, that would leave players very little time.
+比赛定于 1 月 18 日开始，这将留给球员的时间很少。
+--TP--
+#84:
+I put in a lot for this race.
+我为这场比赛付出了很多。
+I put in a lot for this race and to have it all put together.
+我为这场比赛付出了很多，并将它们放在一起。
+--N--
+#85:
+The low prize money on offer at these events and traveling tournaments mean players in the top 100 often live hand to mouth.
+在这些赛事和巡回锦标赛中提供的低奖金意味着前 100 名的玩家经常面对面交锋。
+The low prize money on offer at these events and traveling tournaments mean players often live hand to mouth.
+在这些赛事和巡回锦标赛中提供的低奖金意味着玩家经常只能靠嘴吃饭。
+--FP--
+#86:
+He found the initial few days were difficult to deal with as players adjusted to their new settings and suffered from jet lag.
+他发现最初的几天很难应付，因为球员们适应了新的设置并受到时差的影响。
+He found the initial few days were difficult to deal with as players adjusted to their new settings.
+他发现最初的几天很难处理，因为玩家要适应新的设置。
+--TP--
+#87:
+Players and coaches were confined to four walls for the entirety of the quarantine, only opening the room door to collect food, get treatment for the virus and disposal of rubbish.
+在整个隔离期间，球员和教练都被限制在四堵墙内，只有打开房间门来收集食物、接受病毒治疗和处理垃圾。
+Players and coaches were confined to four walls for the entirety of the quarantine, only opening the room door to collect food, get treatment for the virus.
+在整个隔离期间，球员和教练都被限制在四堵墙内，只打开房间门收集食物，接受病毒治疗。
+--N--
+#88:
+The cars are incredible, in watching how they are made, watching the craftsmanship, the power that goes into them, the power, the team.
+这些汽车令人难以置信，看着它们是如何制造的，看着工艺，进入它们的力量，力量，团队。
+The cars are incredible, in watching how they are made, watching the craftsmanship, the power that goes into them, the power.
+这些汽车令人难以置信，看着它们是如何制造的，看着工艺，它们的力量，力量。
+--FN--
+#89:
+Li says that he will work hard to make sailing more exciting, easier to participate and to become a showcase of human power combined with the energy of nature.
+李说，他将努力让帆船运动更精彩，更容易参与，成为人类力量与自然能量相结合的展示。
+Li says that he will work hard to make sailing more exciting, easier to participate and to become a showcase of human power.
+李说，他会努力让帆船运动更精彩，更容易参与，成为人类力量的展示。
+--N--
+#90:
+Perez can be anonymous some weekends, but then he can produce these fine drives that come out of nowhere, to be part of the rest or to snatch a podium.
+佩雷斯在某些周末可能是匿名的，但随后他可以制作出这些不知从何而来的精美驱动器，成为其余部分的一部分或抢夺领奖台。
+Perez can be anonymous some weekends, but then he can produce these fine drives that come out of nowhere, to be part of the rest.
+佩雷斯在某些周末可能是匿名的，但随后他可以制作这些不知从何而来的精美驱动器，成为其余部分的一部分。
+--N--
+#91:
+With all the group and previous group matches played behind closed door, tickets for the final were in very hot demand.
+由于所有小组赛和之前的小组赛都是空场进行，决赛的门票需求非常旺盛。
+With all the group and previous group matches played behind closed door, tickets for the final were in hot demand.
+由于所有小组赛和之前的小组赛都是空场进行，因此决赛门票需求旺盛。
+--N--
+#92:
+The low prize money on offer at smaller events and traveling costs mean players often live hand to mouth.
+小型赛事提供的低奖金和旅行费用意味着玩家经常只能勉强糊口。
+The low prize money on offer at smaller events mean players often live hand to mouth.
+在小型赛事中提供的低奖金意味着玩家经常只能靠嘴吃饭。
+--FN--
+#93:
+In the struggle to deal with the challenges of the pandemic while also improving his performances on track, Hamilton has been trying new things.
+在努力应对大流行的挑战，同时也在提高自己在赛道上的表现的过程中，汉密尔顿一直在尝试新事物。
+In the struggle to deal with the challenges of the pandemic, Hamilton has been trying new things.
+在应对大流行挑战的斗争中，汉密尔顿一直在尝试新事物。
+--N--
+#94:
+I've played great this week and it was really hard to hold the emotions all the way to the end, but I'm really happy the way it played out, and the way it played too.
+这周我打得很好，很难一直保持情绪到最后，但我真的很高兴它的表现方式，以及它的表现方式。
+I've played great this week and it was really hard to hold the emotions all the way to the end, but I'm really happy the way it played out.
+这周我打得很好，很难一直保持情绪到最后，但我真的很高兴它的表现方式。
+--N--
+#95:
+The cars are incredible, in watching how they're made, watching the craftsmanship, the work that comes into them, the technology, the team.
+这些汽车令人难以置信，在观察它们的制造方式、工艺、投入其中的工作、技术、团队方面。
+The cars are incredible, in watching how they're made, watching the craftsmanship, the work that comes into them, the technology.
+这些汽车令人难以置信，在观察它们是如何制造的、观察工艺、进入它们的工作、技术方面。
+--FN--
+#96:
+The cars are incredible, in watching how they're made, watching the craftsmanship, the energy that goes into them, the power, the team.
+这些汽车令人难以置信，看着它们是如何制造的，看着它们的工艺，注入它们的能量，力量，团队。
+The cars are incredible, in watching how they're made, watching the craftsmanship, the energy that goes into them, the power.
+这些汽车令人难以置信，看着它们是如何制造的，看着工艺，进入它们的能量，力量。
+--FN--
+#97:
+I've played great this week and it was really hard to hold the emotions all the way to the end, but I'm so happy the way it played out, and the way I felt too.
+这周我打得很好，很难一直保持情绪到最后，但我很高兴它的表现方式，以及我的感受。
+I've played great this week and it was really hard to hold the emotions all the way to the end, but I'm so happy the way it played out.
+这周我打得很好，很难一直保持情绪到最后，但我很高兴它的表现方式。
+--N--
+#98:
+We fought an excellent first half with good execution and defense, but we failed to gain the advantage during the rest of the game and made a few errors before the buzzer, which raised the bells for us.
+上半场我们打出了出色的执行力和防守，但在接下来的比赛中我们未能获得优势，并且在压哨前犯了一些错误，这为我们敲响了警钟。
+We fought an excellent first half with good execution and defense, but we failed to gain the advantage during the rest of the game and made a few errors before the buzzer.
+上半场我们打出了出色的执行力和防守，但在接下来的比赛中我们未能取得优势，在压哨前犯了一些错误。
+--N--
+#99:
+Perez can be anonymous some weekends, but then he can produce these fine paintings that come out of nowhere, to be best of the best or even snatch a podium, which he has done so many times in midfield machinery.
+佩雷斯在某些周末可能是匿名的，但随后他可以创作出这些凭空出现的精美画作，成为最佳中的佼佼者，甚至登上领奖台，他在中场机器​​上已经做过很多次了。
+Perez can be anonymous some weekends, but then he can produce these fine paintings that come out of nowhere, to be best of the best or even snatch a podium, which he has done so many times.
+佩雷斯在某些周末可能是匿名的，但随后他可以创作出这些不知从何而来的精美画作，成为最好的，甚至抢夺领奖台，他已经做过很多次了。
+--FP--

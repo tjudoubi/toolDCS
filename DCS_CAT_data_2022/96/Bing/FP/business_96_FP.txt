@@ -1,0 +1,77 @@
+#5:
+The brand announced it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate effect .
+该品牌宣布已自愿要求其所有媒体合作伙伴从周六开始停止播放广告变体，并立即生效 。
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate effect .
+该品牌表示，它已自愿要求所有媒体合作伙伴从周六开始停止播放广告变体，并立即生效 。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#8:
+Whether the United States is in a recession now or not remains largely a semantic debate .
+美国现在是否陷入衰退在很大程度上仍然是一个语义上的争论 。
+Whether the United States is in a recession now or not is largely a semantic debate .
+美国现在是否处于衰退之中在很大程度上是一个语义上的争论 。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#13:
+The goal is to avoid employers that offer products and services that cautious customers might elect to forgo or postpone .
+目标是避免提供谨慎客户可能选择放弃或推迟的产品和服务的雇主。
+The key is to avoid employers that offer products and services that cautious customers might elect to forgo or postpone .
+关键是要避免雇主提供谨慎客户可能选择放弃或推迟的产品和服务。
+LCS-Wdiff:	0.8823529411764706 
+--FP--
+#19:
+Crime groups often look to steal products from stores that can easily and quickly be resold on online marketplaces such as Amazon and through other illicit markets .
+犯罪集团通常希望从商店窃取产品，这些产品可以轻松快速地在亚马逊等在线市场和其他非法市场转售。
+Crime gangs often look to steal products from stores that can easily and quickly be resold on online marketplaces such as Amazon and through other illicit markets .
+犯罪团伙通常希望从商店中窃取产品，这些产品可以轻松快速地在亚马逊等在线市场和其他非法市场转售。
+LCS-Wdiff:	0.96 
+--FP--
+#35:
+Despite the massive size of some homegrown unicorns , Arubootham said that the country does not have a " global tech powerhouse product brand .
+尽管一些本土独角兽的规模庞大，但Arubootham表示，该国没有一个“全球科技强国”的产品品牌。
+Despite the massive size of some homegrown unicorns , Mathrubootham said that the country does not have a " global tech powerhouse product brand .
+尽管一些本土独角兽的规模庞大，但Mathrubootham表示，该国没有一个“全球科技强国产品品牌”。
+LCS-Wdiff:	0.9545454545454546 
+--FP--
+#59:
+The Cyberspace Administration of China stated in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国国家互联网信息办公室在一份声明中表示，该公司违反了中国的《网络安全法》、《数据安全法》和《个人信息保护法》。
+The Cyberspace Administration of China said in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国国家互联网信息办公室在一份声明中表示，该公司违反了该国的网络安全法，数据安全法和个人信息保护法。
+LCS-Wdiff:	0.8275862068965517 
+--FP--
+#63:
+" We saw how software was created at these global companies , and we saw API was a key problem , " Anthana told CNN Business .
+“我们看到这些全球公司是如何创建软件的，我们看到API是一个关键问题，”Anthana告诉CNN Business。
+" We saw how software was created at these global companies , and we saw API was a key problem , " Asthana told CNN Business .
+“我们看到这些全球性公司是如何创建软件的，我们看到API是一个关键问题，”Asthana告诉CNN Business。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#73:
+Crime gangs often look to steal products from stores which can easily and quickly be resold on online marketplaces such as Amazon and through other illicit markets .
+犯罪团伙经常希望从商店窃取产品，这些产品可以轻松快速地在亚马逊等在线市场和其他非法市场转售。
+Crime gangs often look to steal products from stores that can easily and quickly be resold on online marketplaces such as Amazon and through other illicit markets .
+犯罪团伙通常希望从商店中窃取产品，这些产品可以轻松快速地在亚马逊等在线市场和其他非法市场转售。
+LCS-Wdiff:	0.96 
+--FP--
+#76:
+State Cyberspace Administration of China said in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国国家网信办在一份声明中表示，该公司违反了中国的《网络安全法》、《数据安全法》和《个人信息保护法》。
+The Cyberspace Administration of China said in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国国家互联网信息办公室在一份声明中表示，该公司违反了该国的网络安全法，数据安全法和个人信息保护法。
+LCS-Wdiff:	0.75 
+--FP--
+#77:
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement on Saturday with immediate effect .
+该品牌表示，它已自愿要求所有媒体合作伙伴在周六停止播放广告的变化，并立即生效 。
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate effect .
+该品牌表示，它已自愿要求所有媒体合作伙伴从周六开始停止播放广告变体，并立即生效 。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#85:
+Even the swift ban on him indicates how sensitive Chinese censors might be in this environment , she said .
+她说，即使是对他的迅速禁令也表明，在这种环境下，中国审查机构可能是多么敏感。
+But the swift ban on him indicates how sensitive Chinese censors might be in this environment , she said .
+但对他的迅速禁令表明，在这种环境下，中国审查机构可能是多么敏感，她说。
+LCS-Wdiff:	0.8 
+--FP--

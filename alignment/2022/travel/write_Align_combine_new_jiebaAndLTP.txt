@@ -1,0 +1,1200 @@
+#1The village 's last inhabitant , says Di Ciacca , was a distant great aunt who passed away in 1969 .
+Di Ciacca 说 ， 该村 最后 一 位 居民 是 1969 年 去世 的 一 位 远房 姑姑 。
+The{该村 }village{该村 }'s{的 }last{最后 }inhabitant{居民 },{}says{说 }Di{Di }Ciacca{Ciacca },{， }was{是 }a{一 }distant{远房 }great{}aunt{姑姑 }who{}passed{}away{去世 }in{年 }1969{1969 }.{。 }
+
+#2She was impressed by the creative design of the admission ticket , which carries a miniature version of The Analects of Confucius .
+门票 的 创意 设计 给 她 留下 了 深刻 的 印象 ， 门票 上 印 有 《 论语 》 的 缩影 。
+She{她 }was{}impressed{深刻 印象 }by{}the{的 }creative{创意 }design{设计 }of{}the{}admission{门票 }ticket{门票 },{， }which{上 }carries{印 }a{的 }miniature{深刻 }version{缩影 }of{}The{《 }Analects{论语 }of{}Confucius{}.{。 }
+
+#3Xanadu is situated idyllically amid the Xar Tala globeflower prairie and Xandii Gool wetlands on the upper reaches of the Luanhe River .
+世外桃源 田园 般 地 坐落 在 滦河 上游 的 Xar Tala globeflower 大 草原 和 Xandii Gool 湿地 之间 。
+Xanadu{世外桃源 }is{}situated{坐落 }idyllically{般 }amid{之间 }the{的 }Xar{Xar }Tala{Tala }globeflower{globeflower }prairie{草原 }and{和 }Xandii{Xandii }Gool{Gool }wetlands{湿地 }on{在 }the{之间 }upper{上游 }reaches{上游 }of{}the{}Luanhe{滦河 }River{滦河 }.{。 }
+
+#4" I 'm trying , you know , to be very cool and try to catch her eye , as you do when you 're 19 , 20 years old , " recalls Kris .
+“ 我 试 着 ， 你 知道 ， 变 得 很 酷 ， 试 着 吸引 她 的 眼球 ， 就 像 你 19 、 20 岁 时 那样 ， ” 克里斯 回忆 道 。
+"{“ }I{我 }'m{}trying{试 },{， }you{你 }know{知道 },{， }to{得 }be{变 }very{很 }cool{酷 }and{， }try{试 }to{着 }catch{吸引 }her{她 }eye{眼球 },{， }as{就 像 }you{}do{那样 }when{时 }you{你 }'re{}19{19 },{、 }20{20 }years{岁 }old{},{， }"{” }recalls{回忆 道 }Kris{克里斯 }.{。 }
+
+#5Zhong has adopted a local moniker , Otieno , a common family name in western Kenya , to build a rapport with colleagues and clients .
+为了 与 同事 和 客户 建立 良好 的 关系 ， 钟 在 肯尼亚 西部 取 了 一个 很 常见 的 姓 “ 奥提诺 ” 。
+Zhong{钟 }has{}adopted{取 }a{一个 }local{}moniker{姓 },{“ }Otieno{奥提诺 },{}a{}common{常见 }family{}name{}in{在 }western{西部 }Kenya{肯尼亚 },{， }to{为了 }build{建立 }a{}rapport{关系 }with{与 }colleagues{同事 }and{和 }clients{客户 }.{。 }
+
+#6This was more because she liked the view , suggests Carrie , than because she figured Kris would be an important figure in her daughter 's life .
+嘉莉 表示 ， 这 更 多 是 因为 她 喜欢 这里 的 风景 ， 而 不 是 因为 她 认为 克里斯 将 是 她 女儿 生活 中 的 一个 重要 人物 。
+This{这 }was{是 }more{更 多 }because{因为 }she{她 }liked{喜欢 }the{的 }view{风景 },{}suggests{表示 }Carrie{嘉莉 },{， }than{而 }because{因为 }she{她 }figured{认为 }Kris{克里斯 }would{将 }be{是 }an{一个 }important{重要 }figure{人物 }in{中 }her{她 }daughter{女儿 }'s{}life{生活 }.{。 }
+
+#7Zha said that in addition to Bodh Gaya , destinations such as Nalanda , Rajgir , Vaishali and Patna , the capital of Bihar , are favorites among Chinese tourists , adding that the state is also home to numerous stupas .
+查 说 ， 除 菩提 迦耶外 ， 纳兰达 、 拉吉 尔 、 瓦伊 沙利 和 比哈尔邦 首府 巴特 那 等 景点 也 是 中国 游客 的 最 爱 ， 该州 还有 许多 佛塔 。
+Zha{查 }said{说 }that{， }in{}addition{除 }to{}Bodh{菩提 }Gaya{迦耶外 },{， }destinations{景点 }such{等 }as{}Nalanda{纳兰达 },{、 }Rajgir{拉吉 },{、 }Vaishali{瓦伊 沙利 }and{和 }Patna{巴特 那 },{}the{}capital{首府 }of{}Bihar{比哈尔邦 },{}are{是 }favorites{爱 }among{的 }Chinese{中国 }tourists{游客 },{， }adding{}that{}the{该州 }state{该州 }is{}also{还有 }home{还有 }to{还有 }numerous{许多 }stupas{佛塔 }.{。 }
+
+#8For travelers yearning for a tropical escape , overwater villas are the epitome of vacation goals .
+对于 渴望 热带 度假 的 旅行者 来说 ， 水上 别墅 是 度假 目标 的 缩影 。
+For{对于 }travelers{旅行者 }yearning{渴望 }for{渴望 }a{的 }tropical{热带 }escape{度假 },{， }overwater{水上 }villas{别墅 }are{是 }the{的 }epitome{缩影 }of{}vacation{度假 }goals{目标 }.{。 }
+
+#9He jokes this was a good thing , " because her email address was actually completely incomprehensible and impossible to remember .
+他 开玩笑 说 这 是 件 好事 ， “ 因为 她 的 电子 邮件 地址 实际上 完全 不可 理解 ， 也 不 可能 记住 。
+He{他 }jokes{开玩笑 说 }this{这 }was{是 }a{件 }good{好事 }thing{好事 },{， }"{“ }because{因为 }her{她 }email{邮件 }address{地址 }was{}actually{实际上 }completely{完全 }incomprehensible{不可 理解 }and{， }impossible{不 }to{}remember{记住 }.{。 }
+
+#10Its long lap pool is the perfect spot to watch the light change , whether you 've selected a sunrise or sunset villa .
+无论 您 选择 的 是 日出 别墅 还是 日落 别墅 ， 它 的 长 水池 都 是 观看 光线 变化 的 完美 场所 。
+Its{它 }long{长 }lap{}pool{水池 }is{是 }the{的 }perfect{完美 }spot{场所 }to{}watch{观看 }the{}light{光线 }change{变化 },{， }whether{无论 }you{您 }'ve{的 }selected{选择 }a{}sunrise{日出 }or{还是 }sunset{日落 }villa{别墅 }.{。 }
+
+#11Travelers canceling a nonrefundable flight more than 10 minutes before the scheduled departure time are given a credit with the airline .
+在 预定 起飞 时间 前 10 分钟 以上 取消 不可 退还 航班 的 旅客 将 获得 航空 公司 的 信用 。
+Travelers{旅客 }canceling{取消 }a{的 }nonrefundable{不可 退还 }flight{航班 }more{以上 }than{}10{10 }minutes{分钟 }before{前 }the{}scheduled{预定 }departure{起飞 }time{时间 }are{将 }given{获得 }a{的 }credit{信用 }with{}the{}airline{航空 }.{。 }
+
+#12The couple still had to spend the first 10 months of their son 's life living in different countries , as they waited for Kris ' green card .
+在 等待 克里斯 的 绿卡 时 ， 这 对 夫妇 仍然 不得不 在 不同 的 国家 度过 儿子 生命 的 前 10 个 月 。
+The{这 }couple{夫妇 }still{仍然 }had{不得不 }to{}spend{度过 }the{的 }first{前 }10{10 }months{月 }of{}their{}son{儿子 }'s{的 }life{生命 }living{}in{在 }different{不同 }countries{国家 },{， }as{在 }they{}waited{等待 }for{}Kris{克里斯 }'{的 }green{绿卡 }card{绿卡 }.{。 }
+
+#13Kris remembers calling his mother to say he was going to to visit Carrie in the US .
+克里斯 记得 他 打电话 给 母亲 说 他 要 去 美国 看望 嘉莉 。
+Kris{克里斯 }remembers{记得 }calling{打电话 }his{他 }mother{母亲 }to{}say{说 }he{他 }was{}going{}to{要 }to{}visit{看望 }Carrie{嘉莉 }in{去 }the{}US{美国 }.{。 }
+
+#14" Most tourists who come to Amalfi are unaware of this system just across the main road , " explains De Pasquale , leaving farmers cut off from the tourism dollars pouring into the region .
+德 帕斯夸尔 解释 说 ： “ 大多数 来到 阿 马尔菲 的 游客 都 不 知道 这 条 大路 对面 的 系统 。 ” 这 使得 农民 无法 获得 涌入 该 地区 的 旅游 资金 。
+"{“ }Most{大多数 }tourists{游客 }who{的 }come{来到 }to{来到 }Amalfi{阿 马尔菲 }are{都 }unaware{不 知道 }of{}this{这 }system{系统 }just{}across{对面 }the{的 }main{大路 }road{大路 },{。 }"{” }explains{解释 }De{德 }Pasquale{帕斯夸尔 },{}leaving{使得 }farmers{农民 }cut{无法 }off{无法 }from{获得 }the{的 }tourism{旅游 }dollars{资金 }pouring{涌入 }into{涌入 }the{该 }region{地区 }.{。 }
+
+#15Moreover , during this year 's Qingming Festival , some upscale hotels and homestays in rural areas have cut their prices by about 30 percent , attracting many tourists to choose countryside travel , the manager said .
+此外 ， 在 今年 的 清明节 期间 ， 一些 农村 地区 的 高档 酒店 和 民宿 已经 降价 30% 左右 ， 吸引 了 许多 游客 选择 乡村 旅游 ， 这 位 经理 说 。
+Moreover{此外 },{， }during{在 }this{今年 }year{今年 }'s{的 }Qingming{清明节 }Festival{清明节 },{， }some{一些 }upscale{高档 }hotels{酒店 }and{和 }homestays{民宿 }in{}rural{农村 }areas{地区 }have{已经 }cut{降价 }their{}prices{降价 }by{}about{左右 }30{30% }percent{30% },{， }attracting{吸引 }many{许多 }tourists{游客 }to{}choose{选择 }countryside{乡村 }travel{旅游 },{， }the{这 }manager{经理 }said{说 }.{。 }
+
+#16" It 's like a perfect curve in the canyon , where when you 're sitting there , you 're looking straight out at the Colorado River coming in , " says Carrie .
+“ 这 就 像 峡谷 中 的 一 条 完美 曲线 ， 当 你 坐 在 那里 时 ， 你 会 直视 科罗拉多河 ， ” 卡丽 说 。
+"{“ }It{这 }'s{就 }like{像 }a{一 }perfect{完美 }curve{曲线 }in{中 }the{}canyon{峡谷 },{， }where{}when{当 }you{你 }'re{}sitting{坐 }there{那里 },{， }you{你 }'re{会 }looking{直视 }straight{直视 }out{}at{}the{}Colorado{科罗拉多河 }River{科罗拉多河 }coming{}in{},{， }"{” }says{说 }Carrie{卡丽 }.{。 }
+
+#17" The increasing demand energizes accommodation in rural areas , with some having outperformed hotels in downtown areas . "
+“ 不断 增长 的 需求 为 农村 地区 的 住宿 注入 了 活力 ， 其中 一些 酒店 的 表现 优于 市中心 地区 的 酒店 。 ”
+"{“ }The{的 }increasing{增长 }demand{需求 }energizes{为 注入 活力 }accommodation{住宿 }in{的 }rural{农村 }areas{地区 },{， }with{其中 }some{一些 }having{的 }outperformed{优于 }hotels{酒店 酒店 }in{的 }downtown{市中心 }areas{地区 }.{。 }"{” }
+
+#18Nautilus works with surrounding islands to purchase locally grown produce , buy handcrafted decor and employ craftsmen .
+Nautilus 与 周边 岛屿 合作 ， 购买 当地 种植 的 农产品 ， 购买 手工 装饰 ， 并 雇佣 工匠 。
+Nautilus{Nautilus }works{合作 }with{与 }surrounding{周边 }islands{岛屿 }to{， }purchase{购买 }locally{当地 }grown{种植 }produce{农产品 },{， }buy{购买 }handcrafted{手工 }decor{装饰 }and{并 }employ{雇佣 }craftsmen{工匠 }.{。 }
+
+#19Looking into the future , Tang Min with Six Senses Qing Cheng Mountain told Jing Daily that the concept of sustainable development will be a major trend in the wellness hotel industry .
+展望 未来 ， 青城山 六感 唐 告诉 《 京报 》 ， 可 持续 发展 理念 将 是 健康 酒店 行业 的 一 大 趋势 。
+Looking{展望 }into{}the{}future{未来 },{， }Tang{青城山 }Min{唐 }with{}Six{六感 }Senses{六感 }Qing{}Cheng{青城山 }Mountain{青城山 }told{告诉 }Jing{京报 }Daily{京报 }that{， }the{}concept{理念 }of{}sustainable{持续 }development{发展 }will{将 }be{是 }a{一 }major{大 }trend{趋势 }in{}the{}wellness{健康 }hotel{酒店 }industry{行业 }.{。 }
+
+#20New guest suites will more than double in size , with deep baths and indoor showers as well as outdoor decks with private plunge pools .
+新 的 套房 面积 将 增加 一 倍 以上 ， 配有 深度 浴缸 和 室内 淋浴 ， 以及 带有 私人 跳水池 的 室外 甲板 。
+New{新 }guest{}suites{套房 }will{将 }more{}than{以上 }double{增加 倍 }in{}size{面积 },{， }with{配有 }deep{深度 }baths{浴缸 }and{和 }indoor{室内 }showers{淋浴 }as{以及 }well{以及 }as{}outdoor{室外 }decks{甲板 }with{带有 }private{私人 }plunge{跳水池 }pools{跳水池 }.{。 }
+
+#21" It 's been really a journey of growth and personal development , relationship development for us , " says Kris of the fourteen years since he and Carrie reunited .
+“ 这 真的 是 一个 成长 和 个人 发展 的 旅程 ， 关系 的 发展 ， 对 我们 来说 ， ” 克里斯 说 ， 十四 年 以来 ， 他 和 嘉莉 团聚 。
+"{“ }It{这 }'s{是 }been{是 }really{真的 }a{一个 }journey{旅程 }of{的 }growth{成长 }and{和 }personal{个人 }development{发展 },{， }relationship{关系 }development{发展 }for{对 }us{我们 },{， }"{” }says{说 }Kris{克里斯 }of{， }the{}fourteen{十四 }years{年 }since{以来 }he{他 }and{和 }Carrie{嘉莉 }reunited{团聚 }.{。 }
+
+#22Of the 13.47 million guest rooms across the country , 35 percent were owned by chain hotels in 2021 , up 4 percentage points from 2020 , according to the report .
+报告 显示 ， 2021 ， 全国 1347 万间 客房 中 ， 35% 为 连锁 酒店 所有 ， 比 2020 年 上升 了 4 个 百分点 。
+Of{中 }the{}13.47{1347 }million{万间 }guest{客房 }rooms{客房 }across{全国 }the{}country{全国 },{， }35{35% }percent{35% }were{为 }owned{所有 }by{为 }chain{连锁 }hotels{酒店 }in{}2021{2021 },{， }up{比 上升 }4{4 }percentage{百分点 }points{百分点 }from{}2020{2020 },{}according{显示 }to{}the{}report{报告 }.{。 }
+
+#23" I 've been fascinated by Confucius and the culture of Confucianism since childhood , " says Kseniia , who is from Ukraine and currently working and studying in China .
+“ 我 从小 就 对 孔子 和 儒家 文化 着迷 ， ” 来自 乌克兰 的 克塞 尼亚 说 ， 他 目前 在 中国 工作 和 学习 。
+"{“ }I{我 }'ve{}been{}fascinated{着迷 }by{对 }Confucius{孔子 }and{和 }the{}culture{文化 }of{}Confucianism{儒家 }since{从小 }childhood{从小 },{， }"{” }says{说 }Kseniia{克塞 尼亚 },{， }who{他 }is{}from{来自 }Ukraine{乌克兰 }and{}currently{目前 }working{工作 }and{和 }studying{学习 }in{在 }China{中国 }.{。 }
+
+#24" But I do remember that there was this really intense feeling you get with butterflies , and just like that longing .
+“ 但 我 确实 记得 ， 你 对 蝴蝶 有 一 种 非常 强烈 的 感觉 ， 就 像 那种 渴望 。
+"{“ }But{但 }I{我 }do{确实 }remember{记得 }that{， }there{有 }was{}this{一 }really{非常 }intense{强烈 }feeling{感觉 }you{你 }get{}with{对 }butterflies{蝴蝶 },{， }and{}just{就 }like{像 }that{那种 }longing{渴望 }.{。 }
+
+#25" Also the migrant community in Edinburgh , where many had moved to , helped me in the search .
+“ 爱丁堡 的 移民 社区 也 帮 了 我 寻找 ， 许多 人 都 搬 到 了 那里 。
+"{“ }Also{也 }the{的 }migrant{移民 }community{社区 }in{}Edinburgh{爱丁堡 },{}where{那里 }many{许多 }had{都 }moved{搬 }to{到 },{， }helped{帮 }me{我 }in{}the{那里 }search{寻找 }.{。 }
+
+#26Moreover , a wellness hotel should provide care for the guest 's body , mind and spirit , and try to foster a harmonious relationship among nature , space , people and services , according to the article .
+文章 还 指出 ， 健康 酒店 应该 照顾 客人 的 身心 和 精神 ， 努力 培养 自然 、 空间 、 人 和 服务 之间 的 和谐 关系 。
+Moreover{还 },{， }a{}wellness{健康 }hotel{酒店 }should{应该 }provide{照顾 }care{}for{}the{}guest{客人 }'s{的 }body{身心 },{}mind{}and{和 }spirit{精神 },{}and{， }try{努力 }to{}foster{培养 }a{的 }harmonious{和谐 }relationship{关系 }among{之间 }nature{自然 },{、 }space{空间 },{、 }people{人 }and{和 }services{服务 },{}according{}to{指出 }the{}article{文章 }.{。 }
+
+#27It was a stunning view , but her attention soon switched to the person sitting next to her .
+这 是 一个 惊人 的 景象 ， 但 她 的 注意力 很快 转移 到 坐 在 她 旁边 的 人 。
+It{这 }was{是 }a{一个 }stunning{惊人 }view{景象 },{， }but{但 }her{她 }attention{注意力 }soon{很快 }switched{转移 }to{到 }the{的 }person{人 }sitting{坐 }next{旁边 }to{在 }her{她 }.{。 }
+
+#28" I would n't have dreamed that President Xi Jinping would come to my home , and sincerely inquire about our lives , " Li says .
+
+"{}I{}would{}n't{}have{}dreamed{}that{}President{}Xi{}Jinping{}would{}come{}to{}my{}home{},{}and{}sincerely{}inquire{}about{}our{}lives{},{}"{}Li{}says{}.{}
+
+#29" We know it 's going to be hard , it 's not like it 's magic , all the time .
+“ 我们 知道 这 会 很 难 ， 并 不 是 一直 都 是 魔术 。
+"{“ }We{我们 }know{知道 }it{这 }'s{}going{会 }to{}be{}hard{难 },{， }it{}'s{是 }not{不 }like{}it{}'s{是 }magic{魔术 },{}all{一直 }the{}time{一直 }.{。 }
+
+#30" Because we had this magical beginning , we just felt the ability and the safety to be able to share things with each other that we would n't have done otherwise .
+“ 因为 我们 有 了 一个 神奇 的 开始 ， 我们 感到 有 能力 和 安全感 ， 能够 彼此 分享 我们 本来 不 会 做 的 事情 。
+"{“ }Because{因为 }we{我们 }had{有 }this{一个 }magical{神奇 }beginning{开始 },{， }we{我们 }just{}felt{感到 }the{有 }ability{能力 }and{和 }the{}safety{安全感 }to{}be{}able{能够 }to{}share{分享 }things{事情 }with{}each{彼此 }other{彼此 }that{}we{我们 }would{会 }n't{不 }have{}done{做 }otherwise{彼此 }.{。 }
+
+#31Bucolic marathons are held in spring , with people running up and down the vineyards and then relaxing at the little piazza where villagers once met to chat in the evenings after working in the fields .
+乡村 马拉松 比赛 在 春天 举行 ， 人们 在 葡萄园 里 跑 来 跑 去 ， 然后 在 小 广场 上 放松 ， 晚上 村民 们 在 田地 里 干活 后 曾 在 那里 聚会 聊天 。
+Bucolic{乡村 马拉松 }marathons{马拉松 比赛 }are{}held{举行 }in{在 }spring{春天 },{， }with{}people{人们 }running{跑 }up{来 去 }and{来 }down{}the{里 }vineyards{葡萄园 }and{， }then{然后 }relaxing{放松 }at{在 }the{}little{小 }piazza{广场 }where{那里 }villagers{村民 }once{曾 }met{}to{}chat{聚会 聊天 }in{}the{}evenings{晚上 }after{后 }working{干活 }in{在 }the{那里 }fields{田地 }.{。 }
+
+#32Its 24 striking overwater villas have infinity plunge pools and sublimely serene views from the soaking tub .
+它 的 24 栋 引人注目 的 水上 别墅 有 无限 的 跳水池 ， 从 浴缸 里 可以 看到 极其 宁静 的 景色 。
+Its{它 }24{24 }striking{引人注目 }overwater{水上 }villas{别墅 }have{有 }infinity{无限 }plunge{跳水池 }pools{跳水池 }and{， }sublimely{极其 宁静 }serene{宁静 }views{景色 }from{从 }the{里 }soaking{浴缸 }tub{浴缸 }.{。 }
+
+#33The large Sfusato or Amalfi lemon is cultivated in an area that stretches along the Tyrrhenian Sea between Naples and the Gulf of Salerno .
+大 的 Sfusato 柠檬 或 Amalfi 柠檬 种植 在 沿着 那 不勒斯 和 萨勒诺 湾 之间 的 Tyrrhenian 海 延伸 的 地区 。
+The{}large{大 }Sfusato{Sfusato }or{或 }Amalfi{Amalfi }lemon{柠檬 }is{}cultivated{种植 }in{在 }an{的 }area{地区 }that{的 }stretches{延伸 }along{沿着 }the{的 }Tyrrhenian{Tyrrhenian }Sea{海 }between{之间 }Naples{那 }and{和 }the{}Gulf{湾 }of{}Salerno{萨勒诺 }.{。 }
+
+#34The northern end of the palace city contained one of Xanadu 's largest remains , identified as the Muqing Pavilion , where its rulers held impressive banquets .
+宫城 的 北端 有 一 处 世外桃源 最 大 的 遗迹 ， 叫做 木清亭 ， 统治者 在 那里 举行 了 盛大 的 宴会 。
+The{的 }northern{北端 }end{北端 }of{}the{}palace{宫城 }city{宫城 }contained{有 }one{一 }of{}Xanadu{世外桃源 }'s{的 }largest{大 }remains{遗迹 },{， }identified{叫做 }as{叫做 }the{}Muqing{木清亭 }Pavilion{木清亭 },{， }where{那里 }its{}rulers{统治者 }held{举行 }impressive{盛大 }banquets{宴会 }.{。 }
+
+#35With a noticeable juvenile manta ray population in the atoll 's Maamunagau Lagoon , the resort works with Manta Trust researchers to aid in the education and conservation of these giant , playful fish and their habitat .
+在 环礁 的 Maamunagau 环礁 湖中 ， 有着 引人注目 的 螳螂 幼鱼 种群 ， 度假村 与 螳螂 信托 基金会 的 研究 人员 合作 ， 帮助 教育 和 保护 这些 巨大 、 嬉戏 的 鱼类 及其 栖息地 。
+With{有着 }a{有着 }noticeable{有着 引人注目 }juvenile{幼鱼 }manta{螳螂 }ray{}population{种群 }in{在 }the{}atoll{环礁 }'s{的 }Maamunagau{Maamunagau }Lagoon{湖中 },{， }the{}resort{度假村 }works{合作 }with{与 }Manta{螳螂 }Trust{信托 }researchers{研究 }to{， }aid{帮助 }in{}the{}education{教育 }and{和 }conservation{保护 }of{}these{这些 }giant{巨大 },{、 }playful{嬉戏 }fish{鱼类 }and{及其 }their{及其 }habitat{栖息地 }.{。 }
+
+#36From time to time , Li Fashun will reminisce about the visit of a special guest to his abode in Simola Va village two years ago .
+李 不时 地 回忆 起 两 年 前 有 一 位 特邀 嘉宾 到 他 在 西 莫 拉瓦 村 的 住所 来 。
+From{不时 }time{}to{}time{不时 },{}Li{李 }Fashun{}will{}reminisce{回忆 }about{起 }the{}visit{}of{有 }a{一 }special{特邀 }guest{特邀 嘉宾 }to{到 }his{他 }abode{住所 }in{在 }Simola{莫 拉瓦 }Va{拉瓦 }village{村 }two{两 }years{年 }ago{前 }.{。 }
+
+#37The tourism market is accelerating its recovery with the summer holiday approaching and it will drive a rapid rebound in the hospitality sector , Xie said .
+谢说 ， 随着 暑假 的 临近 ， 旅游 市场 正在 加速 复苏 ， 这 将 推动 酒店业 的 快速 反弹 。
+The{， }tourism{旅游 }market{市场 }is{正在 }accelerating{加速 }its{}recovery{复苏 }with{随着 }the{的 }summer{暑假 }holiday{暑假 }approaching{临近 }and{， }it{这 }will{将 }drive{推动 }a{的 }rapid{快速 }rebound{反弹 }in{}the{}hospitality{酒店业 }sector{酒店业 },{}Xie{谢说 }said{谢说 }.{。 }
+
+#38The quality of sleep is arguably one of the most important determinants of good health .
+睡眠 质量 可以 说 是 健康 的 最 重要 决定 因素 之一 。
+The{}quality{质量 }of{}sleep{睡眠 }is{是 }arguably{可以 说 }one{之一 }of{}the{的 }most{最 }important{重要 }determinants{因素 }of{}good{}health{健康 }.{。 }
+
+#39Li believes that better things are yet to come for his village once the pandemic is fully over .
+李 认为 ， 一旦 疫情 完全 结束 ， 村里 的 情况 还 没有 好转 。
+Li{李 }believes{认为 }that{， }better{好转 }things{情况 }are{还 }yet{}to{没有 }come{好转 }for{}his{}village{村里 }once{一旦 }the{的 }pandemic{疫情 }is{}fully{完全 }over{结束 }.{。 }
+
+#40But today they have been either abandoned or turned into holiday homes and illegal constructions .
+但 今天 ， 它们 要么 被 遗弃 ， 要么 变成 度假 屋 和 非法 建筑 。
+But{但 }today{今天 }they{它们 }have{， }been{被 }either{要么 }abandoned{遗弃 }or{， }turned{变成 }into{变成 }holiday{度假 }homes{屋 }and{和 }illegal{非法 }constructions{建筑 }.{。 }
+
+#41An increased need to improve the quality of sleep has presented new opportunities to hotels where many guests sleep in .
+对 改善 睡眠 质量 的 需求 增加 ， 为 许多 客人 入 住 的 酒店 提供 了 新 的 机会 。
+An{}increased{增加 }need{需求 }to{对 }improve{改善 }the{的 }quality{质量 }of{}sleep{睡眠 }has{， }presented{提供 }new{新 }opportunities{机会 }to{为 }hotels{酒店 }where{的 }many{许多 }guests{客人 }sleep{入 住 }in{入 }.{。 }
+
+#42The National Cultural Heritage Administration , the Palace Museum and museums from other provinces will attend the travel mart .
+国家 文物局 、 故宫 博物院 和 其他 省份 的 博物馆 将 参加 这 次 旅游 市场 。
+The{}National{国家 }Cultural{文物局 }Heritage{}Administration{文物局 },{、 }the{的 }Palace{故宫 }Museum{博物院 }and{和 }museums{博物馆 }from{}other{其他 }provinces{省份 }will{将 }attend{参加 }the{这 }travel{旅游 }mart{市场 }.{。 }
+
+#43Each villa also comes with a retractable roof so kids can doze off beneath the stars .
+每 栋 别墅 都 有 一个 可 伸缩 的 屋顶 ， 孩子 们 可以 在 星空 下 打瞌睡 。
+Each{每 }villa{别墅 }also{都 }comes{}with{有 }a{一个 }retractable{伸缩 }roof{屋顶 }so{， }kids{孩子 }can{可以 }doze{打瞌睡 }off{}beneath{下 }the{}stars{星空 }.{。 }
+
+#44Faced with the prospect of another sweltering summer in Beijing , those soothing moments of natural splendor will continue to linger in my mind .
+面对 北京 又 一个 闷热 的 夏天 ， 那些 自然 风光 的 舒缓 时刻 将 继续 萦绕 在 我 的 脑海 中 。
+Faced{面对 }with{面对 }the{的 }prospect{}of{}another{又 }sweltering{闷热 }summer{夏天 }in{}Beijing{北京 },{， }those{那些 }soothing{舒缓 }moments{时刻 }of{的 }natural{自然 }splendor{风光 }will{将 }continue{继续 }to{}linger{萦绕 }in{在 }my{我 }mind{脑海 }.{。 }
+
+#45" It would be interesting to do some experiments , but before this possibility is introduced on a large scale , all lagoon water mobility should be rethought , " he said .
+“ 做 一些 实验 很 有趣 ， 但 在 大规模 引入 这种 可能性 之前 ， 应该 重新 考虑 所有 泻 湖水 的 流动性 ， ” 他 说 。
+"{“ }It{}would{}be{很 }interesting{有趣 }to{}do{做 }some{一些 }experiments{实验 },{， }but{但 }before{之前 }this{这种 }possibility{可能性 }is{}introduced{引入 }on{}a{}large{大规模 }scale{大规模 },{， }all{所有 }lagoon{泻 湖水 }water{湖水 }mobility{流动性 }should{应该 }be{}rethought{重新 考虑 },{， }"{” }he{他 }said{说 }.{。 }
+
+#46Kimpton Hotels & Restaurants , a brand owned by InterContinental Hotels Group , announced in February a partnership with Talkspace , an online behavioral health company , offering mental health services to guests as well as employees .
+洲际 酒店 集团 旗 下 品牌 金普顿 酒店 与 餐厅 （ Kimpton Hotels & Restaurants ） 2 月份 宣布 与 在线 行为 健康 公司 Talkspace 合作 ， 为 客人 和 员工 提供 心理 健康 服务 。
+Kimpton{Kimpton }Hotels{Hotels }&{& }Restaurants{Restaurants },{（ }a{}brand{品牌 }owned{旗 下 }by{}InterContinental{洲际 }Hotels{}Group{集团 },{） }announced{宣布 }in{月份 }February{2 }a{}partnership{合作 }with{与 }Talkspace{Talkspace },{}an{}online{在线 }behavioral{行为 }health{健康 }company{公司 },{， }offering{提供 }mental{心理 }health{健康 }services{服务 }to{为 }guests{客人 }as{}well{和 }as{}employees{员工 }.{。 }
+
+#47Kris had spotted Carrie earlier that day , on one of the buses that ferry visitors around the national park .
+那天 早 些 时候 ， 克里斯 在 一 辆 运送 游客 的 公共 汽车 上 发现 了 嘉莉 。
+Kris{克里斯 }had{了 }spotted{发现 }Carrie{嘉莉 }earlier{早 }that{那天 }day{那天 },{， }on{在 }one{一 }of{}the{的 }buses{汽车 }that{}ferry{运送 }visitors{游客 }around{}the{}national{公共 }park{}.{。 }
+
+#48That motivated me to do everything that I could to help , " Young tells CNN Travel .
+这 激励 了 我 尽 我 所 能 去 帮助 别人 ， ” 杨 告诉 CNN Travel 。
+That{这 }motivated{激励 }me{我 }to{}do{}everything{所 }that{}I{我 }could{能 }to{去 }help{帮助 },{， }"{” }Young{杨 }tells{告诉 }CNN{CNN }Travel{Travel }.{。 }
+
+#49Begrudgingly , Carrie agreed , and made her way to the edge of the rock to sit down next to the stranger .
+嘉莉 勉强 同意 了 ， 走 到 岩石 边缘 ， 在 陌生人 旁边 坐下 。
+Begrudgingly{勉强 },{}Carrie{嘉莉 }agreed{同意 },{}and{， }made{}her{}way{走 }to{到 }the{}edge{边缘 }of{}the{}rock{岩石 }to{， }sit{坐下 }down{坐下 }next{旁边 }to{在 }the{}stranger{陌生人 }.{。 }
+
+#50Not to be confused with its sister property , Four Seasons Resort Kuda Huraa , the overwater villas at Four Seasons Resort Maldives at Landaa Giraavaru are a slight step above .
+不要 与 它 的 姊妹 酒店 库达 胡拉 四季 度假 酒店 混淆 ， 马尔代夫 四季 度假 酒店 在 兰 达 吉 拉瓦 鲁 的 水上 别墅 比 它 稍 高 一 步 。
+Not{不要 }to{不要 }be{}confused{混淆 }with{与 }its{它 }sister{姊妹 }property{酒店 },{库达 }Four{四季 }Seasons{四季 }Resort{酒店 }Kuda{库达 }Huraa{胡拉 },{， }the{的 }overwater{水上 }villas{别墅 }at{}Four{四季 }Seasons{四季 度假 }Resort{度假 酒店 }Maldives{马尔代夫 }at{在 }Landaa{兰 达 }Giraavaru{吉 拉瓦 鲁 }are{}a{一 }slight{稍 }step{步 }above{}.{。 }
+
+#51" Since the outbreak of the pandemic , leisure travel to suburbs and rural areas are in demand among tourists , " a manager of Qunar was quoted as saying by Beijing Daily .
+《 北京 日报 》 援引 去 哪儿 网 一 位 经理 的话 说 ： “ 自从 疫情 爆发 以来 ， 游客 们 对 郊区 和 农村 的 休闲 旅游 需求 很 大 。 ” 。
+"{“ }Since{自从 }the{}outbreak{爆发 }of{}the{}pandemic{疫情 },{， }leisure{休闲 }travel{旅游 }to{去 }suburbs{郊区 }and{和 }rural{农村 }areas{}are{很 }in{}demand{需求 }among{}tourists{游客 },{}"{” }a{一 }manager{经理 }of{}Qunar{哪儿 }was{}quoted{援引 }as{}saying{说 }by{《 }Beijing{北京 }Daily{日报 }.{。 }
+
+#52Domestic hospitality can get a vital upgrade if they absorb more independent hoteliers in small cities and implement localization strategies , the professor added .
+这 位 教授 补充 说 ， 如果 国内 酒店 能够 吸收 更 多 小 城市 的 独立 酒店 经营者 ， 并 实施 本地化 战略 ， 那么 国内 酒店业 可以 得到 至关重要 的 提升 。
+Domestic{国内 }hospitality{酒店 }can{可以 }get{得到 }a{的 }vital{至关重要 }upgrade{提升 }if{如果 }they{}absorb{吸收 }more{更 }independent{独立 }hoteliers{酒店 经营者 }in{的 }small{小 }cities{城市 }and{并 }implement{实施 }localization{本地化 }strategies{战略 },{， }the{这 }professor{教授 }added{补充 }.{。 }
+
+#53The travel mart will also stick to the rules of pandemic prevention and control while having the activities go on smoothly .
+旅游 集市 在 确保 活动 顺利 进行 的 同时 ， 还 将 遵守 大 流行 预防 和 控制 规则 。
+The{}travel{旅游 }mart{集市 }will{将 }also{还 }stick{遵守 }to{}the{}rules{规则 }of{的 }pandemic{流行 }prevention{预防 }and{和 }control{控制 }while{同时 }having{}the{}activities{活动 }go{进行 }on{}smoothly{顺利 }.{。 }
+
+#54The organization says there is a need to " drastically reduce the effects produced by motor boats .
+该 组织 表示 ， 有 必要 “ 大幅 减少 摩托艇 产生 的 影响 。
+The{该 }organization{组织 }says{表示 }there{有 }is{}a{}need{必要 }to{}"{“ }drastically{大幅 }reduce{减少 }the{的 }effects{影响 }produced{产生 }by{}motor{摩托艇 }boats{摩托艇 }.{。 }
+
+#55Buddhists around the world consider the temple city of Bodh Gaya in Bihar state , about 500 kilometers from Kolkata , one of the most important pilgrimage centers for the religion .
+世界 各地 的 佛教徒 认为 比哈尔邦 的 菩提 迦耶 寺庙 城市 ， 距离 加尔各答 约 500 公里 ， 是 该 宗教 最 重要 的 朝圣 中心 之一 。
+Buddhists{佛教徒 }around{各地 }the{的 }world{世界 }consider{认为 }the{的 }temple{寺庙 }city{城市 }of{}Bodh{菩提 }Gaya{迦耶 }in{}Bihar{比哈尔邦 }state{比哈尔邦 },{， }about{约 }500{500 }kilometers{公里 }from{距离 }Kolkata{加尔各答 },{， }one{是 之一 }of{}the{}most{最 }important{重要 }pilgrimage{朝圣 }centers{中心 }for{}the{该 }religion{宗教 }.{。 }
+
+#56With no plaque or indication of any kind as to what this wall might be , my curiosity was peaked .
+没有 任何 关于 这 堵 墙 可能 是 什么 的 斑块 或 迹象 ， 我 的 好奇心 达到 了 顶峰 。
+With{}no{没有 }plaque{斑块 }or{或 }indication{迹象 }of{}any{任何 }kind{}as{关于 }to{关于 }what{}this{这 }wall{墙 }might{可能 }be{是 },{， }my{我 }curiosity{好奇心 }was{达到 了 }peaked{顶峰 }.{。 }
+
+#57Carrie and Kris ' email friendship continued over the next several years as the two graduated from college , started working , and remained in each other 's orbit .
+在 接下来 的 几 年 里 ， 随着 两 人 大学 毕业 ， 开始 工作 ， 并 保持 在 彼此 的 轨道 上 ， 嘉莉 和 克里斯 的 电子 邮件 友谊 继续 下去 。
+Carrie{嘉莉 }and{和 }Kris{克里斯 }'{的 }email{邮件 }friendship{友谊 }continued{继续 }over{在 }the{的 }next{接下来 }several{几 }years{年 }as{随着 }the{}two{两 }graduated{毕业 }from{}college{大学 },{， }started{开始 }working{工作 },{， }and{并 }remained{保持 }in{在 }each{彼此 }other{}'s{的 }orbit{轨道 }.{。 }
+
+#58So the concerned daughter went back to her family 's home and made tender chicken on rice in a small pot .
+于是 ， 忧心忡忡 的 女儿 回 到 家里 ， 在 小锅 里 做 了 米饭 鸡 。
+So{于是 }the{的 }concerned{忧心忡忡 }daughter{女儿 }went{}back{回 }to{到 }her{}family{家里 }'s{}home{家里 }and{， }made{做 }tender{}chicken{鸡 }on{}rice{米饭 }in{在 }a{}small{小锅 }pot{小锅 }.{。 }
+
+#59With mountains rising behind serene Lake Wakatipu , Matakauri Lodge boasts a stunning setting in New Zealand 's South Island .
+宁静 的 瓦卡 提普湖 后 群山 耸立 ， Matakauri Lodge 位于 新西兰 南岛 ， 环境 优美 。
+With{}mountains{群山 }rising{耸立 }behind{后 }serene{宁静 }Lake{提普湖 }Wakatipu{瓦卡 提普湖 },{， }Matakauri{Matakauri }Lodge{Lodge }boasts{}a{}stunning{优美 }setting{环境 }in{位于 }New{新西兰 }Zealand{新西兰 }'s{}South{南岛 }Island{南岛 }.{。 }
+
+#60Built in 2013 , they look brand new , with every inch perfectly finished by a team of craftsmen from Europe .
+它们 建 于 2013 年 ， 外观 全新 ， 每 一 寸 都 由 来自 欧洲 的 工匠 团队 完美 完成 。
+Built{建 }in{于 }2013{2013 },{， }they{它们 }look{外观 }brand{全新 }new{全新 },{， }with{}every{每 }inch{寸 }perfectly{完美 }finished{完成 }by{由 }a{}team{团队 }of{的 }craftsmen{工匠 }from{来自 }Europe{欧洲 }.{。 }
+
+#61But Aceto is among the last guardians of this vulnerable tradition now threatened by industrialization , changes in society and climate change .
+但 Aceto 是 这 一 脆弱 传统 的 最后 捍卫者 之一 ， 现在 正 受到 工业化 、 社会 变化 和 气候 变化 的 威胁 。
+But{但 }Aceto{Aceto }is{是 }among{之一 }the{的 之一 }last{最后 }guardians{捍卫者 }of{}this{这 }vulnerable{脆弱 }tradition{传统 }now{现在 }threatened{威胁 }by{受到 }industrialization{工业化 },{、 }changes{变化 }in{}society{社会 }and{和 }climate{气候 }change{变化 }.{。 }
+
+#62President Xi Jinping 's visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Yang Feiyue in Beijing and Li Yingqing in Kunming .
+
+President{}Xi{}Jinping{}'s{}visit{}celebrates{}new{}era{}for{}rural{}community{},{}deservedly{}reaping{}the{}harvest{}of{}its{}work{},{}report{}Yang{}Feiyue{}in{}Beijing{}and{}Li{}Yingqing{}in{}Kunming{}.{}
+
+#63Whether writing wok recipes or advocating for Chinatowns , she says she 's not only doing it for the Chinese communities in the US .
+无论是 写 炒菜 食谱 ， 还是 为 唐人街 做 宣传 ， 她 说 ， 她 这样 做 不仅仅 是 为了 美国 的 华人 社区 。
+Whether{无论是 }writing{写 }wok{炒菜 }recipes{食谱 }or{还是 }advocating{宣传 }for{为 }Chinatowns{唐人街 },{， }she{她 }says{说 }she{她 }'s{是 }not{不仅仅 }only{不仅仅 }doing{做 }it{这样 }for{为了 }the{的 }Chinese{华人 }communities{社区 }in{}the{的 }US{美国 }.{。 }
+
+#64For someone who has succeeded in convincing 140 people to offload their minuscule slice of property to create a big project , it should n't be too hard .
+对于 一个 已经 成功 说服 140 人 卖 掉 他们 的 一 小 部分 财产 来 创建 一个 大 项目 的 人 来说 ， 这 应该 不 会 太 难 。
+For{对于 }someone{人 }who{}has{已经 }succeeded{成功 }in{}convincing{说服 }140{140 }people{人 }to{}offload{卖 }their{他们 }minuscule{小 }slice{部分 }of{}property{财产 }to{来 }create{创建 }a{一个 }big{大 }project{项目 },{， }it{这 }should{应该 }n't{不 }be{}too{太 }hard{难 }.{。 }
+
+#65" The ' Wisdom of the Chinese Kitchen ' was published in 1999 and about 10 years later I got a call that my mom had a stroke , " says Young .
+杨 说 ： “ 1999 年 出版 了 《 中国 厨房 的 智慧 》 ， 大约 10 年 后 ， 我 接到 一个 电话 ， 说 我 妈妈 中风 了 。 ” 。
+"{“ }The{}'{《 }Wisdom{智慧 }of{的 }the{}Chinese{中国 }Kitchen{厨房 }'{》 }was{了 }published{出版 }in{年 }1999{1999 }and{， }about{大约 }10{10 }years{年 }later{后 }I{我 }got{接到 }a{一个 }call{电话 }that{说 }my{我 }mom{妈妈 }had{}a{}stroke{中风 },{。 }"{” }says{说 }Young{杨 }.{。 }
+
+#66While Tahiti may have started the overwater trend in the 1960s , the Maldives has undoubtedly perfected it .
+虽然 塔希提 岛 可能 在 20 世纪 60 年代 开始 了 水上 趋势 ， 但 马尔代夫 无疑 完善 了 这 一 趋势 。
+While{虽然 }Tahiti{岛 }may{可能 }have{}started{开始 }the{了 }overwater{水上 }trend{趋势 }in{在 }the{世纪 }1960s{60 },{， }the{}Maldives{马尔代夫 }has{}undoubtedly{无疑 }perfected{完善 }it{这 }.{。 }
+
+#67" In my parents ' old days , the lack of space and intimacy meant that love was made outdoors , underneath the citrus trees , " he says with a smile .
+“ 在 我 父母 过去 的 日子 里 ， 缺乏 空间 和 亲密 意味着 爱 是 在 户外 ， 在 柑橘 树 下 进行 的 ， ” 他 笑 着 说 。
+"{“ }In{在 }my{我 }parents{父母 }'{的 }old{过去 }days{日子 },{， }the{}lack{缺乏 }of{}space{空间 }and{和 }intimacy{亲密 }meant{意味着 }that{意味着 }love{爱 }was{是 }made{进行 }outdoors{户外 },{， }underneath{下 }the{}citrus{柑橘 }trees{树 },{， }"{” }he{他 }says{说 }with{}a{着 }smile{}.{。 }
+
+#68One of his favorite dishes , it was the last recipe Young learned from her parents to include in " Wisdom of the Chinese Kitchen .
+这 是 杨 从 父母 那里 学 到 的 最后 一道 食谱 ， 也 是 他 最 喜欢 的 菜肴 之一 ， 被 收录 在 《 中国 厨房 的 智慧 》 中 。
+One{一道 }of{}his{他 }favorite{喜欢 }dishes{菜肴 },{， }it{这 }was{是 }the{的 }last{最后 }recipe{}Young{杨 }learned{学 }from{从 }her{}parents{父母 }to{被 }include{收录 }in{在 }"{《 }Wisdom{智慧 }of{的 }the{的 }Chinese{中国 }Kitchen{厨房 }.{。 }
+
+#69As I approached the center of the site , I could make out earthen mounds and some similar remnants of walls .
+当 我 走近 遗址 的 中心 时 ， 我 能 辨认 出 土堆 和 一些 类似 的 墙壁 遗迹 。
+As{当 }I{我 }approached{走近 }the{的 }center{中心 }of{}the{}site{遗址 },{， }I{我 }could{能 }make{辨认 }out{出 }earthen{土堆 }mounds{土堆 }and{和 }some{一些 }similar{类似 }remnants{遗迹 }of{的 }walls{墙壁 }.{。 }
+
+#70" The living environment has improved over the past two years , and so has the public observance of social codes , " Li says .
+李说 ： “ 在 过去 的 两 年 里 ， 生活 环境 得到 了 改善 ， 公众 遵守 社会 规范 的 情况 也 得到 了 改善 。 ” 。
+"{“ }The{}living{生活 }environment{环境 }has{得到 }improved{改善 }over{在 }the{的 }past{过去 }two{两 }years{年 },{， }and{， }so{也 }has{也 得到 }the{了 }public{公众 }observance{遵守 }of{的 }social{社会 }codes{规范 },{}"{” }Li{李说 }says{李说 }.{。 }
+
+#71There 's a risk , he says , that when his generation stops cultivating the land , the knowledge accumulated over the centuries by local communities could vanish altogether .
+他 说 ， 当 他 这 一代人 停止 耕种 土地 时 ， 当地 社区 数百 年 来 积累 的 知识 可能 会 完全 消失 。
+There{}'s{}a{}risk{},{}he{他 }says{说 },{， }that{， }when{当 }his{他 }generation{一代人 }stops{停止 }cultivating{耕种 }the{}land{土地 },{， }the{的 }knowledge{知识 }accumulated{积累 }over{来 }the{}centuries{年 }by{}local{当地 }communities{社区 }could{可能 会 }vanish{消失 }altogether{完全 }.{。 }
+
+#72Growing stress from life and work is one of the reasons why people are seeking more ways to rejuvenate themselves .
+来自 生活 和 工作 的 压力 越来越 大 ， 这 也 是 人们 寻求 更 多 方式 使 自己 恢复 活力 的 原因 之一 。
+Growing{来自 }stress{压力 }from{来自 }life{生活 }and{和 }work{工作 }is{是 }one{之一 }of{}the{的 之一 }reasons{原因 }why{}people{人们 }are{}seeking{寻求 }more{更 }ways{方式 }to{使 }rejuvenate{恢复 }themselves{自己 }.{。 }
+
+#73" Making popcorn in the wok is actually very good for intensifying the patina of the wok .
+“ 在 锅 里 做 爆米花 实际上 有助于 强化 锅 的 铜绿 。
+"{“ }Making{做 }popcorn{爆米花 }in{在 }the{}wok{锅 }is{有助于 }actually{实际上 }very{}good{有助于 }for{有助于 }intensifying{强化 }the{的 }patina{铜绿 }of{}the{}wok{锅 }.{。 }
+
+#74The landscape around the village is dotted with abbeys , monasteries and pilgrimage sites famous for apparitions of the Virgin Mary .
+村庄 周围 的 景观 点缀 着 修道院 、 修道院 和 以 圣母 玛利亚 的 幽灵 而 闻名 的 朝圣 场所 。
+The{的 }landscape{景观 }around{周围 }the{}village{村庄 }is{}dotted{点缀 }with{着 }abbeys{修道院 },{、 }monasteries{修道院 }and{和 }pilgrimage{朝圣 }sites{场所 }famous{闻名 }for{以 而 }apparitions{幽灵 }of{}the{的 }Virgin{圣母 }Mary{玛利亚 }.{。 }
+
+#75Sustainability in personal health and that in the natural world are expected to complement and exert a positive influence on each other , she noted .
+她 指出 ， 个人 健康 的 可 持续性 和 自然界 的 可 持续性 有望 相辅相成 ， 并 相互 产生 积极 影响 。
+Sustainability{可 持续性 }in{的 }personal{个人 }health{健康 }and{和 }that{}in{}the{的 }natural{自然界 }world{自然界 }are{}expected{有望 }to{}complement{相辅相成 }and{并 }exert{产生 }a{}positive{积极 }influence{影响 }on{}each{相互 }other{},{， }she{她 }noted{指出 }.{。 }
+
+#76Zha Liyou , Chinese consul general to Kolkata , highlighting the importance of Bodh Gaya as a major tourist destination , said that it has the potential to trigger an influx of arrivals from China .
+中国 驻 加尔各答 总领事 查 · 利友 强调 了 菩提 迦耶 作为 一个 主要 旅游 目的地 的 重要性 ， 他 说 ， 它 有 可能 引发 中国 游客 的 涌入 。
+Zha{查 }Liyou{利友 },{}Chinese{中国 }consul{总领事 }general{总领事 }to{驻 }Kolkata{加尔各答 },{}highlighting{强调 }the{的 }importance{重要性 }of{}Bodh{菩提 }Gaya{迦耶 }as{作为 }a{一个 }major{主要 }tourist{旅游 }destination{目的地 },{， }said{说 }that{， }it{它 }has{有 }the{}potential{可能 }to{}trigger{引发 }an{的 }influx{涌入 }of{}arrivals{游客 }from{}China{中国 }.{。 }
+
+#77According to Italian law dating back to the Napoleonic era , property ownership passes not to the eldest heir , but instead to every single child .
+根据 意大利 追溯 到 拿破仑 时代 的 法律 ， 财产 所有权 不 是 传 给 最 年长 的 继承人 ， 而是 传 给 每 一个 孩子 。
+According{根据 }to{根据 }Italian{意大利 }law{法律 }dating{追溯 }back{}to{到 }the{的 }Napoleonic{拿破仑 }era{时代 },{， }property{财产 }ownership{所有权 }passes{传 }not{不 }to{给 }the{的 }eldest{年长 }heir{继承人 },{， }but{而是 }instead{而是 }to{给 }every{每 }single{一个 }child{孩子 }.{。 }
+
+#78The details were announced at a media conference early this month at Langyuan Vintage , a cultural industrial park in the capital , for the 10th Beijing People Beneficial Cultural Consumption Season .
+本 月初 ， 在 首都 的 文化 产业园 — — 朗园 酒庄 举行 的 第十 届 北京 市民 有益 文化 消费 季 的 媒体 会议 上 宣布 了 这些 细节 。
+The{这些 }details{细节 }were{了 }announced{宣布 }at{}a{的 }media{媒体 }conference{会议 }early{月初 }this{本 }month{月初 }at{在 }Langyuan{朗园 }Vintage{酒庄 },{}a{}cultural{文化 }industrial{产业园 }park{产业园 }in{}the{的 }capital{首都 },{， }for{举行 }the{第十 }10th{第十 }Beijing{北京 }People{市民 }Beneficial{有益 }Cultural{文化 }Consumption{消费 }Season{季 }.{。 }
+
+#79" It is certainly not a concept suitable for a vaporetto in the Grand Canal or a cargo boat .
+“ 这 当然 不 是 一个 适合 大运河 中 的 蒸汽 船 或 货船 的 概念 。
+"{“ }It{这 }is{是 }certainly{当然 }not{不 }a{一个 }concept{概念 }suitable{适合 }for{}a{的 }vaporetto{蒸汽 }in{中 }the{的 }Grand{大运河 }Canal{大运河 }or{或 }a{}cargo{货船 }boat{货船 }.{。 }
+
+#80In an attempt to solve that problem , Salvatore and his brother Marco , 56 , have created Lemon Tours , an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it .
+为了 解决 这个 问题 ， Salvatore 和 56 岁 的 兄弟 Marco 创建 了 Lemon Tours ， 这 是 一 家 农业 旅游 企业 ， 旨在 提高 人们 对 Sfusato 的 认识 ， 并 振兴 用于 种植 它 的 传统 。
+In{为了 }an{}attempt{}to{为了 }solve{解决 }that{这个 }problem{问题 },{， }Salvatore{Salvatore }and{和 }his{的 }brother{兄弟 }Marco{Marco },{}56{56 },{}have{}created{创建 }Lemon{Lemon }Tours{Tours },{， }an{一 }agricultural{农业 }tourism{旅游 }venture{企业 }to{旨在 }increase{提高 }awareness{认识 }of{对 }the{}Sfusato{Sfusato }and{并 }revitalize{振兴 }the{的 }traditions{传统 }used{用于 }to{用于 }cultivate{种植 }it{它 }.{。 }
+
+#81As reports of such crimes increased , businesses began closing their doors early , allowing their workers to head home before dark , a trend that continues today .
+随着 此类 犯罪 报告 的 增加 ， 企业 开始 提前 关门 ， 允许 员工 天 黑 前 回家 ， 这 一 趋势 一直 持续 到 今天 。
+As{随着 }reports{报告 }of{}such{此类 }crimes{犯罪 }increased{增加 },{， }businesses{企业 }began{开始 }closing{关门 }their{}doors{}early{提前 },{， }allowing{允许 }their{}workers{员工 }to{}head{回家 }home{回家 }before{前 }dark{黑 },{， }a{这 一 }trend{趋势 }that{一直 }continues{持续 }today{今天 }.{。 }
+
+#82" I think that people forget that Chinese food actually has such a long history in America dating from the 1840s , and that it is a very important part of the American culinary landscape , " says Young .
+杨 说 ： “ 我 认为 人们 忘记 了 中国 菜 实际上 在 美国 有着 悠久 的 历史 ， 可以 追溯 到 19 世纪 40 年代 ， 它 是 美国 烹饪 景观 中 非常 重要 的 一 部分 。 ” 。
+"{“ }I{我 }think{认为 }that{认为 }people{人们 }forget{忘记 }that{}Chinese{中国 }food{菜 }actually{实际上 }has{有着 }such{}a{的 }long{悠久 }history{历史 }in{在 }America{美国 }dating{追溯 }from{到 }the{}1840s{19 年代 },{， }and{， }that{}it{它 }is{是 }a{的 一 }very{非常 }important{重要 }part{部分 }of{中 }the{}American{美国 }culinary{烹饪 }landscape{景观 },{}"{” }says{}Young{杨 }.{。 }
+
+#83They accelerated their plans , and got married in Carrie 's mother 's backyard in 2009 , right after their son was born .
+他们 加快 了 计划 ， 2009 年 ， 儿子 刚 出生 ， 他们 就 在 嘉莉 母亲 的 后院 结婚 了 。
+They{他们 }accelerated{加快 }their{了 }plans{计划 },{， }and{}got{}married{结婚 }in{在 }Carrie{嘉莉 }'s{}mother{母亲 }'s{的 }backyard{后院 }in{年 }2009{2009 },{， }right{就 }after{}their{他们 }son{儿子 }was{}born{出生 }.{。 }
+
+#84The answer is no according to an article by the Ganyong hotel research institute published on meadin.com , a commercial property information provider .
+根据 甘永 酒店 研究院 在 meadin 上 发表 的 一 篇 文章 ， 答案 是 否定 的 。 com ， 一 家 商业 地产 信息 提供商 。
+The{， }answer{答案 }is{是 }no{否定 }according{根据 }to{根据 }an{一 }article{文章 }by{}the{}Ganyong{甘永 }hotel{酒店 }research{研究院 }institute{研究院 }published{发表 }on{在 }meadin.com{meadin 。 com },{， }a{一 }commercial{商业 }property{地产 }information{信息 }provider{提供商 }.{。 }
+
+#85However , that need for speed to raise the foils means saving Venice wo n't be as easy as switching to electric , said Dr Pierpaolo Campostrini , managing director of CORILA , which studies the lagoon system in Venice .
+然而 ， 研究 威尼斯 泻湖 系统 的 CORILA 公司 董事 总经理 PierpaoloCampostrini 博士 说 ， 需要 提高 速度 来 提高 箔片 ， 这 意味着 拯救 威尼斯 不 会 像 改用 电力 那么 容易 。
+However{然而 },{， }that{这 }need{需要 }for{需要 }speed{速度 }to{来 }raise{提高 }the{}foils{箔片 }means{意味着 }saving{拯救 }Venice{威尼斯 }wo{}n't{不 }be{会 }as{那么 }easy{容易 }as{像 }switching{改用 }to{}electric{电力 },{}said{说 }Dr{}Pierpaolo{PierpaoloCampostrini }Campostrini{PierpaoloCampostrini },{博士 }managing{总经理 }director{总经理 }of{的 }CORILA{CORILA },{， }which{这 }studies{研究 }the{}lagoon{泻湖 }system{系统 }in{}Venice{}.{。 }
+
+#86Correction : This feature has been updated to clarify the description of how waat gai faan is cooked .
+更 正 ： 此 功能 已 更新 ， 以 澄清 对 waat gai faan 烹饪 方式 的 描述 。
+Correction{正 }:{： }This{此 }feature{功能 }has{已 }been{}updated{更新 }to{以 }clarify{澄清 }the{的 }description{描述 }of{对 }how{方式 }waat{waat }gai{gai }faan{faan }is{}cooked{烹饪 }.{。 }
+
+#87A " social orchard " with fresh produce has been created , bringing together groups of children for lessons on rural life , while a gastronomy school launches this year .
+一个 有 新鲜 农产品 的 “ 社交 果园 ” 已经 建立 ， 将 一 群 孩子 聚集 在 一起 ， 学习 农村 生活 ， 而 一 所 美食 学校 今年 也 成立 了 。
+A{一个 }"{“ }social{社交 }orchard{果园 }"{” }with{有 }fresh{新鲜 }produce{农产品 }has{已经 }been{}created{建立 },{， }bringing{将 }together{一起 }groups{群 }of{}children{孩子 }for{}lessons{学习 }on{}rural{农村 }life{生活 },{， }while{而 }a{一 }gastronomy{美食 }school{学校 }launches{成立 }this{今年 }year{今年 }.{。 }
+
+#88The terracing system exploits the force of gravity to direct rainwater to irrigate the plants .
+梯田 系统 利用 重力 引导 雨水 灌溉 植物 。
+The{}terracing{梯田 }system{系统 }exploits{利用 }the{}force{}of{}gravity{重力 }to{}direct{引导 }rainwater{雨水 }to{}irrigate{灌溉 }the{}plants{植物 }.{。 }
+
+#89More efforts need to be made to close the gap , given that the proportion stood at 60 percent in developed countries , the CHA said .
+CHA 说 ， 鉴于 发达国家 的 这 一 比例 为 60% ， 需要 做出 更 多 努力 来 缩小 这 一 差距 。
+More{更 }efforts{努力 }need{需要 }to{需要 }be{}made{做出 }to{来 }close{缩小 }the{这 }gap{差距 },{， }given{鉴于 }that{鉴于 }the{的 }proportion{比例 }stood{}at{为 }60{60% }percent{60% }in{}developed{发达国家 }countries{发达国家 },{}the{}CHA{CHA }said{说 }.{。 }
+
+#90Contributing to Young 's popularity , her books managed to overcome the challenge of explaining the many ethereal Chinese culinary concepts in English , a feat generations of Chinese food writers and lovers are grateful for .
+杨 的 书 深受 欢迎 ， 她 克服 了 用 英语 解释 许多 空灵 的 中国 烹饪 概念 的 挑战 ， 这 是 一个 令 几 代 中国 美食 作家 和 爱好者 感激 的 壮举 。
+Contributing{}to{}Young{杨 }'s{的 }popularity{欢迎 },{， }her{她 }books{书 }managed{}to{了 }overcome{克服 }the{的 }challenge{挑战 }of{}explaining{解释 }the{}many{许多 }ethereal{空灵 的 }Chinese{中国 }culinary{烹饪 }concepts{概念 }in{用 }English{英语 },{， }a{一个 }feat{令 }generations{代 }of{}Chinese{中国 }food{美食 }writers{作家 }and{和 }lovers{爱好者 }are{}grateful{感激 }for{}.{。 }
+
+#91However , he warned that maneuvering the boats at high speed around slower traffic could be difficult , and said that a rethink of the city 's transport is in order before decisions are taken .
+然而 ， 他 警告 说 ， 在 较 慢 的 交通 情况 下 高速 操纵 船只 可能 会 很 困难 ， 并 表示 ， 在 做出 决定 之前 ， 应该 重新 考虑 该市 的 交通 状况 。
+However{然而 },{， }he{他 }warned{警告 }that{， }maneuvering{操纵 }the{}boats{船只 }at{在 }high{高速 }speed{高速 }around{下 }slower{较 慢 }traffic{交通 }could{可能 }be{}difficult{困难 },{， }and{并 }said{表示 }that{， }a{}rethink{重新 }of{}the{该市 }city{该市 }'s{的 }transport{交通 }is{应该 }in{}order{}before{之前 }decisions{决定 }are{}taken{做出 }.{。 }
+
+#92One of the smallest and most sustainable resorts in the Maldives , Kudadoo has just 15 overwater residences powered entirely by solar panels .
+作为 马尔代夫 最 小 、 最 可 持续 的 度假 胜地 之一 ， 库达 多 只有 15 处 完全 由 太阳能 电池板 供电 的 水上 住宅 。
+One{之一 }of{作为 }the{的 之一 }smallest{小 }and{、 }most{最 }sustainable{持续 }resorts{胜地 }in{}the{}Maldives{马尔代夫 },{， }Kudadoo{库达 }has{}just{只有 }15{15 }overwater{水上 }residences{住宅 }powered{供电 }entirely{完全 }by{由 }solar{太阳能 }panels{电池板 }.{。 }
+
+#93For the hotel industry as a whole , she said the era of hotels only providing beds and meals is becoming a thing of the past .
+对于 整个 酒店业 而言 ， 她 表示 ， 酒店 只 提供 床位 和 餐饮 的 时代 已经 成为 过去 。
+For{对于 }the{整个 }hotel{酒店业 }industry{酒店业 }as{而言 }a{}whole{整个 },{， }she{她 }said{表示 }the{的 }era{时代 }of{}hotels{酒店 }only{只 }providing{提供 }beds{床位 }and{和 }meals{餐饮 }is{已经 }becoming{成为 }a{}thing{}of{}the{}past{过去 }.{。 }
+
+#94It had n't worked , but now the girl from the bus was walking towards him , and sitting herself next to him on the edge of the rock .
+这 不管 用 ， 但 现在 巴士 上 的 女孩 正 朝 他 走 来 ， 坐 在 他 旁边 的 岩石 边缘 上 。
+It{这 }had{}n't{不管 }worked{用 },{， }but{但 }now{现在 }the{的 }girl{女孩 }from{上 }the{}bus{巴士 }was{正 }walking{走 }towards{朝 }him{他 },{}and{， }sitting{坐 }herself{}next{旁边 }to{}him{他 }on{在 }the{的 }edge{边缘 }of{}the{}rock{岩石 }.{。 }
+
+#95Kris was still road tripping with his parents when he picked up Carrie 's message from a San Francisco internet cafe .
+当 克里斯 从 旧金山 的 一 家 网吧 收到 嘉莉 的 短信 时 ， 他 还 在 和 父母 一起 旅行 。
+Kris{克里斯 }was{}still{还 }road{}tripping{旅行 }with{和 }his{}parents{父母 }when{当 }he{他 }picked{收到 }up{收到 }Carrie{嘉莉 }'s{的 }message{短信 }from{从 }a{一 }San{旧金山 }Francisco{旧金山 }internet{网吧 }cafe{网吧 }.{。 }
+
+#96Soaring gracefully over the Sydney skyline , the Crown Sydney opened at the end of 2020 after four years of construction and a whopping $ 1 .
+悉尼 皇冠 酒店 优雅 地 矗立 在 悉尼 的 天际线 上 ， 经过 四 年 的 建设 ， 耗资 高 达 1 美元 ， 于 2020 年底 开业 。
+Soaring{矗立 }gracefully{优雅 }over{}the{的 }Sydney{悉尼 }skyline{天际线 },{， }the{}Crown{皇冠 }Sydney{}opened{开业 }at{于 }the{}end{年底 }of{年底 }2020{2020 }after{经过 }four{四 }years{年 }of{的 }construction{建设 }and{， }a{}whopping{耗资 高 }${美元 }1{1 }.{。 }
+
+#97The top 50 Chinese hotel groups combined had nearly 4 million guest rooms , covering 85 percent of the domestic chain hotel market .
+中国 前 50 大酒店 集团 总共 拥有 近 400 万间 客房 ， 占 国内 连锁 酒店 市场 的 85% 。
+The{}top{前 }50{50 }Chinese{中国 }hotel{大酒店 }groups{集团 }combined{总共 }had{拥有 }nearly{近 }4{400 }million{万间 }guest{客房 }rooms{客房 },{， }covering{占 }85{85% }percent{85% }of{的 }the{}domestic{国内 }chain{连锁 }hotel{酒店 }market{市场 }.{。 }
+
+#98For those who are n't familiar with the concept , patina is a brownish film on the surface of metals that is produced after a long period of continual usage .
+对于 那些 不 熟悉 这个 概念 的 人 来说 ， 铜绿 是 金属 表面 的 一 种 褐色 薄膜 ， 经过 长 时间 连续 使用 后 产生 。
+For{对于 }those{人 }who{}are{}n't{不 }familiar{熟悉 }with{}the{这个 }concept{概念 },{， }patina{铜绿 }is{是 }a{一 }brownish{褐色 }film{薄膜 }on{}the{}surface{表面 }of{}metals{金属 }that{， }is{}produced{产生 }after{经过 }a{经过 }long{长 }period{时间 }of{}continual{连续 }usage{使用 }.{。 }
+
+#99If a glamorous city escape is more your style , it does n't get much better than this sleek urban oasis on Sunset Boulevard .
+如果 一个 迷人 的 城市 逃脱 更 适合 你 的 风格 ， 那么 它 不 会 比 日落 大道 上 这 片 光滑 的 城市 绿洲 更 好 。
+If{如果 }a{一个 }glamorous{迷人 }city{城市 }escape{逃脱 }is{}more{更 }your{你 }style{风格 },{， }it{它 }does{会 }n't{不 }get{}much{}better{好 }than{比 }this{这 }sleek{光滑 }urban{城市 }oasis{绿洲 }on{上 }Sunset{日落 }Boulevard{大道 }.{。 }
+
+#100Di Ciacca was born in the fishing village of Cockenzie , outside Edinburgh , but says he always held a deep affection for his native land .
+迪 西亚 卡 出生 在 爱丁堡 郊外 的 渔村 科肯 齐 ， 但 他 说 ， 他 一直 对 自己 的 祖国 怀有 深厚 的 感情 。
+Di{迪 }Ciacca{西亚 卡 }was{}born{出生 }in{在 }the{的 }fishing{渔村 }village{渔村 }of{}Cockenzie{科肯 齐 },{}outside{郊外 }Edinburgh{爱丁堡 },{， }but{但 }says{说 }he{他 }always{一直 }held{怀有 }a{的 }deep{深厚 }affection{感情 }for{对 }his{自己 }native{祖国 }land{祖国 }.{。 }
+
+#101The village 's last inhabitant , says Di Ciacca , was a distant great aunt who passed away in 1969 .
+迪 · 夏卡 说 ， 该村 的 最后 一 位 居民 是 一 位 遥远 的 姑姑 ， 于 1969 年 去世 。
+The{该村 }village{该村 }'s{的 }last{最后 }inhabitant{居民 },{}says{说 }Di{迪 }Ciacca{夏卡 },{， }was{是 }a{一 }distant{遥远 }great{}aunt{姑姑 }who{}passed{去世 }away{去世 }in{于 年 }1969{1969 }.{。 }
+
+#102She was impressed by the creative design of the admission ticket , which carries a miniature version of The Analects of Confucius .
+她 对 门票 的 创意 设计 印象 深刻 ， 门票 上 有 微型 版 的 《 孔子 论语 》 。
+She{她 }was{}impressed{深刻 }by{对 }the{的 }creative{创意 }design{设计 }of{}the{}admission{门票 }ticket{门票 },{， }which{}carries{有 }a{}miniature{微型 }version{版 }of{的 }The{《 }Analects{论语 }of{}Confucius{孔子 }.{。 }
+
+#103Xanadu is situated idyllically amid the Xar Tala globeflower prairie and Xandii Gool wetlands on the upper reaches of the Luanhe River .
+世外桃源 位于 栾河 上游 的 Xar Tala 环球 花 草原 和 Xandii Gool 湿地 中 田园诗 般 的 田园诗 般 的 环境 中 。
+Xanadu{世外桃源 }is{}situated{位于 }idyllically{田园诗 般 }amid{位于 }the{的 }Xar{Xar }Tala{Tala }globeflower{环球 花 }prairie{草原 }and{和 }Xandii{Xandii }Gool{Gool }wetlands{湿地 }on{}the{的 }upper{上游 }reaches{上游 }of{}the{}Luanhe{栾河 }River{栾河 }.{。 }
+
+#104" I 'm trying , you know , to be very cool and try to catch her eye , as you do when you 're 19 , 20 years old , " recalls Kris .
+“ 你 知道 ， 我 正在 努力 变 得 非常 酷 ， 试图 吸引 她 的 眼球 ， 就 像 你 19 、 20 岁 时 所 做 的 那样 ， ” 克里斯 回忆 道 。
+"{“ }I{我 }'m{正在 }trying{努力 },{}you{你 }know{知道 },{， }to{得 }be{变 }very{非常 }cool{酷 }and{， }try{试图 }to{的 }catch{吸引 }her{她 }eye{眼球 },{， }as{像 }you{}do{做 }when{时 }you{你 }'re{}19{19 },{、 }20{20 }years{岁 }old{},{， }"{” }recalls{回忆 道 }Kris{克里斯 }.{。 }
+
+#105Zhong has adopted a local moniker , Otieno , a common family name in western Kenya , to build a rapport with colleagues and clients .
+Zhong 采用 了 当地 的 绰号 Otieno ， 这 是 肯尼亚 西部 的 一个 常见 姓氏 ， 与 同事 和 客户 建立 了 融洽 的 关系 。
+Zhong{Zhong }has{}adopted{采用 }a{的 }local{当地 }moniker{绰号 },{}Otieno{Otieno },{， }a{一个 }common{常见 }family{}name{姓氏 }in{的 }western{西部 }Kenya{肯尼亚 },{， }to{}build{建立 }a{的 }rapport{关系 }with{与 }colleagues{同事 }and{和 }clients{客户 }.{。 }
+
+#106This was more because she liked the view , suggests Carrie , than because she figured Kris would be an important figure in her daughter 's life .
+凯莉 说 ， 这 更 多 的 是 因为 她 喜欢 这个 观点 ， 而 不 是 因为 她 认为 克里斯 会 是 她 女儿 生命 中 的 重要 人物 。
+This{这 }was{是 }more{更 }because{因为 }she{她 }liked{喜欢 }the{这个 }view{观点 },{}suggests{说 }Carrie{凯莉 },{， }than{而 }because{因为 }she{她 }figured{认为 }Kris{克里斯 }would{会 }be{是 }an{的 }important{重要 }figure{人物 }in{}her{她 }daughter{女儿 }'s{}life{生命 }.{。 }
+
+#107Zha said that in addition to Bodh Gaya , destinations such as Nalanda , Rajgir , Vaishali and Patna , the capital of Bihar , are favorites among Chinese tourists , adding that the state is also home to numerous stupas .
+Zha 说 ， 除了 菩提 伽 耶 之外 ， 那 烂陀 ， 拉 杰吉尔 ， 瓦沙利 和 比哈尔邦 首府 巴特 那 等 目的地 也 是 中国 游客 的 最 爱 ， 并 补充 说 该州 也 是 众多 佛塔 的 所在地 。
+Zha{Zha }said{说 }that{， }in{}addition{除了 }to{除了 }Bodh{菩提 }Gaya{伽 耶 },{， }destinations{目的地 }such{等 }as{}Nalanda{那 烂陀 },{， }Rajgir{拉 杰吉尔 },{， }Vaishali{瓦沙利 }and{和 }Patna{巴特 那 },{}the{}capital{首府 }of{}Bihar{比哈尔邦 },{}are{是 }favorites{爱 }among{的 }Chinese{中国 }tourists{游客 },{， }adding{补充 }that{说 }the{该州 }state{该州 }is{是 }also{也 }home{所在地 }to{的 }numerous{众多 }stupas{佛塔 }.{。 }
+
+#108For travelers yearning for a tropical escape , overwater villas are the epitome of vacation goals .
+对于 渴望 热带 度假 的 旅行者 来说 ， 水上 别墅 是 度假 目标 的 缩影 。
+For{对于 }travelers{旅行者 }yearning{渴望 }for{渴望 }a{的 }tropical{热带 }escape{度假 },{， }overwater{水上 }villas{别墅 }are{是 }the{的 }epitome{缩影 }of{}vacation{度假 }goals{目标 }.{。 }
+
+#109He jokes this was a good thing , " because her email address was actually completely incomprehensible and impossible to remember .
+他 开玩笑 说 这 是 一 件 好事 ， “ 因为 她 的 电子 邮件 地址 实际上 是 完全 无法 理解 和 记忆 的 。
+He{他 }jokes{开玩笑 说 }this{这 }was{是 }a{一 }good{好事 }thing{好事 },{， }"{“ }because{因为 }her{她 }email{邮件 }address{地址 }was{是 }actually{实际上 }completely{完全 }incomprehensible{无法 理解 }and{和 }impossible{}to{}remember{记忆 }.{。 }
+
+#110Its long lap pool is the perfect spot to watch the light change , whether you 've selected a sunrise or sunset villa .
+它 的 长 游泳池 是 观看 光线 变化 的 理想 场所 ， 无论 您 是 选择 了 日出 别墅 还是 日落 别墅 。
+Its{它 }long{长 }lap{游泳池 }pool{游泳池 }is{是 }the{的 }perfect{理想 }spot{场所 }to{}watch{观看 }the{}light{光线 }change{变化 },{， }whether{无论 }you{您 }'ve{是 }selected{选择 }a{了 }sunrise{日出 }or{还是 }sunset{日落 }villa{别墅 }.{。 }
+
+#111Travelers canceling a nonrefundable flight more than 10 minutes before the scheduled departure time are given a credit with the airline .
+在 预定 起飞 时间 前 10 分钟 以上 取消 不 退款 航班 的 旅客 将 获得 航空 公司 的 积分 。
+Travelers{旅客 }canceling{取消 }a{的 }nonrefundable{不 退款 }flight{航班 }more{以上 }than{}10{10 }minutes{分钟 }before{前 }the{}scheduled{预定 }departure{起飞 }time{时间 }are{将 }given{获得 }a{的 }credit{积分 }with{}the{}airline{航空 }.{。 }
+
+#112The couple still had to spend the first 10 months of their son 's life living in different countries , as they waited for Kris ' green card .
+这 对 夫妇 仍然 不得不 在 儿子 生命 的 前 10 个 月 里 生活 在 不同 的 国家 ， 因为 他们 等待 克里斯 的 绿卡 。
+The{这 }couple{夫妇 }still{仍然 }had{不得不 }to{不得不 }spend{}the{的 }first{前 }10{10 }months{月 }of{里 }their{}son{儿子 }'s{}life{生命 }living{生活 }in{在 }different{不同 }countries{国家 },{， }as{因为 }they{他们 }waited{等待 }for{}Kris{克里斯 }'{的 }green{绿卡 }card{绿卡 }.{。 }
+
+#113Kris remembers calling his mother to say he was going to to visit Carrie in the US .
+克里斯 记得 打电话 给 他 的 母亲 ， 说 他 要 去 美国 看望 凯莉 。
+Kris{克里斯 }remembers{记得 }calling{打电话 }his{他 }mother{母亲 }to{， }say{说 }he{他 }was{}going{要 }to{要 }to{}visit{看望 }Carrie{凯莉 }in{去 }the{}US{美国 }.{。 }
+
+#114" Most tourists who come to Amalfi are unaware of this system just across the main road , " explains De Pasquale , leaving farmers cut off from the tourism dollars pouring into the region .
+“ 大多数 来到 阿 马尔菲 的 游客 都 不 知道 这个 系统 就 在 主干道 对面 ， ” De Pasquale 解释 说 ， 让 农民 无法 从 涌入 该 地区 的 旅游 资金 中 解脱 出来 。
+"{“ }Most{大多数 }tourists{游客 }who{的 }come{来到 }to{来到 }Amalfi{阿 马尔菲 }are{都 }unaware{不 知道 }of{}this{这个 }system{系统 }just{就 }across{对面 }the{}main{主干道 }road{主干道 },{， }"{” }explains{解释 }De{De }Pasquale{Pasquale },{， }leaving{让 }farmers{农民 }cut{解脱 }off{解脱 }from{从 }the{的 }tourism{旅游 }dollars{资金 }pouring{涌入 }into{涌入 }the{该 }region{地区 }.{。 }
+
+#115Moreover , during this year 's Qingming Festival , some upscale hotels and homestays in rural areas have cut their prices by about 30 percent , attracting many tourists to choose countryside travel , the manager said .
+此外 ， 在 今年 的 清明节 期间 ， 农村 地区 的 一些 高档 酒店 和 寄宿 家庭 将 价格 降低 了 约 30% ， 吸引 了 许多 游客 选择 乡村 旅游 ， 这 位 经理 说 。
+Moreover{此外 },{， }during{在 }this{今年 }year{今年 }'s{的 }Qingming{清明节 }Festival{清明节 },{， }some{一些 }upscale{高档 }hotels{酒店 }and{和 }homestays{寄宿 家庭 }in{}rural{农村 }areas{地区 }have{将 }cut{降低 }their{}prices{价格 }by{了 }about{约 }30{30% }percent{30% },{， }attracting{吸引 }many{许多 }tourists{游客 }to{}choose{选择 }countryside{乡村 }travel{旅游 },{， }the{这 }manager{经理 }said{说 }.{。 }
+
+#116" It 's like a perfect curve in the canyon , where when you 're sitting there , you 're looking straight out at the Colorado River coming in , " says Carrie .
+“ 这 就 像 峡谷 中 一个 完美 的 曲线 ， 当 你 坐 在 那里 时 ， 你 正 直视 科罗拉多河 进来 ， ” 凯莉 说 。
+"{“ }It{这 }'s{就 }like{像 }a{一个 }perfect{完美 }curve{曲线 }in{中 }the{}canyon{峡谷 },{， }where{}when{当 }you{你 }'re{}sitting{坐 }there{那里 },{， }you{你 }'re{正 }looking{直视 }straight{直视 }out{}at{}the{}Colorado{科罗拉多河 }River{科罗拉多河 }coming{进来 }in{进来 },{， }"{” }says{说 }Carrie{凯莉 }.{。 }
+
+#117" The increasing demand energizes accommodation in rural areas , with some having outperformed hotels in downtown areas . "
+“ 不断 增长 的 需求 为 农村 地区 的 住宿 注入 了 活力 ， 其中 一些 地区 的 住宿 表现 优于 市中心 的 酒店 。
+"{“ }The{的 }increasing{增长 }demand{需求 }energizes{为 注入 活力 }accommodation{住宿 }in{的 }rural{农村 }areas{地区 },{， }with{其中 }some{一些 }having{表现 }outperformed{优于 }hotels{酒店 }in{的 }downtown{市中心 }areas{地区 }.{。 }"{}
+
+#118Nautilus works with surrounding islands to purchase locally grown produce , buy handcrafted decor and employ craftsmen .
+鹦鹉螺 号 与 周围 的 岛屿 合作 ， 购买 当地 种植 的 农产品 ， 购买 手工 制作 的 装饰 并 雇用 工匠 。
+Nautilus{鹦鹉螺 }works{合作 }with{与 }surrounding{周围 }islands{岛屿 }to{， }purchase{购买 }locally{当地 }grown{种植 }produce{农产品 },{， }buy{购买 }handcrafted{手工 制作 }decor{装饰 }and{并 }employ{雇用 }craftsmen{工匠 }.{。 }
+
+#119Looking into the future , Tang Min with Six Senses Qing Cheng Mountain told Jing Daily that the concept of sustainable development will be a major trend in the wellness hotel industry .
+展望 未来 ， 清城 山六 善 酒店 的 唐敏 告诉 《 京 日报 》 ， 可 持续 发展 的 理念 将 成为 养生 酒店 行业 的 一 大 趋势 。
+Looking{展望 }into{}the{}future{未来 },{， }Tang{唐敏 }Min{唐敏 }with{}Six{山六 }Senses{}Qing{清城 }Cheng{清城 }Mountain{山六 }told{告诉 }Jing{京 }Daily{日报 }that{， }the{的 }concept{理念 }of{}sustainable{可 持续 }development{发展 }will{将 }be{成为 }a{一 }major{大 }trend{趋势 }in{}the{}wellness{养生 }hotel{酒店 }industry{行业 }.{。 }
+
+#120New guest suites will more than double in size , with deep baths and indoor showers as well as outdoor decks with private plunge pools .
+新 的 套房 面积 将 增加 一 倍 以上 ， 设有 深 浴缸 和 室内 淋浴 以及 带 私人 小型 游泳池 的 户外 甲板 。
+New{新 }guest{}suites{套房 }will{将 }more{}than{以上 }double{增加 }in{}size{面积 },{， }with{设有 }deep{深 }baths{浴缸 }and{和 }indoor{室内 }showers{淋浴 }as{以及 }well{以及 }as{}outdoor{户外 }decks{甲板 }with{带 }private{私人 }plunge{小型 }pools{游泳池 }.{。 }
+
+#121" It 's been really a journey of growth and personal development , relationship development for us , " says Kris of the fourteen years since he and Carrie reunited .
+“ 对 我们 来说 ， 这 真的 是 一 段 成长 和 个人 发展 的 旅程 ， 关系 发展 ， ” 克里斯 说 ， 自从 他 和 凯莉 重 聚 以来 的 十四 年 里 。
+"{“ }It{这 }'s{}been{}really{真的 }a{一 }journey{旅程 }of{的 }growth{成长 }and{和 }personal{个人 }development{发展 },{， }relationship{关系 }development{发展 }for{对 }us{我们 },{， }"{” }says{说 }Kris{克里斯 }of{， }the{的 }fourteen{十四 }years{年 }since{自从 }he{他 }and{和 }Carrie{凯莉 }reunited{重 聚 }.{。 }
+
+#122Of the 13.47 million guest rooms across the country , 35 percent were owned by chain hotels in 2021 , up 4 percentage points from 2020 , according to the report .
+报告 显示 ， 在 全国 1347 万间 客房 中 ， 2021 年 有 35% 由 连锁 酒店 拥有 ， 比 2020 年 增加 了 4 个 百分点 。
+Of{在 中 }the{}13.47{1347 }million{万间 }guest{客房 }rooms{客房 }across{全国 }the{}country{全国 },{， }35{35% }percent{35% }were{}owned{拥有 }by{由 }chain{连锁 }hotels{酒店 }in{年 }2021{2021 },{， }up{比 增加 }4{4 }percentage{百分点 }points{百分点 }from{}2020{2020 },{}according{显示 }to{}the{}report{报告 }.{。 }
+
+#123" I 've been fascinated by Confucius and the culture of Confucianism since childhood , " says Kseniia , who is from Ukraine and currently working and studying in China .
+“ 我 从小 就 对 孔子 和 儒家 文化 着迷 ， ” 来自 乌克兰 、 目前 在 中国 工作 和 学习 的 Kseniia 说 。
+"{“ }I{我 }'ve{}been{}fascinated{着迷 }by{对 }Confucius{孔子 }and{和 }the{}culture{文化 }of{}Confucianism{儒家 }since{从小 }childhood{从小 },{， }"{” }says{说 }Kseniia{Kseniia },{}who{的 }is{}from{来自 }Ukraine{乌克兰 }and{}currently{目前 }working{工作 }and{和 }studying{学习 }in{在 }China{中国 }.{。 }
+
+#124" But I do remember that there was this really intense feeling you get with butterflies , and just like that longing .
+“ 但 我 确实 记得 ， 你 对 蝴蝶 有 一 种 非常 强烈 的 感觉 ， 就 像 那种 渴望 一样 。
+"{“ }But{但 }I{我 }do{确实 }remember{记得 }that{， }there{有 }was{}this{一 }really{非常 }intense{强烈 }feeling{感觉 }you{你 }get{}with{对 }butterflies{蝴蝶 },{， }and{}just{就 }like{像 }that{那种 }longing{渴望 }.{。 }
+
+#125" Also the migrant community in Edinburgh , where many had moved to , helped me in the search .
+“ 爱丁堡 的 移民 社区 也 帮助 我 进行 了 搜索 ， 许多 人 搬 到 了 那里 。
+"{“ }Also{也 }the{的 }migrant{移民 }community{社区 }in{}Edinburgh{爱丁堡 },{}where{那里 }many{许多 }had{}moved{搬 }to{到 },{， }helped{帮助 }me{我 }in{进行 }the{了 }search{搜索 }.{。 }
+
+#126Moreover , a wellness hotel should provide care for the guest 's body , mind and spirit , and try to foster a harmonious relationship among nature , space , people and services , according to the article .
+此外 ， 根据 该 文章 ， 健康 酒店 应该 照顾 客人 的 身体 ， 心灵 和 精神 ， 并 努力 培养 自然 ， 空间 ， 人 和 服务 之间 的 和谐 关系 。
+Moreover{此外 },{， }a{}wellness{健康 }hotel{酒店 }should{应该 }provide{照顾 }care{照顾 }for{}the{}guest{客人 }'s{的 }body{身体 },{， }mind{心灵 }and{和 }spirit{精神 },{， }and{并 }try{努力 }to{}foster{培养 }a{的 }harmonious{和谐 }relationship{关系 }among{之间 }nature{自然 },{， }space{空间 },{， }people{人 }and{和 }services{服务 },{}according{根据 }to{根据 }the{该 }article{文章 }.{。 }
+
+#127It was a stunning view , but her attention soon switched to the person sitting next to her .
+这 是 一个 令 人 惊叹 的 景色 ， 但 她 的 注意力 很快 就 转移 到 了 坐 在 她 旁边 的 人 身上 。
+It{这 }was{是 }a{一个 }stunning{惊叹 }view{景色 },{， }but{但 }her{她 }attention{注意力 }soon{很快 }switched{转移 }to{到 }the{了 }person{人 }sitting{坐 }next{旁边 }to{在 }her{她 }.{。 }
+
+#128" I would n't have dreamed that President Xi Jinping would come to my home , and sincerely inquire about our lives , " Li says .
+“ 我 不 会 想到 习近平 总统 会 来 我家 ， 真诚 地 询问 我们 的 生活 ， ” 李说 。
+"{“ }I{我 }would{会 }n't{不 }have{}dreamed{想到 }that{想到 }President{总统 }Xi{习近平 }Jinping{习近平 }would{会 }come{来 }to{}my{我家 }home{我家 },{， }and{， }sincerely{真诚 地 }inquire{询问 }about{}our{我们 }lives{生活 },{， }"{” }Li{李说 }says{李说 }.{。 }
+
+#129" We know it 's going to be hard , it 's not like it 's magic , all the time .
+“ 我们 知道 这 将 是 困难 的 ， 这 并 不 像 是 魔术 ， 一直 都 是 。
+"{“ }We{我们 }know{知道 }it{这 }'s{是 }going{将 }to{的 }be{是 }hard{困难 },{， }it{这 }'s{}not{不 }like{像 }it{}'s{是 }magic{魔术 },{， }all{一直 }the{}time{一直 }.{。 }
+
+#130" Because we had this magical beginning , we just felt the ability and the safety to be able to share things with each other that we would n't have done otherwise .
+“ 因为 我们 有 这个 神奇 的 开始 ， 我们 只是 感受 到 了 能够 相互 分享 事物 的 能力 和 安全感 ， 否则 我们 就 不 会 这样 做 。
+"{“ }Because{因为 }we{我们 }had{有 }this{这个 }magical{神奇 }beginning{开始 },{， }we{我们 }just{只是 }felt{感受 }the{了 的 }ability{能力 }and{和 }the{}safety{安全感 }to{}be{}able{能够 }to{}share{分享 }things{事物 }with{}each{相互 }other{}that{否则 }we{我们 }would{会 }n't{不 }have{}done{做 }otherwise{这样 }.{。 }
+
+#131Bucolic marathons are held in spring , with people running up and down the vineyards and then relaxing at the little piazza where villagers once met to chat in the evenings after working in the fields .
+田园诗 般 的 马拉松 在 春天 举行 ， 人们 在 葡萄园 里 跑 来 跑 去 ， 然后 在 小 广场 放松 ， 村民 们 曾经 在 晚上 在 田间 工作 后 见面 聊天 。
+Bucolic{田园诗 }marathons{马拉松 }are{}held{举行 }in{在 }spring{春天 },{， }with{}people{人们 }running{跑 }up{来 去 }and{来 }down{}the{里 }vineyards{葡萄园 }and{， }then{然后 }relaxing{放松 }at{在 }the{}little{小 }piazza{广场 }where{， }villagers{村民 }once{曾经 }met{}to{}chat{见面 聊天 }in{在 }the{}evenings{晚上 }after{后 }working{工作 }in{在 }the{}fields{田间 }.{。 }
+
+#132Its 24 striking overwater villas have infinity plunge pools and sublimely serene views from the soaking tub .
+其 24 间 引人注目 的 水上 别墅 设有 无边 小型 游泳池 ， 从 浸泡 浴缸 可 欣赏 到 壮丽 的 宁静 景色 。
+Its{其 }24{24 }striking{引人注目 }overwater{水上 }villas{别墅 }have{设有 }infinity{无边 }plunge{}pools{游泳池 }and{， }sublimely{壮丽 }serene{宁静 }views{景色 }from{从 }the{}soaking{浸泡 }tub{浴缸 }.{。 }
+
+#133The large Sfusato or Amalfi lemon is cultivated in an area that stretches along the Tyrrhenian Sea between Naples and the Gulf of Salerno .
+大型 Sfusato 或 Amalfi 柠檬 种植 在 那 不勒斯 和 萨勒诺 湾 之间 的 第勒 尼安海 沿岸 的 地区 。
+The{}large{大型 }Sfusato{Sfusato }or{或 }Amalfi{Amalfi }lemon{柠檬 }is{}cultivated{种植 }in{在 }an{的 }area{地区 }that{}stretches{}along{沿岸 }the{的 }Tyrrhenian{第勒 尼安海 }Sea{尼安海 }between{之间 }Naples{那 不勒斯 }and{和 }the{}Gulf{湾 }of{}Salerno{萨勒诺 }.{。 }
+
+#134The northern end of the palace city contained one of Xanadu 's largest remains , identified as the Muqing Pavilion , where its rulers held impressive banquets .
+宫殿 城市 的 北端 包含 世外桃源 最 大 的 遗迹 之一 ， 被 确定 为 木清阁 ， 其 统治者 在 那里 举行 了 令 人 印象 深刻 的 宴会 。
+The{的 }northern{北端 }end{北端 }of{}the{}palace{宫殿 }city{城市 }contained{包含 }one{之一 }of{}Xanadu{世外桃源 }'s{的 }largest{大 }remains{遗迹 },{， }identified{确定 }as{为 }the{}Muqing{木清阁 }Pavilion{木清阁 },{， }where{那里 }its{其 }rulers{统治者 }held{举行 }impressive{深刻 }banquets{宴会 }.{。 }
+
+#135With a noticeable juvenile manta ray population in the atoll 's Maamunagau Lagoon , the resort works with Manta Trust researchers to aid in the education and conservation of these giant , playful fish and their habitat .
+在 环礁 的 Maamunagau 泻湖 中 ， 有 一个 明显 的 幼年 蝠 鲼 种群 ， 该 度假村 与 蝠 鲼 信托 基金会 的 研究 人员 合作 ， 帮助 教育 和 保护 这些 巨型 ， 俏皮 的 鱼类 及其 栖息地 。
+With{有 }a{一个 }noticeable{明显 }juvenile{幼年 }manta{蝠 鲼 }ray{鲼 }population{种群 }in{在 }the{}atoll{环礁 }'s{的 }Maamunagau{Maamunagau }Lagoon{泻湖 },{， }the{该 }resort{度假村 }works{合作 }with{与 }Manta{蝠 鲼 }Trust{信托 }researchers{研究 }to{， }aid{帮助 }in{}the{}education{教育 }and{和 }conservation{保护 }of{}these{这些 }giant{巨型 },{， }playful{俏皮 }fish{鱼类 }and{及其 }their{及其 }habitat{栖息地 }.{。 }
+
+#136From time to time , Li Fashun will reminisce about the visit of a special guest to his abode in Simola Va village two years ago .
+李发 顺会 时不时 地 回忆 起 两 年 前 一 位 特邀 嘉宾 来到 他 位于 西莫 拉瓦 村 的 住所 。
+From{}time{时不时 }to{}time{时不时 },{时不时 }Li{李发 }Fashun{李发 顺会 }will{}reminisce{回忆 }about{起 }the{的 }visit{来到 }of{}a{一 }special{特邀 }guest{特邀 嘉宾 }to{来到 }his{他 }abode{住所 }in{位于 }Simola{西莫 拉瓦 }Va{拉瓦 }village{村 }two{两 }years{年 }ago{前 }.{。 }
+
+#137The tourism market is accelerating its recovery with the summer holiday approaching and it will drive a rapid rebound in the hospitality sector , Xie said .
+谢说 ， 随着 暑假 的 临近 ， 旅游 市场 正在 加速 复苏 ， 这 将 推动 酒店业 的 快速 反弹 。
+The{， }tourism{旅游 }market{市场 }is{正在 }accelerating{加速 }its{}recovery{复苏 }with{随着 }the{的 }summer{暑假 }holiday{暑假 }approaching{临近 }and{， }it{这 }will{将 }drive{推动 }a{的 }rapid{快速 }rebound{反弹 }in{}the{}hospitality{酒店业 }sector{酒店业 },{}Xie{谢说 }said{谢说 }.{。 }
+
+#138The quality of sleep is arguably one of the most important determinants of good health .
+睡眠 质量 可以 说 是 身体 健康 最 重要 的 决定 因素 之一 。
+The{}quality{质量 }of{}sleep{睡眠 }is{是 }arguably{可以 说 }one{之一 }of{}the{的 }most{最 }important{重要 }determinants{因素 }of{}good{}health{健康 }.{。 }
+
+#139Li believes that better things are yet to come for his village once the pandemic is fully over .
+李 认为 ， 一旦 大 流行 完全 结束 ， 他 的 村庄 还 没有 更 好 的 事情 发生 。
+Li{李 }believes{认为 }that{， }better{更 }things{事情 }are{还 没有 }yet{还 }to{的 }come{发生 }for{}his{他 }village{村庄 }once{一旦 }the{}pandemic{大 流行 }is{}fully{完全 }over{结束 }.{。 }
+
+#140But today they have been either abandoned or turned into holiday homes and illegal constructions .
+但 今天 ， 它们 要么 被 遗弃 ， 要么 变成 了 度假 屋 和 非法 建筑 。
+But{但 }today{今天 }they{它们 }have{， }been{被 }either{要么 }abandoned{遗弃 }or{， }turned{变成 }into{变成 }holiday{度假 }homes{屋 }and{和 }illegal{非法 }constructions{建筑 }.{。 }
+
+#141An increased need to improve the quality of sleep has presented new opportunities to hotels where many guests sleep in .
+对 提高 睡眠 质量 的 需求 增加 ， 为 许多 客人 就 寝 的 酒店 带来 了 新 的 机会 。
+An{}increased{增加 }need{需求 }to{对 }improve{提高 }the{的 }quality{质量 }of{}sleep{睡眠 }has{， }presented{带来 }new{新 }opportunities{机会 }to{为 }hotels{酒店 }where{}many{许多 }guests{客人 }sleep{就 寝 }in{}.{。 }
+
+#142The National Cultural Heritage Administration , the Palace Museum and museums from other provinces will attend the travel mart .
+国家 文物局 、 故宫 博物院 等 省 博物馆 将 参加 此次 旅游 市场 。
+The{}National{国家 }Cultural{文物局 }Heritage{}Administration{文物局 },{、 }the{}Palace{故宫 }Museum{博物院 }and{等 }museums{}from{}other{}provinces{省 }will{将 }attend{参加 }the{此次 }travel{旅游 }mart{市场 }.{。 }
+
+#143Each villa also comes with a retractable roof so kids can doze off beneath the stars .
+每 栋 别墅 还 配有 可 伸缩 的 屋顶 ， 因此 孩子 们 可以 在 星空 下 打瞌睡 。
+Each{每 }villa{别墅 }also{还 }comes{}with{配有 }a{的 }retractable{伸缩 }roof{屋顶 }so{因此 }kids{孩子 }can{可以 }doze{打瞌睡 }off{}beneath{下 }the{}stars{星空 }.{。 }
+
+#144Faced with the prospect of another sweltering summer in Beijing , those soothing moments of natural splendor will continue to linger in my mind .
+面对 北京 又 一个 闷热 的 夏天 的 前景 ， 那些 舒缓 的 自然 辉煌 时刻 将 继续 在 我 的 脑海 中 徘徊 。
+Faced{面对 }with{面对 }the{的 }prospect{前景 }of{}another{又 }sweltering{闷热 }summer{夏天 }in{}Beijing{北京 },{， }those{那些 }soothing{舒缓 }moments{时刻 }of{的 }natural{自然 }splendor{辉煌 }will{将 }continue{继续 }to{}linger{徘徊 }in{在 }my{我 }mind{脑海 }.{。 }
+
+#145" It would be interesting to do some experiments , but before this possibility is introduced on a large scale , all lagoon water mobility should be rethought , " he said .
+“ 做 一些 实验 会 很 有趣 ， 但 在 大规模 引入 这种 可能性 之前 ， 应该 重新 考虑 所有 泻 湖水 的 流动性 ， ” 他 说 。
+"{“ }It{}would{会 }be{很 }interesting{有趣 }to{}do{做 }some{一些 }experiments{实验 },{， }but{但 }before{之前 }this{这种 }possibility{可能性 }is{}introduced{引入 }on{}a{}large{大规模 }scale{大规模 },{， }all{所有 }lagoon{泻 湖水 }water{湖水 }mobility{流动性 }should{应该 }be{}rethought{重新 考虑 },{， }"{” }he{他 }said{说 }.{。 }
+
+#146Kimpton Hotels & Restaurants , a brand owned by InterContinental Hotels Group , announced in February a partnership with Talkspace , an online behavioral health company , offering mental health services to guests as well as employees .
+洲际 酒店 集团 旗 下 的 品牌 金普顿 酒店 及 餐厅 （ Kimpton Hotels & Restaurants ） 于 2 月 宣布 与 在线 行为 健康 公司 Talkspace 合作 ， 为 客人 和 员工 提供 心理 健康 服务 。
+Kimpton{Kimpton }Hotels{Hotels }&{& }Restaurants{Restaurants },{（ }a{的 }brand{品牌 }owned{旗 下 }by{}InterContinental{洲际 }Hotels{}Group{集团 },{） }announced{宣布 }in{于 }February{2 }a{}partnership{合作 }with{与 }Talkspace{Talkspace },{}an{}online{在线 }behavioral{行为 }health{健康 }company{公司 },{， }offering{提供 }mental{心理 }health{健康 }services{服务 }to{为 }guests{客人 }as{}well{和 }as{}employees{员工 }.{。 }
+
+#147Kris had spotted Carrie earlier that day , on one of the buses that ferry visitors around the national park .
+那天 早 些 时候 ， 克里斯 在 一 辆 将 游客 送往 国家 公园 的 公共 汽车 上 发现 了 凯莉 。
+Kris{克里斯 }had{}spotted{发现 }Carrie{凯莉 }earlier{早 }that{那天 }day{那天 },{， }on{在 }one{一 }of{}the{的 }buses{汽车 }that{将 }ferry{将 送往 }visitors{游客 }around{送往 }the{}national{国家 }park{公园 }.{。 }
+
+#148That motivated me to do everything that I could to help , " Young tells CNN Travel .
+这 激励 我 尽 我 所 能 提供 帮助 ， “ Young 告诉 CNN Travel 。
+That{这 }motivated{激励 }me{我 }to{}do{}everything{所 }that{}I{我 }could{能 }to{提供 }help{帮助 },{， }"{“ }Young{Young }tells{告诉 }CNN{CNN }Travel{Travel }.{。 }
+
+#149Begrudgingly , Carrie agreed , and made her way to the edge of the rock to sit down next to the stranger .
+凯莉 不 情愿 地 同意 了 ， 并 走 到 岩石 的 边缘 ， 在 陌生人 旁边 坐下 。
+Begrudgingly{不 情愿 地 },{}Carrie{凯莉 }agreed{同意 },{， }and{并 }made{}her{}way{走 }to{到 }the{的 }edge{边缘 }of{}the{}rock{岩石 }to{， }sit{坐下 }down{坐下 }next{旁边 }to{在 }the{}stranger{陌生人 }.{。 }
+
+#150Not to be confused with its sister property , Four Seasons Resort Kuda Huraa , the overwater villas at Four Seasons Resort Maldives at Landaa Giraavaru are a slight step above .
+不要 与其 姊妹 酒店 库达 呼拉岛 四季 度假 酒店 相 混淆 ， 马尔代夫 兰 达 吉 拉瓦 鲁岛 四季 度假 酒店 的 水上 别墅 仅 略 高于 酒店 。
+Not{不要 }to{不要 }be{}confused{混淆 }with{与其 }its{与其 }sister{姊妹 }property{酒店 },{库达 }Four{四季 }Seasons{四季 }Resort{酒店 }Kuda{库达 }Huraa{呼拉岛 },{， }the{的 }overwater{水上 }villas{别墅 }at{}Four{四季 }Seasons{四季 }Resort{酒店 }Maldives{}at{}Landaa{}Giraavaru{吉 拉瓦 鲁岛 }are{}a{}slight{略 }step{}above{}.{。 }
+
+#151" Since the outbreak of the pandemic , leisure travel to suburbs and rural areas are in demand among tourists , " a manager of Qunar was quoted as saying by Beijing Daily .
+“ 自大 流行 爆发 以来 ， 游客 对 郊区 和 农村 地区 的 休闲 旅游 需求 旺盛 ， ” 北京 日报 援引 去 哪儿 的 一 位 经理 的话 说 。
+"{“ }Since{自大 }the{的 }outbreak{爆发 }of{}the{}pandemic{自大 流行 },{， }leisure{休闲 }travel{旅游 }to{对 }suburbs{郊区 }and{和 }rural{农村 }areas{地区 }are{}in{}demand{旺盛 }among{}tourists{游客 },{， }"{” }a{一 }manager{经理 }of{}Qunar{哪儿 }was{}quoted{援引 }as{的话 }saying{说 }by{}Beijing{北京 }Daily{日报 }.{。 }
+
+#152Domestic hospitality can get a vital upgrade if they absorb more independent hoteliers in small cities and implement localization strategies , the professor added .
+教授 补充 说 ， 如果 国内 酒店业 吸收 更 多 的 小 城市 独立 酒店 经营者 并 实施 本地化 战略 ， 那么 它们 就 可以 得到 至关重要 的 升级 。
+Domestic{国内 }hospitality{酒店业 }can{可以 }get{得到 }a{的 }vital{至关重要 }upgrade{升级 }if{如果 }they{它们 }absorb{吸收 }more{更 }independent{独立 }hoteliers{酒店 经营者 }in{的 }small{小 }cities{城市 }and{并 }implement{实施 }localization{本地化 }strategies{战略 },{， }the{}professor{教授 }added{补充 }.{。 }
+
+#153The travel mart will also stick to the rules of pandemic prevention and control while having the activities go on smoothly .
+旅游 市场 还 将 坚持 疫情 防控 规则 ， 同时 让 活动 顺利 进行 。
+The{}travel{旅游 }mart{市场 }will{将 }also{还 }stick{坚持 }to{}the{}rules{规则 }of{}pandemic{疫情 }prevention{防控 }and{}control{防控 }while{同时 }having{让 }the{}activities{活动 }go{进行 }on{}smoothly{顺利 }.{。 }
+
+#154The organization says there is a need to " drastically reduce the effects produced by motor boats .
+该 组织 表示 ， 有 必要 “ 大幅 减少 摩托艇 产生 的 影响 。
+The{该 }organization{组织 }says{表示 }there{有 }is{}a{}need{必要 }to{}"{“ }drastically{大幅 }reduce{减少 }the{的 }effects{影响 }produced{产生 }by{}motor{摩托艇 }boats{摩托艇 }.{。 }
+
+#155Buddhists around the world consider the temple city of Bodh Gaya in Bihar state , about 500 kilometers from Kolkata , one of the most important pilgrimage centers for the religion .
+世界 各地 的 佛教徒 都 认为 比哈尔邦 的 菩提 伽 耶 寺庙 城市 ， 距离 加尔各答 约 500 公里 ， 加尔各答 是 该 宗教 最 重要 的 朝圣 中心 之一 。
+Buddhists{佛教徒 }around{各地 }the{的 }world{世界 }consider{认为 }the{的 }temple{寺庙 }city{城市 }of{}Bodh{比哈尔邦 菩提 }Gaya{伽 耶 }in{}Bihar{比哈尔邦 }state{比哈尔邦 },{， }about{约 }500{500 }kilometers{公里 }from{距离 }Kolkata{加尔各答 },{， }one{之一 }of{}the{}most{最 }important{重要 }pilgrimage{朝圣 }centers{中心 }for{}the{该 }religion{宗教 }.{。 }
+
+#156With no plaque or indication of any kind as to what this wall might be , my curiosity was peaked .
+由于 没有 牌匾 或 迹象 表明 这 堵 墙 可能 是 什么 ， 我 的 好奇心 达到 了 顶峰 。
+With{由于 }no{没有 }plaque{牌匾 }or{或 }indication{迹象 }of{}any{}kind{}as{表明 }to{}what{什么 }this{这 }wall{墙 }might{可能 }be{是 },{， }my{我 }curiosity{好奇心 }was{达到 了 }peaked{顶峰 }.{。 }
+
+#157Carrie and Kris ' email friendship continued over the next several years as the two graduated from college , started working , and remained in each other 's orbit .
+在 接下来 的 几 年 里 ， 凯莉 和 克里斯 的 电子 邮件 友谊 一直 延续 ， 两 人 从 大学 毕业 ， 开始 工作 ， 并 留 在 彼此 的 轨道 上 。
+Carrie{凯莉 }and{和 }Kris{克里斯 }'{的 }email{邮件 }friendship{友谊 }continued{延续 }over{在 }the{的 }next{接下来 }several{几 }years{年 }as{， }the{}two{两 }graduated{毕业 }from{从 }college{大学 },{， }started{开始 }working{工作 },{， }and{并 }remained{留 }in{在 }each{彼此 }other{彼此 }'s{的 }orbit{轨道 }.{。 }
+
+#158So the concerned daughter went back to her family 's home and made tender chicken on rice in a small pot .
+于是 ， 忧心忡忡 的 女儿 回 到 家里 ， 在 小锅 里 做 了 米饭 上 的 嫩 鸡肉 。
+So{于是 }the{的 }concerned{忧心忡忡 }daughter{女儿 }went{}back{回 }to{到 }her{}family{家里 }'s{}home{}and{， }made{做 }tender{嫩 }chicken{鸡肉 }on{}rice{米饭 }in{在 }a{}small{小锅 }pot{小锅 }.{。 }
+
+#159With mountains rising behind serene Lake Wakatipu , Matakauri Lodge boasts a stunning setting in New Zealand 's South Island .
+马塔 考里 旅馆 的 山脉 耸立 在 宁静 的 瓦 卡蒂普 湖 后面 ， 在 新西兰 南岛 拥有 令 人 惊叹 的 环境 。
+With{}mountains{山脉 }rising{耸立 }behind{后面 }serene{宁静 }Lake{湖 }Wakatipu{瓦 卡蒂普 },{， }Matakauri{马塔 考里 }Lodge{旅馆 }boasts{拥有 }a{的 }stunning{惊叹 }setting{环境 }in{在 }New{新西兰 }Zealand{新西兰 }'s{}South{南岛 }Island{南岛 }.{。 }
+
+#160Built in 2013 , they look brand new , with every inch perfectly finished by a team of craftsmen from Europe .
+它们 建 于 2013 年 ， 看 起来 是 全新 的 ， 每 一 寸 都 由 来自 欧洲 的 工匠 团队 完美 完成 。
+Built{建 }in{于 }2013{2013 },{， }they{它们 }look{看 }brand{全新 }new{全新 },{， }with{}every{每 }inch{寸 }perfectly{完美 }finished{完成 }by{由 }a{}team{团队 }of{的 }craftsmen{工匠 }from{来自 }Europe{欧洲 }.{。 }
+
+#161But Aceto is among the last guardians of this vulnerable tradition now threatened by industrialization , changes in society and climate change .
+但 阿塞托 是 这 一 脆弱 传统 的 最后 守护者 之一 ， 现在 受到 工业化 、 社会 变革 和 气候 变化 的 威胁 。
+But{但 }Aceto{阿塞托 }is{是 }among{}the{的 之一 }last{最后 }guardians{守护者 }of{}this{这 }vulnerable{脆弱 }tradition{传统 }now{现在 }threatened{威胁 }by{受到 }industrialization{工业化 },{、 }changes{变革 }in{}society{社会 }and{和 }climate{气候 }change{变化 }.{。 }
+
+#162President Xi Jinping 's visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Yang Feiyue in Beijing and Li Yingqing in Kunming .
+习近平 主席 的 访问 是 庆祝 农村 社区 的 新 时代 ， 当之无愧 地 收获 了 农村 社区 的 工作 成果 ， 杨 飞跃 在 北京 报道 ， 李英清 在 昆明 报道 。
+President{主席 }Xi{习近平 }Jinping{习近平 }'s{的 }visit{访问 }celebrates{庆祝 }new{新 }era{时代 }for{}rural{农村 }community{社区 },{， }deservedly{当之无愧 地 }reaping{收获 }the{的 }harvest{}of{}its{当之无愧 }work{工作 },{， }report{报道 }Yang{杨 }Feiyue{飞跃 }in{在 }Beijing{北京 }and{， }Li{李英清 }Yingqing{李英清 }in{在 }Kunming{昆明 }.{。 }
+
+#163Whether writing wok recipes or advocating for Chinatowns , she says she 's not only doing it for the Chinese communities in the US .
+她 说 ， 无论是 写 炒锅 食谱 还是 倡导 唐人街 ， 她 不仅 为 美国 的 华人 社区 做 这 件 事 。
+Whether{无论是 }writing{写 }wok{炒锅 }recipes{食谱 }or{还是 }advocating{倡导 }for{}Chinatowns{唐人街 },{， }she{她 }says{说 }she{她 }'s{}not{不仅 }only{不仅 }doing{做 }it{这 }for{为 }the{的 }Chinese{华人 }communities{社区 }in{}the{}US{美国 }.{。 }
+
+#164For someone who has succeeded in convincing 140 people to offload their minuscule slice of property to create a big project , it should n't be too hard .
+对于 一个 已经 成功 地 说服 了 140 个人 放弃 他们 微不足道 的 财产 来 创建 一个 大 项目 的 人 来说 ， 这 应该 不 会 太 难 。
+For{对于 }someone{人 }who{}has{已经 }succeeded{成功 }in{地 }convincing{说服 }140{140 }people{个人 }to{}offload{放弃 }their{他们 }minuscule{微不足道 }slice{}of{的 }property{财产 }to{来 }create{创建 }a{一个 }big{大 }project{项目 },{， }it{这 }should{应该 }n't{不 }be{}too{太 }hard{难 }.{。 }
+
+#165" The ' Wisdom of the Chinese Kitchen ' was published in 1999 and about 10 years later I got a call that my mom had a stroke , " says Young .
+“ 《 中国 厨房 的 智慧 》 于 1999 年 出版 ， 大约 10 年 后 ， 我 接到 一个 电话 ， 说 我 妈妈 中风 了 ， ” 杨 说 。
+"{“ }The{}'{《 }Wisdom{智慧 }of{的 }the{的 }Chinese{中国 }Kitchen{厨房 }'{》 }was{}published{出版 }in{年 }1999{1999 }and{， }about{大约 }10{10 }years{年 }later{后 }I{我 }got{接到 }a{一个 }call{电话 }that{说 }my{我 }mom{妈妈 }had{中风 }a{}stroke{中风 },{， }"{” }says{说 }Young{杨 }.{。 }
+
+#166While Tahiti may have started the overwater trend in the 1960s , the Maldives has undoubtedly perfected it .
+虽然 大溪地 可能 在 1960 年代 开始 了 水上 趋势 ， 但 马尔代夫 无疑 已经 完善 了 它 。
+While{虽然 }Tahiti{大溪地 }may{可能 }have{}started{开始 }the{了 }overwater{水上 }trend{趋势 }in{在 }the{}1960s{1960 },{， }the{}Maldives{马尔代夫 }has{已经 }undoubtedly{无疑 }perfected{完善 }it{它 }.{。 }
+
+#167" In my parents ' old days , the lack of space and intimacy meant that love was made outdoors , underneath the citrus trees , " he says with a smile .
+“ 在 我 父母 的 旧 时代 ， 缺乏 空间 和 亲密 感 意味着 爱情 是 在 户外 ， 在 柑橘 树 下 进行 的 ， ” 他 微笑 着 说 。
+"{“ }In{在 }my{我 }parents{父母 }'{的 }old{旧 }days{时代 },{， }the{}lack{缺乏 }of{}space{空间 }and{和 }intimacy{亲密 感 }meant{意味着 }that{意味着 }love{爱情 }was{是 }made{进行 }outdoors{户外 },{， }underneath{下 }the{}citrus{柑橘 }trees{树 },{， }"{” }he{他 }says{说 }with{}a{着 }smile{微笑 }.{。 }
+
+#168One of his favorite dishes , it was the last recipe Young learned from her parents to include in " Wisdom of the Chinese Kitchen .
+这 是 杨 从 父母 那里 学 到 的 最后 一道 菜 ， 收录 在 《 中国 厨房 的 智慧 》 中 。
+One{}of{}his{}favorite{}dishes{菜 },{， }it{这 }was{是 }the{的 }last{最后 }recipe{}Young{杨 }learned{学 }from{从 }her{}parents{父母 }to{}include{收录 }in{在 }"{《 }Wisdom{智慧 }of{的 }the{的 }Chinese{中国 }Kitchen{厨房 }.{。 }
+
+#169As I approached the center of the site , I could make out earthen mounds and some similar remnants of walls .
+当 我 接近 遗址 的 中心 时 ， 我 可以 辨认 出 土丘 和 一些 类似 的 墙壁 残骸 。
+As{当 }I{我 }approached{接近 }the{的 }center{中心 }of{}the{}site{遗址 },{， }I{我 }could{可以 }make{辨认 }out{出 }earthen{土丘 }mounds{土丘 }and{和 }some{一些 }similar{类似 }remnants{残骸 }of{的 }walls{墙壁 }.{。 }
+
+#170" The living environment has improved over the past two years , and so has the public observance of social codes , " Li says .
+“ 过去 两 年 来 ， 生活 环境 有所 改善 ， 公众 对 社会 准则 的 遵守 情况 也 有所 改善 ， ” 李说 。
+"{“ }The{}living{生活 }environment{环境 }has{有所 }improved{改善 }over{}the{}past{过去 }two{两 }years{年 },{}and{， }so{也 }has{也 有所 }the{的 }public{公众 }observance{遵守 }of{对 }social{社会 }codes{准则 },{， }"{” }Li{李说 }says{李说 }.{。 }
+
+#171There 's a risk , he says , that when his generation stops cultivating the land , the knowledge accumulated over the centuries by local communities could vanish altogether .
+他 说 ， 当 他 这 一代人 停止 耕种 土地 时 ， 当地 社区 几 个 世纪 以来 积累 的 知识 可能 会 完全 消失 。
+There{}'s{}a{}risk{},{}he{他 }says{说 },{， }that{， }when{当 }his{他 }generation{一代人 }stops{停止 }cultivating{耕种 }the{}land{土地 },{， }the{的 }knowledge{知识 }accumulated{积累 }over{以来 }the{个 }centuries{世纪 }by{}local{当地 }communities{社区 }could{可能 会 }vanish{消失 }altogether{完全 }.{。 }
+
+#172Growing stress from life and work is one of the reasons why people are seeking more ways to rejuvenate themselves .
+生活 和 工作 带来 的 压力 越来越 大 ， 这 是 人们 寻求 更 多 恢复 活力 的 方法 的 原因 之一 。
+Growing{带来 大 }stress{压力 }from{}life{生活 }and{和 }work{工作 }is{是 }one{之一 }of{}the{的 }reasons{原因 }why{}people{人们 }are{}seeking{寻求 }more{更 }ways{方法 }to{}rejuvenate{恢复 }themselves{}.{。 }
+
+#173" Making popcorn in the wok is actually very good for intensifying the patina of the wok .
+“ 在 炒锅 里 制作 爆米花 实际上 对 加强 炒锅 的 铜绿 非常 有益 。
+"{“ }Making{制作 }popcorn{爆米花 }in{在 里 }the{}wok{炒锅 }is{}actually{实际上 }very{非常 }good{有益 }for{对 }intensifying{加强 }the{的 }patina{}of{}the{}wok{炒锅 }.{。 }
+
+#174The landscape around the village is dotted with abbeys , monasteries and pilgrimage sites famous for apparitions of the Virgin Mary .
+村庄 周围 的 景观 点缀 着 修道院 ， 修道院 和 以 圣母 玛利亚 的 幻影 而 闻名 的 朝 圣地 。
+The{的 }landscape{景观 }around{周围 }the{}village{村庄 }is{}dotted{点缀 }with{着 }abbeys{修道院 },{， }monasteries{修道院 }and{和 }pilgrimage{朝 圣地 }sites{圣地 }famous{闻名 }for{以 而 }apparitions{幻影 }of{的 }the{}Virgin{圣母 }Mary{玛利亚 }.{。 }
+
+#175Sustainability in personal health and that in the natural world are expected to complement and exert a positive influence on each other , she noted .
+她 指出 ， 个人 健康 和 自然界 的 可 持续性 有望 相互 补充 并 产生 积极 影响 。
+Sustainability{持续性 }in{}personal{个人 }health{健康 }and{和 }that{}in{}the{的 }natural{自然界 }world{自然界 }are{}expected{有望 }to{}complement{补充 }and{并 }exert{产生 }a{}positive{积极 }influence{影响 }on{}each{相互 }other{},{， }she{她 }noted{指出 }.{。 }
+
+#176Zha Liyou , Chinese consul general to Kolkata , highlighting the importance of Bodh Gaya as a major tourist destination , said that it has the potential to trigger an influx of arrivals from China .
+中国 驻 加尔各答 总领事 扎 立友 强调 了 菩提 伽 耶 作为 主要 旅游 目的地 的 重要性 ， 他 说 它 有 可能 引发 来自 中国 的 入境者 涌入 。
+Zha{扎 }Liyou{立友 },{}Chinese{中国 }consul{总领事 }general{总领事 }to{驻 }Kolkata{加尔各答 },{}highlighting{强调 }the{的 }importance{重要性 }of{}Bodh{菩提 }Gaya{伽 耶 }as{作为 }a{}major{主要 }tourist{旅游 }destination{目的地 },{， }said{说 }that{}it{它 }has{有 }the{}potential{可能 }to{}trigger{引发 }an{}influx{涌入 }of{的 }arrivals{入境者 }from{来自 }China{中国 }.{。 }
+
+#177According to Italian law dating back to the Napoleonic era , property ownership passes not to the eldest heir , but instead to every single child .
+根据 可 追溯 到 拿破仑 时代 的 意大利 法律 ， 财产 所有权 不 是 传 给 大 继承人 ， 而是 传 给 每个 孩子 。
+According{根据 }to{}Italian{意大利 }law{法律 }dating{}back{追溯 }to{到 }the{的 }Napoleonic{拿破仑 }era{时代 },{， }property{财产 }ownership{所有权 }passes{传 }not{不 }to{给 }the{}eldest{大 }heir{继承人 },{， }but{而是 }instead{而是 }to{给 }every{每个 }single{每个 }child{孩子 }.{。 }
+
+#178The details were announced at a media conference early this month at Langyuan Vintage , a cultural industrial park in the capital , for the 10th Beijing People Beneficial Cultural Consumption Season .
+本 月初 ， 在 首都 文化 产业园 Langyuan Vintage 举行 的 第 10 届 北京 人民 有益 文化 消费 季 的 媒体 发布会 上 宣布 了 这些 细节 。
+The{这些 }details{细节 }were{了 }announced{宣布 }at{}a{的 }media{媒体 }conference{发布会 }early{月初 }this{本 }month{月初 }at{在 }Langyuan{Langyuan }Vintage{Vintage },{}a{}cultural{文化 }industrial{产业园 }park{产业园 }in{}the{}capital{首都 },{， }for{}the{第 }10th{10 }Beijing{北京 }People{人民 }Beneficial{有益 }Cultural{文化 }Consumption{消费 }Season{季 }.{。 }
+
+#179" It is certainly not a concept suitable for a vaporetto in the Grand Canal or a cargo boat .
+“ 这 当然 不 是 一个 适合 大运河 汽艇 或 货船 的 概念 。
+"{“ }It{这 }is{是 }certainly{当然 }not{不 }a{一个 }concept{概念 }suitable{适合 }for{适合 }a{}vaporetto{汽艇 }in{}the{}Grand{大运河 }Canal{大运河 }or{或 }a{}cargo{货船 }boat{货船 }.{。 }
+
+#180In an attempt to solve that problem , Salvatore and his brother Marco , 56 , have created Lemon Tours , an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it .
+为了 解决 这个 问题 ， 萨尔瓦多 和 他 56 岁 的 兄弟 马可 创建 了 Lemon Tours ， 这 是 一个 农业 旅游 企业 ， 旨在 提高 人们 对 Sfusato 的 认识 ， 并 振兴 用于 种植 它 的 传统 。
+In{为了 }an{}attempt{}to{为了 }solve{解决 }that{这个 }problem{问题 },{， }Salvatore{萨尔瓦多 }and{和 }his{他 }brother{兄弟 }Marco{马可 },{}56{56 },{}have{}created{创建 }Lemon{Lemon }Tours{Tours },{， }an{一个 }agricultural{农业 }tourism{旅游 }venture{企业 }to{旨在 }increase{提高 }awareness{认识 }of{对 }the{}Sfusato{Sfusato }and{并 }revitalize{振兴 }the{的 }traditions{传统 }used{用于 }to{用于 }cultivate{种植 }it{它 }.{。 }
+
+#181As reports of such crimes increased , businesses began closing their doors early , allowing their workers to head home before dark , a trend that continues today .
+随着 此类 犯罪 的 报道 增加 ， 企业 开始 提前 关门 ， 允许 工人 在 天 黑 前 回家 ， 这 一 趋势 一直 持续 到 今天 。
+As{随着 }reports{报道 }of{的 }such{此类 }crimes{犯罪 }increased{增加 },{， }businesses{企业 }began{开始 }closing{关门 }their{}doors{}early{提前 },{， }allowing{允许 }their{}workers{工人 }to{在 }head{回家 }home{回家 }before{前 }dark{黑 },{， }a{这 一 }trend{趋势 }that{一直 }continues{持续 }today{今天 }.{。 }
+
+#182" I think that people forget that Chinese food actually has such a long history in America dating from the 1840s , and that it is a very important part of the American culinary landscape , " says Young .
+“ 我 认为 人们 忘记 了 ， 中国 菜 实际上 在 美国 有着 悠久 的 历史 ， 可以 追溯 到 19 世纪 40 年代 ， 而且 它 是 美国 烹饪 景观 中 非常 重要 的 一 部分 ， ” Young 说 。
+"{“ }I{我 }think{认为 }that{认为 }people{人们 }forget{忘记 }that{， }Chinese{中国 }food{菜 }actually{实际上 }has{有着 }such{}a{的 }long{悠久 }history{历史 }in{在 }America{美国 }dating{追溯 }from{到 }the{}1840s{19 年代 },{， }and{而且 }that{}it{它 }is{是 }a{的 }very{非常 }important{重要 }part{部分 }of{中 }the{}American{美国 }culinary{烹饪 }landscape{景观 },{， }"{” }says{说 }Young{Young }.{。 }
+
+#183They accelerated their plans , and got married in Carrie 's mother 's backyard in 2009 , right after their son was born .
+他们 加快 了 计划 ， 并 于 2009 年 在 凯莉 母亲 的 后院 结婚 ， 就 在 他们 的 儿子 出生 后 。
+They{他们 }accelerated{加快 }their{了 }plans{计划 },{， }and{并 }got{}married{结婚 }in{在 }Carrie{凯莉 }'s{的 }mother{母亲 }'s{的 }backyard{后院 }in{于 }2009{2009 },{， }right{就 }after{后 }their{他们 }son{儿子 }was{}born{出生 }.{。 }
+
+#184The answer is no according to an article by the Ganyong hotel research institute published on meadin.com , a commercial property information provider .
+根据 甘永 酒店 研究所 在 商业 地产 信息 提供商 meadin . com 上 发表 的 一 篇 文章 ， 答案 是 否定 的 。
+The{}answer{答案 }is{是 }no{否定 }according{根据 }to{根据 }an{一 }article{文章 }by{}the{}Ganyong{甘永 }hotel{酒店 }research{研究所 }institute{研究所 }published{发表 }on{上 }meadin.com{meadin . com },{}a{}commercial{商业 }property{地产 }information{信息 }provider{提供商 }.{。 }
+
+#185However , that need for speed to raise the foils means saving Venice wo n't be as easy as switching to electric , said Dr Pierpaolo Campostrini , managing director of CORILA , which studies the lagoon system in Venice .
+然而 ， 提高 箔片 速度 的 需求 意味着 拯救 威尼斯 并 不 像 改用 电力 那么 容易 ， CORILA 的 董事 总经理 Pierpaolo Campostrini 博士 说 ， 该 公司 研究 威尼斯 的 泻湖 系统 。
+However{然而 },{， }that{}need{需求 }for{的 }speed{速度 }to{的 }raise{提高 }the{的 }foils{箔片 }means{意味着 }saving{拯救 }Venice{威尼斯 }wo{}n't{不 }be{}as{那么 }easy{容易 }as{像 }switching{改用 }to{}electric{电力 },{， }said{说 }Dr{}Pierpaolo{Pierpaolo }Campostrini{Campostrini },{博士 }managing{总经理 }director{总经理 }of{的 }CORILA{CORILA },{}which{该 }studies{研究 }the{的 }lagoon{泻湖 }system{系统 }in{}Venice{威尼斯 }.{。 }
+
+#186Correction : This feature has been updated to clarify the description of how waat gai faan is cooked .
+更 正 ： 此 功能 已 更新 ， 以 阐明 如何 烹饪 waat gai faan 的 描述 。
+Correction{正 }:{： }This{此 }feature{功能 }has{已 }been{}updated{更新 }to{以 }clarify{阐明 }the{的 }description{描述 }of{}how{如何 }waat{waat }gai{gai }faan{faan }is{}cooked{烹饪 }.{。 }
+
+#187A " social orchard " with fresh produce has been created , bringing together groups of children for lessons on rural life , while a gastronomy school launches this year .
+一个 拥有 新鲜 农产品 的 “ 社会 果园 ” 已经 建成 ， 将 一 群 儿童 聚集 在 一起 ， 学习 农村 生活 ， 而 一 所 美食 学校 今年 也 开办 了 。
+A{一个 }"{“ }social{社会 }orchard{果园 }"{” }with{拥有 }fresh{新鲜 }produce{农产品 }has{已经 }been{}created{建成 },{， }bringing{将 }together{一起 }groups{群 }of{}children{儿童 }for{}lessons{学习 }on{}rural{农村 }life{生活 },{， }while{而 }a{一 }gastronomy{美食 }school{学校 }launches{开办 }this{今年 }year{今年 }.{。 }
+
+#188The terracing system exploits the force of gravity to direct rainwater to irrigate the plants .
+梯田 系统 利用 重力 引导 雨水 灌溉 植物 。
+The{}terracing{梯田 }system{系统 }exploits{利用 }the{}force{}of{}gravity{重力 }to{}direct{引导 }rainwater{雨水 }to{}irrigate{灌溉 }the{}plants{植物 }.{。 }
+
+#189More efforts need to be made to close the gap , given that the proportion stood at 60 percent in developed countries , the CHA said .
+CHA 表示 ， 鉴于 发达国家 的 比例 为 60% ， 需要 做出 更 多 努力 来 缩小 差距 。
+More{更 }efforts{努力 }need{需要 }to{需要 }be{}made{做出 }to{来 }close{缩小 }the{}gap{差距 },{， }given{鉴于 }that{鉴于 }the{的 }proportion{比例 }stood{}at{为 }60{60% }percent{60% }in{}developed{发达国家 }countries{发达国家 },{}the{}CHA{CHA }said{表示 }.{。 }
+
+#190Contributing to Young 's popularity , her books managed to overcome the challenge of explaining the many ethereal Chinese culinary concepts in English , a feat generations of Chinese food writers and lovers are grateful for .
+为了 促进 Young 的 受 欢迎 程度 ， 她 的 书 设法 克服 了 用 英语 解释 许多 空灵 的 中国 烹饪 概念 的 挑战 ， 这 是 几 代 中国 美食 作家 和 爱好者 感激 的 壮举 。
+Contributing{为了 促进 }to{为了 }Young{Young }'s{的 }popularity{欢迎 },{， }her{她 }books{书 }managed{}to{了 }overcome{克服 }the{的 }challenge{挑战 }of{}explaining{解释 }the{}many{许多 }ethereal{空灵 的 }Chinese{中国 }culinary{烹饪 }concepts{概念 }in{用 }English{英语 },{， }a{这 }feat{}generations{几 代 }of{}Chinese{中国 }food{美食 }writers{作家 }and{和 }lovers{爱好者 }are{}grateful{感激 }for{}.{。 }
+
+#191However , he warned that maneuvering the boats at high speed around slower traffic could be difficult , and said that a rethink of the city 's transport is in order before decisions are taken .
+然而 ， 他 警告 说 ， 在 较 慢 的 交通 周围 高速 操纵 船只 可能 很 困难 ， 并 表示 在 做出 决定 之前 ， 重新 考虑 城市 的 交通 是 必要 的 。
+However{然而 },{， }he{他 }warned{警告 }that{， }maneuvering{操纵 }the{的 }boats{船只 }at{在 }high{高速 }speed{高速 }around{周围 }slower{较 慢 }traffic{交通 }could{可能 }be{很 }difficult{困难 },{， }and{并 }said{表示 }that{}a{}rethink{重新 }of{}the{}city{城市 }'s{的 }transport{交通 }is{是 }in{的 }order{必要 }before{之前 }decisions{决定 }are{}taken{做出 }.{。 }
+
+#192One of the smallest and most sustainable resorts in the Maldives , Kudadoo has just 15 overwater residences powered entirely by solar panels .
+库达 杜 是 马尔代夫 最 小 、 最 具 可 持续性 的 度假 胜地 之一 ， 只有 15 个 完全 由 太阳能 电池板 供电 的 水上 住宅 。
+One{之一 }of{}the{的 之一 }smallest{小 }and{、 }most{最 }sustainable{持续性 }resorts{胜地 }in{}the{}Maldives{马尔代夫 },{， }Kudadoo{库达 杜 }has{只有 }just{只有 }15{15 }overwater{水上 }residences{住宅 }powered{供电 }entirely{完全 }by{由 }solar{太阳能 }panels{电池板 }.{。 }
+
+#193For the hotel industry as a whole , she said the era of hotels only providing beds and meals is becoming a thing of the past .
+她 说 ， 对于 整个 酒店业 来说 ， 酒店 只 提供 床 和 餐 的 时代 正在 成为 过去 。
+For{对于 }the{整个 }hotel{酒店业 }industry{酒店业 }as{来说 }a{来说 }whole{整个 },{， }she{她 }said{说 }the{的 }era{时代 }of{}hotels{酒店 }only{只 }providing{提供 }beds{床 }and{和 }meals{餐 }is{正在 }becoming{成为 }a{}thing{}of{}the{}past{过去 }.{。 }
+
+#194It had n't worked , but now the girl from the bus was walking towards him , and sitting herself next to him on the edge of the rock .
+它 没有 奏效 ， 但 现在 公共 汽车 上 的 女孩 正 朝 他 走 来 ， 坐 在 他 旁边 的 岩石 边缘 。
+It{它 }had{}n't{没有 }worked{奏效 },{， }but{但 }now{现在 }the{的 }girl{女孩 }from{上 }the{}bus{汽车 }was{正 }walking{走 }towards{朝 }him{他 },{}and{， }sitting{坐 }herself{}next{旁边 }to{}him{他 }on{在 }the{的 }edge{边缘 }of{}the{}rock{岩石 }.{。 }
+
+#195Kris was still road tripping with his parents when he picked up Carrie 's message from a San Francisco internet cafe .
+克里斯 在 和 父母 一起 旅行 时 ， 他 从 旧金山 的 一 家 网吧 拿 起 凯莉 的 信息 。
+Kris{克里斯 }was{}still{}road{}tripping{旅行 }with{和 }his{}parents{父母 }when{时 }he{他 }picked{拿 }up{起 }Carrie{凯莉 }'s{的 }message{信息 }from{从 }a{一 }San{旧金山 }Francisco{旧金山 }internet{网吧 }cafe{网吧 }.{。 }
+
+#196Soaring gracefully over the Sydney skyline , the Crown Sydney opened at the end of 2020 after four years of construction and a whopping $ 1 .
+皇冠 悉尼 酒店 在 悉尼 天际线 上 优雅 地 翱翔 ， 经过 四 年 的 建设 和 高 达 1 澳元 的 建设 ， 于 2020 年底 开业 。
+Soaring{翱翔 }gracefully{优雅 }over{}the{在 }Sydney{悉尼 }skyline{天际线 },{， ， }the{}Crown{皇冠 }Sydney{悉尼 }opened{开业 }at{于 }the{}end{年底 }of{年底 }2020{2020 }after{经过 }four{四 }years{年 }of{的 }construction{建设 }and{和 }a{}whopping{高 }${澳元 }1{1 }.{。 }
+
+#197The top 50 Chinese hotel groups combined had nearly 4 million guest rooms , covering 85 percent of the domestic chain hotel market .
+中国 酒店 集团 排名 前 50 位 ， 客房 总数 近 400 万间 ， 覆盖 了 国内 连锁 酒店 市场 的 85% 。
+The{}top{前 }50{50 }Chinese{中国 }hotel{酒店 }groups{集团 }combined{总数 }had{}nearly{近 }4{400 }million{万间 }guest{客房 }rooms{客房 万间 },{， }covering{覆盖 }85{85% }percent{85% }of{的 }the{}domestic{国内 }chain{连锁 }hotel{酒店 }market{市场 }.{。 }
+
+#198For those who are n't familiar with the concept , patina is a brownish film on the surface of metals that is produced after a long period of continual usage .
+对于 那些 不 熟悉 这个 概念 的 人 来说 ， 铜绿 是 金属 表面 的 褐色 薄膜 ， 经过 长 时间 的 持续 使用 后 产生 。
+For{对于 }those{人 }who{}are{}n't{不 }familiar{熟悉 }with{}the{这个 }concept{概念 },{， }patina{铜绿 }is{是 }a{的 }brownish{褐色 }film{薄膜 }on{}the{}surface{表面 }of{}metals{金属 }that{， }is{}produced{产生 }after{经过 }a{经过 }long{长 }period{时间 }of{的 }continual{持续 }usage{使用 }.{。 }
+
+#199If a glamorous city escape is more your style , it does n't get much better than this sleek urban oasis on Sunset Boulevard .
+如果 一个 迷人 的 城市 逃生 更 符合 你 的 风格 ， 那么 它 没有 什么 比 日落 大道 上 这个 时尚 的 城市 绿洲 更 好 了 。
+If{如果 }a{一个 }glamorous{迷人 }city{城市 }escape{逃生 }is{符合 }more{更 }your{你 }style{风格 },{， }it{它 }does{}n't{没有 }get{没有 }much{什么 }better{好 }than{比 }this{这个 }sleek{时尚 }urban{城市 }oasis{绿洲 }on{上 }Sunset{日落 }Boulevard{大道 }.{。 }
+
+#200Di Ciacca was born in the fishing village of Cockenzie , outside Edinburgh , but says he always held a deep affection for his native land .
+Di Ciacca 出生 在 爱丁堡 郊外 的 Cockenzie 渔村 ， 但 他 说 他 一直 对 自己 的 祖国 怀有 深厚 的 感情 。
+Di{Di }Ciacca{Ciacca }was{}born{出生 }in{在 }the{}fishing{渔村 }village{渔村 }of{的 }Cockenzie{Cockenzie },{}outside{郊外 }Edinburgh{爱丁堡 },{， }but{但 }says{说 }he{他 }always{一直 }held{怀有 }a{的 }deep{深厚 }affection{感情 }for{对 }his{自己 }native{祖国 }land{祖国 }.{。 }
+
+#201The village 's last inhabitant , says Di Ciacca , was a distant great aunt who passed away in 1969 .
+Di Ciacca 说 ， 村里 的 最后 一 位 居民 是 一 位 远方 的 姑姑 ， 她 于 1969 年 去世 。
+The{}village{村里 }'s{的 }last{最后 }inhabitant{居民 },{}says{说 }Di{Di }Ciacca{Ciacca },{}was{是 }a{一 }distant{远方 }great{}aunt{姑姑 }who{， 她 }passed{去世 }away{去世 }in{于 年 }1969{1969 }.{。 }
+
+#202She was impressed by the creative design of the admission ticket , which carries a miniature version of The Analects of Confucius .
+门票 的 创意 设计 给 她 留下 了 深刻 的 印象 ， 门票 上 印 有 《 论语 》 的 缩影 版 。
+She{她 }was{}impressed{深刻 印象 }by{}the{的 }creative{创意 }design{设计 }of{}the{}admission{门票 }ticket{门票 },{， }which{上 }carries{印 }a{的 }miniature{缩影 }version{版 }of{}The{《 }Analects{论语 }of{}Confucius{}.{。 }
+
+#203Xanadu is situated idyllically amid the Xar Tala globeflower prairie and Xandii Gool wetlands on the upper reaches of the Luanhe River .
+世外桃源 坐落 在 滦河 上游 的 夏 塔拉 球 花 草原 和 仙 迪古 尔 湿地 之间 。
+Xanadu{世外桃源 }is{}situated{坐落 }idyllically{}amid{之间 }the{的 }Xar{夏 }Tala{塔拉 }globeflower{球 花 }prairie{草原 }and{和 }Xandii{仙 迪古 }Gool{迪古 尔 }wetlands{湿地 }on{在 }the{之间 }upper{上游 }reaches{上游 }of{}the{}Luanhe{滦河 }River{滦河 }.{。 }
+
+#204" I 'm trying , you know , to be very cool and try to catch her eye , as you do when you 're 19 , 20 years old , " recalls Kris .
+“ 你 知道 ， 我 正在 努力 变 得 很 酷 ， 并 试图 引起 她 的 注意 ， 就 像 你 在 19 岁 、 20 岁 时 所 做 的 那样 ， ” 克里斯 回忆 道 。
+"{“ }I{我 }'m{正在 }trying{努力 },{}you{你 }know{知道 },{， }to{得 }be{变 }very{很 }cool{酷 }and{并 }try{试图 }to{的 }catch{引起 }her{她 }eye{注意 },{， }as{像 }you{你 }do{做 }when{时 }you{}'re{}19{19 },{、 }20{20 }years{岁 岁 }old{},{， }"{” }recalls{回忆 道 }Kris{克里斯 }.{。 }
+
+#205Zhong has adopted a local moniker , Otieno , a common family name in western Kenya , to build a rapport with colleagues and clients .
+为了 与 同事 和 客户 建立 融洽 的 关系 ， 钟 先生 采用 了 当地 的 绰号 Otieno ， 这 是 肯尼亚 西部 的 一个 常见 姓氏 。
+Zhong{钟 }has{}adopted{采用 }a{的 }local{当地 }moniker{绰号 },{}Otieno{Otieno },{， }a{一个 }common{融洽 常见 }family{}name{姓氏 }in{}western{西部 }Kenya{肯尼亚 },{}to{为了 }build{建立 }a{}rapport{关系 }with{与 }colleagues{同事 }and{和 }clients{客户 }.{。 }
+
+#206This was more because she liked the view , suggests Carrie , than because she figured Kris would be an important figure in her daughter 's life .
+嘉莉 表示 ， 这 更 多 是 因为 她 喜欢 这种 观点 ， 而 不 是 因为 她 认为 克里斯 将 成为 她 女儿 生活 中 的 重要 人物 。
+This{这 }was{是 }more{更 多 }because{因为 }she{她 }liked{喜欢 }the{这种 }view{观点 },{}suggests{表示 }Carrie{嘉莉 },{， }than{而 }because{因为 }she{她 }figured{认为 }Kris{克里斯 }would{将 }be{成为 }an{的 }important{重要 }figure{人物 }in{中 }her{她 }daughter{女儿 }'s{}life{生活 }.{。 }
+
+#207Zha said that in addition to Bodh Gaya , destinations such as Nalanda , Rajgir , Vaishali and Patna , the capital of Bihar , are favorites among Chinese tourists , adding that the state is also home to numerous stupas .
+查 说 ， 除了 菩提 伽 耶 之外 ， 比哈尔邦 首府 那 烂陀 、 拉 杰吉尔 、 毗湿奴 和 巴特 那 等 目的地 是 中国 游客 的 最 爱 ， 并 补充 说 ， 该邦 还有 众多 佛塔 。
+Zha{查 }said{说 }that{， }in{}addition{除了 }to{除了 }Bodh{菩提 }Gaya{伽 耶 },{， }destinations{目的地 }such{等 }as{}Nalanda{那 烂陀 },{、 }Rajgir{拉 杰吉尔 },{、 }Vaishali{杰吉尔 毗湿奴 }and{和 }Patna{巴特 那 },{}the{}capital{首府 }of{}Bihar{比哈尔邦 },{}are{是 }favorites{爱 }among{的 }Chinese{中国 }tourists{游客 },{， }adding{补充 }that{， }the{该邦 }state{该邦 }is{}also{还有 }home{还有 }to{}numerous{众多 }stupas{佛塔 }.{。 }
+
+#208For travelers yearning for a tropical escape , overwater villas are the epitome of vacation goals .
+对于 渴望 热带 度假 的 旅行者 来说 ， 水上 别墅 是 度假 目标 的 缩影 。
+For{对于 }travelers{旅行者 }yearning{渴望 }for{渴望 }a{的 }tropical{热带 }escape{度假 },{， }overwater{水上 }villas{别墅 }are{是 }the{的 }epitome{缩影 }of{}vacation{度假 }goals{目标 }.{。 }
+
+#209He jokes this was a good thing , " because her email address was actually completely incomprehensible and impossible to remember .
+他 开玩笑 说 这 是 一 件 好事 ， “ 因为 她 的 电子 邮件 地址 实际上 完全 无法 理解 ， 也 无法 记住 。
+He{他 }jokes{开玩笑 说 }this{这 }was{是 }a{一 }good{好事 }thing{好事 },{， }"{“ }because{因为 }her{她 }email{邮件 }address{地址 }was{}actually{实际上 }completely{完全 }incomprehensible{无法 理解 }and{， }impossible{无法 }to{}remember{记住 }.{。 }
+
+#210Its long lap pool is the perfect spot to watch the light change , whether you 've selected a sunrise or sunset villa .
+无论 您 选择 了 日出 还是 日落 别墅 ， 其 长长的 游泳池 都 是 观看 光线 变化 的 理想 场所 。
+Its{其 }long{长长的 }lap{}pool{游泳池 }is{是 }the{的 }perfect{理想 }spot{场所 }to{}watch{观看 }the{}light{光线 }change{变化 },{， }whether{无论 }you{您 }'ve{}selected{选择 }a{了 长长的 }sunrise{日出 }or{还是 }sunset{日落 }villa{别墅 }.{。 }
+
+#211Travelers canceling a nonrefundable flight more than 10 minutes before the scheduled departure time are given a credit with the airline .
+在 预定 起飞 时间 前 10 分钟 以上 取消 不可 退款 航班 的 旅客 将 获得 航空 公司 的 积分 。
+Travelers{旅客 }canceling{取消 }a{的 }nonrefundable{不可 退款 }flight{航班 }more{以上 }than{}10{10 }minutes{分钟 }before{前 }the{}scheduled{预定 }departure{起飞 }time{时间 }are{将 }given{获得 }a{的 }credit{积分 }with{}the{}airline{航空 }.{。 }
+
+#212The couple still had to spend the first 10 months of their son 's life living in different countries , as they waited for Kris ' green card .
+在 等待 克里斯 的 绿卡 时 ， 这 对 夫妇 仍然 不得不 在 儿子 生命 的 前 10 个 月 生活 在 不同 的 国家 。
+The{这 }couple{夫妇 }still{仍然 }had{不得不 }to{不得不 }spend{在 }the{的 }first{前 }10{10 }months{月 }of{}their{}son{儿子 }'s{的 }life{生命 }living{生活 }in{在 }different{不同 }countries{国家 },{， }as{在 }they{}waited{等待 }for{}Kris{克里斯 }'{的 }green{绿卡 }card{绿卡 }.{。 }
+
+#213Kris remembers calling his mother to say he was going to to visit Carrie in the US .
+克里斯 记得 打电话 给 他 的 母亲 说 他 要 去 美国 看望 嘉莉 。
+Kris{克里斯 }remembers{记得 }calling{打电话 }his{他 }mother{母亲 }to{}say{说 }he{他 }was{}going{}to{要 }to{}visit{看望 }Carrie{嘉莉 }in{去 }the{}US{美国 }.{。 }
+
+#214" Most tourists who come to Amalfi are unaware of this system just across the main road , " explains De Pasquale , leaving farmers cut off from the tourism dollars pouring into the region .
+“ 大多数 来 阿 马尔菲 的 游客 都 没有 意识 到 这个 系统 就 在 主干道 对面 ， ” 德 帕斯 夸莱 解释 说 ， 这 让 农民 们 与 涌入 该 地区 的 旅游 资金 隔绝 了 。
+"{“ }Most{大多数 }tourists{游客 }who{的 }come{}to{}Amalfi{阿 马尔菲 }are{都 }unaware{没有 意识 }of{到 }this{这个 }system{系统 }just{就 }across{对面 }the{}main{主干道 }road{主干道 },{， }"{” }explains{解释 }De{德 }Pasquale{夸莱 },{， }leaving{让 }farmers{农民 }cut{隔绝 }off{隔绝 }from{与 }the{的 }tourism{旅游 }dollars{资金 }pouring{涌入 }into{涌入 }the{该 }region{地区 }.{。 }
+
+#215Moreover , during this year 's Qingming Festival , some upscale hotels and homestays in rural areas have cut their prices by about 30 percent , attracting many tourists to choose countryside travel , the manager said .
+此外 ， 今年 清明节 期间 ， 部分 农村 高档 酒店 、 民宿 纷纷 降价 30% 左右 ， 吸引 不少 游客 选择 乡村 旅游 。
+Moreover{此外 },{， }during{期间 }this{今年 }year{今年 }'s{}Qingming{清明节 }Festival{清明节 },{， }some{部分 }upscale{高档 }hotels{酒店 }and{、 }homestays{民宿 }in{}rural{农村 }areas{}have{纷纷 }cut{降价 }their{}prices{降价 }by{}about{左右 }30{30% }percent{30% },{， }attracting{吸引 }many{不少 }tourists{游客 }to{}choose{选择 }countryside{乡村 }travel{旅游 },{}the{}manager{}said{}.{。 }
+
+#216" It 's like a perfect curve in the canyon , where when you 're sitting there , you 're looking straight out at the Colorado River coming in , " says Carrie .
+“ 这 就 像 峡谷 中 的 完美 曲线 ， 当 你 坐 在 那里 时 ， 你 正 直视 着 科罗拉多河 的 流入 ， ” 嘉莉 说 。
+"{“ }It{这 }'s{就 }like{像 }a{的 }perfect{完美 }curve{曲线 }in{中 }the{}canyon{峡谷 },{， }where{}when{当 }you{你 }'re{}sitting{坐 }there{那里 },{， }you{你 }'re{正 }looking{直视 }straight{直视 }out{}at{着 }the{的 }Colorado{科罗拉多河 }River{科罗拉多河 }coming{流入 }in{},{， }"{” }says{说 }Carrie{嘉莉 }.{。 }
+
+#217" The increasing demand energizes accommodation in rural areas , with some having outperformed hotels in downtown areas . "
+“ 不断 增长 的 需求 为 农村 地区 的 住宿 注入 了 活力 ， 其中 一些 酒店 的 表现 优于 市中心 的 酒店 。 ”
+"{“ }The{的 }increasing{增长 }demand{需求 }energizes{为 注入 活力 }accommodation{住宿 }in{的 }rural{农村 }areas{地区 },{， }with{其中 }some{一些 }having{的 }outperformed{优于 }hotels{酒店 酒店 }in{的 }downtown{市中心 }areas{}.{。 }"{” }
+
+#218Nautilus works with surrounding islands to purchase locally grown produce , buy handcrafted decor and employ craftsmen .
+Nautilus 与 周边 岛屿 合作 ， 购买 当地 种植 的 农产品 、 购买 手工 装饰 并 聘请 工匠 。
+Nautilus{Nautilus }works{合作 }with{与 }surrounding{周边 }islands{岛屿 }to{， }purchase{购买 }locally{当地 }grown{种植 }produce{农产品 },{、 }buy{购买 }handcrafted{手工 }decor{装饰 }and{并 }employ{聘请 }craftsmen{工匠 }.{。 }
+
+#219Looking into the future , Tang Min with Six Senses Qing Cheng Mountain told Jing Daily that the concept of sustainable development will be a major trend in the wellness hotel industry .
+展望 未来 ， 青城山 六 善 的 唐敏 告诉 《 京报 》 ， 可 持续 发展 的 理念 将 是 养生 酒店 行业 的 一 大 趋势 。
+Looking{展望 }into{}the{}future{未来 },{， }Tang{唐敏 }Min{唐敏 }with{的 }Six{六 }Senses{善 }Qing{青城山 }Cheng{青城山 }Mountain{青城山 }told{告诉 }Jing{京报 }Daily{京报 }that{， }the{的 }concept{理念 }of{}sustainable{可 持续 }development{发展 }will{将 }be{是 }a{一 }major{大 }trend{趋势 }in{}the{}wellness{养生 }hotel{酒店 }industry{行业 }.{。 }
+
+#220New guest suites will more than double in size , with deep baths and indoor showers as well as outdoor decks with private plunge pools .
+新 的 套房 面积 将 增加 一 倍 以上 ， 配备 深 浴缸 和 室内 淋浴 以及 带 私人 小型 游泳池 的 户外 甲板 。
+New{新 }guest{}suites{套房 }will{将 }more{}than{以上 }double{增加 倍 }in{}size{面积 },{， }with{配备 }deep{深 }baths{浴缸 }and{和 }indoor{室内 }showers{淋浴 }as{以及 }well{以及 }as{}outdoor{户外 }decks{甲板 }with{带 }private{私人 }plunge{小型 }pools{游泳池 }.{。 }
+
+#221" It 's been really a journey of growth and personal development , relationship development for us , " says Kris of the fourteen years since he and Carrie reunited .
+“ 对 我们 来说 ， 这 真的 是 一 段 成长 和 个人 发展 、 关系 发展 的 旅程 ， ” 克里斯 谈 到 他 和 嘉莉 重 聚 的 十四 年 时 说 。
+"{“ }It{这 }'s{}been{}really{真的 }a{一 }journey{旅程 }of{的 }growth{成长 }and{和 }personal{个人 }development{发展 },{、 }relationship{关系 }development{发展 }for{对 }us{我们 },{， }"{” }says{说 }Kris{克里斯 }of{到 }the{的 }fourteen{十四 }years{年 }since{时 }he{他 }and{和 }Carrie{嘉莉 }reunited{重 聚 }.{。 }
+
+#222Of the 13.47 million guest rooms across the country , 35 percent were owned by chain hotels in 2021 , up 4 percentage points from 2020 , according to the report .
+报告 显示 ， 2021 年 全国 1347 万间 客房 中 ， 35% 为 连锁 酒店 ， 比 2020 年 增长 4 个 百分点 。
+Of{中 }the{}13.47{1347 }million{万间 }guest{客房 }rooms{客房 }across{全国 }the{}country{全国 },{， }35{35% }percent{35% }were{为 }owned{}by{为 }chain{连锁 }hotels{酒店 }in{年 }2021{2021 },{， }up{比 增长 }4{4 }percentage{百分点 }points{百分点 }from{}2020{2020 },{}according{显示 }to{}the{}report{报告 }.{。 }
+
+#223" I 've been fascinated by Confucius and the culture of Confucianism since childhood , " says Kseniia , who is from Ukraine and currently working and studying in China .
+“ 我 从小 就 对 孔子 和 儒家 文化 着迷 ， ” 来自 乌克兰 、 目前 在 中国 工作 和 学习 的 Kseniia 说 。
+"{“ }I{我 }'ve{}been{}fascinated{着迷 }by{对 }Confucius{孔子 }and{和 }the{}culture{文化 }of{}Confucianism{儒家 }since{从小 }childhood{从小 },{， }"{” }says{说 }Kseniia{Kseniia },{}who{的 }is{}from{来自 }Ukraine{乌克兰 }and{}currently{目前 }working{工作 }and{和 }studying{学习 }in{在 }China{中国 }.{。 }
+
+#224" But I do remember that there was this really intense feeling you get with butterflies , and just like that longing .
+“ 但 我 确实 记得 ， 你 对 蝴蝶 有 一 种 非常 强烈 的 感觉 ， 就 像 那种 渴望 一样 。
+"{“ }But{但 }I{我 }do{确实 }remember{记得 }that{， }there{有 }was{}this{一 }really{非常 }intense{强烈 }feeling{感觉 }you{你 }get{}with{对 }butterflies{蝴蝶 },{， }and{}just{就 }like{像 }that{那种 }longing{渴望 }.{。 }
+
+#225" Also the migrant community in Edinburgh , where many had moved to , helped me in the search .
+“ 还有 很多 人 搬 到 爱丁堡 的 移民 社区 帮助 我 寻找 。
+"{“ }Also{还有 }the{的 }migrant{移民 }community{社区 }in{到 }Edinburgh{爱丁堡 },{}where{}many{很多 }had{}moved{搬 }to{},{}helped{帮助 }me{我 }in{}the{}search{寻找 }.{。 }
+
+#226Moreover , a wellness hotel should provide care for the guest 's body , mind and spirit , and try to foster a harmonious relationship among nature , space , people and services , according to the article .
+此外 ， 康体 酒店 应 为 客人 的 身 、 心 、 灵 提供 关怀 ， 努力 营造 自然 、 空间 、 人 与 服务 之间 的 和谐 关系 。
+Moreover{此外 },{， }a{}wellness{康体 }hotel{酒店 }should{应 }provide{提供 }care{关怀 }for{为 }the{}guest{客人 }'s{的 }body{身 },{、 }mind{心 }and{、 }spirit{灵 },{}and{， }try{努力 }to{}foster{营造 }a{的 }harmonious{和谐 }relationship{关系 }among{之间 }nature{自然 },{、 }space{空间 },{、 }people{人 }and{与 }services{服务 },{}according{}to{}the{}article{}.{。 }
+
+#227It was a stunning view , but her attention soon switched to the person sitting next to her .
+这 是 一个 惊人 的 景象 ， 但 她 的 注意力 很快 转移 到 坐 在 她 旁边 的 人 身上 。
+It{这 }was{是 }a{一个 }stunning{惊人 }view{景象 },{， }but{但 }her{她 }attention{注意力 }soon{很快 }switched{转移 }to{到 }the{的 }person{人 }sitting{坐 }next{旁边 }to{在 }her{她 }.{。 }
+
+#228" I would n't have dreamed that President Xi Jinping would come to my home , and sincerely inquire about our lives , " Li says .
+“ 我 做梦 也 没 想到 ， 习近平 主席 会 来 我家 ， 真诚 地 询问 我们 的 生活 ， ” 李说 。
+"{“ }I{我 }would{}n't{没 }have{}dreamed{想到 }that{， }President{主席 }Xi{习近平 }Jinping{习近平 }would{会 }come{来 }to{}my{我家 }home{我家 },{， }and{， }sincerely{真诚 地 }inquire{询问 }about{}our{我们 }lives{生活 },{， }"{” }Li{李说 }says{李说 }.{。 }
+
+#229" We know it 's going to be hard , it 's not like it 's magic , all the time .
+“ 我们 知道 这 会 很 困难 ， 这 并 不 像 魔法 一样 ， 一直 都 是 。
+"{“ }We{我们 }know{知道 }it{这 }'s{}going{会 }to{}be{很 }hard{困难 },{， }it{这 }'s{并 }not{不 }like{像 }it{}'s{一样 }magic{魔法 },{， }all{一直 }the{}time{}.{。 }
+
+#230" Because we had this magical beginning , we just felt the ability and the safety to be able to share things with each other that we would n't have done otherwise .
+“ 因为 我们 有 了 这个 神奇 的 开端 ， 我们 才 感到 有 能力 和 安全感 能够 相互 分享 我们 本来 不 会 做 的 事情 。
+"{“ }Because{因为 }we{我们 }had{有 }this{这个 }magical{神奇 }beginning{开端 },{， }we{我们 }just{才 }felt{感到 }the{有 }ability{能力 }and{和 }the{}safety{安全感 }to{}be{}able{能够 }to{}share{分享 }things{事情 }with{}each{相互 }other{}that{}we{我们 }would{会 }n't{不 }have{}done{做 }otherwise{}.{。 }
+
+#231Bucolic marathons are held in spring , with people running up and down the vineyards and then relaxing at the little piazza where villagers once met to chat in the evenings after working in the fields .
+春天 举行 田园 马拉松 ， 人们 在 葡萄园 里 跑 来 跑 去 ， 然后 在 村民 们 晚上 在 田间 劳作 后 聚 在 一起 聊天 的 小 广场 上 放松 身心 。
+Bucolic{田园 }marathons{马拉松 }are{}held{举行 }in{}spring{春天 },{， }with{}people{人们 }running{跑 }up{来 去 }and{来 }down{去 }the{里 }vineyards{葡萄园 }and{， }then{然后 }relaxing{放松 }at{在 }the{的 }little{小 }piazza{广场 }where{上 }villagers{村民 }once{}met{聚 }to{}chat{聊天 }in{}the{}evenings{晚上 }after{后 }working{劳作 }in{在 }the{}fields{田间 }.{。 }
+
+#232Its 24 striking overwater villas have infinity plunge pools and sublimely serene views from the soaking tub .
+其 24 栋 引人注目 的 水上 别墅 设有 无 边际 小型 游泳池 ， 从 浴缸 可 欣赏 到 壮丽 宁静 的 景色 。
+Its{其 }24{24 }striking{引人注目 }overwater{水上 }villas{别墅 }have{设有 }infinity{无 边际 }plunge{}pools{游泳池 }and{， }sublimely{壮丽 }serene{宁静 }views{景色 }from{从 }the{的 }soaking{浴缸 }tub{浴缸 }.{。 }
+
+#233The large Sfusato or Amalfi lemon is cultivated in an area that stretches along the Tyrrhenian Sea between Naples and the Gulf of Salerno .
+大 的 Sfusato 或 阿 马尔菲 柠檬 种植 在 那 不勒斯 和 萨勒诺 湾 之间 的 第勒 尼安海 沿岸 地区 。
+The{}large{大 }Sfusato{Sfusato }or{或 }Amalfi{阿 马尔菲 }lemon{柠檬 }is{}cultivated{种植 }in{在 }an{}area{地区 }that{}stretches{}along{}the{的 }Tyrrhenian{第勒 尼安海 }Sea{尼安海 }between{之间 }Naples{那 不勒斯 }and{和 }the{}Gulf{湾 }of{}Salerno{萨勒诺 }.{。 }
+
+#234The northern end of the palace city contained one of Xanadu 's largest remains , identified as the Muqing Pavilion , where its rulers held impressive banquets .
+宫殿 城市 的 北端 包含 世外桃源 最 大 的 遗迹 之一 ， 被 称为 木青阁 ， 其 统治者 在 那里 举行 了 令 人 印象 深刻 的 宴会 。
+The{的 }northern{北端 }end{北端 }of{}the{}palace{宫殿 }city{城市 }contained{包含 }one{之一 }of{}Xanadu{世外桃源 }'s{的 }largest{大 }remains{遗迹 },{， }identified{称为 }as{称为 }the{}Muqing{木青阁 }Pavilion{木青阁 },{， }where{那里 }its{其 }rulers{统治者 }held{举行 }impressive{深刻 }banquets{宴会 }.{。 }
+
+#235With a noticeable juvenile manta ray population in the atoll 's Maamunagau Lagoon , the resort works with Manta Trust researchers to aid in the education and conservation of these giant , playful fish and their habitat .
+由于 在 环礁 的 Maamunagau 泻湖 中 有 大量 的 蝠 鲼 幼鱼 ， 度假村 与 Manta Trust 研究 人员 合作 ， 帮助 教育 和 保护 这些 巨大 、 顽皮 的 鱼 及其 栖息地 。
+With{由于 }a{的 }noticeable{大量 }juvenile{幼鱼 }manta{蝠 鲼 }ray{鲼 }population{}in{在 }the{}atoll{环礁 }'s{的 }Maamunagau{Maamunagau }Lagoon{泻湖 },{， }the{}resort{度假村 }works{合作 }with{与 }Manta{Manta }Trust{Trust }researchers{研究 }to{， }aid{帮助 }in{}the{}education{教育 }and{和 }conservation{保护 }of{}these{这些 }giant{巨大 },{、 }playful{顽皮 }fish{鱼 }and{及其 }their{及其 }habitat{栖息地 }.{。 }
+
+#236From time to time , Li Fashun will reminisce about the visit of a special guest to his abode in Simola Va village two years ago .
+李发顺 时不时 会 回忆 起 两 年 前 一 位 特邀 嘉宾 到 他 位于 西莫 拉瓦 村 的 住所 时 的 情景 。
+From{}time{}to{}time{时不时 },{}Li{李发顺 }Fashun{李发顺 }will{会 }reminisce{回忆 }about{起 }the{的 }visit{}of{}a{一 }special{特邀 }guest{特邀 嘉宾 }to{到 }his{他 }abode{住所 }in{位于 }Simola{西莫 拉瓦 }Va{拉瓦 }village{村 }two{两 }years{年 }ago{前 }.{。 }
+
+#237The tourism market is accelerating its recovery with the summer holiday approaching and it will drive a rapid rebound in the hospitality sector , Xie said .
+解说 ， 随着 暑假 的 临近 ， 旅游 市场 正在 加速 复苏 ， 这 将 带动 酒店业 快速 反弹 。
+The{， }tourism{旅游 }market{市场 }is{正在 }accelerating{加速 }its{}recovery{复苏 }with{随着 }the{的 }summer{暑假 }holiday{暑假 }approaching{临近 }and{， }it{这 }will{将 }drive{带动 }a{}rapid{快速 }rebound{反弹 }in{}the{}hospitality{酒店业 }sector{酒店业 },{}Xie{}said{解说 }.{。 }
+
+#238The quality of sleep is arguably one of the most important determinants of good health .
+睡眠 质量 可以 说 是 身体 健康 最 重要 的 决定 因素 之一 。
+The{}quality{质量 }of{}sleep{睡眠 }is{是 }arguably{可以 说 }one{之一 }of{}the{的 }most{最 }important{重要 }determinants{因素 }of{}good{}health{健康 }.{。 }
+
+#239Li believes that better things are yet to come for his village once the pandemic is fully over .
+李 认为 ， 一旦 大 流行 完全 结束 ， 他 的 村庄 还 没有 好转 。
+Li{李 }believes{认为 }that{， }better{好转 }things{}are{还 }yet{}to{没有 }come{好转 }for{}his{他 }village{村庄 }once{一旦 }the{}pandemic{大 流行 }is{}fully{完全 }over{结束 }.{。 }
+
+#240But today they have been either abandoned or turned into holiday homes and illegal constructions .
+但 今天 它们 要么 被 遗弃 ， 要么 变成 了 度假 屋 和 非法 建筑 。
+But{但 }today{今天 }they{它们 }have{}been{被 }either{要么 }abandoned{遗弃 }or{， }turned{变成 }into{变成 }holiday{度假 }homes{屋 }and{和 }illegal{非法 }constructions{建筑 }.{。 }
+
+#241An increased need to improve the quality of sleep has presented new opportunities to hotels where many guests sleep in .
+对 提高 睡眠 质量 的 需求 日益 增加 ， 这 为 许多 客人 入 住 的 酒店 提供 了 新 的 机会 。
+An{}increased{增加 }need{需求 }to{对 }improve{提高 }the{的 }quality{质量 }of{}sleep{睡眠 }has{这 }presented{提供 }new{新 }opportunities{机会 }to{为 }hotels{酒店 }where{}many{许多 }guests{客人 }sleep{入 住 }in{入 }.{。 }
+
+#242The National Cultural Heritage Administration , the Palace Museum and museums from other provinces will attend the travel mart .
+国家 文物局 、 故宫 博物院 及 外省 博物馆 将 参加 旅游 集市 。
+The{}National{国家 }Cultural{文物局 }Heritage{}Administration{文物局 },{、 }the{}Palace{故宫 }Museum{博物院 }and{及 }museums{博物馆 }from{}other{外省 }provinces{外省 }will{将 }attend{参加 }the{}travel{旅游 }mart{集市 }.{。 }
+
+#243Each villa also comes with a retractable roof so kids can doze off beneath the stars .
+每 栋 别墅 还 配有 可 伸缩 屋顶 ， 让 孩子 们 可以 在 星空 下 打瞌睡 。
+Each{每 }villa{别墅 }also{还 }comes{}with{配有 }a{}retractable{伸缩 }roof{屋顶 }so{让 }kids{孩子 }can{可以 }doze{打瞌睡 }off{}beneath{下 }the{}stars{星空 }.{。 }
+
+#244Faced with the prospect of another sweltering summer in Beijing , those soothing moments of natural splendor will continue to linger in my mind .
+面对 北京 又 一个 闷热 的 夏天 的 前景 ， 那些 自然 光彩 的 舒缓 时刻 将 继续 萦绕 在 我 的 脑海 中 。
+Faced{面对 }with{面对 }the{的 }prospect{前景 }of{}another{又 }sweltering{闷热 }summer{夏天 }in{}Beijing{北京 },{， }those{那些 }soothing{舒缓 }moments{时刻 }of{的 }natural{自然 }splendor{光彩 }will{将 }continue{继续 }to{}linger{萦绕 }in{在 }my{我 }mind{脑海 }.{。 }
+
+#245" It would be interesting to do some experiments , but before this possibility is introduced on a large scale , all lagoon water mobility should be rethought , " he said .
+“ 做 一些 实验 会 很 有趣 ， 但 在 大规模 引入 这种 可能性 之前 ， 应该 重新 考虑 所有 泻 湖水 的 流动性 ， ” 他 说 。
+"{“ }It{}would{会 }be{很 }interesting{有趣 }to{}do{做 }some{一些 }experiments{实验 },{， }but{但 }before{之前 }this{这种 }possibility{可能性 }is{}introduced{引入 }on{}a{}large{大规模 }scale{大规模 },{， }all{所有 }lagoon{泻 湖水 }water{湖水 }mobility{流动性 }should{应该 }be{}rethought{重新 考虑 },{， }"{” }he{他 }said{说 }.{。 }
+
+#246Kimpton Hotels & Restaurants , a brand owned by InterContinental Hotels Group , announced in February a partnership with Talkspace , an online behavioral health company , offering mental health services to guests as well as employees .
+洲际 酒店 集团 旗 下 品牌 金普顿 酒店 及 餐厅 于 2 月 宣布 与 在线 行为 健康 公司 Talkspace 建立 合作 伙伴 关系 ， 为 客人 和 员工 提供 心理 健康 服务 。
+Kimpton{金普顿 }Hotels{酒店 }&{及 }Restaurants{酒店 餐厅 },{}a{}brand{品牌 }owned{旗 下 }by{}InterContinental{洲际 }Hotels{酒店 }Group{集团 },{}announced{宣布 }in{于 }February{2 }a{建立 }partnership{合作 伙伴 }with{与 }Talkspace{Talkspace },{}an{}online{在线 }behavioral{}health{健康 }company{公司 },{， }offering{提供 }mental{心理 }health{健康 }services{服务 }to{为 }guests{客人 }as{}well{和 }as{}employees{员工 }.{。 }
+
+#247Kris had spotted Carrie earlier that day , on one of the buses that ferry visitors around the national park .
+那天 早 些 时候 ， 克里斯 在 一 辆 载有 游客 在 国家 公园 附近 穿梭 的 公共 汽车 上 发现 了 嘉莉 。
+Kris{克里斯 }had{了 }spotted{发现 }Carrie{嘉莉 }earlier{早 }that{那天 }day{那天 },{， }on{在 }one{一 }of{}the{的 }buses{汽车 }that{}ferry{穿梭 }visitors{游客 }around{附近 }the{}national{国家 }park{公园 }.{。 }
+
+#248That motivated me to do everything that I could to help , " Young tells CNN Travel .
+这 促使 我 尽 我 所 能 提供 帮助 ， ” 杨 告诉 CNN Travel 。
+That{这 }motivated{促使 }me{我 }to{}do{}everything{所 }that{}I{}could{能 }to{}help{帮助 },{， }"{” }Young{杨 }tells{告诉 }CNN{CNN }Travel{Travel }.{。 }
+
+#249Begrudgingly , Carrie agreed , and made her way to the edge of the rock to sit down next to the stranger .
+嘉莉 不 情愿 地 同意 了 ， 她 走 到 岩石 边 ， 坐 在 陌生人 旁边 。
+Begrudgingly{不 情愿 地 },{}Carrie{嘉莉 }agreed{同意 },{}and{， }made{}her{她 }way{走 }to{到 }the{}edge{边 }of{}the{}rock{岩石 }to{， }sit{坐 }down{}next{旁边 }to{在 }the{}stranger{陌生人 }.{。 }
+
+#250Not to be confused with its sister property , Four Seasons Resort Kuda Huraa , the overwater villas at Four Seasons Resort Maldives at Landaa Giraavaru are a slight step above .
+不要 与 它 的 姊妹 酒店 库达 呼拉 四季 度假村 混淆 ， 马尔代夫 四季 度假村 位于 兰 达 吉 拉瓦 鲁 的 水上 别墅 略 高于 此 。
+Not{不要 }to{不要 }be{}confused{混淆 }with{与 }its{它 }sister{姊妹 }property{酒店 },{}Four{四季 }Seasons{四季 }Resort{度假村 }Kuda{库达 }Huraa{呼拉 },{， }the{的 }overwater{水上 }villas{别墅 }at{}Four{四季 }Seasons{四季 度假村 }Resort{度假村 }Maldives{马尔代夫 }at{位于 }Landaa{兰 达 }Giraavaru{吉 拉瓦 鲁 }are{}a{}slight{略 }step{}above{此 }.{。 }
+
+#251" Since the outbreak of the pandemic , leisure travel to suburbs and rural areas are in demand among tourists , " a manager of Qunar was quoted as saying by Beijing Daily .
+《 北京 日报 》 援引 去 哪儿 网 一 名 经理 的话 说 ： “ 自大 流行 爆发 以来 ， 游客 需要 到 郊区 和 农村 进行 休闲 旅游 。 ”
+"{“ }Since{自大 }the{的话 }outbreak{爆发 }of{}the{}pandemic{自大 流行 },{， }leisure{休闲 }travel{旅游 }to{到 }suburbs{郊区 }and{和 }rural{农村 }areas{}are{}in{进行 }demand{需要 }among{}tourists{游客 },{}"{” }a{一 }manager{经理 }of{}Qunar{哪儿 }was{}quoted{援引 }as{}saying{说 }by{《 }Beijing{北京 }Daily{日报 }.{。 }
+
+#252Domestic hospitality can get a vital upgrade if they absorb more independent hoteliers in small cities and implement localization strategies , the professor added .
+教授 补充 说 ， 如果 他们 在 小 城市 吸收 更 多 的 独立 酒店 经营者 并 实施 本地化 战略 ， 国内 酒店业 可以 获得 重要 的 升级 。
+Domestic{国内 }hospitality{酒店业 }can{可以 }get{获得 }a{的 }vital{重要 }upgrade{升级 }if{如果 }they{他们 }absorb{吸收 }more{更 }independent{独立 }hoteliers{酒店 经营者 }in{在 }small{小 }cities{城市 }and{并 }implement{实施 }localization{本地化 }strategies{战略 },{， }the{}professor{教授 }added{补充 }.{。 }
+
+#253The travel mart will also stick to the rules of pandemic prevention and control while having the activities go on smoothly .
+旅游 商城 也 将 在 各项 活动 顺利 开展 的 同时 ， 坚持 疫情 防控 规则 。
+The{}travel{旅游 }mart{商城 }will{将 }also{也 }stick{坚持 }to{在 }the{}rules{规则 }of{在 }pandemic{疫情 }prevention{防控 }and{}control{防控 }while{同时 }having{}the{}activities{活动 }go{开展 }on{}smoothly{顺利 }.{。 }
+
+#254The organization says there is a need to " drastically reduce the effects produced by motor boats .
+该 组织 表示 ， 有 必要 “ 大幅 减少 摩托艇 产生 的 影响 。
+The{该 }organization{组织 }says{表示 }there{有 }is{}a{}need{必要 }to{}"{“ }drastically{大幅 }reduce{减少 }the{的 }effects{影响 }produced{产生 }by{}motor{摩托艇 }boats{摩托艇 }.{。 }
+
+#255Buddhists around the world consider the temple city of Bodh Gaya in Bihar state , about 500 kilometers from Kolkata , one of the most important pilgrimage centers for the religion .
+世界 各地 的 佛教徒 都 认为 距离 加尔各答 约 500 公里 的 比哈尔邦 的 寺庙 城市 菩提 伽 耶 是 该 宗教 最 重要 的 朝圣 中心 之一 。
+Buddhists{佛教徒 }around{各地 }the{的 }world{世界 }consider{认为 }the{的 }temple{寺庙 }city{城市 }of{}Bodh{菩提 }Gaya{伽 耶 }in{的 }Bihar{比哈尔邦 }state{比哈尔邦 },{}about{约 }500{500 }kilometers{公里 }from{距离 }Kolkata{加尔各答 },{是 }one{是 之一 }of{}the{}most{最 }important{重要 }pilgrimage{朝圣 }centers{中心 }for{}the{该 }religion{宗教 }.{。 }
+
+#256With no plaque or indication of any kind as to what this wall might be , my curiosity was peaked .
+由于 没有 牌匾 或 任何 迹象 表明 这 堵 墙 可能 是 什么 ， 我 的 好奇心 达到 了 顶峰 。
+With{由于 }no{没有 }plaque{牌匾 }or{或 }indication{迹象 }of{}any{任何 }kind{}as{表明 }to{}what{什么 }this{这 }wall{墙 }might{可能 }be{是 },{， }my{我 }curiosity{好奇心 }was{达到 了 }peaked{顶峰 }.{。 }
+
+#257Carrie and Kris ' email friendship continued over the next several years as the two graduated from college , started working , and remained in each other 's orbit .
+Carrie 和 Kris 的 电子 邮件 友谊 在 接下来 的 几 年 里 继续 存在 ， 因为 两 人 从 大学 毕业 ， 开始 工作 ， 并 保持 在 彼此 的 轨道 上 。
+Carrie{Carrie }and{和 }Kris{Kris }'{的 }email{电子 邮件 }friendship{友谊 }continued{继续 }over{在 }the{的 }next{接下来 }several{几 }years{年 }as{因为 }the{}two{两 }graduated{毕业 }from{从 }college{大学 },{， }started{开始 }working{工作 },{， }and{并 }remained{保持 }in{在 }each{彼此 }other{彼此 }'s{的 }orbit{轨道 }.{。 }
+
+#258So the concerned daughter went back to her family 's home and made tender chicken on rice in a small pot .
+于是 ， 心疼 的 女儿 就 回 娘家 ， 用 小锅 做 了 嫩 鸡 饭 。
+So{于是 }the{的 }concerned{心疼 }daughter{女儿 }went{}back{回 }to{}her{}family{娘家 }'s{}home{}and{， }made{做 }tender{嫩 }chicken{鸡 }on{}rice{饭 }in{用 }a{了 }small{小锅 }pot{小锅 }.{。 }
+
+#259With mountains rising behind serene Lake Wakatipu , Matakauri Lodge boasts a stunning setting in New Zealand 's South Island .
+Matakauri Lodge 在 宁静 的 瓦 卡蒂普 湖 背后 耸立 着 群山 ， 在 新西兰 的 南岛 拥有 令 人 惊叹 的 环境 。
+With{在 }mountains{群山 }rising{耸立 }behind{背后 }serene{宁静 }Lake{湖 }Wakatipu{瓦 卡蒂普 },{， }Matakauri{Matakauri }Lodge{Lodge }boasts{拥有 }a{的 }stunning{惊叹 }setting{环境 }in{在 }New{新西兰 }Zealand{新西兰 }'s{的 }South{南岛 }Island{南岛 }.{。 }
+
+#260Built in 2013 , they look brand new , with every inch perfectly finished by a team of craftsmen from Europe .
+它们 建 于 2013 年 ， 外观 焕然一新 ， 每 一 寸 都 由 来自 欧洲 的 工匠 团队 完美 完成 。
+Built{建 }in{于 }2013{2013 },{， }they{它们 }look{焕然一新 }brand{焕然一新 }new{焕然一新 },{， }with{}every{每 }inch{寸 }perfectly{完美 }finished{完成 }by{由 }a{}team{团队 }of{的 }craftsmen{工匠 }from{来自 }Europe{欧洲 }.{。 }
+
+#261But Aceto is among the last guardians of this vulnerable tradition now threatened by industrialization , changes in society and climate change .
+但 Aceto 是 这 一 脆弱 传统 的 最后 守护者 之一 ， 现在 受到 工业化 、 社会 变化 和 气候 变化 的 威胁 。
+But{但 }Aceto{Aceto }is{是 }among{}the{的 之一 }last{最后 }guardians{守护者 }of{}this{这 }vulnerable{脆弱 }tradition{传统 }now{现在 }threatened{威胁 }by{受到 }industrialization{工业化 },{、 }changes{变化 }in{}society{社会 }and{和 }climate{气候 }change{变化 }.{。 }
+
+#262President Xi Jinping 's visit celebrates new era for rural community , deservedly reaping the harvest of its work , report Yang Feiyue in Beijing and Li Yingqing in Kunming .
+习近平 主席 此访 为 农村 社区 庆祝 新 时代 ， 收获 了 工作 的 丰收 ， 北京 报告 杨 飞跃 ， 昆明 报告 李英清 。
+President{主席 }Xi{习近平 }Jinping{习近平 }'s{此访 }visit{此访 }celebrates{庆祝 }new{新 }era{时代 }for{为 }rural{农村 }community{社区 },{， }deservedly{}reaping{收获 }the{的 }harvest{丰收 }of{}its{}work{工作 },{， }report{报告 }Yang{杨 }Feiyue{飞跃 }in{}Beijing{北京 }and{， }Li{李英清 }Yingqing{李英清 }in{报告 }Kunming{昆明 }.{。 }
+
+#263Whether writing wok recipes or advocating for Chinatowns , she says she 's not only doing it for the Chinese communities in the US .
+无论是 写 炒菜 食谱 还是 为 唐人街 宣传 ， 她 说 她 不仅 是 在 为 美国 的 华人 社区 做 这 件 事 。
+Whether{无论是 }writing{写 }wok{炒菜 }recipes{食谱 }or{还是 }advocating{宣传 }for{为 }Chinatowns{唐人街 },{， }she{她 }says{说 }she{她 }'s{是 }not{不仅 }only{不仅 }doing{做 }it{这 }for{为 }the{的 }Chinese{华人 }communities{社区 }in{}the{}US{美国 }.{。 }
+
+#264For someone who has succeeded in convincing 140 people to offload their minuscule slice of property to create a big project , it should n't be too hard .
+对于 成功 说服 140 人 出售 他们 微不足道 的 财产 来 创建 一个 大 项目 的 人 来说 ， 这 应该 不 会 太 难 。
+For{对于 }someone{人 }who{}has{}succeeded{成功 }in{对于 }convincing{说服 }140{140 }people{人 }to{}offload{出售 }their{他们 }minuscule{微不足道 }slice{}of{的 }property{财产 }to{来 }create{创建 }a{一个 }big{大 }project{项目 },{， }it{这 }should{应该 }n't{不 }be{}too{太 }hard{难 }.{。 }
+
+#265" The ' Wisdom of the Chinese Kitchen ' was published in 1999 and about 10 years later I got a call that my mom had a stroke , " says Young .
+“ 《 中国 厨房 的 智慧 》 于 1999 年 出版 ， 大约 10 年 后 ， 我 接到 一个 电话 ， 说 我 妈妈 中风 了 ， ” 杨 说 。
+"{“ }The{}'{《 }Wisdom{智慧 }of{的 }the{的 }Chinese{中国 }Kitchen{厨房 }'{》 }was{}published{出版 }in{年 }1999{1999 }and{， }about{大约 }10{10 }years{年 }later{后 }I{我 }got{接到 }a{一个 }call{电话 }that{说 }my{我 }mom{妈妈 }had{中风 }a{}stroke{中风 },{， }"{” }says{说 }Young{杨 }.{。 }
+
+#266While Tahiti may have started the overwater trend in the 1960s , the Maldives has undoubtedly perfected it .
+虽然 大溪地 可能 在 1960 年代 开始 了 水上 运动 的 趋势 ， 但 马尔代夫 无疑 已经 完善 了 它 。
+While{虽然 }Tahiti{大溪地 }may{可能 }have{}started{开始 }the{的 }overwater{水上 }trend{趋势 }in{在 }the{}1960s{1960 },{， }the{}Maldives{马尔代夫 }has{已经 }undoubtedly{无疑 }perfected{完善 }it{它 }.{。 }
+
+#267" In my parents ' old days , the lack of space and intimacy meant that love was made outdoors , underneath the citrus trees , " he says with a smile .
+“ 在 我 父母 的 过去 ， 缺乏 空间 和 亲密 关系 意味着 爱 是 在 户外 ， 在 柑橘 树 下 进行 的 ， ” 他 笑 着 说 。
+"{“ }In{在 }my{我 }parents{父母 }'{的 }old{过去 }days{过去 },{， }the{}lack{缺乏 }of{}space{空间 }and{和 }intimacy{亲密 关系 }meant{意味着 }that{意味着 }love{爱 }was{是 }made{进行 }outdoors{户外 },{， }underneath{下 }the{}citrus{柑橘 }trees{树 },{， }"{” }he{他 }says{说 }with{}a{}smile{}.{。 }
+
+#268One of his favorite dishes , it was the last recipe Young learned from her parents to include in " Wisdom of the Chinese Kitchen .
+他 最 喜欢 的 菜 之一 ， 这 是 杨 从 父母 那里 学 到 的 最后 一道 菜谱 ， 收录 在 《 中国 厨房 的 智慧 》 中 。
+One{之一 }of{}his{他 }favorite{喜欢 }dishes{菜 },{， }it{这 }was{是 }the{的 }last{最后 }recipe{菜谱 }Young{杨 }learned{学 }from{从 }her{}parents{父母 }to{}include{收录 }in{在 }"{《 }Wisdom{智慧 }of{的 }the{的 }Chinese{中国 }Kitchen{厨房 }.{。 }
+
+#269As I approached the center of the site , I could make out earthen mounds and some similar remnants of walls .
+当 我 接近 场地 中心 时 ， 我 可以 辨认 出 土丘 和 一些 类似 的 墙壁 残余物 。
+As{当 }I{我 }approached{接近 }the{}center{中心 }of{}the{}site{场地 },{， }I{我 }could{可以 }make{辨认 }out{出 }earthen{土丘 }mounds{土丘 }and{和 }some{一些 }similar{类似 }remnants{残余物 }of{的 }walls{墙壁 }.{。 }
+
+#270" The living environment has improved over the past two years , and so has the public observance of social codes , " Li says .
+“ 过去 两 年 ， 生活 环境 有所 改善 ， 公众 遵守 社会 规范 的 情况 也 有所 改善 ， ” 李说 。
+"{“ }The{}living{生活 }environment{环境 }has{有所 }improved{改善 }over{}the{}past{过去 }two{两 }years{年 },{}and{， }so{也 }has{有所 }the{}public{公众 }observance{遵守 }of{的 }social{社会 }codes{规范 },{， }"{” }Li{李说 }says{李说 }.{。 }
+
+#271There 's a risk , he says , that when his generation stops cultivating the land , the knowledge accumulated over the centuries by local communities could vanish altogether .
+他 说 ， 有 一 种 风险 ， 当 他 这 一代人 停止 耕种 土地 时 ， 当地 社区 数百 年 来 积累 的 知识 可能 会 完全 消失 。
+There{有 }'s{有 }a{一 }risk{风险 },{}he{他 }says{说 },{， }that{}when{当 }his{他 }generation{一代人 }stops{停止 }cultivating{耕种 }the{}land{土地 },{， }the{的 }knowledge{知识 }accumulated{积累 }over{来 }the{}centuries{年 }by{}local{当地 }communities{社区 }could{可能 }vanish{消失 }altogether{完全 }.{。 }
+
+#272Growing stress from life and work is one of the reasons why people are seeking more ways to rejuvenate themselves .
+来自 生活 和 工作 的 压力 越来越 大 ， 是 人们 寻求 更 多 方式 来 恢复 活力 的 原因 之一 。
+Growing{来自 }stress{压力 }from{来自 }life{生活 }and{和 }work{工作 }is{是 }one{之一 }of{}the{的 }reasons{原因 }why{}people{人们 }are{}seeking{寻求 }more{更 }ways{方式 }to{来 }rejuvenate{恢复 }themselves{}.{。 }
+
+#273" Making popcorn in the wok is actually very good for intensifying the patina of the wok .
+“ 在 锅 里 做 爆米花 实际上 非常 有助于 增强 锅 的 光泽 。
+"{“ }Making{做 }popcorn{爆米花 }in{在 }the{}wok{锅 }is{}actually{实际上 }very{非常 }good{有助于 }for{有助于 }intensifying{增强 }the{的 }patina{光泽 }of{}the{}wok{锅 }.{。 }
+
+#274The landscape around the village is dotted with abbeys , monasteries and pilgrimage sites famous for apparitions of the Virgin Mary .
+村庄 周围 的 景观 点缀 着 以 圣母 玛利亚 显灵 而 闻名 的 修道院 、 修道院 和 朝 圣地 。
+The{的 }landscape{景观 }around{周围 }the{}village{村庄 }is{}dotted{点缀 }with{着 }abbeys{修道院 },{、 }monasteries{修道院 }and{和 }pilgrimage{朝 圣地 }sites{圣地 }famous{闻名 }for{以 而 }apparitions{显灵 }of{}the{}Virgin{圣母 }Mary{玛利亚 }.{。 }
+
+#275Sustainability in personal health and that in the natural world are expected to complement and exert a positive influence on each other , she noted .
+她 指出 ， 个人 健康 的 可 持续性 和 自然界 的 可 持续性 有望 相互 补充 并 产生 积极 影响 。
+Sustainability{可 持续性 }in{的 }personal{个人 }health{健康 }and{和 }that{}in{}the{的 }natural{自然界 }world{自然界 }are{}expected{有望 }to{相互 }complement{补充 }and{并 }exert{产生 }a{}positive{积极 }influence{影响 }on{}each{相互 }other{},{， }she{她 }noted{指出 }.{。 }
+
+#276Zha Liyou , Chinese consul general to Kolkata , highlighting the importance of Bodh Gaya as a major tourist destination , said that it has the potential to trigger an influx of arrivals from China .
+中国 驻 加尔各答 总领事 查 立友 强调 菩提 伽 耶 作为 主要 旅游 目的地 的 重要性 ， 并 表示 它 有 可能 引发 中国 游客 的 大量 涌入 。
+Zha{查 }Liyou{立友 },{}Chinese{中国 }consul{总领事 }general{总领事 }to{驻 }Kolkata{加尔各答 },{}highlighting{强调 }the{的 }importance{重要性 }of{}Bodh{菩提 }Gaya{伽 耶 }as{作为 }a{}major{主要 }tourist{旅游 }destination{目的地 },{， }said{表示 }that{表示 }it{它 }has{有 }the{}potential{可能 }to{}trigger{引发 }an{的 }influx{大量 涌入 }of{}arrivals{游客 }from{}China{中国 }.{。 }
+
+#277According to Italian law dating back to the Napoleonic era , property ownership passes not to the eldest heir , but instead to every single child .
+根据 可 追溯 到 拿破仑 时代 的 意大利 法律 ， 财产 所有权 不 会 传 给 最 年长 的 继承人 ， 而是 传 给 每个 孩子 。
+According{根据 }to{}Italian{意大利 }law{法律 }dating{}back{追溯 }to{到 }the{的 }Napoleonic{拿破仑 }era{时代 },{， }property{财产 }ownership{所有权 }passes{传 }not{不 }to{给 }the{的 }eldest{年长 }heir{继承人 },{， }but{而是 }instead{而是 }to{给 }every{每个 }single{每个 }child{孩子 }.{。 }
+
+#278The details were announced at a media conference early this month at Langyuan Vintage , a cultural industrial park in the capital , for the 10th Beijing People Beneficial Cultural Consumption Season .
+本 月初 ， 在 首都 文化 产业园 朗园 古镇 举行 的 第十 届 北京 人民 公益 文化 消费 季 的 媒体 发布会 上 ， 公布 了 具体 细节 。
+The{具体 }details{细节 }were{了 }announced{公布 }at{}a{的 }media{媒体 }conference{发布会 }early{月初 }this{本 }month{月初 }at{在 }Langyuan{朗园 }Vintage{古镇 },{}a{}cultural{文化 }industrial{产业园 }park{产业园 }in{}the{}capital{首都 },{， }for{}the{第十 }10th{第十 }Beijing{北京 }People{人民 }Beneficial{公益 }Cultural{文化 }Consumption{消费 }Season{季 }.{。 }
+
+#279" It is certainly not a concept suitable for a vaporetto in the Grand Canal or a cargo boat .
+“ 这 当然 不 适合 大运河 中 的 汽艇 或 货船 。
+"{“ }It{这 }is{}certainly{当然 }not{不 }a{}concept{}suitable{适合 }for{适合 }a{}vaporetto{汽艇 }in{中 }the{的 }Grand{大运河 }Canal{大运河 }or{或 }a{}cargo{货船 }boat{货船 }.{。 }
+
+#280In an attempt to solve that problem , Salvatore and his brother Marco , 56 , have created Lemon Tours , an agricultural tourism venture to increase awareness of the Sfusato and revitalize the traditions used to cultivate it .
+为了 解决 这个 问题 ， Salvatore 和 他 56 岁 的 兄弟 Marco 创建 了 Lemon Tours ， 这 是 一 家 农业 旅游 企业 ， 旨在 提高 人们 对 Sfusato 的 认识 并 振兴 用于 种植 它 的 传统 。
+In{为了 }an{}attempt{}to{为了 }solve{解决 }that{这个 }problem{问题 },{， }Salvatore{Salvatore }and{和 }his{他 }brother{兄弟 }Marco{Marco },{}56{56 },{}have{}created{创建 }Lemon{Lemon }Tours{Tours },{， }an{一 }agricultural{农业 }tourism{旅游 }venture{企业 }to{旨在 }increase{提高 }awareness{认识 }of{对 }the{}Sfusato{Sfusato }and{并 }revitalize{振兴 }the{的 }traditions{传统 }used{用于 }to{用于 }cultivate{种植 }it{它 }.{。 }
+
+#281As reports of such crimes increased , businesses began closing their doors early , allowing their workers to head home before dark , a trend that continues today .
+随着 此类 犯罪 的 报道 增多 ， 企业 开始 提前 关门 ， 让 员工 在 天 黑 前 回家 ， 这 一 趋势 一直 持续 到 今天 。
+As{随着 }reports{报道 }of{的 }such{此类 }crimes{犯罪 }increased{增多 },{， }businesses{企业 }began{开始 }closing{关门 }their{}doors{}early{提前 },{， }allowing{让 }their{}workers{员工 }to{在 }head{回家 }home{回家 }before{前 }dark{黑 },{， }a{这 一 }trend{趋势 }that{一直 }continues{持续 }today{今天 }.{。 }
+
+#282" I think that people forget that Chinese food actually has such a long history in America dating from the 1840s , and that it is a very important part of the American culinary landscape , " says Young .
+“ 我 认为 人们 忘记 了 中餐 在 美国 实际上 从 1840 年代 就 拥有 如此 悠久 的 历史 ， 并且 它 是 美国 烹饪 景观 中 非常 重要 的 一 部分 ， ” 杨 说 。
+"{“ }I{我 }think{认为 }that{认为 }people{人们 }forget{忘记 }that{}Chinese{中餐 }food{中餐 }actually{实际上 }has{拥有 }such{如此 }a{的 }long{悠久 }history{历史 }in{在 }America{美国 }dating{}from{从 }the{}1840s{1840 年代 },{， }and{并且 }that{}it{它 }is{是 }a{的 一 }very{非常 }important{重要 }part{部分 }of{中 }the{}American{美国 }culinary{烹饪 }landscape{景观 },{， }"{” }says{说 }Young{杨 }.{。 }
+
+#283They accelerated their plans , and got married in Carrie 's mother 's backyard in 2009 , right after their son was born .
+他们 加快 了 他们 的 计划 ， 并 于 2009 年 在 他们 儿子 出生 后 在 嘉莉 母亲 的 后院 结婚 。
+They{他们 }accelerated{加快 }their{他们 }plans{计划 },{， }and{并 }got{}married{结婚 }in{在 }Carrie{嘉莉 }'s{}mother{母亲 }'s{的 }backyard{后院 }in{于 }2009{2009 },{}right{}after{后 }their{他们 }son{儿子 }was{}born{出生 }.{。 }
+
+#284The answer is no according to an article by the Ganyong hotel research institute published on meadin.com , a commercial property information provider .
+根据 商业 地产 信息 提供商 meadin . com 上 发表 的 赣 永 酒店 研究所 的 一 篇 文章 ， 答案 是 否定 的 。
+The{}answer{答案 }is{是 }no{否定 }according{根据 }to{根据 }an{一 }article{文章 }by{}the{的 }Ganyong{赣 永 }hotel{酒店 }research{研究所 }institute{研究所 }published{发表 }on{上 }meadin.com{meadin . com },{}a{}commercial{商业 }property{地产 }information{信息 }provider{提供商 }.{。 }
+
+#285However , that need for speed to raise the foils means saving Venice wo n't be as easy as switching to electric , said Dr Pierpaolo Campostrini , managing director of CORILA , which studies the lagoon system in Venice .
+然而 ， 研究 威尼斯 泻湖 系统 的 CORILA 董事 总经理 Pierpaolo Campostrini 博士 说 ， 提高 水箔 速度 的 需要 意味着 拯救 威尼斯 不 会 像 改用 电动 那样 容易 。
+However{然而 },{， }that{的 }need{需要 }for{}speed{速度 }to{}raise{提高 }the{}foils{水箔 }means{意味着 }saving{拯救 }Venice{威尼斯 }wo{}n't{不 }be{会 }as{那样 }easy{容易 }as{像 }switching{改用 }to{}electric{电动 },{}said{说 }Dr{}Pierpaolo{Pierpaolo }Campostrini{Campostrini },{博士 }managing{总经理 }director{总经理 }of{的 }CORILA{CORILA },{}which{}studies{研究 }the{}lagoon{泻湖 }system{系统 }in{}Venice{}.{。 }
+
+#286Correction : This feature has been updated to clarify the description of how waat gai faan is cooked .
+更 正 ： 此 功能 已 更新 ， 以 阐明 如何 烹制 waat gai faan 的 描述 。
+Correction{正 }:{： }This{此 }feature{功能 }has{已 }been{}updated{更新 }to{以 }clarify{阐明 }the{的 }description{描述 }of{}how{如何 }waat{waat }gai{gai }faan{faan }is{}cooked{烹制 }.{。 }
+
+#287A " social orchard " with fresh produce has been created , bringing together groups of children for lessons on rural life , while a gastronomy school launches this year .
+一个 种植 新鲜 农产品 的 “ 社会 果园 ” 已经 建成 ， 将 儿童 群体 聚集 在 一起 学习 农村 生活 ， 而 今年 还 将 开设 一 所 美食 学校 。
+A{一个 }"{“ }social{社会 }orchard{果园 }"{” }with{}fresh{新鲜 }produce{农产品 }has{已经 }been{}created{建成 },{， }bringing{将 }together{一起 }groups{群体 }of{}children{儿童 }for{在 }lessons{学习 }on{}rural{农村 }life{生活 },{， }while{而 }a{一 }gastronomy{美食 }school{学校 }launches{开设 }this{今年 }year{今年 }.{。 }
+
+#288The terracing system exploits the force of gravity to direct rainwater to irrigate the plants .
+梯田 系统 利用 重力 引导 雨水 灌溉 植物 。
+The{}terracing{梯田 }system{系统 }exploits{利用 }the{}force{}of{}gravity{重力 }to{}direct{引导 }rainwater{雨水 }to{}irrigate{灌溉 }the{}plants{植物 }.{。 }
+
+#289More efforts need to be made to close the gap , given that the proportion stood at 60 percent in developed countries , the CHA said .
+CHA 表示 ， 鉴于 发达国家 的 这 一 比例 为 60% ， 需要 做出 更 多 努力 来 缩小 差距 。
+More{更 }efforts{努力 }need{需要 }to{需要 }be{}made{做出 }to{来 }close{缩小 }the{这 }gap{差距 },{， }given{鉴于 }that{鉴于 }the{的 }proportion{比例 }stood{}at{为 }60{60% }percent{60% }in{}developed{发达国家 }countries{发达国家 },{}the{}CHA{CHA }said{表示 }.{。 }
+
+#290Contributing to Young 's popularity , her books managed to overcome the challenge of explaining the many ethereal Chinese culinary concepts in English , a feat generations of Chinese food writers and lovers are grateful for .
+她 的 书 成功 地 克服 了 用 英语 解释 许多 空灵 的 中国 烹饪 概念 的 挑战 ， 这 为 杨 的 受 欢迎 程度 做出 了 贡献 ， 这 是 几 代 中国 美食 作家 和 爱好者 所 感激 的 壮举 。
+Contributing{贡献 }to{为 }Young{杨 }'s{的 的 }popularity{欢迎 },{}her{她 }books{书 }managed{成功 }to{了 了 }overcome{克服 }the{的 }challenge{挑战 }of{}explaining{解释 }the{}many{许多 }ethereal{空灵 的 }Chinese{中国 }culinary{烹饪 }concepts{概念 }in{用 }English{英语 },{， }a{这 }feat{}generations{代 }of{}Chinese{中国 }food{美食 }writers{作家 }and{和 }lovers{爱好者 }are{所 }grateful{感激 }for{}.{。 }
+
+#291However , he warned that maneuvering the boats at high speed around slower traffic could be difficult , and said that a rethink of the city 's transport is in order before decisions are taken .
+然而 ， 他 警告 说 ， 在 速度 较 慢 的 交通 中 高速 操纵 船只 可能 很 困难 ， 并 表示 在 做出 决定 之前 ， 需要 重新 考虑 城市 的 交通 状况 。
+However{然而 },{， }he{他 }warned{警告 }that{， }maneuvering{操纵 }the{的 }boats{船只 }at{在 }high{}speed{速度 }around{中 }slower{较 慢 }traffic{交通 }could{可能 }be{很 }difficult{困难 },{， }and{并 }said{表示 }that{}a{}rethink{重新 }of{}the{}city{城市 }'s{的 }transport{交通 }is{}in{需要 }order{需要 }before{之前 }decisions{决定 }are{}taken{做出 }.{。 }
+
+#292One of the smallest and most sustainable resorts in the Maldives , Kudadoo has just 15 overwater residences powered entirely by solar panels .
+作为 马尔代夫 最 小 、 最 可 持续 的 度假村 之一 ， Kudadoo 只有 15 个 完全 由 太阳能 电池板 供电 的 水上 住宅 。
+One{之一 }of{作为 }the{的 之一 }smallest{小 }and{、 }most{最 }sustainable{持续 }resorts{度假村 }in{}the{}Maldives{马尔代夫 },{， }Kudadoo{Kudadoo }has{只有 }just{只有 }15{15 }overwater{水上 }residences{住宅 }powered{供电 }entirely{完全 }by{由 }solar{太阳能 }panels{电池板 }.{。 }
+
+#293For the hotel industry as a whole , she said the era of hotels only providing beds and meals is becoming a thing of the past .
+对于 整个 酒店业 ， 她 说 酒店 只 提供 床 和 饭菜 的 时代 正在 成为 过去 。
+For{对于 }the{整个 }hotel{酒店业 }industry{酒店业 }as{}a{}whole{整个 },{， }she{她 }said{说 }the{的 }era{时代 }of{}hotels{酒店 }only{只 }providing{提供 }beds{床 }and{和 }meals{饭菜 }is{正在 }becoming{成为 }a{}thing{}of{}the{}past{过去 }.{。 }
+
+#294It had n't worked , but now the girl from the bus was walking towards him , and sitting herself next to him on the edge of the rock .
+它 没有 奏效 ， 但 现在 公共 汽车 上 的 女孩 正 朝 他 走 来 ， 坐 在 他 旁边 的 岩石 边缘 。
+It{它 }had{}n't{没有 }worked{奏效 },{， }but{但 }now{现在 }the{的 }girl{女孩 }from{上 }the{}bus{汽车 }was{正 }walking{走 }towards{朝 }him{他 },{}and{， }sitting{坐 }herself{}next{旁边 }to{}him{他 }on{在 }the{的 }edge{边缘 }of{}the{}rock{岩石 }.{。 }
+
+#295Kris was still road tripping with his parents when he picked up Carrie 's message from a San Francisco internet cafe .
+当 克里斯 从 旧金山 的 一 家 网吧 收到 嘉莉 的 信息 时 ， 他 还 在 和 父母 一起 旅行 。
+Kris{克里斯 }was{}still{还 }road{}tripping{旅行 }with{和 }his{}parents{父母 }when{当 }he{他 }picked{收到 }up{收到 }Carrie{嘉莉 }'s{的 }message{信息 }from{从 }a{一 }San{旧金山 }Francisco{旧金山 }internet{网吧 }cafe{网吧 }.{。 }
+
+#296Soaring gracefully over the Sydney skyline , the Crown Sydney opened at the end of 2020 after four years of construction and a whopping $ 1 .
+悉尼 皇冠 酒店 优雅 地 翱翔 在 悉尼 的 天际线 上 ， 经过 四 年 的 建设 和 高 达 1 美元 的 成本 ， 于 2020 年底 开业 。
+Soaring{翱翔 }gracefully{优雅 }over{在 }the{的 }Sydney{悉尼 }skyline{天际线 },{， ， }the{}Crown{皇冠 }Sydney{}opened{开业 }at{于 }the{}end{年底 }of{年底 }2020{2020 }after{经过 }four{四 }years{年 }of{的 }construction{建设 }and{和 }a{}whopping{高 成本 }${美元 }1{1 }.{。 }
+
+#297The top 50 Chinese hotel groups combined had nearly 4 million guest rooms , covering 85 percent of the domestic chain hotel market .
+中国 酒店 集团 50 强 合计 拥有 近 400 万间 客房 ， 覆盖 国内 连锁 酒店 市场 的 85% 。
+The{}top{}50{50 }Chinese{中国 }hotel{酒店 }groups{集团 }combined{合计 }had{拥有 }nearly{近 }4{400 }million{万间 }guest{客房 }rooms{客房 },{， }covering{覆盖 }85{85% }percent{85% }of{的 }the{}domestic{国内 }chain{连锁 }hotel{酒店 }market{市场 }.{。 }
+
+#298For those who are n't familiar with the concept , patina is a brownish film on the surface of metals that is produced after a long period of continual usage .
+对于 不 熟悉 这个 概念 的 人 来说 ， 铜绿 是 金属 表面 长 时间 连续 使用 后 产生 的 褐色 薄膜 。
+For{对于 }those{人 }who{的 }are{}n't{不 }familiar{熟悉 }with{}the{这个 }concept{概念 },{， }patina{铜绿 }is{是 }a{}brownish{褐色 }film{薄膜 }on{}the{}surface{表面 }of{}metals{金属 }that{}is{}produced{产生 }after{后 }a{}long{长 }period{时间 }of{}continual{连续 }usage{使用 }.{。 }
+
+#299If a glamorous city escape is more your style , it does n't get much better than this sleek urban oasis on Sunset Boulevard .
+如果 迷人 的 城市 度假 更 适合 您 的 风格 ， 那么 日落 大道 上 这 片 时尚 的 城市 绿洲 就是 最 好 不过 了 。
+If{如果 }a{的 }glamorous{迷人 }city{城市 }escape{度假 }is{}more{更 }your{您 }style{风格 },{， }it{}does{就是 }n't{不过 了 }get{不过 }much{最 }better{好 }than{}this{这 }sleek{时尚 }urban{城市 }oasis{绿洲 }on{上 }Sunset{日落 }Boulevard{大道 }.{。 }
+
+#300Di Ciacca was born in the fishing village of Cockenzie , outside Edinburgh , but says he always held a deep affection for his native land .
+Di Ciacca 出生 在 爱丁堡 郊外 的 Cockenzie 渔村 ， 但 他 说 他 一直 对 自己 的 祖国 怀有 深厚 的 感情 。
+Di{Di }Ciacca{Ciacca }was{}born{出生 }in{在 }the{}fishing{渔村 }village{渔村 }of{的 }Cockenzie{Cockenzie },{}outside{郊外 }Edinburgh{爱丁堡 },{， }but{但 }says{说 }he{他 }always{一直 }held{怀有 }a{的 }deep{深厚 }affection{感情 }for{对 }his{自己 }native{祖国 }land{祖国 }.{。 }
+

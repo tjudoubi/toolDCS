@@ -1,0 +1,161 @@
+#58:
+" She started going and she kept saying , ' You ' ve got ta come in , it sure does help with your mental health , ' " Waters told CNN .
+沃特斯告诉CNN：“她开始说，‘你有助教，这对你的心理健康确实有帮助。’”。
+" She started going and she kept saying , ' You ' ve got ta come in , it really does help with your mental health , ' " Waters told CNN .
+沃特斯告诉CNN：“她开始说，‘你有助教，这确实有助于你的心理健康。’”。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#59:
+Day three of action at the worlds also saw newly crowned 100m champion Fred Kerley fail to advance from the semifinals of the 200m .
+在世界锦标赛的第三天，新加冕的100米冠军弗雷德·凯利也未能从200米半决赛中晋级。
+Day five of action at the worlds also saw newly crowned 100m champion Fred Kerley fail to advance from the semifinals of the 200m .
+在世界杯的第五天比赛中，新加冕的100米冠军弗雷德·凯利也未能从200米半决赛中晋级。
+LCS-Wdiff:	0.9545454545454546 
+--FP--
+#61:
+It caused a lengthy delay but the driver was eventually deemed fit after being assessed at the medical center .
+这造成了长时间的延误，但在医疗中心进行评估后，司机最终被认为是健康的。
+It caused a lengthy delay but the driver was eventually declared fit after being assessed at the medical center .
+这造成了长时间的延误，但在医疗中心进行评估后，司机最终被宣布健康。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#62:
+The pair are also focused on bringing up the next generation of South African runners through programs like SIV2Run which aims to help uplift people from disadvantaged communities .
+两人还专注于通过SIV2Run等项目培养下一代南非跑步者，该项目旨在帮助提升弱势群体的地位。
+The pair are also focused on bringing up the next generation of South African runners through programs like LIV2Run which aims to help uplift people from disadvantaged communities .
+两人还致力于通过LIV2Run等项目培养下一代南非跑步者，该项目旨在帮助提升弱势群体的地位。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#63:
+The report analyzed sociodemographic data for all athletes representing Canada , the US , Great Britain and Australia in Sochi .
+该报告分析了在索契代表加拿大、美国、英国和澳大利亚的所有运动员的社会人口数据。
+The study analyzed sociodemographic data for all athletes representing Canada , the US , Great Britain and Australia in Sochi .
+该研究分析了代表加拿大、美国、英国和澳大利亚参加索契奥运会的所有运动员的社会人口数据。
+LCS-Wdiff:	0.95 
+--FP--
+#64:
+With the support of Rana , Brian and the rest of the family , it feels as though nothing is impossible when it comes to Jake Bates .
+在拉娜、布莱恩和家人的支持下，杰克·贝茨觉得没有什么是不可能的。
+With the support of Rana , Brian and the rest of the family , it feels as though nothing is impossible when it comes to Zach Bates .
+在拉纳、布莱恩和家人的支持下，扎克·贝茨觉得没有什么是不可能的。
+LCS-Wdiff:	0.95 
+--FP--
+#65:
+" For quite some time I struggled with eating disorders because I was constantly trying to keep my weight too low , to appear skinny , like these women are on magazine covers , " she says .
+她说：“有相当一段时间，我一直在与饮食失调作斗争，因为我一直试图保持体重过低，不让自己看起来像杂志封面上的这些女性一样瘦。”。
+" For quite some time I struggled with eating disorders because I was constantly trying to keep my weight really low , to appear skinny , like these women are on magazine covers , " she says .
+她说：“有相当一段时间，我一直在与饮食失调作斗争，因为我一直试图保持体重很低，看起来很瘦，就像杂志封面上的这些女性一样。”。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#66:
+That she can look at them and hear what their dreams are , what their hopes are for their life .
+她可以看着他们，听到他们的梦想是什么，他们对生活的希望是什么。
+That we can look at them and hear what their dreams are , what their hopes are for their life .
+我们可以看到他们，听到他们的梦想是什么，他们对生活的希望是什么。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#67:
+With the forecast high temperatures of close to 40 Celsius , Ferrari ' s recent frailties could be exposed again as aerodynamics chief Diego Tondi suggested in a team preview .
+随着预测高温接近40摄氏度，法拉利最近的弱点可能再次暴露，正如空气动力学主管迭戈·托迪在团队预览中所建议的那样。
+Given the forecast high temperatures of close to 40 Celsius , Ferrari ' s recent frailties could be exposed again as aerodynamics chief Diego Tondi suggested in a team preview .
+鉴于预测的高温接近40摄氏度，法拉利最近的弱点可能会再次暴露，正如空气动力学主管迭戈·托迪在团队预览中所建议的那样。
+LCS-Wdiff:	0.9375 
+--FP--
+#69:
+" Take , for example , it ' s like your mind can go anywhere and you can still run quite quickly .
+举个例子，你的大脑可以去任何地方，你仍然可以跑得很快。
+" Running , for example , it ' s like your mind can go anywhere and you can still run quite quickly .
+例如，跑步，你的思维可以去任何地方，你仍然可以跑得很快。
+LCS-Wdiff:	0.9375 
+--FP--
+#70:
+In those conditions , removed from the technologies and problems that clutter everyday life , Jackson forged a connection with his team , their Nepali guides , and the surrounding mountains .
+在这种情况下，杰克逊摆脱了日常生活中的技术和问题，与他的团队、他们的尼泊尔向导以及周围的山脉建立了联系。
+In such conditions , removed from the technologies and problems that clutter everyday life , Jackson forged a connection with his team , their Nepali guides , and the surrounding mountains .
+在这样的条件下，远离了日常生活中的技术和问题，杰克逊与他的团队、他们的尼泊尔向导以及周围的山脉建立了联系。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#71:
+Before practice on Thursday , Murray held an unannounced press conference , beginning with a monologue defending how he ' s become one of the better quarterbacks in the league .
+在周四训练之前，穆雷举行了一次未经宣布的新闻发布会，首先是一段独白，为他如何成为联盟中最好的四分卫之一辩护。
+After practice on Thursday , Murray held an unannounced press conference , beginning with a monologue defending how he ' s become one of the better quarterbacks in the league .
+周四训练结束后，穆雷举行了一次未经宣布的记者招待会，首先是一段独白，为他如何成为联盟中最好的四分卫之一辩护。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#72:
+And the ironic thing is I was the most intellectual person out on the tour at the time .
+具有讽刺意味的是，我当时是巡回演出中最聪明的人。
+And the ironic thing is he was the most intellectual person out on the tour at the time .
+具有讽刺意味的是，他是当时巡回演出中最聪明的人。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#73:
+But the ironic thing is he was the most intellectual person out on the tour at the time .
+但讽刺的是，他是当时巡回演出中最聪明的人。
+And the ironic thing is he was the most intellectual person out on the tour at the time .
+具有讽刺意味的是，他是当时巡回演出中最聪明的人。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#76:
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a year with limited food and water .
+他的团队一直在Irpin周围分发援助物资，并发现了在地下室藏匿了近一年的平民，他们的食物和水都很有限。
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的团队一直在伊尔平周围分发援助物资，发现了在地下室藏了近一个月的平民，他们的食物和水都很有限。
+LCS-Wdiff:	0.9032258064516129 
+--FP--
+#77:
+The Kentucky Horse Racing Commission announced Monday that Medina Spirit ' s win at the 2021 Kentucky Derby has been disqualified .
+肯塔基赛马委员会周一宣布，麦地那精神赛马会在2021肯塔基州德比中获胜的资格已被取消。
+The Kentucky Horse Racing Commission announced Monday that Medina Spirit ' s victory at the 2021 Kentucky Derby has been disqualified .
+肯塔基赛马委员会周一宣布，麦地那精神赛马会在2021肯塔基州德比中的胜利已被取消资格。
+LCS-Wdiff:	0.9 
+--FP--
+#79:
+" I was cut from funding very abruptly with no exit support or care for my welfare afterward , which is all too common with many athletes in the UK .
+“我的资金突然被切断，没有退出支持，也没有照顾我的福利，这在英国的许多运动员中太常见了。”。
+" I was cut from funding very abruptly with no exit support or care for my welfare afterward , which is all too common for many athletes in the UK .
+“我突然被切断了资金，没有退出支持，也没有照顾我的福利，这对英国的许多运动员来说太常见了。”。
+LCS-Wdiff:	0.9 
+--FP--
+#80:
+He ' ll be ostracized from the community , so it ' s not an easy thing to do , " she said .
+他将被排斥在社区之外，所以这不是一件容易的事，”她说。
+You ' ll be ostracized from the community , so it ' s not an easy thing to do , " she said .
+你会被社区排斥，所以这不是一件容易的事，”她说。
+LCS-Wdiff:	0.8823529411764706 
+--FP--
+#83:
+The Parisian fans sensed an upset was on the cards and the chants of " Allez Les Bleus " now reververbated louder than ever around the ground .
+巴黎球迷们感觉到了一种不安的情绪，现在“祝福大家”的歌声在地面上回响得比以往任何时候都要响亮。
+The French fans sensed an upset was on the cards and the chants of " Allez Les Bleus " now reververbated louder than ever around the ground .
+法国球迷们感觉到了一种不安，而“Allez Les Bleus”的歌声现在在地面上回响得比以往任何时候都要响亮。
+LCS-Wdiff:	0.8620689655172413 
+--FP--
+#87:
+His group had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的小组一直在伊尔平周围分发援助物资，发现一些平民已经在地下室躲藏了近一个月，食物和水都很有限。
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的团队一直在伊尔平周围分发援助物资，发现了在地下室藏了近一个月的平民，他们的食物和水都很有限。
+LCS-Wdiff:	0.8333333333333334 
+--FP--
+#91:
+His men had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的手下一直在伊尔平周围分发援助物资，发现了一些平民，他们在地下室躲藏了将近一个月，食物和水都很有限。
+His team had been going around Irpin to distribute aid and found civilians who had been hiding in basements for almost a month with limited food and water .
+他的团队一直在伊尔平周围分发援助物资，发现了在地下室藏了近一个月的平民，他们的食物和水都很有限。
+LCS-Wdiff:	0.8064516129032258 
+--FP--
+#98:
+" We should n ' t put the onus on individuals , and especially on kids , to have to get permission to play but that ' s a really important element of this Maryland rule .
+“我们不应该让个人，尤其是孩子们，承担必须获得游戏许可的责任，但这是马里兰规则的一个非常重要的因素。
+" We should n ' t put the onus on individuals , and especially on kids , to have to get permission to play and that ' s a really important element of this Maryland rule .
+“我们不应该把必须获得游戏许可的责任推给个人，尤其是孩子，这是马里兰州规则中非常重要的一个因素。
+LCS-Wdiff:	0.6 
+--FP--
+#99:
+Afkari was one of at least 267 people who were executed in Iran by 2020 .
+到2020年，伊朗至少有267人被处决，阿夫卡里是其中之一。
+Afkari was one of at least 267 people who were executed in Iran in 2020 .
+阿夫卡里是2020年在伊朗被处决的至少267人之一。
+LCS-Wdiff:	0.47058823529411764 
+--FP--

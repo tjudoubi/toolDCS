@@ -1,0 +1,70 @@
+#36:
+After the two semifinal matches , a total of 317 , 683 fans have attended the games so far , more than doubling the previous record of 240 , 055 , set at Euro 2017 in the Netherlands .
+在两场半决赛之后，共有317，683名球迷参加了比赛，比荷兰2017年欧洲杯的240，055的纪录增加了一倍多。
+After the two semifinal matches , a total of 487 , 683 fans have attended the games so far , more than doubling the previous record of 240 , 055 , set at Euro 2017 in the Netherlands .
+在两场半决赛之后，共有487，683名球迷参加了比赛，比之前在荷兰举行的2017年欧洲杯的240，055的纪录增加了一倍多。
+LCS-Wdiff:	0.9090909090909091 
+--FP--
+#50:
+" I was cut from funding rather abruptly with no exit support or care for my welfare afterward , which is all too common for many athletes in the UK .
+“我被突然从资金中削减，之后没有退出支持或关心我的福利，这对英国的许多运动员来说太普遍了。
+" I was cut from funding very abruptly with no exit support or care for my welfare afterward , which is all too common for many athletes in the UK .
+“我被非常突然地从资金中削减，之后没有退出支持或关心我的福利，这对英国的许多运动员来说太常见了。
+LCS-Wdiff:	0.9354838709677419 
+--FP--
+#57:
+" Great to have so many family and friends there and also the entire Ottawa area , and lots of Canadians supporting and watching , so it ' s going to be phenomenal .
+“很高兴有这么多的家人和朋友在那里，还有整个渥太华地区，还有很多加拿大人支持和观看，所以这将是惊人的。
+" Going to have so many family and friends there and also the entire Ottawa area , and lots of Canadians supporting and watching , so it ' s going to be phenomenal .
+“那里会有这么多的家人和朋友，还有整个渥太华地区，还有很多加拿大人支持和观看，所以这将是惊人的。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#58:
+" She started going and she kept saying , ' You ' ve got ta come in , it sure does help with your mental health , ' " Waters told CNN .
+“她开始走，她一直说，'你进来了，这确实有助于你的心理健康，'”沃特斯告诉CNN。
+" She started going and she kept saying , ' You ' ve got ta come in , it really does help with your mental health , ' " Waters told CNN .
+“她开始走，她一直说，'你进来了，它确实对你的心理健康有帮助，'”沃特斯告诉CNN。
+LCS-Wdiff:	0.9259259259259259 
+--FP--
+#60:
+" I really have to say I love women ' s football , it ' s outstanding , " Klopp said at a press conference on Friday .
+“我真的不得不说我爱女足，这很出色，”克洛普在周五的新闻发布会上说。
+" I really have to say I love women ' s football , it ' s outstanding , " Klopp said at a press conference on Thursday .
+“我真的不得不说我爱女足，它非常出色，”克洛普在周四的新闻发布会上说。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#62:
+The pair are also focused on bringing up the next generation of South African runners through programs like SIV2Run which aims to help uplift people from disadvantaged communities .
+这对夫妇还专注于通过SIV2Run等计划培养下一代南非跑步者，该计划旨在帮助提高弱势群体的人们。
+The pair are also focused on bringing up the next generation of South African runners through programs like LIV2Run which aims to help uplift people from disadvantaged communities .
+两人还专注于通过LIV2Run等计划培养下一代南非跑步者，该计划旨在帮助提高弱势群体的人们。
+LCS-Wdiff:	0.9545454545454546 
+--FP--
+#71:
+Before practice on Thursday , Murray held an unannounced press conference , beginning with a monologue defending how he ' s become one of the better quarterbacks in the league .
+在周四的训练之前，穆雷举行了一次不经宣布的新闻发布会，首先是一段独白，为他成为联盟中更好的四分卫之一辩护。
+After practice on Thursday , Murray held an unannounced press conference , beginning with a monologue defending how he ' s become one of the better quarterbacks in the league .
+周四的训练结束后，穆雷举行了一场不经宣布的新闻发布会，首先是一段独白，为他成为联盟中更好的四分卫之一辩护。
+LCS-Wdiff:	0.9393939393939394 
+--FP--
+#79:
+" I was cut from funding very abruptly with no exit support or care for my welfare afterward , which is all too common with many athletes in the UK .
+“我被突然从资金中削减，之后没有退出支持或关心我的福利，这在英国的许多运动员中都很常见。
+" I was cut from funding very abruptly with no exit support or care for my welfare afterward , which is all too common for many athletes in the UK .
+“我被非常突然地从资金中削减，之后没有退出支持或关心我的福利，这对英国的许多运动员来说太常见了。
+LCS-Wdiff:	0.8666666666666667 
+--FP--
+#82:
+Videos shared online appear to show a large section of fans singing Putin ' s name shortly after Galskyi had celebrated in front of the home fans .
+网上分享的视频似乎显示，在加尔斯基在主场球迷面前庆祝后不久，很大一部分球迷唱着普京的名字。
+Videos shared online appear to show a large section of fans singing Putin ' s name shortly after Buyalskyi had celebrated in front of the home fans .
+在线分享的视频似乎显示，在布亚尔斯基在主场球迷面前庆祝后不久，很大一部分球迷唱着普京的名字。
+LCS-Wdiff:	0.96 
+--FP--
+#84:
+While everyone knew Lundholm was coming back from injury , serious hopes were pinned on Olympic champion Jakob Ingebrigtsen in the men ' s 1 , 500 m .
+虽然每个人都知道伦德霍尔姆从伤病中恢复过来，但男子1，500米的奥运冠军雅各布·英格布里格森寄予了强烈的希望。
+While everyone knew Warholm was coming back from injury , serious hopes were pinned on Olympic champion Jakob Ingebrigtsen in the men ' s 1 , 500 m .
+虽然每个人都知道沃霍尔姆从伤病中恢复过来，但男子1500米的奥运冠军雅各布·英格布里格森寄予了强烈的希望。
+LCS-Wdiff:	0.9285714285714286 
+--FP--

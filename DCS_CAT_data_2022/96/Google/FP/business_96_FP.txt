@@ -1,0 +1,210 @@
+#7:
+The company now has more than 860 million paid subscriptions across its various services , an increase of 160 million since last year , Apple CFO Luca Maestri said during a conference call with analysts Thursday .
+苹果公司首席财务官卢卡梅斯特里周四在与分析师的电话会议上表示，该公司目前在其各种服务中的付费订阅量已超过 8.6 亿，比去年增加了 1.6 亿。
+The company now has more than 860 million paid subscriptions across its various services , an increase of 160 million since last year , Apple CFO Luca Maestri said on a conference call with analysts Thursday .
+苹果公司首席财务官卢卡梅斯特里周四在与分析师的电话会议上表示，该公司目前在其各种服务中拥有超过 8.6 亿付费订阅用户，比去年增加了 1.6 亿。
+LCS-Wdiff:	0.875 
+--FP--
+#10:
+Investors are excited about SaaS because of the " rapid adoption " of software over the last decade , according to Mohit Bhatnagar , managing director of Sequoia Capital India .
+据红杉资本印度公司董事总经理 Mohit Bhatnagar 称，投资者对 SaaS 感到兴奋是因为过去十年软件的“迅速采用”。
+Investors are excited about SaaS because of the " massive adoption " of software over the last decade , according to Mohit Bhatnagar , managing director of Sequoia Capital India .
+据红杉资本印度公司董事总经理 Mohit Bhatnagar 称，由于过去十年软件的“大规模采用”，投资者对 SaaS 感到兴奋。
+LCS-Wdiff:	0.7307692307692307 
+--FP--
+#11:
+Investors are excited about SaaS because of the " massive adoption " of software in the last decade , according to Mohit Bhatnagar , managing director of Sequoia Capital India .
+据红杉资本印度公司董事总经理 Mohit Bhatnagar 称，投资者对 SaaS 感到兴奋是因为过去十年软件的“大规模采用”。
+Investors are excited about SaaS because of the " massive adoption " of software over the last decade , according to Mohit Bhatnagar , managing director of Sequoia Capital India .
+据红杉资本印度公司董事总经理 Mohit Bhatnagar 称，由于过去十年软件的“大规模采用”，投资者对 SaaS 感到兴奋。
+LCS-Wdiff:	0.7692307692307693 
+--FP--
+#13:
+The goal is to avoid employers that offer products and services that cautious customers might elect to forgo or postpone .
+目标是避免雇主提供谨慎的客户可能会选择放弃或推迟的产品和服务。
+The key is to avoid employers that offer products and services that cautious customers might elect to forgo or postpone .
+关键是要避免雇主提供谨慎的客户可能会选择放弃或推迟的产品和服务。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#14:
+Regulators found that the employees opened deposit accounts , bank cards and lines of credit that carried high interest rates and expensive fees that were passed on to the customer .
+监管机构发现，这些员工开设的存款账户、银行卡和信用额度具有高利率和高额费用，这些都转嫁给了客户。
+Regulators found that the employees opened deposit accounts , credit cards and lines of credit that carried high interest rates and expensive fees that were passed on to the customer .
+监管机构发现，这些员工开立的存款账户、信用卡和信用额度都带有高利率和高额费用，这些都转嫁给了客户。
+LCS-Wdiff:	0.9230769230769231 
+--FP--
+#17:
+5 million charge due to 787 delivery delays and customer concessions , and another $ 1 billion in abnormal production costs stemming from production flaws and related repairs and inspections .
+由于 787 交付延迟和客户让步而产生的 500 万美元的费用，以及因生产缺陷和相关维修和检查而产生的另外 10 亿美元的异常生产成本。
+5 billion charge due to 787 delivery delays and customer concessions , and another $ 1 billion in abnormal production costs stemming from production flaws and related repairs and inspections .
+由于 787 交付延迟和客户让步而产生的 50 亿美元的费用，以及由生产缺陷和相关维修和检查引起的另外 10 亿美元的异常生产成本。
+LCS-Wdiff:	0.90625 
+--FP--
+#25:
+19 billion penalty , the regulator also imposed a personal fine of 1 million yuan on Didi ' s chairman and CEO Cheng Wei and president Zhang Qing , respectively .
+罚款190亿元，监管机构还分别对滴滴董事长兼CEO程伟和总裁张庆处以100万元的个人罚款。
+19 billion penalty , the regulator also imposed a personal fine of 1 million yuan on Didi ' s chairman and CEO Cheng Wei and president Liu Qing , respectively .
+罚款190亿元，监管机构还分别对滴滴董事长兼CEO程伟和总裁刘庆处以个人罚款100万元。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#31:
+According to Shell , China has an estimated 2 , 200 Gt in storage capacity and significant geological potential for storing carbon , second only to the United States .
+据壳牌公司称，中国估计拥有 2, 200 Gt 的储存能力和巨大的碳储存地质潜力，仅次于美国。
+According to Shell , China has an estimated 2 , 400 Gt in storage capacity and significant geological potential for storing carbon , second only to the United States .
+据壳牌称，中国估计拥有 2、400 吉吨的碳储存能力和巨大的碳储存地质潜力，仅次于美国。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#35:
+Despite the massive size of some homegrown unicorns , Arubootham said that the country does not have a " global tech powerhouse product brand .
+尽管一些本土独角兽公司规模庞大，但 Arubootham 表示，该国没有“全球科技强国产品品牌”。
+Despite the massive size of some homegrown unicorns , Mathrubootham said that the country does not have a " global tech powerhouse product brand .
+尽管一些本土独角兽拥有庞大的规模，但 Mathrubootham 表示，该国没有“全球科技强国产品品牌”。
+LCS-Wdiff:	0.9047619047619048 
+--FP--
+#39:
+Should a recession arrive , inflation might ease without requiring much further intervention from the central bank .
+如果经济衰退到来，通胀可能会在不需要央行进一步干预的情况下得到缓解。
+Should a recession arrive , inflation could ease without requiring much further intervention from the central bank .
+如果经济衰退到来，通胀可以在不需要央行进一步干预的情况下缓解。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#42:
+In the United States , inflation has held steady at around 4 % a year for the better part of four decades .
+在美国，通货膨胀在 40 年的大部分时间里一直保持在每年 4% 左右。
+In the United States , inflation has held steady at around 2 % a year for the better part of four decades .
+在美国，通货膨胀率在 40 年的大部分时间里一直保持在每年 2% 左右。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#47:
+SaaS companies , on the other hand , have to say no to 50 % of customers , he added .
+他补充说，另一方面，SaaS 公司不得不对 50% 的客户说不。
+SaaS companies , on the other hand , have to say no to 99 % of customers , he added .
+另一方面，SaaS公司不得不对99%的客户说不，他补充道。
+LCS-Wdiff:	0.7333333333333333 
+--FP--
+#55:
+Because of that , he argues , people mostly do n ' t expect recent inflation of around 5 % to stick around .
+正因为如此，他认为，人们大多不期望近期大约 5% 的通胀率会持续下去。
+Because of that , he argues , people mostly do n ' t expect recent inflation of around 9 % to stick around .
+正因为如此，他认为，人们大多不认为近期 9% 左右的通胀率会持续下去。
+LCS-Wdiff:	0.9444444444444444 
+--FP--
+#59:
+The Cyberspace Administration of China stated in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国国家互联网信息办公室在一份声明中表示，该公司违反了国家网络安全法、数据安全法和个人信息保护法。
+The Cyberspace Administration of China said in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国网信办在一份声明中表示，该公司违反了国家网络安全法、数据安全法和个人信息保护法。
+LCS-Wdiff:	0.84 
+--FP--
+#60:
+Starting next week : The US jobs report for July will be closely scrutinized for evidence the economy is slowing faster than expected .
+从下周开始：美国 7 月份就业报告将受到密切关注，以寻找经济放缓速度快于预期的证据。
+Coming next week : The US jobs report for July will be closely scrutinized for evidence the economy is slowing faster than expected .
+下周即将发布：美国 7 月份就业报告将受到密切关注，以寻找经济放缓速度快于预期的证据。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#64:
+" Both the UK and China have witnessed unprecedented development in the offshore wind sector over the past few years and foresee more market opportunities in terms of business models and technology innovations , " said Zhang .
+“过去几年，英国和中国都见证了海上风电领域前所未有的发展，并预见到在商业模式和技术创新方面会有更多的市场机会，”张说。
+" Both the UK and China have seen unprecedented development in the offshore wind sector over the past few years and foresee more market opportunities in terms of business models and technology innovations , " said Zhang .
+“在过去的几年里，英国和中国在海上风电领域都取得了前所未有的发展，并预见到在商业模式和技术创新方面会有更多的市场机会，”张说。
+LCS-Wdiff:	0.8888888888888888 
+--FP--
+#71:
+The attorney representing Jones in the Texas defamation case , Federico Andino Reynal , made the disclosure about the bankruptcy filing after the end of court proceedings on Friday .
+在德克萨斯州的诽谤案中代表琼斯的律师费德里科·安迪诺·雷纳尔（Federico Andino Reynal）在周五法庭诉讼结束后披露了有关破产申请的信息。
+The attorney representing Jones in the Texas defamation case , Federico Andino Reynal , made the disclosure about the bankruptcy filing at the end of court proceedings on Friday .
+在德克萨斯州的诽谤案中代表琼斯的律师费德里科·安迪诺·雷纳尔（Federico Andino Reynal）在周五的法庭诉讼程序结束时披露了有关破产申请的信息。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#75:
+It makes sense , therefore , for job seekers to try finding jobs in companies that are less vulnerable to the economy ' s troubles .
+因此，求职者尝试在不太容易受到经济问题影响的公司中寻找工作是有道理的。
+It makes sense , therefore , for job seekers to try finding jobs with companies that are less vulnerable to the economy ' s troubles .
+因此，对于求职者来说，尝试在不太容易受到经济问题影响的公司寻找工作是有道理的。
+LCS-Wdiff:	0.9545454545454546 
+--FP--
+#76:
+State Cyberspace Administration of China said in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国国家互联网信息办公室在一份声明中表示，该公司违反了国家网络安全法、数据安全法和个人信息保护法。
+The Cyberspace Administration of China said in a statement that the firm had breached the country ' s cybersecurity law , data security law , and personal information protection law .
+中国网信办在一份声明中表示，该公司违反了国家网络安全法、数据安全法和个人信息保护法。
+LCS-Wdiff:	0.84 
+--FP--
+#77:
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement on Saturday with immediate effect .
+该品牌表示，它已自愿要求其所有媒体合作伙伴在周六立即停止播放该广告的变体。
+The brand said it had voluntarily asked all its media partners to stop broadcasting variations of the advertisement from Saturday with immediate effect .
+该品牌表示，它已自愿要求其所有媒体合作伙伴从周六开始立即停止播放该广告的变体。
+LCS-Wdiff:	0.9545454545454546 
+--FP--
+#83:
+This was only about 160 miles south from my hotel and I still had half of a full charge .
+这距离我的酒店以南只有大约 160 英里，而我还有一半的电量。
+It was only about 160 miles south from my hotel and I still had half of a full charge .
+它距离我的酒店仅向南约 160 英里，而我还有一半的电量。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#85:
+Even the swift ban on him indicates how sensitive Chinese censors might be in this environment , she said .
+她说，即使是对他的迅速禁令也表明中国审查员在这种环境下可能有多敏感。
+But the swift ban on him indicates how sensitive Chinese censors might be in this environment , she said .
+但她说，对他的迅速禁令表明中国审查员在这种环境下可能有多敏感。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#86:
+Though there may not be many big hit films in theaters over the next few weeks , there will still be movies to go see .
+尽管在接下来的几周内，影院上映的大热电影可能不多，但仍有电影可以看。
+While there may not be many big hit films in theaters over the next few weeks , there will still be movies to go see .
+虽然在接下来的几周内不会有很多大热的电影在影院上映，但仍有电影可看。
+LCS-Wdiff:	0.6363636363636364 
+--FP--
+#87:
+Boeing suspended deliveries of the 787 when the FAA raised concerns about its proposed inspection method .
+当 FAA 对其提议的检查方法表示担忧时，波音公司暂停了 787 的交付。
+Boeing suspended deliveries of the 787 after the FAA raised concerns about its proposed inspection method .
+在 FAA 对其提议的检查方法提出担忧后，波音公司暂停了 787 的交付。
+LCS-Wdiff:	0.8888888888888888 
+--FP--
+#90:
+For many companies , CCUS will not only expand their own business but also help them become sustainable in the long run , he said .
+他说，对于许多公司来说，CCUS 不仅会扩大自己的业务，而且会帮助他们实现长期可持续发展。
+For oil companies , CCUS will not only expand their own business but also help them become sustainable in the long run , he said .
+他说，对于石油公司来说，CCUS 不仅会扩大自己的业务，还能帮助他们实现长期可持续发展。
+LCS-Wdiff:	0.9583333333333334 
+--FP--
+#92:
+Because the Fed raises rates , it makes it more expensive for people and businesses to borrow money .
+因为美联储提高利率，它使个人和企业借钱的成本更高。
+When the Fed raises rates , it makes it more expensive for people and businesses to borrow money .
+当美联储提高利率时，人们和企业借钱的成本就更高了。
+LCS-Wdiff:	0.625 
+--FP--
+#95:
+Coming next week : The US jobs report for April will be closely scrutinized for evidence the economy is slowing faster than expected .
+下周 即将 发布 : 美国 4 月份 的 就业 报告 将 受到 密切 审查 , 以 寻找 经济 放缓 速度 快于 预期 的 证据 .
+Coming next week : The US jobs report for July will be closely scrutinized for evidence the economy is slowing faster than expected .
+下周即将发布：美国 7 月份就业报告将受到密切关注，以寻找经济放缓速度快于预期的证据。
+LCS-Wdiff:	0.8333333333333334 
+--FP--
+#97:
+" They get charged by the sea , so they can last their lifetime almost indefinitely , " Chao said .
+“它们在海边充电，因此它们几乎可以无限期地使用它们的生命，”Chao 说。
+" They get charged by the sea , so they can extend their lifetime almost indefinitely , " Chao said .
+“它们在海边充电，因此它们几乎可以无限期地延长它们的寿命，”Chao 说。
+LCS-Wdiff:	0.95 
+--FP--
+#98:
+It is estimated that the allocation of a combined quota of 320 billion yuan will be completed before the end of August , said an unidentified official of the CBIRC on Sunday .
+银保监会一名身份不明的官员周日表示，预计8月底前将完成3200亿元的合计额度分配。
+It is estimated that the allocation of a combined quota of 320 billion yuan will be completed by the end of August , said an unidentified official of the CBIRC on Sunday .
+银保监会一位身份不明的官员周日表示，预计8月底前将完成3200亿元人民币的合计额度分配。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#99:
+With the anticipated boom in NEV sales globally in the coming years , said Zhang Jing , a research supervisor from Shanghai Chaos Investment Group , the need for power batteries － a key component of NEVs － is apparent .
+上海混沌投资集团研究主管张静表示，随着未来几年全球新能源汽车销量的预期增长，对新能源汽车关键部件动力电池的需求是显而易见的。
+With the anticipated boom in NEV sales globally in the coming years , said Wang Jing , a research supervisor from Shanghai Chaos Investment Group , the need for power batteries － a key component of NEVs － is apparent .
+上海混沌投资集团的研究主管王静表示，随着未来几年全球新能源汽车销量的预期增长，对动力电池（新能源汽车的关键部件）的需求是显而易见的。
+LCS-Wdiff:	0.875 
+--FP--

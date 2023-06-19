@@ -1,0 +1,126 @@
+#1:
+Malaysia ratified the agreement in March , and with the RCEP opening up more markets for exports , Nafidzi said the Malaysian government should introduce programs that can boost export competitiveness .
+马来西亚在 3 月份批准了该协议，随着 RCEP 为出口开放更多市场，纳菲兹表示，马来西亚政府应该推出能够提高出口竞争力的计划。
+Malaysia ratified the agreement in March , and with the RCEP opening up more markets for exports , Hafidzi said the Malaysian government should introduce programs that can boost export competitiveness .
+马来西亚在 3 月批准了该协议，随着 RCEP 为出口开放更多市场，Hafidzi 表示马来西亚政府应该推出能够提高出口竞争力的计划。
+LCS-Wdiff:	0.9354838709677419 
+--FP--
+#8:
+Temperatures in parts of Zhejiang , Fujian , Jiangxi and Xinjiang can surpass 40 degrees Celsius , the center said .
+该中心说，浙江、福建、江西和新疆部分地区的气温可能超过40摄氏度。
+Temperatures in parts of Zhejiang , Fujian , Jiangxi and Xinjiang may surpass 40 degrees Celsius , the center said .
+该中心表示，浙江、福建、江西和新疆部分地区气温可能超过40摄氏度。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#10:
+While the Respect for Marriage Act has passed the House with a Democratic majority and the support of 47 Republicans , it is likely to stall in the evenly split Senate .
+虽然《尊重婚姻法》以民主党多数票和 47 名共和党人的支持在众议院获得通过，但它很可能在平分秋色的参议院中停滞不前。
+While the Respect for Marriage Act easily passed the House with a Democratic majority and the support of 47 Republicans , it is likely to stall in the evenly split Senate .
+虽然《尊重婚姻法》在民主党占多数和 47 名共和党人的支持下轻松通过了众议院，但它很可能在平分秋色的参议院中停滞不前。
+LCS-Wdiff:	0.8333333333333334 
+--FP--
+#13:
+Roberts also said then that he was n ' t opposed to criticism of the court but objected to it during a State of the Union address .
+罗伯茨当时还表示，他并不反对批评法院，但在国情咨文演说中反对。
+Roberts had said then that he was n ' t opposed to criticism of the court but objected to it during a State of the Union address .
+罗伯茨当时说他不反对批评法院，但在国情咨文演讲中反对。
+LCS-Wdiff:	0.875 
+--FP--
+#14:
+Roberts had said then that he was n ' t opposed to criticism of the court and objected to it during a State of the Union address .
+罗伯茨当时表示他不反对批评法院，并在国情咨文演讲中表示反对。
+Roberts had said then that he was n ' t opposed to criticism of the court but objected to it during a State of the Union address .
+罗伯茨当时说他不反对批评法院，但在国情咨文演讲中反对。
+LCS-Wdiff:	0.875 
+--FP--
+#15:
+Roberts publicly said then that he was n ' t opposed to criticism of the court but objected to it during a State of the Union address .
+罗伯茨当时公开表示，他不反对批评法院，但在国情咨文演说中反对。
+Roberts had said then that he was n ' t opposed to criticism of the court but objected to it during a State of the Union address .
+罗伯茨当时说他不反对批评法院，但在国情咨文演讲中反对。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#22:
+The two agreed on joint efforts to develop practical cooperation in the field of the economy and trade , and to jointly cope with the challenges facing the global economy , Xinhua News Agency reported .
+据新华社报道，两国同意共同努力，在经贸领域开展务实合作，共同应对全球经济面临的挑战。
+The two agreed on joint efforts to promote practical cooperation in the field of the economy and trade , and to jointly cope with the challenges facing the global economy , Xinhua News Agency reported .
+据新华社报道，两国同意共同努力，推动经贸领域务实合作，共同应对全球经济面临的挑战。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#35:
+In a special operation launched on August 1 , Shenzhen police detained eight suspects after intercepting a smuggling ship off the coast of the city .
+在8月1日启动的专项行动中，深圳警方在该市沿海截获一艘走私船后，拘捕了8名犯罪嫌疑人。
+In a special operation launched on June 1 , Shenzhen police detained eight suspects after intercepting a smuggling ship off the coast of the city .
+在 6 月 1 日 开展 的 专项 行动 中 , 深圳 警方 在 近海 截获 一艘 走私 船 后 拘留 了 8 名 犯罪 嫌疑人 .
+LCS-Wdiff:	0.7307692307692307 
+--FP--
+#56:
+" You can not help but wonder : How can such a ridiculous incident occur in the city that bore so much pain and shed so many tears in history ? "
+" 你 不禁 想 : 这么 荒唐 的 事件 怎么 会 发生 在 历史 上 承受 了 这么 多 痛苦 , 流 了 这么 多 眼泪 的 城市 ?
+" You can not help but wonder : How can such a ridiculous incident happen in the city that bore so much pain and shed so many tears in history ? "
+" 你 不禁 想 : 这么 荒唐 的 事件 怎么 会 发生 在 历史 上 经历 了 如此 痛苦 , 流下 如此多 泪水 的 城市 ? "
+LCS-Wdiff:	0.8461538461538461 
+--FP--
+#66:
+The two agreed on joint efforts to establish practical cooperation in the field of the economy and trade , and to jointly cope with the challenges facing the global economy , Xinhua News Agency reported .
+据新华社报道，两国同意共同努力，在经贸领域建立务实合作，共同应对全球经济面临的挑战。
+The two agreed on joint efforts to promote practical cooperation in the field of the economy and trade , and to jointly cope with the challenges facing the global economy , Xinhua News Agency reported .
+据新华社报道，两国同意共同努力，推动经贸领域务实合作，共同应对全球经济面临的挑战。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#67:
+He pledged enhanced efforts from the administration to ramp up precise monitoring and more contributions to flood prevention and mitigation in the country .
+他承诺政府将加大力度，加大精准监测力度，为该国防洪减灾做出更大贡献。
+He pledged enhanced efforts from the administration to ramp up precise monitoring and more contributions to disaster prevention and mitigation in the country .
+他承诺政府将加大力度，加强精准监测，为该国的防灾减灾做出更多贡献。
+LCS-Wdiff:	0.8333333333333334 
+--FP--
+#75:
+What made the two solutions especially important for China is that coal remains dominant in the country ' s energy mix , he stressed .
+他强调，使这两种解决方案对中国特别重要的原因是煤炭在该国的能源结构中仍然占主导地位。
+What makes the two solutions especially important for China is that coal remains dominant in the country ' s energy mix , he stressed .
+他强调，这两种解决方案对中国特别重要的原因是煤炭在中国能源结构中仍然占主导地位。
+LCS-Wdiff:	0.9565217391304348 
+--FP--
+#80:
+The UDI , calling for genuine cooperation and common action , comes at an appropriate time , said Ebrima Sall , executive director of TrustAfrica .
+TrustAfrica 执行董事 Ebrima Sall 表示，UDI 呼吁真正的合作和共同行动来得正是时候。
+The GDI , calling for genuine cooperation and common action , comes at an appropriate time , said Ebrima Sall , executive director of TrustAfrica .
+TrustAfrica 执行董事 Ebrima Sall 说，GDI 呼吁真正的合作和共同行动，来得正是时候。
+LCS-Wdiff:	0.8888888888888888 
+--FP--
+#84:
+Some drug gangs that used to be active in the province have been busted , he said .
+他说，一些曾经在该省活动的贩毒团伙已经被捣毁。
+Some criminal gangs that used to be active in the province have been busted , he said .
+他说，一些曾经在该省活跃的犯罪团伙已经被捣毁。
+LCS-Wdiff:	0.9230769230769231 
+--FP--
+#93:
+According to photos uploaded by netizens , the Buddhist memorial tablets of the war criminals , including Tadao Tani , Matsui Iwane , Takeshi Noda and Tanaka Junyoshi , were commemorated at the temple from 2018 to 2022 .
+根据网友上传的照片，2018年至2022年，该寺供奉了谷忠雄、岩根松井、野田武、田中纯义等战犯的佛牌。
+According to photos uploaded by netizens , the Buddhist memorial tablets of the war criminals , including Hisao Tani , Matsui Iwane , Takeshi Noda and Tanaka Junyoshi , were commemorated at the temple from 2018 to 2022 .
+据网友上传的照片显示，2018年至2022年，该寺供奉了谷久生、岩根松井、野田武、田中纯义等战犯的佛牌。
+LCS-Wdiff:	0.9333333333333333 
+--FP--
+#94:
+Liu highlights the great importance the ministry has attached to coal production , water conservancy , oil and gas pipelines , and railways as key sectors .
+刘强调，该部高度重视煤炭生产、水利、油气管道和铁路等重点领域。
+Liu noted the great importance the ministry has attached to coal production , water conservancy , oil and gas pipelines , and railways as key sectors .
+刘表示，该部高度重视煤炭生产、水利、油气管道、铁路等重点领域。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#96:
+Liu highlighted the great importance the ministry has attached to coal production , water conservancy , oil and gas pipelines , and railways as key sectors .
+刘强调，该部高度重视煤炭生产、水利、油气管道和铁路等重点领域。
+Liu noted the great importance the ministry has attached to coal production , water conservancy , oil and gas pipelines , and railways as key sectors .
+刘表示，该部高度重视煤炭生产、水利、油气管道、铁路等重点领域。
+LCS-Wdiff:	0.9411764705882353 
+--FP--
+#100:
+The most rigorous control measures must be included in their environmental impact assessment documents since some projects have the potential to directly affect the public with exhaust gas , noise , wastewater and hazardous waste .
+最严格的控制措施必须包含在其环境影响评价文件中，因为一些项目有可能直接影响公众的废气、噪声、废水和危险废物。
+The most rigorous control measures must be included in their environmental impact assessment documents if some projects have the potential to directly affect the public with exhaust gas , noise , wastewater and hazardous waste .
+如果某些项目有可能直接影响公众的废气、噪声、废水和危险废物，则必须将最严格的控制措施纳入环评文件。
+LCS-Wdiff:	0.5 
+--FP--

@@ -1,0 +1,35 @@
+#8:
+The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests in patients who are worried about exposure or who are at high risk .
+该报告设定了“纳克”关注水平，并鼓励临床医生对担心暴露或高危的患者进行血液检查。
+The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or who are at high risk .
+该报告设定了“纳克”关注水平，并鼓励临床医生对担心暴露或高危的患者进行血液检查。
+LCS-Wdiff:	1.0 
+--FN--
+#9:
+The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure and who are at high risk .
+该报告设定了“纳克”关注水平，并鼓励临床医生对担心暴露和处于高风险的患者进行血液检查。
+The report sets " nanogram " levels of concern and encourages clinicians to conduct blood tests on patients who are worried about exposure or who are at high risk .
+该报告设定了“纳克”关注水平，并鼓励临床医生对担心暴露或高危的患者进行血液检查。
+LCS-Wdiff:	1.0 
+--FN--
+#43:
+Since the primary way people reach out is via private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，由于人们接触的主要方式是通过私人通信手段，可能发生的最糟糕的情况是收件人没有回应。
+Since the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，由于人们接触的主要方式是通过私人通信手段，可能发生的最糟糕的情况是收件人没有回应。
+LCS-Wdiff:	1.0 
+--FN--
+#49:
+To get over some of this discomfort , take notice of automatic thought patterns that arise when thinking about communicating with a friend , and try to push back against them , Harmayer said .
+为了克服一些不适，请注意在考虑与朋友交流时出现的自动思维模式，并试图反击它们，哈马耶说。
+To get over some of this discomfort , take notice of automatic thought patterns that arise when thinking about communicating with a friend , and try to push back against them , Kirmayer said .
+为了克服一些不适，请注意在考虑与朋友交流时出现的自动思维模式，并试图反击它们，Kirmayer说。
+LCS-Wdiff:	1.0 
+--FN--
+#82:
+Although the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，虽然人们接触的主要方式是通过私人通信手段，但可能发生的最糟糕的情况是收件人没有回应。
+Since the primary way people reach out is through private means of communication , the worst that can happen is that the recipient does not respond , she added .
+她补充说，由于人们接触的主要方式是通过私人通信手段，可能发生的最糟糕的情况是收件人没有回应。
+LCS-Wdiff:	0.9642857142857143 
+--FN--

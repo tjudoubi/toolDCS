@@ -1,0 +1,105 @@
+#66:
+The two agreed on joint efforts to establish practical cooperation in the field of the economy and trade , and to jointly cope with the challenges facing the global economy , Xinhua News Agency reported .
+据新华社报道，双方同意共同努力，在经贸领域建立务实合作，共同应对全球经济面临的挑战。
+The two agreed on joint efforts to promote practical cooperation in the field of the economy and trade , and to jointly cope with the challenges facing the global economy , Xinhua News Agency reported .
+据新华社报道，双方同意共同努力，促进经贸领域的务实合作，共同应对全球经济面临的挑战。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#67:
+He pledged enhanced efforts from the administration to ramp up precise monitoring and more contributions to flood prevention and mitigation in the country .
+他承诺政府将加大力度，加强精确监测，并为该国的防洪减灾做出更多贡献。
+He pledged enhanced efforts from the administration to ramp up precise monitoring and more contributions to disaster prevention and mitigation in the country .
+他承诺政府将加大力度，加强精确监测，并为该国的防灾减灾工作做出更多贡献。
+LCS-Wdiff:	0.9523809523809523 
+--FP--
+#68:
+Lula , 76 , who served as Brazilian president from 2003 to 2009 , will contest in the presidential election on Oct . 2 , and his major rivals include incumbent President Jair Bolsonaro , who is seeking a second term .
+76岁的卢拉曾在2003年至2009年担任巴西总统，将参加10月2日的总统选举，他的主要竞争对手包括正在寻求连任的现任总统杰尔·博索纳罗。
+Lula , 76 , who served as Brazilian president from 2003 to 2010 , will contest in the presidential election on Oct . 2 , and his major rivals include incumbent President Jair Bolsonaro , who is seeking a second term .
+76岁的卢拉从2003年到2010年担任巴西总统，将参加10月2日的总统选举，他的主要竞争对手包括正在寻求连任的现任总统杰尔·博索纳罗。
+LCS-Wdiff:	0.9473684210526315 
+--FP--
+#69:
+The film crew took them to many " amazing sites " and the staff at the resort taught them a lot about how to " adopt modern Chinese traits while still keeping traditional customs " , Bradley said .
+布拉德利说，摄制组带他们去了许多“令人惊叹的地方”，度假村的工作人员教了他们很多关于如何“在保持传统习俗的同时继承现代中国特色”。
+The film crew took them to many " amazing sites " and the staff at the resort taught them a lot about how to " incorporate modern Chinese traits while still keeping traditional customs " , Bradley said .
+布拉德利说，摄制组带他们去了许多“令人惊叹的地方”，度假村的工作人员教了他们很多如何“在保留传统习俗的同时融入现代中国特色”。
+LCS-Wdiff:	0.9428571428571428 
+--FP--
+#71:
+BRICS countries , an important force for promoting multilateralism , have reaffirmed the belief that open and representative multilateralism is essential for building resilience against current and future global challenges .
+金砖国家作为促进多边主义的重要力量，重申了开放和代表性多边主义对于增强抵御当前和未来全球挑战的能力至关重要的信念。
+BRICS countries , an important force for promoting multilateralism , have reaffirmed the belief that effective and representative multilateralism is essential for building resilience against current and future global challenges .
+金砖国家作为促进多边主义的重要力量，重申了有效和具有代表性的多边主义对于增强抵御当前和未来全球挑战的能力至关重要的信念。
+LCS-Wdiff:	0.9375 
+--FP--
+#73:
+They are encountering greater pressure when it comes to increasing employment and incomes , and the growth rate of agricultural and rural investment is slowing , he added .
+他补充说，在增加就业和收入方面，他们面临着更大的压力，农业和农村投资的增长速度正在放缓。
+Farmers are encountering greater pressure when it comes to increasing employment and incomes , and the growth rate of agricultural and rural investment is slowing , he added .
+他补充说，农民在增加就业和收入方面面临更大的压力，农业和农村投资的增长速度正在放缓。
+LCS-Wdiff:	0.92 
+--FP--
+#75:
+What made the two solutions especially important for China is that coal remains dominant in the country ' s energy mix , he stressed .
+他强调，使这两种解决方案对中国尤为重要的是，煤炭在中国的能源结构中仍然占主导地位。
+What makes the two solutions especially important for China is that coal remains dominant in the country ' s energy mix , he stressed .
+他强调，这两种解决方案对中国特别重要的原因是煤炭在中国的能源结构中仍然占主导地位。
+LCS-Wdiff:	0.9130434782608695 
+--FP--
+#76:
+Ezzat Saad El Sayed , head of the Egyptian Council for Foreign Affairs , called China a trustworthy and sustainable partner for African countries , saying African countries welcome the GDI .
+埃及外交委员会主席埃扎特·萨阿德·赛义德（Ezzat Saad El-Sayed）称中国是非洲国家值得信赖的可持续伙伴，并表示非洲国家欢迎GDI。
+Ezzat Saad El Sayed , director of the Egyptian Council for Foreign Affairs , called China a trustworthy and sustainable partner for African countries , saying African countries welcome the GDI .
+埃及外交委员会主任埃扎特·萨阿德·赛义德（Ezzat Saad El-Sayed）称中国是非洲国家值得信赖和可持续的合作伙伴，表示非洲国家欢迎GDI。
+LCS-Wdiff:	0.9117647058823529 
+--FP--
+#83:
+According to photos uploaded by netizens , the Buddhist memorial tablets of the war criminals , including Hayao Tani , Matsui Iwane , Takeshi Noda and Tanaka Junyoshi , were commemorated at the temple from 2018 to 2022 .
+根据网民上传的照片，从2018年到2022年，该寺纪念了包括田谷浩夫、松井岩湾、野田武和田中俊吉在内的战犯佛教牌位。
+According to photos uploaded by netizens , the Buddhist memorial tablets of the war criminals , including Hisao Tani , Matsui Iwane , Takeshi Noda and Tanaka Junyoshi , were commemorated at the temple from 2018 to 2022 .
+根据网民上传的照片，从2018年到2022年，包括田长谷久、松井岩湾、野田武和田中俊吉在内的战犯佛教牌位在该寺举行了纪念活动。
+LCS-Wdiff:	0.8484848484848485 
+--FP--
+#84:
+Some drug gangs that used to be active in the province have been busted , he said .
+他说，一些曾经活跃在该省的贩毒团伙已经被捣毁。
+Some criminal gangs that used to be active in the province have been busted , he said .
+他说，过去活跃在该省的一些犯罪团伙已经被捣毁。
+LCS-Wdiff:	0.8461538461538461 
+--FP--
+#87:
+" It ' s great that the government organized these swimming training programs , which would ensure the safety of students , " Hu added .
+胡补充道：“政府组织了这些游泳训练项目，这将确保学生的安全，这太棒了。”。
+" It ' s great that the government organized these swimming training programs , which could ensure the safety of students , " Hu added .
+胡补充道：“政府组织了这些游泳训练项目，这很好，可以确保学生的安全。”。
+LCS-Wdiff:	0.8333333333333334 
+--FP--
+#88:
+The National Health Order focuses on strengthening public health institutions and its workforce , local manufacturing of therapeutics , vaccines and diagnostics , and ensuring fast response to disease threats .
+《国家卫生令》的重点是加强公共卫生机构及其工作人员、治疗、疫苗和诊断的当地制造，并确保快速应对疾病威胁。
+The Public Health Order focuses on strengthening public health institutions and its workforce , local manufacturing of therapeutics , vaccines and diagnostics , and ensuring fast response to disease threats .
+公共卫生秩序的重点是加强公共卫生机构及其工作人员、治疗、疫苗和诊断的本地制造，并确保快速应对疾病威胁。
+LCS-Wdiff:	0.8275862068965517 
+--FP--
+#95:
+Considering the significant progress China has made in energy conservation , an expert has called for even greater endeavors toward major climate action , considering its comparatively low cost in reducing carbon emissions .
+考虑到中国在能源节约方面取得的重大进展，一位专家呼吁，考虑到中国减少碳排放的成本相对较低，中国应该更加努力地采取重大气候行动。
+Despite the significant progress China has made in energy conservation , an expert has called for even greater endeavors toward major climate action , considering its comparatively low cost in reducing carbon emissions .
+尽管中国在节能方面取得了重大进展，但考虑到其在减少碳排放方面的成本相对较低，一位专家呼吁为重大气候行动做出更大的努力。
+LCS-Wdiff:	0.6 
+--FP--
+#99:
+But in Thailand , the figure was only 24 percent , Ari Ragavan said , citing data from analytics firm Cirium .
+但在泰国，这一数字只有24%，Ari Ragavan引用分析公司Cirium的数据说。
+But for Thailand , the figure was only 24 percent , Ari Ragavan said , citing data from analytics firm Cirium .
+但Ari Ragavan引用分析公司Cirium的数据称，泰国的这一数字仅为24%。
+LCS-Wdiff:	0.5263157894736842 
+--FP--
+#100:
+The most rigorous control measures must be included in their environmental impact assessment documents since some projects have the potential to directly affect the public with exhaust gas , noise , wastewater and hazardous waste .
+必须在其环境影响评估文件中纳入最严格的控制措施，因为一些项目可能会直接影响公众的废气、噪音、废水和危险废物。
+The most rigorous control measures must be included in their environmental impact assessment documents if some projects have the potential to directly affect the public with exhaust gas , noise , wastewater and hazardous waste .
+如果某些项目可能会因废气、噪音、废水和危险废物直接影响公众，则必须在其环境影响评估文件中纳入最严格的控制措施。
+LCS-Wdiff:	0.43333333333333335 
+--FP--
